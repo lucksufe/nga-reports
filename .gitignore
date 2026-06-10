@@ -1,0 +1,12 @@
+# 帖子详情HTML（太大，用论坛链接替代）
+**/posts/*.html
+
+# 日志、文档、缓存数据
+*.log
+*.md
+*.json
+*.tmp
+*.bak
+
+# LLM原始数据
+user_tracker/*/llm_raw/

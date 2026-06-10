@@ -1,0 +1,732 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>大时代 · 股市监控报告</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        header {
+            background: linear-gradient(135deg, #c0392b 0%, #e74c3c 100%);
+            color: white; padding: 30px 20px; text-align: center;
+            border-radius: 8px; margin-bottom: 30px;
+        }
+        header h1 { font-size: 1.8em; margin-bottom: 8px; }
+        header .meta { opacity: 0.85; }
+        .section {
+            background: white; border-radius: 8px; padding: 30px;
+            margin-bottom: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .section h2 {
+            color: #c0392b; margin-bottom: 20px;
+            padding-bottom: 10px; border-bottom: 2px solid #eee;
+        }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #eee; }
+        th { background: #f8f9fa; font-weight: 600; color: #c0392b; }
+        tr:hover { background: #f8f9fa; }
+        a.post-link { color: #c0392b; text-decoration: none; }
+        a.post-link:hover { text-decoration: underline; }
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 15px;
+        }
+        .card {
+            background: #f8f9fa; border-radius: 8px; padding: 20px;
+            border-left: 4px solid #c0392b;
+        }
+        .card h3 { color: #c0392b; margin-bottom: 10px; }
+        .card .meta { color: #666; font-size: 0.9em; }
+        .card ul { margin-top: 10px; padding-left: 20px; }
+        .sentiment {
+            display: inline-block; padding: 2px 10px;
+            border-radius: 12px; font-size: 0.9em;
+        }
+        .sentiment.positive { background: #d4edda; color: #155724; }
+        .sentiment.negative { background: #f8d7da; color: #721c24; }
+        .sentiment.mixed { background: #fff3cd; color: #856404; }
+        .sentiment.neutral { background: #e2e3e5; color: #383d41; }
+        .trend-box {
+            background: #fff3cd; border: 2px solid #ffc107;
+            border-radius: 8px; padding: 20px; margin-bottom: 20px;
+            text-align: center; font-size: 1.1em;
+        }
+        .optimism-bar {
+            display: flex; height: 30px; border-radius: 15px;
+            overflow: hidden; margin: 15px 0;
+        }
+        .optimism-bar .pos { background: #27ae60; }
+        .optimism-bar .neu { background: #95a5a6; }
+        .optimism-bar .neg { background: #e74c3c; }
+        .optimism-labels { display: flex; justify-content: space-between; font-size: 0.9em; }
+        footer { text-align: center; padding: 20px; color: #666; font-size: 0.9em; }
+        @media (max-width: 768px) {
+            .container { padding: 10px; }
+            header { padding: 20px 10px; border-radius: 0; margin-bottom: 15px; }
+            header h1 { font-size: 1.3em; }
+            .section { padding: 15px; margin-bottom: 15px; }
+            .section h2 { font-size: 1.1em; margin-bottom: 12px; }
+            table { display: block; overflow-x: auto; white-space: nowrap; }
+            th, td { padding: 8px 10px; font-size: 0.85em; }
+            .cards-grid { grid-template-columns: 1fr; }
+            .card { padding: 12px; }
+            .trend-box { padding: 12px; font-size: 0.95em; }
+            .optimism-labels { font-size: 0.8em; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>大时代 · 股市监控报告</h1>
+            <p class="meta">生成时间：2026-06-10 11:40 | 今日帖子：49</p>
+        </header>
+
+        <div class="section">
+            <h2>行情趋势</h2>
+            <div class="trend-box">
+                <strong>震荡，市场等待美国CPI数据，同时有资金托底迹象，但个股普遍下跌。</strong><br>
+                <span style="font-size:0.9em;color:#666">主要讨论美国CPI数据公布前的影响、个股如澄星股份和利通的交易机会、紫金和赛力斯等股票下跌、市场情绪悲观但有资金托底迹象。</span>
+            </div>
+            <h3>乐观程度</h3>
+            <div class="optimism-bar">
+                <div class="pos" style="width:15%"></div>
+                <div class="neu" style="width:15%"></div>
+                <div class="neg" style="width:70%"></div>
+            </div>
+            <div class="optimism-labels">
+                <span>乐观 15%</span>
+                <span>中性 15%</span>
+                <span>悲观 70%</span>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>热门标的</h2>
+            <table>
+                <thead><tr><th>名称</th><th>提及次数</th></tr></thead>
+                <tbody><tr><td>澄星股份</td><td>285</td></tr>
+<tr><td>利通</td><td>207</td></tr>
+<tr><td>银行</td><td>29</td></tr>
+<tr><td>红利</td><td>24</td></tr>
+<tr><td>紫金</td><td>25</td></tr>
+</tbody>
+            </table>
+        </div>
+
+        <div class="section"><h2>热帖分析</h2><div class="cards-grid">
+        <div class="card">
+            <h3><a href="posts/46957594.html" class="post-link">提醒一下，今晚美国公布5月cpi</a></h3>
+            <p class="meta">回复数：12</p>
+            <p><strong>摘要：</strong>讨论今晚美国5月CPI数据公布对股市的影响，预期差异和风险。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>市场预期2.9%，高于预期可能导致大跌。</li><li>实际数据可能高于预期，如4.8%。</li><li>数据已知，可能利空落地。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957675.html" class="post-link">再谈胜宏科技，今日是极好的买点</a></h3>
+            <p class="meta">回复数：6</p>
+            <p><strong>摘要：</strong>推荐胜宏科技为极好买点，基于基本面和技术分析。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>胜宏基本面好，成交萎缩预示拉升前兆。</li><li>大盘放量但胜宏缩量，变盘预兆。</li><li>有外部风险如CPI数据。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957503.html" class="post-link">这阳光电源，这么跌的他妈都不认识了</a></h3>
+            <p class="meta">回复数：12</p>
+            <p><strong>摘要：</strong>抱怨阳光电源股价大跌，单边下跌趋势。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>阳光电源单边下跌，可能A回130。</li><li>持仓体验难受，业绩反映在股价。</li><li>与其他股票如比亚迪比较。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46950951.html" class="post-link">澄星股份，发车！</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>推荐买入澄星股份，但无具体逻辑，用户反应不一。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>楼主看好澄星股份，但无具体逻辑。</li><li>其他用户等待抄底或质疑。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957679.html" class="post-link">银行股放长线哪个合适？</a></h3>
+            <p class="meta">回复数：4</p>
+            <p><strong>摘要：</strong>询问适合长期持有的银行股，讨论股息率差异。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>四大行股息率低，工行还行。</li><li>平安兴业更合适，股息率较高。</li><li>建行农行股息率3.7%，考虑其他如汇丰、招行。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957623.html" class="post-link">指数明显能感觉到有兜底了，应该是gjd</a></h3>
+            <p class="meta">回复数：4</p>
+            <p><strong>摘要：</strong>认为指数有国家队护盘，大金融板块拉升支撑。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>3900点不让砸指数。</li><li>四大行拉升护盘。</li><li>大金融板块拉升。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957325.html" class="post-link">赛力斯68了。。</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>赛力斯股价跌至68元，讨论汽车股整体下跌。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>赛力斯股价跌至68，可能抄底。</li><li>汽车股整体下跌，行业问题。</li><li>赛力斯口碑变差。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957188.html" class="post-link">沪电今天可以进了吗</a></h3>
+            <p class="meta">回复数：13</p>
+            <p><strong>摘要：</strong>讨论沪电股份是否适合买入，有分歧和风险因素。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>外围不稳定，风险高。</li><li>赌CPI数据，但可能提前反应。</li><li>逻辑未变，可逢低买入。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957292.html" class="post-link">紫金的市盈率是要跌到个位数吗</a></h3>
+            <p class="meta">回复数：12</p>
+            <p><strong>摘要：</strong>紫金矿业股价下跌，市盈率可能跌至个位数。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>紫金市盈率可能跌至个位数。</li><li>资金问题导致下跌。</li><li>与茅台比较，市值差异大。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957696.html" class="post-link">晃悠了一上午，下午是来个大的还是拉个大的？</a></h3>
+            <p class="meta">回复数：4</p>
+            <p><strong>摘要：</strong>预测下午市场走势，窄幅震荡或等待美股情况。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>市场窄幅震荡。</li><li>可能下午拉升或继续震荡。</li><li>等待美股情况。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46955869.html" class="post-link">你们有没有这种感觉，这么多年过去，大A是越来越看美股脸色了</a></h3>
+            <p class="meta">回复数：19</p>
+            <p><strong>摘要：</strong>抱怨A股依赖美股走势，缺乏独立性。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>A股从独立行情沦为看美股脸色。</li><li>科技牛依赖美国AI。</li><li>独立行情被证伪。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46951726.html" class="post-link">新的主线已浮出水面，写在两长海力士扩产之时</a></h3>
+            <p class="meta">回复数：13</p>
+            <p><strong>摘要：</strong>看好存储芯片和半导体材料投资机会，因AI需求拉动。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>AI算力需求拉动存储芯片。</li><li>SK海力士和长鑫科技扩产。</li><li>半导体材料赛道黄金发展。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957605.html" class="post-link">创新药这是真见底了？</a></h3>
+            <p class="meta">回复数：5</p>
+            <p><strong>摘要：</strong>讨论创新药板块是否见底，有质疑和谨慎观点。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>可能见底，可以加仓。</li><li>可能是科技对手盘，反弹不持续。</li><li>需要右侧确认。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46956866.html" class="post-link">我紫金大小姐裤衩子还是结实</a></h3>
+            <p class="meta">回复数：14</p>
+            <p><strong>摘要：</strong>紫金矿业股价下跌，但认为支撑强，国家队被套。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>紫金股价下跌，但裤衩结实（支撑）。</li><li>与纽蒙特比较，跌幅大。</li><li>国家队也被套。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957208.html" class="post-link">麻烦大神讲讲黄金现在是什么状态？</a></h3>
+            <p class="meta">回复数：16</p>
+            <p><strong>摘要：</strong>询问黄金价格走势和投资建议，预期下跌但长期持有。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>黄金下跌，可能到800。</li><li>加息潮压制金价。</li><li>长期持有或换实物金。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957630.html" class="post-link">老登是一日游还是要触底反弹啊</a></h3>
+            <p class="meta">回复数：12</p>
+            <p><strong>摘要：</strong>讨论传统价值股（老登股）是否反弹，怀疑持续性。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>多半一日游。</li><li>买科技的不会买老登。</li><li>老登股长期看跌。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46951808.html" class="post-link">空仓期，三省吾身贴</a></h3>
+            <p class="meta">回复数：3</p>
+            <p><strong>摘要：</strong>空仓期自我反思，谨慎看待市场不确定性。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>无法确定反弹方向。</li><li>外部不确定性高。</li><li>图形下降趋势未破。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957516.html" class="post-link">今晚牢美cpi是不是得稳一手</a></h3>
+            <p class="meta">回复数：4</p>
+            <p><strong>摘要：</strong>美国CPI数据前谨慎态度，预期利空。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>CPI高则利空落地，小低开。</li><li>CPI低则符合预期，但可能跳水。</li><li>物价感觉涨，CPI不乐观。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46956701.html" class="post-link">利通锁妖塔</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>利通电子股价下跌，投资者抱团取暖，悲观氛围。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>竞价跌停，悬着的心死透。</li><li>成本高，被套。</li><li>等出异动再买。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957682.html" class="post-link">不打了，这次真的不打了，投降了</a></h3>
+            <p class="meta">回复数：3</p>
+            <p><strong>摘要：</strong>投资者清仓销户，表达绝望和投降。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>打不过，投降清仓。</li><li>其他用户希望别走。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957438.html" class="post-link">观察到沃格光电</a></h3>
+            <p class="meta">回复数：11</p>
+            <p><strong>摘要：</strong>沃格光电走势强劲，每日深水洗后暴力拉。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>每天深水洗后暴力拉。</li><li>做正T舒服。</li><li>玻璃基板概念，但亏损。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957591.html" class="post-link">买不了创业板，中易占比高的有没有</a></h3>
+            <p class="meta">回复数：8</p>
+            <p><strong>摘要：</strong>询问创业板替代ETF，推荐多个ETF选项。</p>
+            <p><strong>情感：</strong><span class="sentiment neutral">neutral</span></p>
+            <ul><li>推荐ETF如515880。</li><li>通信ETF较好。</li><li>创业板成长ETF。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957698.html" class="post-link">分享一下今天上午的逗比操作</a></h3>
+            <p class="meta">回复数：1</p>
+            <p><strong>摘要：</strong>分享今天上午的操作失误，自嘲。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>主要分享图片，无具体观点。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957591.html" class="post-link">买不了创业板，中易占比高的有没有</a></h3>
+            <p class="meta">回复数：8</p>
+            <p><strong>摘要：</strong>询问创业板替代ETF，推荐多个ETF选项。</p>
+            <p><strong>情感：</strong><span class="sentiment neutral">neutral</span></p>
+            <ul><li>推荐ETF如515880。</li><li>通信ETF较好。</li><li>创业板成长ETF。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957698.html" class="post-link">分享一下今天上午的逗比操作</a></h3>
+            <p class="meta">回复数：1</p>
+            <p><strong>摘要：</strong>分享今天上午的操作失误，自嘲。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>主要分享图片，无具体观点。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957459.html" class="post-link">兄弟我们这样真的能等到恐慌盘吗</a></h3>
+            <p class="meta">回复数：10</p>
+            <p><strong>摘要：</strong>等待市场恐慌盘出现，但杀不出量。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>杀不出量，恐慌盘难等。</li><li>人人都等恐慌盘。</li><li>光通信转下跌才见底。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957622.html" class="post-link">长鑫或者HBM概念有什么小作文吗？板块集体拉了一波</a></h3>
+            <p class="meta">回复数：2</p>
+            <p><strong>摘要：</strong>长鑫和HBM概念股拉升，可能有小作文推动。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>合肥城建涨停，带动板块。</li><li>可能有小作文。</li><li>雅克科技爆拉。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957308.html" class="post-link">沪电的弹性怎么大到了现在这个样子</a></h3>
+            <p class="meta">回复数：14</p>
+            <p><strong>摘要：</strong>沪电股份波动性增加，从稳定变为剧烈。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>沪电波动变大，从稳变为剧烈。</li><li>可能空间不足开始震荡。</li><li>做T机会增加。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957529.html" class="post-link">wo艹，深科技拉直线了</a></h3>
+            <p class="meta">回复数：8</p>
+            <p><strong>摘要：</strong>深科技股价突然拉升，原因不明但与HBM相关。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>深科技拉升，原因不明。</li><li>可能跟HBM封装概念。</li><li>雅克科技涨停带动。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957374.html" class="post-link">27的紫金大小姐</a></h3>
+            <p class="meta">回复数：10</p>
+            <p><strong>摘要：</strong>紫金矿业股价跌至27元，从股息看估值高。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>紫金股价下跌，从30到27。</li><li>从股息看太贵，目标15元。</li><li>希望提高分红。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46944101.html" class="post-link">好消息 我居然还有涨停的票</a></h3>
+            <p class="meta">回复数：8</p>
+            <p><strong>摘要：</strong>持有涨停股票但前期割肉，喜忧参半。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>有涨停票，但割肉后剩不多。</li><li>无人机龙头涨三个涨停。</li><li>低空板块整体不行。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957615.html" class="post-link">从五月开始腰斩了，什么情况</a></h3>
+            <p class="meta">回复数：5</p>
+            <p><strong>摘要：</strong>账户从五月开始腰斩，困惑于原因和板块表现。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>五月腰斩，只红四天。</li><li>买中登股，科技涨时吸血。</li><li>大盘跌时红利护盘不跟。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957644.html" class="post-link">今天亏的比礼拜一还多</a></h3>
+            <p class="meta">回复数：1</p>
+            <p><strong>摘要：</strong>今天亏损更多，上午亏损后不敢看。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>上午亏损，下午不敢看。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46944280.html" class="post-link">六月主线难道是六氟化钨？</a></h3>
+            <p class="meta">回复数：11</p>
+            <p><strong>摘要：</strong>六氟化钨可能成为六月主线，昊华和中船领涨。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>昊华和中船辨识度高。</li><li>无视大盘杀跌拉板。</li><li>电子特气走稳。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957631.html" class="post-link">这算不算制度优势</a></h3>
+            <p class="meta">回复数：2</p>
+            <p><strong>摘要：</strong>讽刺大盘指数稳但个股跌，回合制游戏。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>跌得很厉害但大盘没怎么跌。</li><li>回合制游戏，轮到老登。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957548.html" class="post-link">可以开始分批进宽基了</a></h3>
+            <p class="meta">回复数：3</p>
+            <p><strong>摘要：</strong>建议分批投资宽基指数，情绪趋势值低为市场低点。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>情绪趋势值低，市场低点。</li><li>可以配置中证500或中证2000。</li><li>科技战斗力强。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957513.html" class="post-link">编辑 请版主删除</a></h3>
+            <p class="meta">回复数：9</p>
+            <p><strong>摘要：</strong>用户交易错误，持仓被卖，要求删帖。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>交易错误，持仓被卖。</li><li>可能是委托问题。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957206.html" class="post-link">大便特工吃大便</a></h3>
+            <p class="meta">回复数：4</p>
+            <p><strong>摘要：</strong>某股票大跌，无反弹，可能暴雷或跌破年线。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>股票大跌，无反弹。</li><li>可能跌破年线。</li><li>公司可能暴雷。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957134.html" class="post-link">红利都拉冒烟了</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>红利股上涨，但资金可能往防守板块切换。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>红利股上涨，人均1点多涨幅。</li><li>只涨科技，红利涨点怎么了。</li><li>资金往防守板块切换。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957621.html" class="post-link">看了坛里护垫换胜宏的帖子</a></h3>
+            <p class="meta">回复数：1</p>
+            <p><strong>摘要：</strong>跟随帖子换仓到胜宏科技，观望态度。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>跟了一手港胜看看。</li><li>听说帖主是毒奶。</li><li>护垫止盈剩观察仓。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957458.html" class="post-link">为啥重仓猛干就被暴击，开超市就白忙活</a></h3>
+            <p class="meta">回复数：2</p>
+            <p><strong>摘要：</strong>重仓被暴击，分散投资白忙活，沮丧情绪。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>重仓被暴击，开超市白忙。</li><li>选对3个还是白忙活。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46933763.html" class="post-link">银行证券会把大盘顶住吗？</a></h3>
+            <p class="meta">回复数：19</p>
+            <p><strong>摘要：</strong>讨论银行证券能否护盘，怀疑其效果。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>银行证券拉大盘顶不住。</li><li>拉这些会导致个股跌。</li><li>分化行情。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957536.html" class="post-link">电力是犯天条了吗</a></h3>
+            <p class="meta">回复数：6</p>
+            <p><strong>摘要：</strong>电力板块下跌厉害，仅次于有色。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>电力跌得厉害，仅次于有色。</li><li>技术回调。</li><li>电网也跌。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957597.html" class="post-link">卖出东土科技，买入江丰电子</a></h3>
+            <p class="meta">回复数：1</p>
+            <p><strong>摘要：</strong>换仓从东土科技到江丰电子，看好后者拉伸。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>东土科技跌到成本线，换仓。</li><li>江丰电子有拉伸迹象。</li><li>东土想拿还能拿。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957499.html" class="post-link">这就是熊市吗，亏的班都不想上了</a></h3>
+            <p class="meta">回复数：16</p>
+            <p><strong>摘要：</strong>熊市下亏损，投资红利低波等亏钱。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>买了红利低波、有色等亏钱。</li><li>结构牛，光存芯牛。</li><li>想不想上班不取决于盈亏。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957257.html" class="post-link">中大哥真永远不死了</a></h3>
+            <p class="meta">回复数：11</p>
+            <p><strong>摘要：</strong>赞赏某股票（中大哥）韧性，科技牛市支撑。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>中大哥大盘不好抱团，好时上涨。</li><li>光模块全球第一，业绩好。</li><li>科技牛市支撑。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957451.html" class="post-link">雅克战斗机，起飞迎敌！</a></h3>
+            <p class="meta">回复数：9</p>
+            <p><strong>摘要：</strong>雅克科技涨停，昊华也板，六氟化钨带动。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>雅克科技涨停，成本116多。</li><li>昊华也板。</li><li>六氟化钨带动。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957256.html" class="post-link">段永平:建议茅台拆股，便于中小投资者入场。</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>段永平建议茅台拆股，但被视为可能出货信号。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>段永平建议拆股。</li><li>可能是出货信号。</li><li>中小投资者不是傻。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="posts/46957277.html" class="post-link">怎么办啊 大佬们</a></h3>
+            <p class="meta">回复数：5</p>
+            <p><strong>摘要：</strong>求助被套股票，可能在SpaceX供应链，建议割肉。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>人麻了。</li><li>可能在SpaceX供应链，等上市。</li><li>被游资搞过，建议割肉。</li></ul>
+        </div></div></div>
+
+        <div class="section">
+            <h2>今日帖子列表</h2>
+            <table>
+                <thead>
+                    <tr><th>标题</th><th>作者</th><th>回复数</th></tr>
+                </thead>
+                <tbody>
+                    
+        <tr>
+            <td><a href="posts/46957594.html" class="post-link">提醒一下，今晚美国公布5月cpi</a></td>
+            <td>龙龍曨</td>
+            <td><strong>13</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957675.html" class="post-link">再谈胜宏科技，今日是极好的买点</a></td>
+            <td>awayfaraway</td>
+            <td><strong>6</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957503.html" class="post-link">这阳光电源，这么跌的他妈都不认识了</a></td>
+            <td>回魂記</td>
+            <td><strong>12</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46950951.html" class="post-link">澄星股份，发车！</a></td>
+            <td>Lovebreezes</td>
+            <td><strong>285</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957679.html" class="post-link">银行股放长线哪个合适？</a></td>
+            <td>灬笑花丶丨</td>
+            <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957623.html" class="post-link">指数明显能感觉到有兜底了，应该是gjd</a></td>
+            <td>金牌老王</td>
+            <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957325.html" class="post-link">赛力斯68了。。</a></td>
+            <td>四个倒霉蛋</td>
+            <td><strong>21</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957188.html" class="post-link">沪电今天可以进了吗</a></td>
+            <td>牛形态的萌猫德</td>
+            <td><strong>12</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957292.html" class="post-link">紫金的市盈率是要跌到个位数吗</a></td>
+            <td>fangchenown</td>
+            <td><strong>12</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957696.html" class="post-link">晃悠了一上午，下午是来个大的还是拉个大的？</a></td>
+            <td>圣光之殇11</td>
+            <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46955869.html" class="post-link">你们有没有这种感觉，这么多年过去，大A是越来越看美股脸色了</a></td>
+            <td>八荒茗</td>
+            <td><strong>48</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46951726.html" class="post-link">新的主线已浮出水面，写在两长海力士扩产之时</a></td>
+            <td>绝望之诗</td>
+            <td><strong>184</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957605.html" class="post-link">创新药这是真见底了？</a></td>
+            <td>大唐发电股东</td>
+            <td><strong>4</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46956866.html" class="post-link">我紫金大小姐裤衩子还是结实</a></td>
+            <td>Violet·Evergarden</td>
+            <td><strong>13</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957208.html" class="post-link">麻烦大神讲讲黄金现在是什么状态？</a></td>
+            <td>肠胃不好的人</td>
+            <td><strong>18</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957630.html" class="post-link">老登是一日游还是要触底反弹啊</a></td>
+            <td>小剑人沉沉沉</td>
+            <td><strong>11</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46951808.html" class="post-link">空仓期，三省吾身贴</a></td>
+            <td>知者默</td>
+            <td><strong>85</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957516.html" class="post-link">今晚牢美cpi是不是得稳一手</a></td>
+            <td>FGFD331</td>
+            <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46956701.html" class="post-link">利通锁妖塔</a></td>
+            <td>mikasung</td>
+            <td><strong>207</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957682.html" class="post-link">不打了，这次真的不打了，投降了</a></td>
+            <td>wanlibobo</td>
+            <td><strong>2</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957438.html" class="post-link">观察到沃格光电</a></td>
+            <td>聍听雨声</td>
+            <td><strong>10</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957591.html" class="post-link">买不了创业板，中易占比高的有没有</a></td>
+            <td>加速道减速</td>
+            <td><strong>7</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957698.html" class="post-link">分享一下今天上午的逗比操作</a></td>
+            <td>zxl9547</td>
+            <td><strong>0</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957591.html" class="post-link">买不了创业板，中易占比高的有没有</a></td>
+            <td>加速道减速</td>
+            <td><strong>7</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957698.html" class="post-link">分享一下今天上午的逗比操作</a></td>
+            <td>zxl9547</td>
+            <td><strong>0</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957459.html" class="post-link">兄弟我们这样真的能等到恐慌盘吗</a></td>
+            <td>风走猜不透</td>
+            <td><strong>9</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957622.html" class="post-link">长鑫或者HBM概念有什么小作文吗？板块集体拉了一波</a></td>
+            <td>lin1626</td>
+            <td><strong>1</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957308.html" class="post-link">沪电的弹性怎么大到了现在这个样子</a></td>
+            <td>woodk1d</td>
+            <td><strong>13</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957529.html" class="post-link">wo艹，深科技拉直线了</a></td>
+            <td>半钱菊花</td>
+            <td><strong>7</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957374.html" class="post-link">27的紫金大小姐</a></td>
+            <td>冰冰爱吃糖葫芦</td>
+            <td><strong>9</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46944101.html" class="post-link">好消息 我居然还有涨停的票</a></td>
+            <td>lamystudio</td>
+            <td><strong>7</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957615.html" class="post-link">从五月开始腰斩了，什么情况</a></td>
+            <td>wuliaodirena</td>
+            <td><strong>4</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957644.html" class="post-link">今天亏的比礼拜一还多</a></td>
+            <td>San星稀</td>
+            <td><strong>0</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46944280.html" class="post-link">六月主线难道是六氟化钨？</a></td>
+            <td>对于非酋来说打猎才是出路</td>
+            <td><strong>30</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957631.html" class="post-link">这算不算制度优势</a></td>
+            <td>Hello_darkness1930</td>
+            <td><strong>1</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957548.html" class="post-link">可以开始分批进宽基了</a></td>
+            <td>ckuire</td>
+            <td><strong>2</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957513.html" class="post-link">编辑 请版主删除</a></td>
+            <td>紫晶男爵i</td>
+            <td><strong>8</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957206.html" class="post-link">大便特工吃大便</a></td>
+            <td>aussieliu</td>
+            <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957134.html" class="post-link">红利都拉冒烟了</a></td>
+            <td>移山计划</td>
+            <td><strong>24</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957621.html" class="post-link">看了坛里护垫换胜宏的帖子</a></td>
+            <td>ys97010</td>
+            <td><strong>0</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957458.html" class="post-link">为啥重仓猛干就被暴击，开超市就白忙活</a></td>
+            <td>啊呃呃呃呃呃123</td>
+            <td><strong>1</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46933763.html" class="post-link">银行证券会把大盘顶住吗？</a></td>
+            <td>我还以天到了</td>
+            <td><strong>29</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957536.html" class="post-link">电力是犯天条了吗</a></td>
+            <td>k20220819</td>
+            <td><strong>5</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957597.html" class="post-link">卖出东土科技，买入江丰电子</a></td>
+            <td>sun4229xx</td>
+            <td><strong>0</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957499.html" class="post-link">这就是熊市吗，亏的班都不想上了</a></td>
+            <td>AAA大肥猪批发</td>
+            <td><strong>15</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957257.html" class="post-link">中大哥真永远不死了</a></td>
+            <td>cyhztcyhzt</td>
+            <td><strong>10</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957451.html" class="post-link">雅克战斗机，起飞迎敌！</a></td>
+            <td>八荒茗</td>
+            <td><strong>7</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957256.html" class="post-link">段永平:建议茅台拆股，便于中小投资者入场。</a></td>
+            <td>金牌老王</td>
+            <td><strong>21</strong></td>
+        </tr>
+        <tr>
+            <td><a href="posts/46957277.html" class="post-link">怎么办啊 大佬们</a></td>
+            <td>卡尔维因的至邪造物</td>
+            <td><strong>4</strong></td>
+        </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <footer>
+            NGA大时代监控自动生成 | 2026-06-10 11:40
+        </footer>
+    </div>
+</body>
+</html>

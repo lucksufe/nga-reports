@@ -1,0 +1,594 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NGA论坛全量分析报告</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f5f5;
+            color: #333;
+            line-height: 1.6;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        header {
+            background: linear-gradient(135deg, #1a3959 0%, #2c5787 100%);
+            color: white;
+            padding: 30px 20px;
+            text-align: center;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+        header h1 { font-size: 1.8em; margin-bottom: 8px; }
+        header .meta { opacity: 0.8; }
+        .section {
+            background: white;
+            border-radius: 8px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .section h2 {
+            color: #1a3959;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #eee;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+        }
+        th {
+            background: #f8f9fa;
+            font-weight: 600;
+            color: #1a3959;
+        }
+        tr:hover { background: #f8f9fa; }
+        a.post-link {
+            color: #2c5787;
+            text-decoration: none;
+        }
+        a.post-link:hover {
+            text-decoration: underline;
+            color: #1a3959;
+        }
+        .cards-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+            gap: 15px;
+        }
+        .card {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 20px;
+            border-left: 4px solid #2c5787;
+        }
+        .card h3 {
+            color: #1a3959;
+            margin-bottom: 10px;
+        }
+        .card .meta { color: #666; font-size: 0.9em; }
+        .card ul { margin-top: 10px; padding-left: 20px; }
+        .sentiment {
+            display: inline-block;
+            padding: 2px 10px;
+            border-radius: 12px;
+            font-size: 0.9em;
+        }
+        .sentiment.positive { background: #d4edda; color: #155724; }
+        .sentiment.negative { background: #f8d7da; color: #721c24; }
+        .sentiment.mixed { background: #fff3cd; color: #856404; }
+        .sentiment.neutral { background: #e2e3e5; color: #383d41; }
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: #666;
+            font-size: 0.9em;
+        }
+        @media (max-width: 768px) {
+            .container { padding: 10px; }
+            header { padding: 20px 10px; border-radius: 0; margin-bottom: 15px; }
+            header h1 { font-size: 1.3em; }
+            .section { padding: 15px; margin-bottom: 15px; }
+            .section h2 { font-size: 1.1em; margin-bottom: 12px; }
+            table { display: block; overflow-x: auto; white-space: nowrap; }
+            th, td { padding: 8px 10px; font-size: 0.85em; }
+            .cards-grid { grid-template-columns: 1fr; }
+            .card { padding: 12px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>NGA论坛全量分析报告</h1>
+            <p class="meta">生成时间：2026-06-10 10:04</p>
+        </header>
+
+        <div class="section">
+            <h2>活跃版块排名</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>版块</th>
+                        <th>分类</th>
+                        <th>帖子数</th>
+                        <th>最热帖子</th>
+                        <th>回复数</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+        <tr>
+            <td>寂寞的车</td>
+            <td>网事杂谈</td>
+            <td>66</td>
+            <td><a href="posts/46915998.html" class="post-link">小米顶配为啥不上个带磷酸铁锂的版本</a></td>
+            <td>153</td>
+        </tr>
+        <tr>
+            <td>消费电子 IT新闻</td>
+            <td>IT软硬件</td>
+            <td>56</td>
+            <td><a href="posts/46952271.html" class="post-link">原来网络测评真的不利于提振内需？</a></td>
+            <td>162</td>
+        </tr>
+        <tr>
+            <td>桌游讨论</td>
+            <td>网事杂谈</td>
+            <td>54</td>
+            <td><a href="posts/46533382.html" class="post-link">[众筹中] [抽奖] 2077原作，夜之城巨献！赛博朋克红TRPG  预售开启！</a></td>
+            <td>90</td>
+        </tr>
+        <tr>
+            <td>生命之杯</td>
+            <td>网事杂谈</td>
+            <td>49</td>
+            <td><a href="posts/44848893.html" class="post-link">[菠菜] 2026年美加墨世界杯 球区菠菜领低保专用帖</a></td>
+            <td>338</td>
+        </tr>
+        <tr>
+            <td>网事杂谈</td>
+            <td>网事杂谈</td>
+            <td>44</td>
+            <td><a href="posts/46025352.html" class="post-link">拼多多五折互助(集中贴)</a></td>
+            <td>27607</td>
+        </tr>
+        <tr>
+            <td>漩涡书院</td>
+            <td>网事杂谈</td>
+            <td>41</td>
+            <td><a href="posts/19315503.html" class="post-link">小说评分</a></td>
+            <td>200</td>
+        </tr>
+        <tr>
+            <td>职场人生</td>
+            <td>网事杂谈</td>
+            <td>41</td>
+            <td><a href="posts/43936501.html" class="post-link">[吐槽减压楼]打工人的怒火焚烧炉</a></td>
+            <td>718</td>
+        </tr>
+        <tr>
+            <td>运动与奥运</td>
+            <td>网事杂谈</td>
+            <td>40</td>
+            <td><a href="posts/45255734.html" class="post-link">跑步一个月，第一次一口气5公里，纪念一下</a></td>
+            <td>158</td>
+        </tr>
+        <tr>
+            <td>国际新闻</td>
+            <td>网事杂谈</td>
+            <td>37</td>
+            <td><a href="posts/46951917.html" class="post-link">新加坡媒体：日本的每一个公厕都干净得无可挑剔</a></td>
+            <td>122</td>
+        </tr>
+        <tr>
+            <td>晴风村</td>
+            <td>网事杂谈</td>
+            <td>36</td>
+            <td><a href="posts/43848667.html" class="post-link">女朋友叫我买房，我想来想去，拉倒算了，楼主去搞钱了</a></td>
+            <td>1170</td>
+        </tr>
+        <tr>
+            <td>音乐影视</td>
+            <td>网事杂谈</td>
+            <td>36</td>
+            <td><a href="posts/46935638.html" class="post-link">原来周深粉丝和胡彦斌粉丝有深仇大恨吗？</a></td>
+            <td>185</td>
+        </tr>
+        <tr>
+            <td>家居装修</td>
+            <td>网事杂谈</td>
+            <td>36</td>
+            <td><a href="posts/40350999.html" class="post-link">老哥们好,我是帘佬,我又来解答窗帘了.</a></td>
+            <td>2094</td>
+        </tr>
+        <tr>
+            <td>模型手办</td>
+            <td>网事杂谈</td>
+            <td>36</td>
+            <td><a href="posts/45693063.html" class="post-link">[拼装] 寿屋机娘汇总 [2026-06-09预售] 阿尔卡纳蒂亚 (轻松卡纳 </a></td>
+            <td>530</td>
+        </tr>
+        <tr>
+            <td>萌萌宠物</td>
+            <td>网事杂谈</td>
+            <td>36</td>
+            <td><a href="posts/11147428.html" class="post-link">萌宠求主/征婚交友</a></td>
+            <td>163</td>
+        </tr>
+        <tr>
+            <td>我们的骑迹</td>
+            <td>网事杂谈</td>
+            <td>36</td>
+            <td><a href="posts/27466739.html" class="post-link">撸骑行台一个月的增长</a></td>
+            <td>1166</td>
+        </tr>
+        <tr>
+            <td>麻将</td>
+            <td>网事杂谈</td>
+            <td>36</td>
+            <td><a href="posts/46878214.html" class="post-link">被英国玩家冲了 这UR返厂重做大家可以散了</a></td>
+            <td>54</td>
+        </tr>
+        <tr>
+            <td>作家协会</td>
+            <td>网事杂谈</td>
+            <td>36</td>
+            <td><a href="posts/334962.html" class="post-link">光阴似火箭，魔兽近一年。（完整版已更新在第一页）</a></td>
+            <td>660</td>
+        </tr>
+        <tr>
+            <td>二手交易</td>
+            <td>IT软硬件</td>
+            <td>36</td>
+            <td><a href="posts/36959650.html" class="post-link">[不按格式会被删除] 二手交易集中求购/收购/询价版(请在这里发帖)</a></td>
+            <td>52</td>
+        </tr>
+        <tr>
+            <td>篮球</td>
+            <td>网事杂谈</td>
+            <td>35</td>
+            <td><a href="posts/46943678.html" class="post-link">詹皇正式向意大利宣战，catch me if u can</a></td>
+            <td>92</td>
+        </tr>
+        <tr>
+            <td>厨艺美食交流</td>
+            <td>网事杂谈</td>
+            <td>35</td>
+            <td><a href="posts/46900941.html" class="post-link">哎，西红柿炒蛋，被加糖的偷家了</a></td>
+            <td>111</td>
+        </tr>
+        <tr>
+            <td>发烧友</td>
+            <td>网事杂谈</td>
+            <td>35</td>
+            <td><a href="posts/46930415.html" class="post-link">[求助]求推荐适合听摇滚的音箱</a></td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td>程序员职业交流</td>
+            <td>网事杂谈</td>
+            <td>35</td>
+            <td><a href="posts/21450710.html" class="post-link">[求助] 我进去帖子看到各位都是数字id，都不显示昵称，谁是谁都分不清楚？我电脑</a></td>
+            <td>1582</td>
+        </tr>
+        <tr>
+            <td>剧本杀(谋杀之谜)</td>
+            <td>网事杂谈</td>
+            <td>35</td>
+            <td><a href="posts/31856623.html" class="post-link">[无推理剧透]个人剧本测评日记</a></td>
+            <td>291</td>
+        </tr>
+        <tr>
+            <td>瓦斯琪尓水族馆</td>
+            <td>网事杂谈</td>
+            <td>35</td>
+            <td><a href="posts/46657964.html" class="post-link">[新手入坑] 纯纯新手求助，桌面迷你小鱼缸怎么弄？</a></td>
+            <td>19</td>
+        </tr>
+        <tr>
+            <td>爱与家庭</td>
+            <td>网事杂谈</td>
+            <td>35</td>
+            <td><a href="posts/43533540.html" class="post-link">朋友的女儿废了。被朋友骂完就开始装用功了，掏出语文课本说从背古文开始。</a></td>
+            <td>68</td>
+        </tr>
+        <tr>
+            <td>吟瑟梨茗</td>
+            <td>网事杂谈</td>
+            <td>35</td>
+            <td><a href="posts/39450995.html" class="post-link">练琴记录贴</a></td>
+            <td>322</td>
+        </tr>
+        <tr>
+            <td>PC硬件配置</td>
+            <td>IT软硬件</td>
+            <td>35</td>
+            <td><a href="posts/46816444.html" class="post-link">[diy配置贴]26年618装机配置  -  本帖工作日更新</a></td>
+            <td>264</td>
+        </tr>
+        <tr>
+            <td>手机研究所</td>
+            <td>IT软硬件</td>
+            <td>35</td>
+            <td><a href="posts/46952271.html" class="post-link">原来网络测评真的不利于提振内需？</a></td>
+            <td>162</td>
+        </tr>
+        <tr>
+            <td>消费踩坑避雷</td>
+            <td>IT软硬件</td>
+            <td>35</td>
+            <td><a href="posts/45374113.html" class="post-link">千万不要买徕芬</a></td>
+            <td>93</td>
+        </tr>
+        <tr>
+            <td>大时代</td>
+            <td>网事杂谈</td>
+            <td>34</td>
+            <td><a href="posts/45974302.html" class="post-link">自立自强，科学技术打头阵</a></td>
+            <td>137619</td>
+        </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class='section'><h2>热帖深度分析（LLM）</h2><div class='cards-grid'>
+        <div class="card">
+            <h3>拼多多五折互助(集中贴)</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>拼多多互助码分享集中贴，用户交换邀请码以获取优惠。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>鼓励在本贴发帖互助码</li><li>集中管理互助信息</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>自立自强，科学技术打头阵</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>楼主分享个人投资观点，强调独立思考和不做指导。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>强调个人研究</li><li>逻辑讨论个股</li><li>警告不回复自爆卡车</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>超短线交流贴</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>超短线交易经验分享，强调交易规则和避免风险。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>放量阴线不做</li><li>预期断板不做</li><li>下跌趋势不做</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>女方要的彩礼但是没有陪嫁，和父母产生了分歧，请大伙评评理</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>楼主因彩礼无陪嫁与父母分歧，寻求网友意见。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>建议财产保全</li><li>彩礼带回小家即可</li><li>婚姻需谨慎考虑</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>小米顶配为啥不上个带磷酸铁锂的版本</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>讨论小米汽车电池类型选择，比较三元锂和磷酸铁锂。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>三元锂适合高性能</li><li>磷酸铁锂可能技术不足</li><li>其他品牌做法参考</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>本来看不上零跑的，看了一下C11，这车除了品牌不够硬没啥不买的理由</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>楼主赞赏零跑C11内饰和性价比，但品牌较弱。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>内饰好且高级</li><li>价格合理</li><li>智驾可能较弱</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>新加坡媒体：日本的每一个公厕都干净得无可挑剔</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>新加坡媒体夸日本公厕干净，网友调侃为软文。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>怀疑是软文</li><li>全球卫生状况类似</li><li>嘲讽喝厕所水</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>小说评分</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>小说评分讨论贴，为书荒用户提供参考。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>鼓励用户评分小说</li><li>建议评分区名字</li><li>促进社区互动</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>笑傲剑宗定位其实是金庸修书后留下的bug</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>分析《笑傲江湖》中剑气宗设定的矛盾点。</p>
+            <p><strong>情感：</strong><span class="sentiment neutral">neutral</span></p>
+            <ul><li>剑气宗宗旨矛盾</li><li>小说bug多</li><li>修改后问题依旧</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>讲真，你买过几件正版球衣</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>讨论正版球衣购买经历和价格感受。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>球衣价格贵</li><li>买过或没买过正版</li><li>性价比考虑</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>原来周深粉丝和胡彦斌粉丝有深仇大恨吗？</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>探讨周深和胡彦斌粉丝之间的矛盾。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>粉丝冲突激烈</li><li>魔怔粉丝行为</li><li>控评问题严重</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>半夜抖音刷到个武侠话题</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>讨论穿越武侠世界角色选择，分析利弊。</p>
+            <p><strong>情感：</strong><span class="sentiment neutral">neutral</span></p>
+            <ul><li>选择欧阳克躺平</li><li>杨康富二代但风险</li><li>慕容复复国难</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>詹皇正式向意大利宣战，catch me if u can</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>勒布朗·詹姆斯晒高尔夫挑衅意大利，网友调侃。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>行为似挑衅</li><li>猫鼠游戏比喻</li><li>人品受争议</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>科比当年有布伦森这么独吗？</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>讨论科比与布伦森的打球风格是否自私。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>科比独打历史</li><li>布伦森独打影响球队</li><li>批评球员风格</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>老哥们好,我是帘佬,我又来解答窗帘了.</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>楼帘佬回归解答窗帘问题，提供专业建议。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>免费咨询服务</li><li>经验丰富</li><li>产品更新趋势</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>主业变副业，需要室内设计的进来</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>楼主转行副业室内设计，寻求客户合作。</p>
+            <p><strong>情感：</strong><span class="sentiment neutral">neutral</span></p>
+            <ul><li>设计费合理</li><li>行业变化影响</li><li>寻求长期合作</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>[拼装] 寿屋机娘汇总 [2026-06-09预售] 阿尔卡纳蒂亚 (轻松卡纳 露蜜提雅)</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>寿屋机娘产品汇总和更新，供爱好者参考。</p>
+            <p><strong>情感：</strong><span class="sentiment neutral">neutral</span></p>
+            <ul><li>产品列表详细</li><li>预售信息更新</li><li>收藏指南</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>第一次做高达刻线改造，划线画了两小时(尝试将此贴更新为长期贴，希望不会烂尾)</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>分享高达模型刻线改造的挑战和练习过程。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>刻线操作困难</li><li>需要长时间练习</li><li>耐心至关重要</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>哎，西红柿炒蛋，被加糖的偷家了</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>楼主因西红柿炒蛋加糖与孩子口味冲突，感叹甜咸之争。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>甜咸口味差异</li><li>孩子受学校影响</li><li>地方饮食习惯</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>请大家帮帮怕腥的人 什么肉不腥</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>楼主怕腥，寻求烹饪去腥方法和肉类推荐。</p>
+            <p><strong>情感：</strong><span class="sentiment neutral">neutral</span></p>
+            <ul><li>怕腥问题困扰</li><li>去腥技巧多样</li><li>肉类选择建议</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>頔子，你知道你老婆媚黑吗，有图有真相</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>讨论李纯媚黑传闻，涉及纹身和争议。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>媚黑传闻无实锤</li><li>纹身引发猜测</li><li>粉丝争论</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>曹云金辟谣了所谓的姐夫以及师娘下跪</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>曹云金直播辟谣与郭德纲的传闻，引发讨论。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>辟谣行为受质疑</li><li>蹭热度批评</li><li>作品质量关注</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>看到云瀑了，海啸一样</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>分享桂林云瀑自然美景，用户赞叹壮观。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>景色美观</li><li>壮观震撼</li><li>积极分享</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>计划8月川西自驾10天，这个路线咋样(有修改)</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>讨论川西自驾路线计划，寻求建议和修改。</p>
+            <p><strong>情感：</strong><span class="sentiment neutral">neutral</span></p>
+            <ul><li>路线推荐多样</li><li>路况提醒重要</li><li>风景与时间平衡</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>见习宠物医生，大家养宠物的问题都可以跟我说呀。</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>见习宠物医生免费解答宠物问题。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>提供免费咨询</li><li>医疗经验丰富</li><li>帮助宠物主人</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>跑步一个月，第一次一口气5公里，纪念一下</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>分享跑步一个月达成5公里的成就和进步。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>运动进步显著</li><li>设备建议参考</li><li>天气影响计划</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>[乒乓球] 在我近七十的老妈那真实感受到乒乓饭圈的可怕</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>讨论乒乓球饭圈文化，引发民族情绪争议。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>饭圈现象批判</li><li>民族情绪偏激</li><li>媒体影响认知</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>被英国玩家冲了 这UR返厂重做大家可以散了</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>讨论《雀魂》游戏问题，如AI皮肤和卡顿。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>游戏卡顿严重</li><li>AI皮肤质量差</li><li>玩家不满增加</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>麻将完全是靠运气么？还是靠技术？</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>讨论麻将中运气与技术的平衡关系。</p>
+            <p><strong>情感：</strong><span class="sentiment neutral">neutral</span></p>
+            <ul><li>运气短期影响大</li><li>技术决定长期段位</li><li>两者共同作用</li></ul>
+            
+        </div>
+        <div class="card">
+            <h3>[求助]求推荐适合听摇滚的音箱</h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>求推荐适合听摇滚的音箱，预算4k内。</p>
+            <p><strong>情感：</strong><span class="sentiment neutral">neutral</span></p>
+            <ul><li>音质优先考虑</li><li>设备搭配建议</li><li>品牌推荐参考</li></ul>
+            
+        </div></div></div>
+
+        <footer>
+            NGA论坛机器人自动生成 | 2026-06-10 10:04
+        </footer>
+    </div>
+</body>
+</html>

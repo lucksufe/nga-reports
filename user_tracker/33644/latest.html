@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>用户跟踪: Smallthing</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f5f5; color: #333; line-height: 1.6;
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        header {
+            background: linear-gradient(135deg, #8e44ad 0%, #9b59b6 100%);
+            color: white; padding: 30px 20px; text-align: center;
+            border-radius: 8px; margin-bottom: 30px;
+        }
+        header h1 { font-size: 1.8em; margin-bottom: 8px; }
+        header .meta { opacity: 0.85; }
+        .section {
+            background: white; border-radius: 8px; padding: 30px;
+            margin-bottom: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .section h2 {
+            color: #8e44ad; margin-bottom: 20px;
+            padding-bottom: 10px; border-bottom: 2px solid #eee;
+        }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #eee; }
+        th { background: #f8f9fa; font-weight: 600; color: #8e44ad; }
+        tr:hover { background: #f8f9fa; }
+        a.post-link { color: #8e44ad; text-decoration: none; }
+        a.post-link:hover { text-decoration: underline; }
+        .sentiment {
+            display: inline-block; padding: 2px 10px;
+            border-radius: 12px; font-size: 0.9em;
+        }
+        .sentiment.positive { background: #d4edda; color: #155724; }
+        .sentiment.negative { background: #f8d7da; color: #721c24; }
+        .debate-item {
+            padding: 12px; margin-bottom: 10px; background: #f8f9fa;
+            border-radius: 6px;
+        }
+        .debate-item .status {
+            display: inline-block; width: 20px; height: 20px;
+            text-align: center; border-radius: 50%; font-size: 0.8em;
+            line-height: 20px; margin-right: 8px;
+        }
+        .debate-item .status.ok { background: #d4edda; color: #155724; }
+        .debate-item .status.fail { background: #f8d7da; color: #721c24; }
+        .debate-content { color: #666; font-size: 0.9em; margin-top: 5px; }
+        .back-link { display: inline-block; margin-bottom: 15px; color: #8e44ad; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        footer { text-align: center; padding: 20px; color: #666; font-size: 0.9em; }
+        @media (max-width: 768px) {
+            .container { padding: 10px; }
+            header { padding: 20px 10px; border-radius: 0; margin-bottom: 15px; }
+            header h1 { font-size: 1.3em; }
+            .section { padding: 15px; margin-bottom: 15px; }
+            .section h2 { font-size: 1.1em; margin-bottom: 12px; }
+            table { display: block; overflow-x: auto; white-space: nowrap; }
+            th, td { padding: 8px 10px; font-size: 0.85em; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="../index.html" class="back-link">&larr; 返回用户列表</a>
+        <header>
+            <h1>用户跟踪: Smallthing</h1>
+            <p class="meta">UID: 33644 | 生成时间: 2026-06-09 16:04 | 帖子: 43 | 有问题: 0</p>
+        </header>
+
+        <div class="section">
+            <h2>帖子分析</h2>
+            <table>
+                <thead><tr><th>帖子</th><th>回复</th><th>有问题</th><th>类型</th><th>描述</th></tr></thead>
+                <tbody>
+        <tr>
+            <td><a href="posts/45338111.html" class="post-link">牛逼PLUS 俩垃圾团队还在我电脑上抢起KPI来了</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/45221410.html" class="post-link">重新玩如果走罪徒管风琴路线进入圣堡会不会影响NPC的存活等等？</a></td>
+            <td>3</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/45151251.html" class="post-link">自用XGPU一年2026.8.23过期，出拳头绑定回点血，有意联系</a></td>
+            <td>1</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/45118911.html" class="post-link">28562是啥？</a></td>
+            <td>4</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/41384870.html" class="post-link">大佬们 一家人 要出去玩了 求2张华住会的体验金卡</a></td>
+            <td>9</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/40273069.html" class="post-link">650W电源能带4090D吗？</a></td>
+            <td>16</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/40267547.html" class="post-link">7100 2tb 和 sn850x 2tb 留一个，留哪个？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/38737214.html" class="post-link">出个微星迫击炮 b560m mortar wifi 成色 99，功能正常，升级 13 代闲置。</a></td>
+            <td>3</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/38625626.html" class="post-link">推荐一个配合12400 24*7开机的主板？</a></td>
+            <td>1</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/37731055.html" class="post-link">13 Pro 远峰蓝 128G 国行 电池84%</a></td>
+            <td>9</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/36788579.html" class="post-link">所以那个月亮旁边的红点到底是啥</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/36752264.html" class="post-link">FF16给我整沉默了。。。</a></td>
+            <td>9</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/36465002.html" class="post-link">1080和4070哪个给屋里增温少？</a></td>
+            <td>4</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/36397083.html" class="post-link">支持4k60外屏的dock推荐一个</a></td>
+            <td>8</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/36339722.html" class="post-link">ap201 和趣造 2 对比不同点在哪里，黑色的哪个好看？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/35856243.html" class="post-link">帖子被锁了 发下4k120屏摄</a></td>
+            <td>6</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/34884071.html" class="post-link">一个疑问：年龄差问题，是我数学不好还是剧情bug？</a></td>
+            <td>9</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/34731154.html" class="post-link">收一套PDD 金百达4000 16GB*2</a></td>
+            <td>1</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/34676550.html" class="post-link">华硕H610-A能不能带13400或者13500</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/34637211.html" class="post-link">收一个致钛7100 1T，代下或者二手都可以</a></td>
+            <td>4</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/34116169.html" class="post-link">请问各种大佬，双手柄，一号在玩 ，二号手柄开机瞬间会中断一号手柄的游戏并弹框 这个功能可以关闭吗？</a></td>
+            <td>2</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/34091671.html" class="post-link">[有新玩意儿]亲测有些加速器和老任服务器的mtu包分片有问题，连上以后把ns当前连接的mtu从140</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/33484124.html" class="post-link">[又菜又爱玩]开始忘记转移存档，没有继承，是不是之后就没戏了，只能傻打？</a></td>
+            <td>4</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/32618107.html" class="post-link">家人们，2500以下没什么硬伤没传出过什么设计问题的笔记本推一个</a></td>
+            <td>15</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/32462923.html" class="post-link">XB3和XB3 DLC是全球统一SKU吗</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/32206105.html" class="post-link">有没有用NS主副机白嫖过同一份数字版rise的伙伴确认一下是否可以联机？</a></td>
+            <td>4</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/30313181.html" class="post-link">有用12代核显打dota2的吗 ? 效果如何啊。</a></td>
+            <td>3</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/28721209.html" class="post-link">10月金会员</a></td>
+            <td>13</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/28689534.html" class="post-link">我的头像在某个url无法加载，多次刷新就知道了</a></td>
+            <td>1</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="posts/28076412.html" class="post-link">求助360老玩家，街霸4</a></td>
+            <td>9</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr></tbody>
+            </table>
+        </div>
+
+        
+
+        <div class="section">
+            <h2>用户帖子列表</h2>
+            <table>
+                <thead><tr><th>标题</th><th>回复数</th><th>发帖时间</th></tr></thead>
+                <tbody><tr><td><a href="posts/45338111.html" class="post-link">牛逼PLUS 俩垃圾团队还在我电脑上抢起KPI来了</a></td><td>33</td><td>2025-10-14 04:38</td></tr><tr><td><a href="posts/45221410.html" class="post-link">重新玩如果走罪徒管风琴路线进入圣堡会不会影响NPC的存活等等？</a></td><td>2</td><td>2025-09-27 14:50</td></tr><tr><td><a href="posts/45151251.html" class="post-link">自用XGPU一年2026.8.23过期，出拳头绑定回点血，有意联系</a></td><td>0</td><td>2025-09-19 00:54</td></tr><tr><td><a href="posts/45118911.html" class="post-link">28562是啥？</a></td><td>3</td><td>2025-09-15 14:22</td></tr><tr><td><a href="posts/41384870.html" class="post-link">大佬们 一家人 要出去玩了 求2张华住会的体验金卡</a></td><td>8</td><td>2024-08-23 10:01</td></tr><tr><td><a href="posts/40273069.html" class="post-link">650W电源能带4090D吗？</a></td><td>15</td><td>2024-05-23 12:20</td></tr><tr><td><a href="posts/40267547.html" class="post-link">7100 2tb 和 sn850x 2tb 留一个，留哪个？</a></td><td>22</td><td>2024-05-22 23:43</td></tr><tr><td><a href="posts/38737214.html" class="post-link">出个微星迫击炮 b560m mortar wifi 成色 99，功能正常，升级 13 代闲置。</a></td><td>2</td><td>2023-12-19 14:34</td></tr><tr><td><a href="posts/38625626.html" class="post-link">推荐一个配合12400 24*7开机的主板？</a></td><td>0</td><td>2023-12-07 21:33</td></tr><tr><td><a href="posts/37731055.html" class="post-link">13 Pro 远峰蓝 128G 国行 电池84%</a></td><td>8</td><td>2023-09-15 22:02</td></tr><tr><td><a href="posts/36788579.html" class="post-link">所以那个月亮旁边的红点到底是啥</a></td><td>19</td><td>2023-06-26 03:55</td></tr><tr><td><a href="posts/36752264.html" class="post-link">FF16给我整沉默了。。。</a></td><td>8</td><td>2023-06-23 00:36</td></tr><tr><td><a href="posts/36465002.html" class="post-link">1080和4070哪个给屋里增温少？</a></td><td>3</td><td>2023-05-30 23:05</td></tr><tr><td><a href="posts/36397083.html" class="post-link">支持4k60外屏的dock推荐一个</a></td><td>7</td><td>2023-05-24 15:43</td></tr><tr><td><a href="posts/36339722.html" class="post-link">ap201 和趣造 2 对比不同点在哪里，黑色的哪个好看？</a></td><td>44</td><td>2023-05-19 13:24</td></tr><tr><td><a href="posts/35856243.html" class="post-link">帖子被锁了 发下4k120屏摄</a></td><td>5</td><td>2023-04-03 00:29</td></tr><tr><td><a href="posts/34884071.html" class="post-link">一个疑问：年龄差问题，是我数学不好还是剧情bug？</a></td><td>8</td><td>2023-01-01 02:00</td></tr><tr><td><a href="posts/34731154.html" class="post-link">收一套PDD 金百达4000 16GB*2</a></td><td>0</td><td>2022-12-18 04:20</td></tr><tr><td><a href="posts/34676550.html" class="post-link">华硕H610-A能不能带13400或者13500</a></td><td>19</td><td>2022-12-14 00:41</td></tr><tr><td><a href="posts/34637211.html" class="post-link">收一个致钛7100 1T，代下或者二手都可以</a></td><td>3</td><td>2022-12-10 23:48</td></tr><tr><td><a href="posts/34116169.html" class="post-link">请问各种大佬，双手柄，一号在玩 ，二号手柄开机瞬间会中断一号手柄的游戏并弹框 这个功能可以关闭吗？</a></td><td>1</td><td>2022-11-02 17:13</td></tr><tr><td><a href="posts/34091671.html" class="post-link">[有新玩意儿]亲测有些加速器和老任服务器的mtu包分片有问题，连上以后把ns当前连接的mtu从1400改成1200试下，</a></td><td>37</td><td>2022-11-01 03:50</td></tr><tr><td><a href="posts/33484124.html" class="post-link">[又菜又爱玩]开始忘记转移存档，没有继承，是不是之后就没戏了，只能傻打？</a></td><td>3</td><td>2022-09-14 21:42</td></tr><tr><td><a href="posts/32618107.html" class="post-link">家人们，2500以下没什么硬伤没传出过什么设计问题的笔记本推一个</a></td><td>15</td><td>2022-07-09 17:13</td></tr><tr><td><a href="posts/32462923.html" class="post-link">XB3和XB3 DLC是全球统一SKU吗</a></td><td>26</td><td>2022-06-26 18:19</td></tr><tr><td><a href="posts/32206105.html" class="post-link">有没有用NS主副机白嫖过同一份数字版rise的伙伴确认一下是否可以联机？</a></td><td>3</td><td>2022-06-06 01:13</td></tr><tr><td><a href="posts/30313181.html" class="post-link">有用12代核显打dota2的吗 ? 效果如何啊。</a></td><td>2</td><td>2022-01-17 15:11</td></tr><tr><td><a href="posts/28721209.html" class="post-link">10月金会员</a></td><td>12</td><td>2021-09-29 00:30</td></tr><tr><td><a href="posts/28689534.html" class="post-link">我的头像在某个url无法加载，多次刷新就知道了</a></td><td>0</td><td>2021-09-26 23:04</td></tr><tr><td><a href="posts/28076412.html" class="post-link">求助360老玩家，街霸4</a></td><td>8</td><td>2021-08-15 17:14</td></tr></tbody>
+            </table>
+        </div>
+
+        <footer>
+            <a href="../index.html">&larr; 返回用户列表</a> | NGA用户跟踪自动生成 | 2026-06-09 16:04
+        </footer>
+    </div>
+</body>
+</html>

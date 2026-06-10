@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PC软硬件监控报告</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f5f5; color: #333; line-height: 1.6;
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        header {
+            background: linear-gradient(135deg, #2980b9 0%, #3498db 100%);
+            color: white; padding: 30px 20px; text-align: center;
+            border-radius: 8px; margin-bottom: 30px;
+        }
+        header h1 { font-size: 1.8em; margin-bottom: 8px; }
+        header .meta { opacity: 0.85; }
+        .section {
+            background: white; border-radius: 8px; padding: 30px;
+            margin-bottom: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .section h2 {
+            color: #2980b9; margin-bottom: 20px;
+            padding-bottom: 10px; border-bottom: 2px solid #eee;
+        }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #eee; }
+        th { background: #f8f9fa; font-weight: 600; color: #2980b9; }
+        tr:hover { background: #f8f9fa; }
+        a.post-link { color: #2980b9; text-decoration: none; }
+        a.post-link:hover { text-decoration: underline; }
+        .card {
+            background: #f8f9fa; border-radius: 8px; padding: 20px;
+            margin-bottom: 15px; border-left: 4px solid #2980b9;
+        }
+        .card.warning { border-left-color: #e74c3c; background: #fff5f5; }
+        .card h3 { margin-bottom: 10px; }
+        .card.warning h3 { color: #e74c3c; }
+        .card ul { margin-top: 10px; padding-left: 20px; }
+        .sentiment {
+            display: inline-block; padding: 2px 10px;
+            border-radius: 12px; font-size: 0.9em;
+        }
+        .sentiment.positive { background: #d4edda; color: #155724; }
+        .sentiment.negative { background: #f8d7da; color: #721c24; }
+        .sentiment.mixed { background: #fff3cd; color: #856404; }
+        .sentiment.neutral { background: #e2e3e5; color: #383d41; }
+        .rec-item {
+            padding: 10px 0; border-bottom: 1px solid #eee;
+        }
+        .rec-item:last-child { border-bottom: none; }
+        .debate-item {
+            padding: 12px; margin-bottom: 10px; background: #f8f9fa;
+            border-radius: 6px;
+        }
+        .debate-item .status {
+            display: inline-block; width: 20px; height: 20px;
+            text-align: center; border-radius: 50%; font-size: 0.8em;
+            line-height: 20px; margin-right: 8px;
+        }
+        .debate-item .status.ok { background: #d4edda; color: #155724; }
+        .debate-item .status.fail { background: #f8d7da; color: #721c24; }
+        .debate-content { color: #666; font-size: 0.9em; margin-top: 5px; }
+        footer { text-align: center; padding: 20px; color: #666; font-size: 0.9em; }
+        @media (max-width: 768px) {
+            .container { padding: 10px; }
+            header { padding: 20px 10px; border-radius: 0; margin-bottom: 15px; }
+            header h1 { font-size: 1.3em; }
+            .section { padding: 15px; margin-bottom: 15px; }
+            .section h2 { font-size: 1.1em; margin-bottom: 12px; }
+            table { display: block; overflow-x: auto; white-space: nowrap; }
+            th, td { padding: 8px 10px; font-size: 0.85em; }
+            .card { padding: 12px; }
+            .rec-item { font-size: 0.9em; }
+            .debate-item { padding: 8px; font-size: 0.9em; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>PC软硬件监控报告</h1>
+            <p class="meta">生成时间：2026-06-09 20:04 | 今日帖子：67</p>
+        </header>
+
+        <div class="section">
+            <h2>市场趋势</h2>
+            <p>当前硬件市场热点集中于高性能CPU（如AMD 9800X3D）和GPU（如NVIDIA 5080）用于游戏升级，显示器向4K和Mini LED技术发展，玩家关注DIY装机性价比及售后服务，内存和SSD行情稳定。</p>
+        </div>
+
+        <div class="section">
+            <h2>热门产品</h2>
+            <table>
+                <thead><tr><th>产品</th><th>品牌</th><th>类别</th><th>提及</th><th>情感</th></tr></thead>
+                <tbody>
+        <tr>
+            <td>Ryzen 9 9800X3D</td>
+            <td>AMD</td>
+            <td>CPU</td>
+            <td>967</td>
+            <td><span class="sentiment mixed">mixed</span></td>
+        </tr>
+        <tr>
+            <td>GeForce RTX 5080</td>
+            <td>NVIDIA</td>
+            <td>GPU</td>
+            <td>2</td>
+            <td><span class="sentiment mixed">mixed</span></td>
+        </tr>
+        <tr>
+            <td>红米 G27U 2025</td>
+            <td>红米 (Xiaomi)</td>
+            <td>显示器</td>
+            <td>16</td>
+            <td><span class="sentiment positive">positive</span></td>
+        </tr>
+        <tr>
+            <td>MateView GT</td>
+            <td>华为</td>
+            <td>显示器</td>
+            <td>21</td>
+            <td><span class="sentiment positive">positive</span></td>
+        </tr>
+        <tr>
+            <td>VD10 2TB</td>
+            <td>铠侠</td>
+            <td>SSD</td>
+            <td>12</td>
+            <td><span class="sentiment mixed">mixed</span></td>
+        </tr></tbody>
+            </table>
+        </div>
+
+        <div class="section"><h2>热门推荐</h2><div class="rec-item"><strong>AMD Ryzen 9 9800X3D CPU</strong>: 高回复讨论中频繁提及，适合追求高帧率游戏的玩家升级。</div><div class="rec-item"><strong>红米 G27U 2025 显示器</strong>: 4K分辨率性价比好，适合游戏和影音用途。</div><div class="rec-item"><strong>华为 MateView GT 显示器</strong>: 京东好价引发讨论，适合预算有限的用户。</div><div class="rec-item"><strong>铠侠 VD10 2TB SSD</strong>: 存储容量大，价格讨论中显示性价比。</div><div class="rec-item"><strong>NVIDIA GeForce RTX 5080 GPU</strong>: 热门新品，但需注意稳定性问题，适合追求高性能的玩家。</div></div>
+
+        <div class="section">
+            <h2>高活跃用户分析</h2>
+            <table>
+                <thead><tr><th>用户</th><th>发帖数</th><th>带节奏</th><th>置信度</th><th>目标</th><th>理由</th></tr></thead>
+                <tbody>
+        <tr>
+            <td>UltraSoy</td>
+            <td>?</td>
+            <td><span class="sentiment negative">⚠ 是</span></td>
+            <td>65%</td>
+            <td>9800X3D/9950X3D2整机配置、新9070XT显卡及相关店铺优惠（如泉州帮、南京伟高）</td>
+            <td>用户持续推荐性价比PC配置和限时优惠，内容一致且使用煽动性语言如&#x27;手慢无&#x27;。</td>
+        </tr>
+        <tr>
+            <td>清小水</td>
+            <td>?</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>90%</td>
+            <td>无特定目标</td>
+            <td>发帖频率低，内容中立详细，无煽动性语言，符合正常分享行为。</td>
+        </tr></tbody>
+            </table>
+        </div>
+
+        <div class="section"><h2>带节奏用户详情</h2>
+        <div class="card warning">
+            <h3>UltraSoy</h3>
+            <p>置信度: <strong>65%</strong> | 目标: 9800X3D/9950X3D2整机配置、新9070XT显卡及相关店铺优惠（如泉州帮、南京伟高） | 方向: 推广</p>
+            <p>用户持续推荐性价比PC配置和限时优惠，内容一致且使用煽动性语言如&#x27;手慢无&#x27;。</p>
+            <ul><li>总发帖仅8个，不符合高频发帖特征</li><li>回复针对具体问题互动，非机械重复</li><li>推荐基于实际活动信息，无虚假证据</li></ul>
+        </div></div>
+
+        <div class="section"><h2>自动辩论记录</h2>
+        <div class="debate-item">
+            <span class="status fail">✗</span>
+            <strong>帖子 46859888</strong> ([装机配置讨论] 9800X3D/9950X3D2+24/4)
+            <p class="debate-content">9800X3D和9950X3D2在各自定位上确实性能突出，但所谓“新版本答案”需理性看待。9800X3D的3D缓存对部分游戏提升显著，但其价格仍处高位，且对于非重度游戏用户，常规版本的CPU可能更实惠...</p>
+        </div></div>
+
+        <div class="section">
+            <h2>今日帖子列表</h2>
+            <table>
+                <thead><tr><th>标题</th><th>作者</th><th>回复数</th></tr></thead>
+                <tbody><tr><td><a href="posts/46954280.html" class="post-link">这一次七彩虹售后打破了我对这个牌子的滤镜</a></td><td>破小月</td><td><strong>3</strong></td></tr><tr><td><a href="posts/46954192.html" class="post-link">这种隐藏线路的机器太好看了。</a></td><td>爆穴总裁</td><td><strong>16</strong></td></tr><tr><td><a href="posts/46952080.html" class="post-link">[装机配置讨论] GeForce 热修补显示驱动版本 610.52</a></td><td>gaiden</td><td><strong>12</strong></td></tr><tr><td><a href="posts/46952859.html" class="post-link">这配置玩魔兽正式服老是卡顿，硬件不够吗？怎么升级？</a></td><td>摇摆的记忆</td><td><strong>15</strong></td></tr><tr><td><a href="posts/46954346.html" class="post-link">微星这硅脂看着挺好的</a></td><td>VirusNero</td><td><strong>1</strong></td></tr><tr><td><a href="posts/46954347.html" class="post-link">(求推荐)音箱</a></td><td>反抗性雾气</td><td><strong>0</strong></td></tr><tr><td><a href="posts/46953585.html" class="post-link">哎呦兄弟们我又来了，这显示器到底怎么选啊</a></td><td>Nash147</td><td><strong>3</strong></td></tr><tr><td><a href="posts/46951325.html" class="post-link">[顯示器] 沒電視晶片繼而沒動態映射的mini led顯示器是否都不值得購買</a></td><td>種﨑あやせ</td><td><strong>23</strong></td></tr><tr><td><a href="posts/46953775.html" class="post-link">32寸超神3代现在入手可以吗？</a></td><td>康帥傅丶</td><td><strong>6</strong></td></tr><tr><td><a href="posts/46954120.html" class="post-link">关于ROG X870E EDITION 20的《最多 9 个 M.2》</a></td><td>Waldeinsamkeit787</td><td><strong>5</strong></td></tr><tr><td><a href="posts/46949021.html" class="post-link">985x3d还有必要再赌一手吗</a></td><td>零喵丷</td><td><strong>49</strong></td></tr><tr><td><a href="posts/46934608.html" class="post-link">pdd百里扶摇259元，这个价格咋样</a></td><td>玉元重</td><td><strong>17</strong></td></tr><tr><td><a href="posts/46954104.html" class="post-link">有没有rz700d用在ch170/ch270的老哥</a></td><td>天剑の龙玉</td><td><strong>6</strong></td></tr><tr><td><a href="posts/46953741.html" class="post-link">老哥们，我这种情况有没有必要在显示器上再加个电视?</a></td><td>商不帅</td><td><strong>17</strong></td></tr><tr><td><a href="posts/46954189.html" class="post-link">5080+9800x3d，开一会蓝屏重启</a></td><td>毁灭之火</td><td><strong>2</strong></td></tr><tr><td><a href="posts/46951458.html" class="post-link">有没有轻一点的鼠标呀，不要超过300</a></td><td>老鸡奇遇记old</td><td><strong>4</strong></td></tr><tr><td><a href="posts/46943552.html" class="post-link">红米g27u 2025</a></td><td>白塔白又大</td><td><strong>16</strong></td></tr><tr><td><a href="posts/46952355.html" class="post-link">大佬们，sata固态怎么看能不能买啊</a></td><td>为尔倾尽所有</td><td><strong>16</strong></td></tr><tr><td><a href="posts/46953832.html" class="post-link">老哥们，7500F+9070XT 玩WOW有必要换9800X3D么？</a></td><td>zcra</td><td><strong>17</strong></td></tr><tr><td><a href="posts/46952515.html" class="post-link">求问最近ddr5行情</a></td><td>mambaSNAKE</td><td><strong>18</strong></td></tr><tr><td><a href="posts/46954268.html" class="post-link">求个笔记本推荐</a></td><td>只有术士</td><td><strong>0</strong></td></tr><tr><td><a href="posts/46952526.html" class="post-link">京东发票抽奖活动</a></td><td>MasterBruceWayne</td><td><strong>19</strong></td></tr><tr><td><a href="posts/46859888.html" class="post-link">[装机配置讨论] 9800X3D/9950X3D2+24/48内存无显卡整机 - 新版本答案 5899+！新9070XT</a></td><td>UltraSoy</td><td><strong>967</strong></td></tr><tr><td><a href="posts/46701381.html" class="post-link">打人硕ProArt KD300键盘到祸了</a></td><td>LMagics</td><td><strong>23</strong></td></tr><tr><td><a href="posts/46816444.html" class="post-link">[diy配置贴]26年618装机配置  -  本帖工作日更新</a></td><td>清小水</td><td><strong>260</strong></td></tr><tr><td><a href="posts/46954141.html" class="post-link">怎么不拆机情况下确定是不是主板有线网卡坏了</a></td><td>我程咬金贼六</td><td><strong>4</strong></td></tr><tr><td><a href="posts/46952314.html" class="post-link">华为mateview gt京东自营好价2099</a></td><td>哈赞里奇</td><td><strong>21</strong></td></tr><tr><td><a href="posts/46953504.html" class="post-link">老哥们 你们显示器屏幕清洁液用的什么牌子的</a></td><td>concy</td><td><strong>25</strong></td></tr><tr><td><a href="posts/46950448.html" class="post-link">想换983，但是手里这个783又有点舍不得</a></td><td>Qop丶</td><td><strong>28</strong></td></tr><tr><td><a href="posts/46951734.html" class="post-link">魔兽世界主机作业请各位老师批改</a></td><td>爆穴总裁</td><td><strong>22</strong></td></tr><tr><td><a href="posts/46935657.html" class="post-link">微软Edge浏览器优化，还有什么漏掉的么</a></td><td>holysudo</td><td><strong>27</strong></td></tr><tr><td><a href="posts/46950441.html" class="post-link">求推荐个1000w到1300w的电源</a></td><td>apple4010</td><td><strong>9</strong></td></tr><tr><td><a href="posts/46953990.html" class="post-link">500左右桌面音响有啥推荐的吗？最好带点低音，主要打3A游戏、看电影用</a></td><td>窝螺噗通一声</td><td><strong>5</strong></td></tr><tr><td><a href="posts/46952528.html" class="post-link">技嘉40周年搞了个INFINITY全家桶</a></td><td>wangwei213</td><td><strong>41</strong></td></tr><tr><td><a href="posts/46946663.html" class="post-link">618也算是下车了，求助5080是不是必须要配4k屏幕，有没有好的4k屏推荐</a></td><td>盗号咖啡</td><td><strong>28</strong></td></tr><tr><td><a href="posts/46954013.html" class="post-link">[硬件求助]Argb口接风扇求助</a></td><td>音十河文</td><td><strong>5</strong></td></tr><tr><td><a href="posts/46953240.html" class="post-link">猫头鹰360水冷：无泵、虹吸、300W</a></td><td>华为工作法</td><td><strong>10</strong></td></tr><tr><td><a href="posts/46797184.html" class="post-link">1580索泰5050</a></td><td>舰少少</td><td><strong>20</strong></td></tr><tr><td><a href="posts/46953704.html" class="post-link">找到一款合适的机箱(gamemax aeris 330)，结果大陆不卖…</a></td><td>十点睡</td><td><strong>11</strong></td></tr><tr><td><a href="posts/46954097.html" class="post-link">618落幕了</a></td><td>auras1999</td><td><strong>0</strong></td></tr><tr><td><a href="posts/46950697.html" class="post-link">铠侠vd10 2t 这个价格怎么样？</a></td><td>我没有亚龙人女仆</td><td><strong>12</strong></td></tr><tr><td><a href="posts/46946509.html" class="post-link">朋友们有没有什么时尚小垃圾推荐的</a></td><td>九凰院铃音</td><td><strong>36</strong></td></tr><tr><td><a href="posts/46947381.html" class="post-link">买了3块打人硕的板子，啃金手指问题售后的时候被明确拒保了，有录音，比较扯淡</a></td><td>coffeewings</td><td><strong>64</strong></td></tr><tr><td><a href="posts/46904186.html" class="post-link">4090供电口烧了咋搞</a></td><td>Xintinlin</td><td><strong>64</strong></td></tr><tr><td><a href="posts/46950754.html" class="post-link">怎么设置才能在开机时候显示BIOS POST界面</a></td><td>louliqi</td><td><strong>22</strong></td></tr><tr><td><a href="posts/46951670.html" class="post-link">为什么看大家讨论买显卡买猛禽夜神火神这种的少？</a></td><td>VoidDrifter</td><td><strong>27</strong></td></tr><tr><td><a href="posts/46948358.html" class="post-link">泰州兴化有偿寻求上门装机帮助，2台电脑</a></td><td>尐丶海灬</td><td><strong>18</strong></td></tr><tr><td><a href="posts/46953954.html" class="post-link">各位大佬，预算3000块，给底下在工厂干活的小弟配台电脑，要求能上网，能看图片，能用cad看图和sw看三维模型(不是设计</a></td><td>二呆12138</td><td><strong>3</strong></td></tr><tr><td><a href="posts/46953297.html" class="post-link">大伙给看看，这个价格怎么样</a></td><td>暗月部落</td><td><strong>10</strong></td></tr><tr><td><a href="posts/46949782.html" class="post-link">贪便宜买了个3000块钱的雷鸟32寸那个智能电视款，是不是踩到雷了？</a></td><td>Fitcessi</td><td><strong>22</strong></td></tr></tbody>
+            </table>
+        </div>
+
+        <footer>
+            NGA PC硬件监控自动生成 | 2026-06-09 20:04
+        </footer>
+    </div>
+</body>
+</html>
