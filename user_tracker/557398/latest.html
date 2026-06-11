@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>用户跟踪: 海伯利安之歌</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            background: #f5f5f5; color: #333; line-height: 1.6;
+        }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        header {
+            background: linear-gradient(135deg, #8e44ad 0%, #9b59b6 100%);
+            color: white; padding: 30px 20px; text-align: center;
+            border-radius: 8px; margin-bottom: 30px;
+        }
+        header h1 { font-size: 1.8em; margin-bottom: 8px; }
+        header .meta { opacity: 0.85; }
+        .section {
+            background: white; border-radius: 8px; padding: 30px;
+            margin-bottom: 30px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+        .section h2 {
+            color: #8e44ad; margin-bottom: 20px;
+            padding-bottom: 10px; border-bottom: 2px solid #eee;
+        }
+        table { width: 100%; border-collapse: collapse; }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #eee; }
+        th { background: #f8f9fa; font-weight: 600; color: #8e44ad; }
+        tr:hover { background: #f8f9fa; }
+        a.post-link { color: #8e44ad; text-decoration: none; }
+        a.post-link:hover { text-decoration: underline; }
+        .sentiment {
+            display: inline-block; padding: 2px 10px;
+            border-radius: 12px; font-size: 0.9em;
+        }
+        .sentiment.positive { background: #d4edda; color: #155724; }
+        .sentiment.negative { background: #f8d7da; color: #721c24; }
+        .debate-item {
+            padding: 12px; margin-bottom: 10px; background: #f8f9fa;
+            border-radius: 6px;
+        }
+        .debate-item .status {
+            display: inline-block; width: 20px; height: 20px;
+            text-align: center; border-radius: 50%; font-size: 0.8em;
+            line-height: 20px; margin-right: 8px;
+        }
+        .debate-item .status.ok { background: #d4edda; color: #155724; }
+        .debate-item .status.fail { background: #f8d7da; color: #721c24; }
+        .debate-content { color: #666; font-size: 0.9em; margin-top: 5px; }
+        .back-link { display: inline-block; margin-bottom: 15px; color: #8e44ad; text-decoration: none; }
+        .back-link:hover { text-decoration: underline; }
+        footer { text-align: center; padding: 20px; color: #666; font-size: 0.9em; }
+        @media (max-width: 768px) {
+            .container { padding: 10px; }
+            header { padding: 20px 10px; border-radius: 0; margin-bottom: 15px; }
+            header h1 { font-size: 1.3em; }
+            .section { padding: 15px; margin-bottom: 15px; }
+            .section h2 { font-size: 1.1em; margin-bottom: 12px; }
+            table { display: block; overflow-x: auto; white-space: nowrap; }
+            th, td { padding: 8px 10px; font-size: 0.85em; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="../index.html" class="back-link">&larr; 返回用户列表</a>
+        <header>
+            <h1>用户跟踪: 海伯利安之歌</h1>
+            <p class="meta">UID: 557398 | 生成时间: 2026-06-11 14:51 | 帖子: 77 | 有问题: 6</p>
+        </header>
+
+        <div class="section">
+            <h2>帖子分析</h2>
+            <table>
+                <thead><tr><th>帖子</th><th>回复</th><th>有问题</th><th>类型</th><th>描述</th></tr></thead>
+                <tbody>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46894137" target="_blank" class="post-link">总决赛比分投票</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46878690" target="_blank" class="post-link">这么看下来，西部哪只队出来都不是尼克斯对手啊</a></td>
+            <td>17</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46699773" target="_blank" class="post-link">赛季结束了，也算解脱了</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46686373" target="_blank" class="post-link">我凯打不过了</a></td>
+            <td>8</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46658035" target="_blank" class="post-link">第一赛季8个大秘境，最简单的boss有定论了吗？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46615491" target="_blank" class="post-link">dkt改的好难玩</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46567058" target="_blank" class="post-link">一个月了，我仍然没搞懂丰饶这个玩法到底是怎么玩的？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46555319" target="_blank" class="post-link">各位DKT大佬能不能分享一波界面代码？</a></td>
+            <td>2</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46549023" target="_blank" class="post-link">风行者之塔，就是我的家</a></td>
+            <td>11</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46506955" target="_blank" class="post-link">大号恶魔术爽到3000分了，第二个号在狂暴战和血dk之间犹豫</a></td>
+            <td>11</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46501080" target="_blank" class="post-link">使徒起手卡禁魔仪式问题</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46496835" target="_blank" class="post-link">獭兔这次回来专心当皮蓬，你别说效果还真好</a></td>
+            <td>17</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46465221" target="_blank" class="post-link">本来就应该“太简单也喷，太难也喷”</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46454070" target="_blank" class="post-link">痛苦单体怎么感觉怪怪的</a></td>
+            <td>11</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46445987" target="_blank" class="post-link">尾王饰品打大秘境是不是模拟陷阱啊……</a></td>
+            <td>13</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46422464" target="_blank" class="post-link">别看术士现在风光，下cd可能就查无此人了</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46419944" target="_blank" class="post-link">为啥一打开集合石插件画面就卡住不动，至少15秒才能恢复啊</a></td>
+            <td>13</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46373364" target="_blank" class="post-link">感觉大家骂设计师的比较多，不如这个帖子就来说说12.0本职业/专精改的让你想夸一夸设计师的地方吧</a></td>
+            <td>10</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46347684" target="_blank" class="post-link">没看比赛，谁来说一下热巴这个43罚是什么情况？</a></td>
+            <td>12</td>
+            <td><span class="sentiment negative">⚠ 是</span></td>
+            <td>factual_error</td>
+            <td>帖子称热巴(阿德巴约)获得43次罚球，但未核实具体数据，且描述可能夸大事实。</td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46312056" target="_blank" class="post-link">一上午把四个地图的事件做了，打了两个困难狩猎，接下来应该做啥？</a></td>
+            <td>12</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46197163" target="_blank" class="post-link">人类社会的未来，可能要从科幻小说中寻找答案</a></td>
+            <td>19</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=46130514" target="_blank" class="post-link">卧槽卧槽！武切维奇来我凯了！！！</a></td>
+            <td>19</td>
+            <td><span class="sentiment negative">⚠ 是</span></td>
+            <td>astroturfing</td>
+            <td>帖子以‘卧槽’等情绪化语言宣称武切维奇加盟凯尔特人，传播未经证实的信息，带节奏误导读者。</td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45905087" target="_blank" class="post-link">[中长线躺平流]分享一下我的投资组合(2026)</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45896492" target="_blank" class="post-link">死亡细胞怎么才能通关一次啊？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45827442" target="_blank" class="post-link">求推荐手机，要求内详</a></td>
+            <td>4</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45802567" target="_blank" class="post-link">再读射雕三部曲(新修版)感想</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45802347" target="_blank" class="post-link">字节AI手机对互联网生态的冲击的思考</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45553485" target="_blank" class="post-link">天国拯救2这个免费试玩真的良心啊，我玩了1个小时果断下单了</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45530557" target="_blank" class="post-link">历史上还是有些人真的是以一己之力改变了历史走向的</a></td>
+            <td>17</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45454203" target="_blank" class="post-link">十五五规划建议深度对比分析</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45331186" target="_blank" class="post-link">潜水员戴夫有什么MOD吗？比如不同特性鱼叉要不同方式狂按键盘的MOD</a></td>
+            <td>4</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45145422" target="_blank" class="post-link">还是没想通，雷火这么做是为啥？</a></td>
+            <td>15</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45115313" target="_blank" class="post-link">如果说TI8和TI10是不甘心/意难平，今年更多的是释然</a></td>
+            <td>13</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45112499" target="_blank" class="post-link">又是熟悉的2比1了，求求老天，别再错过了</a></td>
+            <td>1</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45092392" target="_blank" class="post-link">还是雕哥喷的好，这三大哥没一个做人的</a></td>
+            <td>1</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45070694" target="_blank" class="post-link">拓普集团这不是违规减持吗？</a></td>
+            <td>16</td>
+            <td><span class="sentiment negative">⚠ 是</span></td>
+            <td>factual_error</td>
+            <td>帖子质疑拓普集团一致行动人减持未公告涉嫌违规，但可能忽略了减持比例未达披露标准的规定。</td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45041802" target="_blank" class="post-link">[什么情况]詹姆斯在人民日报撰文？</a></td>
+            <td>17</td>
+            <td><span class="sentiment negative">⚠ 是</span></td>
+            <td>factual_error</td>
+            <td>帖子配图称詹姆斯‘在人民日报撰文’，但标题可能误导，实际可能是广告或专栏。</td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45040481" target="_blank" class="post-link">把嗜血、战复这些大的功能技能从职业技能调整成种族技能，感觉是一个不错的方案</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45040146" target="_blank" class="post-link">3000分+13铁啦！准备开摆随便玩了！</a></td>
+            <td>3</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45034182" target="_blank" class="post-link">同花顺董事长这个减持目的真是六啊</a></td>
+            <td>19</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45005751" target="_blank" class="post-link">低保只能拿币了吧？</a></td>
+            <td>4</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45003067" target="_blank" class="post-link">这周试了好几次使徒毁，怎么试都感觉完全不如恶魔啊</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=45001688" target="_blank" class="post-link">这赛季3000分怎么这么难？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44958563" target="_blank" class="post-link">寒王或许能走宁王的老路，但是这会给指数带来巨大风险(数据修正后)</a></td>
+            <td>20</td>
+            <td><span class="sentiment negative">⚠ 是</span></td>
+            <td>factual_error</td>
+            <td>帖子称寒武纪(寒王)‘登上股王宝座’并给出具体市值，但未提供可靠数据源，且类比可能误导。</td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44940775" target="_blank" class="post-link">在WCL上分析了半天LOG，找不到头绪，我和99分的大佬差距在哪儿？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44932283" target="_blank" class="post-link">各位远程打大秘境的时候，血条是堆叠还是重叠？怎么调整的视角</a></td>
+            <td>12</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44913099" target="_blank" class="post-link">集合石很少遇到奶骑，昨天打个破晨遇到了一次，感觉团血出奇的稳</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44899337" target="_blank" class="post-link">我家这个情况，是今年换车还是再等等合适？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44898841" target="_blank" class="post-link">手工统计了一下WCL上面，12层各大秘境输出前20术士的天赋情况</a></td>
+            <td>3</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44870117" target="_blank" class="post-link">关于内爆时机问题，我按现在的手法优先级打，内爆占比不到4%，哪里不太对呢？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44859203" target="_blank" class="post-link">20到25万suv，大家来投票吧</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44858331" target="_blank" class="post-link">天街尾王BUG，看不到传送阵的符号。。。</a></td>
+            <td>11</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44856271" target="_blank" class="post-link">痛苦术现在看上去imba是上版本四件套的联动，结果直接挨了一刀本体</a></td>
+            <td>3</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44856044" target="_blank" class="post-link">自己的2层钥匙挂1个小时也组不上人，别人的7层钥匙进不去，怎么破</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44843512" target="_blank" class="post-link">非要选一个的话，康熙比乾隆对中华民族的贡献大多了吧</a></td>
+            <td>15</td>
+            <td><span class="sentiment negative">⚠ 是</span></td>
+            <td>factual_error</td>
+            <td>帖子声称‘我们现在的疆域是解放军收复的 不是清朝奠定的 清朝根本就没有对边疆进行有效的统治’，这与历史事实不符。</td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44796107" target="_blank" class="post-link">大秘境到底是毁灭还是痛苦呢？属性需求也不一样吧？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44772322" target="_blank" class="post-link">突然发现好莱坞男明星是不是后继无人了？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44737094" target="_blank" class="post-link">下赛季准备首发的号只有627装等，最后这一周需要做些啥吗？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44711806" target="_blank" class="post-link">下赛季术士dk二选一，求推荐</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44711708" target="_blank" class="post-link">下赛季冰dk是龙喷还是碎冰啊？</a></td>
+            <td>15</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44678288" target="_blank" class="post-link">B站看了各路测评下来，明末渊虚之羽好像评价不错啊</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44660557" target="_blank" class="post-link">现在蓝牙降噪耳机的音质达到或者超过有线耳机的水平了吗？</a></td>
+            <td>18</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44649134" target="_blank" class="post-link">你行你上感想：电影乱七八糟，但是音乐听爽了</a></td>
+            <td>3</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44630452" target="_blank" class="post-link">试驾了小鹏G7，感觉有点超预期啊</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44588667" target="_blank" class="post-link">老李家的基因真不错，唐朝皇帝自然死亡的基本没有低于50岁的</a></td>
+            <td>13</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44551970" target="_blank" class="post-link">小鹏G7怎么样？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44525589" target="_blank" class="post-link">古时候，人是不是都很麻木，能想出来那么多酷刑和死法</a></td>
+            <td>19</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44469251" target="_blank" class="post-link">汉文帝在古代价值观里为啥地位那么高？我感觉就算在汉朝里面，前五都排不上啊</a></td>
+            <td>19</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44433173" target="_blank" class="post-link">趁着打折入了匹诺曹的谎言，这游戏就是个魂类游戏究极大缝合啊</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44214100" target="_blank" class="post-link">恶魔术玩起来一点爽感也没有。。。</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44173331" target="_blank" class="post-link">[求助]刚玩湮灭不到一周，有几个问题请教一下</a></td>
+            <td>9</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44127981" target="_blank" class="post-link">谁知道11.15版本，小号练到多少级就可以交12个地下堡任务了？</a></td>
+            <td>8</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44121449" target="_blank" class="post-link">分析一下我凯休赛期方案</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44109295" target="_blank" class="post-link">[湮灭PVE] 求教，湮灭是一个什么类型的专精？大秘境体验如何？想起个小号</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44090765" target="_blank" class="post-link">科皇牛逼啊！</a></td>
+            <td>11</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44085858" target="_blank" class="post-link">看模拟672以后哈哈镜比能量饮料强？</a></td>
+            <td>20</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=44078635" target="_blank" class="post-link">邪DK怎么打也打不高，就是个70-80分的水平，特地录了个第一视角视频，求大佬快进着看看指点一下</a></td>
+            <td>5</td>
+            <td><span class="sentiment positive">否</span></td>
+            <td>none</td>
+            <td></td>
+        </tr></tbody>
+            </table>
+        </div>
+
+        <div class="section"><h2>驳斥记录</h2>
+        <div class="debate-item">
+            <span class="status ok">✓</span>
+            <strong>没看比赛，谁来说一下热巴这个43罚是什么情况？</strong>
+            <p class="debate-content">关于热巴（阿德巴约）单场43次罚球的说法，我们可以参考NBA官方历史数据。根据记录，NBA单场球员罚球出手次数最高为39次，由威尔特·张伯伦保持，因此43次可能需要核实具体比赛统计。从帖子讨论来看，这...</p>
+        </div>
+        <div class="debate-item">
+            <span class="status ok">✓</span>
+            <strong>卧槽卧槽！武切维奇来我凯了！！！</strong>
+            <p class="debate-content">关于武切维奇加盟凯尔特人的讨论，根据NBA的常规流程，球员交易通常需要官方确认，例如通过NBA官网、球队声明或权威记者如Shams Charania和Adrian Wojnarowski的报道。目前，...</p>
+        </div>
+        <div class="debate-item">
+            <span class="status ok">✓</span>
+            <strong>拓普集团这不是违规减持吗？</strong>
+            <p class="debate-content">关于拓普集团一致行动人减持的公告问题，我们可以从证券法规和具体数据来看。根据《上市公司股东及董监高减持股份的若干规定》，持有上市公司5%以上股份的股东减持需预先披露计划；如果多个一致行动人合计持股比例...</p>
+        </div>
+        <div class="debate-item">
+            <span class="status ok">✓</span>
+            <strong>[什么情况]詹姆斯在人民日报撰文？</strong>
+            <p class="debate-content">关于詹姆斯在《人民日报》撰文的情况，建议核实具体内容形式。根据《人民日报》的发布惯例，NBA球星的文章通常以专访或合作专栏呈现，而非独立撰文；例如，过往类似内容多涉及体育交流主题，如2023年该报曾刊...</p>
+        </div>
+        <div class="debate-item">
+            <span class="status ok">✓</span>
+            <strong>寒王或许能走宁王的老路，但是这会给指数带来巨大风险(数据修正后)</strong>
+            <p class="debate-content">理解您对寒武纪发展的关注，但关于“股王”的表述，建议核实具体市值排名。根据公开数据，A股市值前列的公司通常为贵州茅台或大型金融机构，寒武纪在科技板块中的排名也需以实时数据为准。与英伟达的类比需谨慎：寒...</p>
+        </div>
+        <div class="debate-item">
+            <span class="status ok">✓</span>
+            <strong>非要选一个的话，康熙比乾隆对中华民族的贡献大多了吧</strong>
+            <p class="debate-content">关于清朝对边疆的统治，历史记录表明，清朝通过设立伊犁将军府（1762年）、驻藏大臣（1727年）和蒙古盟旗制度，对新疆、西藏和蒙古实施了长期有效的行政与军事管辖，这些措施在《清史稿》和《中国历史地图集...</p>
+        </div></div>
+
+        <div class="section">
+            <h2>用户帖子列表</h2>
+            <table>
+                <thead><tr><th>标题</th><th>回复数</th><th>发帖时间</th></tr></thead>
+                <tbody><tr><td><a href="https://bbs.nga.cn/read.php?tid=46894137" target="_blank" class="post-link">总决赛比分投票</a></td><td>47</td><td>2026-05-31 17:19</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46878690" target="_blank" class="post-link">这么看下来，西部哪只队出来都不是尼克斯对手啊</a></td><td>16</td><td>2026-05-29 12:21</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46699773" target="_blank" class="post-link">赛季结束了，也算解脱了</a></td><td>21</td><td>2026-05-03 11:05</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46686373" target="_blank" class="post-link">我凯打不过了</a></td><td>7</td><td>2026-05-01 11:09</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46658035" target="_blank" class="post-link">第一赛季8个大秘境，最简单的boss有定论了吗？</a></td><td>134</td><td>2026-04-27 16:49</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46615491" target="_blank" class="post-link">dkt改的好难玩</a></td><td>44</td><td>2026-04-21 17:24</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46567058" target="_blank" class="post-link">一个月了，我仍然没搞懂丰饶这个玩法到底是怎么玩的？</a></td><td>26</td><td>2026-04-14 09:15</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46555319" target="_blank" class="post-link">各位DKT大佬能不能分享一波界面代码？</a></td><td>1</td><td>2026-04-12 09:45</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46549023" target="_blank" class="post-link">风行者之塔，就是我的家</a></td><td>10</td><td>2026-04-11 08:43</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46506955" target="_blank" class="post-link">大号恶魔术爽到3000分了，第二个号在狂暴战和血dk之间犹豫</a></td><td>10</td><td>2026-04-04 11:31</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46501080" target="_blank" class="post-link">使徒起手卡禁魔仪式问题</a></td><td>23</td><td>2026-04-03 12:17</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46496835" target="_blank" class="post-link">獭兔这次回来专心当皮蓬，你别说效果还真好</a></td><td>16</td><td>2026-04-02 19:27</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46465221" target="_blank" class="post-link">本来就应该“太简单也喷，太难也喷”</a></td><td>41</td><td>2026-03-29 10:48</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46454070" target="_blank" class="post-link">痛苦单体怎么感觉怪怪的</a></td><td>10</td><td>2026-03-27 12:18</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46445987" target="_blank" class="post-link">尾王饰品打大秘境是不是模拟陷阱啊……</a></td><td>12</td><td>2026-03-26 09:15</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46422464" target="_blank" class="post-link">别看术士现在风光，下cd可能就查无此人了</a></td><td>86</td><td>2026-03-22 17:14</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46419944" target="_blank" class="post-link">为啥一打开集合石插件画面就卡住不动，至少15秒才能恢复啊</a></td><td>12</td><td>2026-03-22 08:25</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46373364" target="_blank" class="post-link">感觉大家骂设计师的比较多，不如这个帖子就来说说12.0本职业/专精改的让你想夸一夸设计师的地方吧</a></td><td>9</td><td>2026-03-15 10:06</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46347684" target="_blank" class="post-link">没看比赛，谁来说一下热巴这个43罚是什么情况？</a></td><td>11</td><td>2026-03-11 11:48</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46312056" target="_blank" class="post-link">一上午把四个地图的事件做了，打了两个困难狩猎，接下来应该做啥？</a></td><td>11</td><td>2026-03-05 12:48</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46197163" target="_blank" class="post-link">人类社会的未来，可能要从科幻小说中寻找答案</a></td><td>100</td><td>2026-02-13 09:49</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=46130514" target="_blank" class="post-link">卧槽卧槽！武切维奇来我凯了！！！</a></td><td>18</td><td>2026-02-04 08:11</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=45905087" target="_blank" class="post-link">[中长线躺平流]分享一下我的投资组合(2026)</a></td><td>30453</td><td>2025-12-31 15:41</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=45896492" target="_blank" class="post-link">死亡细胞怎么才能通关一次啊？</a></td><td>20</td><td>2025-12-30 10:57</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=45827442" target="_blank" class="post-link">求推荐手机，要求内详</a></td><td>3</td><td>2025-12-19 23:33</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=45802567" target="_blank" class="post-link">再读射雕三部曲(新修版)感想</a></td><td>45</td><td>2025-12-16 16:58</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=45802347" target="_blank" class="post-link">字节AI手机对互联网生态的冲击的思考</a></td><td>23</td><td>2025-12-16 16:29</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=45553485" target="_blank" class="post-link">天国拯救2这个免费试玩真的良心啊，我玩了1个小时果断下单了</a></td><td>45</td><td>2025-11-10 14:26</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=45530557" target="_blank" class="post-link">历史上还是有些人真的是以一己之力改变了历史走向的</a></td><td>47</td><td>2025-11-07 09:21</td></tr><tr><td><a href="https://bbs.nga.cn/read.php?tid=45454203" target="_blank" class="post-link">十五五规划建议深度对比分析</a></td><td>139</td><td>2025-10-28 23:32</td></tr></tbody>
+            </table>
+        </div>
+
+        <footer>
+            <a href="../index.html">&larr; 返回用户列表</a> | NGA用户跟踪自动生成 | 2026-06-11 14:51
+        </footer>
+    </div>
+</body>
+</html>
