@@ -28,6 +28,7 @@ footer { text-align: center; padding: 20px; color: #999; font-size: 0.85em; }
     .grid { grid-template-columns: 1fr; }
 }
 </style>
+<script defer src="http://124.222.65.112:3000/script.js" data-website-id="36ae815c-649a-43ff-9848-04f12cfd7ece"></script>
 </head>
 <body>
 <div class="container">
@@ -42,19 +43,19 @@ footer { text-align: center; padding: 20px; color: #999; font-size: 0.85em; }
             <div class="icon">&#128202;</div>
             <h3>全量分析报告</h3>
             <p>NGA论坛全量数据抓取与LLM深度分析，包含活跃版块排名、热帖分析、情感趋势。</p>
-            <a href="latest.html" target="_blank">查看报告</a>
+            <a href="latest.html" target="_blank" onclick="umami.track('click-full-report')">查看报告</a>
         </div>
         <div class="card">
             <div class="icon">&#128187;</div>
             <h3>硬件版监控</h3>
             <p>NGA硬件版实时监控，自动检测带节奏内容并生成辩论回复。</p>
-            <a href="hardware_watcher/latest.html" target="_blank">查看报告</a>
+            <a href="hardware_watcher/latest.html" target="_blank" onclick="umami.track('click-hardware')">查看报告</a>
         </div>
         <div class="card">
             <div class="icon">&#128200;</div>
             <h3>股票版监控</h3>
             <p>NGA股票版实时监控，情感分析与内容追踪。</p>
-            <a href="stock_watcher/latest.html" target="_blank">查看报告</a>
+            <a href="stock_watcher/latest.html" target="_blank" onclick="umami.track('click-stock')">查看报告</a>
         </div>
     </div>
 
@@ -64,19 +65,19 @@ footer { text-align: center; padding: 20px; color: #999; font-size: 0.85em; }
             <div class="icon">&#128100;</div>
             <h3>用户跟踪</h3>
             <p>指定用户言论跟踪与分析，生成用户画像、观点总结、深度人格分析。</p>
-            <a href="user_tracker/index.html" target="_blank">查看列表</a>
+            <a href="user_tracker/index.html" target="_blank" onclick="umami.track('click-user-tracker')">查看列表</a>
         </div>
         <div class="card">
             <div class="icon">&#128214;</div>
             <h3>小说评分</h3>
             <p>NGA小说评分版全部作品评分汇总，支持筛选排序，138部小说数据。</p>
-            <a href="novel_ratings/index.html" target="_blank">查看评分</a>
+            <a href="novel_ratings/index.html" target="_blank" onclick="umami.track('click-novel')">查看评分</a>
         </div>
         <div class="card">
             <div class="icon">&#127918;</div>
             <h3>游戏评分</h3>
             <p>NGA游戏评分版全部作品评分汇总，支持筛选排序。</p>
-            <a href="game_ratings/index.html" target="_blank">查看评分</a>
+            <a href="game_ratings/index.html" target="_blank" onclick="umami.track('click-game')">查看评分</a>
         </div>
     </div>
 
@@ -86,19 +87,19 @@ footer { text-align: center; padding: 20px; color: #999; font-size: 0.85em; }
             <div class="icon">&#129302;</div>
             <h3>AI项目实战教程</h3>
             <p>手把手教你如何使用AI开发各类实用项目，从零到一的AI开发经验分享。</p>
-            <a href="http://agent.ps5.online/" target="_blank">访问网站</a>
+            <a href="http://agent.ps5.online/" target="_blank" onclick="umami.track('click-ai-agent')">访问网站</a>
         </div>
         <div class="card">
             <div class="icon">&#128221;</div>
             <h3>可预览编辑器博客系统</h3>
             <p>自带实时预览编辑器的博客系统，写作体验流畅，所见即所得。</p>
-            <a href="https://blog.ps5.online/pages/blog.html" target="_blank">访问网站</a>
+            <a href="https://blog.ps5.online/pages/blog.html" target="_blank" onclick="umami.track('click-blog')">访问网站</a>
         </div>
         <div class="card">
             <div class="icon">&#128218;</div>
             <h3>EPUB电子书阅读器</h3>
             <p>基于IndexedDB的EPUB电子书阅读器，纯浏览器端运行，无需安装，随开随读。</p>
-            <a href="https://epub.ps5.online/" target="_blank">访问网站</a>
+            <a href="https://epub.ps5.online/" target="_blank" onclick="umami.track('click-epub')">访问网站</a>
         </div>
     </div>
     <p style="text-align:center; color:#888; font-size:0.85em; margin-bottom:25px;">以上项目均为本人借助AI独立开发，感谢支持，希望大家喜欢 🎉</p>
