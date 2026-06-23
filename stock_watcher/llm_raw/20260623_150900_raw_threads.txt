@@ -1,0 +1,289 @@
+[
+  {
+    "index": 1,
+    "summary": "用户分享市场剧烈波动导致亏损，情绪沮丧，请求还钱。",
+    "sentiment": "negative",
+    "key_opinions": ["行情刺激但亏损严重", "建议抱住好票", "讨论亏损细节"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "大盘接近跌停，讨论量化时代盘子大小影响及韩股案例。",
+    "sentiment": "negative",
+    "key_opinions": ["量化时代盘子大不安全", "盘子小更危险", "历史案例如韩股跌停"],
+    "mentioned_stocks": ["韩股", "妇联"]
+  },
+  {
+    "index": 3,
+    "summary": "建议卖出败绿股票，因持股体验差，涨跌不一致。",
+    "sentiment": "negative",
+    "key_opinions": ["败绿表现差，建议卖出", "涨不过生益护垫", "长线票但近期不佳"],
+    "mentioned_stocks": ["败绿", "生益护垫", "沪电", "胜宏"]
+  },
+  {
+    "index": 4,
+    "summary": "外围市场大跌，询问原因，讨论中国财政政策和加息谣言。",
+    "sentiment": "mixed",
+    "key_opinions": ["外围大跌原因未知", "中国财政紧缩传闻", "加息谣言影响市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "新股民结束A股投资，转战其他市场，感慨刺激但不喜欢盯盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股刺激但不喜欢盯盘", "及时止损转战正规市场", "悟道快"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "钨板块表现强劲，用户自豪分享，讨论相关股票。",
+    "sentiment": "positive",
+    "key_opinions": ["钨板块强势，没有孬种", "可能涉及战争预期", "板块内部分化"],
+    "mentioned_stocks": ["中钨高新", "江钨装备"]
+  },
+  {
+    "index": 7,
+    "summary": "市场下跌后暂时止跌，但尾盘仍下跌，担忧明天走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["止跌但尾盘下跌", "明天可能低开", "恒科仍在跌"],
+    "mentioned_stocks": ["恒科"]
+  },
+  {
+    "index": 8,
+    "summary": "投资策略导致双向亏损，分享前后对比图片。",
+    "sentiment": "negative",
+    "key_opinions": ["两头挨打，策略失误", "市场波动大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "涨跌家数打平但指数大跌，讨论市场结构分化。",
+    "sentiment": "mixed",
+    "key_opinions": ["涨跌家数打平但指数大跌", "微盘股可能上涨", "银行股下跌"],
+    "mentioned_stocks": ["招行"]
+  },
+  {
+    "index": 10,
+    "summary": "高位科技板块分歧，资金不流向低位科技，讨论消费和液冷。",
+    "sentiment": "mixed",
+    "key_opinions": ["高位科技分歧", "低位科技不涨", "消费板块差"],
+    "mentioned_stocks": ["液冷相关股票"]
+  },
+  {
+    "index": 11,
+    "summary": "分散投资全亏损，情绪沮丧，市场整体下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["开超市全绿，全亏", "低位也亏", "市场下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "不买科技也挨打，科技板块相对抗跌，其他板块更差。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技板块防御性强", "其他板块跌更多", "科技内部也分化"],
+    "mentioned_stocks": ["紫金大小姐", "神火云铝", "化工", "老登", "护垫", "东方电气"]
+  },
+  {
+    "index": 13,
+    "summary": "市场未全面上涨，老登股下跌更严重，未来下跌预期。",
+    "sentiment": "negative",
+    "key_opinions": ["全面牛未现", "老登股反包深跌", "未来下跌预期"],
+    "mentioned_stocks": ["老登", "四大"]
+  },
+  {
+    "index": 14,
+    "summary": "韩国大盘跌停，讨论去杠杆和市场波动。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国大盘跌停", "政府去杠杆类似2015", "历史大涨大跌"],
+    "mentioned_stocks": ["韩股"]
+  },
+  {
+    "index": 15,
+    "summary": "市场止跌但利润回撤，个人表现与大盘反差。",
+    "sentiment": "negative",
+    "key_opinions": ["止跌但利润回撤", "大盘涨跌个人反差大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论股票作为彩礼的可行性，幽默但质疑风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["股票当彩礼有风险", "变现容易但价值不确定", "不推荐复杂化"],
+    "mentioned_stocks": ["中国石油"]
+  },
+  {
+    "index": 17,
+    "summary": "推荐国产替代题材股票皖维高新，看好潜力。",
+    "sentiment": "positive",
+    "key_opinions": ["国产替代潜力大", "安徽国资委控股", "中报预期影响走势"],
+    "mentioned_stocks": ["皖维高新", "京东方"]
+  },
+  {
+    "index": 18,
+    "summary": "大族激光技术面看好但突发利空，机构卖出。",
+    "sentiment": "mixed",
+    "key_opinions": ["洗盘后有望上涨", "机构卖出柚子入驻", "突发小作文导致大跌"],
+    "mentioned_stocks": ["大族激光"]
+  },
+  {
+    "index": 19,
+    "summary": "锂电板块资金混乱，龙头内鬼，表现差。",
+    "sentiment": "negative",
+    "key_opinions": ["锂电板块资金脏", "龙头内鬼打压股价", "避免该板块"],
+    "mentioned_stocks": ["锂电相关", "宁德时代"]
+  },
+  {
+    "index": 20,
+    "summary": "市场波动回归，A股特色，昨天涨今天跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股波动大", "昨天涨今天跌", "市场情绪不稳定"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "坚定持有沪电股份，看好长期产能释放。",
+    "sentiment": "positive",
+    "key_opinions": ["誓死效忠沪电", "长期持有看好产能", "新证券户站岗"],
+    "mentioned_stocks": ["沪电股份"]
+  },
+  {
+    "index": 22,
+    "summary": "回本后立即下跌，挫折感强，A股磨练性格。",
+    "sentiment": "negative",
+    "key_opinions": ["回本后A杀", "A股磨练性格"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "券商板块表现差，爆拉后没好结果。",
+    "sentiment": "negative",
+    "key_opinions": ["券商板块恶心", "爆拉后必跌"],
+    "mentioned_stocks": ["券商板块"]
+  },
+  {
+    "index": 24,
+    "summary": "分享AI产业投资思路，不荐股，不定时更新。",
+    "sentiment": "positive",
+    "key_opinions": ["记录AI相关产业看法", "不荐股不发车", "支持分享"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "询问市场下跌原因，讨论加息预测。",
+    "sentiment": "mixed",
+    "key_opinions": ["下跌预期存在", "消息未知", "美元加息预测"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "推荐半导体材料股票，如盛和资源、智微智能。",
+    "sentiment": "positive",
+    "key_opinions": ["半导体材料上涨周期", "推荐具体股票", "跟车收益好"],
+    "mentioned_stocks": ["盛和资源", "智微智能", "兴森科技", "江化微"]
+  },
+  {
+    "index": 27,
+    "summary": "东山精密表现差，用户质疑，可能洗盘。",
+    "sentiment": "negative",
+    "key_opinions": ["东山精密连跌", "败绿带崩板块", "洗盘可能"],
+    "mentioned_stocks": ["东山精密", "败绿"]
+  },
+  {
+    "index": 28,
+    "summary": "询问电力板块是否到底，讨论抄底风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["电力板块有底吗", "不建议抄底", "估值差异大"],
+    "mentioned_stocks": ["电力板块", "华电辽能"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论美国加息和国内财政紧缩对市场的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["加息和紧缩导致大跌", "股灾可能", "小作文影响"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "分享AI编码的A股可视化工具，技术讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI可视化工具", "图像清晰度问题", "数据源询问"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "建议不要盲目抄底，因月初低点未买。",
+    "sentiment": "mixed",
+    "key_opinions": ["月初低点未买，现在不抄底", "逻辑未变位置更高", "有色和科技"],
+    "mentioned_stocks": ["有色", "科技"]
+  },
+  {
+    "index": 32,
+    "summary": "劝诫追高科技者，强调长期思维和研究。",
+    "sentiment": "positive",
+    "key_opinions": ["思考时间跨度重要", "多读书少看分时", "买研究过的股票"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "造车相关股票走势类似，行业竞争激烈。",
+    "sentiment": "negative",
+    "key_opinions": ["界车股票走势一致", "车厂股票都差", "行业卷到死"],
+    "mentioned_stocks": ["界车", "小米", "比亚迪"]
+  },
+  {
+    "index": 34,
+    "summary": "期待大回调买入机会，但不确定是否行动。",
+    "sentiment": "mixed",
+    "key_opinions": ["大回调机会", "不确定是否买入", "国外能直接买"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "小米股价下跌预期，多重利空因素。",
+    "sentiment": "negative",
+    "key_opinions": ["小米可能跌回20以下", "多重利空", "对比比亚迪"],
+    "mentioned_stocks": ["小米", "比亚迪", "智谱"]
+  },
+  {
+    "index": 36,
+    "summary": "有色金属板块大跌，持仓亏损严重。",
+    "sentiment": "negative",
+    "key_opinions": ["有色板块疯狂下跌", "持仓亏损", "龙头分化"],
+    "mentioned_stocks": ["中钨高新", "江钨", "东方锆业", "云南锗业"]
+  },
+  {
+    "index": 37,
+    "summary": "阳光电源在下跌时分类为科技，前期跌多还补跌。",
+    "sentiment": "negative",
+    "key_opinions": ["阳光电源和德业科技股下跌", "前期跌多还补跌", "板块分类困惑"],
+    "mentioned_stocks": ["阳光电源", "德业", "捷佳伟创"]
+  },
+  {
+    "index": 38,
+    "summary": "新手开户选股建议，推荐ETF或主板股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["新手买不了科创板", "推荐ETF或主板", "如中远海控等"],
+    "mentioned_stocks": ["中际旭创", "长江电力", "中远海控", "紫金矿业", "完美世界", "沪电股份", "中钨高新", "亨通光电"]
+  },
+  {
+    "index": 39,
+    "summary": "对三安光电表态忠诚。",
+    "sentiment": "positive",
+    "key_opinions": ["见证对三安光电的忠诚"],
+    "mentioned_stocks": ["三安光电"]
+  },
+  {
+    "index": 40,
+    "summary": "预测市场不会全面上涨，个别老登股可能逆势。",
+    "sentiment": "mixed",
+    "key_opinions": ["个别老登股可能上涨", "证券大涨但普涨牛不现实", "经济基本面问题"],
+    "mentioned_stocks": ["老登股", "证券板块"]
+  },
+  {
+    "index": 41,
+    "summary": "资金从科技切换到锂电储能，阳光电源代表科技行情。",
+    "sentiment": "positive",
+    "key_opinions": ["资金从科技切换到锂电储能", "阳光电源接力科技行情", "十五五科技行情"],
+    "mentioned_stocks": ["阳光电源", "锂电储能"]
+  }
+]
