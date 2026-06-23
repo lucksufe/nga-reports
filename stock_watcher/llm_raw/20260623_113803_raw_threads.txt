@@ -1,0 +1,326 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "讨论今日大盘下跌及科技股受拖累，对后市情绪悲观。",
+        "sentiment": "negative",
+        "key_opinions": ["创业板跌幅大，科技股被大盘拖累", "对下午走势悲观，预计继续下跌", "有人认为板块轮动至医药创新药"],
+        "mentioned_stocks": ["创业板", "长飞"]
+    },
+    {
+        "index": 2,
+        "summary": "调侃性询问某股（可能指AI硬件）下午能否V型反转。",
+        "sentiment": "mixed",
+        "key_opinions": ["有人期待该股能带动AI板块反弹", "用户开玩笑地期待反转"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 3,
+        "summary": "讨论宏和科技股价走势强劲，怀疑有机构操作。",
+        "sentiment": "mixed",
+        "key_opinions": ["猜测股价强势是机构行为", "对股价拒绝回调感到惊讶"],
+        "mentioned_stocks": ["宏和科技"]
+    },
+    {
+        "index": 4,
+        "summary": "讨论在特定价格全仓买入腾讯，看法存在分歧。",
+        "sentiment": "mixed",
+        "key_opinions": ["有用户认为当前估值便宜选择买入", "有用户认为左侧交易风险大，应等待更低价格", "讨论腾讯的AI投资策略"],
+        "mentioned_stocks": ["腾讯", "阿里"]
+    },
+    {
+        "index": 5,
+        "summary": "用户推荐圣泉集团，目标价390，引发对其逻辑和目标的质疑。",
+        "sentiment": "mixed",
+        "key_opinions": ["楼主设定较高目标价，缺乏详细逻辑", "回复者质疑目标合理性并推荐其他股票", "有人提及已下车，因信息不确定"],
+        "mentioned_stocks": ["圣泉集团", "东材"]
+    },
+    {
+        "index": 6,
+        "summary": "讨论PCB板块受“小作文”影响下跌，但对高端细分看法不一。",
+        "sentiment": "negative",
+        "key_opinions": ["小作文称行业产能过剩引发下跌", "有人认为高端AI PCB并未过剩", "有用户认为下跌是获利了结，准备抄底"],
+        "mentioned_stocks": ["PCB", "东山", "生益"]
+    },
+    {
+        "index": 7,
+        "summary": "用户分享其投资主线（半导体材料），并提及具体操作与个股。",
+        "sentiment": "positive",
+        "key_opinions": ["认为半导体材料处于上涨周期", "分享了盛和资源、智微智能等个股的操作与看法", "基于基本面（业绩、题材）选股"],
+        "mentioned_stocks": ["盛和资源", "智微智能", "兴森科技", "江化微"]
+    },
+    {
+        "index": 8,
+        "summary": "用户持有生益科技，因今日大跌询问是否应止盈。",
+        "sentiment": "negative",
+        "key_opinions": ["询问大跌后是否应止盈，担忧走势变弱", "有回复指出受行业小作文影响", "建议观察尾盘承接情况再决策"],
+        "mentioned_stocks": ["生益科技"]
+    },
+    {
+        "index": 9,
+        "summary": "用户疑惑江钨装备股价连涨强势的原因。",
+        "sentiment": "mixed",
+        "key_opinions": ["股价上涨可能因收购钨矿资产或重组预期", "股价强势可能与游资炒作、非最正宗标的有关", "有人误以为其是煤炭股"],
+        "mentioned_stocks": ["江钨装备"]
+    },
+    {
+        "index": 10,
+        "summary": "讨论大族激光近日放量后反包，是否预示启动。",
+        "sentiment": "positive",
+        "key_opinions": ["反包走势被视为积极信号，可能启动", "有用户结合庄家和柚子行为分析", "认为在大盘弱势下表现强势已属不易"],
+        "mentioned_stocks": ["大族激光"]
+    },
+    {
+        "index": 11,
+        "summary": "讨论股票LAW当前走势，认为处于较好的买入或持仓阶段。",
+        "sentiment": "mixed",
+        "key_opinions": ["认为当前是较好的买点，需要耐心", "有用户持仓并计划通过做T降低成本", "有新用户询问LAW具体所指"],
+        "mentioned_stocks": ["LAW"]
+    },
+    {
+        "index": 12,
+        "summary": "讨论胜宏科技跌破20日均线，走势弱于同行，看法悲观。",
+        "sentiment": "negative",
+        "key_opinions": ["股价相对同行表现更弱", "有用户因业绩增速问题看空", "建议去弱留强"],
+        "mentioned_stocks": ["胜宏科技"]
+    },
+    {
+        "index": 13,
+        "summary": "批判某投资公司的致信，认为其观点傲慢、逻辑错误。",
+        "sentiment": "negative",
+        "key_opinions": ["批评信中对经济政策的猜测是赌徒行为", "认为其看空AI产业是仇富心理", "指出抄底行为是贪婪导致的愚蠢"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 14,
+        "summary": "讨论紫金矿业今日下跌，用拟人化语气表达不满。",
+        "sentiment": "negative",
+        "key_opinions": ["对股价下跌感到困惑和不满", "用“大小姐”、“拉稀”等戏谑词语描述", "有用户提及已抛售或准备抄底"],
+        "mentioned_stocks": ["紫金矿业"]
+    },
+    {
+        "index": 15,
+        "summary": "询问15倍PE的小米是否值得买入，认为价格有吸引力。",
+        "sentiment": "positive",
+        "key_opinions": ["认为当前估值有吸引力，令人心动"],
+        "mentioned_stocks": ["小米"]
+    },
+    {
+        "index": 16,
+        "summary": "用户全仓追高买入老登股被套，以自嘲方式求小说推荐。",
+        "sentiment": "negative",
+        "key_opinions": ["因追高被套而无奈自嘲", "通过求推荐重生爽文来排解", "有人询问具体股票名称"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 17,
+        "summary": "讨论SpaceX估值暴涨，用户开玩笑“毒奶”其股价。",
+        "sentiment": "mixed",
+        "key_opinions": ["对SpaceX估值快速上涨感到惊讶", "用户以“毒奶”方式希望其上涨", "讨论其护城河和投资价值"],
+        "mentioned_stocks": ["SpaceX"]
+    },
+    {
+        "index": 18,
+        "summary": "用户宣布长期持有沪电股份，展示账户以示决心。",
+        "sentiment": "positive",
+        "key_opinions": ["明确表示长期持有沪电，不看短期涨跌", "看好公司未来产能释放", "其他用户希望其能坚持策略"],
+        "mentioned_stocks": ["沪电股份"]
+    },
+    {
+        "index": 19,
+        "summary": "讨论韩国股市上涨后可能面临资金接续问题，担忧监管风险。",
+        "sentiment": "mixed",
+        "key_opinions": ["担心杠杆过高导致后续资金不足", "提及政府可能出台限制杠杆的监管", "类比历史上A股杠杆牛市的结局"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 20,
+        "summary": "用户因投资胜宏科技（港股）亏损而情绪崩溃。",
+        "sentiment": "negative",
+        "key_opinions": ["因胜宏科技亏损严重影响心情", "以极端言论（希望高管绯闻）表达绝望", "有回复提及其他港股标的"],
+        "mentioned_stocks": ["胜宏科技"]
+    },
+    {
+        "index": 21,
+        "summary": "用户股票刚回本就遭遇大跌，心情沮丧。",
+        "sentiment": "negative",
+        "key_opinions": ["描述A股市场的磨人特性", "因回本后即大跌感到痛苦"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 22,
+        "summary": "讨论锂电池板块，有人询问或分享持仓体验。",
+        "sentiment": "mixed",
+        "key_opinions": ["有用户持有天赐材料感觉尚可", "有用户坚决不买锂电池，认为受小作文影响大", "讨论盐湖股份是否算锂电股"],
+        "mentioned_stocks": ["天赐材料", "盐湖股份", "天华新能"]
+    },
+    {
+        "index": 23,
+        "summary": "用户长期持有银行股，询问在兴业与华夏银行之间如何选择。",
+        "sentiment": "mixed",
+        "key_opinions": ["从农行换仓，寻求更高股息或更好选择", "有用户推荐招行，但认为价格贵", "讨论兴业银行坏账情况相对较好"],
+        "mentioned_stocks": ["兴业银行", "华夏银行", "招商银行", "农业银行"]
+    },
+    {
+        "index": 24,
+        "summary": "抱怨有色板块（尤其紫金矿业）下跌，觉得走势莫名。",
+        "sentiment": "negative",
+        "key_opinions": ["对有色板块大跌感到困惑", "质疑下跌与基本面或期货走势不符", "戏称紫金矿业走势“抽插”"],
+        "mentioned_stocks": ["紫金矿业", "有色"]
+    },
+    {
+        "index": 25,
+        "summary": "简单询问爱迪特这个股票怎么样。",
+        "sentiment": "mixed",
+        "key_opinions": ["无实质性观点，仅为提问"],
+        "mentioned_stocks": ["爱迪特"]
+    },
+    {
+        "index": 26,
+        "summary": "用户对昊华科技股价波动表示刺激。",
+        "sentiment": "mixed",
+        "key_opinions": ["用多个“闪光”表情形容股价波动大"],
+        "mentioned_stocks": ["昊华科技"]
+    },
+    {
+        "index": 27,
+        "summary": "感慨A股市场熟悉的冲高回落味道，用户再次被套。",
+        "sentiment": "negative",
+        "key_opinions": ["描述市场熟悉的高开低走模式", "用户自述再次被套"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 28,
+        "summary": "用户吐槽Claude AI在股票分析问题上出错，并引发讨论。",
+        "sentiment": "negative",
+        "key_opinions": ["用户测试AI股票分析时发现其回答错误", "质疑大语言模型处理精确数据的能力", "建议量化分析应使用Python脚本"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 29,
+        "summary": "讨论完美世界股价下跌，询问是否还有希望。",
+        "sentiment": "negative",
+        "key_opinions": ["股价持续下跌，抄底困难", "有用户建议割肉换赛道", "不看好游戏股当前前景"],
+        "mentioned_stocks": ["完美世界"]
+    },
+    {
+        "index": 30,
+        "summary": "询问今日生物医药板块上涨的原因。",
+        "sentiment": "mixed",
+        "key_opinions": ["有用户询问是否有利好消息", "有用户认为只是超跌反弹，很正常"],
+        "mentioned_stocks": ["生物医药"]
+    },
+    {
+        "index": 31,
+        "summary": "用户分享成功抄底利通电子，并再次抄底红星发展，引发对“抄底”的讨论。",
+        "sentiment": "mixed",
+        "key_opinions": ["用户认为基本面没问题，下跌是情绪导致", "有用户质疑当前价位是否算“抄底”", "讨论“抄底”行为的风险"],
+        "mentioned_stocks": ["利通电子", "红星发展"]
+    },
+    {
+        "index": 32,
+        "summary": "用户因自己卖出后股票涨停而被调侃，自嘲导致了板块下跌。",
+        "sentiment": "negative",
+        "key_opinions": ["用户自嘲卖飞，被戏称为市场下跌的“元凶”", "描述自己被套后心态失衡导致操作失误"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 33,
+        "summary": "用户开设新楼记录对AI产业的看法，并附上总结图。",
+        "sentiment": "positive",
+        "key_opinions": ["用户准备系统记录对AI产业的看法", "认为大盘可能开启主升", "帖子获得众多用户支持"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 34,
+        "summary": "用户刚开通创业板，询问有哪些好股票。",
+        "sentiment": "mixed",
+        "key_opinions": ["有回复推荐胜宏科技，并带有调侃语气", "有回复直接推荐中际旭创", "有用户推荐其他板块股票"],
+        "mentioned_stocks": ["鼎龙股份", "胜宏科技", "中际旭创"]
+    },
+    {
+        "index": 35,
+        "summary": "讨论利通电子股价异动，分析原因及风险。",
+        "sentiment": "mixed",
+        "key_opinions": ["讨论股价异动规则", "认为股价上涨可能因中报业绩预期", "提醒需注意监管风险"],
+        "mentioned_stocks": ["利通电子"]
+    },
+    {
+        "index": 36,
+        "summary": "用户计划用十万资金买入生益科技和沪电股份并长期持有。",
+        "sentiment": "mixed",
+        "key_opinions": ["有用户提醒这两只股涨幅已大，风险高", "有用户认为这种策略比买杂毛股靠谱", "质疑死拿不动的可行性"],
+        "mentioned_stocks": ["生益科技", "沪电股份"]
+    },
+    {
+        "index": 37,
+        "summary": "反驳“AI软件不赚钱将减少硬件开支”的担忧，以宁德时代类比。",
+        "sentiment": "positive",
+        "key_opinions": ["认为AI硬件投资具有不可替代的性感吸引力", "以汽车行业与宁德时代的关系类比", "反驳认为不会因软件影响而减少硬件投入"],
+        "mentioned_stocks": ["宁德时代"]
+    },
+    {
+        "index": 38,
+        "summary": "利通电子持有者集合讨论，分享持仓体验和操作。",
+        "sentiment": "mixed",
+        "key_opinions": ["持有者庆祝或接近回本", "有人计划继续持有至中报", "有人已获利了结"],
+        "mentioned_stocks": ["利通电子"]
+    },
+    {
+        "index": 39,
+        "summary": "讨论英伟达Vera Rubin平台之后的下一个投资热点。",
+        "sentiment": "mixed",
+        "key_opinions": ["提供了Vera Rubin平台的出货时间线", "有用户指出可以继续炒下一代产品Feynman"],
+        "mentioned_stocks": ["英伟达"]
+    },
+    {
+        "index": 40,
+        "summary": "讨论红利低波基金是否能抄底，反对“抄底”思维。",
+        "sentiment": "mixed",
+        "key_opinions": ["观察到基金群都在讨论抄底", "指出抄底者往往拿不住", "建议通过定投分批买入"],
+        "mentioned_stocks": ["红利低波基金"]
+    },
+    {
+        "index": 41,
+        "summary": "用户将某位“帅小伙”看空胜宏科技视为反向利好信号，进行调侃。",
+        "sentiment": "mixed",
+        "key_opinions": ["将看空者观点作为反向指标，认为利空出尽是利好", "通过历史案例进行调侃", "其他用户担心此帖成为“利空”"],
+        "mentioned_stocks": ["胜宏科技", "中钨高新"]
+    },
+    {
+        "index": 42,
+        "summary": "观测到沪深300ETF放巨量，猜测是“国家队”在卖出砸盘。",
+        "sentiment": "negative",
+        "key_opinions": ["猜测国家队利用ETF卖出筹码", "认为可能是为了控制指数涨幅（慢牛）", "讨论国家队剩余筹码可能不多"],
+        "mentioned_stocks": ["沪深300ETF"]
+    },
+    {
+        "index": 43,
+        "summary": "用户“路过的帅小伙”因买入立昂微即被套而建立“恨楼”，引发围观和反向期盼。",
+        "sentiment": "mixed",
+        "key_opinions": ["用户买入即套，心态自嘲", "其他用户将其视为反向指标，希望他卖出后股价上涨", "戏称其存在是“史诗级利空”"],
+        "mentioned_stocks": ["立昂微"]
+    },
+    {
+        "index": 44,
+        "summary": "通过图表展示今日科技股走势，表达对市场波动的困惑。",
+        "sentiment": "mixed",
+        "key_opinions": ["科技股走势反复，红绿交替", "新手对这种波动感到困惑", "有人疑惑今日谁能赚钱"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 45,
+        "summary": "时隔两个月再次提起“大郎，该吃药了”，询问哪只医药股中报会超预期。",
+        "sentiment": "mixed",
+        "key_opinions": ["用经典梗询问医药板块机会", "有用户推荐药明康德", "有用户开玩笑转移话题至白酒"],
+        "mentioned_stocks": ["药明康德"]
+    },
+    {
+        "index": 46,
+        "summary": "用户开帖记录交易思考，分享当前持仓、市场判断和个股分析。",
+        "sentiment": "mixed",
+        "key_opinions": ["当前策略是紧跟中报业绩线", "分析亿纬锂能不同情景下的估值", "分享对港股胜宏科技和快手的调仓"],
+        "mentioned_stocks": ["亿纬锂能", "胜宏科技", "快手"]
+    }
+]
+```
