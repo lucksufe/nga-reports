@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "用户询问跨六服务器公会，讨论转向DNF游戏，建议别充钱。",
+    "sentiment": "mixed",
+    "key_opinions": ["想找活跃公会混日子", "游戏不值得充钱", "建议去其他服务器"],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论三星高额回购股票，与美股比较，被认为像操纵股价。",
+    "sentiment": "positive",
+    "key_opinions": ["三星回购90万亿韩元，金额巨大", "对比小米资金更足", "可能像美股操纵股价"],
+    "mentioned_stocks": ["三星", "小米", "海力士"]
+  },
+  {
+    "index": 3,
+    "summary": "推荐新莱应材股票，基于半导体业务和技术潜力。",
+    "sentiment": "positive",
+    "key_opinions": ["半导体业务占比上升，满产满销", "有光刻胶液冷等技术概念", "估值难估，可能翻倍"],
+    "mentioned_stocks": ["新莱应材"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论小米股票下跌事件，散户因亏损破防变黑粉。",
+    "sentiment": "negative",
+    "key_opinions": ["小米粉丝因亏损变黑粉", "没有核心竞争力，股价下跌", "投资风险，不应抱怨"],
+    "mentioned_stocks": ["小米"]
+  },
+  {
+    "index": 5,
+    "summary": "询问盛和资源情况，涉及稀土和材料，建议关注其他股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["目标价40-50，有逻辑和基本面", "稀土管制但氧化钇等可出口", "建议买旭光电子等其他股"],
+    "mentioned_stocks": ["盛和资源", "旭光电子", "国瓷材料", "中瓷电子"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论韩国股市跳水，可能受A股影响，亚洲市场联动。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市跳水", "A股开盘可能带来压力", "亚洲市场联动效应"],
+    "mentioned_stocks": ["三星", "海力士"]
+  },
+  {
+    "index": 7,
+    "summary": "比较黄金和‘老登股’，讨论资产属性和资金流向。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金被原油和美元压制", "资金流向科技股", "黄金是古老资产类似老登股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "比较预测足球比分和股票走势的难度，中性讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["股票只有涨跌，足球更多可能", "足球有黑幕更难预测", "都是概率问题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论牛市是否由美国降息驱动，担忧加息结束影响。",
+    "sentiment": "negative",
+    "key_opinions": ["牛市可能因美国降息开始", "可能随加息结束", "中国政策影响不大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论A股今天跟随日本还是韩国市场，预测独立行情。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股可能独立行情", "跟随日本或韩国市场", "预测市场行为不确定"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "关注美国PCE物价数据公布，担忧对市场影响。",
+    "sentiment": "negative",
+    "key_opinions": ["PCE数据可能影响市场", "预期通胀可能导致下跌", "询问PCE是什么"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "预测今天市场强修复或反包，有乐观和怀疑观点。",
+    "sentiment": "mixed",
+    "key_opinions": ["期望市场修复反包", "外围大涨可能影响", "A股特性可能导致跳水"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论游资紫阳东路操作，常砸盘影响股价。",
+    "sentiment": "negative",
+    "key_opinions": ["紫阳东路可能砸盘", "第二天必砸参考中钨", "操作风格偏趋势但负面"],
+    "mentioned_stocks": ["利通", "中钨", "莲花"]
+  },
+  {
+    "index": 14,
+    "summary": "分析美股大跌与A股关系，讨论市场联动原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股大跌可能影响A股", "中韩先跌美股后跌", "市场联动辩论"],
+    "mentioned_stocks": ["三星", "海力士", "美光", "闪迪"]
+  },
+  {
+    "index": 15,
+    "summary": "赞美三星高额回购股票，股价上涨，业绩好。",
+    "sentiment": "positive",
+    "key_opinions": ["三星回购90万亿韩元股价涨10%", "业绩好合同多", "可能像美联储操纵股价"],
+    "mentioned_stocks": ["三星"]
+  },
+  {
+    "index": 16,
+    "summary": "推荐关注MLCC和半导体材料股票，如盛和资源。",
+    "sentiment": "positive",
+    "key_opinions": ["半导体材料上涨周期", "盛和资源有逻辑", "智微智能两连板"],
+    "mentioned_stocks": ["盛和资源", "智微智能", "兴森科技", "江化微"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论AI视频工具seedance2.5发布，对AI应用影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["seedance2.5改进视频生成", "可能利好AI应用", "A股AI板块软弱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "推荐天赐材料电解液龙头，等待突破信号。",
+    "sentiment": "positive",
+    "key_opinions": ["天赐材料市占率高", "业务集中锂离子电池", "等待站稳53买入"],
+    "mentioned_stocks": ["天赐材料"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论韩国指数涨停异常，像妖股，担忧对A股影响。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国指数像妖股涨停", "跌停涨停常见", "担心对A股影响"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论大跌后高开是否卖出，遵循‘祖训’建议跑。",
+    "sentiment": "negative",
+    "key_opinions": ["大跌后高开可能下跌", "祖训建议跑", "可能低开"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "用户因股市下跌感到绝望，利润垫薄被逼到绝路。",
+    "sentiment": "negative",
+    "key_opinions": ["利润垫薄被逼到绝路", "明天可能继续下跌", "心态崩溃"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "质疑韩国指数暴涨代表性，三星回购带动，对A股利好。",
+    "sentiment": "mixed",
+    "key_opinions": ["三星回购带动指数", "韩国股市波动大", "对A股利好"],
+    "mentioned_stocks": ["三星"]
+  },
+  {
+    "index": 23,
+    "summary": "询问账户突然有钱原因，可能是利息结息。",
+    "sentiment": "positive",
+    "key_opinions": ["可能是利息结息", "类似银行活期利息", "钱在证券账户"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论SpaceX发行250亿美元债券新闻。",
+    "sentiment": "neutral",
+    "key_opinions": ["SpaceX发行债券", "长期债务30年"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "询问是否买入利通电子，风险高，紫阳东路可能砸盘。",
+    "sentiment": "negative",
+    "key_opinions": ["紫阳东路可能砸盘", "之前涨幅大现在价高", "行业逻辑有问题"],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论美的分红后买入时机，填权预期，欧洲需求大。",
+    "sentiment": "positive",
+    "key_opinions": ["分红后买入可能避免税", "填权预期", "欧洲空调需求大"],
+    "mentioned_stocks": ["美的"]
+  },
+  {
+    "index": 27,
+    "summary": "记录对AI产业看法，可能主升，不荐股。",
+    "sentiment": "positive",
+    "key_opinions": ["大盘可能开启主升", "AI相关产业记录", "不荐股但分享观点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "质疑市场小作文故意操纵，美银预测导致下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["小作文可能故意操纵市场", "美银预测影响", "市场操控批评"],
+    "mentioned_stocks": ["美光", "闪迪", "海力士"]
+  },
+  {
+    "index": 29,
+    "summary": "早盘策略，看好液冷和氦气板块，推荐相关股票。",
+    "sentiment": "positive",
+    "key_opinions": ["看好液冷和氦气板块", "推荐具体股票", "美股大跌量力而行"],
+    "mentioned_stocks": ["圣阳股份", "英维克", "川润股份", "凯美特气", "九丰能源", "宝光股份", "正帆科技"]
+  },
+  {
+    "index": 30,
+    "summary": "分享龙虎榜观测，买川润和大唐发电基本不亏，有亏有赚。",
+    "sentiment": "mixed",
+    "key_opinions": ["买川润和大唐发电基本不亏", "大族激光起飞", "亏损记录江丰"],
+    "mentioned_stocks": ["川润", "大唐发电", "大族激光", "江丰", "红豆", "化工"]
+  },
+  {
+    "index": 31,
+    "summary": "分析AI股暴跌原因，韩国报道可能引发，美银预测影响。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国报道可能引发暴跌", "美银加息预测影响", "市场情绪担忧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "用户因美银预测导致亏损愤怒，心态崩溃，失业中。",
+    "sentiment": "negative",
+    "key_opinions": ["恨美银的小作文", "心态崩溃失业中", "建议用闲钱炒股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "讨论存储暴跌时消费电子可能上涨，市场联动。",
+    "sentiment": "mixed",
+    "key_opinions": ["存储暴跌可能利好消费电子", "消费电子ETF持仓兆易创新", "市场联动假设"],
+    "mentioned_stocks": ["兆易创新", "立讯"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论低开时买入什么，仓位不足遗憾，预测高开低走。",
+    "sentiment": "mixed",
+    "key_opinions": ["低开可能机会", "仓位不足遗憾", "预测高开低走"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "比喻股市从赚钱到亏钱，‘麻袋装人’，期待独立行情。",
+    "sentiment": "negative",
+    "key_opinions": ["前天赚钱今天亏钱", "期待独立行情", "卖麻袋代码幽默"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "预测恒科指数下跌与上证碰头，港股环境差，悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["恒科下跌无止跌迹象", "小米腾讯估值讨论", "港股环境差"],
+    "mentioned_stocks": ["小米", "腾讯"]
+  },
+  {
+    "index": 37,
+    "summary": "用户幻想市场上涨，但可能跳水，股市现实。",
+    "sentiment": "negative",
+    "key_opinions": ["幻想高开", "但可能跳水", "股市现实讽刺"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "比较SpaceX和小米，粉丝追高亏钱，批评高风险投资。",
+    "sentiment": "negative",
+    "key_opinions": ["SpaceX可能像小米下跌", "粉丝追高亏钱", "高风险投资批评"],
+    "mentioned_stocks": ["小米"]
+  },
+  {
+    "index": 39,
+    "summary": "抱怨完美世界股票下跌快，‘臭了’。",
+    "sentiment": "negative",
+    "key_opinions": ["完美世界股票臭了", "跌得快", "有股榴莲味"],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论消费股未来悲观，除非分红回购，人口减少影响。",
+    "sentiment": "negative",
+    "key_opinions": ["消费股无未来除非分红回购", "人口减少影响", "消费行为持续但形式变化"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "分享美股和韩国市场修复消息，但波动大，担忧。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股盘后修复", "韩国涨但可能跳水", "市场波动"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "坚信科技股上涨未结束，因长江存储等未上市需热场。",
+    "sentiment": "positive",
+    "key_opinions": ["科技股未走完", "两长上市前需热场", "预判市场乐观"],
+    "mentioned_stocks": ["长江存储", "长鑫存储"]
+  },
+  {
+    "index": 43,
+    "summary": "关于华润新能源公告日期疑问，学习股市规则。",
+    "sentiment": "positive",
+    "key_opinions": ["公告日期为下个交易日", "新股中签讨论", "打新收益"],
+    "mentioned_stocks": ["华润新能源"]
+  },
+  {
+    "index": 44,
+    "summary": "幽默讨论韩国和日本市场，三星回购传闻。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国市场跳水", "三星回购传闻", "亚洲市场联动调侃"],
+    "mentioned_stocks": ["三星"]
+  },
+  {
+    "index": 45,
+    "summary": "鼓励韩国市场顶住压力，A股像闯关游戏。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国市场跳水后V型反弹", "A股像闯关游戏", "等待开盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "讨论A股IPO数量增加，批评融资市和垃圾公司上市。",
+    "sentiment": "negative",
+    "key_opinions": ["IPO数量增加", "融资市定位", "垃圾公司上市批评"],
+    "mentioned_stocks": ["长鑫存储", "长江存储"]
+  },
+  {
+    "index": 47,
+    "summary": "猜测海力士是否V型反弹，AI硬件看它。",
+    "sentiment": "mixed",
+    "key_opinions": ["海力士可能V型反弹", "AI硬件看它"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 48,
+    "summary": "抱怨炒股复杂需全天候盯盘，建议做长线。",
+    "sentiment": "negative",
+    "key_opinions": ["炒股不简单需盯盘", "建议做长线", "心态管理"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "讨论市场小作文泛滥，可能杀多杀空，热点如磷化铟。",
+    "sentiment": "mixed",
+    "key_opinions": ["小作文满天飞", "可能杀多杀空", "磷化铟、光芯片热点"],
+    "mentioned_stocks": ["云锗", "有研", "东山"]
+  },
+  {
+    "index": 50,
+    "summary": "用户因焦虑盯盘纳指，建议休息或销户。",
+    "sentiment": "negative",
+    "key_opinions": ["盯盘看纳指", "心态焦虑", "建议休息或销户"],
+    "mentioned_stocks": ["纳指"]
+  }
+]
