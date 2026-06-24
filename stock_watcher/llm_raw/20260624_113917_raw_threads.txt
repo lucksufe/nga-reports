@@ -1,0 +1,331 @@
+[
+  {
+    "index": 1,
+    "summary": "用户买入盛和后亏损，寻求安慰，有建议在30元补仓、40元卖出。",
+    "sentiment": "negative",
+    "key_opinions": ["买入后跌停，寻求心理安慰。", "有建议在30元补仓，40元卖出。"],
+    "mentioned_stocks": ["盛和"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论LAW股票突然下跌的原因，涉及交易策略和时机。",
+    "sentiment": "negative",
+    "key_opinions": ["LAW突然下跌，被描述为盖帽。", "有人讨论卖点时机和操作选择。", "提到10点或10:30是砸盘时间点。"],
+    "mentioned_stocks": ["LAW", "中钨", "昊华科技"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论持有龟龟股票的心态问题，比较ETF，关注解禁影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["持有龟龟股票心态难熬。", "有人认为买ETF可能更好。", "讨论解禁是否算利空落地。"],
+    "mentioned_stocks": ["龟龟"]
+  },
+  {
+    "index": 4,
+    "summary": "用户分享早上抄底云南锗业、太极实业和永衫锂业的行动。",
+    "sentiment": "positive",
+    "key_opinions": ["用户抄底了云南锗业、太极实业和永衫锂业。"],
+    "mentioned_stocks": ["云南锗业", "太极实业", "永衫锂业"]
+  },
+  {
+    "index": 5,
+    "summary": "满仓用户担心下跌，讨论是否清仓，建议不同策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["满仓用户担心跌破支撑位。", "建议长线持有或短线看技术指标。", "提到中报可能影响。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "深入分析天赐材料的业务和投资机会，有用户分享亏损经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["天赐材料主营电解液，全球市占率高。", "有人分享在天赐材料上的亏损经历。", "讨论电池板块的观察时机。"],
+    "mentioned_stocks": ["天赐材料", "宁德时代", "亿纬锂能", "富祥"]
+  },
+  {
+    "index": 7,
+    "summary": "推荐关注创新药和AI+医疗板块，讨论投资机会。",
+    "sentiment": "positive",
+    "key_opinions": ["创新药板块独立叙事，受益于AI。", "有人分享买入猴子药并表现不错。", "讨论推荐的股票代码。"],
+    "mentioned_stocks": ["药明康德", "猴子药", "恒瑞"]
+  },
+  {
+    "index": 8,
+    "summary": "抱怨港股被外资量化交易操纵，呼吁干预。",
+    "sentiment": "negative",
+    "key_opinions": ["港股被外资量化刷钱，脱离基本面。", "有人认为应关闭港股市场。", "讨论港股缺乏主权货币锚定。"],
+    "mentioned_stocks": ["港股", "恒科"]
+  },
+  {
+    "index": 9,
+    "summary": "用户指出中午收盘价巧合，可能暗示技术分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["中午收盘价有巧合。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论LAW股票当前是好买点，强调耐心持有。",
+    "sentiment": "positive",
+    "key_opinions": ["LAW当前是好买点，洗盘后可能上涨。", "讨论耐心持有和做T回本。", "询问LAW是什么股票。"],
+    "mentioned_stocks": ["LAW"]
+  },
+  {
+    "index": 11,
+    "summary": "用户从有色ETF转换到通信ETF，因有色板块表现差。",
+    "sentiment": "negative",
+    "key_opinions": ["有色板块表现差，半年亏损。", "转换到通信ETF寻求机会。"],
+    "mentioned_stocks": ["有色ETF", "通信ETF"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论加仓操作，对尾盘走势有不同预测。",
+    "sentiment": "mixed",
+    "key_opinions": ["有用户加仓，认为跌无可跌将起飞。", "有回复警告尾盘可能跳水。", "讨论市场情绪和走势。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "新手分享成功做T的经验，讨论风险。",
+    "sentiment": "positive",
+    "key_opinions": ["成功做T带来开心。", "讨论做T的风险如卖飞。", "提到美光科技财报前的不安。"],
+    "mentioned_stocks": ["酱油", "美光科技"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论利通股票操作，朋友亏损心态崩，分享持有策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["朋友高位买入低价卖出心态崩。", "讨论龙头股控异动重要性。", "有人分享硬扛亏损后翻红。"],
+    "mentioned_stocks": ["利通", "宏景协创"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论药明康德股票反转上涨，设定目标价。",
+    "sentiment": "positive",
+    "key_opinions": ["药明康德反转力度大，利空出尽。", "设定目标价160元。", "讨论是否埋伏二季度预报。"],
+    "mentioned_stocks": ["药明康德", "长飞"]
+  },
+  {
+    "index": 16,
+    "summary": "抱怨市场4000+股票下跌，但自选股票上涨，表达困惑。",
+    "sentiment": "negative",
+    "key_opinions": ["市场4000+股票下跌，但自选全红。", "讨论科技缩圈现象。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论小米股价下跌趋势，预测进一步下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["小米股价从60跌到可能20以下。", "讨论消费电子和汽车业务困境。", "对比比亚迪等竞争。"],
+    "mentioned_stocks": ["小米", "比亚迪", "智谱"]
+  },
+  {
+    "index": 18,
+    "summary": "认为中国股市是融资市场，国家队赚钱，看外盘脸色。",
+    "sentiment": "negative",
+    "key_opinions": ["股市本质是融资市场，国家队赚钱。", "股市看外盘脸色。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "询问锂电板块投资者，分享在天赐材料上的经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["讨论锂电板块投资。", "有人分享在天赐材料上亏损。", "提到缺德时代的小作文影响。"],
+    "mentioned_stocks": ["天赐", "盐湖", "天华"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论胜宏科技股票，提到中报和白月光。",
+    "sentiment": "mixed",
+    "key_opinions": ["讨论胜宏科技股票表现。", "提到中报来临和白月光。"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论某股票或指数突然下跌，关联韩国去杠杆。",
+    "sentiment": "negative",
+    "key_opinions": ["股票或指数突然下跌。", "讨论韩国融资盘去杠杆影响。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "持有红星发展股票，亏损难熬，寻求安慰。",
+    "sentiment": "negative",
+    "key_opinions": ["持有红星发展亏损难熬。", "讨论主力洗盘和出货。", "提到玻璃基板和PCB概念。"],
+    "mentioned_stocks": ["红星发展", "京东方"]
+  },
+  {
+    "index": 23,
+    "summary": "比较沪电和生益电子表现，讨论PCB板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["沪电表现不如生益电子。", "讨论PCB上游和中游差异。", "提到PCB扩产可能利好上游。"],
+    "mentioned_stocks": ["沪电", "生益", "胜宏", "东山", "败绿", "宏和科技", "中国巨石"]
+  },
+  {
+    "index": 24,
+    "summary": "批评中国股市看外盘脸色，呼吁独立。",
+    "sentiment": "negative",
+    "key_opinions": ["股市应看自己脸色，而非外盘。", "讨论金融软骨头问题。", "抱怨股市下跌多。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "指出药明康德新高涨停，看好创新药板块。",
+    "sentiment": "positive",
+    "key_opinions": ["药明康德新高涨停。", "创新药板块可能有投资机会。"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 26,
+    "summary": "用户感觉持仓下跌，但市场整体下跌多，讨论分化。",
+    "sentiment": "negative",
+    "key_opinions": ["用户感觉持仓下跌，但市场普跌。", "讨论科技板块吸金导致其他下跌。", "提到老登股票表现。"],
+    "mentioned_stocks": ["巨化"]
+  },
+  {
+    "index": 27,
+    "summary": "分享不操作策略，持有核心票，汇报收益。",
+    "sentiment": "positive",
+    "key_opinions": ["尝试不操作一个月，持有核心票。", "分享收益和持仓。", "讨论中线持有机会。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "指出美元指数强势新高，可能影响牛市。",
+    "sentiment": "negative",
+    "key_opinions": ["美元指数创新高，市场按加息预期走。", "可能意味着牛市结束。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "建议关注韩国股市，预测A股跟随。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市先跌，A股可能跟随。", "讨论半导体龙头韩国公司影响。", "抱怨A股缺乏独立性。"],
+    "mentioned_stocks": ["韩指", "海力士", "三星"]
+  },
+  {
+    "index": 30,
+    "summary": "再次讨论药明康德，认为被低估，但黑天鹅多。",
+    "sentiment": "mixed",
+    "key_opinions": ["药明康德被低估，扣非增速高。", "黑天鹅事件频繁影响。", "讨论跟随李割操作。"],
+    "mentioned_stocks": ["药明康德", "涪陵榨菜"]
+  },
+  {
+    "index": 31,
+    "summary": "用户惊讶于市场普跌，自己的股票跳水。",
+    "sentiment": "negative",
+    "key_opinions": ["市场4600家股票下跌。", "科技反弹吸走老登资金。", "微盘股下跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "讨论电网设备板块股票推荐。",
+    "sentiment": "mixed",
+    "key_opinions": ["推荐中国西电、汉缆股份等。", "思源电气被认为是白月光。", "特变电工体验不好。"],
+    "mentioned_stocks": ["特变电工", "中国西电", "汉缆股份", "福达合金", "思源电气", "四方"]
+  },
+  {
+    "index": 33,
+    "summary": "用户认为A股强势，但回复警告下午可能下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股指数相对坚挺。", "警告下午可能下跌。", "讨论市场分化严重。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论美元强势的原因，涉及加息、缩表等。",
+    "sentiment": "mixed",
+    "key_opinions": ["美元强势因加息预期、缩表等。", "欧元日元更差导致美元指数上升。", "讨论人民币政策影响。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "抱怨A股跟随外盘下跌，不走独立行情。",
+    "sentiment": "negative",
+    "key_opinions": ["A股跟跌外盘，缺乏独立性。", "讨论出口依赖和订单来源。", "科技板块看小纳期货脸色。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "担忧明天市场，讨论反弹可能性。",
+    "sentiment": "mixed",
+    "key_opinions": ["担忧明天市场下跌。", "有预测明天反弹。", "提到韩国股市影响。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "批评有色板块表现抽象，随AI涨但下跌爆破。",
+    "sentiment": "negative",
+    "key_opinions": ["有色板块随AI涨但下跌爆破。", "讨论紫金等龙头股表现差。", "有色资金太脏。"],
+    "mentioned_stocks": ["紫金", "金钼股份", "洛阳钼业"]
+  },
+  {
+    "index": 38,
+    "summary": "比较宏景协创、利通和润泽科技的差异。",
+    "sentiment": "mixed",
+    "key_opinions": ["润泽是机构票，没有卡。", "宏景协创和利通有不同表现。", "润泽本质是地产商。"],
+    "mentioned_stocks": ["宏景协创", "利通", "润泽", "东阳光"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论前天大涨后回落，推测主力拉高出货。",
+    "sentiment": "negative",
+    "key_opinions": ["前天大涨后回落，可能拉高出货。", "配合新闻吸引韭菜进场。", "深证指数突破前高但可能是掩护出货。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论牛市起源与美国降息，可能随加息结束。",
+    "sentiment": "mixed",
+    "key_opinions": ["牛市可能因美国降息开始。", "可能随美国加息结束。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "讨论长电科技股票上涨，主力流入。",
+    "sentiment": "positive",
+    "key_opinions": ["长电科技主力流入50亿。", "讨论封测是行情尾巴。", "提到台积电涨价消息。"],
+    "mentioned_stocks": ["长电", "东山", "台积电"]
+  },
+  {
+    "index": 42,
+    "summary": "推荐关注MLCC和半导体材料上游，分享投资策略。",
+    "sentiment": "positive",
+    "key_opinions": ["推荐盛和资源、智微智能等股票。", "讨论半导体材料上涨周期。", "分享策略如30以下买，40以上卖。"],
+    "mentioned_stocks": ["盛和资源", "智微智能", "兴森科技", "江化微"]
+  },
+  {
+    "index": 43,
+    "summary": "寻找能躺平赚钱的ETF或股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["推荐中钨、立昂微等股票。", "提到半岛铁盒ETF。", "讨论高股息四大行躺平。"],
+    "mentioned_stocks": ["中钨", "立昂微", "沪硅", "四大行"]
+  },
+  {
+    "index": 44,
+    "summary": "分享卖飞美光科技股票的遗憾。",
+    "sentiment": "negative",
+    "key_opinions": ["美光科技股票大涨，但用户卖飞。", "讨论存储板块投资。", "提到海力士可能登录美股。"],
+    "mentioned_stocks": ["美光", "海力士"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论投资科技板块ETF的选择。",
+    "sentiment": "positive",
+    "key_opinions": ["讨论515880、515580、515050等ETF。", "推荐科创50、消费电子等ETF。"],
+    "mentioned_stocks": ["ETF", "515880", "515580", "515050"]
+  },
+  {
+    "index": 46,
+    "summary": "预测下半年市场持续分化，多数股票下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["预测下半年多数股票下跌。", "讨论科技板块成交量占比高。", "市场结构性牛市导致分化。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "认为个股太乱，转而投资ETF。",
+    "sentiment": "negative",
+    "key_opinions": ["个股太乱，风险高。", "选择买ETF躺平。"],
+    "mentioned_stocks": ["ETF"]
+  }
+]
