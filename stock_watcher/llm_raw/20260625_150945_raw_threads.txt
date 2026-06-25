@@ -1,0 +1,470 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论澜起科技作为全球内存接口芯片龙头，展望股价到500元。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "澜起科技是内存接口芯片全球龙头",
+      "展望股价到500元",
+      "部分用户因科创板限制无法买入"
+    ],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论中钨高新的抛压和尾盘买入行为。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "NGA营业部操作影响股价",
+      "目标价可能到120",
+      "部分用户减仓观望"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 3,
+    "summary": "用户担忧中天科技尾盘竞价涨停，担心第二天下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "尾盘竞价涨停可能引发第二天抛售",
+      "基于历史经验担心重演"
+    ],
+    "mentioned_stocks": ["中天科技"]
+  },
+  {
+    "index": 4,
+    "summary": "用户认为利通电子下午可能下跌，但有利润缓冲。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "预期下午股价下跌",
+      "有利润垫，早上加仓"
+    ],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论中际旭创作为科技股风向标，近期表现不佳。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中际旭创是科技股风向标，但表现乏力",
+      "影响其他科技股",
+      "用户考虑做套或持有"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 6,
+    "summary": "用户因恐慌卖出中钨高新，现在后悔卖飞。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "恐慌卖出导致卖飞",
+      "反思拿不住股票",
+      "讨论认知和利润"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 7,
+    "summary": "用户今天加仓存储板块，询问风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "担心加仓存储的风险",
+      "认为只要美股没事就能高开",
+      "存储板块稳定"
+    ],
+    "mentioned_stocks": ["存储相关股票"]
+  },
+  {
+    "index": 8,
+    "summary": "用户抱怨港股ETF亏损严重。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "港股ETF亏损成为最大亏损票",
+      "仓位低时未割，现在亏损"
+    ],
+    "mentioned_stocks": ["港股ETF"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论招商银行股价跌到35元时是否适合抄底。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "35元是不错的建仓价位",
+      "可能继续下跌到更低点",
+      "银行股是科技股对手盘"
+    ],
+    "mentioned_stocks": ["招商银行"]
+  },
+  {
+    "index": 10,
+    "summary": "阿里巴巴股价快回吐完“DeepSeek时刻”以来的涨幅。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价回吐涨幅，跌得狠",
+      "不理解下跌原因",
+      "提及Anthropic批评等利空"
+    ],
+    "mentioned_stocks": ["阿里巴巴"]
+  },
+  {
+    "index": 11,
+    "summary": "用户计划在牛市中一个月不操作股票，展示当前持仓。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "尝试长期持有，不做交易",
+      "为新手打样",
+      "展示持仓收益"
+    ],
+    "mentioned_stocks": ["未具体指定"]
+  },
+  {
+    "index": 12,
+    "summary": "分享与保守投资者的争论，强调科技股投资。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "批评老登观点如买中字头、油气等",
+      "认为科技股有业绩支撑",
+      "强调认知差异"
+    ],
+    "mentioned_stocks": ["中际旭创", "新易盛", "兆易创新", "京东方", "铜陵有色"]
+  },
+  {
+    "index": 13,
+    "summary": "用户认为科技股在市值排名中占比低，被低估。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "科技股在市值前10中占比少",
+      "未来科技股应主导市场",
+      "可能被反驳市值不等于估值"
+    ],
+    "mentioned_stocks": ["银行股", "能源股", "运营商", "科技股"]
+  },
+  {
+    "index": 14,
+    "summary": "用户纠结是否卖出强瑞技术，成本高，亏损中。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "止损设置大",
+      "放量出货时未及时卖出",
+      "因他人建议而持有"
+    ],
+    "mentioned_stocks": ["强瑞技术"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论胜宏科技表现不佳，影响多位股市大佬。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "胜宏科技干翻多位大佬",
+      "等待Q3业绩验牌",
+      "大佬如Sai、文佬受影响"
+    ],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 16,
+    "summary": "用户重仓银行股，担心中国银行事件影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中国银行事件可能引发银行股下跌",
+      "但有人认为问题不大",
+      "波及红利低波"
+    ],
+    "mentioned_stocks": ["银行股", "中国银行"]
+  },
+  {
+    "index": 17,
+    "summary": "用户买入中韩半导体ETF，替代港股海力士。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "买入中韩半导体ETF",
+      "担心韩国操作风险",
+      "短期获利但考虑卖出"
+    ],
+    "mentioned_stocks": ["海力士", "中韩半导体ETF"]
+  },
+  {
+    "index": 18,
+    "summary": "用户连红9天后，卖出弱势票，换仓到光模块。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "换仓到光模块",
+      "龙头比杂毛更耐跌",
+      "期待月底表现"
+    ],
+    "mentioned_stocks": ["光模块", "东山精密", "光迅科技"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论红星发展调整后可能上涨，MLLC相关。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "调整2天后看涨",
+      "用户纪律性买入（-8上车）",
+      "新手询问-8含义"
+    ],
+    "mentioned_stocks": ["红星发展"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论光模块近期表现不佳，是否变成“老登”股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "光模块在科技股中表现落后",
+      "受英伟达走势影响",
+      "用户满仓光模块亏损"
+    ],
+    "mentioned_stocks": ["光模块", "中际旭创"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论沪电股份今日表现强劲。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "沪电股份今日没跳水",
+      "用户偷着乐"
+    ],
+    "mentioned_stocks": ["沪电股份"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论中韩半导体ETF持有澜起科技，用户考虑持有到财报。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中韩半导体ETF持有澜起科技",
+      "T+0交易有风险",
+      "文佬推荐588200"
+    ],
+    "mentioned_stocks": ["澜起科技", "中韩半导体ETF", "588200"]
+  },
+  {
+    "index": 23,
+    "summary": "用户赞赏论坛中的高手，分享多个成功预测帖子。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "论坛有高手如Sai、文佬",
+      "列举成功案例如中钨、利通等",
+      "大盘成交量高但指数表现一般"
+    ],
+    "mentioned_stocks": ["中钨高新", "利通电子", "巨化股份", "长鑫"]
+  },
+  {
+    "index": 24,
+    "summary": "用户询问阳光电源股价能否回到190，有减仓和加仓操作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "对Q2预期悲观",
+      "减仓后又加仓",
+      "看业绩决定操作"
+    ],
+    "mentioned_stocks": ["阳光电源"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论金安国纪尾盘表现，可能板块切换。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "尾盘早买",
+      "可能板块内高低切",
+      "前期涨幅大"
+    ],
+    "mentioned_stocks": ["金安国纪"]
+  },
+  {
+    "index": 26,
+    "summary": "用户寻找澜起科技帖子，讨论德明利持股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "澜起科技帖子可能被编辑",
+      "德明利持股建议拿到中报前"
+    ],
+    "mentioned_stocks": ["澜起科技", "德明利"]
+  },
+  {
+    "index": 27,
+    "summary": "用户吐槽国家队砸盘，导致亏损，养家压力。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国家队砸盘导致亏损",
+      "重仓大哥股也受影响",
+      "希望停止卖盘"
+    ],
+    "mentioned_stocks": ["科技股", "上证50"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论恒生科技指数下跌趋势，可能与创业板指数会合。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "恒科三巨头无止跌迹象",
+      "可能双向奔赴",
+      "阿里等回吐涨幅"
+    ],
+    "mentioned_stocks": ["恒生科技指数", "腾讯", "阿里", "小米", "创业板"]
+  },
+  {
+    "index": 29,
+    "summary": "用户分享钧崴电子分析，看涨，提及英伟达供应商。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "钧崴电子是英伟达和三星电阻核心供应商",
+      "市值低，波动大",
+      "用户持仓亏损但看涨"
+    ],
+    "mentioned_stocks": ["钧崴电子"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论定投纳斯达克指数30年是否适合普通人。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "定投需要考虑多种因素",
+      "普通人现金流不稳定",
+      "纳指ETF分红建议"
+    ],
+    "mentioned_stocks": ["纳斯达克指数", "纳指ETF"]
+  },
+  {
+    "index": 31,
+    "summary": "用户坚信胜宏科技未来表现会好转。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "坚信胜宏科技未来会涨",
+      "等待Q3业绩",
+      "建议割肉或持有"
+    ],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 32,
+    "summary": "用户在680元买入兆易创新，目前亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "在高点买入兆易创新",
+      "期待回本或上涨",
+      "等待美光财报影响"
+    ],
+    "mentioned_stocks": ["兆易创新", "美光"]
+  },
+  {
+    "index": 33,
+    "summary": "用户卖出黄河旋风后股价上涨，反思错误。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "早盘卖出导致错失上涨",
+      "错误在于时机",
+      "可能太闲看盘"
+    ],
+    "mentioned_stocks": ["黄河旋风"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论law股票今天最后洗盘，目标55。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "认为今天是最后洗盘",
+      "担心沪硅解禁影响",
+      "尾盘有异动"
+    ],
+    "mentioned_stocks": ["law", "沪硅"]
+  },
+  {
+    "index": 35,
+    "summary": "用户计划用100万投资银行股吃分红，替代加盟奶茶店。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银行股分红比加盟靠谱",
+      "建议分批买四大行",
+      "加盟风险高"
+    ],
+    "mentioned_stocks": ["银行股", "四大行"]
+  },
+  {
+    "index": 36,
+    "summary": "用户惊讶海力士股价午后暴涨，早盘卖飞。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "海力士午后暴涨",
+      "早盘卖出后悔",
+      "美光财报好，海力士开盘一般但后来拉涨"
+    ],
+    "mentioned_stocks": ["海力士", "美光"]
+  },
+  {
+    "index": 37,
+    "summary": "用户认为众多股票压低指数，造成慢牛假象。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "4000多家股票压指数",
+      "造成慢牛假象",
+      "类比美股，但大A散户多"
+    ],
+    "mentioned_stocks": ["未具体指定"]
+  },
+  {
+    "index": 38,
+    "summary": "用户疑问ETF份额下降但价格上涨的原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "ETF份额降但价格涨",
+      "可能机构出货散户接盘",
+      "换庄解释"
+    ],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 39,
+    "summary": "用户重仓紫金矿业亏损，考虑割肉换科技股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "紫金矿业亏损25%",
+      "只跟金价，下跌猛",
+      "考虑割肉换股，但怕两头挨打"
+    ],
+    "mentioned_stocks": ["紫金矿业", "南山铝"]
+  },
+  {
+    "index": 40,
+    "summary": "用户科技满仓今天清仓，锁住利润。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技满仓清仓",
+      "等下次再接",
+      "光模块表现不佳"
+    ],
+    "mentioned_stocks": ["科技股", "光模块"]
+  },
+  {
+    "index": 41,
+    "summary": "用户分享升级电脑内存条赚钱，类比存储投资。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "升级内存条赚了钱",
+      "存储价格上涨",
+      "类比股票投资"
+    ],
+    "mentioned_stocks": ["存储相关"]
+  },
+  {
+    "index": 42,
+    "summary": "用户抱怨大盘跳水，希望已上车。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大盘跳水",
+      "上证失真，看深指",
+      "科技股波动"
+    ],
+    "mentioned_stocks": ["未具体指定"]
+  },
+  {
+    "index": 43,
+    "summary": "用户卖出科创50 ETF后，ETF继续涨，后悔。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "卖出科创50后ETF涨",
+      "计算亏损感觉",
+      "心态调整重要"
+    ],
+    "mentioned_stocks": ["科创50 ETF", "兆易创新"]
+  }
+]
