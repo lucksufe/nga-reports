@@ -1,0 +1,345 @@
+[
+  {
+    "index": 1,
+    "summary": "半导体和国产芯片板块表现强劲，ETF上涨，新票涨幅大。",
+    "sentiment": "positive",
+    "key_opinions": ["半导体设备ETF涨5个点", "科技主线回调是捡钱机会", "新票涨幅12倍"],
+    "mentioned_stocks": ["半导体设备ETF"]
+  },
+  {
+    "index": 2,
+    "summary": "分享学习AI产业链视频，讨论投资损失和实用性。",
+    "sentiment": "mixed",
+    "key_opinions": ["推荐AI产业链学习视频", "硕士毕业无用，钱难回", "金融消费者需研究"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "汽车股暴跌，行业前景悲观，类似光伏2.0。",
+    "sentiment": "negative",
+    "key_opinions": ["汽车股烂完了，光伏2.0", "消费暴跌，工业产值增长", "车企融资扩产但消费差"],
+    "mentioned_stocks": ["小米", "比亚迪", "汽车股"]
+  },
+  {
+    "index": 4,
+    "summary": "存储和AI企业高利润率，军备竞赛必要性。",
+    "sentiment": "positive",
+    "key_opinions": ["美光利润率堪比茅台", "AI军备竞赛赢者通吃", "不搞AI就死"],
+    "mentioned_stocks": ["美光", "存储企业"]
+  },
+  {
+    "index": 5,
+    "summary": "对半导体板块明天走势担忧，讨论持仓策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["明天可能高开砸盘", "持有到中报前格局", "美光业绩超预期"],
+    "mentioned_stocks": ["德明利", "兆易创新", "半导体ETF"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论拓荆科技是否属于存储板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["薄膜沉积算存储", "给存储做设备", "招聘驻场长鑫"],
+    "mentioned_stocks": ["拓荆科技"]
+  },
+  {
+    "index": 7,
+    "summary": "汽车股持续下跌，行业问题严重。",
+    "sentiment": "negative",
+    "key_opinions": ["汽车股砸盘严重", "消费差，生产过剩", "光伏2.0再现"],
+    "mentioned_stocks": ["汽车股"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论科技股是否还有调整上车机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["还有机会上车", "日内调整隔日反包", "科技是第一生产力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "早盘预案列出看好股票，包括半导体和光模块。",
+    "sentiment": "positive",
+    "key_opinions": ["深科技和高特电子看好", "长电科技和晶方科技推荐", "领益智造列入"],
+    "mentioned_stocks": ["深科技", "高特电子", "领益智造", "长电科技", "晶方科技"]
+  },
+  {
+    "index": 10,
+    "summary": "持仓科技股面临持有或减仓决策，讨论策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["建议减仓或持有到中报", "看狼大操作决策", "半导体设备ETF利润高"],
+    "mentioned_stocks": ["半导体设备ETF"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论长鑫存储作为两融担保品的可行性。",
+    "sentiment": "mixed",
+    "key_opinions": ["新股无抵押率", "融资买杠杆最大化", "长鑫上市预期打满"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 12,
+    "summary": "资金流向科技板块，导致汽车等行业成本上升。",
+    "sentiment": "positive",
+    "key_opinions": ["科技成本涨影响车企", "车企内卷利润低", "AI基建消耗资源"],
+    "mentioned_stocks": ["PCB", "存储芯片", "自动驾驶芯片"]
+  },
+  {
+    "index": 13,
+    "summary": "黄金价格突破4000，但因美联储升息下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["美联储升息黄金跌", "黄金破4000", "3000接盘机会"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 14,
+    "summary": "存储股大涨带来喜悦，不想上班情绪。",
+    "sentiment": "positive",
+    "key_opinions": ["满仓dram和美光", "几个月挣几年工资", "炒股与生活分开"],
+    "mentioned_stocks": ["dram", "美光"]
+  },
+  {
+    "index": 15,
+    "summary": "美光财报后散户狂欢，但历史显示风险高。",
+    "sentiment": "mixed",
+    "key_opinions": ["散户扎堆风险高", "历史案例英伟达流动性陷阱", "AI基建基本面不同"],
+    "mentioned_stocks": ["美光", "英伟达"]
+  },
+  {
+    "index": 16,
+    "summary": "高盛称白酒最坏时刻过去，但市场悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["最坏时刻已过但更坏", "白酒被时代淘汰", "高盛可能被套"],
+    "mentioned_stocks": ["白酒股"]
+  },
+  {
+    "index": 17,
+    "summary": "华强北MLCC涨价频繁，但股票未跟涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["MLCC一天涨几次", "股票不跟涨风华国瓷", "高端有信维通信"],
+    "mentioned_stocks": ["MLCC", "风华国瓷", "信维通信"]
+  },
+  {
+    "index": 18,
+    "summary": "韩国股市高开低走，存储估值低。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国存储估值低于美光", "资金少波动大", "跟A股走势"],
+    "mentioned_stocks": ["韩综", "存储股"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论红利股抄底机会，股息率高但科技狂欢。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利低位股息率高", "招行移动逼近5.5%", "科技狂欢资金流出"],
+    "mentioned_stocks": ["招行", "移动", "中行"]
+  },
+  {
+    "index": 20,
+    "summary": "超短打板策略在牛市中不适应，趋势持股更优。",
+    "sentiment": "negative",
+    "key_opinions": ["游资时代终结机构时代", "趋势股长期上涨", "超短打板累收益低"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "港股通资金转A股需等结算，操作复杂。",
+    "sentiment": "negative",
+    "key_opinions": ["等T+2结算", "少碰H股坑", "自动回余额"],
+    "mentioned_stocks": ["港股通"]
+  },
+  {
+    "index": 22,
+    "summary": "特朗普回应住房法案，强调房地产和降息。",
+    "sentiment": "mixed",
+    "key_opinions": ["特朗普懂房地产", "喊降息关键", "老本行房地产"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "推荐存储板块其他投资标的如长鑫存储。",
+    "sentiment": "positive",
+    "key_opinions": ["长鑫存储推荐", "沪硅存储板块", "深科技看好"],
+    "mentioned_stocks": ["兆易创新", "长鑫存储", "沪硅", "德明利"]
+  },
+  {
+    "index": 24,
+    "summary": "创造股票名字吉利话，寓意积极上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["拓荆开拓披荆斩棘", "新易盛全新盛揽机遇", "胜宏决胜宏志凌云"],
+    "mentioned_stocks": ["拓荆科技", "新易盛", "胜宏科技", "中际旭创"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论存储股持有到中报的策略。",
+    "sentiment": "positive",
+    "key_opinions": ["持有到中报", "美光牌没问题", "德子和赵姨双持"],
+    "mentioned_stocks": ["德明利", "兆易创新"]
+  },
+  {
+    "index": 26,
+    "summary": "庆祝美光财报证明AI没破裂，乐观前景。",
+    "sentiment": "positive",
+    "key_opinions": ["AI没破裂证明", "美光盘后新高", "卖铲子不亏"],
+    "mentioned_stocks": ["美光"]
+  },
+  {
+    "index": 27,
+    "summary": "比较英伟达、博通和美光财报反应差异。",
+    "sentiment": "mixed",
+    "key_opinions": ["美光大超预期", "英伟达惯例跌后涨", "博通不及预期"],
+    "mentioned_stocks": ["英伟达", "博通", "美光", "AMD"]
+  },
+  {
+    "index": 28,
+    "summary": "花旗上调新易盛目标价，光互连市场看好。",
+    "sentiment": "positive",
+    "key_opinions": ["光互连出货量激增", "市场规模扩大", "目标价上调至701元"],
+    "mentioned_stocks": ["新易盛"]
+  },
+  {
+    "index": 29,
+    "summary": "存储股高位风险，建议寻找低位标的。",
+    "sentiment": "negative",
+    "key_opinions": ["高位股有资金风险", "低位股没人看", "白酒低位推荐"],
+    "mentioned_stocks": ["兆易创新", "江波龙", "澜起", "佰维存储", "雅克科技"]
+  },
+  {
+    "index": 30,
+    "summary": "询问美股生命科学板块，解释其含义。",
+    "sentiment": "mixed",
+    "key_opinions": ["生命科学工具与服务", "美版药明板块", "精密仪器和服务"],
+    "mentioned_stocks": ["生命科学板块"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论光模块投资机会，但回复消极。",
+    "sentiment": "negative",
+    "key_opinions": ["问了就不想买", "光模块被忽略", "投资犹豫"],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论英维克投资，试错成本低。",
+    "sentiment": "mixed",
+    "key_opinions": ["液冷降温需求", "试错成本低", "小消息忽略"],
+    "mentioned_stocks": ["英维克"]
+  },
+  {
+    "index": 33,
+    "summary": "纳指投资亏钱，需学技术分析。",
+    "sentiment": "negative",
+    "key_opinions": ["纳指亏钱-3%", "学技术有用", "纳指波动大"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 34,
+    "summary": "推荐科瑞技术，设备端轮动机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["设备端轮动看好", "技术指标伤", "康宁新技术利空"],
+    "mentioned_stocks": ["科瑞技术"]
+  },
+  {
+    "index": 35,
+    "summary": "华安证券持股长鑫，投资价值讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["持股长鑫0.44%", "利润计入非经常性损益", "股价计算机到25"],
+    "mentioned_stocks": ["华安证券", "长鑫存储"]
+  },
+  {
+    "index": 36,
+    "summary": "远东股份趋势上涨，但风险高。",
+    "sentiment": "negative",
+    "key_opinions": ["形态完美趋势涨", "6倍股随时套牢", "庄家快速下杀"],
+    "mentioned_stocks": ["远东股份"]
+  },
+  {
+    "index": 37,
+    "summary": "分享图片，内容未具体说明。",
+    "sentiment": "mixed",
+    "key_opinions": ["GLJW图片", "图片分享", "无具体讨论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "存储股投资建议，小心高开低走。",
+    "sentiment": "mixed",
+    "key_opinions": ["小心高开低走套人", "德明利风险", "明牌标的已涨"],
+    "mentioned_stocks": ["德明利", "存储股"]
+  },
+  {
+    "index": 39,
+    "summary": "美股存储大涨影响A股，乐观补涨。",
+    "sentiment": "positive",
+    "key_opinions": ["美股存储拉爆", "A股补涨机会", "美光盘后大涨"],
+    "mentioned_stocks": ["存储股", "美光"]
+  },
+  {
+    "index": 40,
+    "summary": "庆祝美光高毛利率，印钞机效应。",
+    "sentiment": "positive",
+    "key_opinions": ["85%毛利率惊人", "印钞机赚钱", "腰斩仍有高毛利"],
+    "mentioned_stocks": ["美光"]
+  },
+  {
+    "index": 41,
+    "summary": "信息差在股市中重要，内资预判财报。",
+    "sentiment": "mixed",
+    "key_opinions": ["信息差赚钱渠道", "内资预测美光财报", "放量解决拥挤度"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 42,
+    "summary": "基金易方达蓝筹漂移买科技，信仰崩塌。",
+    "sentiment": "mixed",
+    "key_opinions": ["基金漂移买科技股", "信仰崩塌加仓红盘", "追涨杀跌"],
+    "mentioned_stocks": ["易方达蓝筹基金"]
+  },
+  {
+    "index": 43,
+    "summary": "电力板块月跌幅创纪录，但看好反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["月跌幅近10年最大", "抄底电力ETF亏5%", "看好后续反弹"],
+    "mentioned_stocks": ["电力ETF", "大唐发电", "华电"]
+  },
+  {
+    "index": 44,
+    "summary": "韩国存储大涨，乐观存储前景。",
+    "sentiment": "positive",
+    "key_opinions": ["韩国存储大涨", "放心开香槟", "美光财报证明"],
+    "mentioned_stocks": ["存储股", "韩综"]
+  },
+  {
+    "index": 45,
+    "summary": "红利低波股下跌，AI时代吸金效应。",
+    "sentiment": "negative",
+    "key_opinions": ["AI大时代吸金", "老登股要完", "招行30块低点"],
+    "mentioned_stocks": ["红利低波", "招行"]
+  },
+  {
+    "index": 46,
+    "summary": "预判A股高开埋人，独立行情风险。",
+    "sentiment": "negative",
+    "key_opinions": ["高开埋人风险", "大A独立行情", "预判预判无限"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "讨论红利股抄底时机，混合观点。",
+    "sentiment": "mixed",
+    "key_opinions": ["抄底中行机会", "国税抄家红利", "做空科技逻辑"],
+    "mentioned_stocks": ["中行", "红利股"]
+  },
+  {
+    "index": 48,
+    "summary": "提前庆祝或抱怨科技股上涨与下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["提前开奶庆祝", "科技涨时4000家跌", "踏空情绪"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "美光财报超预期引发日韩大涨，乐观前景。",
+    "sentiment": "positive",
+    "key_opinions": ["美光财报大超预期", "存储星辰大海", "日韩大涨A股补涨"],
+    "mentioned_stocks": ["美光", "存储股"]
+  }
+]
