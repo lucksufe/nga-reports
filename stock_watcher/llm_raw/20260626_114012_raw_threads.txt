@@ -1,0 +1,345 @@
+[
+  {
+    "index": 1,
+    "summary": "用户讨论胜宏科技走势差，想清仓，因抗跌性弱。回复有支持和反对意见。",
+    "sentiment": "negative",
+    "key_opinions": ["胜宏科技抗跌性差，涨跌不对称", "建议坚持，别倒在黎明前", "资金对中游利润和扩产担忧"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 2,
+    "summary": "市场止跌，用户想犒劳自己，如叫外卖。回复中提到吃面、买彩票等轻松话题。",
+    "sentiment": "mixed",
+    "key_opinions": ["止跌后想改善生活", "分享简单消费如凉面、彩票", "更多是情绪宣泄"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论电力电网板块可能反弹。回复中有期待、怀疑和具体股票如中天、亨通。",
+    "sentiment": "mixed",
+    "key_opinions": ["希望电力电网板块能反弹", "别高开低收，谨慎乐观", "需要国家队支持或消息刺激"],
+    "mentioned_stocks": ["中天科技", "亨通光电", "中国核电"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论科技板块中“导”表现强，而光和芯下跌。回复中提到“导”和“光”的对比。",
+    "sentiment": "negative",
+    "key_opinions": ["科技板块缩圈，只剩'导'强", "光和芯在下跌", "站队'导'但风险高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "通信ETF大跌接近跌停，用户痛苦。回复中有建仓机会和贪婪观点。",
+    "sentiment": "negative",
+    "key_opinions": ["通信ETF大跌，本月最大亏损", "放量下跌是建仓机会", "别人恐惧我贪婪"],
+    "mentioned_stocks": ["通信ETF"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论商业航天短线博弈，基于发射事件。回复中有质疑板块真实性和风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["基于发射航警可能炒作商业航天", "板块企业非航天主力，风险大", "一日游博超短可以，但难把握"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "询问今天满仓人数。回复中有没子弹、满仓被动、对冲等经历。",
+    "sentiment": "negative",
+    "key_opinions": ["满仓被动挨打，没子弹加仓", "被迫满仓补仓", "全仓杀入通信，生死由天"],
+    "mentioned_stocks": ["通信ETF"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论飞机战法，涉及law股票波动大。回复中提到过山车走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["law股票过山车走势，适合做T", "后悔没重锤law", "相信因果律威力"],
+    "mentioned_stocks": ["law"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论今天科技板块中哪些可以补仓。回复中推荐ETF和具体股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["补跌最多的股票", "通信ETF跌多是机会", "推荐CPO、MLCC等细分领域"],
+    "mentioned_stocks": ["通信ETF", "通富微电", "东山精密", "锂矿"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论三安光电抗跌。回复中提到利润薄和清仓。",
+    "sentiment": "negative",
+    "key_opinions": ["三安光电抗跌但利润薄", "今天吓人清仓了"],
+    "mentioned_stocks": ["三安光电"]
+  },
+  {
+    "index": 11,
+    "summary": "大盘大跌，大家亏损如吃面。回复中有情绪表达和板块提及。",
+    "sentiment": "negative",
+    "key_opinions": ["今天大跌，科技股发面", "光蛆跌停，大家亏损", "半导体设备可能抗跌"],
+    "mentioned_stocks": ["半导体设备"]
+  },
+  {
+    "index": 12,
+    "summary": "等待安慰帖，因为大跌。回复中指出科技主线未断。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天不用按摩，半导体红", "科技主线明显没断"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论老登股跌不动。回复中有流动性分析和风险提示。",
+    "sentiment": "negative",
+    "key_opinions": ["老登股流动性差，砸不动", "科技赚了出场别碰任何板块", "如果通杀日不要抄底"],
+    "mentioned_stocks": ["长电"]
+  },
+  {
+    "index": 14,
+    "summary": "萌新入场即亏-2。回复中有建议、安慰和类似经历。",
+    "sentiment": "negative",
+    "key_opinions": ["手别太快，10点半前别交易", "控制仓位，做好止损", "满仓风险大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "科技跌，老登没涨。回复中有疑问和板块提及。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技在跌，老登没涨", "养殖ETF拉红", "等修复时科技可能带头"],
+    "mentioned_stocks": ["养殖ETF", "牧原"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论天赐材料作为非主线股票的分析。回复中有业务讨论和投资时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["天赐材料主营电解液，市占率高", "计划站稳53买入", "锂电板块分化，需观察"],
+    "mentioned_stocks": ["天赐材料", "富祥"]
+  },
+  {
+    "index": 17,
+    "summary": "观测韩国综指顶部结构完成。回复中只有一个回复，内容简短。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国综指顶部结构快完成，建议谨慎"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论妇联股票大跌。回复中只有卖飞的观点。",
+    "sentiment": "negative",
+    "key_opinions": ["什么时候卖都不算卖飞"],
+    "mentioned_stocks": ["妇联"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论废物law股票表现差。回复中有耐心、做T建议。",
+    "sentiment": "negative",
+    "key_opinions": ["law股票好蛆，每次冲高回落", "必须做T", "换庄或走势看沪硅"],
+    "mentioned_stocks": ["law", "沪硅"]
+  },
+  {
+    "index": 20,
+    "summary": "指责操盘手脑子有病，描述市场波动。回复中有增量资金、出货分析。",
+    "sentiment": "negative",
+    "key_opinions": ["操盘乱砸，科技老登轮流挨打", "没有增量资金，机构抱团瓦解", "国家队出货，散户接盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "小资金实盘记录，投资华宏科技。回复中有关注和交易逻辑讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["交易华宏科技，基于氧化镝周期和新国标", "炒股有趣第一，赚钱其次", "分享投资逻辑，非推荐"],
+    "mentioned_stocks": ["华宏科技"]
+  },
+  {
+    "index": 22,
+    "summary": "萌新第一次见大跌情况。回复中有比较历史股灾和安慰。",
+    "sentiment": "negative",
+    "key_opinions": ["今天回调算股灾级别", "对于大A算温柔", "见过千股跌停，现在不算严重"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "讨论大哥二哥股票走势问题。回复中有操作失误和教训。",
+    "sentiment": "negative",
+    "key_opinions": ["每次格局都走高后跳水", "选错板块两头挨打", "光模块修复失败翻绿"],
+    "mentioned_stocks": ["光模块", "存储"]
+  },
+  {
+    "index": 24,
+    "summary": "提倡加仓科技股和上游材料。回复中有坚持和观点。",
+    "sentiment": "positive",
+    "key_opinions": ["加仓猛干科技股和上游材料", "扛不住波动怎么赚钱", "满仓科技，我只会加仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "发布迪迦奥特曼图片，鼓励相信光（科技）。回复中有信仰表达和具体股票求助。",
+    "sentiment": "positive",
+    "key_opinions": ["你相信光吗？鼓励科技信仰", "相信TheSai", "求助大哥二哥别跌"],
+    "mentioned_stocks": ["大哥二哥"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论慢牛的上证指数目标。回复中有KPI猜测和稳定市场讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["慢牛KPI是多少，指数徘徊", "可能KPI是3800，奉旨砸盘", "国家队目的是稳定市场"],
+    "mentioned_stocks": ["沪深300ETF"]
+  },
+  {
+    "index": 27,
+    "summary": "中天科技真爱楼，讨论股票走势。回复中有技术分析和情感表达。",
+    "sentiment": "mixed",
+    "key_opinions": ["中天科技走势分析", "跌停板上吃筹", "大族兜底"],
+    "mentioned_stocks": ["中天科技", "大族"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论对日替代行情，如光刻胶、靶材。回复中有辟谣、具体股票和逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["对日断供发酵，光刻胶靶材涨", "辟谣与否需辨别", "具体股票如彤程新材、南大光电"],
+    "mentioned_stocks": ["彤程新材", "南大光电", "鼎龙股份", "江丰电子", "欧莱新材", "国风新材"]
+  },
+  {
+    "index": 29,
+    "summary": "626盘前预测，分析前一日板块和今日展望。回复中只有帖子内容，无回复。",
+    "sentiment": "positive",
+    "key_opinions": ["存储板块受美光财报带动", "中期看好科技主线", "关键节点：长鑫上市等"],
+    "mentioned_stocks": ["美光", "闪迪", "康宁"]
+  },
+  {
+    "index": 30,
+    "summary": "新手请教砸盘整齐的原因。回复中有量化踩踏、基金止盈等解释。",
+    "sentiment": "negative",
+    "key_opinions": ["砸盘整齐因量化踩踏", "基金止盈排名压力", "恐慌盘杀出"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "描述每天市场剧情，科技与老登股跷跷板。回复中有幽默描述和阶段分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["每天早上锤老登股吐钱，下午买科技", "科技翻红，老登继续挨打", "阶段分析：融资、AB配等"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "讨论纳指期货跳水，可能大事发生。回复中提到韩国熔断和全球下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["纳指期货跳水，可能大事", "韩国熔断，中日都跌", "全球市场同跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "老登持有者绝望，科技下跌连带。回复中有建议留现金、抄底等。",
+    "sentiment": "negative",
+    "key_opinions": ["老登和科技一起陪葬", "留足现金抄底", "条件单管理，长期持有"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "宣布使用后备资金抄底，如亨通。回复中只有抄底行动。",
+    "sentiment": "positive",
+    "key_opinions": ["使用后备能源抄底", "抄了一手亨通"],
+    "mentioned_stocks": ["亨通"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论昊华股票的问题。回复中有做T、等大哥等观点。",
+    "sentiment": "mixed",
+    "key_opinions": ["昊华股票上蹿下跳", "做T赢麻了", "等大哥出来一起抢龙头"],
+    "mentioned_stocks": ["昊华科技", "中船"]
+  },
+  {
+    "index": 36,
+    "summary": "惊讶于猪股票大涨，用于护盘。回复中有独立走势和信号分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["猪股票大涨，拉猪护盘", "猪板块走势独立", "教育板块也涨，但无实质"],
+    "mentioned_stocks": ["猪"]
+  },
+  {
+    "index": 37,
+    "summary": "观测猪猪逆势大涨。回复中有反转讨论和周期分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["猪猪逆势大涨", "是反转还是昙花一现", "猪周期未到底，超跌反弹"],
+    "mentioned_stocks": ["猪"]
+  },
+  {
+    "index": 38,
+    "summary": "银行股继续下跌。回复中有失望和图表分析。",
+    "sentiment": "negative",
+    "key_opinions": ["银行股还要跌", "横盘整理向下惊人", "上周骗进去就完了"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 39,
+    "summary": "苹果和美光关于涨价的争论。回复中有供需分析和历史比较。",
+    "sentiment": "mixed",
+    "key_opinions": ["苹果指责上游内存涨价", "美光指责下游压价", "内存周期性，供需博弈"],
+    "mentioned_stocks": ["苹果", "美光"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论长电抗跌，是否可买。回复中有混淆长电科技和长江电力。",
+    "sentiment": "mixed",
+    "key_opinions": ["长电抗跌，基本面好", "26.50以下无脑入", "混淆长电科技和长江电力"],
+    "mentioned_stocks": ["长电科技", "长江电力"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论轮船股票能否启航。回复中有耐心建议和历史价格比较。",
+    "sentiment": "mixed",
+    "key_opinions": ["轮船股票能否启航", "耐心持有，不要急卖", "历史价格比较，现在价高"],
+    "mentioned_stocks": ["招商轮船", "中远海控"]
+  },
+  {
+    "index": 42,
+    "summary": "询问锂矿狂跌原因。回复中有资金流向、小作文等分析。",
+    "sentiment": "negative",
+    "key_opinions": ["锂矿狂跌因资金去科技", "小作文级别不可能造成大跌幅", "下游电解液储能更好"],
+    "mentioned_stocks": ["锂矿"]
+  },
+  {
+    "index": 43,
+    "summary": "最难受是暴亏时看讨厌公司暴涨。回复中有类似情感表达。",
+    "sentiment": "negative",
+    "key_opinions": ["暴亏时看讨厌公司暴涨难受", "没核心技术无良外包公司涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "分享sb操作，迷糊买入。回复中只有帖子内容。",
+    "sentiment": "negative",
+    "key_opinions": ["迷糊中买入，sb操作"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "讨论4000点保卫战。回复中有信心和调侃。",
+    "sentiment": "mixed",
+    "key_opinions": ["4000点保卫战", "4007点有神秘力量", "慢牛不慌，4000点不关键"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "询问有色金属是否彻底完了。回复中有清仓经历和价格下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["有色金属跌跌不休", "清仓避免亏损", "紫金成本高现在跌"],
+    "mentioned_stocks": ["洛阳钼业", "紫金矿业"]
+  },
+  {
+    "index": 47,
+    "summary": "预测下午V起来反弹。回复中有图表、幽默和乐观。",
+    "sentiment": "positive",
+    "key_opinions": ["下午V起来", "券商保险拉一波", "牛市多急跌，好机会"],
+    "mentioned_stocks": ["券商", "保险"]
+  },
+  {
+    "index": 48,
+    "summary": "询问全球资本抱团历史。回复中有互联网泡沫、金融危机等比较。",
+    "sentiment": "mixed",
+    "key_opinions": ["全球抱团买半导体存储AI", "上一次是2000年互联网泡沫", "新能源白酒基金曾抱团"],
+    "mentioned_stocks": ["科技七巨头"]
+  },
+  {
+    "index": 49,
+    "summary": "韩国又熔断了。回复中有同频大跌和神奇走势。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国熔断，第二次", "韩国股市神奇，大涨大跌", "小A同频大跌"],
+    "mentioned_stocks": []
+  }
+]
