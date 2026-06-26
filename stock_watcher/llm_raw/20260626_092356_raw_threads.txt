@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "欧洲高温利好空调相关股票讨论，包括美的、巨化等，但影响有限。",
+    "sentiment": "mixed",
+    "key_opinions": ["欧洲高温可能利好美的便携空调。", "有市场壁垒，但利好国产消费。", "新闻年年有，实质影响有限。"],
+    "mentioned_stocks": ["美的", "巨化", "冰轮环境"]
+  },
+  {
+    "index": 2,
+    "summary": "AI未来应用前景争议，涉及替代编程、搜索引擎等，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI十年内主要用于替代编程和搜索引擎。", "五年内可能替代大部分脑力劳动。", "质疑AI应用广泛性。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "毛利率86%与茅台等比较，质疑存储行业利润。",
+    "sentiment": "negative",
+    "key_opinions": ["毛利率86%不如茅台。", "与其他行业如毒枭比较。", "质疑存储行业真实性。"],
+    "mentioned_stocks": ["茅台", "美光"]
+  },
+  {
+    "index": 4,
+    "summary": "GPT5.6延迟发布，可能利好AI和存储。",
+    "sentiment": "mixed",
+    "key_opinions": ["延迟发布可能利好智谱。", "显示AI进步未放缓。", "利好存储板块。"],
+    "mentioned_stocks": ["智谱"]
+  },
+  {
+    "index": 5,
+    "summary": "苹果涨价与存储价格关系，存储厂商反击苹果抱怨。",
+    "sentiment": "negative",
+    "key_opinions": ["苹果抱怨存储涨价，但此前低价采购。", "存储厂商合理反击，市场供需决定价格。", "苹果玩不起，但消费者买单。"],
+    "mentioned_stocks": ["苹果", "美光", "铠侠"]
+  },
+  {
+    "index": 6,
+    "summary": "牛市中普通人买基金vs炒股讨论，观点多样。",
+    "sentiment": "mixed",
+    "key_opinions": ["普通人买基金可能更稳。", "ETF更灵活但易操作变形。", "基金经理表现优于散户。"],
+    "mentioned_stocks": ["易方达", "葛兰", "ETF"]
+  },
+  {
+    "index": 7,
+    "summary": "缩盘行情是否见顶，历史经验与当前比较。",
+    "sentiment": "negative",
+    "key_opinions": ["美股只剩存储和半导体涨，其他科技跟不上。", "历史顶部信号类似，每次都说这次不一样。", "可能是阶段性调整，但风险高。"],
+    "mentioned_stocks": ["存储股", "半导体股"]
+  },
+  {
+    "index": 8,
+    "summary": "科技股何时止盈，关注基金限购和市场信号。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技基金限购可能暗示风险。", "等长鑫上市和业绩支撑。", "美股科技业绩超预期，行情或未结束。"],
+    "mentioned_stocks": ["科技基金", "纳斯达克"]
+  },
+  {
+    "index": 9,
+    "summary": "监管对科技容忍度高，原因包括国家战略和业绩支撑。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家战略支持科技发展。", "科技股有业绩支撑，区别于概念炒作。", "符合政策大方向。"],
+    "mentioned_stocks": ["低空经济", "AI硬件", "半导体"]
+  },
+  {
+    "index": 10,
+    "summary": "中国神华入场时机讨论，老登股下跌后观望。",
+    "sentiment": "mixed",
+    "key_opinions": ["老登股（高股息）持续下跌。", "建议等待五日线信号。", "左侧抄底计划。"],
+    "mentioned_stocks": ["中国神华"]
+  },
+  {
+    "index": 11,
+    "summary": "代买股票失误，买了英伟达而非闪迪，收益差异大。",
+    "sentiment": "negative",
+    "key_opinions": ["代买错误导致收益损失。", "质疑信任和沟通问题。", "闪迪涨幅远大于英伟达。"],
+    "mentioned_stocks": ["闪迪", "英伟达"]
+  },
+  {
+    "index": 12,
+    "summary": "做空科技导致亏损，AI软吸血硬件，盈利点不足。",
+    "sentiment": "negative",
+    "key_opinions": ["AI软件亏损，硬件赚钱。", "腾讯阿里等互联网股下跌。", "AI缺乏足够盈利点。"],
+    "mentioned_stocks": ["腾讯", "阿里", "英伟达", "闪迪"]
+  },
+  {
+    "index": 13,
+    "summary": "经济崩盘可能导致热战，悲观预期。",
+    "sentiment": "negative",
+    "key_opinions": ["底层经济问题严重。", "通胀和流动性危机风险。", "可能升级为热战。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "机构卖出，散户接盘，市场信号担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["机构全在卖。", "减持ETF。", "市场可能转向。"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 15,
+    "summary": "中船特气与兆易创新比较，讨论存储严父。",
+    "sentiment": "mixed",
+    "key_opinions": ["中船特气可能超越兆易创新。", "六氟化钨重要性。", "存储板块受关注。"],
+    "mentioned_stocks": ["中船特气", "兆易创新"]
+  },
+  {
+    "index": 16,
+    "summary": "盘前预测看好科技主线，存储领涨。",
+    "sentiment": "positive",
+    "key_opinions": ["半导体存储受美光财报带动领涨。", "看好光通信和玻璃基板。", "中期科技主线乐观。"],
+    "mentioned_stocks": ["美光", "康宁", "存储股"]
+  },
+  {
+    "index": 17,
+    "summary": "老股民因历史教训不放弃老登股转科技。",
+    "sentiment": "mixed",
+    "key_opinions": ["历史套牢经历导致谨慎。", "AI牛可能再次套牢一批人。", "坚持不割肉策略。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "存储股表现好，兆易创新位置讨论。",
+    "sentiment": "positive",
+    "key_opinions": ["存储股大涨，引发羡慕。", "兆易创新涨幅相对较小。", "龙头股如闪迪涨幅惊人。"],
+    "mentioned_stocks": ["兆易创新", "闪迪"]
+  },
+  {
+    "index": 19,
+    "summary": "400元腾讯接盘计划，被套后无奈。",
+    "sentiment": "negative",
+    "key_opinions": ["腾讯被套，计划分批接盘。", "资金多但亏损严重。", "市场风险高。"],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 20,
+    "summary": "市场波动大，一天ICU一天KTV，科技股调整。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场情绪快速切换。", "倒车接人机会。", "科技股如PCB、存储调整。"],
+    "mentioned_stocks": ["PCB", "存储股"]
+  },
+  {
+    "index": 21,
+    "summary": "澜起科技被低估，内存接口芯片龙头。",
+    "sentiment": "positive",
+    "key_opinions": ["澜起科技是AI基础设施关键。", "内存接口芯片全球龙头。", "股价展望高。"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 22,
+    "summary": "美股下跌对应恒生科技，AI基建成本问题。",
+    "sentiment": "negative",
+    "key_opinions": ["美股云服务巨头下跌。", "对应中国互联网公司如腾讯阿里。", "上游涨价下游承压。"],
+    "mentioned_stocks": ["腾讯", "阿里", "小米", "微软"]
+  },
+  {
+    "index": 23,
+    "summary": "汽车板块政策出台，但实际措施有限。",
+    "sentiment": "mixed",
+    "key_opinions": ["政策刺激汽车消费。", "整车板块低迷如光伏。", "缺乏实质补贴。"],
+    "mentioned_stocks": ["赛力斯", "比亚迪"]
+  },
+  {
+    "index": 24,
+    "summary": "中特发公告提及钨，可能利好钨业。",
+    "sentiment": "mixed",
+    "key_opinions": ["公告提到钨价格上涨。", "六氟化钨垄断相关。", "市场反应不确定。"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 25,
+    "summary": "黄金投资亏损，割肉可能。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金战导致重大损失。", "割肉或坚持的两难。", "市场波动剧烈。"],
+    "mentioned_stocks": ["黄金", "有色金属"]
+  },
+  {
+    "index": 26,
+    "summary": "跳空缺口是否要补的技术讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术分析跳空缺口。", "大A特有现象。", "市场不确定性高。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "纳指可能见顶，科技股风险。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股大户下降通道。", "纳指可能形成M头。", "倒车接人但风险高。"],
+    "mentioned_stocks": ["纳指", "科技股"]
+  },
+  {
+    "index": 28,
+    "summary": "康宁股价表现与A股光纤股比较。",
+    "sentiment": "mixed",
+    "key_opinions": ["康宁涨幅不如A股光纤股。", "玻璃桥技术受关注。", "全球龙头地位。"],
+    "mentioned_stocks": ["康宁", "长飞", "亨通"]
+  },
+  {
+    "index": 29,
+    "summary": "股市波动隐喻，操作困难。",
+    "sentiment": "mixed",
+    "key_opinions": ["左难起右败绿，双区神功。", "可能指市场操作挑战。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "美股七姐妹是否成老登，资本开支大。",
+    "sentiment": "negative",
+    "key_opinions": ["七姐妹阴跌一个月。", "资本开支烧现金流。", "降低开支可能崩盘。"],
+    "mentioned_stocks": ["微软", "亚马逊", "谷歌"]
+  },
+  {
+    "index": 31,
+    "summary": "卖飞比腰斩难受，心理压力比较。",
+    "sentiment": "mixed",
+    "key_opinions": ["卖飞后悔但损失小。", "腰斩心理压力巨大。", "心态管理重要。"],
+    "mentioned_stocks": ["牧原", "隆基"]
+  },
+  {
+    "index": 32,
+    "summary": "富乐德股票讨论，设备洁净公司。",
+    "sentiment": "mixed",
+    "key_opinions": ["富乐德做设备洁净。", "母公司与海力士相关。", "股东人数增加。"],
+    "mentioned_stocks": ["富乐德", "国瓷", "富乐华"]
+  },
+  {
+    "index": 33,
+    "summary": "英伟达H200对华出口批准，但市场不敢买。",
+    "sentiment": "mixed",
+    "key_opinions": ["出口批准但国内不敢买。", "国产替代趋势明显。", "政策风险高。"],
+    "mentioned_stocks": ["英伟达", "昇腾"]
+  },
+  {
+    "index": 34,
+    "summary": "韩国低开，市场情绪担忧，周五调整。",
+    "sentiment": "negative",
+    "key_opinions": ["外盘低开影响A股。", "周五市场调整常见。", "本周挨打多天。"],
+    "mentioned_stocks": ["韩指", "纳指"]
+  },
+  {
+    "index": 35,
+    "summary": "兆易创新唯一DRAM持仓，全球资金认可。",
+    "sentiment": "positive",
+    "key_opinions": ["兆易创新是全球资金认可。", "持仓占比2%。", "万亿市值展望。"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 36,
+    "summary": "小米NAS众筹产品讨论，价格无吸引力。",
+    "sentiment": "negative",
+    "key_opinions": ["小米NAS产品价格高。", "机械硬盘用途有限。", "与股价无关。"],
+    "mentioned_stocks": ["小米"]
+  },
+  {
+    "index": 37,
+    "summary": "基金经理表现优于散户，ETF更灵活。",
+    "sentiment": "mixed",
+    "key_opinions": ["基金收益高。", "ETF灵活但易操作变形。", "基金经理有优势。"],
+    "mentioned_stocks": ["财通基金", "ETF"]
+  },
+  {
+    "index": 38,
+    "summary": "因“相信确定性”抄底亏损，估值陷阱。",
+    "sentiment": "negative",
+    "key_opinions": ["相信铁底导致亏损。", "估值陷阱难避免。", "控制仓位关键。"],
+    "mentioned_stocks": ["小米", "紫金", "世纪华通"]
+  },
+  {
+    "index": 39,
+    "summary": "模拟仓收益高于实际持仓，心态影响大。",
+    "sentiment": "mixed",
+    "key_opinions": ["模拟仓无心理压力。", "实盘操作易变形。", "心态管理重要。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "红星发展股票，调整后看好。",
+    "sentiment": "positive",
+    "key_opinions": ["红星发展调整后可能起飞。", "MLCC相关。", "纪律上车。"],
+    "mentioned_stocks": ["红星发展", "MLCC"]
+  },
+  {
+    "index": 41,
+    "summary": "恒力入场时机，石油价格跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["石油价格跌利空出尽。", "差不多入场时机。"],
+    "mentioned_stocks": ["恒力"]
+  },
+  {
+    "index": 42,
+    "summary": "恒生科技下跌原因，多板块被做空。",
+    "sentiment": "negative",
+    "key_opinions": ["创新药、互联网等板块被做空。", "上新太快资金分流。", "AI烧钱但盈利难。"],
+    "mentioned_stocks": ["恒生科技", "互联网股", "新能源股"]
+  },
+  {
+    "index": 43,
+    "summary": "美股成交额前十只有存储股涨，缩圈行情。",
+    "sentiment": "negative",
+    "key_opinions": ["存储股吸血其他科技。", "AI软减少开支风险存储。", "缩圈行情剧烈。"],
+    "mentioned_stocks": ["美光", "存储股", "英特尔"]
+  },
+  {
+    "index": 44,
+    "summary": "提振消费建议，包括发消费券、吸引外国人等。",
+    "sentiment": "mixed",
+    "key_opinions": ["放弃房地产汽车拉动。", "发针对产品消费券。", "人民币升值增加财富。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "紫阳东路游资影响股价，关注案例。",
+    "sentiment": "mixed",
+    "key_opinions": ["游资上榜影响股价。", "中钨、君正案例。", "机构主导下影响有限。"],
+    "mentioned_stocks": ["北京君正", "中钨高新", "兆易创新"]
+  },
+  {
+    "index": 46,
+    "summary": "财通基金限购，可能干预热度过高。",
+    "sentiment": "mixed",
+    "key_opinions": ["基金限购收紧。", "可能大手干预。", "热度过高信号。"],
+    "mentioned_stocks": ["财通基金"]
+  },
+  {
+    "index": 47,
+    "summary": "天赐材料非主线投资，电解液龙头。",
+    "sentiment": "mixed",
+    "key_opinions": ["天赐材料是电解液龙头。", "与锂电板块相关。", "板块分化严重。"],
+    "mentioned_stocks": ["天赐材料", "宁德时代"]
+  },
+  {
+    "index": 48,
+    "summary": "半年报预约披露时间，中船特气率先。",
+    "sentiment": "mixed",
+    "key_opinions": ["中船特气率先披露。", "业绩可能好。", "可能是最后狂欢。"],
+    "mentioned_stocks": ["中船特气", "海通发展"]
+  },
+  {
+    "index": 49,
+    "summary": "月盈亏超过月工资，心态调整建议。",
+    "sentiment": "mixed",
+    "key_opinions": ["控制仓位重要。", "闲钱炒股。", "心态管理关键。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "船老大回来支持中船特气。",
+    "sentiment": "positive",
+    "key_opinions": ["支持中船特气。", "昊华股东相关。", "大盘不妙担心。"],
+    "mentioned_stocks": ["中船特气", "昊华"]
+  }
+]
