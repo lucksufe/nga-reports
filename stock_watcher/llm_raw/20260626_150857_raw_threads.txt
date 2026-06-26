@@ -1,0 +1,303 @@
+[
+  {
+    "index": 1,
+    "summary": "询问今天市场异动原因，讨论中报抢筹与主力砸盘行为。",
+    "sentiment": "negative",
+    "key_opinions": ["预判中报前有资金抢筹。", "砸盘过猛吓跑散户。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "科技股投资体验讨论，涉及利润回吐、被套牢及操作纠结。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股持有体验分化。", "被套但认为仍有中报机会。", "有利润垫但面临回调压力。"],
+    "mentioned_stocks": ["光", "苹果", "存储", "胜宏科技"]
+  },
+  {
+    "index": 3,
+    "summary": "深度推荐存储芯片龙头澜起科技，认为其被严重低估。",
+    "sentiment": "positive",
+    "key_opinions": ["澜起科技是内存接口芯片全球龙头。", "价值被严重低估。", "目标价看至500元。"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 4,
+    "summary": "晒单显示当日盈利大幅增加，仓位较重。",
+    "sentiment": "positive",
+    "key_opinions": ["当日盈利显著高于前日。", "持仓仓位约70万。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "抱怨亏损，但回复显示当日跌幅相对市场较小。",
+    "sentiment": "negative",
+    "key_opinions": ["个人当日亏损。", "亏损幅度小于市场中位数。", "管理多个投资品种（股票、基金、期权）。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "感叹连续阴跌行情难玩，询问历史经验。",
+    "sentiment": "negative",
+    "key_opinions": ["连续多日大面积下跌难以应对。", "老股民靠删除软件熬过熊市。", "不看盘是应对策略之一。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "分享将搜索引擎逻辑应用于股票交易的方法论。",
+    "sentiment": "positive",
+    "key_opinions": ["用搜索引擎逻辑构建交易体系。", "行业龙头是高权重参考节点。", "强调建立交叉验证判断。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "对大盘走势感到恐惧，讨论是否离场。",
+    "sentiment": "negative",
+    "key_opinions": ["因恐惧而考虑离场。", "认为当前是熊市。", "市场表现与纳指关联减弱。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "误操作全仓买入CPO相关股票，担心后续走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["操作失误导致全仓买入。", "期待“买错概念”带来反转。"],
+    "mentioned_stocks": ["cpo"]
+  },
+  {
+    "index": 10,
+    "summary": "猜测大盘下跌是为大型IPO抽血蓄力，类似此前模式。",
+    "sentiment": "negative",
+    "key_opinions": ["下跌可能是为巨无霸上市抽血。", "市场泡沫累积，业绩兑现压力大。", "资金行为难以预测。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "讨论高价买入新股遭遇腰斩的风险与心态。",
+    "sentiment": "negative",
+    "key_opinions": ["高价买入新股风险极高。", "即使腰斩也可能有人接盘。", "操作新股易致心态崩溃。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "对科技股当前是见顶还是调整存在根本分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["多头认为科技行情远未结束。", "空头认为科技泡沫严重，已是鱼尾。", "有人依据均线信号进行操作。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "一位投资新手分享其以ETF为主、长期持有的计划。",
+    "sentiment": "negative",
+    "key_opinions": ["新手投资计划被认为风险高。", "盲目补仓摊薄成本是常见误区。", "\"宝妈\"标签在投资社区易引发警惕。"],
+    "mentioned_stocks": ["黄金", "ETF"]
+  },
+  {
+    "index": 14,
+    "summary": "抱怨持有昊华科技一周多持续下跌，讨论其走势依赖“大哥”。",
+    "sentiment": "negative",
+    "key_opinions": ["在高位买入后持续下跌。", "走势依赖“大哥”中船的动向。", "技术面需观察关键均线支撑。"],
+    "mentioned_stocks": ["昊华", "中船"]
+  },
+  {
+    "index": 15,
+    "summary": "分析电解液龙头天赐材料，提及板块分化及买入时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["天赐材料是电解液全球龙头。", "锂电与半导体等板块分化严重。", "需等待板块整体启动信号。"],
+    "mentioned_stocks": ["天赐材料", "VC", "富祥", "宁德时代"]
+  },
+  {
+    "index": 16,
+    "summary": "因事错过股价拉升后操作懊恼，被提醒关注中报。",
+    "sentiment": "mixed",
+    "key_opinions": ["因临时离开错过行情而懊恼。", "中报发布前不宜轻易卖出。"],
+    "mentioned_stocks": ["德子"]
+  },
+  {
+    "index": 17,
+    "summary": "感叹六月份投资大起大落，整体盈利甚微。",
+    "sentiment": "negative",
+    "key_opinions": ["六月份行情波动剧烈。", "月度盈利不足四位数。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论中天科技逆势加仓，并与其他股票形成对冲。",
+    "sentiment": "mixed",
+    "key_opinions": ["逆势在跌停板附近接盘。", "认为无需主动拉升。", "操作其他股票形成对冲。"],
+    "mentioned_stocks": ["中天科技", "大族"]
+  },
+  {
+    "index": 19,
+    "summary": "抱怨电池相关股票今日跌幅最大，认为板块难做。",
+    "sentiment": "negative",
+    "key_opinions": ["电池股今日大跌，难以持有。", "反复交易反复亏损。", "视电池板块为垃圾。"],
+    "mentioned_stocks": ["电池"]
+  },
+  {
+    "index": 20,
+    "summary": "表达本月投资艰难，期待主力资金介入救市。",
+    "sentiment": "negative",
+    "key_opinions": ["本月投资非常困难。", "期待主力资金（龙队）出手。", "情绪极度悲观。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论比亚迪股价回到上涨前水平，质疑其是否还有机会。",
+    "sentiment": "negative",
+    "key_opinions": ["比亚迪股价已大幅回落。", "资金被科技股吸引。", "认为估值仍有下行空间。"],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 22,
+    "summary": "询问航天板块突然上涨的原因，回复指向技术进展。",
+    "sentiment": "mixed",
+    "key_opinions": ["上涨源于航天飞行器新技术发布。", "可能是一日游行情。", "追高风险大。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "认为三安光电在跌市中相对抗跌，但有人选择清仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["三安光电表现相对抗跌。", "利润被侵蚀。", "因市场恐慌而清仓。"],
+    "mentioned_stocks": ["三安光电"]
+  },
+  {
+    "index": 24,
+    "summary": "宣布抄底买入70万小米股票，但多数回复看空。",
+    "sentiment": "negative",
+    "key_opinions": ["认为小米估值已低并抄底。", "多数人认为还未到底。", "消费电子业务面临压力。"],
+    "mentioned_stocks": ["小米"]
+  },
+  {
+    "index": 25,
+    "summary": "抱怨市场操盘行为混乱，分析当前缺乏增量资金。",
+    "sentiment": "negative",
+    "key_opinions": ["市场缺乏新增资金。", "科技股抱团存在瓦解风险。", "认为国家队已在出货。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论中兴通讯走势，看法分歧，提及做T策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["中兴被大盘拖累下跌。", "公司回购计划尚未完成。", "有投资者进行日内做T。"],
+    "mentioned_stocks": ["中兴通讯"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论牛市多急跌的原因，多人反驳当前并非牛市。",
+    "sentiment": "negative",
+    "key_opinions": ["急跌源于获利盘集中抛售。", "当前实为熊市。", "市场涨跌受大资金操纵。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "询问恒生科技指数持续下跌的原因，列举多重因素。",
+    "sentiment": "negative",
+    "key_opinions": ["港股科技板块被持续做空。", "新股发行过多分流资金。", "抄底港股风险高。"],
+    "mentioned_stocks": ["恒生科技"]
+  },
+  {
+    "index": 29,
+    "summary": "担心亨通光电今日难以V形反转，持仓全线走弱。",
+    "sentiment": "negative",
+    "key_opinions": ["亨通光电今日反转困难。", "持仓的“通”字股全线下跌。"],
+    "mentioned_stocks": ["亨通", "利通"]
+  },
+  {
+    "index": 30,
+    "summary": "希望持有的红利股继续下跌以便加仓，引发对红利逻辑的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["希望股价下跌以获取更低成本筹码。", "长期持有（2年以上）有望获得收益。", "对红利逻辑（增长、分红）产生分歧。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "通过摘录书籍内容，对追高投资者进行心理按摩，强调长期视角。",
+    "sentiment": "positive",
+    "key_opinions": ["投资成功取决于思考的时间跨度。", "应投资自己真正理解的标的。", "避免情绪化操作。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "询问光纤股跌停原因，回复分析为板块轮动和前排股调整。",
+    "sentiment": "negative",
+    "key_opinions": ["光纤股出现补跌。", "前期上涨依赖龙头带动。", "担心行业扩产导致内卷。"],
+    "mentioned_stocks": ["通鼎", "永鼎", "亨通", "烽火"]
+  },
+  {
+    "index": 33,
+    "summary": "买入银行股试图对冲下跌但失败，被指出银行也在跌。",
+    "sentiment": "negative",
+    "key_opinions": ["银行股未能起到对冲作用。", "银行板块本身进入下跌趋势。", "最佳防守策略是空仓。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "看好兆易创新的“国产存储”逻辑，期待长期市值增长。",
+    "sentiment": "mixed",
+    "key_opinions": ["兆易创新逻辑完美，结合国产化与存储。", "长期目标看至万亿市值。", "需耐心应对平台期，并关注长鑫上市影响。"],
+    "mentioned_stocks": ["兆易创新", "长鑫"]
+  },
+  {
+    "index": 35,
+    "summary": "美团CEO回应股价低迷，计划股票回购，但被批评诚意不足。",
+    "sentiment": "negative",
+    "key_opinions": ["公司认为自身价值被低估。", "计划进行股票回购以提振信心。", "回购不注销被视作无诚意。"],
+    "mentioned_stocks": ["美团"]
+  },
+  {
+    "index": 36,
+    "summary": "询问将大笔闲钱投入上证ETF是否可行，引发指数选择讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为大盘点位下胜率较大。", "建议定投并选择其他宽基如创业板。", "上证ETF长期可能跑输其他指数。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "观察到德明利股价逆大盘上涨，猜测中报业绩优异。",
+    "sentiment": "positive",
+    "key_opinions": ["德明利逆势上涨。", "可能预示中报业绩爆发。"],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 38,
+    "summary": "分享在跌市中定投宽基指数仍有微利的经历。",
+    "sentiment": "positive",
+    "key_opinions": ["在市场下跌中定投宽基仍可盈利。", "定投策略长期有效但收益上限较低。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "询问昊华科技当前走势是否健康，回复称需等待“大哥”中船。",
+    "sentiment": "mixed",
+    "key_opinions": ["昊华科技近期走势震荡。", "其表现很大程度上依赖中船。", "适合进行短线高抛低吸操作。"],
+    "mentioned_stocks": ["昊华", "中船"]
+  },
+  {
+    "index": 40,
+    "summary": "推荐一只液冷概念股，提及庄股特征和中报风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为是液冷核心小票。", "具有庄股特征。", "提醒需注意中报发布后的业绩风险。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "指出恒生科技指数与创业板指数点位接近，引发讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["两大指数点位趋同。", "被认为是“胜利会师”。", "可能预示进一步下跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "炫耀持有的宏和科技持续大涨，引发关注和讨论。",
+    "sentiment": "positive",
+    "key_opinions": ["宏和科技股价独立上涨。", "上涨有明确消息催化。", "全仓持有者收益丰厚。"],
+    "mentioned_stocks": ["宏和科技", "胜宏"]
+  },
+  {
+    "index": 43,
+    "summary": "统计当前追高买入科技股的投资者，普遍担忧成为接盘侠。",
+    "sentiment": "negative",
+    "key_opinions": ["追高买入科技股风险极大。", "接盘者面临挂在山顶的风险。", "部分人选择小仓位试探。"],
+    "mentioned_stocks": []
+  }
+]
