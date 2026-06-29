@@ -1,0 +1,319 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论半导体设备行情与上海新工厂，调侃麻袋装钱与套牢，询问cxmt含义。",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体设备继续上行", "调侃麻袋装钱反被套", "cxmt即长鑫存储"],
+    "mentioned_stocks": ["兆易创新", "半导体设备", "长鑫存储"]
+  },
+  {
+    "index": 2,
+    "summary": "株冶集团出现顶部三柱香技术形态，参与者认亏离场。",
+    "sentiment": "negative",
+    "key_opinions": ["顶部三柱香见顶信号", "每天下杀后尾盘小拉，顶不住了"],
+    "mentioned_stocks": ["株冶集团"]
+  },
+  {
+    "index": 3,
+    "summary": "发帖人因某股票盈利兴奋称李在明为爸爸，跟帖回复忠诚。",
+    "sentiment": "positive",
+    "key_opinions": ["李在明是活爹"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "期待PCB板块轮动上涨，提及主力预判二季报不及预期，讨论龙头深南电路。",
+    "sentiment": "mixed",
+    "key_opinions": ["主力预判第二季度财报不及预期", "深南电路是抗跌龙头", "PCB可能反抽但难言反转"],
+    "mentioned_stocks": ["PCB板块", "深南电路", "铜冠", "东山精密"]
+  },
+  {
+    "index": 5,
+    "summary": "比较德明利、江北龙、佰维存储表现，认为佰维最弱，但曾点燃存储行情。",
+    "sentiment": "mixed",
+    "key_opinions": ["佰维存储近期表现最拉胯", "4月存储行情由佰维点燃"],
+    "mentioned_stocks": ["德明利", "江波龙", "佰维存储"]
+  },
+  {
+    "index": 6,
+    "summary": "重仓光模块持续调整，眼看半导体暴涨，后悔追高，部分认为回调正常。",
+    "sentiment": "negative",
+    "key_opinions": ["光模块还在正常回调区间", "光模块利润垫不够是追高", "半导体吸血老登后内部互抽"],
+    "mentioned_stocks": ["光模块", "半导体ETF"]
+  },
+  {
+    "index": 7,
+    "summary": "因英伟达液冷新闻追入圣阳股份，连吃三个跌停，技术面糟糕。",
+    "sentiment": "negative",
+    "key_opinions": ["放量阴线未重视", "小票杀跌严重", "纯情绪票不可靠"],
+    "mentioned_stocks": ["圣阳股份"]
+  },
+  {
+    "index": 8,
+    "summary": "中天科技跌停，投资者水下接盘被套，感慨大族激光兜底。",
+    "sentiment": "negative",
+    "key_opinions": ["跌停板上吸筹才是好时机", "昨日尾盘拉涨停诱多"],
+    "mentioned_stocks": ["中天科技", "大族激光"]
+  },
+  {
+    "index": 9,
+    "summary": "19年入市亏损15万终回本，分享光模块与半导体逻辑、美股云厂商财报关注点。",
+    "sentiment": "positive",
+    "key_opinions": ["美股云厂商AI资本开支影响市场", "关注基金软件频繁出现的板块", "元件可能迎来建仓时机"],
+    "mentioned_stocks": ["光模块", "半导体", "元件"]
+  },
+  {
+    "index": 10,
+    "summary": "认为科技行情未结束，存储与光模块呈跷跷板，回调只是涨多修复。",
+    "sentiment": "positive",
+    "key_opinions": ["科技内部切换，存光跷跷板", "涨多回调正常，别找理由看空", "恒生科技反弹因跌多"],
+    "mentioned_stocks": ["存储", "光模块", "恒生科技"]
+  },
+  {
+    "index": 11,
+    "summary": "推荐澜起科技，称其为全球内存接口龙头，目标500元，跟风上车。",
+    "sentiment": "positive",
+    "key_opinions": ["澜起科技全球内存接口芯片龙头", "DDR5国际标准主导者"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 12,
+    "summary": "重仓沪电股份遇调整，羡慕半导体大涨，但认为沪电长期无忧。",
+    "sentiment": "negative",
+    "key_opinions": ["沪电前面已涨七八十个点", "调仓至立昂微", "拿住等中报"],
+    "mentioned_stocks": ["沪电股份", "立昂微"]
+  },
+  {
+    "index": 13,
+    "summary": "选股系统选出医药股19只涨7%，唯独买入的通化金马连续跌停。",
+    "sentiment": "negative",
+    "key_opinions": ["19只医药股平均涨幅7%", "买中唯一跌停的通化金马"],
+    "mentioned_stocks": ["通化金马", "江丰电子"]
+  },
+  {
+    "index": 14,
+    "summary": "某教授抛弃老登股，曾预告炮打人工智能，大族激光被弃。",
+    "sentiment": "mixed",
+    "key_opinions": ["大族激光已废", "人工智能视频预告消失"],
+    "mentioned_stocks": ["大族激光"]
+  },
+  {
+    "index": 15,
+    "summary": "调侃某人买入半导体，半导体设备ETF暴涨，持仓不均衡。",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体设备公司业绩确定", "路哥买什么跌什么成为反指"],
+    "mentioned_stocks": ["半导体设备ETF", "兆易创新", "雅克科技", "东山精密"]
+  },
+  {
+    "index": 16,
+    "summary": "询问有研新材异动规则与解除时间，讨论技术指标。",
+    "sentiment": "neutral",
+    "key_opinions": ["触发100%异动后重新计算", "未触发100%则一直累积"],
+    "mentioned_stocks": ["有研新材"]
+  },
+  {
+    "index": 17,
+    "summary": "追高康强电子后经历跌停拉回再回落，猜测洗盘或出货。",
+    "sentiment": "negative",
+    "key_opinions": ["可能是拉高跑路", "只有明天才知道意图"],
+    "mentioned_stocks": ["康强电子"]
+  },
+  {
+    "index": 18,
+    "summary": "昊华科技基本面扎实（电子特气），但股价崩盘，讨论中船特气影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["拳头产品六氟丁二烯满产满销", "走势看中船特气脸色", "龙虎榜显示老庄出货"],
+    "mentioned_stocks": ["昊华科技", "中船特气"]
+  },
+  {
+    "index": 19,
+    "summary": "晒当日大幅波动，早盘-8%收红，调侃未成年退款。",
+    "sentiment": "mixed",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "某股买入后跌24%，被指夕阳产业，建议割肉换半导体。",
+    "sentiment": "negative",
+    "key_opinions": ["被spacex星链替代的夕阳产业", "直接割了买半导体几下回本"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "药明康德走势逆转，利空出尽公司回购，目标价160元。",
+    "sentiment": "positive",
+    "key_opinions": ["利空出尽公司回购", "不再被科技吸血", "目标160元"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 22,
+    "summary": "盘前预测科技反弹，分享操作：减仓存储、加仓MLCC、气体、钨等。",
+    "sentiment": "positive",
+    "key_opinions": ["美股低开高走有修复趋势", "科技周一猛烈反弹坚定持有"],
+    "mentioned_stocks": ["兆易创新", "香农芯创", "半导体设备ETF", "三环集团", "风华高科", "杭氧股份"]
+  },
+  {
+    "index": 23,
+    "summary": "风华高科差0.01%触发严重异动，机构控盘精准。",
+    "sentiment": "neutral",
+    "key_opinions": ["机构控盘精准差点触发异动"],
+    "mentioned_stocks": ["风华高科"]
+  },
+  {
+    "index": 24,
+    "summary": "误操作定投或基金限额，晒图调侃。",
+    "sentiment": "mixed",
+    "key_opinions": ["涨多了限额，某书宝妈团建"],
+    "mentioned_stocks": ["华泰柏瑞基金"]
+  },
+  {
+    "index": 25,
+    "summary": "风华高科是否压住异动线，差0.01%没压住。",
+    "sentiment": "neutral",
+    "key_opinions": ["没压住差0.01%"],
+    "mentioned_stocks": ["风华高科"]
+  },
+  {
+    "index": 26,
+    "summary": "韩国投产文件利好存储，预期长鑫上市前兆易创新冲击千元。",
+    "sentiment": "positive",
+    "key_opinions": ["300万亿韩元投产文件刺激存储", "长鑫上市前兆易创新看千元"],
+    "mentioned_stocks": ["兆易创新", "长鑫存储", "三星", "海力士"]
+  },
+  {
+    "index": 27,
+    "summary": "认为7月是算力金属月份，关注锗、钨、锡等叠加半导体概念股。",
+    "sentiment": "positive",
+    "key_opinions": ["算力金属叠加对日替代、稀土管控", "关注有研新材、云锗"],
+    "mentioned_stocks": ["有研新材", "锌业股份", "云南锗业"]
+  },
+  {
+    "index": 28,
+    "summary": "抱怨某硅股（可能沪硅产业）走势最弱，羡慕20cm半导体股。",
+    "sentiment": "negative",
+    "key_opinions": ["名字带硅的最弱", "功率半导体硅片需求旺但股价蛆"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "半导体ETF暴涨创新高，买观察仓不知加仓还是止盈。",
+    "sentiment": "positive",
+    "key_opinions": ["半导体ETF月涨60%天天新高"],
+    "mentioned_stocks": ["半导体ETF", "药明康德"]
+  },
+  {
+    "index": 30,
+    "summary": "小道消息称国家队砸盘后出盘外招压价，散户赚钱难。",
+    "sentiment": "mixed",
+    "key_opinions": ["狗队砸完筹码要盘外招压价进货"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "持有银行股长线分红，涨了没卖回落后后悔，反思投资逻辑。",
+    "sentiment": "negative",
+    "key_opinions": ["涨了不卖回落才后悔", "吃分红就别想波动收益"],
+    "mentioned_stocks": ["交通银行", "光大银行"]
+  },
+  {
+    "index": 32,
+    "summary": "昊华科技大幅波动，+6%到-5%再到涨停，卖飞后懊悔。",
+    "sentiment": "mixed",
+    "key_opinions": ["中船跳水带崩昊华", "老庄折磨散户", "卖飞比亏损难受"],
+    "mentioned_stocks": ["昊华科技", "中船特气", "立昂微"]
+  },
+  {
+    "index": 33,
+    "summary": "半导体ETF盈利40%，犹豫是否止盈，部分认为绿了再卖。",
+    "sentiment": "mixed",
+    "key_opinions": ["卖飞比亏损难受", "绿了再走", "7月主线国产替代"],
+    "mentioned_stocks": ["半导体ETF"]
+  },
+  {
+    "index": 34,
+    "summary": "调侃胜宏科技董事长陈涛，股价高位管跌不涨。",
+    "sentiment": "negative",
+    "key_opinions": ["股价高位不管散户死活"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 35,
+    "summary": "中船特气复牌后持续大涨，解读为国家鼓励自主可控信号。",
+    "sentiment": "positive",
+    "key_opinions": ["中船特气涨停代表国家支持国产替代", "自主可控是唯一主线"],
+    "mentioned_stocks": ["中船特气", "半导体设备", "芯片"]
+  },
+  {
+    "index": 36,
+    "summary": "推荐创新药和AI+医疗板块，称独立叙事且风起。",
+    "sentiment": "positive",
+    "key_opinions": ["创新药是AI受益者非对手盘", "风口积累中别买医保药"],
+    "mentioned_stocks": ["药明康德", "恒瑞医药"]
+  },
+  {
+    "index": 37,
+    "summary": "放弃选股直接买入半导体ETF，调侃科创板门槛卡散户。",
+    "sentiment": "positive",
+    "key_opinions": ["科创板门槛卡不住买ETF", "投降追高"],
+    "mentioned_stocks": ["半导体ETF"]
+  },
+  {
+    "index": 38,
+    "summary": "父母将自己当反指，买白酒亏损，自己推的姨（某股）大涨，家庭地位下降。",
+    "sentiment": "mixed",
+    "key_opinions": ["自己被当反指买白酒亏钱", "推的股大涨父母嘲讽"],
+    "mentioned_stocks": ["白酒", "胜宏科技"]
+  },
+  {
+    "index": 39,
+    "summary": "日内大幅波动从+2%到-5%再到+2.5%，靠不盯盘熬过来。",
+    "sentiment": "mixed",
+    "key_opinions": ["板块逻辑在未爆雷就拿住"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "追高京东方被诱多，怀疑有坏庄，计划长线埋伏。",
+    "sentiment": "negative",
+    "key_opinions": ["京东方有坏庄两次诱多", "玻璃基板中报没业绩"],
+    "mentioned_stocks": ["京东方"]
+  },
+  {
+    "index": 41,
+    "summary": "光模块板块受挫，发帖征集元气，调侃迪迦奥特曼。",
+    "sentiment": "negative",
+    "key_opinions": ["光之巨人受创"],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 42,
+    "summary": "预测周一科技强力反弹，若错抽奖请吃KFC。",
+    "sentiment": "positive",
+    "key_opinions": ["科技猛烈向上反弹"],
+    "mentioned_stocks": ["光通信", "光模块"]
+  },
+  {
+    "index": 43,
+    "summary": "厦门钨业走势稳健，有望接棒中钨高新，半导体逻辑更强。",
+    "sentiment": "positive",
+    "key_opinions": ["厦钨标签多能蹭概念", "半导体上游逻辑强于中钨的PCB逻辑"],
+    "mentioned_stocks": ["厦门钨业", "中钨高新"]
+  },
+  {
+    "index": 44,
+    "summary": "上班族放弃超短线，寻求中长期持有建议，推荐ETF。",
+    "sentiment": "neutral",
+    "key_opinions": ["定投A500", "光存导芯ETF分仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "半导体ETF接近涨停，持有深科技大涨，兴奋晒单。",
+    "sentiment": "positive",
+    "key_opinions": ["ETF快拉涨停超出预期"],
+    "mentioned_stocks": ["半导体ETF", "深科技"]
+  }
+]
+```
