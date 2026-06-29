@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论股市情绪，批评金融跪族和亏损话题，有人声称满仓白酒。",
+    "sentiment": "negative",
+    "key_opinions": ["批评金融跪族看外国脸色", "讨论亏损严重", "有人满仓白酒表态"],
+    "mentioned_stocks": ["白酒"]
+  },
+  {
+    "index": 2,
+    "summary": "比较半导体设备与光存储的涨幅和逻辑，讨论中报风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体设备涨幅可能超过光", "设备逻辑更硬", "中报可能骗人接盘"],
+    "mentioned_stocks": ["半导体设备", "光", "存储"]
+  },
+  {
+    "index": 3,
+    "summary": "预测周一科技股猛烈反弹，若不准则发红包。",
+    "sentiment": "positive",
+    "key_opinions": ["科技必猛烈向上反弹", "赌注为发红包", "建议慢慢修复更好"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 4,
+    "summary": "询问对美联储发言的看法，预期不明。",
+    "sentiment": "mixed",
+    "key_opinions": ["需要等待观看", "感到麻木", "可能发布鹰派言论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "复盘通信ETF波段投资，讨论中报行情和均线策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["博弈中报行情入场", "关注ETF均线参考", "担心后续走弱风险"],
+    "mentioned_stocks": ["通信ETF", "光大哥"]
+  },
+  {
+    "index": 6,
+    "summary": "华工科技竞价图片分享，讨论买新闻的影响。",
+    "sentiment": "positive",
+    "key_opinions": ["竞价假但感觉爽", "买新闻有用", "羡慕在车上的投资者"],
+    "mentioned_stocks": ["华工"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论消费与储蓄关系，质疑消费券效果。",
+    "sentiment": "negative",
+    "key_opinions": ["储蓄增长不确定", "信心比金子重要", "分配问题影响消费"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "紫金矿业基本面好但股价受拖累，抱怨市场不公。",
+    "sentiment": "negative",
+    "key_opinions": ["基本面强但股价低", "价值不等于股价", "需抱团才能上涨"],
+    "mentioned_stocks": ["紫金"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论小米股价下跌是否买入机会，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为像捡钱机会", "趋势下跌风险高", "可能继续下探"],
+    "mentioned_stocks": ["小米", "胜宏"]
+  },
+  {
+    "index": 10,
+    "summary": "比较A股与韩股赌性，批评A股投机性强。",
+    "sentiment": "negative",
+    "key_opinions": ["A股赌性更高", "韩股更稳定", "数据对比显示差距"],
+    "mentioned_stocks": ["韩股", "A股"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论市场是否V形反弹，受外围影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["期待V反弹", "空单压力大", "跟随韩国股市走势"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "阿里巴巴股价跌至2022年水平，讨论原因。",
+    "sentiment": "negative",
+    "key_opinions": ["国内AI龙头但下跌", "AI硬时代未盈利", "不如腾讯表现"],
+    "mentioned_stocks": ["阿里巴巴", "腾讯"]
+  },
+  {
+    "index": 13,
+    "summary": "高纯二氧化碳概念爆热，关注金宏气体投资机会。",
+    "sentiment": "positive",
+    "key_opinions": ["金宏气体可能买不到", "688板块易出妖股", "需要深入研究"],
+    "mentioned_stocks": ["金宏气体"]
+  },
+  {
+    "index": 14,
+    "summary": "韩国股市巨震，讨论是否牛市尾声及全球影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩综像ST股票波动大", "观测会影响结果", "韩国结束则AI浪潮结束"],
+    "mentioned_stocks": ["韩综"]
+  },
+  {
+    "index": 15,
+    "summary": "推荐红星发展，基于MLCC板块起飞。",
+    "sentiment": "positive",
+    "key_opinions": ["调整后看好机会", "MLCC板块起飞", "个人意见推荐"],
+    "mentioned_stocks": ["红星发展", "MLCC"]
+  },
+  {
+    "index": 16,
+    "summary": "新投资者首次交易遇到跌停，讨论心理应对。",
+    "sentiment": "mixed",
+    "key_opinions": ["盈亏同源心态", "亏钱是迟早的事", "套住才能学技术分析"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "中天科技股价跌停，讨论抄底和持有策略。",
+    "sentiment": "negative",
+    "key_opinions": ["表示不怕死持有", "跌停板可吃筹", "因尾盘拉涨停导致"],
+    "mentioned_stocks": ["中天科技"]
+  },
+  {
+    "index": 18,
+    "summary": "推荐密尔克卫股票，娱乐性发车讨论风险。",
+    "sentiment": "positive",
+    "key_opinions": ["麻袋装钱或装尸风险", "股价位置正好", "有三个条件考虑"],
+    "mentioned_stocks": ["密尔克卫"]
+  },
+  {
+    "index": 19,
+    "summary": "想象牛市中创业板涨停场景，讨论可能性。",
+    "sentiment": "mixed",
+    "key_opinions": ["想象极端涨停情景", "可能标志牛市见顶", "需深指大涨配合"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 20,
+    "summary": "探讨长沙银行是否低估值，但存疑投资价值。",
+    "sentiment": "mixed",
+    "key_opinions": ["PE PB指标低", "城商行风险大", "需看具体业务数据"],
+    "mentioned_stocks": ["长沙银行"]
+  },
+  {
+    "index": 21,
+    "summary": "以玩笑逻辑推荐爱玛科技，讨论相关股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["亏钱送外卖买电瓶车逻辑", "不如9号科技", "利好浪莎股份丝袜"],
+    "mentioned_stocks": ["爱玛科技", "9号科技", "浪莎股份"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论财富中国科技50强榜单，质疑排名含金量。",
+    "sentiment": "negative",
+    "key_opinions": ["败绿公司在榜引质疑", "榜单为野鸡排名", "缺少重要科技公司"],
+    "mentioned_stocks": ["败绿", "阿里", "比亚迪", "中际"]
+  },
+  {
+    "index": 23,
+    "summary": "外围市场全线下跌，担忧A股走势。",
+    "sentiment": "negative",
+    "key_opinions": ["外围跳影响A股", "可能回到三月份低点", "留钱买电动车应对"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "批评人形机器人设计荒谬，强调实用性。",
+    "sentiment": "negative",
+    "key_opinions": ["设计增加成本和不稳定性", "应注重灵巧手和实用", "人形是消费品非生产力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "讨论韩国股市低开对A股的影响及操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["低开可能送钱机会", "预期加仓策略", "可能低开高走"],
+    "mentioned_stocks": ["韩国股市", "纳指ETF"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论存储扩产对国产替代的利好影响。",
+    "sentiment": "positive",
+    "key_opinions": ["利好国产替代", "光刻胶等材料受益", "上游材料更受益"],
+    "mentioned_stocks": ["光刻胶"]
+  },
+  {
+    "index": 27,
+    "summary": "分析玻璃桥技术对CPO和光模块的利空影响。",
+    "sentiment": "negative",
+    "key_opinions": ["玻璃桥集成功能减少环节", "利空天孚通信和太辰光", "CPO预期本身靠后"],
+    "mentioned_stocks": ["CPO", "天孚通信", "太辰光"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论长鑫科技上市预期和参与策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["存储真龙即将上市", "担心开盘高点风险", "建议竞价买入参与"],
+    "mentioned_stocks": ["长鑫科技"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论PCB行业盈利困难，钱被上游材料赚取。",
+    "sentiment": "negative",
+    "key_opinions": ["PCB行业不妙", "低端PCB表现惨", "应投资上游材料"],
+    "mentioned_stocks": ["PCB", "材料股"]
+  },
+  {
+    "index": 30,
+    "summary": "祈祷纳斯达克反弹带领全球股市走出黑暗。",
+    "sentiment": "mixed",
+    "key_opinions": ["希望纳指高举火把", "盘前普跌情况", "AI开支质疑影响"],
+    "mentioned_stocks": ["纳斯达克", "AI"]
+  },
+  {
+    "index": 31,
+    "summary": "林园投资片仔癀，讨论医药股前景悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["医药板块套牢深", "片仔癀没前途", "中药如宗教属性"],
+    "mentioned_stocks": ["片仔癀", "医药股"]
+  },
+  {
+    "index": 32,
+    "summary": "解释国家队减持原因，引导资金入市但遭质疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["存款到期引导资金入市", "砸坑让险资进场", "散户不信任A股"],
+    "mentioned_stocks": ["红利", "蓝筹", "紫金"]
+  },
+  {
+    "index": 33,
+    "summary": "胜通能源停盘一个月后复盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["停盘后复盘情况"],
+    "mentioned_stocks": ["胜通能源"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论长鑫科技上市时间是否应跑路。",
+    "sentiment": "mixed",
+    "key_opinions": ["上市可能带崩大A", "时间表传闻讨论", "晚点上市更好"],
+    "mentioned_stocks": ["长鑫科技"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论半导体低开是否送钱机会，但存风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["低开视为送钱机会", "韩国熔断风险", "纳指期货跳水影响"],
+    "mentioned_stocks": ["半导体", "韩国股市", "纳指"]
+  },
+  {
+    "index": 36,
+    "summary": "看好澜起科技为内存接口龙头，展望高股价。",
+    "sentiment": "positive",
+    "key_opinions": ["全球内存接口芯片龙头", "AI关键配套器件", "股价展望500元"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 37,
+    "summary": "开源证券分析牛市回调，强调科技主线信心。",
+    "sentiment": "positive",
+    "key_opinions": ["牛市多回调现象", "科技仍是投资主线", "下跌非A股自身问题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "抖音图片显示炸酱面，玩笑利好相关股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["利好中国中免面食", "利好猪肉及牧原股份", "消费场景讨论"],
+    "mentioned_stocks": ["中国中免", "猪肉", "牧原股份"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论功率半导体投资时机，但已炒高。",
+    "sentiment": "mixed",
+    "key_opinions": ["周末看涨功率半导体", "已炒半个月时间", "等接盘风险存在"],
+    "mentioned_stocks": ["功率半导体", "士兰微", "新洁能", "杨杰"]
+  },
+  {
+    "index": 40,
+    "summary": "推荐完美世界游戏股，基于业绩扭亏和AI应用。",
+    "sentiment": "mixed",
+    "key_opinions": ["二游上市公司业绩扭亏", "盘口小易拉升", "AI辅助开发受益"],
+    "mentioned_stocks": ["完美世界", "腾讯"]
+  },
+  {
+    "index": 41,
+    "summary": "老登股基金募集困难，消费被简化为白酒。",
+    "sentiment": "negative",
+    "key_opinions": ["老登股官方称呼出现", "基金延期募集困难", "消费板块等于白酒"],
+    "mentioned_stocks": ["老登股", "白酒"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论在论坛发实盘贴是否会被揭露风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["一般不会被扒", "上亿资产需小心", "可能有同车情况"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "韩国全民杠杆投资股市，讨论崩盘风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国全民all in股市", "杠杆率高风险大", "崩盘可能带来礼花"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 44,
+    "summary": "美伊同意停止打击，利好美股期货上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["美伊停战会谈举行", "纳指期货高开大涨", "但停战可能不持久"],
+    "mentioned_stocks": ["纳指期货", "美股"]
+  },
+  {
+    "index": 45,
+    "summary": "韩国存储扩产可能利空国内存储厂逻辑。",
+    "sentiment": "negative",
+    "key_opinions": ["HBM被韩国抢占", "利好材料设备供应商", "国内存储逻辑生变"],
+    "mentioned_stocks": ["存储厂", "澜起科技"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论通胀可能性，担忧滞胀风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["上游涨价传导困难", "消费端无力承受", "可能陷入滞胀"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "深入分析消费不振本质，归因于发展中国家问题。",
+    "sentiment": "negative",
+    "key_opinions": ["中国仍是发展中国家", "分配问题影响消费", "消费数据持续疲弱"],
+    "mentioned_stocks": ["消费板块"]
+  },
+  {
+    "index": 48,
+    "summary": "分享股市波动体验，6月亏损刺激。",
+    "sentiment": "mixed",
+    "key_opinions": ["6月炒股最刺激", "大韩股市波动更大", "资产上亿亏损5%"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "提供早盘投资建议，看好功率半导体和磷化铟。",
+    "sentiment": "positive",
+    "key_opinions": ["看好功率半导体继续", "磷化铟相关股票", "长鑫先进封装标的"],
+    "mentioned_stocks": ["功率半导体", "磷化铟", "深科技", "士兰微", "立昂微", "扬杰科技", "三安光电", "云南锗业", "锡业股份", "兴发集团"]
+  },
+  {
+    "index": 50,
+    "summary": "感觉科技股将走分化，国产与欧美走势不同。",
+    "sentiment": "mixed",
+    "key_opinions": ["国产和欧美走势分化", "依赖感觉非计算", "科技股内部差异"],
+    "mentioned_stocks": ["科技股"]
+  }
+]
