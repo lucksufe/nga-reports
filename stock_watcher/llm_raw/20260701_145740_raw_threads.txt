@@ -1,0 +1,507 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论科技股行情是否结束，部分人转向猪肉白酒，部分认为仍有反复。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技行情可能结束，风格切换至猪肉白酒。",
+      "需看业绩，高估值风险大。",
+      "会有反复但操作难度增加。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "盘面显示科技出货、券商掩护，创新药强，锂电难做，关注中报业绩。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股出货，消费承接不足。",
+      "券商拉升系掩护科技撤退。",
+      "创新药强势，锂电操盘差。"
+    ],
+    "mentioned_stocks": ["阳光电源", "创新药", "证券", "锂"]
+  },
+  {
+    "index": 3,
+    "summary": "败绿股每次想表现就被大盘拖累，回踩可能健康。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "败绿走势受大盘影响。",
+      "今日回踩可能是健康调整。"
+    ],
+    "mentioned_stocks": ["败绿"]
+  },
+  {
+    "index": 4,
+    "summary": "发帖人股市大赚抒发乐观情绪，回复多调侃勿过度乐观。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "近期盈利丰厚，情绪高涨。",
+      "担心过度渲染会引来回调。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论铁盒板块讨论热度上升，部分人视作反向指标考虑离场。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "铁盒讨论放量，反指定律可能生效。",
+      "但认为上涨未到全民疯狂阶段。"
+    ],
+    "mentioned_stocks": ["铁盒"]
+  },
+  {
+    "index": 6,
+    "summary": "分析昊华科技电子特气业务，资金面短期崩塌，长期逻辑仍在。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "电子特气（六氟丁二烯）满产满销。",
+      "短期需震荡，关注中船特气走势。",
+      "涨停日龙虎榜显示老庄出货。"
+    ],
+    "mentioned_stocks": ["昊华科技", "中船"]
+  },
+  {
+    "index": 7,
+    "summary": "投资者晒亏损，表达对家人的愧疚，氛围悲伤。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损严重，对不起家人。",
+      "夏季行情短暂结束。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "有研股份大跌，持有者担心次日无法出逃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "有研股份大幅下跌。",
+      "担忧跌停无法卖出。"
+    ],
+    "mentioned_stocks": ["有研"]
+  },
+  {
+    "index": 9,
+    "summary": "以创业板和科创50为例说明下跌日占比正常，安抚恐慌情绪。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "指数涨跌正常，勿因短期调整恐慌。",
+      "统计表明跌幅>2%的日子占比合理。"
+    ],
+    "mentioned_stocks": ["创业板指", "科创50", "兆易创新"]
+  },
+  {
+    "index": 10,
+    "summary": "调侃机构在7月1日砸盘，但上证红盘多数个股上涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大盘红盘且4400家上涨，非砸盘。",
+      "机构不看节日。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "赛腾股份破前高后回落，开盘追高者被套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "赛腾股份虽破前高但追高被套。",
+      "部分人认为sai佬看好可高看一眼。"
+    ],
+    "mentioned_stocks": ["赛腾股份"]
+  },
+  {
+    "index": 12,
+    "summary": "今日大跌，讨论预判美股走势，认为A股更跟韩国市场。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大A不跟美股，跟棒子市场。",
+      "预判联储发言偏鹰。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "每月1号开局不利，回本遥遥无期。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "每月初常下跌，回本困难。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "持有老登股的投资者买入通信ETF对冲，无奈自嘲。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用通信ETF对冲老登股下跌。",
+      "买啥跌啥的无奈操作。"
+    ],
+    "mentioned_stocks": ["通信ETF"]
+  },
+  {
+    "index": 15,
+    "summary": "解释4000股涨而ETF全绿是因科技股权重已进入指数。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "寒武纪等科技股已纳入上证50。",
+      "ETF绿是因成分股结构性下跌。"
+    ],
+    "mentioned_stocks": ["寒武纪", "海光信息", "中芯国际", "生益科技", "兆易创新"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论风格切换可能，有人全仓切换至白酒地产，有人坚持科技。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "风格可能切换至猪肉白酒地产。",
+      "白酒等老登股夕阳，科技仍是主线。"
+    ],
+    "mentioned_stocks": ["猪肉", "白酒", "地产"]
+  },
+  {
+    "index": 17,
+    "summary": "认为老登股反弹是死猫跳，科技主线不变，建议逢调买入通信或半导体ETF。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技主线未变，老登股反弹短暂。",
+      "可买入通信ETF或PCB个股。",
+      "半导体科创回调不足。"
+    ],
+    "mentioned_stocks": ["通信ETF", "半导体ETF", "科创50ETF", "佰维存储"]
+  },
+  {
+    "index": 18,
+    "summary": "投资者懊悔卖飞半导体和券商，反思拿不住票。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "长期持有却卖在起涨点。",
+      "缺乏明确交易逻辑。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "从早盘盈利到收盘亏损，归咎于大族激光，期待明天反弹。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大族激光导致收益大幅回撤。"
+    ],
+    "mentioned_stocks": ["大族"]
+  },
+  {
+    "index": 20,
+    "summary": "光模块冲高回落追高被套，切换存储失败，两头挨打。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大哥二哥（光模块龙头）跳水。",
+      "追高光模块被套，错过存储。"
+    ],
+    "mentioned_stocks": ["中天科技", "同花顺", "东方财富"]
+  },
+  {
+    "index": 21,
+    "summary": "科技股普跌，有人认为是量化主导的券商科技时代。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "光模块等科技股大幅下跌。",
+      "有观点认为跌的是老登，科技仍强。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "多只科技股出现对子顶，视为见顶信号，赛腾88.88保留看法。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "沃格、赛腾、华海诚科同时对子顶。",
+      "对子顶可能预示顶部。",
+      "赛腾因sai佬概念仍被高看。"
+    ],
+    "mentioned_stocks": ["沃格", "赛腾股份", "华海诚科"]
+  },
+  {
+    "index": 23,
+    "summary": "金属股持续弱势，需等待黄金和美元转向。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "金属股表现不佳，跟黄金走。",
+      "需关注美联储政策和美元走势。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "分析海狗（中远海控）高运价下利润丰厚，分红吸引，可建仓。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "海狗上半年运价高，利润可观。",
+      "分红回报率可能达15%。",
+      "欧线期货下跌无指导意义。"
+    ],
+    "mentioned_stocks": ["海狗", "东方海外国际"]
+  },
+  {
+    "index": 25,
+    "summary": "翻倍后取出本金但利润仓被套，讨论后续操作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利润仓满仓被套，亏损扩大。",
+      "可考虑将本金投入海狗等稳健标。"
+    ],
+    "mentioned_stocks": ["海狗"]
+  },
+  {
+    "index": 26,
+    "summary": "询问今日成交能否过4万亿，回复认为达不到。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "成交量不足，北向休息。",
+      "预计3.7万亿左右。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "有人清仓科技买入猪肉股，尤其看好牧原股份。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "卖出科技买入猪肉（牧原）。",
+      "牧原股份被看好长期价值。"
+    ],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 28,
+    "summary": "3万本金回本记录，割肉紫金转入科技ETF，分享回本进。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "紫金矿业亏损已割肉。",
+      "现转入科技ETF尝试回本。"
+    ],
+    "mentioned_stocks": ["紫金矿业", "恒生科技ETF", "中钨", "鼎龙"]
+  },
+  {
+    "index": 29,
+    "summary": "买入半导体设备ETF当日冲高回落被套，表达沮丧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "半导体设备ETF从+3到-3。",
+      "感受像无能的丈夫。"
+    ],
+    "mentioned_stocks": ["半导体设备ETF"]
+  },
+  {
+    "index": 30,
+    "summary": "受sai影响扛住波动，+2到-8未割肉，心态成长。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跟随sai理念管住手。",
+      "虽亏损但坚持持有。"
+    ],
+    "mentioned_stocks": ["波长光电"]
+  },
+  {
+    "index": 31,
+    "summary": "担忧长鑫存储上市抽血，机构提前回收流动性。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "长鑫上市可能影响市场流动性。"
+    ],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 32,
+    "summary": "嘲讽机构砸盘无力，有人转仓证券避险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "盘面下跌但无恐慌。",
+      "庆幸卖掉科技买入证券。"
+    ],
+    "mentioned_stocks": ["证券"]
+  },
+  {
+    "index": 33,
+    "summary": "发车买入中国石油，看好其走势。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "中国石油开始发车，已上车。"
+    ],
+    "mentioned_stocks": ["中国石油"]
+  },
+  {
+    "index": 34,
+    "summary": "首次跌停按纪律卖出但损失大，后悔未早走。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "跌停损失惨重，按10日线卖出已晚。",
+      "票热度一般，资金放量出逃。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "追高半导体被套，讨论解套时间，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "半导体重挫，追高者被套。",
+      "有人说明天解套，有人看千年大顶。",
+      "建议买入白酒证券快速解套。"
+    ],
+    "mentioned_stocks": ["半导体", "白酒", "证券"]
+  },
+  {
+    "index": 36,
+    "summary": "大盘平盘但个股涨停多，提前减仓仍亏损，抱怨机构。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "减仓后依然亏损。",
+      "机构出货未能反哺消费。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "今日证券板块逆市走强，投资者考虑追入，打破不买证券祖训。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "证券业绩好位置低，逆市硬朗。",
+      "考虑违背祖训追买证券。"
+    ],
+    "mentioned_stocks": ["证券", "创新药", "酒"]
+  },
+  {
+    "index": 38,
+    "summary": "深度分析澜起科技，认为严重低估，目标500元，多人响应上车。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "澜起科技全球内存接口芯片龙头。",
+      "目标价500元，呼吁买入。"
+    ],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 39,
+    "summary": "7月目标回本，长篇看空科技看多蓝筹，认为科技出货蓝筹筑底。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技出货，主力派发。",
+      "蓝筹吸筹筑底，价值回归。",
+      "恒生ETF是低位科技替代。"
+    ],
+    "mentioned_stocks": ["恒生ETF"]
+  },
+  {
+    "index": 40,
+    "summary": "调侃大时代给阳光电源起名阴暗电源，表现阴湿。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "阳光电源表现极差，昵称阴暗电源。"
+    ],
+    "mentioned_stocks": ["阳光电源"]
+  },
+  {
+    "index": 41,
+    "summary": "询问是否适合买半导体，建议分批买入等回调。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "半导体调整，可分批建仓。",
+      "可能会继续下跌，需谨慎。"
+    ],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 42,
+    "summary": "观测海康威视，估值低技术面好，AI转型潜力，适合波段。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "海康威视估值低、股息率3.36%。",
+      "技术面月线金叉。",
+      "适合做波段。"
+    ],
+    "mentioned_stocks": ["海康威视", "先导智能"]
+  },
+  {
+    "index": 43,
+    "summary": "力挺中芯国际为科技洼地，对比长鑫估值看涨至220元。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "中芯国际对比长鑫市值严重低估。",
+      "第一目标215-220元。"
+    ],
+    "mentioned_stocks": ["中芯国际", "长鑫"]
+  },
+  {
+    "index": 44,
+    "summary": "市场科技与其他板块跷跷板，存量资金博弈，无普涨可能。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "科技涨则4000下跌，反之亦然。",
+      "没有增量资金，不可能普涨。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "盘中跳水，无明确利空，调侃抢跑收割或献礼。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "无利空情况下大幅回落。",
+      "可能借节日砸盘或预判利空。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "幸运阿sai晒6月盈利数千万，7月预期降低，满屏膜拜。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "沪电、拓荆等持仓盈利惊人。",
+      "7月降低预期，耐心持股。"
+    ],
+    "mentioned_stocks": ["沪电", "拓荆", "赛腾"]
+  },
+  {
+    "index": 47,
+    "summary": "早盘冲高骗人进场，随后回落，大量投资者被套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "早盘诱多，日内由盈转亏。",
+      "后悔未坚持原有策略。"
+    ],
+    "mentioned_stocks": ["败绿"]
+  },
+  {
+    "index": 48,
+    "summary": "创业板日K线形态工整，推测明日可能反弹。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "创业板日K形态暗示明日或红。"
+    ],
+    "mentioned_stocks": ["创业板指"]
+  },
+  {
+    "index": 49,
+    "summary": "4000+上涨但指数微绿，讨论科技股权重绑架指数。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股权重影响指数表现。",
+      "涨停家数多但指数不涨。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "呼吁神奇两点半救市，回复预期继续砸盘无反弹。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "两点半无护盘，加速下砸。",
+      "明天港资回来可能继续砸。"
+    ],
+    "mentioned_stocks": []
+  }
+]
+```
