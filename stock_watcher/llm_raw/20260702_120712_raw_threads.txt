@@ -1,0 +1,540 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "满仓亏损严重，用户感叹下跌，讨论补仓和持仓选择。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "满仓通信etf利润快跌没",
+      "满仓-9且无钱补仓，无奈持有太极实业",
+      "半仓抄底后亏损加大"
+    ],
+    "mentioned_stocks": ["通信etf", "太极实业"]
+  },
+  {
+    "index": 2,
+    "summary": "投资者回顾多次亏损经历，最终选择认输清仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "从回本到再次亏损，多次操作失败",
+      "清仓后观察海药和先导基电",
+      "建议后来者吸取教训"
+    ],
+    "mentioned_stocks": ["海药", "先导基电"]
+  },
+  {
+    "index": 3,
+    "summary": "投资者被家人质疑科技股投资，虽盈利仍受干扰。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "岳父重仓天然气和消费股，经常唱空科技",
+      "解释业绩与股价关系但对方不懂",
+      "科技赚钱远超岳父亏损的金额"
+    ],
+    "mentioned_stocks": ["某天然气股票", "某消费股票"]
+  },
+  {
+    "index": 4,
+    "summary": "三环集团横盘后突然大跌，投资者未及时离场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "横盘三天后直接-10%，无反弹",
+      "质疑有利空未披露",
+      "其他科技股也普遍下跌"
+    ],
+    "mentioned_stocks": ["三环集团"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论韩国股市大跌及杠杆爆仓风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国指数波动巨大像个股",
+      "高杠杆做多做空均易爆仓",
+      "散户多空都可能亏损"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "咨询更换券商后沪市账户指定交易单元问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "新账户提示未指定交易单元",
+      "需要联系原券商或客户经理处理"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "浮盈从50%回撤至30%，感慨利润回吐快。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "几天时间浮盈大幅缩水",
+      "来得快去得也快，感叹市场无常"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "观测到部分游戏股底部放量，考虑介入机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "游戏股底部开始持续放量",
+      "已有持仓，但会考虑卖出"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论小金属板块上涨逻辑，聚焦钨业利润。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "厦钨公告暗示钨利润可能极高",
+      "美联储放鸽缓解加息预期",
+      "盛合资源等个股走势强劲"
+    ],
+    "mentioned_stocks": ["厦钨", "江钨装备", "盛合资源"]
+  },
+  {
+    "index": 10,
+    "summary": "辩论AI是否存在泡沫，观点分歧明显。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI是工业革命方向，应长期持有",
+      "AI有用但存在股价泡沫",
+      "股价泡沫不等于行业泡沫"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "投资者追高买入科技ETF，被套后决定不割肉。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "昨天买在ETF顶部",
+      "绝不割肉，打算扛到底",
+      "关注赵姨和中际能否支撑"
+    ],
+    "mentioned_stocks": ["赵姨", "中际"]
+  },
+  {
+    "index": 12,
+    "summary": "探讨Meta消息是否促使互联网软件股卷度下降。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI发展进入瓶颈，竞争放缓",
+      "不卷可能晚死，卷了可能早死或胜出"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "观察平潭发展，认为老庄控盘迹象明显。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "平潭发展老庄自玩不亦乐乎",
+      "无明显参与机会"
+    ],
+    "mentioned_stocks": ["平潭发展"]
+  },
+  {
+    "index": 14,
+    "summary": "猜测Meta假消息意在打压海力士美股上市估值。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能为低价获取韩国半导体筹码",
+      "资本开支或已见顶",
+      "AI线和整车电池产业链类似博弈"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "探讨有色金属是反转还是反弹，关注非农数据。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "区间震荡适合做T",
+      "个人操作影响判断，充满不确定性"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "推荐晶瑞电材作为半导体材料补涨标的，分析轮动逻辑。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "半导体材料轮动，硫酸尚未被炒",
+      "多氟多等氢氟酸概念已大幅上涨",
+      "晶瑞电材年内涨幅远落后于板块"
+    ],
+    "mentioned_stocks": ["晶瑞电材", "多氟多"]
+  },
+  {
+    "index": 17,
+    "summary": "认为下游减少竞争是上游AI硬件利空。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "下游不卷导致上游需求预期降低",
+      "必须让下游持续烧钱才能支撑上游",
+      "市场解读meta消息为利空"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "韭菜反思交易，分享学习过程与亏损操作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "卖飞雅克和彤程，追高东山被套",
+      "总结主线核心股应重仓持有",
+      "小资金高风偏，寻求交易模式改进"
+    ],
+    "mentioned_stocks": ["雅克", "彤程", "东山精密", "天通股份", "远东", "亨通", "光华", "泰晶", "金安", "生益科技", "诺德"]
+  },
+  {
+    "index": 19,
+    "summary": "对比PCB股，认为胜宏科技表现优于沪电股份。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "胜宏和中际较坚挺",
+      "沪电跌7个点，表现较弱"
+    ],
+    "mentioned_stocks": ["胜宏", "沪电"]
+  },
+  {
+    "index": 20,
+    "summary": "机器人板块因业绩预增有所表现，讨论切换风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "机器人业绩预增引发埋伏盘",
+      "板块切换容易两头挨打",
+      "上游有业绩，并非纯粹题材"
+    ],
+    "mentioned_stocks": ["锋龙"]
+  },
+  {
+    "index": 21,
+    "summary": "观测红星发展尾盘拉升，认为可能启动二波。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "跌停附近接回筹码",
+      "感觉将要二波启动",
+      "对比TCL科技也有机会"
+    ],
+    "mentioned_stocks": ["红星发展", "TCL科技"]
+  },
+  {
+    "index": 22,
+    "summary": "用数据说明创业板指、科创50短期大跌属正常波动。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "指数40交易日内大跌天数概率正常",
+      "不必因短期下跌恐慌",
+      "兆易创新等核心股波动也大"
+    ],
+    "mentioned_stocks": ["兆易"]
+  },
+  {
+    "index": 23,
+    "summary": "立昂微跌幅远超其他硅片股，投资者质疑有量化干扰。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "立昂微跌近9%而其他硅片已收窄",
+      "怀疑量化资金主导，无主动资金",
+      "对比沪硅走势差距大"
+    ],
+    "mentioned_stocks": ["立昂微", "沪硅"]
+  },
+  {
+    "index": 24,
+    "summary": "持仓沪电股份体验差，对比半导体板块涨幅落后。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "沪电股份涨幅落后半导体板块",
+      "换仓至立昂微期待补涨",
+      "科技板块内部调整属健康"
+    ],
+    "mentioned_stocks": ["沪电股份", "立昂微"]
+  },
+  {
+    "index": 25,
+    "summary": "重仓利通电子遭遇跌停，纠结是否持有。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利通跌停，考虑是否止损",
+      "认为尾盘可能打开或有资金吸筹",
+      "该股常有直上直下波动"
+    ],
+    "mentioned_stocks": ["利通"]
+  },
+  {
+    "index": 26,
+    "summary": "晒单精准买在半导体高点，自嘲操作。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "等了回调一个月，一买入就挂顶",
+      "多人共鸣精准抄顶能力"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "关注晚间美国非农数据，预期中性。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "小非农低于预期算利好",
+      "大概率非农数据中性"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "外围市场反弹，争议是否为诱多。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "外围V型反弹，但不宜过早乐观",
+      "警惕开盘后再回落"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "完美世界（完美酱）出现涨停，讨论底部可能性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "一个涨停可能确认底部",
+      "建议关注主线而非游戏",
+      "解套还需更多涨幅"
+    ],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 30,
+    "summary": "天赐材料加仓被埋，发帖后股价拉升，感叹玄学。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "加仓后继续下跌",
+      "发恨楼后疑似有资金拉升",
+      "可能与盘中小作文有关"
+    ],
+    "mentioned_stocks": ["天赐材料"]
+  },
+  {
+    "index": 31,
+    "summary": "农业银行（农斯达克）股价破6，讨论股息率。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "农行阴跌，股息率仍偏低",
+      "前两年涨幅过大，仍需调整"
+    ],
+    "mentioned_stocks": ["农业银行"]
+  },
+  {
+    "index": 32,
+    "summary": "预期科技股再跌一点即为加仓良机。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "希望小跌不跌停，适合抄底",
+      "已有部分ETF跌幅较大"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "认为美股科技大跌是洗盘，坚定看多AI。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "唱空帖子反映散户不坚定，将被洗下车",
+      "利用低开洗掉浮筹，后续走好",
+      "不坚定者终将接盘"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "关注财经大V大宵停更动态，讨论其影响。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "他近期转至头条发文章",
+      "唱空一年后市场才跌",
+      "只要他还唱空，风险就不大"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "预测科技股下午将反弹，因资金无更好去处。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "资金找不到其他安全板块",
+      "科技回调后是最佳选择"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "市场炒作转向生肖概念中的羊板块。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "乱纪元炒生肖，启动炒羊",
+      "纯粹题材炒作"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "讨论中际旭创是否调整到位，可以抄底。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "有人认为还在半山腰，需等恐慌盘",
+      "有人觉得可以低吸",
+      "关注Meta等外围消息"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 38,
+    "summary": "竞价阶段未买到半导体ETF，分享挂单经验。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "竞价想买血筹未成交",
+      "认为当前情绪修复后性价比下降",
+      "外围不明朗，选择观望"
+    ],
+    "mentioned_stocks": ["半导体etf"]
+  },
+  {
+    "index": 39,
+    "summary": "重新解读Meta卖算力对硬件的实际影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "算力租赁业务可为收益兜底",
+      "有toc业务云厂商反而上涨",
+      "硬件跌幅可能被错杀"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "分析中钨高新调整走势，认为中报前还有机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "短期需调整至中轨线",
+      "中报预期仍在，钨利润确定",
+      "部分资金获利了结转战其他方向"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 41,
+    "summary": "询问兆易创新当前能否买入，分歧较大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "知名投资者买入被视为反向信号",
+      "建议等缩量和外围企稳",
+      "散户集中抄底需等待洗盘"
+    ],
+    "mentioned_stocks": ["兆易"]
+  },
+  {
+    "index": 42,
+    "summary": "京东方A从跌停附近大幅拉升，接近地天板。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "8元附近成功抄底",
+      "横盘久竖涨高的典范",
+      "带动其他面板股异动"
+    ],
+    "mentioned_stocks": ["京东方A", "彩虹"]
+  },
+  {
+    "index": 43,
+    "summary": "解读Meta卖算力新闻对存储板块的影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市场先砸为敬，但逻辑存在争议",
+      "Meta自身掉队，出租是无奈之举",
+      "硬件需求仍在，分歧中孕育机会"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "投资者卖飞江化微，换仓至八亿时空。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "江化微作为中芯亲儿子仍有潜力",
+      "已获利了结，转向更强势标的",
+      "八亿时空更有弹性"
+    ],
+    "mentioned_stocks": ["江化微", "八亿时空"]
+  },
+  {
+    "index": 45,
+    "summary": "发帖记录满仓新易盛，表达做多信心。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "站在光里做多新易盛",
+      "还持有沪硅和澜起底仓",
+      "信心十足，不畏短期波动"
+    ],
+    "mentioned_stocks": ["新易盛", "沪硅", "澜起"]
+  },
+  {
+    "index": 46,
+    "summary": "投资者持仓组合跑输市场，感到沮丧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "持仓老登股表现疲弱",
+      "立昂微（law硅）走势极差",
+      "别人翻红自己亏损"
+    ],
+    "mentioned_stocks": ["立昂微"]
+  },
+  {
+    "index": 47,
+    "summary": "投资者大幅亏损后割肉，情绪崩溃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "割肉科技股后出现反弹",
+      "连跌3个月，道心破碎",
+      "亏损严重到像看欢乐豆"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "利通电子频繁跌停，持有者无奈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利通电子大跌必触及跌停",
+      "多次抄底做T均失败",
+      "装死不动等待反弹"
+    ],
+    "mentioned_stocks": ["利通"]
+  },
+  {
+    "index": 49,
+    "summary": "激进看多，称当天为中报前最后科技加仓机会。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "基本面未坏，调整是恐慌",
+      "建议做T降低持仓成本",
+      "实盘已从-9.2%翻红"
+    ],
+    "mentioned_stocks": ["利通", "太极", "胜宏", "中天"]
+  },
+  {
+    "index": 50,
+    "summary": "电力板块今日下跌，不解夏季用电高峰为何弱势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "夏季未过却下跌",
+      "炒作预期已过，资金分流新股",
+      "电力股缺乏涨价逻辑"
+    ],
+    "mentioned_stocks": []
+  }
+]
+```
