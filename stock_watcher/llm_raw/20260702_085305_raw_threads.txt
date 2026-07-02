@@ -1,0 +1,546 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论澜起科技被严重低估，内存接口芯片龙头地位，网友上车热情高但有人质疑分析深度。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "澜起科技为内存接口芯片全球第一，严重低估",
+      "分析较简单，不如以往充分，信心不足",
+      "科创板机会，准备上车"
+    ],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论科技股恐慌盘是否踩踏，观点分歧，有人抄底有人调仓猪肉白酒。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "恐慌盘可能出现踩踏，及时止损",
+      "别人恐惧我贪婪，正是抄底时机",
+      "资金从科技流向猪肉白酒等防御股"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "用户买入工商银行、中信证券、药明康德防御，清仓科技类ETF等待企稳。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "买入银行证券防御，清仓等科技企稳",
+      "药明康德等老登股7月可能涨10%",
+      "工商银行今年低点支撑，相对安全"
+    ],
+    "mentioned_stocks": ["工商银行", "中信证券", "药明康德", "科创芯片ETF", "通信ETF"]
+  },
+  {
+    "index": 4,
+    "summary": "生日当天市场崩溃，钱亏光，极度悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "寿辰变祭日，市场崩溃打击沉重",
+      "无人祝贺生日，资金亏损绝望"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "分析Meta算力闲置是否标志算力拐点，对硬件需求预期分歧大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "Meta算力租赁可能代表需求拐点",
+      "算力需求依然强劲，Meta个例不说明整体",
+      "高端卡闲置，中低端出租，采购预期打折"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "Sai哥用指数波动统计数据安慰科技回调正常，举例兆易创新大涨劝勿焦虑。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "40天10天跌超2%属正常概率，不必恐慌",
+      "兆易创新涨幅可观，短期回撤正常",
+      "别因短期不涨就判定指数完蛋"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 7,
+    "summary": "反驳对纳斯达克和科技股的担忧，认为Meta决策无指导性，硬件会继续涨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "Meta决策无指导意义，算力租赁仍需购置服务器",
+      "纳指仍在高位，美光、闪迪等股价坚韧",
+      "很多人不知Meta技术差，消息不必过虑"
+    ],
+    "mentioned_stocks": ["美光科技", "闪迪"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论日本在印度建半导体厂，多数不看好，认为利好国产替代。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "印度制造能力存疑，可能打水漂",
+      "利好国产半导体替代，阿三搞不成",
+      "利好半导体材料，但电力等基础难保障"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "探讨是否有人追高科技接盘，担心站岗，多数表示不敢追。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "追高科技可能挂山顶数年，风险大",
+      "现入场无安全垫，接最后一棒",
+      "已套在败绿等股上，体验极差"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "存储股业绩爆表但股价跌，怀疑复制锂矿周期见顶。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "存储业绩高峰股价开始跌，似锂矿周期顶",
+      "小作文唱空，市场担忧供应过剩",
+      "可能又要进入下行周期"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "提醒AI硬件风险，Meta开枪可能引发连锁反应，建议空仓观望。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "Meta首个削减信号，对AI硬件利空",
+      "算力优化和硬件降价是阶段性热点",
+      "AI硬件涨幅过大，调整属正常"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "抱怨一跌各路牛鬼蛇神都出来唱空，认为三步一回头正常。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "涨时无人，跌时看空，三步一回头属正常",
+      "有分歧是好，无人讨论反而到顶",
+      "光模块持有过程波动大，需耐心"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "嘲笑韩国存储行情被吹奶死，认为虽是真科技但调整可能漫长。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国存储是真科技，但熊市可持续六七年",
+      "狂热吹棒情绪导致崩盘",
+      "三星海力士利润巨大，但调整也剧痛"
+    ],
+    "mentioned_stocks": ["三星电子", "SK海力士"]
+  },
+  {
+    "index": 14,
+    "summary": "分析龙虎榜数据，讨论莱宝高科、TCL等个股，寻找买入机会。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "龙虎榜分析，寻多席位买入后横盘股",
+      "莱宝高科和TCL有人跟进",
+      "风华高科、紫光股份当日被套"
+    ],
+    "mentioned_stocks": ["莱宝高科", "TCL集团", "风华高科", "紫光股份"]
+  },
+  {
+    "index": 15,
+    "summary": "认为美股科技大跌是洗盘良机，坚定AI信仰，低吸筹码。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "跌是好事，洗盘后行情更健康",
+      "无AI坚定信心者将被洗下",
+      "昨尾盘已有抄底资金，低开可再洗浮筹"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "韩国开盘熔断恐慌，询问赛腾股份是否需要撤退。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国开盘熔断，设备板块承压",
+      "赛腾疑似对子顶88.88，建议撤退",
+      "持股24小时未涨就是坑"
+    ],
+    "mentioned_stocks": ["赛腾股份"]
+  },
+  {
+    "index": 17,
+    "summary": "分析师测算Meta算力空置率35%，恐削减资本开支，利空硬件。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "空置率35%吓人，或大幅削减投资",
+      "Meta大模型掉队，急于回收支出",
+      "云业务前景不明，资本开支预期悲观"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "质疑Meta算力冗余消息，认为媒体曲解，华尔街借机做空。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "原话是未来可能出租，非当下冗余",
+      "媒体假新闻引发恐慌，空头获利",
+      "谷歌缺算力，Meta出租给谷歌可双赢"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "指出许多科技股未破均线，不必恐慌，低开有望高走。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "五日十日线未破，强势依旧，不慌",
+      "低开是好事，文峰看高走",
+      "均线仍是重要参考，Sai佬也看"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 20,
+    "summary": "猜测今天A股可能低开高走，或因已有预防性下跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "A股预判下跌已提前反应，今天或低开高走",
+      "科技跟随韩股，韩熔断难拉",
+      "上证可能红盘，个股分化"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "Meta事件反映市场对资本开支降速极高敏感，赛道拥挤。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中性消息大跌，市场对capex降速极敏感",
+      "AI商业闭环未成，巨头不补贴则折价",
+      "空头借消息砸盘收集筹码"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "澄清Meta未实际出租算力，原意是未来可能的业务，乐观解读。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "小扎原话为未来冗余可出租，非现在",
+      "能卖算力则更有钱买硬件，利好行业",
+      "今天可能是互道SB的一天"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "讨论厦门钨业与另一股（螺母）之间的纠纷，具体不详。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "厦门钨业与螺母出现矛盾",
+      "市场关注其撕逼细节"
+    ],
+    "mentioned_stocks": ["厦门钨业"]
+  },
+  {
+    "index": 24,
+    "summary": "踏空者嘲讽空仓却见科技下跌后发帖庆祝，激怒持仓者。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "空仓踏空者见跌才发帖庆祝，嘲讽",
+      "菜就别练，装模作样",
+      "空仓等回调可能继续错过"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "讨论美股下跌是否预示科技见顶，建议切换至银行白酒等防御。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技可能牛市末期节奏，需调整仓位",
+      "国产替代逻辑硬，设备或许还有机会",
+      "光存储可能到顶，关注导芯"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "希望市场不再下跌以便逃跑，担心继续亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "希望不跌后立即清仓逃跑",
+      "指数有国家队，问题可能不大"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论网红王小雨清仓科技，猜测是否预示阶段性顶部。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "王小雨清仓科技，可能见顶信号",
+      "其历史收益可观，值得参考",
+      "网红炒股多重账户，不可全信"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "韩国综合指数暴跌超6%触及熔断，股民哀嚎。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国指数开盘重挫，快速熔断",
+      "NGA科技拥挤，A股可能承压",
+      "有人希望借跌买入港股挂钩产品"
+    ],
+    "mentioned_stocks": ["07709"]
+  },
+  {
+    "index": 29,
+    "summary": "调侃A股终于预判准了一次跟跌，但后续内外资或继续砸。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "A股预判对一次，但可能还要跌",
+      "昨天内资砸，今天外资可能跟砸",
+      "内外资齐砸，散户晕了"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "持股科技体验差但仍持有，相信中报，胜宏最惨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利润大幅回撤但未破中轨决定持仓",
+      "中报仍有盼头，可能加仓",
+      "比起胜宏科技算幸运"
+    ],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 31,
+    "summary": "观察AI硬件出现对子顶，有色出现对子底，疑风格切换。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI硬件对子顶，有色对子底，切换信号",
+      "历史对子顶后继续涨，不可迷信",
+      "有色跟期货，加息逻辑不利"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "GPT宏观快报：利率和情绪主导，美债收益率上行，VIX低位。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "利率因子与风险情绪主导市场",
+      "美债收益率上行，美元走强，黄金反弹",
+      "油价因美伊谈判下跌，VIX仍低"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "马斯克也曾出租算力当时无反应，现恐慌或为空头做空。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "特斯拉出售闲置算力时无负面反应",
+      "此轮恐慌或空头联合媒体做空",
+      "微软等也可能跟进，扩大担忧"
+    ],
+    "mentioned_stocks": ["微软"]
+  },
+  {
+    "index": 34,
+    "summary": "分析厦门钨业子公司停产公告，预测上半年业绩炸裂。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "子公司停产却半年利润达去年三倍",
+      "全年利润可能翻六倍，估值极低",
+      "中钨和章钨作为同行也受益"
+    ],
+    "mentioned_stocks": ["厦门钨业", "中钨高新", "章源钨业"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论先导基电注入先导电科的资产重组预期，认为很大机会。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "先导电科无法IPO，注入基电预期强",
+      "核心资产注入，有望起飞",
+      "董秘公告前后矛盾，预期差大"
+    ],
+    "mentioned_stocks": ["先导基电", "先导电科"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论AI是否为泡沫，有人清仓回白酒，引用茅台历史比较。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI可能类似茅台，调整后还有大行情",
+      "短期调整会很痛，但趋势未结束",
+      "重新拥抱白酒医药，回避科技"
+    ],
+    "mentioned_stocks": ["贵州茅台"]
+  },
+  {
+    "index": 37,
+    "summary": "自嘲“高手不赢头两把”，戏谑投资亏损节奏。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "高手不赢头两把，明天不赢前三把",
+      "自嘲将亏损延续到一周或一月"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "日经跌幅较小，因依赖上游材料传导慢，等待A股开盘。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "日经靠半导体材料，上游传导慢",
+      "日元贬值也有缓冲作用",
+      "需看A股开盘后联动情况"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "梦见美股韩跌但负负得正，A股或微涨，科技股仍承压。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "梦到负负得正，上证可能微红",
+      "指数易涨，但科技个股可能跌",
+      "可能再现4000红1000绿格局"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "任泽平称韩国生育率上升因股市上涨，引发争议和讽刺。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国生育率连升或因股市财富效应",
+      "言论被批不靠谱，年轻人难靠炒股结婚",
+      "A股机构拉高出货与韩国不同"
+    ],
+    "mentioned_stocks": ["三星电子", "SK海力士"]
+  },
+  {
+    "index": 41,
+    "summary": "周四例行哭惨，讨论TCL、京东方等面板股被套。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "凯盛被摁，准备抛京东方，不再信玻璃",
+      "玻璃概念不可靠，提前炒作风险大",
+      "TCL也被埋"
+    ],
+    "mentioned_stocks": ["TCL集团", "京东方A", "凯盛科技"]
+  },
+  {
+    "index": 42,
+    "summary": "韩国综指岌岌可危，砍单即趋势逆转，财报超预期也无用。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩指破位，砍单开始即下跌趋势",
+      "财报超预期也难扭转悲观",
+      "市场不信存储能一直高利润"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "持仓全科技，担心暴毙，预计亨通等可能跌停。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "全仓科技，恐遭重创",
+      "亨通光电明天可能跌停",
+      "最惨计提10个点，已预跌部分"
+    ],
+    "mentioned_stocks": ["亨通光电"]
+  },
+  {
+    "index": 44,
+    "summary": "嘲讽韩国股市暴跌和之前的“黄金时代”营销。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国股市破位，黄金时代破灭",
+      "之前吹棒的人消失",
+      "国家队救市无效，外资流出"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "讽刺胜宏科技在科技行情中表现垫底，比喻为洗盘子。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "胜宏未吃主升浪，只捡剩菜",
+      "行情将过去，才刚入席",
+      "未独立行情前不加仓"
+    ],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 46,
+    "summary": "发车买入中国石油，看好其后市。",
+    "sentiment": "positive",
+    "key_opinions": ["第二次发车中国石油，已上车"],
+    "mentioned_stocks": ["中国石油"]
+  },
+  {
+    "index": 47,
+    "summary": "买入北部湾港后被套10%，纠结是否割肉追科技。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "北部湾港持续下跌，亏损10%",
+      "他人早已获利兑现，自己接棒",
+      "考虑割肉拥抱科技主线"
+    ],
+    "mentioned_stocks": ["北部湾港"]
+  },
+  {
+    "index": 48,
+    "summary": "认为AI硬件逻辑根本改变，建议一键清仓，已转向白酒地产。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "AI硬件逻辑已变，须清仓",
+      "已买入白酒房地产，期待发家",
+      "今互道SB，多空激辩"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "先考虑Meta利好恒生科技逼空，后发现阿里缩量不跟，放弃。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "Meta消息或利恒生科技逼空",
+      "观察阿里缩量无大资金",
+      "腾讯阿里可做超短但需谨慎"
+    ],
+    "mentioned_stocks": ["恒生科技", "阿里巴巴", "腾讯控股"]
+  },
+  {
+    "index": 50,
+    "summary": "AI供需矛盾和高拥挤度致短期颠簸，非历史大顶，长期看多。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "结构性供需矛盾和高拥挤度造成颠簸",
+      "AI最大验证点是Anthropic招股",
+      "东升西落，西边调整获利好中国AI"
+    ],
+    "mentioned_stocks": []
+  }
+]
+```
