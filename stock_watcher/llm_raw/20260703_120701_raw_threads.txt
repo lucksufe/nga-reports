@@ -1,0 +1,511 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "分享盈亏同源理念，持股不动风格在牛市赚钱但也会导致大亏。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "赚大钱的交易逻辑也是大亏的根源",
+      "持股不动的优势也会成为软肋",
+      "上升周期死拿能赚大钱"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "抱怨锂矿股业绩好但股价不涨反跌，资金流向科技。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "锂矿股期货涨、业绩好但股价一潭死水",
+      "盐湖股份业绩环比增长却跌至年内低点",
+      "资金去机器人都不去锂矿"
+    ],
+    "mentioned_stocks": ["盐湖股份", "融捷", "赣锋"]
+  },
+  {
+    "index": 3,
+    "summary": "抱怨光纤板块修复最少、调整直接跌停。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "光纤修复是最少的",
+      "调整时直接跌停"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论AI是否真正智能，有人觉得像高级搜索引擎。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "免费AI像搜索引擎，不够智能",
+      "花钱的高级版本好用",
+      "AI基建未完成，需再等几年"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "赛腾股份高位被套，群友互相安慰亏损严重。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "88.88是永远的山顶",
+      "亏损严重考虑割肉",
+      "60元以下可以抄底"
+    ],
+    "mentioned_stocks": ["赛腾股份"]
+  },
+  {
+    "index": 6,
+    "summary": "分析韩股上涨原因，认为是跌多反弹和存储护盘。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跌多了就要涨",
+      "韩国用存储赌国运不会轻易被华尔街打垮",
+      "多空双杀，晚上没有美股干扰拿先手"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 7,
+    "summary": "感谢韩国股市顽强，表示要支持韩国产品。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "韩国顶住了压力要懂得感恩",
+      "以后买三星不买苹果",
+      "希望欧巴涨到熔断"
+    ],
+    "mentioned_stocks": ["三星"]
+  },
+  {
+    "index": 8,
+    "summary": "吐槽日韩股市再次跳水，嘲笑过早乐观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中场开香槟为时过早",
+      "韩国跟纳指期货走",
+      "大A下午可能更惨"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "海皇涨停，询问何时是买入好价。",
+    "sentiment": "neutral",
+    "key_opinions": [],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 10,
+    "summary": "认为市场看清扎克伯格反指本质，Meta利空反而拉起。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "扎克伯格是行业明灯、内战内行",
+      "市场反应过来meta退出是利好",
+      "聪明的资金早知道内情"
+    ],
+    "mentioned_stocks": ["Meta"]
+  },
+  {
+    "index": 11,
+    "summary": "液冷板块走势不错，有人观望未入场。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "液冷龙头业绩亮眼",
+      "这次不会错过机会"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "比较A股和港股胜宏表现，解释港股反弹更多因前期跌幅大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "港胜昨天跌16%今天修复更多",
+      "A胜跌幅小反弹也少",
+      "不能只看见贼吃肉不见贼挨打"
+    ],
+    "mentioned_stocks": ["胜宏科技", "港股胜宏"]
+  },
+  {
+    "index": 13,
+    "summary": "清仓后重新冲入半导体，决心死在科技里。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "死也要死在科技里",
+      "半导体扩产周期仍在，回调正常",
+      "愿赌服输"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "高盛展望下半年科技巨头失宠，半导体才是王者。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "高盛看好半导体",
+      "科技巨头继续失宠"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "观察到比亚迪走强，港股两天反弹十多个点。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "比亚迪A股四连红",
+      "港股反弹因为海外市场超预期"
+    ],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 16,
+    "summary": "因Meta事件对AI长期逻辑失去信心，减仓清仓转向低位。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "Meta鬼故事导致长期逻辑破位",
+      "高位股任何不超预期都是鬼故事",
+      "图形走坏短期难修复"
+    ],
+    "mentioned_stocks": ["Meta"]
+  },
+  {
+    "index": 17,
+    "summary": "看好医药股七月行情，买入药猴期待中报。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "创新药绕不开的猴子",
+      "中报肯定好但资金恶心",
+      "医药大年"
+    ],
+    "mentioned_stocks": ["药猴", "美诺华"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论AI行情阶段，认为是业绩驱动主线，短期波动正常。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "有业绩增长和预期的主线",
+      "短期波动不清，中长期看逻辑",
+      "倒车接人赶紧上"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "止损石大胜华换入金风科技，对原股走势不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "石大胜华表现狗屎",
+      "金风科技是蛆被套牢",
+      "后悔没做T超捷"
+    ],
+    "mentioned_stocks": ["石大胜华", "金风科技", "超捷"]
+  },
+  {
+    "index": 20,
+    "summary": "早上恐慌清仓后看到反弹后悔，但认为有盈利走也对。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "三天亏20%最低点跑了",
+      "一跌就跑是否赚一点也跑",
+      "有盈利任何时候走都对"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "调侃股市打人，不打人的时候挺好。",
+    "sentiment": "mixed",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "争吵源自对牛是否还在的困惑，认为AI链仍是主线。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "牛还在但板块分化",
+      "围绕AI链轮动",
+      "高抛低吸或选好标的持有"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "发图调侃K线自然形态。",
+    "sentiment": "neutral",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "全仓买入阳光电源，认为回调到去年低点胜率高。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "120是铁底可以建仓",
+      "储能远景星辰大海",
+      "创业板票够便宜就会启动"
+    ],
+    "mentioned_stocks": ["阳光电源"]
+  },
+  {
+    "index": 25,
+    "summary": "沪电股份破位，清仓科技认为PCB行情可能结束。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "沪电跌穿所有均线",
+      "大部分光、pcb都跌穿了",
+      "PCB行情大概率结束"
+    ],
+    "mentioned_stocks": ["沪电股份", "东山精密", "深南电路"]
+  },
+  {
+    "index": 26,
+    "summary": "机器人板块大涨，看好硬件高毛利阶段，期待中报。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "机器人出货量明显提高",
+      "中报照妖镜区分真假",
+      "埃斯顿最厉害"
+    ],
+    "mentioned_stocks": ["埃斯顿", "三花智控", "五洲新春"]
+  },
+  {
+    "index": 27,
+    "summary": "加仓深科技亏损后清仓割肉，未能抓住老登涨停。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "早上-8清仓深科技",
+      "之前AI目标价没执行",
+      "缺乏信仰随波逐流"
+    ],
+    "mentioned_stocks": ["深科技", "紫金矿业"]
+  },
+  {
+    "index": 28,
+    "summary": "调查大家投入流动资金的比例，各种类型都有。",
+    "sentiment": "neutral",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "好奇A50成分股调整导致指数与现货背离。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "一批科技股进入A50",
+      "昨天跌过头今天期货补涨"
+    ],
+    "mentioned_stocks": ["A50"]
+  },
+  {
+    "index": 30,
+    "summary": "张坤基金调仓割肉老登买入科技，调侃接盘。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "易方达蓝筹6月底开始调仓",
+      "割肉老登买入科技",
+      "坤坤真敢来抄底"
+    ],
+    "mentioned_stocks": ["易方达蓝筹精选"]
+  },
+  {
+    "index": 31,
+    "summary": "扛住科技大幅调整感动庆幸，利润垫厚未离场。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "沪电将近一百块利润不走",
+      "亏麻了不服离场",
+      "胆子大才能赚钱"
+    ],
+    "mentioned_stocks": ["沪电股份"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论通富微电与长鑫供货关系，市场未发酵。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "通富给长鑫封测供货量大",
+      "深度绑定AMD",
+      "市场未炒作相关信息"
+    ],
+    "mentioned_stocks": ["通富微电", "长鑫存储"]
+  },
+  {
+    "index": 33,
+    "summary": "光模块拉红存储才能跟涨，否则互相吸血。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "光是红的存储才能拉",
+      "国产区涨太多需调整"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "描述持股心态波动，最终加仓后反弹减仓，感叹股市反人性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "开盘恐慌差点清仓",
+      "反手买入跟他爆了",
+      "股市太反人性"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "认为韩国不会轻易屈服华尔街做空存储，长期看涨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "真缺的东西喊鬼故事没用",
+      "做空是为抢筹码",
+      "海力士上市前压价后拉盘"
+    ],
+    "mentioned_stocks": ["海力士", "三星"]
+  },
+  {
+    "index": 36,
+    "summary": "抱怨同花顺软件卡顿影响使用。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "同花顺很卡，自选丢失"
+    ],
+    "mentioned_stocks": ["同花顺"]
+  },
+  {
+    "index": 37,
+    "summary": "等待苹果泄密解读，关注宜安科技是否独家。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "宜安科技可能是独家",
+      "和胜股份未获资金认可"
+    ],
+    "mentioned_stocks": ["宜安科技", "和胜股份"]
+  },
+  {
+    "index": 38,
+    "summary": "转发搞图调侃A股、韩股、美股联动循环。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "大A看韩股，韩股看美股，美股看大A",
+      "棒子是优等生"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "号召收集元气拯救光之巨人（光模块板块）。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "光之巨人受到重创",
+      "举起双手借元气"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "尾盘拉东方财富，怀疑是掩护科技出货。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "拉证券掩护出货",
+      "下午可能跳水"
+    ],
+    "mentioned_stocks": ["东方财富"]
+  },
+  {
+    "index": 41,
+    "summary": "宽慰科技股涨多回调正常，获利盘出货震荡。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "一个月涨60%需要歇息换手",
+      "鬼故事结束主升浪回调",
+      "恐慌是人之常情"
+    ],
+    "mentioned_stocks": ["半岛铁盒"]
+  },
+  {
+    "index": 42,
+    "summary": "完美世界涨停，认为是底部可以建仓。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "有一个涨停底部确立",
+      "再来一板解套",
+      "这次不一样"
+    ],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 43,
+    "summary": "存储板块独自拉升，其他科技无反应。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "只有存储拉升",
+      "看不懂原因"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "新人疑惑资金是否暂离科技去中登等长鑫上市。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技还会走强",
+      "资金可能去中登股票等长鑫上市"
+    ],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 45,
+    "summary": "盐湖股份业绩预增却下跌，后悔选择错误。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中报利润60亿增长1.3倍还跌",
+      "发完预增能买入就有问题"
+    ],
+    "mentioned_stocks": ["盐湖股份"]
+  },
+  {
+    "index": 46,
+    "summary": "市场修复后论坛恢复热闹，但部分人仍亏损。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "浮盈大幅回撤",
+      "不跌就开心",
+      "卖的人多买的人少可能还能涨"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "割肉立昂微后看到继续跌停庆幸，准备换消费股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "少亏就是赚",
+      "科技股七月不行",
+      "准备去消费、贵金属"
+    ],
+    "mentioned_stocks": ["立昂微", "比亚迪", "紫金矿业"]
+  },
+  {
+    "index": 48,
+    "summary": "行情修复但胜宏表现差引发情绪宣泄。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "修复了但胜宏没涨",
+      "情绪崩溃"
+    ],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 49,
+    "summary": "抱怨A股总看外围脸色，外盘利好也不涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大A没脸看别人脸色",
+      "外盘利好压着慢牛",
+      "外盘利空却大跌"
+    ],
+    "mentioned_stocks": []
+  }
+]
+```
