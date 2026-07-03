@@ -1,0 +1,489 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "论坛用户因市场下跌生气，有人清仓离场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "难过变成生气",
+      "有人清仓不玩了",
+      "不是玩不起，是他们玩不起"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "阿里内部禁用Claude Code，因存在后门风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "阿里全面禁用Claude Code",
+      "因被植入后门的安全风险"
+    ],
+    "mentioned_stocks": ["阿里"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论中天科技走势，分析主力出货或洗盘，有人割肉。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "涨停后跌停可能是洗盘",
+      "动态PE跌到20以内",
+      "走势太难看，可能走双头"
+    ],
+    "mentioned_stocks": ["中天科技"]
+  },
+  {
+    "index": 4,
+    "summary": "看好电池上游材料困境反转，期待中报行情。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "开除多氟多是叛徒",
+      "今年是困境反转，储能需求大爆发",
+      "材料中报会转好，期待荣光"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "怀疑国家队出货，提问相同走势是出货标志。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "有狗东西在砸沪深300",
+      "大基金和机构在出货",
+      "媒体澄清meta没有抛弃算力"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "坚持科技股未割肉，认为AI行情未结束。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "文佬下调澜起预期至400元",
+      "科技行情没结束，AI不可能彻底破",
+      "止盈去了创新药或黄金"
+    ],
+    "mentioned_stocks": ["澜起科技", "沪电"]
+  },
+  {
+    "index": 7,
+    "summary": "海皇连续四涨停，惩罚不忠诚的水手。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "四个板仍亏损，操作太差",
+      "2.5板时T飞了",
+      "不忠诚的代价"
+    ],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 8,
+    "summary": "比亚迪股价出现对子顶88.88元，主力控盘。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "主力卡点位88.88",
+      "把散户当狗玩",
+      "再往上套牢盘多"
+    ],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 9,
+    "summary": "打板实盘日志，分享多氟多、华工科技等操作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "打板多氟多、华工科技",
+      "反省多氟多周期选择问题",
+      "机器人买点情绪化"
+    ],
+    "mentioned_stocks": ["多氟多", "华工科技", "丰元股份"]
+  },
+  {
+    "index": 10,
+    "summary": "分享七月一日龙虎榜，讨论席位和筛选策略。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "欢乐海岸席位真实性存疑",
+      "莱宝高科和TCL有同车",
+      "筛选多席位买入横盘标的"
+    ],
+    "mentioned_stocks": ["莱宝高科", "TCL", "风华高科", "紫光股份"]
+  },
+  {
+    "index": 11,
+    "summary": "持有中钨高新和立昂微，大幅亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中钨低开高走又跌停",
+      "立昂微是蛆，趋势跌没",
+      "止损立昂微，入市一个半月仅赚饭钱"
+    ],
+    "mentioned_stocks": ["中钨高新", "立昂微"]
+  },
+  {
+    "index": 12,
+    "summary": "持仓月亏11万，发文求助能否回本。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "月亏损-15%",
+      "上周腰斩割肉进科技，现在-65%",
+      "亏得不算多"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "外国市场跳水，担忧A股跟随。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "棒子跟纳指期货",
+      "多空激烈，主动降杠杆",
+      "反弹该跑，美股还没涨"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "调侃“高手不赢”，表达持续亏损的无奈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高手不赢下半年",
+      "高手永远不赢",
+      "主线任务是回本"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "深南电路炸板，科技股集体回落。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创业板被砸绿，科技上板股炸板",
+      "上面想给科技降温",
+      "等月底再炒"
+    ],
+    "mentioned_stocks": ["深南电路"]
+  },
+  {
+    "index": 16,
+    "summary": "立昂微连续跌停，投资者抱怨量化无主力。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "两天两板后跌停，非常垃圾",
+      "感觉全是量化，没主力拉",
+      "割肉吃两地板"
+    ],
+    "mentioned_stocks": ["立昂微"]
+  },
+  {
+    "index": 17,
+    "summary": "分享对盈亏同源的理解，认为持股不动是双刃剑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "盈亏同源，优势也是软肋",
+      "持股不动在牛市大赚也会大亏",
+      "忍受下跌才能享受上涨"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "天孚通信形态破位，看空短期走势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "M顶，跳空跌破支撑",
+      "短期向下，应规避",
+      "去找下一个支撑位"
+    ],
+    "mentioned_stocks": ["天孚通信"]
+  },
+  {
+    "index": 19,
+    "summary": "海狗反弹中做T卖飞，吐槽不忠诚。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "不到14就T，不忠诚",
+      "原来要涨点再T",
+      "阴跌久了，海狗面子没了"
+    ],
+    "mentioned_stocks": ["海狗"]
+  },
+  {
+    "index": 20,
+    "summary": "死拿中钨和亨通光电，等待中报翻身。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "死拿等中报，不操作",
+      "中报绝对爆炸",
+      "打算抄底"
+    ],
+    "mentioned_stocks": ["中钨高新", "亨通光电"]
+  },
+  {
+    "index": 21,
+    "summary": "下午科技股突然全线下跌，市场恐慌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大哥投河了",
+      "因韩国收盘，内有狗砸盘",
+      "机器人掩护科技出货"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "满仓晒亏，自嘲亏得还不够多。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "才亏这么点，不算兄弟",
+      "大家都是-20点起步",
+      "打败90%大时代用户"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "推荐渤海租赁和桐昆股份，看好中报逻辑。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "渤海租赁中报逻辑好",
+      "桐昆股份同板块逆势拉红",
+      "新凤鸣跌停未带崩"
+    ],
+    "mentioned_stocks": ["渤海租赁", "桐昆股份", "新凤鸣"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论财报季资金流向ST板块，风险提示强烈。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技暴跌，资金流入ST",
+      "ST板块涨停潮",
+      "喊人炒ST不要脸，退市风险大"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "海皇涨停，询问合适买入价位。",
+    "sentiment": "positive",
+    "key_opinions": [],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 26,
+    "summary": "嘲讽割肉和卖飞的投资者，强调坚定AI叙事。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "对AI叙事不够坚定别追",
+      "大韩双C硬带起来的行情",
+      "三星拉一把才解套"
+    ],
+    "mentioned_stocks": ["三星"]
+  },
+  {
+    "index": 27,
+    "summary": "用户一买入就崩盘，自嘲SB战法。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "刚买就崩",
+      "调整空间力度不够",
+      "SB战法启动"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "三花智控高管减持、形态恶化，普遍看空。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "涨不过三天",
+      "高管减持理由恶心",
+      "史诗级头肩顶，危险"
+    ],
+    "mentioned_stocks": ["三花智控"]
+  },
+  {
+    "index": 29,
+    "summary": "指责某队砸盘，反弹也不给，愤怒。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "汪汪队砸盘，不落井下石就好",
+      "反弹一天都不给",
+      "盘后可能有多家异常波动通告"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "每月回撤触发回本任务，调侃市场难。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "刚擒妖又降魔，磨难不断",
+      "每月刷新回本任务"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "小资金投资半年仅赚2000元，回撤大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "盈利被吃，仅剩2000",
+      "没亏已经不错",
+      "两周回撤44%利润"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "玻璃基板板块持续下跌，关注京东方。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "板块连续下跌，除京东方外缩量大跌",
+      "康宁未企稳"
+    ],
+    "mentioned_stocks": ["京东方A"]
+  },
+  {
+    "index": 33,
+    "summary": "海狗即将冲第四板，有人上两融超仓。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "超仓持有",
+      "担心周一还给狗队三板",
+      "不忠诚的惩罚"
+    ],
+    "mentioned_stocks": ["海狗"]
+  },
+  {
+    "index": 34,
+    "summary": "败绿反弹胜率弱，不如护垫和深南。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "败绿反弹能力不高",
+      "不如沪电和深南",
+      "机构验牌前可能蠕动"
+    ],
+    "mentioned_stocks": ["败绿", "沪电", "深南电路"]
+  },
+  {
+    "index": 35,
+    "summary": "三星、海力士大涨，但内资仍砸盘。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "内资险恶，借利好出货",
+      "修复幅度有限",
+      "半场开香槟"
+    ],
+    "mentioned_stocks": ["三星", "海力士"]
+  },
+  {
+    "index": 36,
+    "summary": "亏损后自我惩罚全仓180天逆回购，精准逃顶。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "兆易创新两个地板割肉",
+      "上头全仓逆回购半年",
+      "神之一手，精准锁定至2027年"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 37,
+    "summary": "东亚股市大涨，A股狗队却在砸盘。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "东亚双C正规市场",
+      "狗队借利好砸盘",
+      "银保证得拉"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "电池化学品板块杀跌后有企稳迹象，但慎入。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "板块放量大跌后缩量止跌",
+      "玩电池解套后不碰",
+      "里面有脏资金"
+    ],
+    "mentioned_stocks": ["天华超净", "天赐材料", "石大胜华", "立昂微", "TCL科技"]
+  },
+  {
+    "index": 39,
+    "summary": "预测两点半韩国休市后A股跳水。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩老哥休市资金预判出逃",
+      "已经在跳了",
+      "A股资金无比急躁"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "科技股神奇两点半跳水，指责狗队砸盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "汪汪队不当人",
+      "加大力度砸",
+      "给机会做人偏做畜牲"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "迷茫中探讨本月可能的三个方向，黄金ETF等。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "创新药ETF杀溢价",
+      "黄金后面还要砸",
+      "都不看好黄金，可能一直涨"
+    ],
+    "mentioned_stocks": ["517120", "黄金ETF"]
+  },
+  {
+    "index": 42,
+    "summary": "段子吐槽科技股不等于科技生产力。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股不等于科学技术",
+      "二级市场赚钱不等于发展技术"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "立昂微连跌停，问是否还有救。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "破30日线，没活人",
+      "庄太恶心，跑路换其他",
+      "两天跌停，直接人麻了"
+    ],
+    "mentioned_stocks": ["立昂微"]
+  },
+  {
+    "index": 44,
+    "summary": "周末高纯二氧化碳概念热议，看好金宏气体。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "金宏气体可能买不到",
+      "688出妖股",
+      "二氧化碳目前很缺"
+    ],
+    "mentioned_stocks": ["金宏气体", "中船"]
+  },
+  {
+    "index": 45,
+    "summary": "哀叹牛被偷走，心情崩溃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "谁把牛偷走了"
+    ],
+    "mentioned_stocks": []
+  }
+]
+```
