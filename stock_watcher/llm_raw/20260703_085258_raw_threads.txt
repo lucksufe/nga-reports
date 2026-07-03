@@ -1,0 +1,536 @@
+[
+  {
+    "index": 1,
+    "summary": "存储上涨逻辑遭质疑：推理需求价值存疑，资本开支增速或不达预期。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "推理需求并非坚实支撑，企业AI费用高但价值低",
+      "资本开支增速可能不达预期引发下跌",
+      "盘面已脱离逻辑，情绪驱动"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "悲观预判科技股大幅低开，中际旭创或跌至三位数，有-5%机会就清仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大A科技不跌停开就算高开",
+      "中际旭创恐跌至三位数",
+      "给-5%跌幅就清仓"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 3,
+    "summary": "韩国股市剧烈波动，高开低走又急跌，海力士难止跌，三星勉强挣扎。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国股市直线跳水后V反又M头",
+      "海力士持续下跌，三星相对抗跌",
+      "一奶就绿，恐慌情绪浓"
+    ],
+    "mentioned_stocks": ["海力士", "三星"]
+  },
+  {
+    "index": 4,
+    "summary": "扎克伯格言论补刀科技股，模型开发不佳，AI投资热潮或降温。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "扎克伯格称模型开发不如预期，可能缩减投资",
+      "科技缩圈，Claude一枝独秀",
+      "AI故事遭遇冲击，情绪悲观"
+    ],
+    "mentioned_stocks": ["Meta"]
+  },
+  {
+    "index": 5,
+    "summary": "已挂跌停单离场，担忧东山精密A杀，留电瓶车钱即可。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "准备跌停价卖出，放弃幻想",
+      "东山精密恐难反弹，A杀风险大",
+      "留点钱买电瓶车，别全亏完"
+    ],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 6,
+    "summary": "韩国股市红开18分钟后变脸暴跌，类比A股，跑路时机讨论。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "红开是逃跑机会，否则跌停难出",
+      "高开就跑，跌停开就躺平",
+      "今天不跌停没必要跑，跌停也难跑"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "预测光模块、存储、半导体的跌幅，美光已跌25%，恐续跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "乐观跌25%，悲观踩踏腰斩",
+      "美光已跌近25%，光纤跌近30%",
+      "科技股或重演530惨案"
+    ],
+    "mentioned_stocks": ["美光"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论AI泡沫是否破裂，部分人认为情绪化下跌后企稳，不A杀。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "宏观风险解除，某队降温，中报预披露支撑不A杀",
+      "AI泡沫故事结束，堪比土木大基建暂停",
+      "空头媒体小作文引发情绪踩踏"
+    ],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 9,
+    "summary": "悲壮看多沪电股份，但龙虎榜机构出逃，誓言坚持。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "誓死效忠沪电股份，战至最后一刻",
+      "沪电龙虎榜机构大量卖出，信心动摇",
+      "未成年人先撤退"
+    ],
+    "mentioned_stocks": ["沪电股份"]
+  },
+  {
+    "index": 10,
+    "summary": "担忧大跌引发自杀潮，多数嘲讽，认为多数人只是亏利润。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国家不管大跌可能引发社会问题",
+      "多数人只是利润回撤，不至于自杀",
+      "有人借机恶意引战"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "新手反思交易，卖飞雅克科技、彤程新材，追高东山精密亏损。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "卖飞牛股，追涨被套东山精密",
+      "识别主线核心后应重仓持有",
+      "小资金风偏高，频繁切换易亏"
+    ],
+    "mentioned_stocks": ["雅克科技", "彤程新材", "东山精密"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论光模块与存储投资逻辑对立，但近期泥沙俱下同步杀跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "光轻资产、存储重资产，逻辑相反",
+      "现在光存一起杀，全是情绪",
+      "存储长期逻辑有硬伤"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "探讨科技崩盘后资金是否流向新股华润新能源，筹码干净。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技拥挤，资金可能切向次新",
+      "新股筹码干净，阻力小",
+      "盘子偏大，不宜高看"
+    ],
+    "mentioned_stocks": ["华润新能源"]
+  },
+  {
+    "index": 14,
+    "summary": "认为海力士下跌是华尔街做空压制股价，为后续上市获利。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "海力士基本面无忧，下跌属外资恶意做空",
+      "华尔街压价便于后续修复获取利润",
+      "算力未过剩，只杀存储不合理"
+    ],
+    "mentioned_stocks": ["海力士", "兆易创新"]
+  },
+  {
+    "index": 15,
+    "summary": "吐槽特斯拉相关链条走势低迷，等待物理AI技术成熟。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "特斯拉链表现疲软，疑似等待技术成熟"
+    ],
+    "mentioned_stocks": ["特斯拉供应链"]
+  },
+  {
+    "index": 16,
+    "summary": "对比白酒新能源大顶时的舆论，认为科技内部分歧未到顶。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "到顶时散户意见一致，现在科技内部还有分歧",
+      "历史重复，唱空者一直存在"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "科技暴跌后寻找抄底标的，除中际旭创外其他难下手。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中际旭创是核心，但上涨空间不大",
+      "PCB龙头3000亿，电梯底位胜率高",
+      "材料股未来可能让利"
+    ],
+    "mentioned_stocks": ["中际旭创", "沪电股份"]
+  },
+  {
+    "index": 18,
+    "summary": "基金重仓光存芯，加仓即跌，连续加仓摊成本。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "基金单日跌8%，加仓后继续跌",
+      "光、存、芯全线亏损",
+      "需连续加仓半月降低成本"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "网红教授何联毅看空后入场即崩盘，类比牛顿炒股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "顽固空头一入场就大跌",
+      "网红蹭流量，实战亏惨",
+      "物理教授也难逃亏损"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "归咎扎克伯格言论引发大跌，无有力反驳，可能真削减开支。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "扎克伯格放屁无大佬反驳，市场承压",
+      "下游不愿烧钱，小作文频出",
+      "逼人去买Meta做空"
+    ],
+    "mentioned_stocks": ["Meta"]
+  },
+  {
+    "index": 21,
+    "summary": "个人记录，持有石英股份、中兴通讯、天赐材料，计划抄底石英。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "石英股份到65元可加仓",
+      "中兴锁仓等明年利好",
+      "回本路上，外围影响大"
+    ],
+    "mentioned_stocks": ["石英股份", "中兴通讯", "天赐材料"]
+  },
+  {
+    "index": 22,
+    "summary": "感叹A股看韩国脸色，希望走出独立行情，但本质是跟风。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技牛吃纳指溢出，无独立行情",
+      "硬件出口受海外需求影响大",
+      "持仓者只求不跟跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "日韩股市波动剧烈，纳指期货随之拉锯。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "日韩双C波动大，纳指期货锯齿形"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "韩国高开被视作做多信号，但随后跳水，打脸乐观预期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "棒子止跌，加仓科技吃肉",
+      "高开跳水，学了大A技术",
+      "别暴跌5%就算稳住"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "在清仓与加仓传统板块间纠结，利润快亏完。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利润快被干穿，纠结跑路或换仓老登",
+      "逆回购是第三条路",
+      "当心泥沙俱下一面两吃"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "韩国红开被认为是拉高出货，A杀已来，预备装钱麻袋。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "拉高出货，A杀开始",
+      "红开是体面跑路机会",
+      "不红开怎么出货"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "海力士实时走势由红翻绿，三星相对抗跌，V型震荡。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "海力士有延迟，实际已绿3%",
+      "三星红盘，海力士水下",
+      "指数开V，多空激战"
+    ],
+    "mentioned_stocks": ["海力士", "三星"]
+  },
+  {
+    "index": 28,
+    "summary": "韩国股市跳水形容为老奶奶坐电梯，急跌吓人。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "飞流直下三千尺",
+      "老奶奶扶楼梯变坐电梯"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "担忧科技股融资盘多，可能触发被动减仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技融资盘多，警惕被动减仓",
+      "昨天抄底被埋"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "询问查看三星海力士实时股价渠道，推荐富途牛牛。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "主流软件有延迟，富途牛牛可看"
+    ],
+    "mentioned_stocks": ["三星", "海力士"]
+  },
+  {
+    "index": 31,
+    "summary": "召唤科技细分板块灵魂归来，股民心态崩溃自我娱乐。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "做法召唤CPO、PCB、半导体等反弹",
+      "炒A股把人逼疯"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "询问科技大跌时哪些传统板块会涨，列举消费、养殖、医药等。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "猪肉、白酒、医药等老登股可能涨",
+      "泥沙俱下概率大，不建议换仓",
+      "科技习惯快节奏，耐不住老登股"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "反思自己炒股跑不赢沪深300，考虑全仓指数。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "折腾反而收益更低回撤更大",
+      "国家队干预下沪深300稳健",
+      "长期无脑定投指数更优"
+    ],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 34,
+    "summary": "萌新猜测资金会在科技杀完后流入长鑫概念，之后抱团。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "资金可能短暂去中字头等长鑫上市",
+      "科技长期走强，但短期承压"
+    ],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 35,
+    "summary": "祈祷韩国股市走高，海力士和三星能撑住。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "棒子红开给跑路机会",
+      "海力士撑多久难料",
+      "三星靠苹果大涨撑住"
+    ],
+    "mentioned_stocks": ["海力士", "三星"]
+  },
+  {
+    "index": 36,
+    "summary": "满仓科技亏损30%利润，用风浪越大鱼越贵自我安慰。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "一天亏30%利润，信心比黄金贵",
+      "AI不会结束，回调后创新高",
+      "散户是鱼，风浪大易翻船"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "张坤旗下易方达蓝筹被怀疑正在调仓买入科技股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "基金净值波动与科技股同步，猜在抄底",
+      "基金漂移若成功吃香喝辣，失败被骂"
+    ],
+    "mentioned_stocks": ["易方达蓝筹精选"]
+  },
+  {
+    "index": 38,
+    "summary": "Meta发布新AI社交应用Pocket，但股民愤怒抵制。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "Meta新产品仍需要算力支撑",
+      "股民要给0分差评，不再使用Meta"
+    ],
+    "mentioned_stocks": ["Meta"]
+  },
+  {
+    "index": 39,
+    "summary": "为韩国股市加油，血条蹦迪式震荡，多空激战。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大韩双C顶住，避免熔断就算赢",
+      "多空博弈激烈，心电图走势",
+      "韩股跌A股必陪跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "认为牛市暴跌是洗盘，闪迪多次暴跌后都修复，出货非此形态。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "牛市暴跌洗盘，不是出货",
+      "闪迪年内多次暴跌都拉回",
+      "有色航天暴跌后有双顶机会"
+    ],
+    "mentioned_stocks": ["闪迪"]
+  },
+  {
+    "index": 41,
+    "summary": "三安光电周末被吹票，周一高开套人。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "周末猛吹，周一高开套人",
+      "板块涨时它弱，跌时跟跌"
+    ],
+    "mentioned_stocks": ["三安光电"]
+  },
+  {
+    "index": 42,
+    "summary": "期望A股红开，但大概率科技绿，韩国走势已预示。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "包不可能红开给跑路机会",
+      "上证可能红开，双创自求多福",
+      "韩股若撑到A股开盘才是真强"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "半导体K线类似一月黄金股，冲高长上影，预感风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "半导体线冲高长上影，类似黄金一月见顶",
+      "20年初半导体也类似"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "美股休市可能打断存储螺旋下跌，尾盘或可抄底。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股休市，存储或暂离螺旋下跌",
+      "恐慌传导下A股量化放大波动",
+      "没技术不要接飞刀"
+    ],
+    "mentioned_stocks": ["存储概念"]
+  },
+  {
+    "index": 45,
+    "summary": "韩国高开被视作诱多，A股跟跌不跟涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "红开是诱多，A杀套路",
+      "缅A白天看大韩，晚上看小纳",
+      "有个绿的A股就死"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "调查股民投入流动资金的比重，多人重仓。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "有人投300万玩，私募3000万",
+      "多数人投了流动资金的75%或更多"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "分享股息率列表，渤海轮渡股息率破10%，红利打底仓等科技。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "渤海轮渡股息率达到10%，但持续性存疑",
+      "红利股打底仓防手痒",
+      "科技没有结束，内部将分化"
+    ],
+    "mentioned_stocks": ["渤海轮渡", "宇通客车", "红利低波ETF"]
+  },
+  {
+    "index": 48,
+    "summary": "多数人看空抄底科创50，认为科技走熊，反弹即跑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技走熊，任何反弹都是跑路机会",
+      "基金赎回潮、大股东减持压力大",
+      "别当勇士抄底，下周再看"
+    ],
+    "mentioned_stocks": ["科创50ETF"]
+  },
+  {
+    "index": 49,
+    "summary": "石英股份持续下跌，补仓越补越亏，股民哀嚎。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "从一成仓补到半仓仍跌",
+      "卖飞其他票，死扛石英",
+      "奔着跌停去，已亏15%"
+    ],
+    "mentioned_stocks": ["石英股份"]
+  },
+  {
+    "index": 50,
+    "summary": "质疑韩国高开勇气，盘中跳水，恐慌踩踏。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "红开被迅速杀跌",
+      "韩国人均上杠杆，踩踏风险大",
+      "美国拿不到东西会更强硬制裁"
+    ],
+    "mentioned_stocks": []
+  }
+]
