@@ -1,0 +1,513 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论涨停板新规下，主力是否能在收盘后将筹码卖给打板客。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "新规下盘后定价交易是为ETF和机构调仓服务",
+      "所有单子需重新挂单，不存在砸盘给封单",
+      "创业板规则已扩展至主板"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "光纤和CPO板块持续下跌，投资者困惑和担忧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "业绩不行，撑不住估值",
+      "有业绩出来反而被砸，似乎有任务不让涨",
+      "可能是小作文骗筹码"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "发帖人逼父亲买入科技股，父亲是老股民但行为保守。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "老股民只看价格不看百分比",
+      "风险接受度低的应买债基或逆回购",
+      "老一辈思维固化，不敢尝试新板块"
+    ],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 4,
+    "summary": "期待美股修复带动A股，若A股仍不跟涨则考虑离场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美股能否修复不确定",
+      "A股若不跟涨将离场",
+      "美股夜盘表现不代表最终结果"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "商业航天板块无利空下跌，情绪化炒作。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "商业航天是纯情绪板块，缺乏利好",
+      "预期悲观，资金赚到就跑",
+      "长十乙回收可能因台风推迟，成为利空"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "韩国总统推动半导体、AI项目，投资者调侃只有李在明关心账户。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "李在明推动科技项目速度战",
+      "投资者羡慕韩国股市表现",
+      "A股不受外部利好影响"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "A股需集齐多个条件才能上涨，参考恒生科技走势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "A股上涨需要多重因素共振",
+      "恒生科技底部抬升，看好后续"
+    ],
+    "mentioned_stocks": ["恒生科技"]
+  },
+  {
+    "index": 8,
+    "summary": "机器人ETF换手率100%，怀疑筹码全被散户接盘。",
+    "sentiment": "negative",
+    "key_opinions": [],
+    "mentioned_stocks": ["机器人ETF广发"]
+  },
+  {
+    "index": 9,
+    "summary": "天赐材料股价磨人，投资者抱怨不涨不跌，后真跌停。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价磨人不如痛快跌停",
+      "跌停至少给出明确信号",
+      "调侃主力在监视论坛"
+    ],
+    "mentioned_stocks": ["天赐材料", "石大胜华"]
+  },
+  {
+    "index": 10,
+    "summary": "电池上游材料板块真爱楼，讨论锂矿、材料等困境反转。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "今年是困境反转，储能需求爆发",
+      "锂矿板块业绩向好但股价下跌",
+      "买入锂矿如同立碑纪念"
+    ],
+    "mentioned_stocks": ["天华新能", "石大胜华", "孚日股份", "江西铜业（暗指锂矿）"]
+  },
+  {
+    "index": 11,
+    "summary": "投资者三分之一配置芯片半导体、创新药、机器人ETF。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "三个板块互相做对冲",
+      "有色主力难以捉摸",
+      "机器人短期逻辑消失"
+    ],
+    "mentioned_stocks": ["芯片ETF", "创新药ETF", "机器人ETF", "有色ETF", "煤炭ETF"]
+  },
+  {
+    "index": 12,
+    "summary": "散户总结心态问题：长期涨跌均麻木，追涨杀跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "跌多不敢补，涨久不舍得卖",
+      "底部恐惧，顶部贪婪",
+      "庄家操纵情绪"
+    ],
+    "mentioned_stocks": ["中概互联网ETF", "港股创新药"]
+  },
+  {
+    "index": 13,
+    "summary": "稀土板块无利空却大跌，投资者困惑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "现在下跌与利空无关，纯粹砸盘"
+    ],
+    "mentioned_stocks": ["稀土板块"]
+  },
+  {
+    "index": 14,
+    "summary": "满仓光通信连跌四天，纠结是否割肉。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利润已跌完，考虑离场",
+      "可能继续砸盘逼迫割肉",
+      "有人逆势加仓"
+    ],
+    "mentioned_stocks": ["光通信"]
+  },
+  {
+    "index": 15,
+    "summary": "解释业绩预告规则，市场提前消化业绩预期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "7月15日前需发业绩预告",
+      "机构有内幕消息，提前反应",
+      "若无超预期，财报无意义"
+    ],
+    "mentioned_stocks": ["药明康德", "亿纬锂能", "PCB"]
+  },
+  {
+    "index": 16,
+    "summary": "外资开始卖出A/H科技股，溢价缩小，担忧行情结束。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "外资出货澜起、兆易等科技股",
+      "港股长飞被外资杀跌",
+      "可能是到顶信号"
+    ],
+    "mentioned_stocks": ["澜起科技", "兆易创新", "胜宏科技", "长飞光纤H", "中芯国际", "华虹半导体", "宁德时代"]
+  },
+  {
+    "index": 17,
+    "summary": "根据论坛情绪抄底，认为情绪已到位。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "骂街情绪出现时是抄底时机",
+      "别人恐惧我贪婪"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "科技若成下跌趋势，后续炒作方向迷茫，担忧牛市结束。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技下跌则牛市可能结束",
+      "可能回归炒小炒差模式",
+      "A股熊市是主基调"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "中钨高新破位下跌，投资者浮盈大幅回撤。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "主力出货，筹码松动",
+      "跌破止损线，心态崩溃",
+      "钨价低迷，科技调整拖累"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 20,
+    "summary": "中际旭创在支撑位磨蹭，投资者期望跌破或反弹。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "跌破60日线，看空至1000元",
+      "等待大佬割肉后抄底",
+      "情绪走坏，短期不乐观"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 21,
+    "summary": "道指ETF溢价快速上升，投资者抱怨建仓太少。",
+    "sentiment": "mixed",
+    "key_opinions": [],
+    "mentioned_stocks": ["道指ETF"]
+  },
+  {
+    "index": 22,
+    "summary": "调侃A股常跟随韩股走V后自己跳水。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股习惯独立跳水",
+      "等待美股开盘影响"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "胜宏科技持续下跌，投资者深套，抱怨赚钱效应差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "胜宏科技跌多涨少",
+      "文佬已卖出，建议离场",
+      "不如买生意护垫（其他科技股）"
+    ],
+    "mentioned_stocks": ["胜宏科技", "中际旭创", "生意科技"]
+  },
+  {
+    "index": 24,
+    "summary": "期待创新药ETF两点半反转，但最终无奇迹。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创新药ETF下跌，收盘无反弹"
+    ],
+    "mentioned_stocks": ["创新药ETF"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论麒麟芯片技术突破，看好盛合晶微但估值贵。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "盛合是国内先进封装唯一标的",
+      "麒麟芯片功耗降低显著",
+      "估值过高是主要顾虑"
+    ],
+    "mentioned_stocks": ["盛合晶微", "中芯国际H"]
+  },
+  {
+    "index": 26,
+    "summary": "渤海租赁有望因中报起飞，桐昆股份抗跌。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "逻辑在于中报业绩",
+      "同板块新凤鸣跌停未拖累桐昆"
+    ],
+    "mentioned_stocks": ["渤海租赁", "桐昆股份", "新凤鸣"]
+  },
+  {
+    "index": 27,
+    "summary": "纳指和韩指V反，A股却跳水，投资者困惑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股独立行情，持续砸盘",
+      "需等待美股开盘"
+    ],
+    "mentioned_stocks": ["恒生科技"]
+  },
+  {
+    "index": 28,
+    "summary": "推荐赛轮轮胎作为老登价值投资，长持看20。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "管理优秀，股息率3%",
+      "轮胎出海和电车需求",
+      "橡胶涨价已price in"
+    ],
+    "mentioned_stocks": ["赛轮轮胎"]
+  },
+  {
+    "index": 29,
+    "summary": "低位股也未赚钱，投资者郁闷。",
+    "sentiment": "negative",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "科技股利润即将耗尽，不知所措。",
+    "sentiment": "negative",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "观察到紫光股份上涨，因交换机概念，润泽科技表现差。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "紫光股份上涨因交换机概念",
+      "润泽科技与交换机无关，表现差"
+    ],
+    "mentioned_stocks": ["紫光股份", "润泽科技", "锐捷网络"]
+  },
+  {
+    "index": 32,
+    "summary": "中远海控投资者上周五卖出后认错接回，看好填权。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "科技股调整，海控成为避风港",
+      "填权速度快，14元以下只买不卖",
+      "分红税不计较"
+    ],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 33,
+    "summary": "煤炭板块再次拉升，科技股调整，国家队轮动痕迹明显。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技调整，资金流入煤炭",
+      "国家队刻意压制科技",
+      "煤炭有利好新闻"
+    ],
+    "mentioned_stocks": ["煤炭板块", "科创", "陕西煤业"]
+  },
+  {
+    "index": 34,
+    "summary": "投资者记录交易，坚持买在分歧卖在一致。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "记录BS点自我督促",
+      "卖出不符合预期的标的"
+    ],
+    "mentioned_stocks": ["天娱数科"]
+  },
+  {
+    "index": 35,
+    "summary": "列举散户常犯的27个错误，引发反思。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "最大错误是不知自己是否正确",
+      "炒股是博弈，需承担风险",
+      "散户炒股本身即错误"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "紫光股份涨停，联想到科技三丧玄学，讨论科技板块轮动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "紫光、长城等涨停，科技可能切换至服务器",
+      "紫光涨停不代表整体科技回暖"
+    ],
+    "mentioned_stocks": ["紫光股份", "长城电脑", "中兴通讯", "京东方", "浪潮信息", "中科曙光"]
+  },
+  {
+    "index": 37,
+    "summary": "银行保险券商上涨，讨论是护盘还是反转。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "今日可能是护盘行为",
+      "护盘意味着明天可能继续杀科技"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "持有中钨高新和立昂微双重亏损，调侃无法输。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中钨高新被短线资金砸盘",
+      "立昂微趋势走坏",
+      "止损离场"
+    ],
+    "mentioned_stocks": ["中钨高新", "立昂微"]
+  },
+  {
+    "index": 39,
+    "summary": "长线建仓策略咨询，担忧买在半山腰或踏空。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "回调是机会但怕抄底太早",
+      "长持需承受大幅回撤",
+      "定投或等情绪冰点买入"
+    ],
+    "mentioned_stocks": ["美光科技", "闪迪"]
+  },
+  {
+    "index": 40,
+    "summary": "麦捷科技深套，屡次止损后仍亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "趋势已坏，难反弹",
+      "格局不如止损",
+      "个股操作难度大，考虑退出"
+    ],
+    "mentioned_stocks": ["麦捷科技", "风华高科", "江海股份", "三环集团"]
+  },
+  {
+    "index": 41,
+    "summary": "投资者下午买入即被套，此前看空却动手。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "观点转变快，上午看空下午买入",
+      "买入科创和EDA个股"
+    ],
+    "mentioned_stocks": ["科创ETF", "EDA个股"]
+  },
+  {
+    "index": 42,
+    "summary": "赛腾股份买入后被套，怀疑中招。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "担心公司有坏消息",
+      "建议开锁妖塔",
+      "等中报后再研究"
+    ],
+    "mentioned_stocks": ["赛腾股份"]
+  },
+  {
+    "index": 43,
+    "summary": "中际旭创被压制，走势低迷，怀疑国家队调控。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国家队用沪深300筹码压制",
+      "公募标配导致半死不活",
+      "牛市可能已死"
+    ],
+    "mentioned_stocks": ["中际旭创", "宁德时代"]
+  },
+  {
+    "index": 44,
+    "summary": "坚信科技主线未结束，但需注意资金流向红利。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "科技仍是资金出路之一",
+      "美股七子利润支撑AI",
+      "已到高位不应再用基本面分析"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "内部研报给予卫星化学买入评级，但化工股低迷。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "估值较低，但缺乏科技概念",
+      "底部时间可能漫长",
+      "原油涨价或带来机会"
+    ],
+    "mentioned_stocks": ["卫星化学", "宝丰能源"]
+  },
+  {
+    "index": 46,
+    "summary": "通信和半导体ETF拆股，讨论对散户影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "拆股可降低价格吸引散户",
+      "实际为了让净值更精细跟踪指数"
+    ],
+    "mentioned_stocks": ["通信ETF", "半导体ETF", "恒生科技ETF"]
+  },
+  {
+    "index": 47,
+    "summary": "高位买入后反弹仍未回本，后悔建仓太早。",
+    "sentiment": "negative",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "中公教育因股吧评论涉黄成为人气第一。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "对赌招嫖客引来关注",
+      "被调侃为艾草概念股"
+    ],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 49,
+    "summary": "电风扇行情下，想炒作吉祥话和生肖概念股。",
+    "sentiment": "mixed",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "讨论光伏与盛虹股份区别，调侃光伏龙头。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "盛虹股份被误认为光伏龙头",
+      "真正的盛虹与光伏无关"
+    ],
+    "mentioned_stocks": ["盛虹股份", "胜宏科技"]
+  }
+]
+```
