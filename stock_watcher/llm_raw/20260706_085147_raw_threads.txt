@@ -1,0 +1,542 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "中公教育因评论区对赌招嫖客等非公开事件热度飙升，引发各种调侃概念",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "有人对赌招嫖客导致热度扩散",
+      "出现艾草概念股、PCB概念等戏称",
+      "可能只是短期炒作无实质利好"
+    ],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 2,
+    "summary": "探讨市场情绪一致预期高开跳水，讨论高开后的操作策略和风险",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "一致预期高开跳水可能反而不跳水",
+      "高开跑机动性更强，做T或抄底",
+      "若高开跳水再拉回，下午可能再杀跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "调侃A股高开低走的砸盘技术被日韩市场学去，讨论外围市场模仿行为",
+    "sentiment": "negative",
+    "key_opinions": [
+      "拉高就砸盘成为A股核心技术",
+      "日本已跪，韩国仍在抵抗",
+      "外围机构学会后在外围市场通杀"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "关于PCB正交背板工艺出问题的小作文，引发对胜宏科技等公司卡脖子的讨论",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "胜宏科技被传工艺问题导致供应卡脖子",
+      "消息可能是鬼故事或诱空筹码",
+      "若真卡脖子，相关股价可能翻十倍"
+    ],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 5,
+    "summary": "分析科技板块为何不再拉升，归因于资金后继乏力、高位置兑现和监管降温",
+    "sentiment": "negative",
+    "key_opinions": [
+      "再拉高需要天量资金，资金后继乏力",
+      "高位出货为主，进一退二",
+      "上面不想过快过热，主动拉下来走可持续"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论去杠杆对市场的影响，认为杀杠杆会导致瀑布下跌，但国家队可能救市",
+    "sentiment": "negative",
+    "key_opinions": [
+      "去杠杆会导致市场踩踏瀑布",
+      "散户被吓跑后企业融资困难",
+      "神秘力量拉阳线后散户会跟回来"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "中际旭创经常辟谣，有人认为是人红是非多，有人质疑董秘回复被审核",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "关注度高导致谣言多必须辟谣",
+      "董秘回复可能需中信领导审稿",
+      "辟谣是负责任，东山反而造谣胜宏"
+    ],
+    "mentioned_stocks": ["中际旭创", "东山精密", "胜宏科技"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论沪硅产业和澜起科技（金枪鱼）的高开操作，建议逢高卖出做T",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "沪硅非主升期，建议做T降低成本",
+      "金枪鱼走势独立，高开可出货后低吸",
+      "高开牢记祖训，先走为敬"
+    ],
+    "mentioned_stocks": ["沪硅产业", "澜起科技"]
+  },
+  {
+    "index": 9,
+    "summary": "列举散户常见错误，如赌博心态、情绪化交易等，引发自我反思",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "最大错误是不知自己是否正确",
+      "正确时不够坚定，错误时过于坚定",
+      "散户最大错误就是炒股"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "多家人们预判高开先卖出，对韩国市场没信心，担心冲高回落",
+    "sentiment": "negative",
+    "key_opinions": [
+      "对韩国市场连红没信心",
+      "高开就跑，下来再接",
+      "内资不当人，连续上涨会认错买回"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "认为AI对普通人仅是超级图书馆，消费端难实现，但工业应用影响大",
+    "sentiment": "negative",
+    "key_opinions": [
+      "AI消费端痛点是没有大脑",
+      "工人行业已被AI冲击裁员",
+      "AI游戏等新形态可能改变局面"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "猜测国家队减持是为投资长鑫长存预留资金，但多数认为逻辑不通",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "汪汪队可直接一级市场入股",
+      "减持为控指数、降温度",
+      "救市资金有成本，高位减持获利"
+    ],
+    "mentioned_stocks": ["长鑫存储", "长存", "沪深300"]
+  },
+  {
+    "index": 13,
+    "summary": "咨询长线票建仓方法，担心追高和踏空，讨论分批低吸策略",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "回调是机会但怕半山腰",
+      "定目标价，下跌加仓，到目标半仓",
+      "长线做科技票波动大，需承受力"
+    ],
+    "mentioned_stocks": ["美光科技", "闪迪", "海力士"]
+  },
+  {
+    "index": 14,
+    "summary": "电子布价格连涨和织机紧缺新闻被质疑是收钱稿，接盘侠不够用",
+    "sentiment": "negative",
+    "key_opinions": [
+      "新闻翻来覆去发了月余，可能收钱",
+      "接盘侠还不够继续发",
+      "泰坦纺织已澄清无高端织机产能"
+    ],
+    "mentioned_stocks": ["泰坦股份", "巨石"]
+  },
+  {
+    "index": 15,
+    "summary": "华为首颗“韬芯片”引发概念炒作，热议炒作的半导体素材股",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利好先进封装和半导体材料",
+      "韬芯片提高功率密度降功耗",
+      "又要麻袋装人（套人）"
+    ],
+    "mentioned_stocks": ["汇金股份", "雄韬股份", "江波龙"]
+  },
+  {
+    "index": 16,
+    "summary": "观望大哥（中际旭创）表现决定减仓，担忧上周五砸盘剧情重演",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大哥若弱反弹就大幅减仓",
+      "害怕神秘资金砸宽基带崩",
+      "日韩高开但依然担忧"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 17,
+    "summary": "推荐人形机器人丝杠龙头恒立液压，但多数回复认为后排机器人股风险大",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "恒立液压份额70%，可能加速",
+      "机器人除绿地外后排风险大",
+      "拓普曾套人25%"
+    ],
+    "mentioned_stocks": ["恒立液压", "绿的谐波", "奥比中光", "三花智控", "拓普集团"]
+  },
+  {
+    "index": 18,
+    "summary": "科技股调整引发不适，对光纤等前期板块前景迷茫，形容如考数学风格突变",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利润回撤严重，科技破位",
+      "光纤或转为周期股见顶",
+      "获利盘与国产替代交织复杂"
+    ],
+    "mentioned_stocks": ["中天科技", "光纤三傻"]
+  },
+  {
+    "index": 19,
+    "summary": "抱怨周末利好密集如涨停，但担心高开低走，呼吁盘中发利好",
+    "sentiment": "negative",
+    "key_opinions": [
+      "周末利好不断，消息面涨停",
+      "高开记得跑，不跑可能被埋",
+      "盘中发利好脉冲下跌更狠"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论中际旭创能否带领科技反扑，但共识为趋势走坏，需要观察",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大哥趋势坏，站回20日线再买",
+      "出现质疑组装的小作文",
+      "上周五被沪深300压下去"
+    ],
+    "mentioned_stocks": ["中际旭创", "康宁"]
+  },
+  {
+    "index": 21,
+    "summary": "半导体板块分析，认为半导体细分荣辱与共，长鑫上市前持续震荡",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "半导体上下游一损俱损",
+      "外盘影响不如内部因素",
+      "调整或持续到长鑫上市前"
+    ],
+    "mentioned_stocks": ["长鑫存储", "海力士", "美光科技"]
+  },
+  {
+    "index": 22,
+    "summary": "电力板块看好，预计震荡反弹，部分观点看好绿电和核电，个股分化",
+    "sentiment": "positive",
+    "key_opinions": [
+      "7月震荡反弹，8-9月收回跌幅",
+      "大唐涨幅透支，更看好华能国际",
+      "电力震荡两周后或启动"
+    ],
+    "mentioned_stocks": ["大唐发电", "华能国际", "华电国际", "皖能电力", "华润电力"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论江波龙受热捧，但多数认为为炒作，散户不宜追高",
+    "sentiment": "negative",
+    "key_opinions": [
+      "现金流负因囤货，业绩爆发已被预期",
+      "质疑无核心科技，不追高",
+      "大资金首日博弈散户回避"
+    ],
+    "mentioned_stocks": ["江波龙"]
+  },
+  {
+    "index": 24,
+    "summary": "安洁科技被吹票，涉及特斯拉机器人、苹果折叠屏、半导体等多概念",
+    "sentiment": "positive",
+    "key_opinions": [
+      "底部爆量吸筹，中报有业绩预告",
+      "概念丰富：机器人、折叠屏、存储",
+      "中线看翻箱，先看到30"
+    ],
+    "mentioned_stocks": ["安洁科技", "安集科技"]
+  },
+  {
+    "index": 25,
+    "summary": "Sai佬复盘本周科技股大跌，持仓多只科技股回撤，但仍较淡定",
+    "sentiment": "negative",
+    "key_opinions": [
+      "本周大跌较多，周二曾大涨",
+      "持仓多只科技普跌5-12%",
+      "已开始考虑兑现利润"
+    ],
+    "mentioned_stocks": ["赛腾股份", "沪电股份", "兆易创新", "寒武纪"]
+  },
+  {
+    "index": 26,
+    "summary": "消费级内存价格暴涨，用户追高购买后悔，担心泡沫破裂",
+    "sentiment": "negative",
+    "key_opinions": [
+      "内存价格翻倍以上，装机成本剧增",
+      "追高买入恐套山顶",
+      "价格过高反而抑制消费"
+    ],
+    "mentioned_stocks": ["金百达"]
+  },
+  {
+    "index": 27,
+    "summary": "询问关税消息是否已被定价，多数认为无人在意，跌就倒车接人",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "关税消息已无人在意",
+      "下跌是倒车接人",
+      "可能提前跑"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "讨论婚前股票收益是否算婚后财产，建议用父母账户避免分割",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "婚内操作收益属共同财产",
+      "不动用或不存钱则不受影响",
+      "建议用父母账户操作"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "美银回应存储五大担忧仍看多，但市场不买账，认为研报无用",
+    "sentiment": "negative",
+    "key_opinions": [
+      "研报为免费内容无含金量",
+      "牛市利空低开接人，熊市利多高开套人",
+      "美银曾错误预测加息被质疑"
+    ],
+    "mentioned_stocks": ["美光科技"]
+  },
+  {
+    "index": 30,
+    "summary": "华为韬定律V2技术细节，讨论封装公司盛合晶微估值贵但逻辑硬",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "盛合为国产2.5D封装唯一，华为依赖",
+      "估值虽贵但不可替代",
+      "同时讨论中芯国际作为备选"
+    ],
+    "mentioned_stocks": ["盛合晶微", "中芯国际"]
+  },
+  {
+    "index": 31,
+    "summary": "男大学生实盘帖，目标年底前翻两倍，分享学习心态和选股思考",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "目标年底翻两倍过于乐观",
+      "工商管理专业水，炒股需自觉",
+      "计划形成自己的交易风格"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "电池上游材料真爱楼，呼吁锂矿等困境反转，但股价持续下跌",
+    "sentiment": "negative",
+    "key_opinions": [
+      "锂矿股价45度向下",
+      "储能需求爆发但股价背离",
+      "赣锋锂业等套人深"
+    ],
+    "mentioned_stocks": ["多氟多", "天华新能", "石大胜华", "赣锋锂业", "孚日股份"]
+  },
+  {
+    "index": 33,
+    "summary": "咨询养老ETF选择，多数推荐定投纳指或等崩盘后入场",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "定投纳指是标准答案",
+      "等美股崩盘再买红利低波",
+      "买A500也可"
+    ],
+    "mentioned_stocks": ["纳指ETF", "红利低波ETF", "A500"]
+  },
+  {
+    "index": 34,
+    "summary": "建议国家队学习华尔街砸盘技术，以减少冲击，但多数认为目的不同",
+    "sentiment": "negative",
+    "key_opinions": [
+      "汪汪队砸盘为控指数非盈利",
+      "汇金要上交利润也会考量",
+      "砸盘后大涨仍将破坏调控"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论周一买入半导体、通信ETF等，但多数建议谨慎或尾盘买",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "论坛大佬减仓科技",
+      "机构可能拉一波再出货",
+      "分批买或等尾盘企稳"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "误看富瀚微为中信证券业绩预告，实际富瀚微走势一般，已走人",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "突破箱体没拿住",
+      "周五没收回已离场",
+      "可能摸20日线再进"
+    ],
+    "mentioned_stocks": ["富瀚微", "中信证券"]
+  },
+  {
+    "index": 37,
+    "summary": "曝冷冻食品企业冷链问题，可能影响相关食品股品质和投资选择",
+    "sentiment": "negative",
+    "key_opinions": [
+      "部分企业不实冷链送冻品",
+      "上市公司冷链成本差异大",
+      "建议选全程冷链企业"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "寻找红利投资指导帖子，有人提供链接",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "需要学习红利投资经验",
+      "有分享贴链接"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论抗跌科技股是否值得高看，担心补跌风险，无一致结论",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "抗跌可能强势或补跌",
+      "无规律可循，涨跌都能解释",
+      "京东方周四大涨后大跌"
+    ],
+    "mentioned_stocks": ["京东方"]
+  },
+  {
+    "index": 40,
+    "summary": "持有中国中铁亏损严重，询问能否回本，多数建议割肉换股",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价比924起涨前更低",
+      "老登股无底，地产拖累",
+      "建议割肉换高股息或科技"
+    ],
+    "mentioned_stocks": ["中国中铁", "赣锋锂业", "中国电建"]
+  },
+  {
+    "index": 41,
+    "summary": "两融余额数据异常，发现部分板块融资余额归零，猜测为系统问题",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "半导体芯片融资余额归零",
+      "可能周末数据问题",
+      "需周一上午再确认"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "中公教育热度高，讨论能否一字和是否有参与机会，多数不看好",
+    "sentiment": "negative",
+    "key_opinions": [
+      "超跌反弹可能一字，但开板即弱",
+      "纯粹炒作，无先手不宜",
+      "200元一炮尝咸淡调侃"
+    ],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 43,
+    "summary": "寻求美股防御ETF，推荐选择QQQ定投或等纳指大跌后买杠杆ETF",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指回撤15%后开始定投TQQQ",
+      "防御不如空仓",
+      "定投SPY也可"
+    ],
+    "mentioned_stocks": ["HDV", "SCHD", "QQQ", "SPY", "TQQQ"]
+  },
+  {
+    "index": 44,
+    "summary": "回顾2月中际旭创暴跌时论坛氛围，当时焦点在贵金属，科技无人问津",
+    "sentiment": "negative",
+    "key_opinions": [
+      "二月科技人少，主要炒黄金有色",
+      "中际被称为古典算力，无人在意",
+      "sai佬当时融资加仓"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 45,
+    "summary": "持有恒生科技ETF亏损严重，吐槽是消费不是科技，亏损较多",
+    "sentiment": "negative",
+    "key_opinions": [
+      "恒科重仓一路亏",
+      "以为是科技实际是消费",
+      "亏损35-40%"
+    ],
+    "mentioned_stocks": ["恒生科技ETF"]
+  },
+  {
+    "index": 46,
+    "summary": "创新药荐股，认为有望接棒科技行情，推荐迈威生物、益方生物等",
+    "sentiment": "positive",
+    "key_opinions": [
+      "政策催化加速创新药进度",
+      "科创板创新药走趋势",
+      "推荐迈威生物、益方生物等"
+    ],
+    "mentioned_stocks": ["迈威生物", "益方生物", "热景生物", "泽璟制药", "诺诚健华", "药明康德", "凯莱英", "昭衍新药"]
+  },
+  {
+    "index": 47,
+    "summary": "长鑫键合DRAM技术突破，利好后道设备和材料，周末利好密集",
+    "sentiment": "positive",
+    "key_opinions": [
+      "国产DRAM无需EUV实现高性能",
+      "利好抛光液、电子化学品",
+      "设备股可能一阳穿二阴"
+    ],
+    "mentioned_stocks": ["长鑫存储", "中微公司", "北方华创", "拓荆科技"]
+  },
+  {
+    "index": 48,
+    "summary": "寻找化工涨价和半导体材料小票，推荐多氟多等一体化优势股",
+    "sentiment": "positive",
+    "key_opinions": [
+      "多氟多覆盖半导体、锂电、光伏",
+      "化工小登有潜力",
+      "需要更多司机一起挖掘"
+    ],
+    "mentioned_stocks": ["多氟多", "江瀚新材", "永和股份"]
+  },
+  {
+    "index": 49,
+    "summary": "询问药明康德走势，分析基本面和技术面，认为中长线有突破可能",
+    "sentiment": "positive",
+    "key_opinions": [
+      "Q1扣非增85%，若中报超预期情绪加成",
+      "技术面放量突破箱体",
+      "可以看到136-142"
+    ],
+    "mentioned_stocks": ["药明康德", "创新药ETF"]
+  }
+]
+```
