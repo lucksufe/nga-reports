@@ -1,0 +1,535 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "市场迷失方向，缺乏主线，炒作小票，情绪悲观，只有猪周期尚可。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场像熊市，没有目标",
+      "资金无处可去，炒小炒差",
+      "猪周期勉强能看"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "市场人气惨淡，骂声减少，极度失望，但有人认为缩量可能止跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "连骂声都少了，极度失望",
+      "无人幻想时可能见底",
+      "缩量准备止跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "反讽市场“赢了”，调侃火影梗，怀疑GJD带头做空。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "反讽式庆祝上涨",
+      "怀疑GJD主动做空",
+      "经济数据与实际感受不符"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "追高德新科技遭遇假突破，散户被套，走势惨淡。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "假突破导致追高被套",
+      "散户在高点冲锋接盘",
+      "德新科技走势特殊"
+    ],
+    "mentioned_stocks": ["德新科技"]
+  },
+  {
+    "index": 5,
+    "summary": "恒力石化、恒逸石化等低PE业绩股大跌，质疑安全逻辑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "低PE业绩股被砸无理由",
+      "周期股下杀不可理喻",
+      "市场整体不行"
+    ],
+    "mentioned_stocks": ["恒力石化", "恒逸石化"]
+  },
+  {
+    "index": 6,
+    "summary": "市场大跌但无明显利空，猜测有敏感因素，韩国股市急跌拖累。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "找不到明确利空大盘却暴跌",
+      "韩国大跌波及A股AI",
+      "可能存在无法讨论的利空"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "存储股炒作被比作白银，回撤大但浮盈厚，担忧是否趋势转变。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "存储炒作和白银一样投机",
+      "利润垫厚但回撤也大",
+      "不确定是回调还是下跌开始"
+    ],
+    "mentioned_stocks": ["兆易创新", "德明利"]
+  },
+  {
+    "index": 8,
+    "summary": "清仓止损，全年收益-10%，表达对市场失望。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "设10%止损线清仓",
+      "全年亏损10%难以接受",
+      "工作、楼市、股市都难赚钱"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "科技牛市其他熊市，创新药由量化主导，追高风险大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "只有科技板块是牛市",
+      "创新药被量化收割",
+      "反复横跳两面挨打"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "中公教育等垃圾股上涨，散户借此恶心GJD，情绪宣泄。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中公教育这种垃圾股还能涨",
+      "散户用垃圾股反击GJD",
+      "A股长期3000点有原因"
+    ],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 11,
+    "summary": "看好AI算力成为未来基建必需品，类比5G，但成本是问题。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI算力将像宽带一样普及",
+      "早期成本高但会下降",
+      "普通人用不到算力"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "华天科技异动上涨，即使外部韩股熔断，资金炒名字股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "华天科技暴力拉升",
+      "三羊马等名字股涨停",
+      "市场炒无厘头"
+    ],
+    "mentioned_stocks": ["华天科技", "三羊马", "长电科技"]
+  },
+  {
+    "index": 13,
+    "summary": "连续亏损哀嚎，改编歌词自嘲，市场惨绿。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高手不赢已到第五天",
+      "连续挨打回撤严重",
+      "情绪崩溃亏麻了"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "突然大跌感觉像股灾，前一阶段还是生机勃勃的假象。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "突然股灾式下跌",
+      "不买AI的已跌三个月",
+      "科技砸死大盘就完蛋"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "帖图询问量化能否盈利，隐含对量化的不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "对量化是否赚钱存疑",
+      "市场被量化破坏"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "嘲讽之前5000点预测，认为GJD控盘不愿拉升。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "5000点预测成笑料",
+      "GJD有意压制市场",
+      "放开杠杆才能拉指数"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论300ETF疑似被汪汪队持续砸盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "300ETF被汪汪队砸盘"
+    ],
+    "mentioned_stocks": ["300ETF"]
+  },
+  {
+    "index": 18,
+    "summary": "大盘跌破4000点瞬间被拉回，嘲讽汪汪队精准控盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "4000点有程序化支撑",
+      "汪汪队精准护盘",
+      "缩量拉银行股保证"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "小盘股回撤排行，寒武纪回撤第一，光模块、PCB回调大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "寒武纪回撤第一名",
+      "光模块和PCB普遍大跌",
+      "趁回调抄底思路"
+    ],
+    "mentioned_stocks": ["寒武纪", "兆易创新"]
+  },
+  {
+    "index": 20,
+    "summary": "帖图显示大幅亏损，请求退钱不想玩了。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损严重想退出"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "回归中远海控，称反复做新手任务。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "回归航运股中远海控"
+    ],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 22,
+    "summary": "建议配置创新药板块，有预期和业绩，药明康德可关注。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "创新药有预期和业绩",
+      "分批买入风险不大",
+      "药明康德相对靠谱"
+    ],
+    "mentioned_stocks": ["创新药ETF", "药明康德"]
+  },
+  {
+    "index": 23,
+    "summary": "一周亏损25%，史上最大单周亏损，市场惨烈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "周亏25%创纪录",
+      "市场行情极差"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "A股十年还在3000点，4000点新闻反复发，原地踏步。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股长期3000点",
+      "4000点保卫战反复上演",
+      "市场缺乏进步"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "询问游戏股机会，已连涨7天怕接盘，有人建议充游戏。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "游戏股连涨后追高风险",
+      "不如充648玩游戏",
+      "完美世界可以看看"
+    ],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 26,
+    "summary": "询问被套20-30%如何解套，寻求老韭菜经验。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "被套30%不知如何操作"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "认为科技一死大盘没救，证券放量也难带动。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技板块决定大盘生死",
+      "证券放量是结果不是原因",
+      "国家队有意降温"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "半导体板块一荣俱荣，外盘空头与长鑫上市影响节奏。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "半导体上下游绑定",
+      "外盘做空海力士美光",
+      "长鑫上市前可能震荡"
+    ],
+    "mentioned_stocks": ["SK海力士", "美光科技", "长鑫存储"]
+  },
+  {
+    "index": 29,
+    "summary": "韩国股市熔断，杠杆散户爆仓，情绪崩溃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩股熔断杠杆爆仓",
+      "存储股大跌拖累",
+      "韩国散户惨"
+    ],
+    "mentioned_stocks": ["三星电子", "SK海力士"]
+  },
+  {
+    "index": 30,
+    "summary": "亏损走势似曾相识，类似商业航天那一波炒作后崩盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "重复商业航天暴跌剧本",
+      "亏损无止境",
+      "死了都不卖"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "退出股票想转投基金，被建议不如货基或债基。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "不再炒股转投基金",
+      "基金也可能更差",
+      "银华日利ETF堪比余额宝"
+    ],
+    "mentioned_stocks": ["银华日利ETF"]
+  },
+  {
+    "index": 32,
+    "summary": "用蟠桃大会比喻市场多空博弈，GJD坐收渔利。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "老登小登争斗GJD得利",
+      "市场多空激烈博弈"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "月初加仓被持续暴打，亏损严重，悔恨不止损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "月初加仓被套",
+      "行情不稳不应补仓",
+      "下跌趋势不考虑补"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "无主线时资金炒名字股，三羊马、日盈电子等。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场炒名字股三羊马",
+      "大盘跌破4000资金乱炒"
+    ],
+    "mentioned_stocks": ["三羊马", "日盈电子", "福日电子", "川大智胜"]
+  },
+  {
+    "index": 35,
+    "summary": "持仓股亏损严重，回本遥遥无期，慢牛幻想破灭。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "回本成长期主线任务",
+      "慢牛预期落空"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "盘前预测看好兆易创新，科技修复中但力度弱，建议做T。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "坚定看好兆易创新预期",
+      "科技修复无力但风险变小",
+      "建议建仓后做T"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 37,
+    "summary": "牧原股份便宜因周期底部，江波龙贵因可能处于顶部。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "牧原处于周期底部",
+      "江波龙可能是周期顶部",
+      "PE低不能作为买入理由"
+    ],
+    "mentioned_stocks": ["牧原股份", "江波龙"]
+  },
+  {
+    "index": 38,
+    "summary": "追高机器人股被套，拓普集团、拓斯达大跌，亏损严重。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "追高机器人股吃大面",
+      "埃斯顿换手30%有妖股迹象",
+      "创新药和机器人一周游"
+    ],
+    "mentioned_stocks": ["拓普集团", "拓斯达", "埃斯顿"]
+  },
+  {
+    "index": 39,
+    "summary": "再次反讽市场“赢了”。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "反讽市场上涨"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "大幅亏损问能否回本，极度绝望。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损严重回本无望",
+      "缩量至5000亿看不清"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "坚守一年泡泡玛特换仓兆易创新，遭遇两头亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "坚守泡泡玛特后换仓兆易大亏",
+      "两头挨打一鱼两吃"
+    ],
+    "mentioned_stocks": ["泡泡玛特", "兆易创新"]
+  },
+  {
+    "index": 42,
+    "summary": "利通电子跌停，曾经妖股毒点多，不确定性大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利通电子跌停",
+      "不确定性太多",
+      "一个月8个地板"
+    ],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 43,
+    "summary": "一天亏完上周所有盈利，买什么亏什么，准备清仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "一天亏完上月盈利",
+      "买数据中心石化锂电全亏",
+      "准备清仓防伤本金"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "科技股分化，主板科技反弹弱于创业板，后悔选错。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "创业板科技反弹强于主板",
+      "选股错误修复太慢"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "周期股低PE不是买入理由，要看预期，存储周期可能不同。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "周期股PE低是见顶信号",
+      "存储可能有超级周期",
+      "预期比PE重要"
+    ],
+    "mentioned_stocks": ["中远海控", "江波龙"]
+  },
+  {
+    "index": 46,
+    "summary": "长鑫上市可能抽血其他科技股，上市前可能是黑暗。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫上市可能吸走资金",
+      "上市前可能持续阴跌",
+      "长鑫带动行情希望渺茫"
+    ],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 47,
+    "summary": "韩国股市熔断，杠杆etf加大波动，A股午后恐受拖累。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩股熔断杠杆爆仓",
+      "韩国央行警示单股ETF",
+      "A股下午可能更差"
+    ],
+    "mentioned_stocks": ["三星电子", "SK海力士"]
+  },
+  {
+    "index": 48,
+    "summary": "被套求做T方法，但多数认为单边下跌做T难，不如止损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "单边下跌做T胜率低",
+      "应设硬止损保住本金",
+      "卖飞也比深套好"
+    ],
+    "mentioned_stocks": ["中国移动"]
+  },
+  {
+    "index": 49,
+    "summary": "今日4700+股票下跌，普跌行情不必找自身原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "4700多只股票待涨",
+      "普跌不必自责"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "想趁赵姨回调上车，错过-6%机会，担心不给回调。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "错过赵姨-6%回调上车机会",
+      "担心没有更低买点",
+      "基金赎回T+5错过时机"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  }
+]
+```
