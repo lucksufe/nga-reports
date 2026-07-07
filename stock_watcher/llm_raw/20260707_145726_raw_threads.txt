@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "用户情绪化表达对市场上涨的支持，附图片回应看空言论。",
+    "sentiment": "mixed",
+    "key_opinions": ["逆反情绪推动上涨", "以涨回应负面评价"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "散户嘲讽监管并逆势买入中公教育，表达对抗情绪，担忧特停。",
+    "sentiment": "mixed",
+    "key_opinions": ["散户反抗正规市场", "异动公告可能压制炒作", "市场风格可能转向题材"],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 3,
+    "summary": "辩论股市上涨能否有效促进消费，质疑零和博弈下的财富效应。",
+    "sentiment": "mixed",
+    "key_opinions": ["股市零和博弈，消费难以持续", "韩国股市上涨促进消费但出生率仍低", "企业分红回购才能改变零和"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讽刺特朗普言论，讨论美国做空与护盘力量。",
+    "sentiment": "mixed",
+    "key_opinions": ["大选前美股不会下跌", "巴菲特不做空美股", "国家队护盘态度冷淡"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论黄河旋风、扬杰科技的买入机会，风格偏短线投机。",
+    "sentiment": "positive",
+    "key_opinions": ["黄河旋风回踩均线可买", "扬杰科技走势较稳", "培育钻石概念强势"],
+    "mentioned_stocks": ["黄河旋风", "扬杰科技"]
+  },
+  {
+    "index": 6,
+    "summary": "江淮汽车股价大跌，投资者亏损抱怨，提及大资金清仓。",
+    "sentiment": "negative",
+    "key_opinions": ["江淮汽车概念消退销量下滑", "大资金清仓出逃", "套牢严重反弹无望"],
+    "mentioned_stocks": ["江淮汽车"]
+  },
+  {
+    "index": 7,
+    "summary": "宣称当日是最佳进场点，结合世界杯、指数等信号。",
+    "sentiment": "mixed",
+    "key_opinions": ["风险释放接近生死线", "十五五纲要指向科技主线", "缩量下跌不建议进场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "兆易创新持仓亏损显著，投资者情绪沮丧。",
+    "sentiment": "negative",
+    "key_opinions": ["利润回吐严重", "兆易创新表现疲软"],
+    "mentioned_stocks": ["兆易创新", "通信ETF"]
+  },
+  {
+    "index": 9,
+    "summary": "对比美股科技回调，认为A股提前下跌已算仁慈。",
+    "sentiment": "mixed",
+    "key_opinions": ["英伟达高位回落21%", "A股总龙头5月已见顶", "全A指数5月14日见顶"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 10,
+    "summary": "质疑保护投资者口号与科技股大跌的关系，表达失望。",
+    "sentiment": "negative",
+    "key_opinions": ["保护投资者口号后市场调整", "一级市场减持被保护", "每次提耐心资本都套人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "调侃中公教育拉升后回落，引用动漫梗表达反转期待。",
+    "sentiment": "mixed",
+    "key_opinions": ["中公教育拉升引发关注", "易中天概念跟随反弹", "担忧拉升过快后回落"],
+    "mentioned_stocks": ["中公教育", "易中天"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论科技股吸血全场的说法，认为其他板块并未受益。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技跌后其他板块未涨", "AI应用部分反弹", "吸血说法源于历史经验"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "发帖人全仓买入中公教育，被质疑为新账号吹票。",
+    "sentiment": "mixed",
+    "key_opinions": ["因监管风险警示仍买入", "被质疑为吹票新号", "PCB概念股关联被提及"],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 14,
+    "summary": "中国巨石股价回调，投资者询问是否持有，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["基本面未变，行情回调", "图形走坏，反弹概率小", "业内看好后市"],
+    "mentioned_stocks": ["中国巨石"]
+  },
+  {
+    "index": 15,
+    "summary": "兆易创新下跌走势讨论，担忧长鑫上市影响，悲观情绪浓厚。",
+    "sentiment": "negative",
+    "key_opinions": ["长鑫上市利空兆易", "参考长飞光纤走势", "跌破60日线或至460"],
+    "mentioned_stocks": ["兆易创新", "长飞光纤"]
+  },
+  {
+    "index": 16,
+    "summary": "新股民询问是否适合分批建仓兆易创新，附图无更多信息。",
+    "sentiment": "mixed",
+    "key_opinions": ["新韭菜考虑建仓兆易创新"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 17,
+    "summary": "绝望求助提高网贷额度以继续投机，已输光借款。",
+    "sentiment": "negative",
+    "key_opinions": ["网贷额度用尽无法再借", "投机亏损严重"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "电池上游材料股持有者交流，业绩好转但股价下跌，失望情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["锂矿排产环增股价下跌", "多氟多叛徒砸盘", "市场定价背离基本面"],
+    "mentioned_stocks": ["多氟多", "天华新能", "石大胜华", "孚日股份"]
+  },
+  {
+    "index": 19,
+    "summary": "个人感觉可抄底，已买入上海新阳、铂科新材等，收益为负。",
+    "sentiment": "positive",
+    "key_opinions": ["许多股票地量跌不下去", "已买入上海新阳", "七月收益为负但看好反弹"],
+    "mentioned_stocks": ["上海新阳", "铂科新材", "太极股份"]
+  },
+  {
+    "index": 20,
+    "summary": "以诗歌形式感叹科技股大跌，澜起、兆易等跌幅惨重。",
+    "sentiment": "negative",
+    "key_opinions": ["澜起科技等大跌", "持有港股亏损加倍", "调侃谐音梗"],
+    "mentioned_stocks": ["澜起科技", "巨石", "兆易创新", "恒勃股份"]
+  },
+  {
+    "index": 21,
+    "summary": "杭电股份连续跌停，分析认为概念蹭完资金结账。",
+    "sentiment": "negative",
+    "key_opinions": ["光纤板块整体下行", "龙虎榜卖一10亿清仓", "涨幅巨大后出货"],
+    "mentioned_stocks": ["杭电股份", "亨通光电"]
+  },
+  {
+    "index": 22,
+    "summary": "中公教育散户跟风娱乐性购买，形成团建式抱团。",
+    "sentiment": "mixed",
+    "key_opinions": ["凑热闹买入表达叛逆", "嘲讽庄家与监管", "缅怀黄图哥活跃氛围"],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 23,
+    "summary": "询问当前哪些老登股较稳，回复普遍建议空仓或逆回购。",
+    "sentiment": "negative",
+    "key_opinions": ["熊市行情建议空仓", "定投腾讯可考虑", "海狗回购已出"],
+    "mentioned_stocks": ["腾讯", "中远海控"]
+  },
+  {
+    "index": 24,
+    "summary": "分享和求取FX战士久留美表情包，活跃气氛。",
+    "sentiment": "positive",
+    "key_opinions": ["大时代唯一指定漫画", "表情包表达投资心境"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "讨论创业、科创板资金大幅流出，基金抱团瓦解。",
+    "sentiment": "negative",
+    "key_opinions": ["基金抱团拉高后出货", "明天可能修复再杀跌", "赵姨被套严重看中报"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 26,
+    "summary": "调侃股市短暂反弹后下跌，如男人不持久。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场只硬了一小会", "下次别上厕所导致下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "午盘科技砸穿后情绪崩溃，认为国家队操纵扯下遮羞布。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股砸盘后普跌", "沪深300再度卖出", "汪汪队控涨导致大跌"],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 28,
+    "summary": "批评散户投机行为，认为持股短视无价值贡献。",
+    "sentiment": "negative",
+    "key_opinions": ["散户低买高卖无社会价值", "与经济国运无关", "论坛发泄情绪不可取"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "询问当日反弹是否企稳，担忧继续下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股七月亏损严重", "无企稳信号", "等待外盘企稳"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "指数跌破3900点，半年收益归零，悲观预期更低。",
+    "sentiment": "negative",
+    "key_opinions": ["半年白玩收益归零", "3800都不一定是底", "2800可全仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "探讨缩量下跌是否已出现恐慌盘，多数认为未充分。",
+    "sentiment": "mixed",
+    "key_opinions": ["缩量说明未充分恐慌", "硬抗不卖等反弹", "缺少快速下杀放量"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "嘲笑尾盘拉银行股护盘，认为掩盖下跌真实状况。",
+    "sentiment": "negative",
+    "key_opinions": ["四大行逆势拉升", "证券被砸银行护盘", "机构声东击西"],
+    "mentioned_stocks": ["中国银行", "建设银行", "工商银行", "农业银行"]
+  },
+  {
+    "index": 33,
+    "summary": "将A股下跌归咎韩国股市拖累，期待其收盘后反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国股市拖累A股", "韩指修复速度比A股快", "V型反转期待"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "认为韩国熔断后科技吸货是阶段性底部，准备反转。",
+    "sentiment": "positive",
+    "key_opinions": ["韩基米熔断后拉升", "光导存吸货科技行情重启", "半导体反弹无增量"],
+    "mentioned_stocks": ["中韩半导体"]
+  },
+  {
+    "index": 35,
+    "summary": "看好牧原股份逆势走强，强调猪肉供需缺口。",
+    "sentiment": "positive",
+    "key_opinions": ["猪价抗跌适合上车", "短期缺猪长期缺五花", "猪板块时间证明"],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 36,
+    "summary": "全市场无差别杀跌，各板块普跌，无奈情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["科技医药白酒等全跌", "跌破年线无分析必要", "亏得少已是高手"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "储能股腰斩，懊悔资金未在硬件科技，类比药明康德。",
+    "sentiment": "negative",
+    "key_opinions": ["储能股腰斩套牢", "资金只抱团硬件科技", "药明康德套三年教训"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 38,
+    "summary": "买入中钨高新，争议中短期风险与长期价值。",
+    "sentiment": "mixed",
+    "key_opinions": ["高位跌30%有性价比", "破60日线可接", "短期错长期对"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 39,
+    "summary": "回忆半年前5000点预期，如今认为国家队难以实现。",
+    "sentiment": "negative",
+    "key_opinions": ["5000点目标未实现", "国家队带头做空", "开放杠杆才能拉升"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "中公教育股价异动拉升，散户逆反买入对抗监管。",
+    "sentiment": "mixed",
+    "key_opinions": ["逆反心理对抗大户限制", "杂毛股在大盘跌时活跃", "题材炒作对抗裁判干预"],
+    "mentioned_stocks": ["中公教育", "ST闻泰"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论蔚蓝锂芯概念丰富，但庄家凶悍，电池板块回避。",
+    "sentiment": "mixed",
+    "key_opinions": ["蔚蓝锂芯涉及机器人电源", "庄家不好惹", "电池板块连续亏损回避"],
+    "mentioned_stocks": ["蔚蓝锂芯"]
+  },
+  {
+    "index": 42,
+    "summary": "券商板块被砸打压指数，抱怨沪深300砸盘。",
+    "sentiment": "negative",
+    "key_opinions": ["券商跳水打压指数", "沪深300卖出几十亿", "汪汪队清仓压制"],
+    "mentioned_stocks": ["东方财富"]
+  },
+  {
+    "index": 43,
+    "summary": "分享止损后东山精密拉升的后悔心情。",
+    "sentiment": "mixed",
+    "key_opinions": ["卖出后东山拉直线", "小作文刺激反弹", "卖飞后悔"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 44,
+    "summary": "上证K线破位缩量，下方还有缺口与年线支撑。",
+    "sentiment": "negative",
+    "key_opinions": ["K线偏离均线密集区", "科技获利盘多可能杀跌", "年线附近寻支撑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "埃斯顿逆势翻红，分析为量化抱团，担忧补跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化抱团坚守", "机器人概念营造强势", "担忧明天补跌"],
+    "mentioned_stocks": ["埃斯顿"]
+  },
+  {
+    "index": 46,
+    "summary": "持仓红盘但减仓，批评国家队砸科技护红利逻辑错误。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队砸科技不明智", "房地产过热曾被误杀", "美化房奴言论被驳斥"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "跌幅榜显示老登股跌幅更大，银证保白酒等领跌。",
+    "sentiment": "negative",
+    "key_opinions": ["跌幅前60老登股占一半", "证券医药白酒跌幅大", "工商银行反而上涨"],
+    "mentioned_stocks": ["工商银行"]
+  },
+  {
+    "index": 48,
+    "summary": "提醒MACD转绿时空仓，风险较大。",
+    "sentiment": "negative",
+    "key_opinions": ["MACD转绿难做", "应先空仓观察"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "投资者亏损严重宣布退出，向家人道歉。",
+    "sentiment": "negative",
+    "key_opinions": ["亏掉妻子车钱", "决定退出股市", "被劝留看烟花"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "分析中公教育炒作逻辑，视为散户情绪标的，少量参与。",
+    "sentiment": "positive",
+    "key_opinions": ["中公教育成情绪标杆", "超跌反弹代表", "资金操盘节点精准"],
+    "mentioned_stocks": ["中公教育"]
+  }
+]
+```
