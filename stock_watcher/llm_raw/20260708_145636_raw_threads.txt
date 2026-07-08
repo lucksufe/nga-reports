@@ -1,0 +1,473 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论二次反弹失败，担忧多杀多行情，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "盈利者止盈，抄底者跑路，应减仓。",
+      "质疑反弹定义，认为半导体反弹不代表市场。",
+      "将棒子类比碳酸锂期货，提示科技风险。"
+    ],
+    "mentioned_stocks": ["半导体", "碳酸锂期货", "锂电", "科技"]
+  },
+  {
+    "index": 2,
+    "summary": "用阿根廷球赛比喻市场情绪，鼓励坚持。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市场已至绝望盘阶段，煎熬但需坚持。",
+      "科技回调巨大，散户不易，纪律最重要。",
+      "有人已投降换仓至牧原股份。"
+    ],
+    "mentioned_stocks": ["科技", "牧原股份", "完美世界"]
+  },
+  {
+    "index": 3,
+    "summary": "抱怨消费不振，担忧出口倾销受阻。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "都去卷出口，前提是人家允许倾销。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论大跌后操作，做T还是死扛，看法不一。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "有人清仓换入紫金、创新药做波段。",
+      "后视镜看有机会，但实际操作难抓。",
+      "不清仓已胜过90%的人，谨慎操作。"
+    ],
+    "mentioned_stocks": ["巨石", "昊华", "紫金矿业", "创新药", "老登", "中芯", "阿里", "腾讯", "赵姨"]
+  },
+  {
+    "index": 5,
+    "summary": "警示技术性熊市，建议逃命。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "技术性熊市来了，各自逃命。",
+      "3900缺口可能补，但补了走坏。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "吐槽锂电板块集体跌停，走势变态。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "锂电龙头、网红、强势票全部跌停。",
+      "跟科技和储能预期，跷跷板效应。",
+      "板块资金糟糕，容易摧毁交易策略。"
+    ],
+    "mentioned_stocks": ["锂电", "天赐材料", "油运", "天齐锂业"]
+  },
+  {
+    "index": 7,
+    "summary": "建立电池上游真爱楼，期待反转。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "开除多多，锂矿等材料股困境反转可期。",
+      "业绩向好但股价45°向下，心态麻痹。",
+      "有人调侃买锂矿有福了，仇人都释怀。"
+    ],
+    "mentioned_stocks": ["锂矿", "VC", "6F", "隔膜", "磷酸铁锂", "负极", "sxln", "天华新能", "石大胜华", "孚日"]
+  },
+  {
+    "index": 8,
+    "summary": "胜宏科技亏损严重，怀疑能否继续持有。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "胜宏亏麻了，怀疑安心旅游的承诺。",
+      "CCB概念被中公大哥抢龙。",
+      "科技股普遍亏损。"
+    ],
+    "mentioned_stocks": ["胜宏", "中公教育", "亨通光电"]
+  },
+  {
+    "index": 9,
+    "summary": "机器人、有色、锂电池跌幅超过硬件。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "机器人和有色跌得比硬件多。",
+      "雅化集团从涨停到跌停，市场奇葩。",
+      "有人本金亏剩45%，回本无望。"
+    ],
+    "mentioned_stocks": ["机器人", "有色", "锂电池", "海运", "雅化集团", "兆易创新", "亨通光电"]
+  },
+  {
+    "index": 10,
+    "summary": "7月哀嚎帖，晒亏损求安慰。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "满仓存储半导体亏损10%起步。",
+      "有人晒图亏损严重。",
+      "天赐材料被点名怨恨。"
+    ],
+    "mentioned_stocks": ["存储", "半导体设备", "材料", "天赐材料"]
+  },
+  {
+    "index": 11,
+    "summary": "调侃大盘走势，装家人们。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大盘走势装家人们，高手不赢。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "多氟多下跌，戏称制冷剂需求无用。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "多氟多跌停，二选一后悔买入。",
+      "硬抗待按摩。"
+    ],
+    "mentioned_stocks": ["多氟多", "锐捷网络"]
+  },
+  {
+    "index": 13,
+    "summary": "晒卖飞操作，后悔左侧卖出。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "卖出即拉升，心态崩溃。",
+      "左侧卖出右侧买入代价大。",
+      "-50个点就是这样来的。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论双顶形态存在性，警惕幻想。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "都等双顶则无双顶。",
+      "板块通常有双顶，但过程痛苦。",
+      "需真金白银等待，不可轻易幻想。"
+    ],
+    "mentioned_stocks": ["新能源", "白酒", "医疗"]
+  },
+  {
+    "index": 15,
+    "summary": "吐槽机器人板块暴跌，决心远离。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "机器人ETF一个月A杀四次。",
+      "植物人变业绩能力差。",
+      "黄金、锂矿、航天、机器人皆亏过。"
+    ],
+    "mentioned_stocks": ["植物人（机器人）", "盛新锂能", "三花智控"]
+  },
+  {
+    "index": 16,
+    "summary": "质疑4000点支撑，担忧3000点。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "4000点如纸糊，无防守。",
+      "国家队既想人来玩又怕发达。",
+      "有人阴谋论认为裁判想要普跌。"
+    ],
+    "mentioned_stocks": ["中银证券"]
+  },
+  {
+    "index": 17,
+    "summary": "锂矿持续阴跌，探讨利空原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "锂矿股年线转绿，交易何种预期？",
+      "匈牙利换领导被解读为大利空。",
+      "非洲矿或有影响，跌势不止。"
+    ],
+    "mentioned_stocks": ["锂矿", "赣锋锂业", "宁德时代", "融捷股份"]
+  },
+  {
+    "index": 18,
+    "summary": "扛不住亏损，决定明天清仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "7月已亏25%，每天被爆杀。",
+      "上午拉升被骗，明天无论如何清仓。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "调侃牛回速归，外卖电瓶车梗。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "电瓶车卖不卖，下午绿棒子伺候。",
+      "口号牛回，实际不稳。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "海力士大跌，担忧美股与A股联动。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "海力士跳水，或带崩美股明天A股。",
+      "科技陷入死循环，无带头大哥。",
+      "国产半导体或出下一轮大哥。"
+    ],
+    "mentioned_stocks": ["海力士", "美光", "闪迪", "赵姨"]
+  },
+  {
+    "index": 21,
+    "summary": "接手表哥亏损账户，争取回本。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "从-40%开始操作，争取回本。",
+      "亲戚关系增添压力。",
+      "晒收益朋友圈引来关注。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "期待神奇两点半拉升，实际崩坏。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "等待棒子收盘拉升，结果跳水。",
+      "天华新能跌14%，银行拉升。",
+      "拉稀也是拉。"
+    ],
+    "mentioned_stocks": ["天华新能", "银行"]
+  },
+  {
+    "index": 23,
+    "summary": "看月线发现牛市结束，后知后觉。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "回调20-30%才意识到牛市结束。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "疑问锂矿为何暴跌，劝远离。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "锂矿犯天条？跌势不止。",
+      "珍爱生命远离锂矿。",
+      "关注就跌，无人问津才涨。"
+    ],
+    "mentioned_stocks": ["锂矿", "国成"]
+  },
+  {
+    "index": 25,
+    "summary": "抨击A股无自主能力，如机器人。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股像化粪池，只有壳子没脑子。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "短线打板探讨，寻找0-1规律。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "0-1板是否有共同端倪？",
+      "短线混沌难捕捉。",
+      "2-3成功极少，连板似产业链控盘。"
+    ],
+    "mentioned_stocks": ["宿傩"]
+  },
+  {
+    "index": 27,
+    "summary": "7月一天未红，心态濒临崩溃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "7月天天跌，下午跳水，神志不清。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "寻求反转信号，讨论各种可能。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "千股跌停汇金入场是信号。",
+      "等平准基金介入。",
+      "美股海力士上市、国债拍卖成功等。"
+    ],
+    "mentioned_stocks": ["海力士", "火影环节"]
+  },
+  {
+    "index": 29,
+    "summary": "科技走势类比当初锂矿A杀。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技天天高开低走，疑似出货模式。"
+    ],
+    "mentioned_stocks": ["科技", "锂矿"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论加入正规市场，如美股、港股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "通过场外基金、场内ETF或私募渠道。",
+      "海外开户、合法身份可行。",
+      "外面不一定比A股容易。"
+    ],
+    "mentioned_stocks": ["黄金", "schd", "港股通互联网ETF"]
+  },
+  {
+    "index": 31,
+    "summary": "认为是最后一跌，期待周四反弹。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黑色星期四该拉阳线。",
+      "杀到无人相信才会弹。",
+      "砸需筹码，指数位置跌不下去。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "兆易创新母亲割肉，自己加仓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "母亲595割肉，自己600加仓。",
+      "集美推荐兆易创新有含金量。",
+      "年内看1000元。"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 33,
+    "summary": "前一天赚12万消费，次日亏10万。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "钱花了浮盈没了。",
+      "昨天赚12万难理解。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "恒生科技成一周最强，资金切换。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "恒生科技断档式走强。",
+      "卖出硬件买入云逻辑。",
+      "恒生科技才是真科技。"
+    ],
+    "mentioned_stocks": ["恒生科技", "阿里", "腾讯", "华宏", "中芯"]
+  },
+  {
+    "index": 35,
+    "summary": "不堪天天跌，情绪崩溃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "天天跌，真的扛不住了。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "确认A杀熊市，告别。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "直接A杀，熊市确认，五年再见。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "恒生科技大涨，A股不跟，讨论原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "恒科跌时不跟，涨时也不跟。",
+      "互联网是AI硬件对手盘。",
+      "大A自有行情不需跟。"
+    ],
+    "mentioned_stocks": ["恒生科技", "智谱", "阿里", "小米", "腾讯", "光模块", "半导体", "pcb"]
+  },
+  {
+    "index": 38,
+    "summary": "提醒指数骗炮，谨慎对待。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "每天骗炮，注意指数轻度拉升。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "多氟多、昊华科技异动，讨论出货或换庄。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "多氟多三板后澄清博弈，高换手。",
+      "昊华科技放量滞涨，有承接。",
+      "外资或接盘，关注中船等联动。"
+    ],
+    "mentioned_stocks": ["多氟多", "昊华科技", "中船", "和远"]
+  },
+  {
+    "index": 40,
+    "summary": "调侃韩国股市下跌与生育率。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "棒子跌，生育率怎么办？",
+      "李在明扩产计划影响。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "下午开盘跳水，打散回暖情绪。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中午看多，下午跳水，PTSD再现。",
+      "棒子全责，量化挂单影响。",
+      "前几天赚钱教训。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "阿里preview超预期，讨论财报前机会。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "阿里preview超预期，AI收入增长10%。",
+      "财报前买call策略。"
+    ],
+    "mentioned_stocks": ["阿里"]
+  },
+  {
+    "index": 43,
+    "summary": "格林美在电池板块中一枝独秀。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "格林美是循环经济龙头，有报废红利。",
+      "后悔没加仓格林美却抄底天赐。"
+    ],
+    "mentioned_stocks": ["格林美", "天赐材料"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论高溢价ETF可能暂停账户交易。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "买高溢价可能被限制账户。",
+      "是保护措施，如同棒子熔断。",
+      "日经趋势也不佳。"
+    ],
+    "mentioned_stocks": ["日经ETF", "黄金ETF", "白银ETF", "中韩半导体ETF", "财通ETF"]
+  },
+  {
+    "index": 45,
+    "summary": "阿sai按摩帖，期待反击开始。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "小红了一下不易，市场脆弱。",
+      "核心矛盾是存储定价。",
+      "坚定守住，等待反击。"
+    ],
+    "mentioned_stocks": ["存储", "亨通光电", "中际旭创", "兆易创新"]
+  }
+]
+```
