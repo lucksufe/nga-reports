@@ -1,0 +1,549 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "围绕中公教育的多空争论，看多者被质疑为找人抬轿",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "发帖者满仓中公教育并呼吁集合，被指找人抬轿",
+      "多数回复认为该股有监管风险，主力已埋伏",
+      "有人仅买入少量凑热闹，表达态度而非投资"
+    ],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论美股是否阶段性见顶及A股周五下跌原因",
+    "sentiment": "negative",
+    "key_opinions": [
+      "认为A股无法影响纳指，国家队预判美股风险撤出",
+      "科创板前期过热，无视利空信号强行拉高后回调",
+      "韩股暴跌根源是外资高位出逃，本国杠杆盘承压"
+    ],
+    "mentioned_stocks": ["纳指ETF", "科创板"]
+  },
+  {
+    "index": 3,
+    "summary": "投资者抱怨本轮下跌导致上半年利润大幅回吐甚至亏损",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利润缓慢积累，但下跌时满仓吃伤害，几天亏完",
+      "入市晚的已亏本金，市场涨慢跌快令散户损失惨重",
+      "有人只剩3万跑出来，情绪普遍悲观"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论机器人等板块受外围影响，考虑避险",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "“植物人”概念股要看马斯克消息，缺乏独立性",
+      "龙头埃斯顿已有资金抢筹，但可能出货",
+      "考虑购买茅台等作为防御，创新药被看作大盘反指"
+    ],
+    "mentioned_stocks": ["埃斯顿", "茅台", "创新药ETF"]
+  },
+  {
+    "index": 5,
+    "summary": "调侃韩国股市走势，时而跳水时而拉红，情绪起伏",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "发帖者称韩国男人最硬气，号召做多",
+      "随后韩股跳水，被指“奶死”",
+      "韩国股市走出独立行情，希望A股学习"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "对江波龙业绩好但股价不涨表示不解和失望",
+    "sentiment": "negative",
+    "key_opinions": [
+      "业绩增长主要靠囤货，市场不认可为可持续利润",
+      "存储板块整体承压，类似三星等原厂也被砸盘",
+      "当前大环境走坏，可能横盘或阴跌"
+    ],
+    "mentioned_stocks": ["江波龙", "三星"]
+  },
+  {
+    "index": 7,
+    "summary": "韩国股市即将拉红，部分投资者认为对A股有提振",
+    "sentiment": "positive",
+    "key_opinions": [
+      "韩国拉红可能给A股高开跑路机会",
+      "有人称科技稳了，我们跟韩国有联动",
+      "警惕散户砸盘，上周五下午情景可能重演"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "期待今天A股能跟随外围反弹出现大奇迹日",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩股V回来，美股夜盘也在V，希望A股跟随",
+      "怀疑美股并未真正V回，A股可能独立下跌",
+      "A股反应慢一拍，今天可能冲一波"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "认为科技股调整未完，资金可能向红利等老登股迁移",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场资金有限，过度拥挤科技导致畸变",
+      "大资金追求确定性收益，可能转向红利老登",
+      "矫枉必须过正，科技板块需回归正常估值"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "表达对英伟达（达子）反弹的乐观情绪，用战队比喻",
+    "sentiment": "positive",
+    "key_opinions": [
+      "NVDA之前跌太多，估值已低，跌无可跌",
+      "达子已和老登股一类，影响不了其他科技股",
+      "用动漫梗呼吁做多，情绪面偏多"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 11,
+    "summary": "认为国产算力数据中心相关股票将有行情",
+    "sentiment": "positive",
+    "key_opinions": [
+      "半导体材料设备炒高后，产品端有望启动",
+      "列出紫光、锐捷、长城、浪潮等潜在标的",
+      "下半年围绕国产链炒作，华为机柜可能带动光模块"
+    ],
+    "mentioned_stocks": ["紫光股份", "锐捷网络", "长城电脑", "浪潮信息", "利通电子"]
+  },
+  {
+    "index": 12,
+    "summary": "发帖者看好创新药上游卖铲人，如药明等",
+    "sentiment": "positive",
+    "key_opinions": [
+      "创新药绕不开实验猴，看中药明、昭衍等",
+      "中报预期好，但里面资金操作恶心",
+      "科技调整资金可能流向医药，今年或是医药大年"
+    ],
+    "mentioned_stocks": ["药明康德", "昭衍新药", "鼎泰药研"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论字节大模型进展，认为若国产AI水平追平海外则利空英伟达",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "字节新模型能力若比肩OpenAI，或利空NV",
+      "多数回复质疑字节基模水平，认为不如智谱等",
+      "发帖者后来澄清原意指千问，非字节"
+    ],
+    "mentioned_stocks": ["字节概念", "英伟达"]
+  },
+  {
+    "index": 14,
+    "summary": "观察到外围市场V形反弹，但担忧A股开盘后回落",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "晒出V形图，但提醒等9点半空头上场",
+      "单开贴含金量，预测可能先A后V",
+      "感叹A股需看外围脸色"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "援引专家称量化非散户亏损主因，引发强烈反驳",
+    "sentiment": "negative",
+    "key_opinions": [
+      "质疑梁文峰200亿利润来源，直指量化收割散户",
+      "认为专家为现有制度辩护，建议取消量化",
+      "散户高频交易受限，量化高频优势明显"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "简短的欢呼，韩国股市收复跌幅转涨",
+    "sentiment": "positive",
+    "key_opinions": [
+      "庆贺欧巴变红，情绪乐观"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "开帖哀嚎亏损，主要提及中公教育套人",
+    "sentiment": "negative",
+    "key_opinions": [
+      "有人买了中公教育，套牢后调侃男扮女事件",
+      "多位投资者表示亏损触及本金",
+      "晒出亏损截图，情绪极度悲观"
+    ],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 18,
+    "summary": "投资者持有大量红利仓位仍月亏7%，感叹科技下跌惨烈",
+    "sentiment": "negative",
+    "key_opinions": [
+      "红利、科技各占四成，本月仍亏损严重",
+      "泥沙俱下时红利也一起跌，只有跌不动时才有防御",
+      "坚持定投红利股，对比美股红利盈利进行对冲"
+    ],
+    "mentioned_stocks": ["港股红利", "中证红利", "红利低波"]
+  },
+  {
+    "index": 19,
+    "summary": "猜测特朗普利用地缘政治消息操纵美股",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "认为打伊朗消息被用作控盘工具，打仗小跌和谈猛拉",
+      "特朗普说过要美股大涨，打脸？",
+      "革命卫队独走导致局势升级"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "对比日本股市稳健上涨，A股仍在3000点徘徊",
+    "sentiment": "negative",
+    "key_opinions": [
+      "一个月前买入日经指数，至今仍在成本上方",
+      "韩国股市跌回原形，A股永恒3000点",
+      "日本股市靠消费医药平衡，科技也在崩"
+    ],
+    "mentioned_stocks": ["日经ETF"]
+  },
+  {
+    "index": 21,
+    "summary": "探讨通过场外基金、场内ETF、私募等渠道参与海外市场",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "场外基金无溢价但T+2且限购",
+      "场内ETF溢价较高，且受A股情绪牵连",
+      "建议配置部分黄金，部分海外资产"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "浪潮信息发布超预期中报，但市场可能不认",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "Q2净利润环比增长超230%，业绩亮眼",
+      "调侃市场可能奖励跌停，因业绩增长倍数过高",
+      "部分认为靠囤内存赚钱，可持续性存疑"
+    ],
+    "mentioned_stocks": ["浪潮信息"]
+  },
+  {
+    "index": 23,
+    "summary": "开帖哀嚎，表达信仰耗尽，担心继续下跌",
+    "sentiment": "negative",
+    "key_opinions": [
+      "刚加仓就面临大跌，感觉已完蛋",
+      "有人庆幸之前减仓，但觉得卖少了",
+      "对比大熊市哀嚎楼开得更早，恐慌蔓延"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "转载环球时报报道韩国半导体利润暴增激化分配矛盾",
+    "sentiment": "negative",
+    "key_opinions": [
+      "三星电子绩效奖金争议突出",
+      "韩元走弱、利率压力及分配争议",
+      "社会两极分化加剧"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "讨论微软限制第三方模型接入的影响",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "微软自研模型替代OpenAI等，成本和安全是原因",
+      "可能加大AI基础设施投入，利好硬件",
+      "也有解读为降成本，用差模型凑合"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论大基金减持科技股，澄清大基金运作模式",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "大基金一期已进入退出期，扶持其他企业",
+      "耐心资本是投初创，不是持股到死",
+      "大基金减持较年初，比散户更耐心"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "抱怨七月未能翻身，反被市场打脸",
+    "sentiment": "negative",
+    "key_opinions": [
+      "5没穷6没绝，所以7不翻身",
+      "翻面挨打也是翻，翻身为熊市",
+      "可能说的是农历七月"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "辩论股市上涨能否促进消费，观点分歧",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股市好消费好，过去房市火爆带动消费",
+      "反对者认为经济好带动消费和股市，非因果关系",
+      "股市赚钱不一定会转化为实体消费"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "提醒注意网络言论，以免被炒作资金利用受牵连",
+    "sentiment": "negative",
+    "key_opinions": [
+      "有人因预测涨停帖被抓，现在pcb概念被抓",
+      "唱空未被抓，唱多被抓，市场不公",
+      "机构发小作文不见被抓，散户发言却被监管"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "中公教育概念炒作中发帖者被抓，引发讨论",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "男扮女发帖带动股价，被立案调查",
+      "嘲弄一些排队买入的人",
+      "质疑对五粮液等更大影响事件不作为"
+    ],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 31,
+    "summary": "猜测今日市场会拉升机器人、创新药还是金融",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股药大涨，可能拉创新药",
+      "银行板块也有望表现",
+      "不想全军覆没奔3800去"
+    ],
+    "mentioned_stocks": ["机器人ETF", "创新药ETF", "银行ETF"]
+  },
+  {
+    "index": 32,
+    "summary": "认为科技板块泥沙俱下后，情绪票可能择日启动",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "背景科技大跌，连板股已有两个",
+      "周五可能开始选标的做情绪票"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "投资者投诉中公教育欠费不退，情绪愤怒",
+    "sentiment": "negative",
+    "key_opinions": [
+      "报班2万多，承诺退款仅退2千，联系人员离职",
+      "中公暴雷上过央视，用葡萄酒等抵债",
+      "合同签在北京，起诉成本高，追偿困难"
+    ],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 34,
+    "summary": "询问今日买入方向，有人推荐红利和创新药避险",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "建议不买就是赢，很多人调侃装家人",
+      "看好红利低波和创新药作为防守",
+      "资金可能去哪里不确定，医药短期靠谱"
+    ],
+    "mentioned_stocks": ["红利低波ETF", "创新药ETF"]
+  },
+  {
+    "index": 35,
+    "summary": "个人投资者抱怨一买入港股指数就被套，决心死扛",
+    "sentiment": "negative",
+    "key_opinions": [
+      "买崩指数，感觉自己像行业毒瘤",
+      "决定不赚不走，挂高价卖出",
+      "港股下跌趋势，接盘位置不佳"
+    ],
+    "mentioned_stocks": ["恒生科技ETF"]
+  },
+  {
+    "index": 36,
+    "summary": "担忧韩国股市开盘大跌连带存储和A股半导体",
+    "sentiment": "negative",
+    "key_opinions": [
+      "陷入中美韩螺旋下跌循环，闪迪不V则赵姨可能跌停",
+      "认为可能是买点，总有人要打破循环",
+      "存储股连环跌，外部做空联合A股砸盘"
+    ],
+    "mentioned_stocks": ["闪迪", "赵姨概念", "存储板块"]
+  },
+  {
+    "index": 37,
+    "summary": "简短欢呼外围市场反弹",
+    "sentiment": "positive",
+    "key_opinions": [
+      "大V天龙，乐观情绪"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "发帖者持仓微红，期待市场企稳反击",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市场脆弱，一周前还很强势，现在天天跌",
+      "核心矛盾是存储怎么给估值",
+      "左手中际旭创，右手赵姨，等待验牌"
+    ],
+    "mentioned_stocks": ["中际旭创", "赵姨概念", "存储板块"]
+  },
+  {
+    "index": 39,
+    "summary": "用数据论证创新药估值低于半导体，看好接棒",
+    "sentiment": "positive",
+    "key_opinions": [
+      "半导体PE达122倍，创新药仅22倍，性价比高",
+      "创新药行业盈利拐点已至，中报乐观",
+      "跷跷板效应，科技调整时创新药有望表现"
+    ],
+    "mentioned_stocks": ["创新药ETF"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论韩国海力士还有哪些手段影响存储市场",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "李卡卡降杠杆是本轮回调源头",
+      "存储价格过高侵蚀数据中心成本",
+      "可能有盘外招对付韩国存储企业"
+    ],
+    "mentioned_stocks": ["海力士", "存储板块"]
+  },
+  {
+    "index": 41,
+    "summary": "调侃中公教育事件中发帖人实为男性，男娘梗",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "男扮女炒作，让人唏嘘",
+      "有色板块迎来噩耗（调侃）",
+      "成都游资可能来封板"
+    ],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 42,
+    "summary": "胜宏科技（或相关PCB）投资者亏损严重，抱怨小作文",
+    "sentiment": "negative",
+    "key_opinions": [
+      "被中公教育小作文概念抢了风头",
+      "科技股整体回调严重",
+      "亨通光电等也亏损"
+    ],
+    "mentioned_stocks": ["胜宏科技", "亨通光电"]
+  },
+  {
+    "index": 43,
+    "summary": "感觉市场急转直下，担忧股灾来临",
+    "sentiment": "negative",
+    "key_opinions": [
+      "连跌五天，七月初就如此惨烈",
+      "砸科技股导致市场崩溃",
+      "有人认为早该关门"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "幻想美股大涨，但实际只是梦境",
+    "sentiment": "negative",
+    "key_opinions": [
+      "梦中美股大涨，存储突破前高",
+      "调侃枕头垫高些",
+      "实际女大（英伟达）要红了，可能有光模块行情"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "调侃生猪周期，用段子质疑猪肉股前景",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用图片讽刺生猪贱卖，每头亏500",
+      "聪明资金提前布局，现在性价比不高",
+      "一些企业销量环比减少，需求成疑"
+    ],
+    "mentioned_stocks": ["生猪概念"]
+  },
+  {
+    "index": 46,
+    "summary": "期待A股低开高走，部分乐观准备买入",
+    "sentiment": "positive",
+    "key_opinions": [
+      "坚定做多，启动后备能源买入",
+      "有人指出实际上高开了，需要离场",
+      "猜测可能是银行拉盘"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "央行6月增持黄金创新高，讨论金价企稳可能",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金跌至年线后有企稳迹象",
+      "央行有无限子弹，调整已半年",
+      "购金并不希望金价更贵，存在分歧"
+    ],
+    "mentioned_stocks": ["黄金ETF"]
+  },
+  {
+    "index": 48,
+    "summary": "以幽默方式描述融券做空，实为调侃A股制度",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "将融券做空比喻为新发明，讽刺散户无机会",
+      "两融一直存在，但散户难接触",
+      "赚的钱终究来自别人口袋"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "分析美股科技股本次回调为史上最凶猛，涉及利润分配",
+    "sentiment": "negative",
+    "key_opinions": [
+      "一周跌30%，存储吃掉下游利润",
+      "市场逼迫利润重新分配，否则崩盘",
+      "纳指仅跌5个点，不是所有科技都硬"
+    ],
+    "mentioned_stocks": ["美光科技"]
+  },
+  {
+    "index": 50,
+    "summary": "发现美股XBI连续上涨，对应A股创新药机会",
+    "sentiment": "positive",
+    "key_opinions": [
+      "XBI是AI下游最可能出效益，可与AI上游联动",
+      "港股和A股创新药未被过分定价，存预期差",
+      "美国机构增配防御板块，两边下注"
+    ],
+    "mentioned_stocks": ["XBI", "创新药ETF"]
+  }
+]
+```
