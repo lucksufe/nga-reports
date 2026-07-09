@@ -1,0 +1,651 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论洗牌后仓位配置，多人看好有色、国产替代及半导体ETF，也有套牢者。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "下半年看多有色和国产替代链",
+      "配置赵姨、159516、588170、515050等ETF",
+      "半导体、算力、兆易等受关注"
+    ],
+    "mentioned_stocks": [
+      "赵姨",
+      "159516",
+      "588170",
+      "515050",
+      "兆易"
+    ]
+  },
+  {
+    "index": 2,
+    "summary": "探讨国家队是否砸盘，认为汇金增持且午后护盘，市场情绪分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "汇金前三天都在增持",
+      "午后国家队入场护盘拉升",
+      "砸盘后可能买回血筹"
+    ],
+    "mentioned_stocks": [
+      "科创50",
+      "中证500",
+      "中证1000"
+    ]
+  },
+  {
+    "index": 3,
+    "summary": "楼主自称傻子，发帖表达坚持分享却疲惫，反思人性恐惧亏损多于踏空。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "提示风险者被视为圣人，看多者被疑找人接盘",
+      "人们天然恐惧亏损远大于踏空",
+      "楼主累了，不再幻想影响他人"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论复利与反弹，今日大涨仍未回到前期跌幅，有人乐观期待连续上涨回本。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "今天暴涨未涨回1、2号跌幅",
+      "再来五天可能回本",
+      "部分股票已涨回，部分没有"
+    ],
+    "mentioned_stocks": [
+      "长鑫"
+    ]
+  },
+  {
+    "index": 5,
+    "summary": "ETF罕见涨超9%，有人卖飞后懊悔，感叹上周跌得同样凶。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "ETF涨9个点超出预期",
+      "上周同样幅度下跌需要信心坚持",
+      "卖飞后追悔莫及"
+    ],
+    "mentioned_stocks": [
+      "科创半导体设备ETF"
+    ]
+  },
+  {
+    "index": 6,
+    "summary": "询问光纤能否进场，多数看空，建议回避亨通光电等。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "光纤止跌不代表会涨",
+      "建议别进，亨通光电跌惨",
+      "长飞光纤跌得多但仍有风险"
+    ],
+    "mentioned_stocks": [
+      "长飞光纤",
+      "亨通光电"
+    ]
+  },
+  {
+    "index": 7,
+    "summary": "坚守者庆祝回血，全仓未减，今日大涨奖励耐心。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "全仓吃下跌一分未减，终获奖励",
+      "昨天清仓兆易被迫追高",
+      "几天抄底终见成效"
+    ],
+    "mentioned_stocks": [
+      "兆易创新",
+      "长鑫"
+    ]
+  },
+  {
+    "index": 8,
+    "summary": "调侃半岛铁盒仅10%涨停，遗憾持仓含科创板却未享20%涨幅。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "持仓科创板却只10%涨停",
+      "买的是588170"
+    ],
+    "mentioned_stocks": [
+      "半岛铁盒",
+      "588170"
+    ]
+  },
+  {
+    "index": 9,
+    "summary": "空仓者看到暴涨犹豫是否追高，担忧反转一日游。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "空仓错过暴涨，怕追高被套",
+      "导（光模块）都没怎么调整",
+      "尾盘冲进去成本更高"
+    ],
+    "mentioned_stocks": [
+      "铁盒",
+      "导（光模块）"
+    ]
+  },
+  {
+    "index": 10,
+    "summary": "质疑量化是否被暴击，多数认为量化永远赚钱。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "量化不会亏损",
+      "量化会适应市场",
+      "资金量可能是国家队拉的"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "抱怨昨日卖在最低点，心情抑郁。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "卖在最低点",
+      "要抑郁了"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "发现买错ETF，170买成710，血亏0.3%，调侃失误。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "买错成科创50",
+      "持仓类似但买错"
+    ],
+    "mentioned_stocks": [
+      "铁盒（588170）",
+      "科创50"
+    ]
+  },
+  {
+    "index": 13,
+    "summary": "刚进场全仓歌尔亏1000元，被建议买半岛铁盒。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "50万全仓歌尔亏1000",
+      "歌尔与AI不沾边买错",
+      "应该买半岛铁盒"
+    ],
+    "mentioned_stocks": [
+      "歌尔股份",
+      "半岛铁盒"
+    ]
+  },
+  {
+    "index": 14,
+    "summary": "庆祝半岛铁盒涨停，收1.945，情绪激昂。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "半岛铁盒涨停",
+      "誓死效忠"
+    ],
+    "mentioned_stocks": [
+      "半岛铁盒"
+    ]
+  },
+  {
+    "index": 15,
+    "summary": "盘前技术面预测反弹，被质疑装神弄鬼，事后有人嘲讽回击。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "5fk底背离+外围大涨预判反弹",
+      "一贴小号被骂神棍",
+      "蒙对一次就装"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "犹豫最后20分钟是否加仓，AI建议卖出1/3，分歧大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI建议卖出三分之一",
+      "冲太凶明天风险高",
+      "已加仓黄金股避开科技"
+    ],
+    "mentioned_stocks": [
+      "天赐材料"
+    ]
+  },
+  {
+    "index": 17,
+    "summary": "吐槽市场板块轮动失败，机器人、创新药、电池等均亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "机器人爆量阳三天跌完",
+      "创新药诱多",
+      "电池、证券等板块被压制"
+    ],
+    "mentioned_stocks": [
+      "机器人ETF",
+      "创新药",
+      "宁德时代",
+      "天赐材料"
+    ]
+  },
+  {
+    "index": 18,
+    "summary": "个人持仓分享，清仓中兴通信ETF，持有半导体设备等。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "清仓中兴和通信ETF",
+      "持有科创半导体设备38%等",
+      "模拟仓收益好于实仓"
+    ],
+    "mentioned_stocks": [
+      "中兴通讯",
+      "通信ETF",
+      "科创半导体设备ETF",
+      "科创芯片ETF",
+      "石英股份"
+    ]
+  },
+  {
+    "index": 19,
+    "summary": "半导体设备ETF回到7月1日价格，有人加仓获利。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "ETF收复失地",
+      "跌时加仓赚疯了"
+    ],
+    "mentioned_stocks": [
+      "半导体设备ETF"
+    ]
+  },
+  {
+    "index": 20,
+    "summary": "问长鑫上市后多久纳入ETF，解释放量原因。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "科创50放量因长鑫上市预期",
+      "理论上3个月进指数"
+    ],
+    "mentioned_stocks": [
+      "长鑫",
+      "科创50"
+    ]
+  },
+  {
+    "index": 21,
+    "summary": "讨论当前是反弹还是反转，观点分歧，看半导体持续性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能反弹到4175左右",
+      "也可能诱多闷杀",
+      "半导体可能继续吸血"
+    ],
+    "mentioned_stocks": [
+      "半导体",
+      "东山精密"
+    ]
+  },
+  {
+    "index": 22,
+    "summary": "回收看好预言，但亨通光电跌35%难以回本，用户后悔减仓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "亨通跌9天35%，回本需很久",
+      "半导体科创已回前高",
+      "出半仓科技拍断大腿"
+    ],
+    "mentioned_stocks": [
+      "半导体",
+      "科创"
+    ]
+  },
+  {
+    "index": 23,
+    "summary": "开盘高开诱多恐股灾，但午后放量爆拉成牛市，情绪逆转。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "高开诱多无增量恐股灾",
+      "结果放量锂矿都开板",
+      "牛市不言顶"
+    ],
+    "mentioned_stocks": [
+      "锂矿"
+    ]
+  },
+  {
+    "index": 24,
+    "summary": "感叹非科技板块是真正熊市，资金不断被半导体吸走。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "仅半导体强，存储CPO差点",
+      "钱不够全面涨，缩圈到688",
+      "被迫割老登股去科技"
+    ],
+    "mentioned_stocks": [
+      "半导体",
+      "存储",
+      "CPO"
+    ]
+  },
+  {
+    "index": 25,
+    "summary": "技术面看空上证，预测跳空下跌，美伊消息添忧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "上证可能直插3800",
+      "美伊又起事端",
+      "科技趴下，通信ETF海外链暴击"
+    ],
+    "mentioned_stocks": [
+      "半导体设备ETF",
+      "通信ETF"
+    ]
+  },
+  {
+    "index": 26,
+    "summary": "二选一紫光股份或华大九天，多数选紫光。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "紫光形成合力",
+      "华大不如概伦",
+      "紫光展锐未上市"
+    ],
+    "mentioned_stocks": [
+      "紫光股份",
+      "华大九天"
+    ]
+  },
+  {
+    "index": 27,
+    "summary": "尾盘加仓科技ETF，一致推荐半岛铁盒。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "加仓半导体大人或迪迦ETF",
+      "半岛铁盒为王",
+      "通信补涨不值得期待"
+    ],
+    "mentioned_stocks": [
+      "半岛铁盒",
+      "迪迦ETF"
+    ]
+  },
+  {
+    "index": 28,
+    "summary": "质疑反转，认为汪汪队不会踏空，他们已买入。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "汪汪队踏空不可能",
+      "他们买了一周科创",
+      "成交量说明一切"
+    ],
+    "mentioned_stocks": [
+      "科创"
+    ]
+  },
+  {
+    "index": 29,
+    "summary": "嘲讽科创50科技含量不如牧原，但市场热捧半导体。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科创都是骗子公司",
+      "比亚迪科技含量高但市值低",
+      "全球涨半导体，别和趋势作对"
+    ],
+    "mentioned_stocks": [
+      "科创50",
+      "牧原股份",
+      "比亚迪",
+      "宁德时代",
+      "茅台"
+    ]
+  },
+  {
+    "index": 30,
+    "summary": "调侃上涨因峰哥清仓，被视为反向指标，娱乐氛围。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "峰哥清仓成上涨原因",
+      "反向冥灯",
+      "他要进半导体了（危险）"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "感叹半岛铁盒先知先觉，前两天已反转自己却在吃瘪。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "半岛铁盒提前反转",
+      "拼尽全力无法战胜ETF"
+    ],
+    "mentioned_stocks": [
+      "半岛铁盒"
+    ]
+  },
+  {
+    "index": 32,
+    "summary": "中芯国际市值超越茅台，讨论是否开启主升浪。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "中芯启动主升浪"
+    ],
+    "mentioned_stocks": [
+      "中芯国际",
+      "贵州茅台"
+    ]
+  },
+  {
+    "index": 33,
+    "summary": "午睡错过行情，醒来受刺激，称大奇迹日。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "午睡醒来刺激大",
+      "今天是大奇迹日"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "反买锂矿计划，多数警告锂矿跌幅离谱别碰。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "碳酸锂合约跌6%",
+      "锂矿跌幅比科技还离谱",
+      "别去送人头"
+    ],
+    "mentioned_stocks": [
+      "天华新能",
+      "天齐锂业"
+    ]
+  },
+  {
+    "index": 35,
+    "summary": "回顾亏损最深的股票，亨通光电、和而泰等被提及。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亨通光电套人",
+      "和而泰一字断魂刀",
+      "利通电子8天5跌停"
+    ],
+    "mentioned_stocks": [
+      "亨通光电",
+      "和而泰",
+      "中国中免",
+      "紫金矿业",
+      "利通电子",
+      "赵姨"
+    ]
+  },
+  {
+    "index": 36,
+    "summary": "感慨ETF要涨停，坚持蛊炼成。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "ETF涨停",
+      "坚持有回报"
+    ],
+    "mentioned_stocks": [
+      "ETF"
+    ]
+  },
+  {
+    "index": 37,
+    "summary": "拥护东山精密，期待再冲一波。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "东山精密再带一次"
+    ],
+    "mentioned_stocks": [
+      "东山精密"
+    ]
+  },
+  {
+    "index": 38,
+    "summary": "科技股再次暴涨，其他板块被吸血，有人投降。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "光大人带领科技回归",
+      "主线回归全力冲",
+      "其他板块被吸干"
+    ],
+    "mentioned_stocks": [
+      "光（光模块）",
+      "医药"
+    ]
+  },
+  {
+    "index": 39,
+    "summary": "空仓者纠结明日是否追高，风险提示与机遇并存。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "确认反转吗？",
+      "明天高开可能挂树上",
+      "不如今天拿先手"
+    ],
+    "mentioned_stocks": [
+      "半岛铁盒"
+    ]
+  },
+  {
+    "index": 40,
+    "summary": "怀疑被大数据盯上导致一买就跌一卖就涨，讨论筹码分布。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "散户行为被主力收割",
+      "能看筹码分布",
+      "收割大多数即可"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "科技二波启动，情绪乐观，但也有人提醒别开香槟。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "科技二波启动爽",
+      "涨到长鑫上市",
+      "超跌反弹，老乡别走"
+    ],
+    "mentioned_stocks": [
+      "长鑫"
+    ]
+  },
+  {
+    "index": 42,
+    "summary": "推荐中国长城和东山精密，关注堆量突破机会。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "长城堆量突破可高看",
+      "担心半导体高标吸血"
+    ],
+    "mentioned_stocks": [
+      "中国长城",
+      "东山精密"
+    ]
+  },
+  {
+    "index": 43,
+    "summary": "警告老登股最后逃命机会，科技将开启历史级吸血主升。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股市核心是资金和筹码",
+      "科技吸血主升浪马上来",
+      "老登股持续阴跌"
+    ],
+    "mentioned_stocks": [
+      "科创50"
+    ]
+  },
+  {
+    "index": 44,
+    "summary": "个人持仓记录，做T中兴、石英股份，关注天赐材料。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "石英回调关注65支撑",
+      "中兴做T降成本",
+      "天赐暂时无暴跌风险"
+    ],
+    "mentioned_stocks": [
+      "石英股份",
+      "中兴通讯",
+      "天赐材料"
+    ]
+  },
+  {
+    "index": 45,
+    "summary": "担心中公教育跌到退市，无人关注。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "跌到退市",
+      "PCB虚假炒作"
+    ],
+    "mentioned_stocks": [
+      "中公教育"
+    ]
+  },
+  {
+    "index": 46,
+    "summary": "猜测中美联手做空日韩，分析宏观意图。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "汪汪队看不上散户",
+      "韩国高杠杆风险",
+      "日本无操作空间"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "发车国机精工，看好主业转型改名，目标市值500亿。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "国机精工将转金刚石主业",
+      "目标市值500亿",
+      "主力持仓五亿未走"
+    ],
+    "mentioned_stocks": [
+      "国机精工"
+    ]
+  },
+  {
+    "index": 48,
+    "summary": "全仓做T失败，成本增加，期待赵姨上涨回本。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "做T成本越做越高",
+      "赵姨再涨一天半回本"
+    ],
+    "mentioned_stocks": [
+      "赵姨"
+    ]
+  },
+  {
+    "index": 49,
+    "summary": "电池上游板块讨论，看困境反转但锂矿暴跌，情绪分化。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "开除多多叛徒",
+      "锂矿跌停，人已老实",
+      "困境反转待验证"
+    ],
+    "mentioned_stocks": [
+      "天华新能",
+      "石大胜华",
+      "孚日股份"
+    ]
+  }
+]
