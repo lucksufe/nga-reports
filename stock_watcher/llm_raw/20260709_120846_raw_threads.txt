@@ -1,0 +1,537 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论国产链近期表现优于海外链，AI硬件应选国产替代，海外链预期已兑现。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI硬件应选国产链，国产替代逻辑更强",
+      "海外链如达链年初走势虽好但并非一直强",
+      "国产链近期表现明显好于海外链"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 2,
+    "summary": "市场普跌逾4700家，指责量化画线、韩国拖累，认为在杀散户或已熊市。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "量化资金跟着韩国股市画线",
+      "市场有意让散户亏钱，已进入熊市",
+      "科创板仍逆势上涨"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "有色板块两周跌超20%，紫金矿业跌10%，讨论是否应趁反弹逃跑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "有色板块跌幅巨大，紫金矿业相对抗跌",
+      "反弹是逃跑机会，不宜恋战",
+      "后续走势悲观"
+    ],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 4,
+    "summary": "欧洲高温抢购空调，但格力、美的股价未涨，争辩出海逻辑与利润分配。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "格力出海能力弱，美的出海相对较好",
+      "空调海外溢价多被当地中间商赚走",
+      "消息早有预期，股价已部分反映"
+    ],
+    "mentioned_stocks": ["格力电器", "美的集团"]
+  },
+  {
+    "index": 5,
+    "summary": "科创板指数大涨但多数个股下跌，引发对科创硬顶和半导体独立行情的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科创板硬顶指数，实际多数票仍下跌",
+      "半导体与国外脱钩，走出独立行情",
+      "科创涨而账户亏，情绪撕裂"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "晒出连续亏损记录，感慨天天绿，希望有一日能红。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "七月几乎天天亏损",
+      "跌幅较前期有所收窄",
+      "普遍抱怨行情糟糕"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "用低俗比喻讽刺A股受韩国股市左右，缺乏独立性，情绪化发泄。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股完全跟随韩国股市波动",
+      "分析再多也改变不了跟跌属性",
+      "对A股软弱表现极度不满"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "光纤板块持续阴跌，连阴走势，讨论是否见底及套牢盘压力。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "光纤板块连续多日下跌，无底迹象",
+      "图形显示可能接近底部，但不敢进场",
+      "套牢盘巨大，即便见底也不会快速反弹"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "本金亏损从-10%扩大到-20%，心态从痛苦转为麻木无奈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损幅度加大后反而心态平静",
+      "前期盈利在七月大幅回吐",
+      "市场持续下跌令人无奈"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "询问兴森科技是否已到抄底时机，讨论其ABF载板龙头地位和高PE。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "兴森科技是国内ABF载板龙头",
+      "股价跌幅已大，但PE过高令人犹豫",
+      "部分持有者持续亏损但仍在做T"
+    ],
+    "mentioned_stocks": ["兴森科技"]
+  },
+  {
+    "index": 11,
+    "summary": "晒出七月爆亏的账户截图，表示快撑不住了。",
+    "sentiment": "negative",
+    "key_opinions": ["七月亏损严重，扛单压力巨大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "封测板块中深科技涨幅最猛，华天科技、长电科技等也有表现，讨论背后驱动。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "深科技涨势最强，可能与长鑫有关",
+      "华天科技被视为情绪龙头",
+      "通富微电表现相对较弱"
+    ],
+    "mentioned_stocks": ["深科技", "华天科技", "长电科技", "通富微电"]
+  },
+  {
+    "index": 13,
+    "summary": "萌新初入市买入中远海控，老手调侃其买入位置偏高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中远海控14元买入价格偏高",
+      "新手入市即买海狗被戏称提前毕业",
+      "建议熊市减少资金，积累经验"
+    ],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 14,
+    "summary": "认为恐慌盘尚未砸出，市场缩量阴跌，散户逐渐麻木。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "缩量表明恐慌盘并未出现",
+      "多数筹码已死扛不动，油盐不进",
+      "拉砸走势麻痹散户，可能还有一次深跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "回顾科特估和十五五规划，认为死拿科创半导体的人最终获胜，但散户拿不住。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国家明牌引导科特估主线",
+      "拿得住的人赚钱并不眼红",
+      "散户常因切换板块迷失方向"
+    ],
+    "mentioned_stocks": ["中芯国际", "华虹半导体"]
+  },
+  {
+    "index": 16,
+    "summary": "认为中芯、华虹、寒武纪已成市场真龙，下半年国产替代主线确立。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "中芯华虹寒武纪显示强逆势特征",
+      "国产替代成为下半年明确主线",
+      "长线持有中芯华虹看5年10倍"
+    ],
+    "mentioned_stocks": ["中芯国际", "华虹半导体", "寒武纪"]
+  },
+  {
+    "index": 17,
+    "summary": "盘前预测科技端反弹，提及港股恒科、沪硅产业与长鑫关联，做T经历分享。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "光通信、半导体芯片、设备表现优秀但被韩综拖累",
+      "沪硅产业与长鑫存储关联度受关注",
+      "做T易飞，市场受韩国影响剧烈波动"
+    ],
+    "mentioned_stocks": ["中际旭创", "寒武纪", "沪硅产业"]
+  },
+  {
+    "index": 18,
+    "summary": "非科技板块单边下跌，资金仅聚集于半导体，期待普涨而不现实。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "非科技板块进入真正熊市",
+      "资金不够支撑普涨，缩圈至688个股",
+      "半导体板块强者恒强，存储、CPO偏弱"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "ST闻泰因荷兰谈判消息大涨，但提醒小作文风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "荷兰谈判传来利好，带动股价大涨",
+      "多数投资者仓位已满无法参与",
+      "小心小作文引发反转"
+    ],
+    "mentioned_stocks": ["闻泰科技"]
+  },
+  {
+    "index": 20,
+    "summary": "投资者梭哈蓝色光标等AI应用股，看好昆仑万维、金山办公。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "大模型需要应用层落地才有持续性",
+      "蓝色光标、昆仑万维、金山办公被看好",
+      "昆仑万维近期温和上涨"
+    ],
+    "mentioned_stocks": ["蓝色光标", "昆仑万维", "金山办公"]
+  },
+  {
+    "index": 21,
+    "summary": "多个股票出现对子顶技术信号，引发逃跑讨论，但信号有效性被质疑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "通富微电、深科技等多股出现对子顶",
+      "对子顶不一定是准确逃跑信号",
+      "大跌环境下对子顶参考价值降低"
+    ],
+    "mentioned_stocks": ["通富微电", "沪电股份", "长飞光纤", "深科技", "亨通光电", "深南电路"]
+  },
+  {
+    "index": 22,
+    "summary": "长鑫存储拟上市融资，担忧对现有存储标的造成资金压力。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫存储巨无霸上市募资巨大",
+      "存储板块可能继续承压",
+      "中签收益有限"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "逆市尝试抄底锂矿天华新能，但多数人警告板块风险极大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "锂矿板块跌幅惊人，比科技股更甚",
+      "碳酸锂合约大跌，供求过剩",
+      "抄底锂矿胜率极低"
+    ],
+    "mentioned_stocks": ["天华新能", "天齐锂业"]
+  },
+  {
+    "index": 24,
+    "summary": "试图提振士气，认为悲观情绪席卷论坛，但逻辑上有多有空，应保持勇气。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "市场极悲观时可能接近底部",
+      "技术指标失效，只剩情绪博弈",
+      "坚持交易逻辑，不盲从恐慌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "电池板块大跌，探讨是融资盘爆仓还是欧洲政策利空所致。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "宁德时代独红，其余电池股普跌",
+      "锂矿供应过剩利空传导至产业链",
+      "可能有小作文或海外政策扰动"
+    ],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论完美世界股价可否抄底，分歧在于游戏版号、海外收入和产品预期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "异环海外收入超过国内，日元汇率有利买量",
+      "完美股价处低位，但版本更新不确定性大",
+      "部分持有者习惯做T，游资容易埋没"
+    ],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 27,
+    "summary": "锂电板块单边下杀模式与其他板块不同，讨论可能原因及未来隐忧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "锂电板块经常出现单边持续杀跌",
+      "中国掌握话语权后产业利润微薄",
+      "类似走势可能在未来机器人和航天板块重演"
+    ],
+    "mentioned_stocks": ["天华新能"]
+  },
+  {
+    "index": 28,
+    "summary": "认为半导体材料设备炒作完毕后，资金将转向国产算力产品端，提及多只个股。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "紫光、锐捷、长城、浪潮等产品端有望启动",
+      "利通电子被提及但需等方向选择",
+      "华为机柜可能带动光模块和光纤需求"
+    ],
+    "mentioned_stocks": ["紫光股份", "锐捷网络", "长城电脑", "浪潮信息", "利通电子", "寒武纪"]
+  },
+  {
+    "index": 29,
+    "summary": "韩国股市翻红，询问A股下午能否跟随赚钱。",
+    "sentiment": "positive",
+    "key_opinions": ["期望韩国走强能带动A股反弹"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "聚和材料虽有半导体材料预期，但走势完全跟随韩国股市，令人失望。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "聚和材料有掩膜版国产替代预期",
+      "走势完全跟韩股，独立行情未出现",
+      "同板块其他个股已修复，它未跟上"
+    ],
+    "mentioned_stocks": ["聚和材料"]
+  },
+  {
+    "index": 31,
+    "summary": "发帖者满仓亏损严重，提及持有海南海药和澄星股份，寻求帮助。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "一路补仓一路深跌，亏损剧烈",
+      "持仓包括海南海药和澄星股份等",
+      "感觉像是踩了业绩雷"
+    ],
+    "mentioned_stocks": ["海南海药", "星湖科技"]
+  },
+  {
+    "index": 32,
+    "summary": "预测汪汪队将在3850-3880附近入场收割，会引发暴力反弹，但底难测。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "汪汪队可能在补下方缺口后暴力反弹",
+      "救助前会让散户先互相杀跌绝望",
+      "即使指数反弹，个股未必跟涨"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "中钨高新因钨价下跌和板块拖累跌停，投资者深套，讨论基本面变化。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "钨价持续下跌拖累公司基本面",
+      "PCB板块整体下行，资金兑现后离场",
+      "此前110元目标已兑现，不宜留守"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 34,
+    "summary": "质疑汪汪队是否真的会救市，怀疑其本身就是砸盘者。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "指数仍在3900点，汪汪队可能不会出手",
+      "怀疑汪汪队主动砸盘后捡血筹",
+      "平准基金前几日减仓，市场预期悲观"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "调侃美股才是真正熊市，A股投资者用段子自嘲。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股阴跌但VIX低位，投资者少亏损",
+      "A股熊市中多数人无法盈利",
+      "美股做空也能赚钱"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "讨论新老投资者风格切换，抱达链的亏钱，而转向国产替代的赚钱。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国产替代线已涨一段时间，未切换者成为老登",
+      "去弱留强是正确思路而非高抛低吸",
+      "达链等海外线从6月末已开始调整"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "中午拉尾盘被视作诱多套路，提醒观察韩国股市走势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中午拉尾盘多为骗散户进场",
+      "开盘拉最强，尾盘拉最弱",
+      "A股走势基本是韩股影子"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "游资推荐某股票后出货，跟风者被套，提醒勿盲跟。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "游资多为隔日短线，不能长期持有",
+      "盲目跟风容易高位接盘",
+      "该股短期波动大，适合快进快出"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "市场普跌下唯有半导体上涨，投资者表示宁愿半导体虹吸全场。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "半导体板块一枝独秀，吸引场内资金",
+      "当前只有半导体和空仓两种选择",
+      "锂矿等板块跌势惨烈"
+    ],
+    "mentioned_stocks": ["盛新锂能"]
+  },
+  {
+    "index": 40,
+    "summary": "恒生科技指数图形象头尖尖，调侃其跟随A股下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "恒科被原生家庭拖累下跌",
+      "预期中的与韩国对手盘走势未实现",
+      "回本线遥远，下跌空间仍存"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "打不过就加入，新增资金平铺三个ETF，适应市场结构。",
+    "sentiment": "mixed",
+    "key_opinions": ["放弃选股，买入ETF跟随市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "中际旭创逆势拉升，但被怀疑是诱多鱼饵，下午可能回落。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中际旭创拉升疑似老乡别走",
+      "半导体同步拉，国产光器件跟涨",
+      "下午走势取决于大哥能否撑住"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 43,
+    "summary": "A股与韩国股市走势高度重叠，嘲讽已被完全控制。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股日内走势与韩国指数几乎一致",
+      "大空头休整时韩国就拉，A股跟随",
+      "两种说法都有，但跟跌跟涨同步"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "希望中公教育拉升带动情绪，但担心被砸盘。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中公教育被视作情绪指标",
+      "拉升后常被砸种砸出天线",
+      "盼望走出阳光行情"
+    ],
+    "mentioned_stocks": ["中公教育"]
+  },
+  {
+    "index": 45,
+    "summary": "询问光伏板块是否可入场，多数认为仍在下跌不宜接飞刀。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "光伏先进设备细分可能受益政策",
+      "目前仍在下跌趋势，不宜抄底",
+      "能接受腰斩才可考虑打底仓"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "关注满融阳光电源的投资者是否爆仓，股价持续下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "成本190元以上，面临强平风险",
+      "可能在170-180已卸杠杆",
+      "美国商务部利空无法证伪"
+    ],
+    "mentioned_stocks": ["阳光电源"]
+  },
+  {
+    "index": 47,
+    "summary": "智谱AI概念股解禁日不跌反涨，因基石锁仓和国家队进场。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "解禁日从大跌6%拉到涨18%",
+      "基石投资人发声长持，国家队锁仓",
+      "H200可购买缓解算力焦虑"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "兆易创新连续下跌7天，堪比ST股，光纤板块同样惨烈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "兆易创新持续阴跌超预期",
+      "光纤三傻、亨通光电等回撤巨大",
+      "主升退潮后杀伤力堪比ST"
+    ],
+    "mentioned_stocks": ["兆易创新", "亨通光电"]
+  },
+  {
+    "index": 49,
+    "summary": "盘中突然拉升又回落，形容为抽插散户。",
+    "sentiment": "mixed",
+    "key_opinions": ["瞬时拉升骗取跟风，随后摩擦套人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "询问量化交易基金是否仅限私募，想投资量化交易产品。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "公募也有少量量化基金",
+      "纯短线T0策略多为自营盘"
+    ],
+    "mentioned_stocks": []
+  }
+]
+```
