@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论兆易创新目标价960元，多空分歧大，有人看40点收益风险大，有人愿拿25点。",
+    "sentiment": "mixed",
+    "key_opinions": ["中期目标价960元不动摇", "打满40点收益风险远大于收益", "在等30日线回踩再买"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 2,
+    "summary": "质疑市场为何下跌，外围上涨但A股独立走弱，提及奶龙利空。",
+    "sentiment": "negative",
+    "key_opinions": ["外围涨A股独立行情砸盘", "没杀出割肉盘不算底", "奶龙言论是大利空"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 3,
+    "summary": "长鑫存储招股，融资290亿，担心对A股存储板块造成抽血压力。",
+    "sentiment": "mixed",
+    "key_opinions": ["大A存储标的要承压", "已承压一周可能继续", "中签收益可能仅1-2万"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论外盘上涨能否带动A股，普遍悲观认为最多少跌一点。",
+    "sentiment": "negative",
+    "key_opinions": ["外围涨我们只会少跌", "9点大A上线后可能变绿", "上周五棒子+6%A股被砸"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "盘前策略选择，有人坚守半导体，有人去石油或银保证，情绪分化。",
+    "sentiment": "mixed",
+    "key_opinions": ["死守光导存", "半导铁盒硬躺", "我在小金属被套牢"],
+    "mentioned_stocks": ["石油lof", "恒生科技"]
+  },
+  {
+    "index": 6,
+    "summary": "讽刺A股可能走独立行情高开跳水，表达失望。",
+    "sentiment": "negative",
+    "key_opinions": ["今天高开跳水稳了", "牢记祖训", "反者道之动"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "量化私募规模达万亿，散户认为被收割，呼吁监管。",
+    "sentiment": "negative",
+    "key_opinions": ["量化无敌，人与机器难打", "收益超50%苦了散户", "量化弱点是小作文"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "确认海力士美股定价时间，推测下午四点棒子收盘后。",
+    "sentiment": "neutral",
+    "key_opinions": ["下午四点棒子收盘后确认"],
+    "mentioned_stocks": ["SK海力士"]
+  },
+  {
+    "index": 9,
+    "summary": "认为市场下跌后长鑫上市预期降低，可能带来理性参与机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["跌后长鑫开价更理性", "Q2净利润800亿利好出尽", "开盘即高点类似中石油"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 10,
+    "summary": "抱怨持仓胜宏科技大幅亏损，被中公教育卡位，科技普跌。",
+    "sentiment": "negative",
+    "key_opinions": ["亏麻了说好安心旅游", "被中公大哥卡身位", "科技都麻"],
+    "mentioned_stocks": ["胜宏科技", "中公教育", "亨通光电"]
+  },
+  {
+    "index": 11,
+    "summary": "短线韩国市场套利策略，开盘买A股开盘前卖。",
+    "sentiment": "neutral",
+    "key_opinions": ["小韩无风险套利"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "市场哀嚎，后悔加仓，但美光闪迪大涨带来一丝希望。",
+    "sentiment": "negative",
+    "key_opinions": ["昨天加仓加错了", "美光闪迪大涨", "不连续九个圣杯就反弹"],
+    "mentioned_stocks": ["美光", "闪迪"]
+  },
+  {
+    "index": 13,
+    "summary": "调查股民投入股市的资金比例，从10%到700%不等。",
+    "sentiment": "mixed",
+    "key_opinions": ["120%仓位", "满仓闷了个大的", "3-4层最合适"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "预测借外围利好高开跳水骗炮，多数认同会冲高回落。",
+    "sentiment": "negative",
+    "key_opinions": ["高开骗炮概率大", "五层楼理论稳了", "欧巴稳不住铁跳水"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "外围大涨呼牛归，但担忧A股独立行情继续挨打。",
+    "sentiment": "mixed",
+    "key_opinions": ["费城半导体涨2.23%", "直接独立行情接着打", "九点半棒子就绿了"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 16,
+    "summary": "看好宜安科技液态金属主轴用于苹果折叠机，坚信翻倍。",
+    "sentiment": "positive",
+    "key_opinions": ["全球唯一稳定量产液态金属主轴", "产能可能超预期", "暴跌后带血筹码是机会"],
+    "mentioned_stocks": ["宜安科技"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论期货高杠杆巨大风险，爆仓案例生动。",
+    "sentiment": "mixed",
+    "key_opinions": ["杠杆高一个涨跌停爆仓", "原油宝穿仓事件", "日内来回插针方向对也亏钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "院士大会聚焦人工智能，认为利好科技，资金可能响应。",
+    "sentiment": "positive",
+    "key_opinions": ["院士大会一半讲AI", "华为昇腾明天大阳线？", "领导讲话级别高资金重视"],
+    "mentioned_stocks": ["华为昇腾"]
+  },
+  {
+    "index": 19,
+    "summary": "调侃无限子弹买入策略，反正补仓总能回本。",
+    "sentiment": "mixed",
+    "key_opinions": ["无限子弹随便B", "反弹一波能回本", "只要不最后来个S就行"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "长鑫招股书将上，年化3600亿利润传闻，担忧虹吸效应。",
+    "sentiment": "mixed",
+    "key_opinions": ["长鑫Q2净利800亿全年3600亿", "不被吸干都偷笑", "可能带不动兆易双头"],
+    "mentioned_stocks": ["长鑫存储", "兆易创新"]
+  },
+  {
+    "index": 21,
+    "summary": "新股民14元买入中远海控，被赞提前毕业，但有风险提醒。",
+    "sentiment": "mixed",
+    "key_opinions": ["入市买海狗赢下所有", "14块老哥们都是卖的", "现在刚进熊市做中长线必亏"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 22,
+    "summary": "探讨是否转投医药避险，观点分歧，有的建议空仓或大市值。",
+    "sentiment": "mixed",
+    "key_opinions": ["越烂越炒药可能好", "没被套牢建议空仓", "只能买千亿大屁股"],
+    "mentioned_stocks": ["海南海药", "药明康德", "亚振家居", "信而泰"]
+  },
+  {
+    "index": 23,
+    "summary": "韩国股市高开，乐观中带调侃，随时准备变脸。",
+    "sentiment": "mixed",
+    "key_opinions": ["开门红麻袋装钱", "一会就绿了", "独立行情跌了我们就走"],
+    "mentioned_stocks": ["SK海力士"]
+  },
+  {
+    "index": 24,
+    "summary": "用李在明梗图表达对今日行情的乐观期待。",
+    "sentiment": "positive",
+    "key_opinions": ["赛前开香槟不记打", "伊朗关海峡助兴", "李在明亏了算我的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "赌韩国股市几点高开后回落，多数悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["9:20前变棒子", "昨天中午偷袭跳水", "已经开跳了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "警惕重演上周五棒子大涨A股被砸，建议高开就跑。",
+    "sentiment": "negative",
+    "key_opinions": ["上周五棒子+6%A股被砸", "gjd天量砸盘", "高开就跑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "长鑫7月16日申购，顶格需1672万，讨论发行价。",
+    "sentiment": "neutral",
+    "key_opinions": ["顶格申购1672万", "发行价估计四十多", "科创板新股"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 28,
+    "summary": "美股V反、海力士大涨，认为科技调整结束，期待反弹。",
+    "sentiment": "positive",
+    "key_opinions": ["美股V回来科技调整结束", "海力士带头冲锋", "回来吧光芯导存"],
+    "mentioned_stocks": ["SK海力士"]
+  },
+  {
+    "index": 29,
+    "summary": "担心情绪一致看涨时被砸，长鑫通告后仍不踏实。",
+    "sentiment": "negative",
+    "key_opinions": ["情绪一致看涨就得砸", "涨多了必跌", "每次信心爆棚被打脸"],
+    "mentioned_stocks": ["长鑫存储", "兆易创新"]
+  },
+  {
+    "index": 30,
+    "summary": "认为科技行情结束将A杀，AI硬件拖累全链，半导体相对强。",
+    "sentiment": "negative",
+    "key_opinions": ["科技直接A下去", "AI硬件死了全链才活", "半岛爹没跌真科技"],
+    "mentioned_stocks": ["恒生科技"]
+  },
+  {
+    "index": 31,
+    "summary": "观测视觉中国企稳，考虑二次回踩加仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["下杀到贸易战价位", "昨日背离收阳企稳", "二次回踩可加仓"],
+    "mentioned_stocks": ["视觉中国"]
+  },
+  {
+    "index": 32,
+    "summary": "仅发一张图片无文字，内容不明。",
+    "sentiment": "neutral",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "国恩股份形态好看，涉及peek材料，有人推荐。",
+    "sentiment": "positive",
+    "key_opinions": ["形态好看心动", "光哥的票蹭塑料概念", "AI也推荐了"],
+    "mentioned_stocks": ["国恩股份"]
+  },
+  {
+    "index": 34,
+    "summary": "警告持有老登股者，科技下跌可能带崩全市场，高股息相对安全。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技顶部泥沙俱下老登也跌", "股息率8%不怕", "老登科技为对手盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "账户显示亏损不符，怀疑持仓分红后卖出补扣红利税。",
+    "sentiment": "negative",
+    "key_opinions": ["凭空多出几千亏损", "可能补扣红利税", "铁盒亏1万还补税"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 36,
+    "summary": "在悲观中呼吁鼓起勇气，认为情绪极致是机会。",
+    "sentiment": "positive",
+    "key_opinions": ["多头全被打趴无人敢抄底", "技术指标失效只剩情绪", "不要成为下一个老登"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "期待美股收红、长鑫加速带来全面反攻，但套牢盘重。",
+    "sentiment": "mixed",
+    "key_opinions": ["长鑫加速上可能是上面意思", "巨量套牢盘需磨底", "情绪起来市场还要跌"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 38,
+    "summary": "锂板块继续悲观，累库日看空。",
+    "sentiment": "negative",
+    "key_opinions": ["碳酸锂狗屎板块", "法定累库日砸盘", "反抽继续挨打"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "散户已形成半夜看美盘的生物钟，交易生活调侃。",
+    "sentiment": "neutral",
+    "key_opinions": ["半夜醒看纳指", "早上看日韩晚上看美股", "氪金手游式关注"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "特朗普平仓言论影响油价，讽刺其操纵市场。",
+    "sentiment": "mixed",
+    "key_opinions": ["不要跟懂王博弈", "他发言前机构提前开单", "特朗普做空"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "紫金矿业逆势上涨，解释为超跌反弹、黄金企稳和半年报预期。",
+    "sentiment": "positive",
+    "key_opinions": ["价值回归美国给30-40PE", "超跌不该这么低", "下半年求稳买黄金股"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论取消量化利弊，散户普遍认为不公平。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化提供流动性税收", "散户T+1量化T+0收割", "取消不可能"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "散户懊悔割肉，误操作梭哈普冉股份。",
+    "sentiment": "negative",
+    "key_opinions": ["割了龟龟和姨", "点错梭哈普冉", "跳水破防"],
+    "mentioned_stocks": ["兆易创新", "普冉股份"]
+  },
+  {
+    "index": 44,
+    "summary": "预感下半年国产科技股将吸走北美链资金。",
+    "sentiment": "mixed",
+    "key_opinions": ["中大哥半死不活", "长鑫新王上市国产链吸金", "再吸中成老登"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "7月9日哀嚎楼，盖楼发泄亏钱情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["哀莫大于心死", "补仓后打仗睡不好", "海力士底稳住"],
+    "mentioned_stocks": ["SK海力士"]
+  },
+  {
+    "index": 46,
+    "summary": "海力士美股IPO超7倍认购，推断砸盘是为拿低价筹码。",
+    "sentiment": "mixed",
+    "key_opinions": ["华尔街砸二级市场抢一级筹码", "这段时间大跌拿低价", "太极实业被砸25点"],
+    "mentioned_stocks": ["SK海力士", "太极实业"]
+  },
+  {
+    "index": 47,
+    "summary": "认为海力士上市后太极实业有望主升，但主力已跑不少。",
+    "sentiment": "positive",
+    "key_opinions": ["太极实业最相关且便宜", "高点回撤大风险有限", "半年报可能吃跌停"],
+    "mentioned_stocks": ["太极实业", "雅克科技", "江丰电子"]
+  },
+  {
+    "index": 48,
+    "summary": "中国巨石利润回撤严重，电子布涨价逻辑遭情绪杀。",
+    "sentiment": "negative",
+    "key_opinions": ["利润快清零", "电子布涨价但被情绪杀", "不到250不下车"],
+    "mentioned_stocks": ["中国巨石", "亨通光电"]
+  },
+  {
+    "index": 49,
+    "summary": "电池上游材料真爱楼，锂矿去库但股价阴跌，无奈坚守。",
+    "sentiment": "mixed",
+    "key_opinions": ["锂矿去库排产增加股价跌", "天华新能石大胜华等", "材料中报发布讨论"],
+    "mentioned_stocks": ["天华新能", "石大胜华", "孚日股份"]
+  },
+  {
+    "index": 50,
+    "summary": "长鑫上会预期虹吸资金，半导体借势第三浪恐到顶。",
+    "sentiment": "mixed",
+    "key_opinions": ["包虹吸资金", "国产替代是主线", "计算器按到2030怕利好落地"],
+    "mentioned_stocks": ["长鑫存储", "兆易创新", "雅克科技"]
+  }
+]
+```

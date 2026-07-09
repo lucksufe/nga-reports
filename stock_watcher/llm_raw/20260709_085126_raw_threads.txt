@@ -1,0 +1,21 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论兆易创新目标价960元，多空分歧，有人看好中期，有人担忧风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["楼主看多兆易，认为677.77是好价格", "有人觉得风险大于收益，40点也拿", "等待30日线回踩，不追高"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 2,
+    "summary": "质疑A股为何在外围上涨时独立下跌，情绪悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["奶龙利空导致大跌", "没杀出割肉盘不算底", "A股走独立行情砸盘无需理由"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "长鑫存储即将上市，讨论发行价与中签收益，部分担忧存储板块承压。",
+    "sentiment": "mixed",
+    "key_opinions": ["长鑫发行股本大，一签可能赚1-2万", "大A存储标的已承压一周"],
