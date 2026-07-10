@@ -1,0 +1,538 @@
+[
+  {
+    "index": 1,
+    "summary": "游戏板块暑期档被看好，但用户对巨人、三七、完美等股票意见分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "游戏板块暑期档表现乐观。",
+      "巨人网络有业绩和低负债优势。",
+      "建议配置游戏ETF高抛低吸。"
+    ],
+    "mentioned_stocks": ["巨人网络", "三七互娱", "完美世界", "游戏ETF"]
+  },
+  {
+    "index": 2,
+    "summary": "用户声称有美股财报消息但未透露，引发社区不满和质疑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "用户有消息不说，被称为谜语人。",
+      "社区认为应分享或闭嘴。",
+      "消息可能涉及大雷。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "完美世界股价持续下跌，跌破支撑位，用户悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价已破所有支撑位。",
+      "建议等股价更低时再买入。",
+      "用游戏术语比喻股价行为。"
+    ],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 4,
+    "summary": "工业富联和紫光等股票被看好，鼓励上车。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "紫光板块龙头业绩已验证。",
+      "建议速度上车。",
+      "国算今天表现硬。"
+    ],
+    "mentioned_stocks": ["工业富联", "紫光", "国算"]
+  },
+  {
+    "index": 5,
+    "summary": "恒生科技ETF可能反转，用户分享投资经验。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "恒生科技ETF可能反转。",
+      "用户被套但今天回本。",
+      "试水ETF投资。"
+    ],
+    "mentioned_stocks": ["恒生科技ETF"]
+  },
+  {
+    "index": 6,
+    "summary": "光导股票可能需回踩前低才能重新上涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能走双头或突破。",
+      "需等散户破防才拉。",
+      "两种可能性分析。"
+    ],
+    "mentioned_stocks": ["光导"]
+  },
+  {
+    "index": 7,
+    "summary": "用户短期获利丰厚想辞职，社区警告风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "短期获利可能只是运气。",
+      "股市波动大，一天可能亏回。",
+      "建议谨慎辞职。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "用户投资屡次失败，抄作业也亏，情绪低落。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "抄作业易失败。",
+      "建议买ETF降低风险。",
+      "市场轮动快，难把握。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "半导体板块可能下午拉升，但风险大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "半导体常V形反转。",
+      "现在追高可能抄顶。",
+      "参考韩国市场V形走势。"
+    ],
+    "mentioned_stocks": ["半导体板块"]
+  },
+  {
+    "index": 10,
+    "summary": "中国巨石股价在高位，用户调侃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价在山顶。",
+      "决战到250目标价。"
+    ],
+    "mentioned_stocks": ["中国巨石"]
+  },
+  {
+    "index": 11,
+    "summary": "科技股可能洗盘或诱多，资金高低切换。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "昨天放量拉科技，今天下杀。",
+      "资金流向老板块如消费医药。",
+      "科技行情可能未结束。"
+    ],
+    "mentioned_stocks": ["科技板块", "AI科技"]
+  },
+  {
+    "index": 12,
+    "summary": "紫金矿业股价下跌，用户关注业绩。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价跌停。",
+      "国内有色庄家脏。",
+      "业绩可能超预期但股价不振。"
+    ],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 13,
+    "summary": "茅台和中兴股价走势对称，老钱不甘心。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "茅台品牌好但其他白酒股不配。",
+      "白酒行业未来可能萎缩。",
+      "资金轮动类似科技。"
+    ],
+    "mentioned_stocks": ["贵州茅台", "中兴通讯"]
+  },
+  {
+    "index": 14,
+    "summary": "用户追高科技股被套，询问下周是否有解套机会。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "追高风险大。",
+      "建议看中大哥走势。",
+      "可能需长期持有。"
+    ],
+    "mentioned_stocks": ["芯片", "电子股"]
+  },
+  {
+    "index": 15,
+    "summary": "韩国暂停量化交易，海力士股价拉升。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国暂停量化交易。",
+      "海力士股价拉升。",
+      "量化对市场影响讨论。"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 16,
+    "summary": "彤程新材股价大跌，用户询问原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价下跌狠。",
+      "可能业绩差。",
+      "材料板块整体问题。"
+    ],
+    "mentioned_stocks": ["彤程新材", "鼎龙"]
+  },
+  {
+    "index": 17,
+    "summary": "海狗股票波动小，做T难。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股票波动小，做T难。",
+      "最近有回购，股价稳。",
+      "建议低位不做T。"
+    ],
+    "mentioned_stocks": ["海狗"]
+  },
+  {
+    "index": 18,
+    "summary": "科技原材料如稀土可能有限价，影响利润。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "原材料出口限价可能。",
+      "国内供应价格或受限制。",
+      "算力金属利润高峰可能过去。"
+    ],
+    "mentioned_stocks": ["稀土", "钨", "锗", "锆"]
+  },
+  {
+    "index": 19,
+    "summary": "用户清仓离场，认为自己不适合炒股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "清仓离场。",
+      "自认不适合炒股。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "影视院线板块被拉升，但行业前景差，用户质疑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "影视行业被短视频挤压。",
+      "炒暑期档概念。",
+      "板块轮动雨露均沾。"
+    ],
+    "mentioned_stocks": ["影视院线板块"]
+  },
+  {
+    "index": 21,
+    "summary": "基金漂移行为，可能同时吃多个板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "基金漂移吃科技和其他板块。",
+      "指数到头但机构割韭菜。",
+      "有钱听指挥。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "昊华能源股价突然下跌，可能被中船带崩。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "昊华庄家有问题。",
+      "中船-12%影响板块。",
+      "早盘拉高后杀跌恶劣。"
+    ],
+    "mentioned_stocks": ["昊华能源", "中船"]
+  },
+  {
+    "index": 23,
+    "summary": "兆易创新股价高开低走，类似德明利走势，可能后续上涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "兆易创新和德明利走势类似。",
+      "德明利后续主升浪。",
+      "兆易创新可能双底后上涨。"
+    ],
+    "mentioned_stocks": ["兆易创新", "德明利"]
+  },
+  {
+    "index": 24,
+    "summary": "科技跌老登涨，市场轮动，用户担忧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "老登板块日常涨后跌。",
+      "长鑫上市可能吸血。",
+      "老登跌无可跌，风险在杂毛科技。"
+    ],
+    "mentioned_stocks": ["房地产", "黄金", "医药", "锂电"]
+  },
+  {
+    "index": 25,
+    "summary": "兆易创新成交量巨大，可能后续抛压大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "成交额近400亿。",
+      "若不收回，下个交易日抛压大。",
+      "机构可能出货。"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 26,
+    "summary": "中大哥股价下跌，可能因指数调控。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "防止市场过热。",
+      "体量大成调控股指工具。",
+      "新大哥可能是中兴。"
+    ],
+    "mentioned_stocks": ["中大哥", "中兴"]
+  },
+  {
+    "index": 27,
+    "summary": "市场分化，科技抱团松动，老板块反弹。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技冲高回落，煤炭拉红。",
+      "分歧是好事，可能冲新高。",
+      "建议用ETF投资。"
+    ],
+    "mentioned_stocks": ["飞龙", "光纤存储", "煤炭"]
+  },
+  {
+    "index": 28,
+    "summary": "普涨行情，用户回血但整体还亏。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "普涨回血。",
+      "本月还亏5%。",
+      "期待下周回本。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "XBI涨5周，创新药可能有机会，但港股定价低。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "XBI涨5周，纳指调整。",
+      "创新药有预期差。",
+      "可能利好AI上游。"
+    ],
+    "mentioned_stocks": ["XBI", "创新药"]
+  },
+  {
+    "index": 30,
+    "summary": "长十乙首次网式回收，可能成功或失败。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "首次网式回收。",
+      "成功或失败都可能砸盘。",
+      "商航资金洗盘厉害。"
+    ],
+    "mentioned_stocks": ["长十乙"]
+  },
+  {
+    "index": 31,
+    "summary": "科技股放量下跌，可能出货。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股绿盘。",
+      "可能出货给其他概念。",
+      "完成指数主升任务。"
+    ],
+    "mentioned_stocks": ["科技板块"]
+  },
+  {
+    "index": 32,
+    "summary": "医药股不受待见，但科技风险高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "医药股溢价低。",
+      "与科技跷跷板。",
+      "创新药可能二波。"
+    ],
+    "mentioned_stocks": ["医药股", "创新药"]
+  },
+  {
+    "index": 33,
+    "summary": "市场反常，业绩好股价跌，业绩差股价涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "明牌业绩好可能被砸。",
+      "业绩差有变好预期。",
+      "股价已兑现预期。"
+    ],
+    "mentioned_stocks": ["浪潮", "中公"]
+  },
+  {
+    "index": 34,
+    "summary": "科技股可能高位接盘，建议谨慎。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "七月利好可能骗散户。",
+      "开盘拉高应跑。",
+      "现在跑两头挨打。"
+    ],
+    "mentioned_stocks": ["科技股", "半导体存储"]
+  },
+  {
+    "index": 35,
+    "summary": "用户轻仓套牢，考虑是否入场科技。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中大哥软了。",
+      "建议箱体震荡操作。",
+      "红利投资更安心。"
+    ],
+    "mentioned_stocks": ["科技股", "红利"]
+  },
+  {
+    "index": 36,
+    "summary": "建信ETF放开申购限额。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "纳斯达克100可买10万。",
+      "微信推广。",
+      "建信新兴ETF曾大跌。"
+    ],
+    "mentioned_stocks": ["建信纳斯达克ETF", "建信新兴市场ETF"]
+  },
+  {
+    "index": 37,
+    "summary": "兆易创新目标价960元，用户分享操作。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "当前价格好。",
+      "中期目标960元。",
+      "用户操作有收益。"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 38,
+    "summary": "用户在不同板块切换亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "通讯ETF挨打。",
+      "创新药卖后起飞。",
+      "频繁交易导致亏损。"
+    ],
+    "mentioned_stocks": ["通讯ETF", "创新药"]
+  },
+  {
+    "index": 39,
+    "summary": "利通股票可能下午跳水。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "可能跳水。",
+      "算力板块拉高。",
+      "后半年轮动到国产算力。"
+    ],
+    "mentioned_stocks": ["利通", "宏景", "协创", "美团"]
+  },
+  {
+    "index": 40,
+    "summary": "兆易创新高开低走，用户疑惑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高开回踩缺口。",
+      "业绩一般。",
+      "可能下午V起来。"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 41,
+    "summary": "半导体投资历史类似，现在可能有周期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "半导体曾被称夕阳行业。",
+      "大基金周期定制。",
+      "蔡经理老鼠仓。"
+    ],
+    "mentioned_stocks": ["诺安成长", "半导体板块"]
+  },
+  {
+    "index": 42,
+    "summary": "用户高价买入兆易创新被套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高位买入被套。",
+      "跌停可能性讨论。",
+      "参考镁光财报后回调。"
+    ],
+    "mentioned_stocks": ["兆易创新", "长电"]
+  },
+  {
+    "index": 43,
+    "summary": "比亚迪股价出现对子顶88.88，主力操控。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价卡88.88。",
+      "主力操控散户。",
+      "套牢盘多。"
+    ],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 44,
+    "summary": "科技股放量下跌，资金流向老板块。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "放量时杀AI硬科技。",
+      "拉白酒房地产零售。",
+      "中大哥需情绪推动。"
+    ],
+    "mentioned_stocks": ["AI硬科技", "白酒", "房地产", "零售"]
+  },
+  {
+    "index": 45,
+    "summary": "同花顺消息可能嘲讽芯片投资者。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "消息阴阳。",
+      "主力可能左右舆论。"
+    ],
+    "mentioned_stocks": ["芯片"]
+  },
+  {
+    "index": 46,
+    "summary": "建议买科创50指数，等回调。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "板块切换难。",
+      "科创50回调到位可买。",
+      "科技行情未结束。"
+    ],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 47,
+    "summary": "砸盘时间提前，量化抢跑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "砸盘时间提前。",
+      "量化卷。",
+      "追高时间段变短。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "科技ETF涨停，可能为出货或准备长鑫上市。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能拉高出货。",
+      "资金抽准备长鑫。",
+      "放量几千亿不可能一天出完。"
+    ],
+    "mentioned_stocks": ["科技ETF", "长鑫"]
+  },
+  {
+    "index": 49,
+    "summary": "市场高开常砸盘，用户屡次犯错。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高开必砸规律。",
+      "用户心理不敌市场。",
+      "建议短线操作。"
+    ],
+    "mentioned_stocks": []
+  }
+]
