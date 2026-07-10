@@ -1,0 +1,345 @@
+[
+  {
+    "index": 1,
+    "summary": "用户对创业板和科技龙头股阴包阳走势感到恐慌，担忧市场下跌中继。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板、科技龙头股阴包阳，下跌中继走势。", "市场情绪恐慌，大佬不出按摩。", "趋势破了该走就得走。"],
+    "mentioned_stocks": ["科技龙头股"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论如何避免情绪化操作，用户分享做T失败经历，强调纪律重要性。",
+    "sentiment": "negative",
+    "key_opinions": ["做T是情绪化操作，需严格执行目标价。", "喜欢做T赚不到大钱。", "交易前需整理情绪。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "建议冷静等待，可能二次探底，关注美股表现和市场双头风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["等今明天美股表现，韩股不用看。", "可能探底，但需考虑双头形成。", "亏损时需保持冷静。"],
+    "mentioned_stocks": ["美股", "韩股"]
+  },
+  {
+    "index": 4,
+    "summary": "认为今天是抄底科技机会，但市场情绪差，宁德时代等龙头砸盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股下跌是抄底机会。", "市场情绪不稳定，周末风险高。", "宁德时代等龙头无故砸盘。"],
+    "mentioned_stocks": ["中际", "宁德时代"]
+  },
+  {
+    "index": 5,
+    "summary": "用户定规矩避免早盘交易，分享早盘追高被套经历，建议尾盘操作。",
+    "sentiment": "negative",
+    "key_opinions": ["早盘交易风险高，易情绪化。", "可设规则如10点前超3%就清仓。", "尾盘交易更安全。"],
+    "mentioned_stocks": ["半导体ETF"]
+  },
+  {
+    "index": 6,
+    "summary": "质疑市场变态，询问系统性风险，认为量化主控导致猴市。",
+    "sentiment": "negative",
+    "key_opinions": ["市场波动大，量化主控如猴市。", "无明显系统性风险但大涨大跌。", "量化预判散户预判。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论是否敢抄底科技股，有恐惧也有贪婪，建议尾盘抄底。",
+    "sentiment": "mixed",
+    "key_opinions": ["走势差，不敢轻易抄底。", "尾盘抄底策略更稳妥。", "需避免追高被埋。"],
+    "mentioned_stocks": ["科创ETF", "亨通光电"]
+  },
+  {
+    "index": 8,
+    "summary": "吐槽大A市场在好消息日跳水，量化主控市场。",
+    "sentiment": "negative",
+    "key_opinions": ["市场在好消息下跳水。", "量化主控，预判散户行为。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "批评市场信心易失，长鑫上市难赚钱，主力出货散户接盘。",
+    "sentiment": "negative",
+    "key_opinions": ["市场无脑砸盘，信心脆弱。", "主力趁机出货，散户接盘。", "市场如赌博，难赚钱。"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论大资金灵活而散户易被套，因提前埋伏和程序化操作。",
+    "sentiment": "negative",
+    "key_opinions": ["大资金提前埋伏，定市场买卖点。", "量化程序化操作，无人性。", "散户FOMO导致亏损。"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 11,
+    "summary": "用户表达绝望，决定清仓退出股市。",
+    "sentiment": "negative",
+    "key_opinions": ["绝望情绪，清仓不炒股。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "质疑宁德时代大跌原因，受比亚迪竞争和行业资金抛弃影响。",
+    "sentiment": "negative",
+    "key_opinions": ["宁德时代市占率高但估值低。", "受比亚迪竞争影响。", "新能源行业资金大规模抛弃。"],
+    "mentioned_stocks": ["宁德时代", "比亚迪"]
+  },
+  {
+    "index": 13,
+    "summary": "对比半导体和航天板块，指出热点转移。",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体派之前吃香，现在航天派崛起。"],
+    "mentioned_stocks": ["半导体", "航天"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论宁德时代大跌，盘整过久、利润受压和竞争加剧。",
+    "sentiment": "negative",
+    "key_opinions": ["盘整太久导致下跌。", "锂电利润受压，整车行业爆了。", "宁德时代和比亚迪竞争加剧。"],
+    "mentioned_stocks": ["宁德时代", "比亚迪", "锂电", "整车"]
+  },
+  {
+    "index": 15,
+    "summary": "用户分享7月全错操作，科技股浮盈全亏，满仓满融导致大亏。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股操作失误，浮盈全亏。", "追涨杀跌，被市场惩罚。", "满仓满融放大亏损。"],
+    "mentioned_stocks": ["科技股", "小金属"]
+  },
+  {
+    "index": 16,
+    "summary": "描述市场一天KTV一天ICU，情绪极端波动，踏空追高惨。",
+    "sentiment": "negative",
+    "key_opinions": ["市场情绪极端，一阳改三观。", "昨天踏空追高今天惨。", "做T也可能亏损。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "担忧科技调整，热点转向航天，考虑超跌板块如锂。",
+    "sentiment": "negative",
+    "key_opinions": ["科技调整正常，但热点转航天。", "科技板块可能持续下跌。", "可关注超跌板块如锂。"],
+    "mentioned_stocks": ["科技", "航天", "锂"]
+  },
+  {
+    "index": 18,
+    "summary": "指出4000+股票上涨但指数绿，科技权重高导致分化。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技板块与其他板块对手盘。", "科技权重高影响指数。", "不玩科技月走还行。"],
+    "mentioned_stocks": ["科技", "白酒", "猪猪"]
+  },
+  {
+    "index": 19,
+    "summary": "骂宁德时代PPT小作文恶心人，希望锂电行业死。",
+    "sentiment": "negative",
+    "key_opinions": ["宁德时代PPT小作文恶心人。", "锂电行业存在问题。"],
+    "mentioned_stocks": ["宁德时代", "锂电"]
+  },
+  {
+    "index": 20,
+    "summary": "看热股榜前三行业大哥下跌，暗示市场状况。",
+    "sentiment": "mixed",
+    "key_opinions": ["热股榜行业大哥下跌。", "跌幅相对其他板块较小。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "询问商业航天ETF下周一是否有溢价，投机心态。",
+    "sentiment": "mixed",
+    "key_opinions": ["买有溢价的ETF需快进快出。", "打板进可能亏损。"],
+    "mentioned_stocks": ["商业航天ETF"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论百邦科技，电子零件供给AI利好二手和维修，但股价波动。",
+    "sentiment": "mixed",
+    "key_opinions": ["电子零件供给AI，利好二手市场。", "逻辑合理但股价波动大。"],
+    "mentioned_stocks": ["百邦科技"]
+  },
+  {
+    "index": 23,
+    "summary": "吐槽创业板指数超主板后波动不断，可作为指标。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板超主板引发波动。", "创业板指数可成为市场指标。"],
+    "mentioned_stocks": ["创业板", "主板"]
+  },
+  {
+    "index": 24,
+    "summary": "盘面恶心，盈利回吐并亏损，选择空仓。",
+    "sentiment": "negative",
+    "key_opinions": ["盈利回吐并亏损。", "空仓避免进一步损失。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "七月主线任务回本，进展不佳，场外基金亏损不舍割肉。",
+    "sentiment": "negative",
+    "key_opinions": ["回本任务难完成。", "场外基金亏损不舍割肉。", "月亏15点难回本。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "清个股全仓ETF，避免量化，转向长线投资。",
+    "sentiment": "negative",
+    "key_opinions": ["散户短线不敌量化。", "买ETF只看收盘价。", "长线认准逻辑和主线。"],
+    "mentioned_stocks": ["半导体设备ETF", "科创芯片ETF"]
+  },
+  {
+    "index": 27,
+    "summary": "希望周五不跳水，但盘面恶心，科技股下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["周五常跳水。", "科技股下跌导致盘面差。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "时局图暗示市场状况，缺电池和光模块。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场时局如图。", "缺电池和光模块等板块。"],
+    "mentioned_stocks": ["电池", "光模块"]
+  },
+  {
+    "index": 29,
+    "summary": "道德观高不适合炒股，市场不道德调戏散户。",
+    "sentiment": "negative",
+    "key_opinions": ["市场不道德，调戏散户。", "散户无可奈何。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "看好游戏板块暑期档，推荐巨人、三七、完美等股。",
+    "sentiment": "positive",
+    "key_opinions": ["游戏股狂飙，暑期档看好。", "业绩逻辑支持，如巨人、三七。", "配置游戏ETF高抛低吸。"],
+    "mentioned_stocks": ["巨人网络", "三七互娱", "完美世界", "世纪华通", "游戏ETF"]
+  },
+  {
+    "index": 31,
+    "summary": "判断双头已成，放量下跌，看跌市场。",
+    "sentiment": "negative",
+    "key_opinions": ["双头形成，下跌趋势。", "有人质疑双头定义。", "长期看跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "现在是猴市，散户难判断市场趋势。",
+    "sentiment": "negative",
+    "key_opinions": ["市场如猴市，波动大。", "散户无法判断趋势。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "创业板准备跌完昨天涨幅，市场恶劣。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板涨幅跌回。", "市场恶劣，来回杀人。"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 34,
+    "summary": "下午回撤多，情绪差，主力和量化坏。",
+    "sentiment": "negative",
+    "key_opinions": ["回撤大，情绪不好。", "主力和量化坏。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "建沉默楼表达沉默，乱纪元需脱水（空仓）。",
+    "sentiment": "mixed",
+    "key_opinions": ["沉默表达市场状况。", "乱纪元需脱水（空仓）。", "防止大起大涨。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "旅游股下跌，股东套牢，大盘涨但指数绿。",
+    "sentiment": "negative",
+    "key_opinions": ["旅游股下跌，股东套牢。", "大盘涨但指数绿。"],
+    "mentioned_stocks": ["旅游股"]
+  },
+  {
+    "index": 37,
+    "summary": "问阳光电源满融哥是否还活着，警示杠杆风险。",
+    "sentiment": "negative",
+    "key_opinions": ["满融杠杆风险高。", "可能爆仓。", "警示不要加杠杆。"],
+    "mentioned_stocks": ["阳光电源"]
+  },
+  {
+    "index": 38,
+    "summary": "小孩跳高撞头比喻市场，价格是分母，利好是分子。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场如撞天花板。", "价格是分母，利好是分子。", "天花板低暗示长不高。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "锂电新能源杀跌手痒，宁德时代、阳光电源破位，亏损多。",
+    "sentiment": "negative",
+    "key_opinions": ["宁德时代、阳光电源破位下跌。", "新能源行业亏损经历多。", "不如去国产算力链。"],
+    "mentioned_stocks": ["宁德时代", "阳光电源", "比亚迪", "锂电"]
+  },
+  {
+    "index": 40,
+    "summary": "存储股巨亏，如李虎、朱一明，可能爆杠杆。",
+    "sentiment": "negative",
+    "key_opinions": ["存储股振幅大，亏损重。", "可能爆杠杆。"],
+    "mentioned_stocks": ["存储", "李虎", "朱一明", "赵姨"]
+  },
+  {
+    "index": 41,
+    "summary": "昨天梦美今天痛，科技热钱去航天，科技要死。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股热钱转航天，科技可能死。", "从盈利到亏本金。", "昨天熊市急涨，今天牛市急跌。"],
+    "mentioned_stocks": ["科技", "航天"]
+  },
+  {
+    "index": 42,
+    "summary": "一夜回到前天，收益跌，追高被套。",
+    "sentiment": "negative",
+    "key_opinions": ["追高被套，收益回撤。", "等周末利好。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "中船特气哀嚎楼，监控结束可能反弹，持股等待。",
+    "sentiment": "mixed",
+    "key_opinions": ["中船特气监控结束，可能反弹。", "持股等待修复。", "需关注出口和政策。"],
+    "mentioned_stocks": ["中船特气", "澜起", "赵毅", "亨通光电", "长盈通"]
+  },
+  {
+    "index": 44,
+    "summary": "今天涨的比跌的多，但科技拉高出货，其他板块稳。",
+    "sentiment": "negative",
+    "key_opinions": ["科技拉高出货。", "高切低，资金转移。", "可能无持续性。"],
+    "mentioned_stocks": ["科技", "老登"]
+  },
+  {
+    "index": 45,
+    "summary": "新手用AI分析ETF策略，关注半导体设备ETF。",
+    "sentiment": "positive",
+    "key_opinions": ["用技术分析和AI指导ETF操作。", "关注半导体设备ETF。", "逻辑和结构分析。"],
+    "mentioned_stocks": ["半导体设备ETF", "铁盒", "光", "信创ETF"]
+  },
+  {
+    "index": 46,
+    "summary": "问“姨”（赵姨股票）能否回来，大跌吓人。",
+    "sentiment": "negative",
+    "key_opinions": ["股票大跌，可能跌停。", "早上追高被套。", "量太大吓人。"],
+    "mentioned_stocks": ["赵姨", "龙队"]
+  },
+  {
+    "index": 47,
+    "summary": "感觉被量化盯上，割肉后买崩，操作失误。",
+    "sentiment": "negative",
+    "key_opinions": ["量化针对散户。", "操作失误导致亏损。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "接手表哥亏损-40%账户，尝试回本，有挑战。",
+    "sentiment": "mixed",
+    "key_opinions": ["亲戚账户亏损多。", "操作回本任务艰难。", "发朋友圈心态。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "缺德时代（宁德时代）大跌，利润减少，久跌后大阴。",
+    "sentiment": "negative",
+    "key_opinions": ["宁德时代大跌，利润减少。", "久跌后突然大阴线。"],
+    "mentioned_stocks": ["宁德时代"]
+  }
+]
