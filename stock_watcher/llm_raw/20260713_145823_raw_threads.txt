@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "帖子内容为无意义的情绪宣泄。",
+    "sentiment": "negative",
+    "key_opinions": ["纯粹的情绪发泄"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "投资者因持续亏损选择清仓，暂停交易。",
+    "sentiment": "negative",
+    "key_opinions": ["连续亏损导致绝望", "清仓后转为观望", "抄底尝试失败后心态崩溃"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "国家队大额买入但未提振市场，投资者信心不足。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队救市效果不彰", "市场信心处于冰点", "投资者普遍躺平观望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "前量化研究员分析市场风险，关注韩国杠杆及科技股配置变化。",
+    "sentiment": "mixed",
+    "key_opinions": ["微盘股策略向科技股调整", "韩国杠杆仓位是潜在风险点", "关注红利及中证2000的超跌机会"],
+    "mentioned_stocks": ["中证2000"]
+  },
+  {
+    "index": 5,
+    "summary": "用户做梦A股科技股大涨，引发调侃讨论。",
+    "sentiment": "positive",
+    "key_opinions": ["以梦境表达强烈上涨渴望", "对当前下跌行情的反向调侃"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论国家队（汪汪队）是否出手拉升，但市场反应冷淡。",
+    "sentiment": "negative",
+    "key_opinions": ["对拉升持续性表示怀疑", "认为只是托底而非反转", "上涨成为出货机会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论当前7月行情的痛苦程度，与历史熊市对比。",
+    "sentiment": "negative",
+    "key_opinions": ["7月行情极其惨烈", "但与历史大股灾相比仍显温和", "多数投资者亏损严重"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论通富微电个股走势及操作策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["个股相对强势，龙头股承接力较好", "投资者在高抛低吸中纠结", "量化交易影响走势"],
+    "mentioned_stocks": ["通富微电"]
+  },
+  {
+    "index": 9,
+    "summary": "投资者表示若明日再跌将离场。",
+    "sentiment": "negative",
+    "key_opinions": ["部分投资者接近心理承受极限", "下跌引发离场想法"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论红利股投资者因羡慕科技股收益而动摇，并付出代价。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利投资需对抗心魔", "跟风买入高风险股导致亏损", "强调长期持有股息的重要性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "讨论在恐慌中寻找抄底机会的方向。",
+    "sentiment": "mixed",
+    "key_opinions": ["抄底前期强势板块的逻辑", "抄底近期超跌板块的逻辑", "买入即被套的现象引发调侃"],
+    "mentioned_stocks": ["风华高科"]
+  },
+  {
+    "index": 12,
+    "summary": "用黑色幽默讨论投资殡葬行业的逻辑。",
+    "sentiment": "negative",
+    "key_opinions": ["讽刺当前市场炒概念的现象", "将殡葬行业与“先进封装”强行关联", "对行业周期性的讨论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论量化资金拉升个股后的盈利模式。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化并非百分百盈利", "量化依赖速度和先手优势", "快速拉升后容易吸引跟风盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论大盘触及3900点是否为抄底信号。",
+    "sentiment": "negative",
+    "key_opinions": ["整数关口保卫战通常失败", "抄底风险极大，易“死于抄底”", "量化可能根据整数关口进行交易"],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 15,
+    "summary": "观测到市场悲观情绪达到高点，讨论是否可抄底。",
+    "sentiment": "mixed",
+    "key_opinions": ["极度悲观情绪可能是反向指标", "抄底方向难以选择", "有投资者已开始尝试抄底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论大唐发电定增方案对股权结构的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["定增将稀释现有股东持股", "关注定增资金用途及项目前景", "对定增后股价走势看法不一"],
+    "mentioned_stocks": ["大唐发电"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论两倍做多海力士杠杆产品的巨大波动。",
+    "sentiment": "negative",
+    "key_opinions": ["杠杆产品涨跌幅度巨大，风险极高", "投资者被深套，选择躺平", "杠杆ETF存在磨损效应"],
+    "mentioned_stocks": ["南方两倍做多海力士"]
+  },
+  {
+    "index": 18,
+    "summary": "提及某只股票（中大哥）逆势翻红。",
+    "sentiment": "positive",
+    "key_opinions": ["在下跌中翻红被视为一丝希望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "以游戏“哀嚎洞穴”比喻即将到来的连续下跌交易日。",
+    "sentiment": "negative",
+    "key_opinions": ["预期市场将继续下跌", "市场情绪持续悲观", "用幽默方式表达对行情的无奈"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论盘中反弹（V型）但怀疑其可持续性。",
+    "sentiment": "negative",
+    "key_opinions": ["反弹可能成为下跌中继", "反弹后卖出压力巨大", "对V型反转缺乏信心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "鼓吹中远海控的超级航运周期未结束。",
+    "sentiment": "positive",
+    "key_opinions": ["认为航运板块处于超级周期", "当前调整是主升浪中的洗盘", "看好中长期上行空间"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 22,
+    "summary": "分享在利通电子上通过操作减亏的经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["通过高抛低吸摊薄成本", "及时止损避免了更大亏损"],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 23,
+    "summary": "亏损投资者寻求抱团安慰，分享惨痛亏损经历。",
+    "sentiment": "negative",
+    "key_opinions": ["7月行情被称作“魔鬼”", "本金大幅缩水，心态濒临崩溃", "选择“躺平”做时间的狱友"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "猜测市场主力意图在于引爆两融盘以获取筹码。",
+    "sentiment": "negative",
+    "key_opinions": ["下跌旨在爆掉融资盘", "爆仓会导致投资者彻底离场", "担忧引发类似2015年的危机"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "指责量化交易尾盘拉升次日砸盘的行为。",
+    "sentiment": "negative",
+    "key_opinions": ["量化交易模式被形容为“苍蝇”", "认为量化操作扰乱市场节奏", "希望一步跌到位而非阴跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论前期强势股中钨高科下跌后能否再介入。",
+    "sentiment": "negative",
+    "key_opinions": ["前期上涨逻辑已发生变化", "趋势已破，不建议重仓", "可关注业绩预告作为短期博弈点"],
+    "mentioned_stocks": ["中钨高科"]
+  },
+  {
+    "index": 27,
+    "summary": "盘前分析与预测当日市场走势及关键个股表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["提醒注意回调风险", "关注“大哥”（可能指中芯国际等龙头）的辟谣影响", "观察市场对业绩股的态度"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 28,
+    "summary": "描述当日市场情绪极度悲观，堪比股灾。",
+    "sentiment": "negative",
+    "key_opinions": ["市场情绪比“火影”（极端宣泄贴）时期更差", "投资者普遍悲观哀嚎"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "调侃希望指数快速深跌以创造抄底机会。",
+    "sentiment": "negative",
+    "key_opinions": ["希望指数跌得更猛更彻底", "质疑真正跌到位时是否敢买入", "反映对当前阴跌的失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "新手投资者询问市场是否进入熊市及历史案例。",
+    "sentiment": "negative",
+    "key_opinions": ["询问全球市场低迷的历史参照", "注意到传统行业也持续低迷", "将下跌归因于航天发射等事件冲击"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论中际旭创（中大哥）在暴跌中的坚挺表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["龙头股表现出抗跌性", "投资者考虑调仓换股", "担心其补跌及后续走势"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 32,
+    "summary": "指出当前震荡市下，部分量化基金也出现亏损。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化策略在极端行情下也会亏损", "引发对投资科技基金收益的担忧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "评论市场向下补缺，但认为下方仍有缺口。",
+    "sentiment": "negative",
+    "key_opinions": ["技术缺口被回补", "认为下跌趋势尚未结束，下方仍有支撑缺口"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论昊华能源基本面与股价表现的背离。",
+    "sentiment": "negative",
+    "key_opinions": ["股价下跌找不到基本面原因", "缺乏主力资金关注", "个股无法走出独立行情"],
+    "mentioned_stocks": ["昊华能源"]
+  },
+  {
+    "index": 35,
+    "summary": "认为胜宏科技已跌无可跌，决定坚守。",
+    "sentiment": "positive",
+    "key_opinions": ["认为股价已到达强支撑位", "表达坚守的决心"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 36,
+    "summary": "猜测主力后续操作步骤：猛砸、阴跌、再拉升。",
+    "sentiment": "negative",
+    "key_opinions": ["预期先爆融资盘", "随后可能出现高开低走诱多", "最后以长期阴跌磨掉耐心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "新投资者询问网络股市黑话的含义。",
+    "sentiment": "negative",
+    "key_opinions": ["询问“牢A”、“斩杀线”等术语", "比喻下跌如“坐牢”"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "讨论领益智造的业务逻辑及近期走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["看好的逻辑包括液冷、折叠屏、机器人", "认为股价不高但波动剧烈", "被部分人视为“概念王”"],
+    "mentioned_stocks": ["领益智造"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论沐曦股份逆势上涨，是否意味着国产替代行情持续。",
+    "sentiment": "mixed",
+    "key_opinions": ["逆势上涨引发关注", "可能因流通盘小或属科创50成分股", "提醒追高可能被套"],
+    "mentioned_stocks": ["沐曦股份", "科创50"]
+  },
+  {
+    "index": 40,
+    "summary": "认为当前回调幅度尚浅，市场情绪稳定。",
+    "sentiment": "negative",
+    "key_opinions": ["认为当前下跌仅是回调开始", "以韩国股市跌幅作对比，自嘲波动小"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "转述李大霄关于市场“小熊淡淡的香味”的评论。",
+    "sentiment": "negative",
+    "key_opinions": ["对李大霄的乐观言论表示怀疑", "认为市场已转熊", "调侃“熊香味”的表述"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "讨论无人驾驶概念股中钨高科与有色板块走势趋同。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价跟随大宗商品及有色板块波动", "处于“垃圾时间”", "需等待钨价企稳"],
+    "mentioned_stocks": ["中钨高科"]
+  },
+  {
+    "index": 43,
+    "summary": "注意到闻泰科技股价悄然上涨，猜测原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["质疑上涨是否有内幕消息", "提示追高风险大", "部分人将其视为国产芯片概念博弈标的"],
+    "mentioned_stocks": ["闻泰科技"]
+  },
+  {
+    "index": 44,
+    "summary": "盘点近期腰斩的科技股，反映板块惨状。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股出现普遍腰斩", "列举多只快速下跌的个股", "反映科技板块调整幅度之大"],
+    "mentioned_stocks": ["富信科技", "中船特气", "瑞华泰"]
+  },
+  {
+    "index": 45,
+    "summary": "询问当前市场大跌的深层原因。",
+    "sentiment": "negative",
+    "key_opinions": ["怀疑是否有未明利空", "认为前期涨幅过大是主因", "情绪踩踏和跟跌外盘可能是因素"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "讨论融资盘爆仓的风险及市场残酷性。",
+    "sentiment": "negative",
+    "key_opinions": ["高位满仓满融者面临巨大风险", ["市场规律是收割完散户割融资盘"], ["认为这是股市常态"]],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "讨论国家队（汪汪队）出手托盘，但预期其无法守住关键点位。",
+    "sentiment": "negative",
+    "key_opinions": ["认为托盘是为后续出货", ["量化触发抄底机制，而非真正买入"], ["关键点位（如3000点）不跌破就不会真正救市"]]",
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "用“家被偷了”比喻午间休市后账户亏损加剧。",
+    "sentiment": "negative",
+    "key_opinions": ["生动描述账户缩水过程", ["投资者选择离场或睡觉回避"], ["用幽默化解痛苦"]],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "哀叹某只股票（赵姨）深度下跌，伤害投资者家人。",
+    "sentiment": "negative",
+    "key_opinions": ["股票深度下跌给投资者带来巨大痛苦", ["后悔加仓操作"]]",
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "期待尾盘“神奇两点半”拉升，但普遍预期落空。",
+    "sentiment": "negative",
+    "key_opinions": ["对尾盘拉升不抱希望", ["预期可能继续下跌"], ["认为反弹会导致更多抛盘"]]",
+    "mentioned_stocks": []
+  }
+]
