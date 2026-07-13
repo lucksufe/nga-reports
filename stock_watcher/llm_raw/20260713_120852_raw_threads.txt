@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "楼主清仓，分享亏损感受，引发对市场本质和投资出路的讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["利润归零，投资一场空", "大A被视作化债工具，建议转向美股", "清仓后心态轻松，生活回归"],
+    "mentioned_stocks": ["纳指100", "标普500"]
+  },
+  {
+    "index": 2,
+    "summary": "标题隐晦，内容抽象，涉及对市场或某个现象的调侃与困惑。",
+    "sentiment": "mixed",
+    "key_opinions": ["内容抽象，引人猜测", "提及量化基金等投资门槛问题", "有图片暗示具体情境"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论投资中“会卖”的重要性，感叹择时能力。",
+    "sentiment": "mixed",
+    "key_opinions": ["卖点比买点更能体现水平", "进出都需要有逻辑支撑", "盈亏同源是常态"],
+    "mentioned_stocks": ["隆基股份"]
+  },
+  {
+    "index": 4,
+    "summary": "抱怨量化交易在关键反弹节点砸盘，破坏市场修复节奏。",
+    "sentiment": "negative",
+    "key_opinions": ["量化被指为砸盘主力", "反弹屡次被量化破坏", "市场情绪和士气受重创"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "今日有盈利的用户分享持仓，讨论热门板块和个股表现。",
+    "sentiment": "positive",
+    "key_opinions": ["分享当日盈利的个股和板块", "警惕持仓被量化捕捉", "散户优势在于可以空仓等待"],
+    "mentioned_stocks": ["智光电气", "昭衍新药", "智谱", "中芯国际H", "兆易创新H", "亨通光电", "中国卫星", "牧原股份"]
+  },
+  {
+    "index": 6,
+    "summary": "质疑当前操盘手法是否在系统性地掠夺散户财富。",
+    "sentiment": "negative",
+    "key_opinions": ["市场被视为化债和财富转移工具", "加剧贫富差距", "老股民已习惯周期性收割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "用游戏“哀嚎洞穴”比喻当前深度亏损的市场状态。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损普遍，散户已无力哀嚎", "市场如同绝境", "板块表现惨淡，如先进封装"],
+    "mentioned_stocks": ["先进封装"]
+  },
+  {
+    "index": 8,
+    "summary": "用户展示在近期大跌中保持盈利的“幸存者”账户。",
+    "sentiment": "mixed",
+    "key_opinions": ["分享逆势盈利的持仓记录", "展示长期业绩以证明实力", "引发羡慕与质疑"],
+    "mentioned_stocks": ["创新药", "猪模块"]
+  },
+  {
+    "index": 9,
+    "summary": "描述投资者因股市下跌而焦虑，严重影响周末生活。",
+    "sentiment": "negative",
+    "key_opinions": ["投资亏损导致生活焦虑、失眠", "过度关注市场消息和解读", "情绪被市场深度绑架"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "质疑赛力斯股价是否还有支撑，讨论其基本面。",
+    "sentiment": "negative",
+    "key_opinions": ["被质疑为“无底洞”", "华为合作故事可能失效", "汽车板块整体不景气拖累"],
+    "mentioned_stocks": ["赛力斯"]
+  },
+  {
+    "index": 11,
+    "summary": "猜测当前下跌是否在清洗恐慌盘，能否视为加仓机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["下跌可能在清洗恐慌盘", "市场可能进入震荡期", "强调仓位管理的重要性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "用幽默“黑话”（猪模块、先进封装）调侃市场热点和自身困境。",
+    "sentiment": "mixed",
+    "key_opinions": ["用行业梗幽默表达投资困境", "反映板块轮动快、追高易被套", "散户在夹缝中自娱自乐"],
+    "mentioned_stocks": ["猪模块"]
+  },
+  {
+    "index": 13,
+    "summary": "询问培育金刚石概念股能否持有，已有用户被套。",
+    "sentiment": "negative",
+    "key_opinions": ["相关概念股走势不佳", "用户反映已被套牢", "表达无奈与困惑"],
+    "mentioned_stocks": ["国机精工", "黄河旋风"]
+  },
+  {
+    "index": 14,
+    "summary": "反思经济政策与股市的关系，质疑政策连贯性。",
+    "sentiment": "negative",
+    "key_opinions": ["政策制定部门目标可能不一致", "纯粹的经济逻辑在A股可能失效", "被形容为“草台班子”"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "担忧光纤板块下跌趋势，讨论是否还有底。",
+    "sentiment": "negative",
+    "key_opinions": ["下跌速度快，技术形态恶劣", "认为股价可能回到起点或腰斩", "行业逻辑可能已反转"],
+    "mentioned_stocks": ["亨通光电", "杭电股份"]
+  },
+  {
+    "index": 16,
+    "summary": "讽刺市场调控，质疑其目的是否为了制造散户亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["认为股市用于扩大贫富差距", "嘲讽政策执行能力", "散户亏损成为他人利润来源"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论赛力斯跌停后，预计几个交易日能打开跌停板。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价已提前反应部分利空", "可能进入阴跌或超跌反弹", "板块情绪影响大"],
+    "mentioned_stocks": ["赛力斯", "江淮汽车"]
+  },
+  {
+    "index": 18,
+    "summary": "感叹港股市场波动巨大，个股出现“脚踝斩”惨状。",
+    "sentiment": "negative",
+    "key_opinions": ["港股个股跌幅巨大，追高者损失惨重", "港股容易出现A字杀跌", "波动性如期货"],
+    "mentioned_stocks": ["MiniMax", "智谱"]
+  },
+  {
+    "index": 19,
+    "summary": "比较韩国股市与A股，惊讶于韩国股市的利润垫厚度。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国股市龙头股占比高，结构不同", "高杠杆追高风险巨大", "羡慕其长期涨幅带来的安全垫"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论海南禁售燃油车政策对新能源板块的潜在影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["政策力度有限，非全面禁售", "新能源板块估值已处于低位", "关注电池等细分领域位置"],
+    "mentioned_stocks": ["新能源"]
+  },
+  {
+    "index": 21,
+    "summary": "抱怨锂矿板块表现极差，讨论其原因和前景。",
+    "sentiment": "negative",
+    "key_opinions": ["产业链整体表现惨淡", "认为是周期性底部或黄金坑", "在大盘下跌时被视为弃子"],
+    "mentioned_stocks": ["锂矿", "锂电"]
+  },
+  {
+    "index": 22,
+    "summary": "观察到中远海控、银行等板块与大盘走势呈现反向关系。",
+    "sentiment": "mixed",
+    "key_opinions": ["资金在市场下跌时流入避险板块", "公募基金仓位行为加剧板块跷跷板", "国家队对银行股有托底作用"],
+    "mentioned_stocks": ["中远海控", "工商银行"]
+  },
+  {
+    "index": 23,
+    "summary": "希望韩国股市反弹以带动A股，但自身亏损已创新高。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损创下个人历史新高", "对韩国股市的反弹失去信心", "杠杆连环爆仓风险加剧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "指出赛力斯股价跌停，分析其下跌原因。",
+    "sentiment": "negative",
+    "key_opinions": ["业绩不佳是主因", "汽车板块整体环境差", "华为合作的故事不再被市场追捧"],
+    "mentioned_stocks": ["赛力斯"]
+  },
+  {
+    "index": 25,
+    "summary": "质疑韩国央行关于AI芯片超级周期的乐观言论。",
+    "sentiment": "negative",
+    "key_opinions": ["对官方唱多言论持怀疑态度", "认为政策存在矛盾（加息与唱多）", "市场信心不足"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "简单观测论坛“火影”类帖子数量变化，作为情绪指标。",
+    "sentiment": "neutral",
+    "key_opinions": ["将特定主题帖数量视为情绪观测指标"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "发布盘前预测，分析上周走势并提醒风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["提示量化交易对盘面的破坏力", "强调关注龙头股“大哥”走势", "技术分析显示回调风险"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 28,
+    "summary": "观测到当日市场情绪达到冰点，并讨论后续策略。",
+    "sentiment": "negative",
+    "key_opinions": ["情绪指标显示极度悲观", "认为技术性熊市可能来临", "“冰点”状态频繁出现"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "请求了解韩国股市论坛当前情况，以观察市场情绪。",
+    "sentiment": "mixed",
+    "key_opinions": ["信息存在不对称，想了解他国散户情绪", "预测韩国散户也处于亏损惨烈状态", "“做空有效论”可能盛行"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "讨论卫星发射事件后，商业航天板块的资金抱团现象。",
+    "sentiment": "mixed",
+    "key_opinions": ["板块出现资金抱团行为", "量化资金对走势影响巨大", "超短线交易风险极高"],
+    "mentioned_stocks": ["商业航天", "卫星ETF"]
+  },
+  {
+    "index": 31,
+    "summary": "用户简单记录个人持仓，处于被套状态。",
+    "sentiment": "negative",
+    "key_opinions": ["展示持仓记录，处于亏损状态"],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 32,
+    "summary": "分享选股教训，强调理解业务和等待估值消化的重要性。",
+    "sentiment": "mixed",
+    "key_opinions": ["投资需深入了解公司业务", "高估值需要业绩增长来消化", "从亏损中学习并调整策略"],
+    "mentioned_stocks": ["瑞芯微", "恒生电子", "光纤"]
+  },
+  {
+    "index": 33,
+    "summary": "看好“猪模块”（生猪养殖）板块，罗列多项利好因素。",
+    "sentiment": "positive",
+    "key_opinions": ["列举政策、资金、周期、估值、技术等多重利好", "认为板块反转趋势明显", "号召关注并参与"],
+    "mentioned_stocks": ["猪模块"]
+  },
+  {
+    "index": 34,
+    "summary": "展示大额亏损持仓，表示“来坐牢”，引发讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["持仓金额大，亏损严重", "市场未稳，重仓风险极高", "其他人对其勇气表示佩服或担忧"],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 35,
+    "summary": "认为港股海螺创业出现爆仓导致的大跌，可能是捡钱机会。",
+    "sentiment": "positive",
+    "key_opinions": ["个股出现异常暴跌，疑似资金爆仓", "视为潜在的抄底机会"],
+    "mentioned_stocks": ["海螺创业"]
+  },
+  {
+    "index": 36,
+    "summary": "抱怨市场普跌（4000家下跌），询问何时反转。",
+    "sentiment": "negative",
+    "key_opinions": ["市场呈现普跌格局", "对市场反转感到迷茫和绝望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "观察到多数人不看好商业航天，但认为超短可能存在机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场分歧巨大时可能存在机会", "板块受量化资金主导，延续性存疑", "超短线模式风险与机会并存"],
+    "mentioned_stocks": ["商业航天"]
+  },
+  {
+    "index": 38,
+    "summary": "推荐红利低波策略，认为其受量化影响小，资金稳定。",
+    "sentiment": "positive",
+    "key_opinions": ["高频量化策略天然与低波动策略相斥", "国家队减持结束后买入资金稳定", "适合作为防守或长期收息策略"],
+    "mentioned_stocks": ["长江电力", "中国移动"]
+  },
+  {
+    "index": 39,
+    "summary": "因指数跌破年线，宣告牛市结束，建议止损。",
+    "sentiment": "negative",
+    "key_opinions": ["技术指标破位，认为牛市终结", "建议立即止损离场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "将当前科技股投资与历史上的白酒、新能源泡沫进行类比。",
+    "sentiment": "negative",
+    "key_opinions": ["市场泡沫和散户行为呈历史循环", "牛市反而容易导致散户亏损", "新投资者不断重复旧错误"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "抱怨本月行情极差，仅有一天微红，整体大幅亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["本月行情极其难做", "利润全部回吐甚至亏损本金", "连量化策略也出现亏损"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "用简单图文表达对股市未来的迷茫和担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["对股市未来方向感到迷茫和无力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "询问中国巨石是否爆雷，分析其异常下跌原因。",
+    "sentiment": "negative",
+    "key_opinions": ["股价下跌远超同期利空影响", "涨价逻辑在当前市场失效", "可能被主力资金“背刺”"],
+    "mentioned_stocks": ["中国巨石", "国际复材"]
+  },
+  {
+    "index": 44,
+    "summary": "通过简单图文和文字表达极度失望和无奈的情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["情绪低落，表达无言的痛苦"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "对卫星ETF出现跌停板表示震惊，讨论板块极端波动。",
+    "sentiment": "negative",
+    "key_opinions": ["板块ETF出现跌停，波动极端", "与之前涨停形成剧烈反差", "手法让人联想到过往题材炒作"],
+    "mentioned_stocks": ["卫星ETF"]
+  },
+  {
+    "index": 46,
+    "summary": "自称在“猪模块”（生猪养殖）中感到安心，抱团取暖。",
+    "sentiment": "positive",
+    "key_opinions": ["在下跌中找到“猪模块”作为避风港", "板块被认为有基本面支撑（农业技术）", "形成集体抱团共识"],
+    "mentioned_stocks": ["猪模块"]
+  },
+  {
+    "index": 47,
+    "summary": "讨论南方两倍做多海力士ETF的剧烈跌幅，警示杠杆风险。",
+    "sentiment": "negative",
+    "key_opinions": ["杠杆产品涨跌幅度巨大，亏损迅速", "散户不宜参与高杠杆衍生品", "韩国股市波动性风险高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "询问早盘是否有敢抄底的投资者，分享盘中博弈情况。",
+    "sentiment": "negative",
+    "key_opinions": ["早盘波动剧烈，抄底风险极高", "选错板块或标的会快速亏损", "追高者被严重收割"],
+    "mentioned_stocks": ["多氟多", "南方航空"]
+  },
+  {
+    "index": 49,
+    "summary": "询问国内投资美股的途径，表达转向美股的意向。",
+    "sentiment": "mixed",
+    "key_opinions": ["有逃离A股转投美股的想法", "投资渠道受限，QDII基金额度紧张", "建议寻找合适时机分批建仓"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 50,
+    "summary": "担忧中船特气股价持续暴跌，可能腰斩甚至更低。",
+    "sentiment": "negative",
+    "key_opinions": ["从高点下跌幅度已巨大", "当前估值（PE）仍然极高", "遵循“从哪来回哪去”的规律"],
+    "mentioned_stocks": ["中船特气"]
+  }
+]
