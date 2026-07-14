@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论投资者被套在白酒和新能源周期中，与科技股比较，强调信仰和止损差异。",
+    "sentiment": "negative",
+    "key_opinions": ["有信仰的投资者容易被套", "严格止损的人跑得快", "被套后坚信故事"],
+    "mentioned_stocks": ["白酒", "新能源", "科技股"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论尾盘交易策略在当前市场的适用性，包括技术分析和ETF操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["尾盘选股买入、开盘卖出策略", "技术分析在当前环境可能无效", "ETF早卖晚接可盈利"],
+    "mentioned_stocks": ["同花顺", "紫光", "ETF"]
+  },
+  {
+    "index": 3,
+    "summary": "询问药明康德是否值得买入，分析其在创新药产业链中的地位。",
+    "sentiment": "mixed",
+    "key_opinions": ["药明康德是龙头但股价横盘", "创新药产业链中心点", "可间接投资创新药团队"],
+    "mentioned_stocks": ["药明康德", "石药创新"]
+  },
+  {
+    "index": 4,
+    "summary": "抱怨炒股影响生活，盈利归零后决定清仓，消息面导致情绪波动。",
+    "sentiment": "negative",
+    "key_opinions": ["消息面严重影响心情", "盈利全部回吐", "决定清仓退出市场"],
+    "mentioned_stocks": ["大A", "基金"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论臻宝科技股票8天腰斩，抱怨次新股风险和投资者失误。",
+    "sentiment": "negative",
+    "key_opinions": ["新股腰斩可能正常", "次新股风险极高", "投资者自嘲选择失误"],
+    "mentioned_stocks": ["臻宝科技", "赛力斯", "海狗", "长飞H"]
+  },
+  {
+    "index": 6,
+    "summary": "解释科创50暴跌原因，指向量化操作和市场操纵。",
+    "sentiment": "negative",
+    "key_opinions": ["量化在10点开机导致暴跌", "图形相似暗示操纵", "公务员上班时间关联"],
+    "mentioned_stocks": ["科创50", "量化机构"]
+  },
+  {
+    "index": 7,
+    "summary": "抱怨A股跟随韩国股市走势，缺乏独立性。",
+    "sentiment": "negative",
+    "key_opinions": ["A股完全跟随韩国股市", "内存股受韩国影响", "量化跟随操作"],
+    "mentioned_stocks": ["棒子", "内存"]
+  },
+  {
+    "index": 8,
+    "summary": "比较海外链和国产链股票表现，强调海外链业绩好。",
+    "sentiment": "mixed",
+    "key_opinions": ["海外链业绩超预期", "国产链被量化玩弄", "出海逻辑重要"],
+    "mentioned_stocks": ["沪电", "东山", "生益", "国产半导体", "长江电力"]
+  },
+  {
+    "index": 9,
+    "summary": "质疑量化机构是否跟随韩国股市，图形高度相似。",
+    "sentiment": "negative",
+    "key_opinions": ["量化跟随韩国股市", "图形相似度高", "不信任量化机构言论"],
+    "mentioned_stocks": ["量化机构", "韩国股市"]
+  },
+  {
+    "index": 10,
+    "summary": "分析韩国存储股发行ADR后被套，讨论华尔街博弈。",
+    "sentiment": "mixed",
+    "key_opinions": ["老美认购后被套", "华尔街打压存储股", "利润分配不均"],
+    "mentioned_stocks": ["海力士", "SK", "ADR", "存储"]
+  },
+  {
+    "index": 11,
+    "summary": "询问东山股票强势原因，分析其业务和资金面。",
+    "sentiment": "mixed",
+    "key_opinions": ["光模块全产业链一体", "基金抱团选择", "海外资金认可买入"],
+    "mentioned_stocks": ["东山", "PCB", "光模块", "兆易", "德明利"]
+  },
+  {
+    "index": 12,
+    "summary": "抱怨股票快速下跌，如锂和商业航天两天跌30%。",
+    "sentiment": "negative",
+    "key_opinions": ["锂和商业航天暴跌", "市场走势残暴", "投资者损失惨重"],
+    "mentioned_stocks": ["锂", "商业航天"]
+  },
+  {
+    "index": 13,
+    "summary": "寻求抄底建议，特别询问弹性大的科创股。",
+    "sentiment": "mixed",
+    "key_opinions": ["寻找抄底标的", "推荐弹性大的科创股", "无具体抬高建议"],
+    "mentioned_stocks": ["科创"]
+  },
+  {
+    "index": 14,
+    "summary": "关注韩国股市下午反弹，讨论A股是否跟随。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国股市反弹", "A股可能跟随", "量化因子影响"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论半年报预增发布时间和市场情绪影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天是发布截止日", "情绪差可能影响股价", "达美乐股票被提及"],
+    "mentioned_stocks": ["达美乐"]
+  },
+  {
+    "index": 16,
+    "summary": "提示七月投资机会，建议科技主线低吸。",
+    "sentiment": "positive",
+    "key_opinions": ["空头转多头时机", "科技主线依旧在", "个股如东山、兆易可低吸"],
+    "mentioned_stocks": ["科技股", "东山", "兴森", "杰瑞", "兆易"]
+  },
+  {
+    "index": 17,
+    "summary": "分析历史调整模式，为当前市场提供参考。",
+    "sentiment": "mixed",
+    "key_opinions": ["平均调整21天、幅度19%", "趋势后横盘消化", "均线偏离度指标"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "质疑科技牛市是否结束，担忧熊市开始。",
+    "sentiment": "negative",
+    "key_opinions": ["科技牛可能散场", "指数或回2689点", "风险大于机遇"],
+    "mentioned_stocks": ["科技股", "棒子"]
+  },
+  {
+    "index": 19,
+    "summary": "回忆账户新高后暴跌，对家庭生活造成严重影响。",
+    "sentiment": "negative",
+    "key_opinions": ["账户新高后迅速暴跌", "影响家庭开支和生活", "对家人感到愧疚"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 20,
+    "summary": "比较创业板和费半指数涨幅回撤，抱怨创业板表现差。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板涨幅小但回撤大", "对比费半指数表现", "市场不公平感"],
+    "mentioned_stocks": ["创业板", "费半"]
+  },
+  {
+    "index": 21,
+    "summary": "询问长鑫半导体新股申购风险，分析市场情况。",
+    "sentiment": "mixed",
+    "key_opinions": ["长鑫申购风险高", "看海力士走势判断", "申购可以但不追涨"],
+    "mentioned_stocks": ["长鑫", "海力士", "中石油"]
+  },
+  {
+    "index": 22,
+    "summary": "询问是否有人割肉清仓，分享亏损经历。",
+    "sentiment": "negative",
+    "key_opinions": ["清仓后后悔", "情绪受市场影响", "抄底可能被套"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "看好中远海控航运周期未结束，强调龙头地位。",
+    "sentiment": "positive",
+    "key_opinions": ["航运超级周期未结束", "中远海控是绝对龙头", "供需格局重塑支撑"],
+    "mentioned_stocks": ["中远海控", "航运板块"]
+  },
+  {
+    "index": 24,
+    "summary": "抱怨3天亏20%，7月亏40%，投资损失惨重。",
+    "sentiment": "negative",
+    "key_opinions": ["大幅亏损难以承受", "买股票不如消费", "管不住手导致损失"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "关联黄金时代段子与韩国股市下跌，调侃市场转折。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金时代后股市下跌", "段子应验市场转折", "进入黑暗时代"],
+    "mentioned_stocks": ["棒子"]
+  },
+  {
+    "index": 26,
+    "summary": "庆幸没用父母钱投资，虽亏损但避免更大损失。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损但未用父母钱", "决定明智避免风险", "安慰自己减少愧疚"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "反驳3800点就是熊市的观点，分享从2600点熬过来的经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["3800点不算熊市", "从2600点经历更难", "技术指标显示熊市"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "用3000元小资金尝试趋势交易，调侃市场末期。",
+    "sentiment": "mixed",
+    "key_opinions": ["3000元做多交易", "趋势版本可能末期", "建议更务实选择"],
+    "mentioned_stocks": ["房事"]
+  },
+  {
+    "index": 29,
+    "summary": "质疑量化机构背后角色，使用历史隐喻讽刺。",
+    "sentiment": "negative",
+    "key_opinions": ["量化忠于特定势力", "改稻为桑比喻政策", "司礼监作为白手套"],
+    "mentioned_stocks": ["量化机构", "万寿帝君"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论是否买入红利低波ETF，分析跷跷板效应。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技跌则红利涨", "红利处于低位", "定投或等回调买入"],
+    "mentioned_stocks": ["红利低波ETF", "科技股"]
+  },
+  {
+    "index": 31,
+    "summary": "批评追高商业航天股票，警告高PE和量化风险。",
+    "sentiment": "negative",
+    "key_opinions": ["商业航天暴跌惨重", "量化一日游拉升", "高市梦率风险大"],
+    "mentioned_stocks": ["商业航天", "卫星ETF", "海兰信"]
+  },
+  {
+    "index": 32,
+    "summary": "看好深南电路在国产算力中的核心地位，推荐长期持有。",
+    "sentiment": "positive",
+    "key_opinions": ["深南电路专攻华为", "PCB领域领军企业", "国产算力产业链关键"],
+    "mentioned_stocks": ["深南电路", "华为", "中科曙光", "长电", "甬矽", "拓荆", "兴森"]
+  },
+  {
+    "index": 33,
+    "summary": "预测下午可能更剧烈下跌，跟随韩国走势。",
+    "sentiment": "negative",
+    "key_opinions": ["跟随韩国股市下跌", "反抽后可能跳水", "量化操作加剧波动"],
+    "mentioned_stocks": ["棒子", "科技股"]
+  },
+  {
+    "index": 34,
+    "summary": "计划明天再跌就清仓，保留部分盈利。",
+    "sentiment": "negative",
+    "key_opinions": ["明天再绿就跑", "保留今年盈利", "大家都计划离场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "抱怨股票暴跌，商业航天高PE和量化操作。",
+    "sentiment": "negative",
+    "key_opinions": ["商业航天PE过高", "量化拉秒板套人", "投资者交学费学习"],
+    "mentioned_stocks": ["商业航天"]
+  },
+  {
+    "index": 36,
+    "summary": "半导体投资亏损，七月收益回吐一半。",
+    "sentiment": "negative",
+    "key_opinions": ["七月收益大幅回吐", "一半盈利还在", "投资时机晚后悔"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 37,
+    "summary": "基金投资者抱怨亏损，讨论市场环境。",
+    "sentiment": "negative",
+    "key_opinions": ["基金连续下跌", "基民普遍亏损", "定投策略也失效"],
+    "mentioned_stocks": ["长鑫", "基金", "半导体基金"]
+  },
+  {
+    "index": 38,
+    "summary": "强调A股尾盘跟随韩国V形反转，指责量化因子。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股同步韩国反转", "量化因子明显", "图形高度相似"],
+    "mentioned_stocks": ["科技股", "棒子"]
+  },
+  {
+    "index": 39,
+    "summary": "航天投资失败，亏损后考虑休息一段时间。",
+    "sentiment": "negative",
+    "key_opinions": ["低吸航天股票亏损", "操作逻辑失效", "计划休息调整"],
+    "mentioned_stocks": ["卫星ETF", "商业航天"]
+  },
+  {
+    "index": 40,
+    "summary": "希望A股脱离韩国股市影响，抱怨依赖外部走势。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股过度跟随韩国", "量化因子决定走势", "内存股相关性强"],
+    "mentioned_stocks": ["科技股", "棒子"]
+  },
+  {
+    "index": 41,
+    "summary": "寻找被错杀的股票，讨论业绩和逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["涨时都对跌时都错", "国产替代缺乏利润", "锂电业绩好但被杀"],
+    "mentioned_stocks": ["亨通", "电解铝", "煤化工", "TCL"]
+  },
+  {
+    "index": 42,
+    "summary": "股票补缺口后无承接，持续下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["补缺后一泻千里", "市场缺乏支撑", "投资者失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "讽刺机构拉升不让散户赚钱，量化快速封涨停。",
+    "sentiment": "negative",
+    "key_opinions": ["机构暴力拉升阻止散户", "量化封死涨停", "走火入魔比喻"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "讨论量化提高投资难度，影响长线投资者。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化缩短股价周期", "加快价值和泡沫", "长线投资判断更难"],
+    "mentioned_stocks": ["量化机构"]
+  },
+  {
+    "index": 45,
+    "summary": "阳光电源投资者亏损，寻求安慰和建议。",
+    "sentiment": "negative",
+    "key_opinions": ["成本高亏损严重", "光伏产能过剩问题", "考虑认亏离场"],
+    "mentioned_stocks": ["阳光电源"]
+  },
+  {
+    "index": 46,
+    "summary": "看好电解铝板块底部反转，低估值机会。",
+    "sentiment": "positive",
+    "key_opinions": ["电解铝PE低于7倍", "中东开打沪铝拉升", "底部反转信号"],
+    "mentioned_stocks": ["电解铝", "神火", "云铝", "中铝", "宏桥", "中孚", "天山"]
+  },
+  {
+    "index": 47,
+    "summary": "讽刺市场割韭菜，投资者被剥削。",
+    "sentiment": "negative",
+    "key_opinions": ["短期割小登长期割老登", "永远割韭菜", "投资者努力生长被割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "抱怨韩国股市中午交易影响A股。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国中午开跳影响", "市场太卷", "担心下午下跌"],
+    "mentioned_stocks": ["棒子"]
+  },
+  {
+    "index": 49,
+    "summary": "调侃股民考试内容，暗示市场简单。",
+    "sentiment": "mixed",
+    "key_opinions": ["考试内容讽刺市场", "人人可能满分", "幽默看待投资"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "询问光模块股票是否值得持有，操作矛盾。",
+    "sentiment": "mixed",
+    "key_opinions": ["光有业绩和全球共振", "半导体在为长鑫让路", "投资操作矛盾"],
+    "mentioned_stocks": ["光老二", "半导体"]
+  }
+]

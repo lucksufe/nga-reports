@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论股市止损重要性，强调避免死扛，果断割肉。",
+    "sentiment": "negative",
+    "key_opinions": ["赚钱前先学会亏钱，避免心存幻想。", "止损是防止巨额亏损的关键。", "经验主义导致浮亏不算亏的错误心态。"],
+    "mentioned_stocks": ["安井"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论油气投资时机，是否现在进入油气市场。",
+    "sentiment": "mixed",
+    "key_opinions": ["进油气是在赌特朗普的言论。", "担心政策突然变化导致亏损。", "原油反弹可能已到顶部。"],
+    "mentioned_stocks": ["油气", "石油LOF"]
+  },
+  {
+    "index": 3,
+    "summary": "假设性讨论：如有10万必须买股，选择哪只。",
+    "sentiment": "mixed",
+    "key_opinions": ["所有股票跌停时选流动性高的标的。", "选择红利ETF或特定股票如美的。", "市场最高标或打板策略。"],
+    "mentioned_stocks": ["美的", "完美世界", "红利低波50ETF", "东山"]
+  },
+  {
+    "index": 4,
+    "summary": "希望韩国股市能反弹，但情绪低落。",
+    "sentiment": "negative",
+    "key_opinions": ["祈求韩国股市涨停。", "股价波动像心电图。"],
+    "mentioned_stocks": ["韩服"]
+  },
+  {
+    "index": 5,
+    "summary": "抱怨韩国股市频繁熔断，呼吁调整熔断机制。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市每天熔断。", "建议熔断比例调整为20%。", "空头责任重大。"],
+    "mentioned_stocks": ["韩国股市", "上证"]
+  },
+  {
+    "index": 6,
+    "summary": "黄金价格下跌，讨论支撑位和影响因素。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金可能跌破4000，3900是铁底。", "受美伊冲突影响大。", "纸黄金和实物差价扩大。"],
+    "mentioned_stocks": ["黄金", "美债收益率"]
+  },
+  {
+    "index": 7,
+    "summary": "海力士下跌预示长鑫存储表现不佳。",
+    "sentiment": "negative",
+    "key_opinions": ["海力士下跌影响长鑫存储。", "国内存储与海外竞争加剧。", "希望长鑫开局爆炸。"],
+    "mentioned_stocks": ["海力士", "长鑫"]
+  },
+  {
+    "index": 8,
+    "summary": "鼓励不要恐慌，今天可能是市场底部。",
+    "sentiment": "mixed",
+    "key_opinions": ["汇金大量购买ETF，可能是底部信号。", "谨慎乐观，需等待验证。", "熊市不言底。"],
+    "mentioned_stocks": ["300ETF", "中证1000", "汇金"]
+  },
+  {
+    "index": 9,
+    "summary": "韩国股市波动大，怀疑量化交易主导。",
+    "sentiment": "negative",
+    "key_opinions": ["股票波动像量化交易。", "韩国散户做多，外资做空。", "杠杆导致高风险。"],
+    "mentioned_stocks": ["韩国股市", "量化"]
+  },
+  {
+    "index": 10,
+    "summary": "用游戏《赛博朋克2077》比喻股市情况。",
+    "sentiment": "mixed",
+    "key_opinions": ["股市像游戏世界般荒诞。", "国家队或市场操纵。", "愿望成为市场传奇。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "兆易创新下跌，讨论止损教训和心态。",
+    "sentiment": "negative",
+    "key_opinions": ["兆易创新下跌需及时止损。", "试图做T降成本但失败。", "心态崩溃后割肉。"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 12,
+    "summary": "游资与量化冲突，讨论市场影响。",
+    "sentiment": "negative",
+    "key_opinions": ["量化导致市场不稳定，连板难。", "游资被量化压制。", "散户夹在中间受苦。"],
+    "mentioned_stocks": ["量化", "游资"]
+  },
+  {
+    "index": 13,
+    "summary": "一键清仓等待市场反转。",
+    "sentiment": "negative",
+    "key_opinions": ["市场不对劲，清仓保本。", "每天低开，操作困难。", "亏损后割肉止损。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "预测韩国股市今天会熔断。",
+    "sentiment": "negative",
+    "key_opinions": ["利空多，无利好消息。", "韩国股市问题严重。", "华尔街可能操控市场。"],
+    "mentioned_stocks": ["韩国股市", "华尔街"]
+  },
+  {
+    "index": 15,
+    "summary": "希望股市V形反转，但有担忧。",
+    "sentiment": "mixed",
+    "key_opinions": ["祈祷V形反转。", "可能是诱多陷阱。", "杠杆自救行为。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "论坛情绪沉重，缺乏好消息。",
+    "sentiment": "negative",
+    "key_opinions": ["没有好消息提振。", "可能还在谷底。", "成交量未缩，有人死扛。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "韩国股市红开但可能瞬间下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["红开但瞬间下跌。", "奶死效应（利好变利空）。", "大A开盘可能影响走势。"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 18,
+    "summary": "苹果股价创新高，美股表现强劲。",
+    "sentiment": "positive",
+    "key_opinions": ["苹果股价创历史新高。", "市值排名第二。", "美股红利ETF也创新高。"],
+    "mentioned_stocks": ["苹果", "BRK", "可口可乐"]
+  },
+  {
+    "index": 19,
+    "summary": "海力士估值被低估的小作文引发讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["海力士可能被低估。", "表情包效忠引发争议。", "有交易价值但需避免杠杆。"],
+    "mentioned_stocks": ["海力士", "赵姨"]
+  },
+  {
+    "index": 20,
+    "summary": "玩笑关于“飞机”操作和交易策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["打早了，建议9:25操作。", "三倍做多飞机战法。", "开盘就下班策略。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "半月内创历史最大亏损，心态崩溃。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重创纪录。", "清仓保本金。", "承认自己水平不足。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "存储股估值问题，从周期转向成长。",
+    "sentiment": "mixed",
+    "key_opinions": ["存储从周期股变成长股。", "AI需求改变估值逻辑。", "云厂商资本开支是关键。"],
+    "mentioned_stocks": ["海力士", "长鑫", "英伟达"]
+  },
+  {
+    "index": 23,
+    "summary": "预测人工智能大会后市场反应悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["大会前后可能被砸盘。", "内资习惯与政策反着干。", "预期反弹但不确定。"],
+    "mentioned_stocks": ["人工智能概念"]
+  },
+  {
+    "index": 24,
+    "summary": "CPO公司未发业绩预告，担忧业绩。",
+    "sentiment": "negative",
+    "key_opinions": ["未发预告可能业绩不佳。", "50%增长强制发，没发说明不达标。", "市场对业绩敏感。"],
+    "mentioned_stocks": ["CPO", "光迅", "华工"]
+  },
+  {
+    "index": 25,
+    "summary": "比喻A股被多方控制，幽默讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股像孤儿争夺抚养权。", "混合双打比喻。", "捏爆一个太监了。"],
+    "mentioned_stocks": ["大A"]
+  },
+  {
+    "index": 26,
+    "summary": "AI手机可能成为下一个热点。",
+    "sentiment": "positive",
+    "key_opinions": ["AI手机是AI下游确定细分。", "谷歌强推2nm芯片。", "模型不能在本地运行。"],
+    "mentioned_stocks": ["苹果", "谷歌", "台积电"]
+  },
+  {
+    "index": 27,
+    "summary": "询问哪里可以查看恐慌指数。",
+    "sentiment": "neutral",
+    "key_opinions": ["有记录做恐慌指数跟踪。", "网站提供相关图表。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "天际公司被ST，发布利空消息。",
+    "sentiment": "negative",
+    "key_opinions": ["公司被ST关小黑屋。", "可能跑为上策。", "怀疑为何现在才发现问题。"],
+    "mentioned_stocks": ["天际"]
+  },
+  {
+    "index": 29,
+    "summary": "亏损感觉闭环，幽默发泄。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损像闭环过程。", "申请未成年退款玩笑。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "消费利好但被质疑有效性。",
+    "sentiment": "mixed",
+    "key_opinions": ["利好文件可能无效。", "需要真金白银投入。", "收入和就业问题未解决。"],
+    "mentioned_stocks": ["消费", "南航"]
+  },
+  {
+    "index": 31,
+    "summary": "韩国股市V形反弹但需警惕。",
+    "sentiment": "mixed",
+    "key_opinions": ["V形反弹但可能被利用出货。", "反弹要跑。", "国内开盘可能影响。"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 32,
+    "summary": "预测市场反弹开始，基于历史数据。",
+    "sentiment": "positive",
+    "key_opinions": ["历史数据支持反弹。", "目标高点4350-4360。", "反弹持续到8月。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "希望V形反转，但担心国内开盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["红了但离A股开盘早。", "可能国内开盘下跌。", "外资撤，韩国资金不足。"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 34,
+    "summary": "美股下跌影响亚洲市场，担忧加剧。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股集体下跌。", "美伊冲突和油价上涨。", "明天可能熔断。"],
+    "mentioned_stocks": ["海力士", "美光", "英伟达", "美股"]
+  },
+  {
+    "index": 35,
+    "summary": "分享ETF交易策略和技术分析。",
+    "sentiment": "neutral",
+    "key_opinions": ["使用技术分析指导ETF操作。", "半导体设备ETF分析。", "跟踪学习交易方法。"],
+    "mentioned_stocks": ["半导体设备ETF国泰"]
+  },
+  {
+    "index": 36,
+    "summary": "海力士可能V形反弹，但下跌风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["海力士盘前V但下跌。", "割肉后后悔。", "怕利好帖子成反指。"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 37,
+    "summary": "质疑之前锚定标的的相关性。",
+    "sentiment": "negative",
+    "key_opinions": ["锚定海力士、美股现在无效。", "市场被随意打压。"],
+    "mentioned_stocks": ["海力士", "美股"]
+  },
+  {
+    "index": 38,
+    "summary": "兆易创新可能因海力士下跌而受影响。",
+    "sentiment": "negative",
+    "key_opinions": ["海力士下跌影响兆易创新。", "美股海力士换代码下跌。", "形容下跌为泡芙。"],
+    "mentioned_stocks": ["赵姨", "海力士"]
+  },
+  {
+    "index": 39,
+    "summary": "玩笑清仓去韩国消费救市。",
+    "sentiment": "mixed",
+    "key_opinions": ["清仓去韩国打新。", "曲线救国逻辑。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "韩国股市直线下跌，预测支撑位。",
+    "sentiment": "negative",
+    "key_opinions": ["棒子砸直线下跌。", "可能跌到3800。", "120线有支撑。"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 41,
+    "summary": "担心外围V形反弹但国内不跟。",
+    "sentiment": "negative",
+    "key_opinions": ["外围V可能机构出货。", "国内可能不跟随反弹。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "预测下次赚钱机会和生存策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["周四可能反弹。", "活下来最重要。", "选股合理年底再看。"],
+    "mentioned_stocks": ["原油"]
+  },
+  {
+    "index": 43,
+    "summary": "AI股受美国影响大，风险高。",
+    "sentiment": "negative",
+    "key_opinions": ["AI科技依赖美国订单。", "美国能轻易打压。", "长鑫被针对。"],
+    "mentioned_stocks": ["AI科技", "长鑫", "海力士", "美光"]
+  },
+  {
+    "index": 44,
+    "summary": "希望韩国股市顶住压力。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股可能再跌。", "美伊冲突持续影响。", "韩国股市熔断。"],
+    "mentioned_stocks": ["韩国股市", "石油"]
+  },
+  {
+    "index": 45,
+    "summary": "测试韩国股市对A股的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天看相关性。", "别慌跟纳斯达克。", "万一韩国红了不跟。"],
+    "mentioned_stocks": ["韩国股市", "小纳"]
+  },
+  {
+    "index": 46,
+    "summary": "比喻连续亏损像被打，悲观预期。",
+    "sentiment": "negative",
+    "key_opinions": ["连续被打比喻亏损。", "有第一次就有无数次。", "硬币连续同一面。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "韩国股市V形反弹，乐观情绪。",
+    "sentiment": "positive",
+    "key_opinions": ["棒哥V啦，乐观。"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 48,
+    "summary": "韩国没熔断，视为好消息。",
+    "sentiment": "positive",
+    "key_opinions": ["没死就是赢。"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 49,
+    "summary": "特朗普言论影响市场，质疑有效性。",
+    "sentiment": "mixed",
+    "key_opinions": ["特朗普言论不确定。", "石油期货赚钱。", "白宫股神角色。"],
+    "mentioned_stocks": ["石油", "美股"]
+  },
+  {
+    "index": 50,
+    "summary": "个人亏损故事，6月回本7月大亏。",
+    "sentiment": "negative",
+    "key_opinions": ["6月回本，7月大亏50万。", "摇号中京牌但股市亏。", "盈亏同源。"],
+    "mentioned_stocks": ["存储", "ES8"]
+  }
+]
