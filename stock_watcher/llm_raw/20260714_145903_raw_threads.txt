@@ -1,0 +1,219 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论尾盘拉升现象反复出现，引发不满。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘拉升又来了，似乎成为常态。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "早上抄底是否赚钱引发争议，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["早上抄底可能赚麻了", "t+1明天带出才是真的", "上午敢抄底是赌徒行为"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "创业板拉升但成交量不足，担心一日游。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板拉起来没量", "可能是一日游行情"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论二哥股票是持有还是止盈，看涨看跌并存。",
+    "sentiment": "mixed",
+    "key_opinions": ["业绩大超预期，下午抢筹", "有浮盈适当减仓", "明天可能冲高兑现"],
+    "mentioned_stocks": ["二哥", "光模块"]
+  },
+  {
+    "index": 5,
+    "summary": "投资者考虑是否快速卖出，情绪低落。",
+    "sentiment": "negative",
+    "key_opinions": ["不想再被折磨，想核按钮", "可能还得砸盘", "减仓比全卖更稳妥"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "质疑量化资金来源和拉升影响，市场公平性受疑。",
+    "sentiment": "negative",
+    "key_opinions": ["量化有钱拉升股价", "量化用杠杆撬动资金", "散户和机构不跟涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "分享入市一年多经历，波动大，感到失望。",
+    "sentiment": "negative",
+    "key_opinions": ["波动大，动不动±50%", "一年翻倍多，三年翻倍少", "亏损开始侵蚀本金"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "分析西部矿业等铜矿股投资价值，看好前景。",
+    "sentiment": "positive",
+    "key_opinions": ["西部矿业被低估，纯铜矿股稀缺", "有色板块回调是机会", "铜矿前景明朗"],
+    "mentioned_stocks": ["西部矿业", "紫金", "江铜", "北方铜业"]
+  },
+  {
+    "index": 9,
+    "summary": "科技股反弹但传统股未跌，原因不明。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技反弹可能诱多自救", "老登股稳定如白酒红利", "缩量反弹不可信"],
+    "mentioned_stocks": ["科技股", "红利股", "白酒股"]
+  },
+  {
+    "index": 10,
+    "summary": "分析比亚迪股票近期走势，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["比亚迪横盘震荡适合低吸", "可能阴跌回去套人", "产能过剩引发担忧"],
+    "mentioned_stocks": ["比亚迪", "上汽", "江淮", "赛力斯"]
+  },
+  {
+    "index": 11,
+    "summary": "大跌后公司发业绩公告，怀疑是诱多信号。",
+    "sentiment": "negative",
+    "key_opinions": ["杀跌后发好业绩可能暂告段落", "明天可能继续下跌", "技术派画线无用"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "风华高科跌停常伴随大盘下跌，投资者麻木。",
+    "sentiment": "negative",
+    "key_opinions": ["风华高科跌停影响大盘", "股是好股但回调深", "希望双头跑路机会"],
+    "mentioned_stocks": ["风华高科"]
+  },
+  {
+    "index": 13,
+    "summary": "市场情绪突然高涨，但怀疑可持续性。",
+    "sentiment": "mixed",
+    "key_opinions": ["冷静，记教训", "创业板底部格局，科创先跑", "涨一天就以为牛市来了"],
+    "mentioned_stocks": ["创业板", "科创"]
+  },
+  {
+    "index": 14,
+    "summary": "盘前预测市场调整后可能反弹，看多。",
+    "sentiment": "positive",
+    "key_opinions": ["百股跌停后可能反弹", "汇金暴力买入ETF", "调整时间已到，可能震荡企稳"],
+    "mentioned_stocks": ["沪深300", "中证500", "中证1000", "上证50", "创业板", "科创50"]
+  },
+  {
+    "index": 15,
+    "summary": "尾盘拉升原因不明，引发惊讶和担忧。",
+    "sentiment": "mixed",
+    "key_opinions": ["尾盘拉升，欧巴下班了还涨", "GJD拉上去", "创新药尾盘拉可能被埋"],
+    "mentioned_stocks": ["创新药", "保险"]
+  },
+  {
+    "index": 16,
+    "summary": "尾盘选择创新药投资标的，有推荐有风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["买创新药ETF", "药明康德可能被埋", "港股创新药ETF更安全"],
+    "mentioned_stocks": ["药明康德", "创新药ETF", "港股创新药ETF"]
+  },
+  {
+    "index": 17,
+    "summary": "上涨但市场波动让人不适，感到恶心。",
+    "sentiment": "negative",
+    "key_opinions": ["涨了但难受", "不健康市场，ETF涨跌停随意", "量化神力让人恶心"],
+    "mentioned_stocks": ["海力士", "ETF"]
+  },
+  {
+    "index": 18,
+    "summary": "分析历史调整模式预测本次，希望反弹。",
+    "sentiment": "positive",
+    "key_opinions": ["平均调整21天、幅度19%", "趋势板块可能横盘消化", "横住就是胜利"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "电力板块大幅下跌，防守板块失效。",
+    "sentiment": "negative",
+    "key_opinions": ["电力板块下跌25%", "防守板块也跌恐怖", "量化影响板块干净度"],
+    "mentioned_stocks": ["电力板块", "绿电", "长江电力"]
+  },
+  {
+    "index": 20,
+    "summary": "今天走势相对温和，但担心明天。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天情绪冰点后反弹", "希望多涨几天"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论空头是否被逼仓，不确定。",
+    "sentiment": "mixed",
+    "key_opinions": ["空头可能爆仓", "空头退场开始做多", "量化动作罢了"],
+    "mentioned_stocks": ["海力士", "KOSPI"]
+  },
+  {
+    "index": 22,
+    "summary": "解释看好半导体设备和材料投资逻辑。",
+    "sentiment": "positive",
+    "key_opinions": ["国家支持科技，科特估概念", "国产替代长期坚定", "回调加仓坚信科技"],
+    "mentioned_stocks": ["半导体设备", "半导体材料", "ETF"]
+  },
+  {
+    "index": 23,
+    "summary": "以诗词形式表达炒股亏损经历和市场波动。",
+    "sentiment": "negative",
+    "key_opinions": ["炒股亏损成文学", "市场大涨大跌", "苦难是文学摇篮"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 24,
+    "summary": "大盘企稳后关注长鑫产业链机会。",
+    "sentiment": "positive",
+    "key_opinions": ["长鑫上市是大事件", "关注产业链相关机会"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 25,
+    "summary": "因折腾不起决定今天卖出，空仓感觉好。",
+    "sentiment": "negative",
+    "key_opinions": ["先出为敬，空仓感觉好", "试盘错了认得快", "后面涨也高兴"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "收复年线引发牛市回归讨论，但怀疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["收复年线，牛回可能", "无量反弹不可信", "量化下班活人干活"],
+    "mentioned_stocks": ["韩指"]
+  },
+  {
+    "index": 27,
+    "summary": "提醒CPI公布可能影响市场，谨慎悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["今晚CPI公布是关卡", "外盘影响A股大", "明天可能一泻千里"],
+    "mentioned_stocks": ["紫金", "螺母"]
+  },
+  {
+    "index": 28,
+    "summary": "基于历史看多反弹，设定目标点位。",
+    "sentiment": "positive",
+    "key_opinions": ["百股跌停后反弹开始", "目标4350-4360", "持续到8月29日"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讨论能否连涨三天，怀疑历史重演。",
+    "sentiment": "mixed",
+    "key_opinions": ["连红三天可能", "明天不一能红", "割半导体后可能大涨"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 30,
+    "summary": "展示卖出点后悔，量化拉升让人难受。",
+    "sentiment": "negative",
+    "key_opinions": ["就差你一卖了，量化拉了", "涨了六个点难受"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "请求中师兄帮助A宗，可能指A股市场。",
+    "sentiment": "mixed",
+    "key_opinions": ["状我A宗", "大哥二哥三哥一起帮忙"],
+    "mentioned_stocks": []
+  }
+]
