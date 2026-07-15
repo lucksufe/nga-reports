@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论市场波动和量化交易，涉及散户情绪和指桑骂槐。",
+    "sentiment": "negative",
+    "key_opinions": ["用户讨厌量化交易", "讨论市场操控和散户割肉退市", "指桑骂槐抱怨市场"],
+    "mentioned_stocks": ["科技票"]
+  },
+  {
+    "index": 2,
+    "summary": "抱怨A股与韩国股市相关性，跟跌不跟涨。",
+    "sentiment": "negative",
+    "key_opinions": ["A股跟跌不跟涨", "骂市场操你妈", "直接骂不用给面子"],
+    "mentioned_stocks": ["韩国指数"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论宝妈（散户投资者）在股市中的表现，认为其入场代表行情尾声。",
+    "sentiment": "mixed",
+    "key_opinions": ["宝妈进场是行情尾声", "建议创建宝妈指数逃顶", "宝妈可能比其他散户情绪更稳定"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论‘猴模块’相关股票，调侃上游和炒作逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["上游峨眉山、原材料宏辉国蔬、配套昭衍新药", "猴子药涨停有业绩", "猴子药上游香蕉股启动"],
+    "mentioned_stocks": ["峨眉山", "宏辉国蔬", "昭衍新药", "海南香蕉", "海南橡胶"]
+  },
+  {
+    "index": 5,
+    "summary": "建议投资创新药ETF或港股T+0品种，避免T+1风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["T+1创新药易被套", "建议买T+0港股创新药ETF", "药明康德是选择之一"],
+    "mentioned_stocks": ["创新药ETF", "港股创新药ETF", "药明康德", "万邦医药", "513120"]
+  },
+  {
+    "index": 6,
+    "summary": "用户分享从科技股切换到医药股，赚了结婚钱，感谢父亲建议。",
+    "sentiment": "positive",
+    "key_opinions": ["从科技股赚出结婚和装修钱", "现在专注医药股", "父亲的建议正确"],
+    "mentioned_stocks": ["科技股", "医药股"]
+  },
+  {
+    "index": 7,
+    "summary": "比较科创50与韩国、纳斯达克表现，认为科创表现好但散户不满。",
+    "sentiment": "mixed",
+    "key_opinions": ["科创50比韩国、纳斯达克涨得多", "90%的人买个股没赚到钱", "科创指数被老登股拖累"],
+    "mentioned_stocks": ["科创50", "韩国指数", "纳斯达克"]
+  },
+  {
+    "index": 8,
+    "summary": "用户后悔未及时止盈东岳股票，建议不要幻想反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["应止盈跑路东岳", "参考港股东岳集团连跌", "不要幻想反弹"],
+    "mentioned_stocks": ["东岳", "东岳集团"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论猴子药上游香蕉股，调侃短期缺猴子长期缺香蕉。",
+    "sentiment": "mixed",
+    "key_opinions": ["猴子药涨，上游香蕉股启动", "短期缺猴子长期缺香蕉", "炒完香蕉利好化工股"],
+    "mentioned_stocks": ["猴子药", "香蕉股", "化肥", "化工股"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论明天是否拉升，涉及外部市场影响和A股假摔可能。",
+    "sentiment": "mixed",
+    "key_opinions": ["外面涨A股跌不合理", "可能假摔白酒涨太假", "明天跟着韩国调整"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "期待大盘大阳线改变三观，但科技股表现不佳。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股晒太阳又去世", "外资未建仓或大手觉得真牛市", "大阳可能在下周一或二"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论下午是否可能像昨天一样拉升，参考韩国指数和历史走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["启动韩国指数因子", "参考周五ETF跌停走势", "下午不太可能拉直线"],
+    "mentioned_stocks": ["韩国指数", "ETF"]
+  },
+  {
+    "index": 13,
+    "summary": "用户对国家队操控市场感到绝望，科技股月跌幅大。",
+    "sentiment": "negative",
+    "key_opinions": ["GJD不让科技涨尤其主板创业板", "科技股月跌幅达-30至-40", "赌徒心态割肉困难"],
+    "mentioned_stocks": ["亨通", "光", "半导体", "科技股"]
+  },
+  {
+    "index": 14,
+    "summary": "解释A股与韩国指数相关性逻辑，抱怨跟跌不跟涨。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国跌AI景气度下降跟跌", "韩国涨不需要跟涨独立逻辑", "GJD不让散户赚钱"],
+    "mentioned_stocks": ["韩国指数"]
+  },
+  {
+    "index": 15,
+    "summary": "建议投资者转向美股AI股票，认为美股是AI信徒该来的地方。",
+    "sentiment": "positive",
+    "key_opinions": ["美股是AI信徒该来的地方", "纳指横盘但比A股强", "真相信AI应进美股"],
+    "mentioned_stocks": ["美股AI", "纳指", "创新药ETF", "港股创新药ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论华为昇腾链小作文，影响科技股情绪，抱怨小作文恶心。",
+    "sentiment": "negative",
+    "key_opinions": ["小作文唱死950和rubinultra", "科技感觉要完", "华丰爆单与小作文矛盾"],
+    "mentioned_stocks": ["华为昇腾", "华丰", "科技股"]
+  },
+  {
+    "index": 17,
+    "summary": "锂板块大跌，希望无人关注，显示市场绝望。",
+    "sentiment": "negative",
+    "key_opinions": ["锂板块腰斩", "涨跌都大跌", "希望锂无人问津"],
+    "mentioned_stocks": ["锂板块"]
+  },
+  {
+    "index": 18,
+    "summary": "怀疑医药股出货，讨论量化操作和板块轮动。",
+    "sentiment": "mixed",
+    "key_opinions": ["泥潭开吹快到顶了医药全清", "买3买4是量化操作", "创新药个股半月翻倍"],
+    "mentioned_stocks": ["医药ETF", "药明", "昭衍", "半导体"]
+  },
+  {
+    "index": 19,
+    "summary": "警告老登股可能被砸，长鑫上市影响市场。",
+    "sentiment": "negative",
+    "key_opinions": ["仓位别太重", "老登股无所谓早跌够", "长鑫可能吸血砸盘"],
+    "mentioned_stocks": ["老登股", "长鑫", "工行", "长江电力", "海皇"]
+  },
+  {
+    "index": 20,
+    "summary": "用户亏损严重，讨论半导体和电网设备未跌到位。",
+    "sentiment": "negative",
+    "key_opinions": ["半导体电网设备已麻木", "半导体肉眼可见要杀人", "半导体芯片还没补跌到位"],
+    "mentioned_stocks": ["半导体", "电网设备", "长鑫"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论长江电力没有回调，涉及分红和财政智能。",
+    "sentiment": "mixed",
+    "key_opinions": ["长江电力要分红了", "财政智能可能影响未来", "红利低波走出底部趋势"],
+    "mentioned_stocks": ["长江电力", "长电", "工行", "长江电力", "海皇"]
+  },
+  {
+    "index": 22,
+    "summary": "用户破防，因为韩国涨A股科技票跌，本月亏损大。",
+    "sentiment": "negative",
+    "key_opinions": ["棒子狂拉我狂跌本月-40", "科技都在暴跌", "v起来下午可能拉高"],
+    "mentioned_stocks": ["韩国指数", "科技股", "亨通光电", "佰维存储"]
+  },
+  {
+    "index": 23,
+    "summary": "疑问为什么不能所有股票都涨，涉及流动性和市场结构。",
+    "sentiment": "mixed",
+    "key_opinions": ["流动性宽裕不缺钱", "科技独占盘子需额外资金", "都涨指数起飞慢牛难"],
+    "mentioned_stocks": ["药明", "牧原", "科技"]
+  },
+  {
+    "index": 24,
+    "summary": "韩国股市大涨但A股科技票绿，抱怨带不动。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国涨A股跌", "欧巴带不动了", "预判你的预判"],
+    "mentioned_stocks": ["韩国指数", "沪电", "ETF", "海力士"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论电解铝板块底部反转，估值低但风险犹存。",
+    "sentiment": "mixed",
+    "key_opinions": ["电解铝估值低PE不到7", "中东开打沪铝拉升", "是反弹还是反转需观察"],
+    "mentioned_stocks": ["电解铝", "神火", "云铝", "中铝", "宏桥", "中孚", "天山", "南山"]
+  },
+  {
+    "index": 26,
+    "summary": "疑问为什么不能所有股票都涨，涉及流动性和市场结构。",
+    "sentiment": "mixed",
+    "key_opinions": ["流动性宽裕不缺钱", "科技独占盘子需额外资金", "都涨指数起飞慢牛难"],
+    "mentioned_stocks": ["药明", "牧原", "科技"]
+  },
+  {
+    "index": 27,
+    "summary": "韩国股市大涨但A股科技票绿，抱怨带不动。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国涨A股跌", "欧巴带不动了", "预判你的预判"],
+    "mentioned_stocks": ["韩国指数", "沪电", "ETF", "海力士"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论电解铝板块底部反转，估值低但风险犹存。",
+    "sentiment": "mixed",
+    "key_opinions": ["电解铝估值低PE不到7", "中东开打沪铝拉升", "是反弹还是反转需观察"],
+    "mentioned_stocks": ["电解铝", "神火", "云铝", "中铝", "宏桥", "中孚", "天山", "南山"]
+  },
+  {
+    "index": 29,
+    "summary": "用户亏损30%，纠结是否持有或切换，讨论科技股跌幅。",
+    "sentiment": "negative",
+    "key_opinions": ["亏30%感觉回不来", "高买低卖操作失误", "科技股跌幅达40%"],
+    "mentioned_stocks": ["科技股", "光", "半导体", "港股"]
+  },
+  {
+    "index": 30,
+    "summary": "科伦药业新药临床成功，可能利好创新药板块。",
+    "sentiment": "positive",
+    "key_opinions": ["TROP2 ADC临床达主要终点", "为创新药再点一把火"],
+    "mentioned_stocks": ["科伦药业", "创新药"]
+  },
+  {
+    "index": 31,
+    "summary": "盘前预测市场，分析科技与老登表现，汇金增持科创。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技与老登同时大涨", "半导体可能补跌在月底", "汇金连续增持科创50"],
+    "mentioned_stocks": ["科技", "老登", "光", "PCB", "有色", "创新药", "油气", "半导体", "科创50", "兆易", "通富", "长电"]
+  },
+  {
+    "index": 32,
+    "summary": "韩美半导体股价因创纪录销售额和AI需求飙升。",
+    "sentiment": "positive",
+    "key_opinions": ["受创纪录销售额推动", "AI需求激增股价飙升"],
+    "mentioned_stocks": ["韩美半导体"]
+  },
+  {
+    "index": 33,
+    "summary": "韩国KOSPI指数大涨但A股不跟，抱怨跟跌不跟涨。",
+    "sentiment": "negative",
+    "key_opinions": ["跟跌不跟涨", "量化不跟韩国", "熔断启动"],
+    "mentioned_stocks": ["KOSPI指数"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论尾盘拉升模式，怀疑是鱼钩走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["经典尾盘鱼钩", "今天鱼钩小", "下午可能直线拉升"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "用户亏损调侃吃面，显示市场情绪低迷。",
+    "sentiment": "negative",
+    "key_opinions": ["事已至此先吃面", "亏损含泪加浇头"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "讨论买入猴子相关股票，调侃猴子属于AI上游。",
+    "sentiment": "mixed",
+    "key_opinions": ["猴子属于AI上游", "短期缺猴子长期缺香蕉", "昭衍新药是猴子药龙头"],
+    "mentioned_stocks": ["猴子", "峨眉山", "昭衍新药", "药明"]
+  },
+  {
+    "index": 37,
+    "summary": "海皇股票涨停，讨论何时卖出，业绩确定性强。",
+    "sentiment": "positive",
+    "key_opinions": ["海皇又涨停了", "业绩确定性非常强", "建议到16再卖"],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 38,
+    "summary": "午盘小拉，怀疑量化操作，预示下午可能继续砸。",
+    "sentiment": "negative",
+    "key_opinions": ["量化逗你玩", "老乡别跑村里发金条", "下午继续砸"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "韩国涨但A股铁盒（半导体ETF）跌，抱怨不跟涨。",
+    "sentiment": "negative",
+    "key_opinions": ["铁盒不跟棒子涨", "存储跟但铁盒不跟", "铁盒涨跌业绩一般"],
+    "mentioned_stocks": ["铁盒（半导体ETF）", "韩国指数", "存储"]
+  },
+  {
+    "index": 40,
+    "summary": "老登股影响小登股（科技股），呼吁救市。",
+    "sentiment": "mixed",
+    "key_opinions": ["老登快把小登基地推爆", "救一救小登股"],
+    "mentioned_stocks": ["老登股", "小登股"]
+  },
+  {
+    "index": 41,
+    "summary": "用户自嘲成为科技老登，亏损严重，万物皆周期。",
+    "sentiment": "negative",
+    "key_opinions": ["科技死扛本月收益-25%", "万物皆老登", "科技股几天跌完老登一年跌幅"],
+    "mentioned_stocks": ["科技股", "红利"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论抄底半导体ETF（铁盒），但风险大。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天不接什么时候接", "半导体都M顶了", "抄底不一定好事可能破位"],
+    "mentioned_stocks": ["半岛铁盒（半导体ETF）", "半导体"]
+  },
+  {
+    "index": 43,
+    "summary": "比较韩国和A股风险，涉及情绪投资和量化策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国情绪投资风险大", "A股业绩好跌停不合理", "量化策略导致跟跌不跟涨"],
+    "mentioned_stocks": ["韩国股市", "海力士", "美股海力士"]
+  },
+  {
+    "index": 44,
+    "summary": "创新药大涨，讨论是否应该相信，龙头主升浪刚开始。",
+    "sentiment": "mixed",
+    "key_opinions": ["创新药月涨幅近70%", "龙头主升浪刚开始", "科技被套创新药赚钱"],
+    "mentioned_stocks": ["创新药", "药明"]
+  },
+  {
+    "index": 45,
+    "summary": "用户从创新药切到半导体，亏损，管不住手。",
+    "sentiment": "negative",
+    "key_opinions": ["管不住手创新药切半导体", "科技买一次套一次", "吐出来五个点"],
+    "mentioned_stocks": ["创新药", "昭衍", "半导体", "哈药"]
+  },
+  {
+    "index": 46,
+    "summary": "推荐股票汉钟精机，讨论科技潮持续，建议研读讲话稿。",
+    "sentiment": "positive",
+    "key_opinions": ["推票汉钟精机", "科技潮可能持续", "反复研读科学技术讲话稿"],
+    "mentioned_stocks": ["汉钟精机", "长飞", "液冷", "中科仪"]
+  },
+  {
+    "index": 47,
+    "summary": "讨论科技股大跌原因，涉及基金调仓和量化策略。",
+    "sentiment": "negative",
+    "key_opinions": ["不是量化错是基金调仓", "科技大基金无止境出货", "量化策略高开就跑"],
+    "mentioned_stocks": ["科技股", "药酒", "量化"]
+  },
+  {
+    "index": 48,
+    "summary": "质疑完美世界股票上涨，业绩差但可能机构建仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["完美世界业绩没有预期", "跌多涨一下抵抗式下跌", "游戏业绩有合同负债蓄水池"],
+    "mentioned_stocks": ["完美世界", "世纪华通", "金种子"]
+  },
+  {
+    "index": 49,
+    "summary": "期望大会讲话但市场下跌，历史走势显示不乐观。",
+    "sentiment": "negative",
+    "key_opinions": ["讲话当天包砸", "忘记历史阅兵走势", "面子是自己丢的"],
+    "mentioned_stocks": ["昆仑"]
+  },
+  {
+    "index": 50,
+    "summary": "海皇股票表现好，预感大航海时代回归，讨论持有策略。",
+    "sentiment": "positive",
+    "key_opinions": ["拿着海皇最近舒服", "忠诚到15块", "新水手尝甜头"],
+    "mentioned_stocks": ["海皇"]
+  }
+]
