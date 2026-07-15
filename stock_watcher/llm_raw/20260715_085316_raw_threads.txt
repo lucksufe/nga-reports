@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论A股是否依赖外围市场（美、韩、日）上涨，情绪偏向谨慎，认为可能高开低走。",
+    "sentiment": "negative",
+    "key_opinions": ["市场可能过热需降温，高开或遭砸盘。", "量化资金不跟韩国市场的时机待验证。", "普遍对持续上涨缺乏信心。"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论长鑫科技上市后的极高估值（5.8万亿）是否合理，普遍认为估值过高、流动性不足。",
+    "sentiment": "negative",
+    "key_opinions": ["5.8万亿市值预期过于夸张，不切实际。", "上市可能吸走大量市场流动性。", "有国产替代加持，估值上限可能在2万亿。"],
+    "mentioned_stocks": ["长鑫科技"]
+  },
+  {
+    "index": 3,
+    "summary": "提醒投资者警惕历史重演，担心当前行情与上周五大跌类似。",
+    "sentiment": "negative",
+    "key_opinions": ["高开后可能重现日内砸盘的走势。", "认为市场每次都一样，需保持谨慎。", "对“这次不一样”的乐观说法持怀疑态度。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "分析AI制药产业链中实验猴成为瓶颈的逻辑，类比其他行业中的“卡脖子”环节。",
+    "sentiment": "positive",
+    "key_opinions": ["AI提升研发效率，但无法替代的实验环节成为关键瓶颈。", "利好相关养殖（峨眉山）及创新药企。", "AI应用正从算力向医药、金融等领域深化。"],
+    "mentioned_stocks": ["峨眉山", "药明康德"]
+  },
+  {
+    "index": 5,
+    "summary": "等待英维克业绩预增公告，投资者失望情绪蔓延，认为预期不断后移。",
+    "sentiment": "negative",
+    "key_opinions": ["业绩预期一再推迟，从二季度延至三季度。", "市场信心不足，预期公司业绩难达预期。", "调侃公司可能永远在“下一个季度”兑现。"],
+    "mentioned_stocks": ["英维克"]
+  },
+  {
+    "index": 6,
+    "summary": "分析韩国股市因高波动率再次熔断，认为杠杆资金未出清，风险仍在。",
+    "sentiment": "negative",
+    "key_opinions": ["高波动率表明杠杆资金尚未清理完毕。", "暴涨暴跌本身是风险释放的过程。", "认为杠杆无法完全杀干净，空头也可能爆仓。"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 7,
+    "summary": "震惊于韩国股市开盘大涨，归因于美股海力士大涨带动。",
+    "sentiment": "mixed",
+    "key_opinions": ["大涨主要受隔夜美股海力士暴涨驱动。", "预期今日韩国股市可能多次熔断。", "认为涨幅相比美股ADR仍偏低。"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 8,
+    "summary": "探讨内存行业是否进入需求驱动的“超级周期”，涉及供不应求与产能扩张的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI驱动下，存储需求增长可能持续超预期。", "高利润可能抑制下游采购需求，形成循环。", "企业扩产谨慎，避免重蹈光伏行业产能过剩覆辙。"],
+    "mentioned_stocks": ["SK海力士", "长鑫存储", "福建晋华"]
+  },
+  {
+    "index": 9,
+    "summary": "传闻DeepSeek等AI模型公司计划上市，市场反应热烈但存疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["大模型公司上市将获得政策支持。", "有实际业绩的AI公司上市是利好。", "担忧上市时机可能已晚，泡沫已现。"],
+    "mentioned_stocks": ["DeepSeek"]
+  },
+  {
+    "index": 10,
+    "summary": "提醒投资者牢记“高开即卖”的市场祖训，对上涨持谨慎态度。",
+    "sentiment": "negative",
+    "key_opinions": ["“高开必派发”是市场普遍认知的教训。", "部分投资者仍想持仓博取更大收益。", "对持续上涨缺乏信心，担忧高开低走。"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 11,
+    "summary": "再次强调“高开必卖”的市场经验。",
+    "sentiment": "negative",
+    "key_opinions": ["高开意味着派发筹码给散户的机会。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "询问今日市场走势，乐观与谨慎情绪并存。",
+    "sentiment": "mixed",
+    "key_opinions": ["预期高开，但认为可能“发套”。", "需观察早盘量能判断是否走稳。", "认为高开是大概率事件。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论美股海力士大涨后，A股存储股（兆易创新）能否跟涨，涉及估值比较。",
+    "sentiment": "mixed",
+    "key_opinions": ["调侃量化“已删除韩国因子”，可能不跟涨。", "兆易创新与长鑫上市估值存在矛盾，需警惕。", "担忧长鑫上市将大量抽血市场资金。"],
+    "mentioned_stocks": ["兆易创新", "长鑫科技", "德明利"]
+  },
+  {
+    "index": 14,
+    "summary": "今日是验证A股量化策略是否独立于韩国市场的时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["今日走势将检验量化策略的独立性。", "海力士ADR与正股价差大，跟涨逻辑存疑。"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论赛力斯商业模式过度依赖华为的风险，认为其缺乏独立性。",
+    "sentiment": "negative",
+    "key_opinions": ["营收90%依赖华为，被深度绑定。", "华为合作方增多，稀释赛力斯独占优势。", "缺乏华为支持，公司基本面支撑力弱。"],
+    "mentioned_stocks": ["赛力斯", "华为"]
+  },
+  {
+    "index": 16,
+    "summary": "关于“忠诚”的调侃，与市场讨论无关。",
+    "sentiment": "mixed",
+    "key_opinions": ["帖子内容与股市无关，系串台或调侃。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "因美股海力士大涨而兴奋，讨论是否今日能“麻袋装钱”。",
+    "sentiment": "positive",
+    "key_opinions": ["受外围大涨刺激，对A股今日表现期待高。", "量化资金可能不跟涨（“今天不带韩国因子”）。", "关注韩国市场开盘涨幅。"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 18,
+    "summary": "分析长鑫科技IPO的核心数据，包括发行价、估值和募资额。",
+    "sentiment": "neutral",
+    "key_opinions": ["提供了长鑫科技IPO的关键财务数据概览。", "上市估值约为5792亿元。"],
+    "mentioned_stocks": ["长鑫科技"]
+  },
+  {
+    "index": 19,
+    "summary": "观察到帖子情绪高涨，但投资者对是涨是跌产生分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场情绪亢奋，但投资者不知是“装钱”还是“蹲好”。", "地缘政治等外部因素可能影响市场。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "通过ETF申购数据和汇金动向分析，认为今日可能为市场底部。",
+    "sentiment": "positive",
+    "key_opinions": ["数据显示大资金（汇金）大幅买入ETF。", "这被视为国家队认可底部的信号。", "计划分批建仓，但对反弹存疑。"],
+    "mentioned_stocks": ["沪深300", "中证1000"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论黄金与原油价格同涨是否预示滞胀或黄金反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金与油价同涨，可能因中东卖金结束。", "有理论指向滞胀风险，可能影响股市。", "黄金短期仍受美元和降息预期主导。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "解读美国低于预期的CPI数据对市场的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["CPI数据低于预期，影响美股及资金流向。", "认为短期利好，但长期可能再次转差。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "因存储行业预期乐观而联想“黄金时代”，但看法分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["存储行业因需求增长可能迎来大涨。", "部分人质疑市场“正规性”。", "“黄金时代”后可能面临“蚀刻”风险。"],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 24,
+    "summary": "分析德明利业绩报告中研发投入加大的影响，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["研发投入加大是向芯片自研转型的积极信号。", "市场通常不看好初期高额研发投入。", "股价短期可能承压，需看中报结果。"],
+    "mentioned_stocks": ["德明利", "兆易创新"]
+  },
+  {
+    "index": 25,
+    "summary": "重仓德明利的投资者因业绩不及预期而焦虑，讨论应对策略。",
+    "sentiment": "negative",
+    "key_opinions": ["业绩不及预期导致恐慌，准备抛售。", "担忧其下跌连累整个存储板块。", "计划调仓，认为持有ETF更稳妥。"],
+    "mentioned_stocks": ["德明利", "存储板块"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论海力士涨幅过快带来的跟涨困扰及波动风险。",
+    "sentiment": "negative",
+    "key_opinions": ["担忧A股无法跟上外盘暴涨暴跌的节奏。", "预期今日可能高开后砸盘。", "提及SpaceX等关联标的下跌带来风险。"],
+    "mentioned_stocks": ["海力士", "SpaceX"]
+  },
+  {
+    "index": 27,
+    "summary": "预期今日量化资金将刻意证明自己不跟随韩国市场。",
+    "sentiment": "negative",
+    "key_opinions": ["认为量化“狗改不了吃屎”，会跟涨。", "预计高开跳水是大概率事件。", "量化做T，涨高了必然卖出。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "等待光模块公司（华工科技）发布业绩预告，讨论发布时限。",
+    "sentiment": "mixed",
+    "key_opinions": ["公司业绩预告截止日临近，市场等待。", "可能拖延至最后一刻发布。", "业绩公布前，股价波动看市场情绪。"],
+    "mentioned_stocks": ["华工科技"]
+  },
+  {
+    "index": 29,
+    "summary": "惊叹于美股海力士的暴涨，计算其溢价率，并引发“黄金时代”联想。",
+    "sentiment": "positive",
+    "key_opinions": ["海力士美股涨幅惊人，溢价率极高。", "引发对存储行业“黄金时代”再现的讨论。", "担忧大涨后会立即迎来大跌。"],
+    "mentioned_stocks": ["SK海力士", "TSMC"]
+  },
+  {
+    "index": 30,
+    "summary": "传闻监管要求不得议论量化，引发市场对监管和市场透明度的讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["传言监管压制对量化的负面讨论。", "认为这是“掩耳盗铃”，量化是市场波动放大器。", "多数人认为传言可信度低或做法不当。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "计划开盘满仓并冲击4200点，展现激进乐观情绪。",
+    "sentiment": "positive",
+    "key_opinions": ["计划买入ETF并冲击高点。", "警告过快上涨可能引发大资金抛售。", "认为创业板、科创板机会更大。"],
+    "mentioned_stocks": ["515050", "588170", "上证指数"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论海力士大涨后，其他存储公司（美光、闪迪）及长鑫上市对行业格局的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["其他存储公司（美光、闪迪）涨幅落后，地位不佳。", "长鑫上市将对现有存储“杂毛”公司造成冲击。", "模组厂等二线厂商可能面临“大逃杀”。"],
+    "mentioned_stocks": ["美光", "闪迪", "SK海力士", "长鑫科技"]
+  },
+  {
+    "index": 33,
+    "summary": "根据国家队加仓ETF推断资金将流向权重龙头股。",
+    "sentiment": "positive",
+    "key_opinions": ["国家队加仓ETF资金将流入大盘权重股。", "具体指向茅台、宁德等龙头。", "推荐关注相关ETF和龙头个股。"],
+    "mentioned_stocks": ["贵州茅台", "宁德时代", "A500指数ETF"]
+  },
+  {
+    "index": 34,
+    "summary": "传闻华为计划切入DRAM领域，引发对行业格局和华为角色的讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["华为入局可能搅动存储市场。", "被视作行业“冥灯”或“吸血鬼”。", "产品落地周期长，短期影响有限。"],
+    "mentioned_stocks": ["华为", "晋华", "昇维旭"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论内存厂商扩产计划保守，可能长期维持供不应求状态。",
+    "sentiment": "positive",
+    "key_opinions": ["厂商扩产谨慎，以维持高利润。", "扩产周期长，短期难以满足激增的需求。", "这可能形成对AI硬件的长期瓶颈。"],
+    "mentioned_stocks": ["SK海力士"]
+  },
+  {
+    "index": 36,
+    "summary": "FOMO（害怕错过）情绪下讨论是否开盘All in，但警告高风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["情绪驱动下想追涨，但担忧成为接盘侠。", "预计今日高开，可能复刻上周的日内大跌。", "建议等待趋势确认。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "询问明日可投资标的，建议多样但多属调侃或保守策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["建议买入回调的光模块、PCB。", "部分建议等待长鑫申购或做逆回购。", "存在“买亏损股”的调侃式建议。"],
+    "mentioned_stocks": ["光模块", "PCB", "长鑫科技"]
+  },
+  {
+    "index": 38,
+    "summary": "以“韩国女孩”比喻，调侃市场重回“黄金时代”的幻想。",
+    "sentiment": "mixed",
+    "key_opinions": ["“韩国女孩”成为市场情绪符号。", "调侃“黄金时代”故事再次上演。", "暗示杠杆资金可能再次面临爆仓风险。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "预测沪电股份将涨停，但多数人认为其连板基因弱，风险高。",
+    "sentiment": "negative",
+    "key_opinions": ["预期机构抢筹导致涨停。", "认为沪电股份缺乏连续涨停的历史基因。", "首板追高风险极大，易触发量化砸盘。"],
+    "mentioned_stocks": ["沪电股份"]
+  },
+  {
+    "index": 40,
+    "summary": "提出科技牛市与地方国资科技企业IPO绑定的逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["地方国资通过参股科技企业上市来“化债”。", "科技牛市持续的关键是新企业不断上市融资。", "质疑散户资金能否支撑持续上涨。"],
+    "mentioned_stocks": ["长鑫科技", "中际旭创"]
+  },
+  {
+    "index": 41,
+    "summary": "咨询是否适合买入康龙化成，回复偏向谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为康龙化成已有一定涨幅。", "建议当前行情只适合低吸或做超跌反弹。", "创新药板块可能随时补跌。"],
+    "mentioned_stocks": ["康龙化成"]
+  },
+  {
+    "index": 42,
+    "summary": "询问同花顺软件安装乱码问题的解决方案。",
+    "sentiment": "neutral",
+    "key_opinions": ["问题可能与文件清理或系统编码设置有关。", "建议切换系统编码为GBK。"],
+    "mentioned_stocks": ["同花顺"]
+  },
+  {
+    "index": 43,
+    "summary": "认为海力士下跌“没救”，但立刻被其反弹打脸。",
+    "sentiment": "mixed",
+    "key_opinions": ["对海力士走势感到迷茫和恐慌。", "股价快速反弹，印证其高波动性。", "再次引发“黄金时代”的联想。"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论关于H200芯片到货的小作文真假及影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["传闻少量H200已到货，但可能有使用限制。", "认为该消息影响有限，已是旧闻。", "投资者因抄底过少而懊悔。"],
+    "mentioned_stocks": ["H200", "英伟达"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论中际旭创中报发布时间及业绩传闻的风险。",
+    "sentiment": "negative",
+    "key_opinions": ["非官方提前泄露业绩可能违法。", "提醒以公司正式公告为准。", "传言称业绩可能仅微增，低于预期。"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论今日是否适合买入，普遍建议等待更好时机。",
+    "sentiment": "negative",
+    "key_opinions": ["高开不宜追买，风险大于机会。", "周五或周一可能是更好的买点。", "预计市场仍会回调。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "分析AEHR与Tower大涨对硅光技术及光模块产业链的利好。",
+    "sentiment": "positive",
+    "key_opinions": ["AEHR业绩超预期印证硅光需求爆发。", "利好光模块龙头（旭创）的半导体化转型。", "NPO路径可能成为未来主流。"],
+    "mentioned_stocks": ["AEHR", "Tower", "中际旭创"]
+  },
+  {
+    "index": 48,
+    "summary": "从板块轮动角度分析医药可能迎来中期机会。",
+    "sentiment": "positive",
+    "key_opinions": ["科技极致抱团后，资金可能轮动至医药。", "创新药板块已显现出与指数的共振。", "但短期科技强势，医药可能仍是对手盘。"],
+    "mentioned_stocks": ["创业板指数", "创新药"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论外资投行研究报告的可信度，普遍认为公开报告参考价值低。",
+    "sentiment": "negative",
+    "key_opinions": ["外资大行公开研报被认为有误导性。", "内部研究强于对外发布的言论。", "亚洲分部对A股的正面言论尤其不可信。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "指责美国做空韩国科技股引发暴跌，认为其手法恶劣。",
+    "sentiment": "negative",
+    "key_opinions": ["指责美国通过做空获取低价筹码。", "韩国自身政策失误给了外部做空机会。", "对比中美市场操纵手段。"],
+    "mentioned_stocks": ["海力士"]
+  }
+]
