@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论新股中签的期望与实际收益，部分人认为收益有限。",
+    "sentiment": "mixed",
+    "key_opinions": ["一签收益大约两三万，并非巨额回报", "有人表示家人需要养，对中签期望强烈", "质疑量化无对手，无法捕捉信息"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论韩国股市熔断与存储芯片行业的风险，担忧金融危机。",
+    "sentiment": "negative",
+    "key_opinions": ["认为韩国全民炒股高杠杆可能引爆金融危机", "存储芯片行业可能成为半导体基石但前景不明", "对兆易创新等存储个股走势感到恐惧"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论德明利（ST中环）连续跌停，封单巨大，市场情绪悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["封单巨大，预计需要多个跌停才能打开", "高位接盘者面临大幅亏损风险", "融资盘面临强平压力，形势严峻"],
+    "mentioned_stocks": ["德明利", "ST中环"]
+  },
+  {
+    "index": 4,
+    "summary": "倡导“老太监战法”，即及时止损，不纠结于支撑位。",
+    "sentiment": "mixed",
+    "key_opinions": ["正规市场应果断止损，涨时再追", "死扛源于贪婪，割肉是正确选择"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论反垄断调查对澜起科技等公司的股价冲击。",
+    "sentiment": "negative",
+    "key_opinions": ["反垄断调查对象包括澜起科技，股价受重挫"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 6,
+    "summary": "分享在国算与紫光国微间的操作教训，强调避免恐慌性抛售。",
+    "sentiment": "negative",
+    "key_opinions": ["不要在情绪低点（如早盘恐慌）割肉", "操作应更谨慎，可考虑空仓观望", "当前持有紫金矿业和场外PCB基金"],
+    "mentioned_stocks": ["紫光国微", "紫金矿业"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论在军工板块被套的经历，反思赛道选择与时机问题。",
+    "sentiment": "negative",
+    "key_opinions": ["全仓军工导致错过半导体主升浪并被套", "质疑军工赛道小众，订单逻辑存疑", "阅兵等事件驱动效果有限"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "分享暂停交易、出门旅游的计划，并征集美食建议。",
+    "sentiment": "positive",
+    "key_opinions": ["计划卸载软件，暂停交易一周", "向杭州、苏州、上海居民征集美食攻略", "有人认为上述地区是美食荒漠"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "争论科技股与其他板块（如光伏、白酒）的跌幅对比及市场病态问题。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股短期暴跌被批评为病态，相比老登股跌幅更急", "认为市场由量化主导，病态且制造对立", "追高科技股者利润垫薄，不敢格局"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论“龙哥”（可能指某主力或市场）给出的三次跑路机会。",
+    "sentiment": "negative",
+    "key_opinions": ["上午拉升是否是跑路机会引发争论", "有投资者表示要与AI共存亡", "有人嘲讽“爆拉”是指跌幅收窄"],
+    "mentioned_stocks": ["兆易创新", "澜起科技"]
+  },
+  {
+    "index": 11,
+    "summary": "分析磷酸铁锂龙头湖南裕能涨价的市场影响，观点矛盾。",
+    "sentiment": "mixed",
+    "key_opinions": ["涨价可能反而导致销路变差，股价下跌", "认为是中上游对下游压价的反击", "市场可能杀涨价逻辑"],
+    "mentioned_stocks": ["湖南裕能"]
+  },
+  {
+    "index": 12,
+    "summary": "对澜起科技大跌表示恐慌，担心拖累科创板。",
+    "sentiment": "negative",
+    "key_opinions": ["澜起科技大跌可能带崩整个科创", "港股澜起已下跌", "有声音认为应加仓垄断性好股"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 13,
+    "summary": "短线选手吐槽开盘交易卡顿及被量化“耍猴”的经历。",
+    "sentiment": "negative",
+    "key_opinions": ["开盘前几十秒交易卡顿，影响短线操作", "认为量化速度优势形成不公平竞争", "建议提前挂单或预判挂单"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论在科技股下降趋势中做反向T+0操作降成本的可行性。",
+    "sentiment": "negative",
+    "key_opinions": ["不建议在下降趋势中做T，风险极高", "做T可能每日小亏，且易T飞错过反弹", "有投资者坚持每日做T以降低损失"],
+    "mentioned_stocks": ["华天科技"]
+  },
+  {
+    "index": 15,
+    "summary": "引用6月电池销量同比增长数据，但市场反应平淡。",
+    "sentiment": "mixed",
+    "key_opinions": ["电池销量数据增长符合预期", "相关公司如亿纬锂能已提前公布业绩"],
+    "mentioned_stocks": ["亿纬锂能"]
+  },
+  {
+    "index": 16,
+    "summary": "投资者宣布割肉离场，挂跌停卖出科创和通信ETF。",
+    "sentiment": "negative",
+    "key_opinions": ["已无法承受亏损，决定清仓科创半导体和通信ETF", "被调侃为“高纯度韭菜”和“无限子弹哥”"],
+    "mentioned_stocks": ["科创半导体ETF(588170)", "通信ETF(515050)"]
+  },
+  {
+    "index": 17,
+    "summary": "请求内资在明天讲话时给面子拉升，但回应悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["希望明天内资能拉升科技股", "回应多为调侃，预期是“吃面”（亏损）"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论恒生科技指数走势与全球市场的脱节现象。",
+    "sentiment": "mixed",
+    "key_opinions": ["恒科走势独立，与美股A股脱钩", "认为其表现与美股科技巨头联动"],
+    "mentioned_stocks": ["恒生科技指数"]
+  },
+  {
+    "index": 19,
+    "summary": "询问工行、美的、粤高速、神华等高股息股票的建仓价位。",
+    "sentiment": "mixed",
+    "key_opinions": ["美的集团可在75元左右逐步建仓", "中国神华40元以下可建仓用于打新配额", "需耐心等待合适买点"],
+    "mentioned_stocks": ["工商银行", "美的集团", "粤高速A", "中国神华"]
+  },
+  {
+    "index": 20,
+    "summary": "观点认为A股杠杆率低是市场问题，并引发争论。",
+    "sentiment": "negative",
+    "key_opinions": ["认为杠杆率低导致市场难以出现大行情", "被多数回复批评，认为提高杠杆会加剧风险", "反驳称中国人风险偏好不适合高杠杆"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "投资者因业绩好的科技股、储能股反常下跌而心态崩溃。",
+    "sentiment": "negative",
+    "key_opinions": ["业绩好的股票反而大跌，无法理解", "鹏辉能源业绩大增却遭跌停", "抱怨市场病态，量化市无逻辑"],
+    "mentioned_stocks": ["鹏辉能源"]
+  },
+  {
+    "index": 22,
+    "summary": "感叹市场不给重要场合面子，延续下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["开会期间市场仍下跌，不给面子", "认为市场由量化主导，不在乎面子", "以史为鉴，类似情况曾发生"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "表达对中签长鑫存储的强烈渴望与祝福。",
+    "sentiment": "positive",
+    "key_opinions": ["急切希望能中签长鑫存储新股", "相互祝福，希望能沾到好运"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 24,
+    "summary": "详细推荐汉钟精机，并讨论科技股前景。",
+    "sentiment": "positive",
+    "key_opinions": ["长期看好并推荐汉钟精机", "认为应深入研究科技政策讲话", "有投资者根据此推荐买入并获利"],
+    "mentioned_stocks": ["汉钟精机", "长飞光纤"]
+  },
+  {
+    "index": 25,
+    "summary": "关注小米集团股价从低点反弹25%及其原因。",
+    "sentiment": "positive",
+    "key_opinions": ["小米上涨因存储见底、出海预期及超跌反弹", "论坛此前有成功抄底者被嘲讽，现已验证", "小米拥有物理AI优势"],
+    "mentioned_stocks": ["小米集团"]
+  },
+  {
+    "index": 26,
+    "summary": "通过韩国救市新闻对比，讽刺A股救市效果。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国救市措施引发A股股民感慨", "讽刺A股救市是“收尸”而非“救市”", "有人建议降低科技仓位，加仓逆回购"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "分享低价购买白银实物饰品的经验，讨论投资逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["克价10-12元购买银饰可作为投资和礼物", "有人质疑低价是否是骗局", "认为白银现货价格低于55元无配置意义"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "以“西游记”、“三国”等文学典故调侃当前股市热点板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["将“西游”概念与“三国”概念关联，寻找相关股票", "有人预测后续是“红楼梦”（房地产）或“水浒”（白酒）", "讨论纯属娱乐性联想"],
+    "mentioned_stocks": ["卧龙电驱", "白云山", "汉钟精机"]
+  },
+  {
+    "index": 29,
+    "summary": "观点认为真正的AI应用在于医药、消费、住房，而非硬件。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI最终应服务于民生，应用端更重要", "批评硬件“卖铲子”自视过高", "有声音指出基本面就是当前在涨的板块"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "本已完成主线操作，因抄底半导体而再次亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["本月主线本已完成，但抄底半导体导致亏损", "感叹操作失败"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "清仓科技股，全仓换入药明康德，担忧再次“卖飞”。",
+    "sentiment": "mixed",
+    "key_opinions": ["清仓科技股，全仓买入药明康德", "担心每次清仓后原持仓反弹", "发现多人同时转向创新药"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 32,
+    "summary": "引用巴菲特确认买入谷歌（Alphabet）并后悔买晚了的消息。",
+    "sentiment": "positive",
+    "key_opinions": ["巴菲特证实买入谷歌是本人提议", "坦言错过谷歌早期发展是失误"],
+    "mentioned_stocks": ["谷歌母公司Alphabet"]
+  },
+  {
+    "index": 33,
+    "summary": "讽刺市场反弹后下跌速度越来越快。",
+    "sentiment": "negative",
+    "key_opinions": ["市场反弹持续时间变短，跌幅速度加快"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "希望了解韩国股市论坛的情绪，并进行搬运。",
+    "sentiment": "mixed",
+    "key_opinions": ["请求搬运韩国股市论坛的帖子", "根据信息，韩国投资者在哀嚎和诅咒", "有观点认为做空韩国股票可能获利"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "宣布今日科技股（科创50）仍是出货行情，反弹无力。",
+    "sentiment": "negative",
+    "key_opinions": ["今日科技反弹是弱反抽，是出货机会", "紫光国微等龙头股表现疲软，压制情绪", "澜起科技大跌可能带崩科创板"],
+    "mentioned_stocks": ["科创50", "紫光国微", "澜起科技"]
+  },
+  {
+    "index": 36,
+    "summary": "自嘲每月上旬亏钱下旬回本的“规律”，戏称为利好。",
+    "sentiment": "mixed",
+    "key_opinions": ["个人账户存在月度亏损后回本的“规律”", "被戏称为“利好侠”、“回本侠”", "有回复询问其下半月计划"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "讨论华天科技股价被压制，难以反弹的原因。",
+    "sentiment": "negative",
+    "key_opinions": ["华天科技股价被大额卖单压制", "做空龙头是德明利，板块整体弱势", "半导体指数不起，华天也难以独善其身", "缩量市场缺乏买盘"],
+    "mentioned_stocks": ["华天科技", "德明利"]
+  },
+  {
+    "index": 38,
+    "summary": "展示中天科技大幅下跌的K线图，庆幸或后悔割肉。",
+    "sentiment": "negative",
+    "key_opinions": ["中天科技股价大跌，图形“美丽”（讽刺）", "有投资者割肉后庆幸，有投资者被套", "光纤光缆板块整体表现不佳"],
+    "mentioned_stocks": ["中天科技", "亨通光电"]
+  },
+  {
+    "index": 39,
+    "summary": "总结市场走势：存储未修复，科技板块分化，创业板与科创同步下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["存储板块未修复，科技板块走势分化", "创业板与科创50七月跌幅相当，约-12%", "军工等板块短期连续暴跌，埋人效应强"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论当前科技股与“老登股”（传统板块）的跷跷板效应。",
+    "sentiment": "negative",
+    "key_opinions": ["科技与老登股呈现“你涨我跌”的跷跷板效应", "认为量化策略中两者因子呈反向关系", "本质是存量资金不足，在板块间快速轮动"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "观点认为外资是A股脊梁，内资常借外资砸盘甩锅。",
+    "sentiment": "negative",
+    "key_opinions": ["关键时点外资不在，内资不敢砸盘", "内资常假借外资之名进行抛售"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "关注比亚迪股价缓慢回升，投资者表达回本焦虑。",
+    "sentiment": "mixed",
+    "key_opinions": ["比亚迪股价从低点缓慢上涨", "有投资者高位被套，每日看着很痛苦", "对比科技股波动，认为比亚迪波动较小"],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 43,
+    "summary": "用数字成语接龙形容股市的惨状和散户的绝望。",
+    "sentiment": "negative",
+    "key_opinions": ["用成语接龙描述市场连续下跌、散户亏损的状态", "内容充满悲观和绝望情绪"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "担忧明天对自己最关键，因重仓（金枪鱼）面临反垄断调查消息。",
+    "sentiment": "negative",
+    "key_opinions": ["满仓金枪鱼（澜起科技），面临反垄断调查利空", "有观点认为AI不死则澜起不用怕", "单吊风险高，易遇黑天鹅"],
+    "mentioned_stocks": ["金枪鱼（疑似澜起科技代称）"]
+  },
+  {
+    "index": 45,
+    "summary": "分析中国巨石股价大跌的原因，包括扩产和板块趋势。",
+    "sentiment": "negative",
+    "key_opinions": ["巨石扩产消息在当前悲观市场下被视为利空", "PCB上游板块整体下跌，巨石难以幸免", "市场不讲逻辑，纯情绪化杀跌"],
+    "mentioned_stocks": ["中国巨石"]
+  },
+  {
+    "index": 46,
+    "summary": "宣布空仓离场，因无法承受科技与医药的极端对立。",
+    "sentiment": "negative",
+    "key_opinions": ["无法适应科技与医药的极端对立行情，选择空仓", "表示要休息，等待长鑫存储上市等机会", "呼吁老登小登投资者停止内耗"],
+    "mentioned_stocks": ["华天科技", "通富微电", "长鑫存储"]
+  },
+  {
+    "index": 47,
+    "summary": "分享跟随小米上涨，在消费电子板块成功“掏兜”（短线获利）。",
+    "sentiment": "positive",
+    "key_opinions": ["观察到小米上涨后，在消费电子板块选股成功", "歌尔股份等消费电子股有资金流入", "有人羡慕有科创板交易权限"],
+    "mentioned_stocks": ["小米集团", "歌尔股份"]
+  },
+  {
+    "index": 48,
+    "summary": "报道美国对DRAM设备启动337调查，但被视为利好国产。",
+    "sentiment": "mixed",
+    "key_opinions": ["美国启动对DRAM相关产品的贸易调查", "被视为针对三星，促其降价", "认为最终可能利好国产设备出海"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "讨论下午是否跑路，以及博弈明天讲话后市场反弹的可能性。",
+    "sentiment": "negative",
+    "key_opinions": ["都预期明天会红，反而可能不会红", "认为明天（讲话日）可能继续下跌", "历史经验表明，关键日下跌后可能才是底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "记录个人操作：美的获利了结，换仓徐工机械。",
+    "sentiment": "mixed",
+    "key_opinions": ["从美的集团获利了结，只留固定仓位吃息", "换仓徐工机械，看好其长期发展", "短期目标徐工股价回到10元"],
+    "mentioned_stocks": ["美的集团", "徐工机械"]
+  }
+]
