@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论科技股情绪悲观时长鑫上市的风险与机会，认为现在上市可能反而有慢牛机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["悲观情绪高涨时上市反而风险较小，可能慢牛", "狂热时上市股价暴涨风险更大", "国家队未大力托底前不宜乐观"],
+    "mentioned_stocks": ["长鑫", "海力士"]
+  },
+  {
+    "index": 2,
+    "summary": "用户买入中天科技后次日大跌，抱怨整个光纤板块走势糟糕。",
+    "sentiment": "negative",
+    "key_opinions": ["买入即大跌13%", "整个光纤板块图形烂透", "板块需企稳和大阳线才是底"],
+    "mentioned_stocks": ["中天科技", "亨通", "光纤版块"]
+  },
+  {
+    "index": 3,
+    "summary": "用户开设盘前分享楼，分析当日盘面回调不符逻辑，并提示创新药分歧风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["回调因不可抗力，并非市场正常逻辑", "创新药板块今日走势不佳，建议谨慎", "可考虑港股ETF因T+0机动性强"],
+    "mentioned_stocks": ["创新药", "港股ETF"]
+  },
+  {
+    "index": 4,
+    "summary": "用户称看兆易创新股吧能改善心情，配图示意。",
+    "sentiment": "positive",
+    "key_opinions": ["看兆易创新股吧能让生活充满阳光"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 5,
+    "summary": "抱怨只在市场涨时降温，跌时却不升温，认为政策不公平。",
+    "sentiment": "negative",
+    "key_opinions": ["涨时降温，跌时不升温，政策不公平", "上次升温后迎来大跌", "降温无需成本，升温需要真金白银"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论兆易创新在业绩没问题的情况下持续下跌的原因，认为与行业、估值及长鑫上市预期有关。",
+    "sentiment": "negative",
+    "key_opinions": ["存储行业集体下跌拖累兆易", "机构操作与量化导致下跌", "需长鑫上市拉高估值才能拯救兆易"],
+    "mentioned_stocks": ["兆易创新", "长鑫", "澜起", "德明利", "江波龙"]
+  },
+  {
+    "index": 7,
+    "summary": "用户抱怨科技股与价值股双跌，资金去向不明，质疑是量化轮动和大股东减持的结果。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股与价值股双输", "量化资金在板块间快速轮动制造波动", "怀疑资金被大股东减持提走"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "用表情符号表达极端悲观情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["所有人都难逃亏损"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "询问抄底时机选择，跌停买还是次日低开博。",
+    "sentiment": "mixed",
+    "key_opinions": ["抄底是赌博行为", "应观察次日大盘及板块情绪再决定"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "用片仔癀历史走势类比当前，认为现在是黎明前的黑暗，但多数回复认为可能继续下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["历史可能重演，当前是底部区域", "反驳称黑暗前可能还有更深的黑暗", "可列举大量下跌中继的K线"],
+    "mentioned_stocks": ["片仔癀", "长鑫"]
+  },
+  {
+    "index": 11,
+    "summary": "核心观点是国家队和量化是散户的对手盘，其本质是低买高卖，并非为了散户利益。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队首要目标是盈利，非救市", "其操作本质是低买高卖，利用散户", "敬畏市场与看不见的手"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "通过韩国救市新闻对比，指出A股国家队救市后市场仍下跌，暗示救市效果存疑。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国救市计划后股市仍跌", "对比A股国家队可能也仅是象征性救市", "应降低科技仓位，关注防御性资产"],
+    "mentioned_stocks": ["三星", "海力士", "澜起", "德明利"]
+  },
+  {
+    "index": 13,
+    "summary": "用户用少量闲钱持仓观察市场走向，形容亏钱已亏出快感，并分享被套经历。",
+    "sentiment": "negative",
+    "key_opinions": ["用少量钱见证市场结局", "亏损已麻木", "好奇国家队下一步行动"],
+    "mentioned_stocks": ["law", "中公教育"]
+  },
+  {
+    "index": 14,
+    "summary": "抱怨尾盘拉升、次日下跌的模式已持续多日，令人麻木。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘拉盘，次日继续砸盘", "已连续多日下跌，内心麻木"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "提及尾盘买入博取次日卖点的隔夜行情操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["隔夜行情操作风险自担", "判断对错都需认"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "感叹大盘跌破3900点时，已无人呼喊保卫战，市场情绪极度悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["3900点已失守，无人提及保卫战", "市场认为3900并非底部", "对管理层失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "分享对昭衍新药的分析报告，并调侃其目标价设定不切实际。",
+    "sentiment": "mixed",
+    "key_opinions": ["分析报告指出昭衍是细分龙头", "目标价被调侃需上涨2200%", "提示不要盲目跟从"],
+    "mentioned_stocks": ["昭衍新药"]
+  },
+  {
+    "index": 18,
+    "summary": "新手投资者跟风买入科技基金后亏损10-17%，询问是否应割肉。",
+    "sentiment": "negative",
+    "key_opinions": ["建议根据亏损金额决定是否割肉", "亏损后回本难度大", "应先用小资金练习"],
+    "mentioned_stocks": ["人工智能ETF", "半导体ETF"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论在科技板块回撤中谁是真正有韧性的龙头。",
+    "sentiment": "mixed",
+    "key_opinions": ["回调中能体现龙头韧性", "有观点认为中兴是龙头", "询问具体哪些标的"],
+    "mentioned_stocks": ["中兴"]
+  },
+  {
+    "index": 20,
+    "summary": "极端看空科技股熊市，认为其跌幅远大于价值股，并推荐白酒。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股熊市跌幅可达七八成甚至退市", "相比科技，白酒更具性价比", "白酒商业模式好，可凭分红回本"],
+    "mentioned_stocks": ["白酒"]
+  },
+  {
+    "index": 21,
+    "summary": "询问老股民2015年股灾是否比现在更猛烈。",
+    "sentiment": "negative",
+    "key_opinions": ["当前跌势让人麻木", "与历史大跌行情对比"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "以科幻玩笑方式表达对市场的绝望，戏言要给三体发坐标。",
+    "sentiment": "mixed",
+    "key_opinions": ["用科幻梗比喻市场危机", "戏言利好航天板块", "玩笑间反映绝望心态"],
+    "mentioned_stocks": ["航天"]
+  },
+  {
+    "index": 23,
+    "summary": "预测明天将是最后一跌，跌破3800后将开启主升浪。",
+    "sentiment": "mixed",
+    "key_opinions": ["参考历史点位，认为明天是最后一跌", "预测跌破3800后将狂暴主升", "多数回复持怀疑态度"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "称赞家人在牧原股份上的抄底操作成功，对比自身投资表现平平。",
+    "sentiment": "positive",
+    "key_opinions": ["家人抄底牧原股份获利", "自身投资仅能勉强不亏", "赞美老股民的时机把握"],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 25,
+    "summary": "从购买银饰角度讨论短期看好白银投资，认为实物银饰价格有水分。",
+    "sentiment": "mixed",
+    "key_opinions": ["实物银饰克价低于现货价，有投资空间", "认为白银价格低于55元才具配置意义", "银饰市场价格混乱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "发布上海限行通知图片，引发网友对次日可能发生的敏感事件的猜测和调侃。",
+    "sentiment": "mixed",
+    "key_opinions": ["暗示或有敏感活动导致限行", "网友用隐晦语言猜测", "提醒注意出行"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27",
+    "summary": "引用诗词表达想清仓又怕踏空的矛盾心理，并指出当前市场套牢盘多。",
+    "sentiment": "mixed",
+    "key_opinions": ["想清仓又怕反弹踏空", "高位股和低位股均存在大量套牢盘", "市场可能需要时间消化"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "讨论市场流动性问题，认为信息不对称和量化交易导致散户难以盈利。",
+    "sentiment": "negative",
+    "key_opinions": ["散户在信息和交易上均处劣势", "建议散户利用船小好调头的优势", "T+1制度削弱散户灵活性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "用户自述大额亏损，但强调只用闲钱，并在他人安慰下重视生命价值。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损巨大但仅用闲钱，可承受", "网友安慰生命比金钱重要", "建议清仓避免更大风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "感觉大盘已死，抛盘无人承接，市场一片死寂。",
+    "sentiment": "negative",
+    "key_opinions": ["杀跌动能减弱但无人接盘", "市场一片死寂", "认为需极端悲观情绪才可能见底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "抱怨港股和医药回落时，科技股未能跟随反弹，认为市场已进入踩踏阶段。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股未跟上反弹，死气沉沉", "市场已出现踩踏现象", "科技股暴跌吓退了外资"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "设立“科技互帮互助楼”安慰同被套牢者，并讨论长鑫上市的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["鼓励持有科技股的投资者坚持", "长鑫上市可能带来转机", "长鑫上市也可能导致资金被抽离"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 33,
+    "summary": "在市场大跌后询问应抄底哪些板块，引发关于风险和机会的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["大跌后博反弹风险高", "有人建议抄底半导体、光模块等ETF", "认为科技股无底"],
+    "mentioned_stocks": ["半导体ETF", "光模块ETF", "澜起"]
+  },
+  {
+    "index": 34,
+    "summary": "计算亏损35%后需要涨50%才能回本，感叹回本艰难。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损比例与回本比例不对等", "回本之路漫长", "有人甚至需要翻倍才能回本"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "用户表示玩不懂科技股，决定清仓转入红利低波板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股操作难度大", "计划转入红利低波防守", "但被认为可能耐不住性子"],
+    "mentioned_stocks": ["红利低波"]
+  },
+  {
+    "index": 36,
+    "summary": "猜测是否需要等到市场跌至谷底，领导的讲话才能提振市场。",
+    "sentiment": "negative",
+    "key_opinions": ["期待救市但预期讲话可能为空话", "认为当前言论无法提振信心", "市场可能继续下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "以反讽语气吐槽，既然神力全在砸科技股，请继续。",
+    "sentiment": "negative",
+    "key_opinions": ["反讽国家队资金只用于砸盘科技股", "对科技股持续下跌感到绝望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "以买房话题进行股市亏损的调侃和讽刺。",
+    "sentiment": "mixed",
+    "key_opinions": ["用买房隐喻股市亏损巨大", "调侃应做空房价", "反映投资者亏损后的自嘲"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "询问国旗下讲话时间，用小学经历隐喻对管理层表态的期待。",
+    "sentiment": "mixed",
+    "key_opinions": ["期待管理层发声", "用隐喻暗示讲话可能空洞", "提醒注意相关安保"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "用历史K线图对比，感叹曾保卫4000点，如今3900都守不住。",
+    "sentiment": "negative",
+    "key_opinions": ["对比历史点位，感叹市场下跌", "保卫战点位不断下移"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "分析京东方从高位快速下跌30%，讨论其可能的支撑位。",
+    "sentiment": "negative",
+    "key_opinions": ["9个交易日暴跌30%", "主力已撤离", "预计会跌至前期织布机状态的价格区间"],
+    "mentioned_stocks": ["京东方"]
+  },
+  {
+    "index": 42,
+    "summary": "询问持有“铁盒”（可能指科创ETF）的投资者是否已离场，多数回复已卖出。",
+    "sentiment": "negative",
+    "key_opinions": ["多数人已卖出离场", "认为下跌看不到底", "有人已亏损20%以上"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "猜测今晚美国可能有不利消息，导致A股如此大跌，抱怨自身持仓。",
+    "sentiment": "negative",
+    "key_opinions": ["猜测外部因素导致大跌", "抱怨持有股票被无故下跌", "对A股跟跌不跟涨不满"],
+    "mentioned_stocks": ["中船"]
+  },
+  {
+    "index": 44,
+    "summary": "发现某直播站上韩裔主播变多，进行调侃讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["观察到韩裔主播增加", "用股市亏损“下海补仓”调侃", "讨论具体网站信息"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "用户抱怨本已完成本月主线操作，因再次抄底半导体而亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["重复操作导致亏损", "对科技股行情不满"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 46,
+    "summary": "抱怨光纤板块持续下跌，如亨通光电毫无底限，认为其被错杀。",
+    "sentiment": "negative",
+    "key_opinions": ["光纤板块下跌毫无底线", "亨通光电跌幅甚至超过大盘", "业绩预增股也遭抛售"],
+    "mentioned_stocks": ["亨通", "光纤", "长飞", "大族"]
+  },
+  {
+    "index": 47,
+    "summary": "担忧市场如此下跌是否会导致系统性风险，但多数人认为不会。",
+    "sentiment": "negative",
+    "key_opinions": ["担忧跟跌不跟涨会出事", "认为大跌后总有手段托底", "过去大跌也未出大事"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "猜测国家队会在多少点位入场捡拾带血筹码。",
+    "sentiment": "negative",
+    "key_opinions": ["认为3800点国家队仍未动手", "可能需跌至3700甚至更低", "国家队可能已在悄悄买入"],
+    "mentioned_stocks": ["沪深300", "中证1000", "科创50"]
+  },
+  {
+    "index": 49,
+    "summary": "看到论坛广告内容感到被讽刺，表达亏损后的沮丧。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损时看到的广告具有讽刺意味", "对现状感到无奈"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "分析德明利因融资盘爆仓导致连续跌停，需大资金接盘才能开板。",
+    "sentiment": "negative",
+    "key_opinions": ["百亿融资盘爆仓导致连续跌停", "强制卖出导致封单巨大", "需外部大资金买入才能止跌"],
+    "mentioned_stocks": ["德明利"]
+  }
+]
