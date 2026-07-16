@@ -1,0 +1,543 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论韩国股市一天涨熔断一天跌熔断，用户情绪沮丧，比较日韩市场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国股市波动极大，一天涨熔断一天跌熔断。",
+      "可能复刻2015年行情。",
+      "日本股市也崩盘。"
+    ],
+    "mentioned_stocks": ["韩国股市", "日本股市"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论美股存储股下跌不正规，用户质疑美股是否正规市场。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股存储股下跌不正规，T+0市场允许做空。",
+      "纳指仍红，苹果创新高。",
+      "美国也有穷人，赚钱不易。"
+    ],
+    "mentioned_stocks": ["存储股", "苹果", "纳指"]
+  },
+  {
+    "index": 3,
+    "summary": "用户决定挂跌停清仓科创半导体和通信股，情绪崩溃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "挂跌停清仓588170科创半导体和515050通信。",
+      "不相信市场按摩，扛不住亏损。",
+      "被嘲讽为高纯度韭菜。"
+    ],
+    "mentioned_stocks": ["588170科创半导体", "515050通信"]
+  },
+  {
+    "index": 4,
+    "summary": "希望美股小纳红后，A股能大涨反弹。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "美股纳指红了。",
+      "希望A股来个大V天龙，大盘涨三个点。"
+    ],
+    "mentioned_stocks": ["纳指", "A股"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论科技股下跌但前期利润多，抗压能力强。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "芯片下跌但前期利润丰厚，抗压能力强。",
+      "电网设备和航天都难。",
+      "下跌空间可能还很大。"
+    ],
+    "mentioned_stocks": ["芯片", "电网设备", "航天"]
+  },
+  {
+    "index": 6,
+    "summary": "用户建立盘前分享楼，分析市场回调不符合逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "外盘向好但A股回调，不符合逻辑。",
+      "提醒创新药分歧风险。",
+      "建议做港股ETF机动性强。"
+    ],
+    "mentioned_stocks": ["科创", "创新药", "港股ETF"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论美国能否托举日韩A股，A股可能独立行情。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美国已冲两天。",
+      "A股可能蹲起托举全世界。",
+      "日本已被带下来。"
+    ],
+    "mentioned_stocks": ["A股", "日韩股市"]
+  },
+  {
+    "index": 8,
+    "summary": "科技股继续下跌，用户破防，讨论跟跌不跟涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "棒子跌6%，科技杀跌。",
+      "跟跌不跟涨是惯例。",
+      "想不出不杀的理由。"
+    ],
+    "mentioned_stocks": ["科技股", "韩国股市"]
+  },
+  {
+    "index": 9,
+    "summary": "强调消费股重要性，讨论刺激消费政策。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "GDP不及预期，资金计价刺激消费政策。",
+      "消费+AI概念。",
+      "质疑刺激消费效果。"
+    ],
+    "mentioned_stocks": ["消费股", "创新药"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论创新药（耗子药）能否成为新主线，用户悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创新药分歧，可能明天现原形。",
+      "创新药已骗多波。",
+      "科技死透创新药才起。"
+    ],
+    "mentioned_stocks": ["创新药", "科技股"]
+  },
+  {
+    "index": 11,
+    "summary": "预测明天A股红的话论坛反应，讨论科创反着来。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股开跌，纳指红科技跌。",
+      "科创反着来论坛会普天同庆。",
+      "吃药喝酒领涨科技跌。"
+    ],
+    "mentioned_stocks": ["纳指", "A股", "科创"]
+  },
+  {
+    "index": 12,
+    "summary": "用户因亏损减少庆幸，但后悔花销，讨论心态。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利通跌停，大A如利通。",
+      "从锂矿跑出来庆幸。",
+      "回撤小，心态放平。"
+    ],
+    "mentioned_stocks": ["利通", "锂矿"]
+  },
+  {
+    "index": 13,
+    "summary": "匈牙利前外长加入比亚迪，利于出海。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "旋转门利于比亚迪出海。"
+    ],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 14,
+    "summary": "分析科技股图形，讨论当前位置和关键支撑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科创在颈线下方，短期危险。",
+      "创业板位于强支撑位。",
+      "纳斯达克收敛三角形。"
+    ],
+    "mentioned_stocks": ["科创", "创业板", "纳斯达克", "半导体设备"]
+  },
+  {
+    "index": 15,
+    "summary": "看日韩股市，感到对A股愧疚。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "最对不起的是A股。"
+    ],
+    "mentioned_stocks": ["日韩股市", "A股"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论韩国因子热修，市场波动大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国因子bug导致大跌。",
+      "热修回正号。",
+      "跟跌不跟涨。"
+    ],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论长鑫科技打新是否值得，用户乐观。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "打新不怕，中了就赚。",
+      "第一天交易后介入需谨慎。",
+      "破发风险小。"
+    ],
+    "mentioned_stocks": ["长鑫科技"]
+  },
+  {
+    "index": 18,
+    "summary": "预测自选中可能红的股票，不确定。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳斯达克和韩综可能红。",
+      "A股科技炸穿。",
+      "今天小娜红难预测。"
+    ],
+    "mentioned_stocks": ["纳斯达克", "韩综", "A股科技"]
+  },
+  {
+    "index": 19,
+    "summary": "用户满仓金枪鱼，担心反垄断调查。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "满仓金枪鱼，利益相关。",
+      "反垄断调查可能引发下跌。",
+      "满仓单吊风险高。"
+    ],
+    "mentioned_stocks": ["金枪鱼", "澜起科技"]
+  },
+  {
+    "index": 20,
+    "summary": "创新药行情强劲，类似5-6月半导体。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "创新药涨幅大，翻倍股多。",
+      "上游设备早动。",
+      "万邦药业等表现强。"
+    ],
+    "mentioned_stocks": ["创新药", "半导体", "万邦药业"]
+  },
+  {
+    "index": 21,
+    "summary": "推荐汉钟精机，讨论科技潮持续。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "科技潮持续，汉钟精机逻辑。",
+      "国产替代率可期。",
+      "严肃加入自选观察。"
+    ],
+    "mentioned_stocks": ["汉钟精机", "国产液冷"]
+  },
+  {
+    "index": 22,
+    "summary": "AI选股推荐超跌股，验证程序效果。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "超跌股可能有反弹。",
+      "有量化痕迹，基本面尚可。",
+      "左侧交易危险。"
+    ],
+    "mentioned_stocks": ["中科星图", "固德威", "长城科技", "四川黄金", "天齐锂业", "晨曦航空"]
+  },
+  {
+    "index": 23,
+    "summary": "新手求助建立交易框架，推荐书籍。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "推荐《聪明的投资者》等书籍。",
+      "实践出真知，亏钱学经验。",
+      "风险偏好重要。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "国产大模型可能发布，影响市场。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "GLM5.5、Kimi K3、DeepSeek V4可能发布。",
+      "可能达到国外第一梯队水平。",
+      "对市场有冲击。"
+    ],
+    "mentioned_stocks": ["九安"]
+  },
+  {
+    "index": 25,
+    "summary": "韩国救市措施，对比A股表现。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国动用外汇平准基金救市。",
+      "A股汪汪队是收尸不是救市。",
+      "降低科技仓位。"
+    ],
+    "mentioned_stocks": ["A股", "韩国股市"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论A股何时对韩国脱敏，跟风韩国。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股科技融资余额高。",
+      "跟韩国剧本，担心脱敏。"
+    ],
+    "mentioned_stocks": ["A股科技", "韩国股市"]
+  },
+  {
+    "index": 27,
+    "summary": "科技哀兵，医药骄兵，分析共振。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技下跌成哀兵。",
+      "医药上涨成骄兵。",
+      "双重共振下可能不同。"
+    ],
+    "mentioned_stocks": ["科技股", "医药股"]
+  },
+  {
+    "index": 28,
+    "summary": "添加韩国因子，用户调侃跟跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国因子添加回正号。",
+      "跟跌不跟涨。",
+      "美国因子也影响。"
+    ],
+    "mentioned_stocks": ["韩国因子", "美国因子"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论周二是否企稳，新周期开始。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "新方向乱，不确定谁走出。",
+      "创新药走趋势。",
+      "螺旋桨行情，不够硬被搅碎。"
+    ],
+    "mentioned_stocks": ["创新药", "科技股"]
+  },
+  {
+    "index": 30,
+    "summary": "炒股变得阴暗，亏钱比惨心理。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏钱时找更惨的。",
+      "幸福是比出来的。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "清仓记录显示暴跌股票多，退潮残酷。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "退潮时方知残酷。",
+      "暴跌股票多。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "韩国股市波动大，股民心脏问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "波动极大，人均杠杆高。",
+      "杠杆侠可能爆仓。",
+      "需企稳措施。"
+    ],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 33,
+    "summary": "预感通杀，黑周四可能性大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "预感通杀。",
+      "黑周四可能性大。",
+      "医药量化开始搞。"
+    ],
+    "mentioned_stocks": ["医药", "科技"]
+  },
+  {
+    "index": 34,
+    "summary": "地方国资参股企业IPO前科技牛不结束。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "地方国资上市解决财政问题。",
+      "科技牛持续。",
+      "压轴企业如长鑫即将上市。"
+    ],
+    "mentioned_stocks": ["科技股", "长鑫", "玉树", "深度求索"]
+  },
+  {
+    "index": 35,
+    "summary": "AEHR和TOWER大涨，看硅光和NPO前景。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "AEHR业绩超预期大涨。",
+      "TOWER硅光NPO进展。",
+      "旭创空间打开。"
+    ],
+    "mentioned_stocks": ["AEHR", "TOWER", "旭创"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论科技股是否有铁底，用户不确定。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "铁底会被破。",
+      "底没人问时可能到。",
+      "抄底危险。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 37,
+    "summary": "锂矿下跌惨，对比科技股更惨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "锂矿从60跌到30以下。",
+      "资金抛弃板块。",
+      "周期下行。"
+    ],
+    "mentioned_stocks": ["天齐锂业", "多氟多", "锂矿股"]
+  },
+  {
+    "index": 38,
+    "summary": "巨石扩产电子布，可能变灭族激光。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "巨石扩产电子布。",
+      "垄断产能但市场不认。",
+      "上次扩产跌停。"
+    ],
+    "mentioned_stocks": ["巨石"]
+  },
+  {
+    "index": 39,
+    "summary": "澜起科技反垄断调查，短空长多。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "反垄断调查可能引发下跌。",
+      "高开可能先跑。",
+      "垄断利好长期。"
+    ],
+    "mentioned_stocks": ["澜起科技", "Rambus"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论埋伏知名低价股等翻倍策略。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "知名票低买长期持有。",
+      "红利股如工商银行翻倍。",
+      "可能遇到退市风险。"
+    ],
+    "mentioned_stocks": ["茅台", "工商银行", "隆基绿能"]
+  },
+  {
+    "index": 41,
+    "summary": "调侃主线是西游记，炒概念。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "长生不老药、猴模块、猪模块。",
+      "瞎炒不看基本面。",
+      "风口上猪都能飞。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "明天如何跑，存储股风险大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "海力士跌，存储可能吃面。",
+      "高开直接跑。",
+      "科技不可能高开。"
+    ],
+    "mentioned_stocks": ["海力士", "存储股"]
+  },
+  {
+    "index": 43,
+    "summary": "长鑫上市前降温原因，资金预判。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "资金预判长鑫上市是情绪顶点。",
+      "提前减仓避险。",
+      "长鑫吸资金砸盘。"
+    ],
+    "mentioned_stocks": ["长鑫科技", "中芯国际"]
+  },
+  {
+    "index": 44,
+    "summary": "牛市最大教训是不碰锂矿。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技赚钱但锂矿拖后腿。",
+      "不碰储能相关。",
+      "守着老登和泛科技。"
+    ],
+    "mentioned_stocks": ["科技股", "锂矿", "储能"]
+  },
+  {
+    "index": 45,
+    "summary": "情绪极致冰点，可能反弹。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "情绪极致冰点。",
+      "远古大阳可能。",
+      "物极必反。"
+    ],
+    "mentioned_stocks": ["科技股", "存储", "半导体"]
+  },
+  {
+    "index": 46,
+    "summary": "负韩国因子是否还在，跟跌不跟涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国因子加入。",
+      "跟跌不跟涨。"
+    ],
+    "mentioned_stocks": ["韩国因子"]
+  },
+  {
+    "index": 47,
+    "summary": "科技没结束但不吃鱼尾，为何不舍。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "被套不舍得割肉。",
+      "FOMO心态。",
+      "浪来了再进少吃点。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 48,
+    "summary": "调仓至游戏、铝、创新药、猪猪板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "远离科技。",
+      "创新药可能加速。",
+      "科技杀多天扛不住。"
+    ],
+    "mentioned_stocks": ["游戏", "铝", "创新药", "猪猪"]
+  },
+  {
+    "index": 49,
+    "summary": "劝家人不进炒股群，防止被骗。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "花钱进群是托。",
+      "可能遇杀猪盘。",
+      "让亏钱长教训。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "美股硬件走安详但存储不争气。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美股硬件跌。",
+      "纳指坚挺但存储不争气。",
+      "A股硬件跟跌。"
+    ],
+    "mentioned_stocks": ["美股硬件", "纳指", "存储股"]
+  }
+]
