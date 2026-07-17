@@ -1,0 +1,527 @@
+[
+  {
+    "index": 1,
+    "summary": "股市下跌引发恐慌，讨论国家队是否救市和点位比较。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国家队可能出来收尸，但杀到底了吗？",
+      "一年多前2800点没这么多哀嚎，现在3800点反而更多。",
+      "可能是信“4000点牛市起点”的人受伤。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "抱怨股市下跌，归咎于韩国或量化交易。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国人或量化交易导致亏损。",
+      "李在明可能影响韩国股市。",
+      "任何点位买入尾盘都亏，下周一可能更低。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "投资者面临亏损，讨论是继续持有还是卖出。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利润亏完，本金亏20%，顶不住。",
+      "跌停封板无法割肉。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "尾盘放量下跌，V形反弹被质疑是诱多。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "稍微V一点就说狗在救市。",
+      "小V一波骗人，然后杀了。"
+    ],
+    "mentioned_stocks": ["hs300"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论政府对股市点位的满意范围，猜测救市意图。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "政府可能在2800-3300舒适区。",
+      "政府想救市但不想亏钱，可能先抄底再出货。",
+      "3000点可能是大伙永远的家。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "中韩半导体基金跌停，抄底失败亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中韩半导体跌停，抄底分批建仓亏20%。",
+      "早跑路了。"
+    ],
+    "mentioned_stocks": ["中韩半导体"]
+  },
+  {
+    "index": 7,
+    "summary": "尾盘V形反弹后下跌，感觉被骗。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "最后还骗一下，真损。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论是否跟随知名用户Sai的建议，科技股投资困境。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "相信AI是未来，但账户不支持。",
+      "Sai有自己的纪律，不一定撤退。",
+      "做股票不能指望别人。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论当前下跌是否历史罕见，比较过去事件。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "这次下跌比2015年弱，没千股跌停。",
+      "2024年2月暴跌更严重。",
+      "今天下跌可能受特朗普讲话影响。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "V形反弹后立即下跌，诱多后杀跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "又骗一波抄底的。",
+      "剧本好用，次次上当。",
+      "V是给逃命机会，冲进来抄底的周一保重。"
+    ],
+    "mentioned_stocks": ["中兴"]
+  },
+  {
+    "index": 11,
+    "summary": "用户因亏损影响生活决定退出股市。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "浮盈亏完，影响正常生活。",
+      "不知道怎么卖，死拿亏完。",
+      "玩泥巴不如做其他工作。"
+    ],
+    "mentioned_stocks": ["恒科", "半导体", "光模块"]
+  },
+  {
+    "index": 12,
+    "summary": "期待周末利好，但实际可能下跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "周一高开就跑。",
+      "现在什么消息都难算利好。",
+      "纳指期货下跌，周末可能有利空。"
+    ],
+    "mentioned_stocks": ["纳子期货"]
+  },
+  {
+    "index": 13,
+    "summary": "抄底后与最低点有差距，担心机构出货。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "周一可能直接出货。",
+      "黑暗森林博弈，全部出。",
+      "希望骗炮没人进去。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "有人抄底，但多数人不敢，认为底是假的。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "抄底吃了筹码，是好料。",
+      "急什么？等站稳再抄。",
+      "你以为底是V，实际是W。"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 15,
+    "summary": "指责某人（文锋）给领导上眼药，作弄市场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "文锋给村长上眼药，作弄。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论水下A杀现象，抱摔增加伤害。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "水下A杀，抱摔增加伤害。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "日本股市先反弹，A股可能跟随但随后下跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "日经从-6到-4，先V了。",
+      "日经一收盘，A股立马A下。",
+      "没韩国因子就引入日本因子。"
+    ],
+    "mentioned_stocks": ["日经"]
+  },
+  {
+    "index": 18,
+    "summary": "AI硬件抱团牛市结束，展望下一个周期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "每4年一度抱团牛市结束，这次是AI硬。",
+      "下个周期可能是机器人或AI软。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "股市下跌导致心情低落，感觉结束。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "看什么都灰暗，结束了。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论科创半导体ETF抄底，但需考虑复权。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "已跌破启动前，适合埋伏。",
+      "忘了复权，是傻逼。",
+      "可以埋伏一手看看26年底。"
+    ],
+    "mentioned_stocks": ["科创半导体华夏588170"]
+  },
+  {
+    "index": 21,
+    "summary": "投资者不割肉，操盘者好奇如何让他们放弃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "每天都说再跌就清仓，但没割。",
+      "急跌不割肉，第一个急跌就割了啥事没有。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "新易胜股票反弹，但被说奶没了。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "新易胜是反弹生力军和旗帜。",
+      "被你奶没了。"
+    ],
+    "mentioned_stocks": ["新易胜"]
+  },
+  {
+    "index": 23,
+    "summary": "尾盘翘尾诱多，骗人进去。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "两点翘尾把最后一批有想法的骗进去。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "韩国股市高杠杆导致大量散户被追加保证金。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国120万散户杠杆账户触发追加保证金通知。",
+      "韩国赌狗多，以前房产也这样。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "V形反弹后市场更糟，引发更多悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "反而半死不活了。",
+      "死更透，周一继续杀。",
+      "骗进来杀，下周一继续。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "中际旭创股价关键点位1000，守住才有生机。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "守住1000点，还有一线生机。",
+      "守不住就完蛋。",
+      "1000是关键点位吗？趋势向下。"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论恢复市场信心的方法。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "要几根大阳线。",
+      "钱才能恢复信心。",
+      "周一再坑杀几波。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "韩国救市新闻，对比A股国家队行为。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国动用外汇平准基金稳定市场。",
+      "A股国家队是收尸不是救市。",
+      "推出做多ETF自相矛盾。"
+    ],
+    "mentioned_stocks": ["KS11", "三星", "海力士", "大A"]
+  },
+  {
+    "index": 29,
+    "summary": "预计未来还有更大下跌，鬼故事才开始。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场会大波动击穿底部看法。",
+      "科技腰斩起步，杀到3600。",
+      "年K狗队要12月收4000点。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "抄底失败，抱怨市场行为过分。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "抄到最低点也被埋。",
+      "汪汪队腔势浓（国家队气势足）。",
+      "拿股民当日本人了（比喻被宰割）。"
+    ],
+    "mentioned_stocks": ["通讯etf"]
+  },
+  {
+    "index": 31,
+    "summary": "技术分析上证指数月K死叉，警告可能走熊。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "上证月K死叉是危险信号，历史走熊。",
+      "政策发力可能反转，但只买宽基。",
+      "技术派能少亏钱。"
+    ],
+    "mentioned_stocks": ["上证指数", "科创50", "创业板指"]
+  },
+  {
+    "index": 32,
+    "summary": "调整仓位，从科技转投ST股赌重组。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技仓位调整到ST龙大。",
+      "赌周一重组消息。"
+    ],
+    "mentioned_stocks": ["德明", "赵毅", "ST龙大"]
+  },
+  {
+    "index": 33,
+    "summary": "用户开设盘前分享帖，提醒创新药风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "开设每日盘前预测楼。",
+      "提醒创新药分歧风险。",
+      "建议做港股ETF，T+0机动。"
+    ],
+    "mentioned_stocks": ["创新药", "港股etf"]
+  },
+  {
+    "index": 34,
+    "summary": "寻找模拟炒股app隐藏亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "同花顺模拟有“模拟”字，本金只能20万。",
+      "需要能自由调整本金的app。"
+    ],
+    "mentioned_stocks": ["同花顺"]
+  },
+  {
+    "index": 35,
+    "summary": "质疑V形反弹，认为熊市来临。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "熊来了，没人抱幻想。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "港股胜宏科技大幅亏损，不补仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "盈亏-46%，看还能怎么跌。",
+      "补仓不可能。"
+    ],
+    "mentioned_stocks": ["港股胜宏科技"]
+  },
+  {
+    "index": 37,
+    "summary": "长鑫上市时间，讨论抄底时机。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫上市，大盘回暖还是A杀？"
+    ],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 38,
+    "summary": "美股海力士反弹，但纳指期货下跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "海力士V红了，某种安慰。",
+      "纳指期货-1.6%，半导体-3%。",
+      "海力士昨天-13%后，盘后到夜盘没低于-3%。"
+    ],
+    "mentioned_stocks": ["海力士", "纳指期货"]
+  },
+  {
+    "index": 39,
+    "summary": "市场下跌缓慢但痛苦，如钝刀子割肉。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "不如不救。",
+      "给散户逃命机会。",
+      "刮骨钢刀，腿都砍断。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "股票腰斩，计划再跌就清仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "腰斩了，周一再跌就走。",
+      "每天都说科技能杀回来。",
+      "今天尾盘给机会还不跑？"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "质疑V形反弹原因，是杀融资还是救市。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "分不清是杀融资还是救场。",
+      "量化低吸高抛。",
+      "已经A了。"
+    ],
+    "mentioned_stocks": ["中际"]
+  },
+  {
+    "index": 42,
+    "summary": "量化产品厉害但散户难投资，门槛高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "量化基金差距大，门槛高。",
+      "私募量化需验资。",
+      "今年量化没那么好，熊市超额。"
+    ],
+    "mentioned_stocks": ["量化基金", "私募量化"]
+  },
+  {
+    "index": 43,
+    "summary": "提到股票代码如601919等。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "601919！扬帆起航。",
+      "000025、600868等。"
+    ],
+    "mentioned_stocks": ["601919", "000025", "600868", "600900"]
+  },
+  {
+    "index": 44,
+    "summary": "推荐汉钟精机股票，讨论投资逻辑。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "推荐汉钟精机。",
+      "科技潮持续，参考科技三会讲话。",
+      "只讨论逻辑，不给买卖建议。"
+    ],
+    "mentioned_stocks": ["汉钟精机", "长飞"]
+  },
+  {
+    "index": 45,
+    "summary": "抄底买早亏钱，希望周一能解套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "买早了，可以和解吗？",
+      "挂隔夜单可能跑。",
+      "做超短，周一必须撤。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "技术分析科技股关键位置和趋势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科创半导体设备在颈线下方，危险。",
+      "创业板在关键支撑位。",
+      "纳斯达克收敛三角形。"
+    ],
+    "mentioned_stocks": ["科创", "半导体设备", "创业板"]
+  },
+  {
+    "index": 47,
+    "summary": "科技股反弹强，资金抱团，仍是主线。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "资金只认科技，下跌是倒车接人。",
+      "强者恒强，反弹力度差异。",
+      "今晚纳指爆炸，下周一怎么办？"
+    ],
+    "mentioned_stocks": ["科技", "纳指"]
+  },
+  {
+    "index": 48,
+    "summary": "V形反弹无意义，多数股票跌回。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "半导体还在水下。",
+      "V是为了更好地A。",
+      "底是杀出来的，不是护出来的。"
+    ],
+    "mentioned_stocks": ["半导体", "中新大哥二哥"]
+  },
+  {
+    "index": 49,
+    "summary": "长江电力表现较好，给予安慰。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "在冰冷大盘给了温度。",
+      "长电很努力了。",
+      "可能下周挂树上。"
+    ],
+    "mentioned_stocks": ["长电"]
+  },
+  {
+    "index": 50,
+    "summary": "表达股市绝望，讨论赢输责任归属。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "眼前一片黑暗。",
+      "赢了谢国家，输了怪自己。",
+      "类似嘉靖和严嵩的故事。"
+    ],
+    "mentioned_stocks": []
+  }
+]
