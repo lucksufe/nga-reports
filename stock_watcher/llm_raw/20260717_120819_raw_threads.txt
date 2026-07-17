@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论市场连续下跌后，散户普遍亏损，利润回吐甚至开始亏本金。",
+    "sentiment": "negative",
+    "key_opinions": ["利润已亏完，本金开始亏损", "跌幅较大，信心受挫", "部分投资者选择离场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论7月买入科技股后持续亏损，面临是否割肉止损的困境。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股持续下跌，无反弹迹象", "割肉会确认亏损", "部分投资者已止损离场"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论世界人工智能合作组织成立，但市场对此利空出口的前景表示怀疑和讽刺。",
+    "sentiment": "negative",
+    "key_opinions": ["对出口前景极度悲观", "回复充满讽刺和不信任", "认为实际利好有限"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "对比韩国救市与A股情况，讽刺A股救市不力，并提及市场行为与ETF。",
+    "sentiment": "negative",
+    "key_opinions": ["批评A股救市如同收尸", "讨论韩国救市措施", "提及市场做多做空行为"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 5,
+    "summary": "询问“奶龙”消息真实性，并暗示市场可能已提前反应。",
+    "sentiment": "mixed",
+    "key_opinions": ["消息真实性待考", "市场可能已提前反应"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论医药板块的中期机会，认为其走势可能模仿此前科技板块的抱团模式。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技极致抱团或转向医药", "医药板块近期表现超预期", "与科技板块形成跷跷板效应"],
+    "mentioned_stocks": ["美诺华", "医药", "创新药", "医药ETF", "科技"]
+  },
+  {
+    "index": 7,
+    "summary": "以讽刺口吻讨论上证指数长期走势，暗示可能长期下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["调侃上证指数长期趋势向下"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 8,
+    "summary": "清仓后想加仓，并提到非洲会议带来的医药股交易逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["清仓后想加仓博反弹", "提及非洲会议相关交易逻辑", "建议谨慎加仓"],
+    "mentioned_stocks": ["哈药股份", "中宠股份"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论市场跌停股众多，以及追高“猴子药”等股票导致的严重亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["市场跌停股数量多", "追高热门股导致深套", "对后续下跌感到担忧"],
+    "mentioned_stocks": ["猴子药", "药"]
+  },
+  {
+    "index": 10,
+    "summary": "投资者因本月严重亏损而沮丧，寻求排解抑郁的方法。",
+    "sentiment": "negative",
+    "key_opinions": ["因亏损情绪极度低落", "寻求各种方式排解压力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "认为ETF比个股更适合散户，但当前并非好的买点。",
+    "sentiment": "mixed",
+    "key_opinions": ["ETF操作简单适合长期持有", "科技类ETF同样大幅下跌", "现在不是买入时机"],
+    "mentioned_stocks": ["588170", "588180", "科技ETF", "通信ETF"]
+  },
+  {
+    "index": 12,
+    "summary": "用排队领猪肉的图片比喻市场下跌，是一种黑色幽默。",
+    "sentiment": "negative",
+    "key_opinions": ["市场下跌如排队领猪肉"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "批评市场管理不力，认为股灾频发是管理问题。",
+    "sentiment": "negative",
+    "key_opinions": ["批评救市不力导致股灾", "对市场管理感到失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "警告美股存在高风险，不建议投资纳斯达克。",
+    "sentiment": "negative",
+    "key_opinions": ["美股估值过高风险大", "建议空仓或装死"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论巴菲特买入谷歌的时机与逻辑，并提及谷歌的核心业务价值。",
+    "sentiment": "mixed",
+    "key_opinions": ["质疑巴菲特总是行业后期买入", "谷歌核心价值在于云服务和广告", "巴菲特已退休但参与决策"],
+    "mentioned_stocks": ["谷歌", "Alphabet", "苹果"]
+  },
+  {
+    "index": 16,
+    "summary": "讽刺世界人工智能合作组织的成员国实力，认为前景黯淡。",
+    "sentiment": "negative",
+    "key_opinions": ["成员国多为经济落后国家", "怀疑合作的实际意义", "政治意义大于经济意义"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "用一碗面来比喻市场下跌，是一种自嘲。",
+    "sentiment": "negative",
+    "key_opinions": ["市场下跌如一碗面"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "计划每日盘前分享观点，并提醒创新药存在分歧风险。",
+    "sentiment": "neutral",
+    "key_opinions": ["计划进行每日盘前预测", "提醒创新药板块风险"],
+    "mentioned_stocks": ["创新药", "港股ETF"]
+  },
+  {
+    "index": 19,
+    "summary": "因科技股高位加仓后暴跌而崩溃，反思从一开始就是错误。",
+    "sentiment": "negative",
+    "key_opinions": ["高位加仓导致巨额亏损", "反思整个投资决策", "对市场感到绝望"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 20,
+    "summary": "介绍在美国举行的Ai4企业级人工智能大会，并与国内大会对比。",
+    "sentiment": "positive",
+    "key_opinions": ["Ai4大会更具商业价值", "与国内WAICO大会形成对比", "是观察AI投资方向的重要窗口"],
+    "mentioned_stocks": ["AI相关公司"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论上证指数3800点保卫战，对能否守住表示怀疑。",
+    "sentiment": "negative",
+    "key_opinions": ["对指数保卫战信心不足"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 22,
+    "summary": "询问德明利股票何时能打开跌停板，表达焦虑。",
+    "sentiment": "negative",
+    "key_opinions": ["股票连续跌停无法交易", "期待开板"],
+    "mentioned_stocks": ["德明利", "航天工程"]
+  },
+  {
+    "index": 23,
+    "summary": "坚信下周股市会反弹，表达乐观预期。",
+    "sentiment": "positive",
+    "key_opinions": ["坚信下周一市场会涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论Kimi新模型性能顶尖，但A股市场反应平淡，并指出九安医疗涨停。",
+    "sentiment": "mixed",
+    "key_opinions": ["Kimi新模型是重大利好", "A股市场反应冷淡", "九安医疗因相关消息涨停"],
+    "mentioned_stocks": ["九安医疗", "Kimi"]
+  },
+  {
+    "index": 25,
+    "summary": "描述科技股持续暴跌但缺乏消息面的异常情况。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股普跌但无官方消息", "对市场静默感到不安"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 26,
+    "summary": "观察到“铁盒”类股票表现坚挺，并提到板块轮动。",
+    "sentiment": "positive",
+    "key_opinions": ["部分股票表现异常强势", "存在板块轮动下跌现象"],
+    "mentioned_stocks": ["全志科技"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论市场放量大跌，认为可能是下跌末端或抄底机会。",
+    "sentiment": "negative",
+    "key_opinions": ["放量大跌可能是最后一跌", "博反弹需极其谨慎", "等待右侧信号更安全"],
+    "mentioned_stocks": ["科技板块"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论市场大跌导致爆仓现象，认为这是市场残酷性的体现。",
+    "sentiment": "negative",
+    "key_opinions": ["大跌导致部分投资者爆仓", "爆仓是市场游戏的一部分", "应远离杠杆"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讨论科技股大跌下机构是否爆仓，普遍认为机构早已撤离。",
+    "sentiment": "negative",
+    "key_opinions": ["散户可能面临强平", "机构大概率早已卖出", "公募基金无法加杠杆"],
+    "mentioned_stocks": ["科技融资盘"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论下午市场未能收回跌幅，是否应离场观望。",
+    "sentiment": "negative",
+    "key_opinions": ["市场反弹乏力应离场", "后市将进入震荡", "投资者信心严重不足"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 31,
+    "summary": "投资者清仓并晒出收益，表达对贪婪的后悔和对盈利者的羡慕。",
+    "sentiment": "negative",
+    "key_opinions": ["后悔未能及时止盈", "盈利大幅回撤", "计划转向红利等防御板块"],
+    "mentioned_stocks": ["科技", "红利低波"]
+  },
+  {
+    "index": 32,
+    "summary": "通过图表分析，预测市场可能进入长期下跌趋势。",
+    "sentiment": "negative",
+    "key_opinions": ["技术图形显示可能转熊", "建议管住手等待", "可能转向红利板块"],
+    "mentioned_stocks": ["长鑫", "红利"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论投资者普遍将亏损归因于外因，盈利归因于内因的心态。",
+    "sentiment": "negative",
+    "key_opinions": ["盈利靠自身，亏损怨别人是常态", "贪心是亏损主因"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论世界人工智能合作组织，讽刺其为“人工智障”大会，缺乏实际意义。",
+    "sentiment": "negative",
+    "key_opinions": ["大会成员实力存疑", "缺乏顶尖科技国家参与", "实际商业价值有限"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 35,
+    "summary": "表达对市场持续下跌的失落和迷茫。",
+    "sentiment": "negative",
+    "key_opinions": ["对市场未来感到迷茫", "失落感持久"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "投资者误操作将卖出点成买入，并求助社区。",
+    "sentiment": "negative",
+    "key_opinions": ["因操作失误买入", "希望社区帮助抬轿"],
+    "mentioned_stocks": ["银之杰", "招商证券"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论武大关于钙钛矿电池寿命的研究，但指出能量密度才是关键问题。",
+    "sentiment": "neutral",
+    "key_opinions": ["电池寿命问题已基本解决", "能量密度是当前主要瓶颈"],
+    "mentioned_stocks": ["钙钛矿电池"]
+  },
+  {
+    "index": 38,
+    "summary": "分享一则新闻，并讽刺性地将其与市场表现联系起来。",
+    "sentiment": "negative",
+    "key_opinions": ["用新闻讽刺市场", "对市场信心丧失"],
+    "mentioned_stocks": ["恒生科技", "AI"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论朝鲜为何未参加人工智能大会，并讽刺名单的含金量。",
+    "sentiment": "negative",
+    "key_opinions": ["朝鲜有技术实力却未被邀请", "参会名单不合理", "讽刺大会质量"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "用自嘲口吻讨论科技股亏损，认为腰斩后反而可能乐观。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重但自嘲", "认为下跌后可能见底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "讨论熊市或经济危机时的资产配置策略，普遍建议回避风险。",
+    "sentiment": "negative",
+    "key_opinions": ["危机时什么都不买，持有现金", "红利类资产在熊市也会下跌", "空仓是最合理选择"],
+    "mentioned_stocks": ["红利低波", "银行"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论市场下跌趋势，认为需要持续放量下跌才能见底。",
+    "sentiment": "negative",
+    "key_opinions": ["下跌趋势仍需延续", "需要出清杠杆盘", "散户信心难以恢复"],
+    "mentioned_stocks": ["科技板块"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论当散户意识到基本面问题时，市场可能早已下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["基本面消息散户滞后", "炒股本质是赌博", "多个行业基本面不佳"],
+    "mentioned_stocks": ["楼市", "消费"]
+  },
+  {
+    "index": 44,
+    "summary": "对比白酒股与科技股的持股体验，认为老登股虽慢但稳。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股暴跌速度远快于老登股", "老登股有分红可摊薄成本", "白酒是“软着陆”"],
+    "mentioned_stocks": ["白酒", "海控", "安井", "茅台"]
+  },
+  {
+    "index": 45,
+    "summary": "再次讽刺人工智能大会的参会国，认为他们连基本生存都困难。",
+    "sentiment": "negative",
+    "key_opinions": ["参会国经济实力太弱", "讽刺“人工只能”", "认为利好养殖板块"],
+    "mentioned_stocks": ["牧原"]
+  },
+  {
+    "index": 46,
+    "summary": "反思前期投资过于顺利，本月遭遇大幅回撤的教训。",
+    "sentiment": "negative",
+    "key_opinions": ["前期顺利导致骄傲", "本月回撤严重", "认识到盈利源于风口而非自身"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "复盘如何在科技主线中坚守，强调执行交易纪律和动态调整。",
+    "sentiment": "positive",
+    "key_opinions": ["坚守主线需要可执行的纪律", "应动态调整仓位和止损", "将决定权从情绪交还给规则"],
+    "mentioned_stocks": ["赛腾"]
+  },
+  {
+    "index": 48,
+    "summary": "关注到航天和变压器板块可能出现交易机会。",
+    "sentiment": "neutral",
+    "key_opinions": ["航天和变压器板块有异动", "存在潜在交易机会", "但需设定明确退出时间"],
+    "mentioned_stocks": ["航天", "西电"]
+  },
+  {
+    "index": 49,
+    "summary": "认为下跌趋势中买对机会只有一次，看好科技AI的长期未来。",
+    "sentiment": "positive",
+    "key_opinions": ["当前可能是难得的买入机会", "坚信科技AI将改变时代", "对中国长期发展有信心"],
+    "mentioned_stocks": ["科技", "AI"]
+  },
+  {
+    "index": 50,
+    "summary": "提到日经指数暴跌，并推测可能与黄仁勋在日本有关。",
+    "sentiment": "negative",
+    "key_opinions": ["日经指数暴跌", "可能对韩国市场产生影响"],
+    "mentioned_stocks": ["日经指数"]
+  }
+]
