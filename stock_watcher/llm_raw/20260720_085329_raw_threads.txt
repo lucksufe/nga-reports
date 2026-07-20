@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "技术分析讨论帖，强调顺应趋势，禁止时事讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术分析应顺应趋势", "禁止讨论时事话题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户创建临时技术分析讨论楼，表达感谢和对风险的担忧。",
+    "sentiment": "mixed",
+    "key_opinions": ["临时讨论楼提供交流场所", "关注风险提示", "用户对管理者表达感谢"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论汉钟精机股票，分析司机逻辑，用户分享持仓和亏损情况。",
+    "sentiment": "negative",
+    "key_opinions": ["认可司机逻辑但等待时机", "大时代概念有风险", "用户面临亏损考虑清仓"],
+    "mentioned_stocks": ["汉钟精机"]
+  },
+  {
+    "index": 4,
+    "summary": "临时科技讨论楼，用户支持鱼大，强调科技创新和按摩安慰。",
+    "sentiment": "mixed",
+    "key_opinions": ["临时避难所等待狼头回归", "科技支持和按摩安慰", "维护讨论环境"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "分析韩国芯片股跌幅，认为美国科技财报可能推动反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国芯片股超跌", "美国财报或成催化剂"],
+    "mentioned_stocks": ["韩国芯片股"]
+  },
+  {
+    "index": 6,
+    "summary": "科技讨论楼，用户分享复盘和情绪，中兴跌停影响。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股大跌影响心态", "等待趋势明确", "用户重仓中兴亏损"],
+    "mentioned_stocks": ["中兴"]
+  },
+  {
+    "index": 7,
+    "summary": "存储和计算讨论楼，以按摩安慰为主。",
+    "sentiment": "mixed",
+    "key_opinions": ["存储和计算协同讨论", "按摩支持用户"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论油运板块，分析霍尔木兹海峡解封对油运的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["霍尔木兹海峡解封可能利好油运", "国油国运传言未确认", "周期股投资需谨慎"],
+    "mentioned_stocks": ["轮船"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论国家队救市拉银行股，对科技股影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["救市稳指数防爆仓", "科技股需止跌", "救市效果有限"],
+    "mentioned_stocks": ["银行股", "科技股"]
+  },
+  {
+    "index": 10,
+    "summary": "股票讨论帖，强调禁止敏感话题，趋势投资。",
+    "sentiment": "neutral",
+    "key_opinions": ["禁止讨论敏感话题", "趋势投资交流"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "比较创业板和韩国股市月线表现，认为创业板更差。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板月线表现不佳", "对比韩国股市更差"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 12,
+    "summary": "用户表达股市开盘前后的悲观情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["开盘前绝望", "收盘后暂时缓解"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "用户实盘分享，选股逻辑低估值，当前亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["低估值选股策略", "实盘亏损反思", "坚持选股逻辑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论500亿科技投资消息，用户反应不一。",
+    "sentiment": "mixed",
+    "key_opinions": ["500亿科技投资消息", "怀疑效果但认为稳情绪", "市场反应不确定"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论量化基金亏损和砸盘行为。",
+    "sentiment": "negative",
+    "key_opinions": ["量化基金也亏损", "砸盘可能加剧下跌", "市场下跌大家亏钱"],
+    "mentioned_stocks": ["量化基金"]
+  },
+  {
+    "index": 16,
+    "summary": "韩国股市开盘情况，用户关注熔断。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国股市开盘涨跌", "关注熔断风险"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 17,
+    "summary": "韩国股市开盘走势讨论，用户担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国开盘可能下跌", "担忧死亡螺旋"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 18,
+    "summary": "质疑国家队救市时机，讨论市场下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["救市时机过晚", "市场下跌不止", "散户应保命等右侧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "存储板块讨论，用户决定下周了断。",
+    "sentiment": "mixed",
+    "key_opinions": ["存储板块方向不明", "下周做决定", "用户持仓担忧"],
+    "mentioned_stocks": ["存储股"]
+  },
+  {
+    "index": 20,
+    "summary": "比较A股和韩国股市，担心A股白跌。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市反弹可能影响A股", "担心A股下跌白费", "市场情绪悲观"],
+    "mentioned_stocks": ["韩国股市", "A股"]
+  },
+  {
+    "index": 21,
+    "summary": "用户分享亏损经历，赌徒心态导致亏光积蓄。",
+    "sentiment": "negative",
+    "key_opinions": ["赌徒心态导致巨额亏损", "科技股投资失败", "警示风险"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 22,
+    "summary": "盘前预测临时楼，禁止时事讨论。",
+    "sentiment": "neutral",
+    "key_opinions": ["临时预测楼", "禁止时事话题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "提醒用户高开不要追，需回踩确认。",
+    "sentiment": "negative",
+    "key_opinions": ["高开不追需回踩", "市场情绪看关键点", "避免冲动投资"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "韩国股市可能熔断，用户讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市可能熔断", "预期下跌补跌"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 25,
+    "summary": "超短趋势交流临时楼，珍惜交流机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["超短趋势交流", "临时楼替代原楼", "维护交流环境"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "央企增持消息，用户讨论是否救市信号。",
+    "sentiment": "mixed",
+    "key_opinions": ["央企增持是救市信号", "需要真金白银支持", "市场信心不足"],
+    "mentioned_stocks": ["央企"]
+  },
+  {
+    "index": 27,
+    "summary": "用户询问高开后大食袋（讨论楼）能否回归。",
+    "sentiment": "mixed",
+    "key_opinions": ["高开后讨论楼回归", "收藏技术帖子"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "韩国股市可能翻红，用户期待。",
+    "sentiment": "positive",
+    "key_opinions": ["韩国股市翻红可能", "用户期待赚钱"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 29,
+    "summary": "对比2015年股灾救市，警示当前利好可能无效。",
+    "sentiment": "negative",
+    "key_opinions": ["历史救市无效警示", "当前市场类似", "应止损减仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "红利股讨论楼重建，用户分享持股计划。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股投资计划", "重建讨论楼", "反思投资路径"],
+    "mentioned_stocks": ["红利股", "中国银行"]
+  },
+  {
+    "index": 31,
+    "summary": "新手询问现在是否进场，用户建议。",
+    "sentiment": "mixed",
+    "key_opinions": ["新手询问进场时机", "建议等右侧机会", "用闲钱试水"],
+    "mentioned_stocks": ["红利股"]
+  },
+  {
+    "index": 32,
+    "summary": "用户寻找分析师猫指导和雨神的帖子。",
+    "sentiment": "mixed",
+    "key_opinions": ["寻找分析师帖子", "担心指导缺失", "希望大佬回归"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "驳斥杀爆融资盘论调，分析国内市场。",
+    "sentiment": "negative",
+    "key_opinions": ["杀爆融资盘是谣言", "融资盘结构分析", "杠杆风险可控"],
+    "mentioned_stocks": ["融资盘"]
+  },
+  {
+    "index": 34,
+    "summary": "证监会召开稳市场座谈会，用户反应。",
+    "sentiment": "mixed",
+    "key_opinions": ["证监会座谈稳市场", "需要量价配合", "市场信心不足"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "韩国股市翻红，鼓励用户回来。",
+    "sentiment": "positive",
+    "key_opinions": ["韩国股市翻红", "鼓励用户回归", "讨论市场机会"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 36,
+    "summary": "用户卖在最低点后救市消息，后悔。",
+    "sentiment": "negative",
+    "key_opinions": ["卖在最低点后悔", "救市消息影响", "遵守投资纪律"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "讨论黄金投资机会，金价回撤可能到位。",
+    "sentiment": "mixed",
+    "key_opinions": ["金价回撤可能到位", "黄金投资时机", "国际形势影响"],
+    "mentioned_stocks": ["黄金", "紫金"]
+  },
+  {
+    "index": 38,
+    "summary": "用户询问今天买哪个指数，建议多样。",
+    "sentiment": "mixed",
+    "key_opinions": ["询问指数投资", "建议科创50或紫金", "科技股调整中"],
+    "mentioned_stocks": ["上证指数", "a500", "创业板", "科创50", "紫金"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论抖音上别割肉的建议，用户分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["抖音建议别割肉", "用户分歧看多看空", "反弹可能有限"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论国家队表态后机构行为。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队表态影响", "机构可能不敢砸", "基金赎回压力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "论坛情绪悲观，不相信不跌。",
+    "sentiment": "negative",
+    "key_opinions": ["论坛情绪悲观", "不相信不跌", "需中阳线提振"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "讨论欣兴工具新股是否值得申购。",
+    "sentiment": "mixed",
+    "key_opinions": ["新股申购疑问", "市盈率比较低", "破发可能性低"],
+    "mentioned_stocks": ["欣兴工具"]
+  },
+  {
+    "index": 43,
+    "summary": "提醒用户国家队救市场而非个人，科技股需谨慎。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队救市场非个人", "科技股反弹需谨慎"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论韩国芯片业应对策略，建议投降美国。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国芯片业应合作美国", "避免政治风险", "利润分享策略"],
+    "mentioned_stocks": ["韩国芯片股"]
+  },
+  {
+    "index": 45,
+    "summary": "国资委旗下公司增持，视为救市信号。",
+    "sentiment": "mixed",
+    "key_opinions": ["国资增持是救市信号", "需看反弹量能", "市场底部信号"],
+    "mentioned_stocks": ["国资"]
+  },
+  {
+    "index": 46,
+    "summary": "用户询问sai佬最后持仓，回忆持仓股。",
+    "sentiment": "mixed",
+    "key_opinions": ["询问sai佬持仓", "回忆股票如长飞、拓荆等"],
+    "mentioned_stocks": ["长飞", "拓荆", "沪电", "胜宏", "中际", "新易盛"]
+  },
+  {
+    "index": 47,
+    "summary": "推荐赛轮轮胎股票，形态好看。",
+    "sentiment": "positive",
+    "key_opinions": ["推荐赛轮轮胎", "形态好看可博"],
+    "mentioned_stocks": ["赛轮轮胎"]
+  },
+  {
+    "index": 48,
+    "summary": "世界杯结束，用户期待股市上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["世界杯结束利好股市", "用户期待回血"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "讨论楼消失，用户困惑和失落。",
+    "sentiment": "negative",
+    "key_opinions": ["讨论楼突然消失", "用户失落", "影响讨论环境"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "中国AI产业领跑全球观点，用户讨论。",
+    "sentiment": "positive",
+    "key_opinions": ["中国AI产业领跑", "中美为主要玩家", "利好相关股票"],
+    "mentioned_stocks": ["文峰"]
+  }
+]
