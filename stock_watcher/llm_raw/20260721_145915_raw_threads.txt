@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "置顶的技术分析临时讨论帖，强调禁止讨论时事。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术分析临时讨论", "禁止讨论时事"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "创建技术分析帖，用户支持并讨论避免时事。",
+    "sentiment": "positive",
+    "key_opinions": ["浪奔浪流技术分析帖", "感谢临时讨论地点", "讨论避免时事"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "重开猫猫头讨论帖，用户庆祝和感谢猫指导。",
+    "sentiment": "positive",
+    "key_opinions": ["猫指导牛逼", "雨神回来", "双厨狂喜"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "对ETF 588170单日涨幅22个点的惊讶。",
+    "sentiment": "mixed",
+    "key_opinions": ["一天涨幅大", "新韭菜受惊"],
+    "mentioned_stocks": ["588170"]
+  },
+  {
+    "index": 5,
+    "summary": "对紫金矿业持续上涨的困惑，以为与科技对冲。",
+    "sentiment": "mixed",
+    "key_opinions": ["紫金持续涨", "与科技股关系不明"],
+    "mentioned_stocks": ["紫金"]
+  },
+  {
+    "index": 6,
+    "summary": "临时避难所帖，聚焦技术分析，禁止时事讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["不要讨论时事", "技术分析欢迎", "等待狼头回归"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "超短线交易临时交流帖，警告和谐问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["珍惜交流地方", "避免被封", "支持超短楼"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "盘前预测临时帖，禁止时事，分享复盘链接。",
+    "sentiment": "mixed",
+    "key_opinions": ["禁止时事", "先占座", "分享复盘链接"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "中长线投资者分享投资组合并反思AI投资失误。",
+    "sentiment": "negative",
+    "key_opinions": ["对不起全球AI投资人", "主升浪畏缩", "60日线出击崩盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "询问澜起、胜宏、汉钟股票持有者情况，讨论表现。",
+    "sentiment": "negative",
+    "key_opinions": ["满仓痛", "半导体设备拉但汉钟表现差", "澜起反弹"],
+    "mentioned_stocks": ["澜起", "胜宏", "汉钟"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论科技股步调一致，怀疑量化主导操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["步调一致", "量化平铺", "ETF可能更好"],
+    "mentioned_stocks": ["科创50+创业板ETF"]
+  },
+  {
+    "index": 12,
+    "summary": "存储芯片投资者面临方向选择，附图讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["下周做了断", "耐心等待", "向南腰斩"],
+    "mentioned_stocks": ["存储股"]
+  },
+  {
+    "index": 13,
+    "summary": "用户询问上涨后是否回本，分享回本期望。",
+    "sentiment": "mixed",
+    "key_opinions": ["扛不住下跌就吃不到涨幅", "再来几天回本", "格局是狗"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论对市场反弹不敢买入的犹豫心态。",
+    "sentiment": "negative",
+    "key_opinions": ["不买不亏", "赌不赌", "离开市场"],
+    "mentioned_stocks": ["东山"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论国家队护盘行为，认为市场可能筑底。",
+    "sentiment": "positive",
+    "key_opinions": ["宽基指数有支撑", "真反转", "赌一把"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论今天拉升安全性，散户不敢买但有人认为安全。",
+    "sentiment": "mixed",
+    "key_opinions": ["反弹不是反转", "早信晚信", "一阳改三观"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "全仓持有东山、剑桥、德明利，亏损惨重。",
+    "sentiment": "negative",
+    "key_opinions": ["救救我", "德明利不跑", "逻辑坏了"],
+    "mentioned_stocks": ["东山", "剑桥", "德明利"]
+  },
+  {
+    "index": 18,
+    "summary": "错过上涨后，决策追高还是买红利。",
+    "sentiment": "mixed",
+    "key_opinions": ["别追了", "买红利", "观察下个月"],
+    "mentioned_stocks": ["半导体设备ETF"]
+  },
+  {
+    "index": 19,
+    "summary": "投资者续接记录帖，分享调仓操作和持仓详情。",
+    "sentiment": "mixed",
+    "key_opinions": ["调仓说明", "持仓详情", "技术性交易"],
+    "mentioned_stocks": ["中国石油", "中际旭创", "神火股份", "兖矿能源H", "腾讯"]
+  },
+  {
+    "index": 20,
+    "summary": "用户追高买入东山股票，赌博心态。",
+    "sentiment": "mixed",
+    "key_opinions": ["管tm的进", "不给力", "赌一把"],
+    "mentioned_stocks": ["东山"]
+  },
+  {
+    "index": 21,
+    "summary": "引用书籍内容，表达乐观主义鼓励投资者。",
+    "sentiment": "positive",
+    "key_opinions": ["悲观短暂", "乐观被忽视", "共鸣金钱心理学"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "抱怨量化操作，质疑其对增量资金的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["量化吸不到增量资金", "不知止盈还是持有"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "用户创建讨论帖，以周末按摩和支持为主。",
+    "sentiment": "mixed",
+    "key_opinions": ["先占坑", "按摩支持", "大佬回来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论科技股走势是反弹还是反转，附图。",
+    "sentiment": "mixed",
+    "key_opinions": ["棒子爆拉", "看下午", "反转需要确认"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "抱怨市场一天涨完，极端波动，量化主导。",
+    "sentiment": "negative",
+    "key_opinions": ["人类被量化取代", "ETF拉20CM", "慢牛请求"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "担心明天市场抛压大，焦虑国家队接盘情况。",
+    "sentiment": "negative",
+    "key_opinions": ["明天量化兑现", "国家队接", "复刻7月10号"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "用户开帖，禁止违禁内容，聚焦股票讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["禁止违禁讨论", "前排支持", "看大奶奶"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "技术分析科技股走势，预测云厂商财报后反弹。",
+    "sentiment": "positive",
+    "key_opinions": ["中美AI调整到位", "云厂商财报指引", "反弹行情"],
+    "mentioned_stocks": ["纳斯达克100指数"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论投资者持股心理，亏损死扛，盈利急于卖出。",
+    "sentiment": "mixed",
+    "key_opinions": ["-30%死拿", "+10%拿不住", "怕回撤"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "单日账户涨20%，但本月仍亏损30%。",
+    "sentiment": "mixed",
+    "key_opinions": ["今日20%", "本月-30%", "科技股都差不多"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论地天板后抄底者可能明天砸盘。",
+    "sentiment": "negative",
+    "key_opinions": ["地天板", "抄底者可能砸盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "超短线交易个人记录帖，以首板套利为主。",
+    "sentiment": "mixed",
+    "key_opinions": ["超短打板", "首板套利", "情绪考虑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "百股涨停后讨论未来走势，预测明天可能下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["百股涨停", "指数稳住", "明天可能吃屎"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "假设国家队无限子弹接盘，讨论情绪逆转后市。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队接盘", "情绪逆转", "强者恒强"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论明天市场关键，抛压可能引发下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["早盘抛压", "复刻7月10号", "这次关键"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "发布恐惧贪婪指数，观测市场情绪，仅供娱乐。",
+    "sentiment": "mixed",
+    "key_opinions": ["持续观测", "仅供娱乐", "数字可能低"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "技术分析预测市场变点，计划进入cpo和半导体设备。",
+    "sentiment": "positive",
+    "key_opinions": ["6月28日逃顶", "模型预测变点", "进入cpo和半导体设备"],
+    "mentioned_stocks": ["cpo", "半导体设备", "银行板块"]
+  },
+  {
+    "index": 38,
+    "summary": "上涨后月度亏损减少，但用户仍硬扛亏损。",
+    "sentiment": "mixed",
+    "key_opinions": ["硬吃亏损", "还亏17点", "票不错"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "ETF操作心惊胆战，关心科技股持有者情况。",
+    "sentiment": "negative",
+    "key_opinions": ["ETF操作紧张", "回本先跑", "科技老哥"],
+    "mentioned_stocks": ["科创50etf"]
+  },
+  {
+    "index": 40,
+    "summary": "量化主导市场，走势按估值模型，人类被取代。",
+    "sentiment": "negative",
+    "key_opinions": ["按估值模型走", "量化操作", "AI接管"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "黄金投资者创建临时聚集帖，期待黄金时代。",
+    "sentiment": "positive",
+    "key_opinions": ["黄金宗弟子", "定投等待", "下半年4500"],
+    "mentioned_stocks": ["黄金", "黄金股"]
+  },
+  {
+    "index": 42,
+    "summary": "期待大奇迹日，但实际市场下跌，失望。",
+    "sentiment": "negative",
+    "key_opinions": ["剑来", "大寄日", "跌破360线"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "存储芯片股从高点腰斩，业绩差，量化抛售。",
+    "sentiment": "negative",
+    "key_opinions": ["腰斩恐怖", "德子业绩miss", "量化批量卖出"],
+    "mentioned_stocks": ["赵姨", "德子"]
+  },
+  {
+    "index": 44,
+    "summary": "巨化股份投资者分享利润预测和加仓计划。",
+    "sentiment": "mixed",
+    "key_opinions": ["H1利润预测", "成本计算", "加仓计划"],
+    "mentioned_stocks": ["巨化股份", "昊华"]
+  },
+  {
+    "index": 45,
+    "summary": "一根大阳线后论坛情绪从怨天怨地变喜气洋洋。",
+    "sentiment": "mixed",
+    "key_opinions": ["情绪跟着盈亏走", "德明利地天", "ST时代摘帽"],
+    "mentioned_stocks": ["德明利", "ST时代"]
+  },
+  {
+    "index": 46,
+    "summary": "重建汉钟精机讨论帖，因原帖不可见。",
+    "sentiment": "mixed",
+    "key_opinions": ["司机逻辑认可", "在车上", "加仓汉钟"],
+    "mentioned_stocks": ["汉钟精机", "半导体设备"]
+  },
+  {
+    "index": 47,
+    "summary": "抱怨量化导致行情修复过快，其他板块受损。",
+    "sentiment": "negative",
+    "key_opinions": ["量化夸张", "一天修完", "其他票没钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "比较A股和韩指的极端波动，类似一天ICU一天KTV。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股不遑多让", "明天复刻就倒立洗头"],
+    "mentioned_stocks": ["韩指"]
+  },
+  {
+    "index": 49,
+    "summary": "建议踏空者尾盘进场，避免追高，成本更低。",
+    "sentiment": "mixed",
+    "key_opinions": ["尾盘拿先手", "不要追高", "成本线低"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 50,
+    "summary": "担心科技回调时非科技票被杀，市场泥沙俱下。",
+    "sentiment": "negative",
+    "key_opinions": ["科技回调非科技被杀", "泥沙俱下", "配置建议"],
+    "mentioned_stocks": []
+  }
+]
