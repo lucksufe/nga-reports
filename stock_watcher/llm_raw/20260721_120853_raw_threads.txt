@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "置顶帖子讨论技术分析，内容简单仅标题。",
+    "sentiment": "mixed",
+    "key_opinions": ["讨论技术分析临时讨论区，禁止时事。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户感谢提供临时技术分析讨论区，回复多为情感支持。",
+    "sentiment": "positive",
+    "key_opinions": ["感谢临时讨论区，视为救赎。", "支持版主，鼓励和谐交流。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "科技股下跌时割肉经历分享，讨论是否抗住下杀。",
+    "sentiment": "negative",
+    "key_opinions": ["割肉后后悔，倒在黎明前。", "市场缩量涨放量跌，受害者众多。"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 4,
+    "summary": "抱怨市场操纵，连续下跌后突然拉涨停，感觉不公平。",
+    "sentiment": "negative",
+    "key_opinions": ["市场操纵让散户无法思考，背后干预明显。", "建议不玩或高抛低吸近半月正确。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "提供临时避难所讨论科技股，鼓励技术分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["禁止时事讨论，可按摩或提示风险。", "鼓励技术分析，临时避难所。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "反思科技股回撤，讨论AI硬件开支和投资策略。",
+    "sentiment": "negative",
+    "key_opinions": ["管住手不要抄底，等待叙事反转。", "时间换空间，保本优先。"],
+    "mentioned_stocks": ["兆易创新", "长鑫"]
+  },
+  {
+    "index": 7,
+    "summary": "认为上证可能是下半年最低点，牛市进入下半场。",
+    "sentiment": "positive",
+    "key_opinions": ["市场风格切换后，当前位置或为下半年低点。", "牛市进入下半场，成交量将放量。"],
+    "mentioned_stocks": ["大唐发电"]
+  },
+  {
+    "index": 8,
+    "summary": "卖出后股价上涨，感到后悔和难受。",
+    "sentiment": "negative",
+    "key_opinions": ["卖飞后不舒服，后续可能庆幸。", "市场波动大，持股需谨慎。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "建立超短线交易临时交流帖，珍惜交流机会。",
+    "sentiment": "positive",
+    "key_opinions": ["临时超短楼交流，提醒珍惜平台。", "用户支持回归，希望牛市回来。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "股票讨论帖，强调规则禁止敏感话题。",
+    "sentiment": "neutral",
+    "key_opinions": ["禁止讨论不能讨论的东西，维护秩序。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "询问科技股操作策略，回调加仓还是反弹减仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["保命要紧，反弹减仓。", "观察两天，高抛低吸策略。"],
+    "mentioned_stocks": ["科技股", "ETF"]
+  },
+  {
+    "index": 12,
+    "summary": "主张中国科技市场应有泡沫以促进发展。",
+    "sentiment": "positive",
+    "key_opinions": ["科技泡沫有助于后发赶超欧美。", "初期成长企业高估正常，但需防大股东减持。"],
+    "mentioned_stocks": ["长鑫", "科技股"]
+  },
+  {
+    "index": 13,
+    "summary": "技术分析科技板块，基于云厂商财报预测反弹。",
+    "sentiment": "positive",
+    "key_opinions": ["中美AI板块调整到位后将反弹。", "技术分析用于逃命有效，需做趋势波段。"],
+    "mentioned_stocks": ["纳斯达克100指数", "科技股"]
+  },
+  {
+    "index": 14,
+    "summary": "割肉后市场反弹，感到痛苦和后悔。",
+    "sentiment": "negative",
+    "key_opinions": ["割肉去老登，结果天塌了。", "市场波动剧烈，操作需谨慎。"],
+    "mentioned_stocks": ["紫金", "红利低波"]
+  },
+  {
+    "index": 15,
+    "summary": "盘前预测临时帖，禁止时事讨论。",
+    "sentiment": "neutral",
+    "key_opinions": ["临时楼用于盘前预测，禁止时事话题。", "下周准备金字塔加仓。"],
+    "mentioned_stocks": ["a500"]
+  },
+  {
+    "index": 16,
+    "summary": "对市场剧烈波动感到恐惧，跌停涨停交替。",
+    "sentiment": "negative",
+    "key_opinions": ["市场波动非正规，量化交易导致。", "涨时连涨停，跌时连跌停，用户害怕。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "不解市场操作，国家队护盘但内资砸盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队护盘无效，内资砸盘让人困惑。", "外资抄底，内资割肉。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "利通涨停，认为算力牛市风向标回归。",
+    "sentiment": "positive",
+    "key_opinions": ["利通涨停预示算力牛市回归。"],
+    "mentioned_stocks": ["利通"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论追高机会，建议谨慎或等待回踩。",
+    "sentiment": "mixed",
+    "key_opinions": ["别追高，今天拉升是明天抛压。", "等待回踩或抛压释放再买。"],
+    "mentioned_stocks": ["创业板ETF", "科创芯片", "赵姨（兆易创新）"]
+  },
+  {
+    "index": 20,
+    "summary": "存储股方向讨论，等待决定走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["存储人等待向南或向北的决定。", "耐心等待，关注树哥观点。"],
+    "mentioned_stocks": ["德明利", "存储股"]
+  },
+  {
+    "index": 21,
+    "summary": "预测V型反弹高度超想象。",
+    "sentiment": "positive",
+    "key_opinions": ["V型反弹可能接近熔断那次高度。", "科创和创业板有上限目标。"],
+    "mentioned_stocks": ["科创", "创业板"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论东山王股票走势，尝试接回。",
+    "sentiment": "negative",
+    "key_opinions": ["东山王走势一般，跌停板已说明问题。", "接回时机不佳，需谨慎。"],
+    "mentioned_stocks": ["东山王"]
+  },
+  {
+    "index": 23,
+    "summary": "阳光电源不反弹，用户亏损严重。",
+    "sentiment": "negative",
+    "key_opinions": ["阳光电源死透了，股价支撑逻辑坏了。", "地缘和行业壁垒问题导致下跌。"],
+    "mentioned_stocks": ["阳光电源"]
+  },
+  {
+    "index": 24,
+    "summary": "小米上调手机出货目标，可能利好存储行情。",
+    "sentiment": "mixed",
+    "key_opinions": ["小米上调出货目标，存储行情或反转。", "但小米目标可能被低估。"],
+    "mentioned_stocks": ["小米", "长鑫"]
+  },
+  {
+    "index": 25,
+    "summary": "做T操作失败，卖飞股票。",
+    "sentiment": "negative",
+    "key_opinions": ["开盘卖半仓准备下午接回，结果直接起飞。", "做T失败导致卖飞。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "临时按摩帖，提供情感支持。",
+    "sentiment": "positive",
+    "key_opinions": ["周末以按摩为主，安抚用户情绪。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论反弹后是否卖出，取决于对后市判断。",
+    "sentiment": "mixed",
+    "key_opinions": ["相信慢牛可不跑，否则反弹减仓。", "历史经验：反弹后可能横盘或继续跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "比较华虹和中芯涨幅，华虹表现更强。",
+    "sentiment": "positive",
+    "key_opinions": ["华虹涨幅远超中芯，类似双倍做多但下跌不同。", "华虹本周或创新高。"],
+    "mentioned_stocks": ["华虹", "中芯"]
+  },
+  {
+    "index": 29,
+    "summary": "坚定科技主线，目标上证4350点。",
+    "sentiment": "positive",
+    "key_opinions": ["坚定科技主线，剑指4350不动摇。", "推荐买沪深300和中证1000，等右侧信号。"],
+    "mentioned_stocks": ["沪深300", "中证1000", "科技股"]
+  },
+  {
+    "index": 30,
+    "summary": "市场大量地天板，抄底者获利。",
+    "sentiment": "positive",
+    "key_opinions": ["抄底者今天爽翻，但明天才能卖。", "市场波动大，T操作困难。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "清仓后股价爆拉，心态崩溃。",
+    "sentiment": "negative",
+    "key_opinions": ["清完就爆拉，难以调整心态。", "市场反复抽耳光，建议离开一段。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "上午割肉者错过反弹，后悔不已。",
+    "sentiment": "negative",
+    "key_opinions": ["不少兄弟倒在黎明前，割肉后反弹。", "市场振幅大，割肉后转其他板块再挨打。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "市场反弹但用户不敢买入。",
+    "sentiment": "negative",
+    "key_opinions": ["不买至少不亏钱，空仓是智慧。", "市场拉得快，跟得上难，建议等待。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "疑问科技股是反弹还是反转。",
+    "sentiment": "mixed",
+    "key_opinions": ["当前是反弹，反转要看后续。", "暴力拉升可能是诱多，等企稳信号。"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 35,
+    "summary": "批评量化交易导致市场不健康。",
+    "sentiment": "negative",
+    "key_opinions": ["ETF振幅16点，市场不健康。", "量化导致大涨大跌，用户恐惧。"],
+    "mentioned_stocks": ["科创半导体ETF", "兆易创新"]
+  },
+  {
+    "index": 36,
+    "summary": "空仓者面对带量红阳的决策讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["空仓者躲过下跌，但追高需谨慎。", "等右侧信号或公司财报。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "红利股领涨市场。",
+    "sentiment": "positive",
+    "key_opinions": ["今天红利carry全场，年线刚红。", "红利股涨时用户心态变化。"],
+    "mentioned_stocks": ["红利股"]
+  },
+  {
+    "index": 38,
+    "summary": "批评市场氛围变成短线交易赌场化。",
+    "sentiment": "negative",
+    "key_opinions": ["大家全玩成短线，今天买明天卖。", "波动大，持股超一天是勇敢。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "分享中长线投资组合，反思科技股损失。",
+    "sentiment": "positive",
+    "key_opinions": ["最对不起全球AI投资人。", "中长线躺平流，分享投资组合。"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 40,
+    "summary": "根据市场行为分类散户为三类。",
+    "sentiment": "mixed",
+    "key_opinions": ["人上人底部加仓，普通人目送，多动症割肉追高。", "量化收割所有韭菜。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "大跌接大涨感觉市场不健康。",
+    "sentiment": "negative",
+    "key_opinions": ["市场波动不健康，需观察是否阴包阳。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "分享亏损经历，从盈利到亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["扛了多天从盈利50点到亏损20点。", "市场反弹可能是诱多，谨慎追高。"],
+    "mentioned_stocks": ["长鑫", "硅片"]
+  },
+  {
+    "index": 43,
+    "summary": "市场波动比期货大，不健康。",
+    "sentiment": "negative",
+    "key_opinions": ["一周跌两月涨幅，一天涨一周的。", "半导体ETF一小时拉14点，波动过大。"],
+    "mentioned_stocks": ["半导体设备ETF"]
+  },
+  {
+    "index": 44,
+    "summary": "半导体ETF大涨8点，用户惊讶。",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体ETF大涨但用户卖飞。", "行情可能是诱多出货，不追高。"],
+    "mentioned_stocks": ["半导体ETF", "长鑫"]
+  },
+  {
+    "index": 45,
+    "summary": "基金持仓更新，调整到PCB上游。",
+    "sentiment": "negative",
+    "key_opinions": ["基金调仓但回撤仍大。", "市场泥沙俱下，操作难。"],
+    "mentioned_stocks": ["PCB"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论指数到底后下一波主升板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["下一波主升板块是否是科技？套牢盘问题。", "其他板块能否抢走科技人气未知。"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 47,
+    "summary": "上午建议减仓，可能下午接回。",
+    "sentiment": "mixed",
+    "key_opinions": ["深指快3点，坚持不到下午建议减仓。", "减后尾盘接回，做T操作。"],
+    "mentioned_stocks": ["创业板ETF"]
+  },
+  {
+    "index": 48,
+    "summary": "巨化股份投资讨论，分享利润预测。",
+    "sentiment": "negative",
+    "key_opinions": ["巨化股份回撤，成本控制重要。", "计算器按到2027年，等待机会。"],
+    "mentioned_stocks": ["巨化股份"]
+  },
+  {
+    "index": 49,
+    "summary": "科技股大跌，龙哥被套。",
+    "sentiment": "negative",
+    "key_opinions": ["龙哥三个亿被埋，科技股谁做谁死。", "长电东山补跌，幻想破灭。"],
+    "mentioned_stocks": ["长电", "东山"]
+  },
+  {
+    "index": 50,
+    "summary": "铝板块异动，讨论投资机会。",
+    "sentiment": "positive",
+    "key_opinions": ["宏桥领涨，铝板块有变盘信号。", "电解铝逻辑硬，但需观察。"],
+    "mentioned_stocks": ["宏桥", "神火", "云铝"]
+  }
+]
