@@ -1,0 +1,552 @@
+[
+  {
+    "index": 1,
+    "summary": "技术分析临时讨论帖，强调顺应趋势，避免时事。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "主题是技术分析临时讨论。",
+      "强调顺应趋势。",
+      "禁止转时事内容。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "技术分析讨论帖重开，用户表达感激和庆祝。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "感谢版主恢复帖子。",
+      "讨论临时避难所。",
+      "庆祝帖子回归。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "个人复盘记录，作为超短楼备份和临时交流平台。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "希望珍惜讨论环境。",
+      "作为复盘备份镜像。",
+      "避免被封禁。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "分析上证指数技术面，讨论360日线支撑与反弹可能。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "360日线守住可能反弹。",
+      "质疑技术分析意义。",
+      "情绪抛压影响反弹。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "探讨科技股被国家队打压的原因，引发困惑和抱怨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "不理解打压科技股行为。",
+      "可能是获利卖出导致。",
+      "怕暴跌引发踩踏风险。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 6,
+    "summary": "谷歌财报临近，讨论其对AI硬件和科技股情绪的影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "谷歌财报是关键事件。",
+      "硬件支出放缓可能引发情绪杀。",
+      "美国会计可能稳住预期。"
+    ],
+    "mentioned_stocks": ["谷歌", "AI硬件"]
+  },
+  {
+    "index": 7,
+    "summary": "白酒指数基金表现突出，讨论投资机会与风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "白酒作为避风港受关注。",
+      "基金手续费高影响收益。",
+      "衰退行业不看好长期。"
+    ],
+    "mentioned_stocks": ["白酒指数基金", "白酒ETF", "青岛啤酒"]
+  },
+  {
+    "index": 8,
+    "summary": "股票讨论帖强调遵守规则，避免封禁，感谢版主。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "禁止讨论时事内容。",
+      "维护讨论环境重要。",
+      "感谢版主支持。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "分享中长线投资组合，反思AI投资失误导致亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "主升浪时畏缩，60日线出击亏损。",
+      "反思投资策略失误。",
+      "支持海指导。"
+    ],
+    "mentioned_stocks": ["AI相关股票"]
+  },
+  {
+    "index": 10,
+    "summary": "分析外围市场对A股科技股的影响，特别是韩国股市。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股民依赖外围市场经验。",
+      "外围不好科技难好。",
+      "韩国股市下跌影响A股。"
+    ],
+    "mentioned_stocks": ["科技股", "韩国股市"]
+  },
+  {
+    "index": 11,
+    "summary": "超短线投资交流临时帖，希望珍惜讨论空间。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "超短楼暂用作交流。",
+      "珍惜讨论环境避免封禁。",
+      "等待原帖恢复。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "盘前预测讨论临时帖，强调避免时事以防封禁。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "禁止时事讨论。",
+      "发布复盘帖链接。",
+      "支持版主维护。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "股票讨论中使用别名，如金枪鱼指澜起科技，解释原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "话术饭圈化引发困惑。",
+      "金枪鱼指澜起科技。",
+      "使用别名避免量化抓取。"
+    ],
+    "mentioned_stocks": ["澜起科技", "德明利"]
+  },
+  {
+    "index": 14,
+    "summary": "基金表现讨论，批评基民高位接盘行为。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "基民高位接盘基金。",
+      "基金经理管理问题。",
+      "基金回本难度大。"
+    ],
+    "mentioned_stocks": ["刘彦春基金", "张坤基金", "兴全基金", "万家基金"]
+  },
+  {
+    "index": 15,
+    "summary": "预测科技股反弹，但社区反应谨慎调侃，不信任预测。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "预测科技股暴力反弹。",
+      "社区调侃不信任预测。",
+      "担忧高开低走套牢。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 16,
+    "summary": "分析短融ETF融资买入行为，可能为做T或空仓存钱。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "融资买入可能用于做T。",
+      "短融ETF类似逆回购。",
+      "视为股市空仓存钱方式。"
+    ],
+    "mentioned_stocks": ["短融ETF"]
+  },
+  {
+    "index": 17,
+    "summary": "临时避难所讨论科学技术板块，禁止时事，等待版主。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "禁止时事讨论防封禁。",
+      "作为临时避难所。",
+      "等待原版主回来。"
+    ],
+    "mentioned_stocks": ["科学技术板块"]
+  },
+  {
+    "index": 18,
+    "summary": "股票讨论帖重开，以猫猫头为象征，表达乐观支持。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "猫指导牛逼受欢迎。",
+      "期待雨神等其他版主。",
+      "重开楼获得支持。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论兆易创新股票回本可能性，表达焦虑和悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "成本高回本困难。",
+      "建议止损避免被逼疯。",
+      "心理压力大需减仓。"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 20,
+    "summary": "技术分析科技板块，关注云厂商财报和调整到位后反弹。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中美AI调整到位后反弹。",
+      "云厂商财报是关键驱动。",
+      "技术分析有助于逃命。"
+    ],
+    "mentioned_stocks": ["科技股", "纳斯达克100指数"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论亏钱心理，是否从他人亏损中获得安慰。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "有人从他人亏损获安慰。",
+      "博主亏钱时涨粉更多。",
+      "理性看待亏损心态。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "寻找时令投资机会，如消费电子、冰雪经济板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "板块轮动快需埋伏。",
+      "消费电子国庆前机会。",
+      "冰雪经济可能炒作风。"
+    ],
+    "mentioned_stocks": ["歌尔股份", "立讯精密", "长白山", "大连圣亚"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论融资爆仓加剧，杠杆风险高，国家队难救个股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "融资爆仓连环发生。",
+      "国家队救指数难救个股。",
+      "杠杆需谨慎避免爆仓。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "总结水皮和刘纪鹏观点，认为当前是结构性熊市。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "当前是结构性熊市。",
+      "国家队卖出底仓。",
+      "政策底非市场底，调整需时间。"
+    ],
+    "mentioned_stocks": ["兆易创新", "长鑫存储"]
+  },
+  {
+    "index": 25,
+    "summary": "坚定看好科技主线，目标4350点，回答常见问题。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "牛市还在，科技主线不变。",
+      "建议买沪深300和中证1000。",
+      "等待右侧信号。"
+    ],
+    "mentioned_stocks": ["科技股", "沪深300", "中证1000"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论今日市场是否杀棒，及韩国股市熔断影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "红开可能高走。",
+      "韩国股市熔断螺旋。",
+      "三星海力士需回购稳市。"
+    ],
+    "mentioned_stocks": ["韩国股市", "三星", "海力士"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论反弹后股民可能销户，市场压力大调整时间长。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "反弹后可能销户。",
+      "资本不会抬轿解套。",
+      "调整时间可能几个月。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "调侃A股名称不吉利，建议改名如V股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股象征先升后跌。",
+      "A杀是A股特色。",
+      "建议改名如V股。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "梦境分享，寓意战胜熊市，表达乐观希望。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "梦境与现实相反。",
+      "寓意战胜熊市。",
+      "看过相关视频启发。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "分析东山精密外资买入与机构卖出，讨论分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "外资大买东山精密。",
+      "机构清仓卖出。",
+      "可能有建仓机会。"
+    ],
+    "mentioned_stocks": ["东山精密", "光迅科技", "沪电股份"]
+  },
+  {
+    "index": 31,
+    "summary": "揭示控股股东减持非公开发行股票规则漏洞，以太极实业为例。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "减持规则有漏洞。",
+      "太极实业清仓减持。",
+      "散户难知情保护。"
+    ],
+    "mentioned_stocks": ["太极实业", "盈峰环境"]
+  },
+  {
+    "index": 32,
+    "summary": "计划全仓中概互联网ETF，讨论优劣与风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "全仓中概互联网ETF。",
+      "小心两头挨打风险。",
+      "恒生科技更抗风险。"
+    ],
+    "mentioned_stocks": ["中概互联网ETF", "恒生科技ETF", "腾讯", "阿里", "美团", "小米", "比亚迪", "中芯国际"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论科技股难救，因抛压大，红利股更易救。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股抛压大难救。",
+      "红利股抛压低易救。",
+      "靠云厂商财报驱动。"
+    ],
+    "mentioned_stocks": ["科技股", "红利股"]
+  },
+  {
+    "index": 34,
+    "summary": "分析华域汽车投资机会，基于控股股东承诺和分红。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "华域汽车破净高股息。",
+      "控股股东不减持承诺。",
+      "汽车行业前景不确定。"
+    ],
+    "mentioned_stocks": ["华域汽车", "上汽集团", "比亚迪"]
+  },
+  {
+    "index": 35,
+    "summary": "存储股投资者面临方向选择，表达迷茫和期待。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "存储股需要做了断。",
+      "德明利可能有变化。",
+      "耐心等待方向明确。"
+    ],
+    "mentioned_stocks": ["存储股", "德明利"]
+  },
+  {
+    "index": 36,
+    "summary": "批评国家队拉升方向错误，应拉硬科技而非小盘股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国家队拉错方向。",
+      "应拉沪深300权重。",
+      "中小盘科技不应救。"
+    ],
+    "mentioned_stocks": ["沪深300", "中芯国际", "华虹半导体"]
+  },
+  {
+    "index": 37,
+    "summary": "批评依赖预测市场，强调止损和仓位控制的重要性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "预测不可靠。",
+      "止损控制仓位重要。",
+      "情绪化操作有害。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "讨论红利股估值，为何刚涨就被喊高，股息率关键。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "红利股股息率是关键。",
+      "股价上涨降低性价比。",
+      "科技股涨高不觉高。"
+    ],
+    "mentioned_stocks": ["红利股", "长江电力"]
+  },
+  {
+    "index": 39,
+    "summary": "个人投资记录更新，调整持仓如减中国石油加中际旭创。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "调仓中国石油到中际旭创。",
+      "纯技术性交易。",
+      "支持狗哥指导。"
+    ],
+    "mentioned_stocks": ["中国石油", "中际旭创", "神火股份", "兖矿能源H", "腾讯"]
+  },
+  {
+    "index": 40,
+    "summary": "东芯股份业绩预告扭亏，但股价下跌，讨论原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "业绩扭亏但股价下跌。",
+      "庄股操作脏需谨慎。",
+      "存储业务低端，砺算GPU有预期。"
+    ],
+    "mentioned_stocks": ["东芯股份", "砺算科技"]
+  },
+  {
+    "index": 41,
+    "summary": "美股跳水时AI硬件抗跌，讨论科技板块筑底。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI硬件可能止跌企稳。",
+      "等谷歌财报指引。",
+      "科技股跟美股相关。"
+    ],
+    "mentioned_stocks": ["AI硬件", "迈威尔", "老馒头"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论科技股外其他板块机会，如宠物、创新药等。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技短期难看。",
+      "宠物经济有空间。",
+      "创新药走出阴霾。"
+    ],
+    "mentioned_stocks": ["宠物经济", "创新药ETF", "恒生科技", "东鹏饮料", "比亚迪"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论外围市场如果回暖，A股科技是否跟随或分化。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "A股涨跌与外围高度相关。",
+      "外围回暖可能带动A股。",
+      "可能分化涨大龙头。"
+    ],
+    "mentioned_stocks": ["科技股", "通信板块", "科创半导体", "科创芯片"]
+  },
+  {
+    "index": 44,
+    "summary": "批评科技股实质为电子厂，依赖美国订单，看淡前景。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股实为电子厂。",
+      "依赖美国订单风险高。",
+      "产业空心化可能。"
+    ],
+    "mentioned_stocks": ["科技股", "欧菲光"]
+  },
+  {
+    "index": 45,
+    "summary": "分析大金重工股价大跌原因，如科技基吸血和行业变化。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技基吸血导致下跌。",
+      "业绩增速下滑杀估值。",
+      "风电行业景气度下降。"
+    ],
+    "mentioned_stocks": ["大金重工"]
+  },
+  {
+    "index": 46,
+    "summary": "帖子被删，用户困惑，讨论临时楼消失影响心情。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "帖子被删或隐藏。",
+      "天天ST（被封）困扰。",
+      "影响用户心情。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "询问汇丰控股讨论帖内容，表达好奇和遗憾。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "想看旧帖内容。",
+      "持有汇丰控股。",
+      "遗憾旧帖消失。"
+    ],
+    "mentioned_stocks": ["汇丰控股"]
+  },
+  {
+    "index": 48,
+    "summary": "讨论市场雪崩后超跌且有预期的股票，寻找机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "超跌票有预期。",
+      "半岛铁盒有预期。",
+      "大蓝筹超跌有机会。"
+    ],
+    "mentioned_stocks": ["半岛铁盒", "胜宏科技", "中国平安", "中芯国际", "东山精密"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论美股是否V型反转，关注科技股走势和关键点。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股处于关键点。",
+      "恐慌指数已V型。",
+      "纳指需踩年线启动。"
+    ],
+    "mentioned_stocks": ["美股", "海力士", "达子", "可口可乐"]
+  },
+  {
+    "index": 50,
+    "summary": "调查科技股持仓情况，表达各种状态如割肉、加仓等。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "还没割完持仓。",
+      "全仓逆回购等待。",
+      "腰斩但反手加仓。"
+    ],
+    "mentioned_stocks": ["科技股", "科创50", "恒生科技", "谷歌"]
+  }
+]
