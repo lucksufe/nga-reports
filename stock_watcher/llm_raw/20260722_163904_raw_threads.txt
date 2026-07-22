@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "置顶帖强调技术分析临时讨论，顺应趋势，避免时事。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术分析临时讨论，顺应趋势。", "避免讨论时事话题。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "技术分析帖，回复表达感谢和娱乐性评论，提及弗丁等。",
+    "sentiment": "mixed",
+    "key_opinions": ["感谢有临时的家了。", "二哥出手了，Z哥人真好。", "你就是弗丁。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论华鲁恒升是否值得买入，提及亚钾国际和图形分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["华鲁恒升能进吗？", "看看亚钾国际。", "问题最近这种图形的票一页一页的出。"],
+    "mentioned_stocks": ["华鲁恒升", "亚钾国际"]
+  },
+  {
+    "index": 4,
+    "summary": "抱怨股市指数暴涨暴跌，讨论波动原因和汪队调控。",
+    "sentiment": "negative",
+    "key_opinions": ["指数一天+-2个点以内啊。", "如果没有汪队，暴跌会更暴。", "大跌在哪？铁盒昨天从-4拉到+19。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "投票决出总熊头，列出航天工程、德明利等股票表现差。",
+    "sentiment": "negative",
+    "key_opinions": ["航天工程、德明利等股票表现不佳。", "亨通光电被提及。", "德明利遥遥领先。"],
+    "mentioned_stocks": ["航天工程", "德明利", "合肥城建", "亨通光电", "铜冠铜箔"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论科技股应否让其自然跌到位，提及融资盘风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["不如让科技自己跌到位。", "前几天杀得情绪到了，应再震荡。", "那就是融资盘连环爆破至四月七起点。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "抱怨量化交易和市场操纵，科技股下跌，提及中天科技。",
+    "sentiment": "negative",
+    "key_opinions": ["量化，我服了。", "你这么天天奔着给大伙杀出去。", "拿2层仓玩玩，其余资金当收息佬。"],
+    "mentioned_stocks": ["中天科技"]
+  },
+  {
+    "index": 8,
+    "summary": "分享公司上市后股价腰斩经历，讨论未盈利互联网公司前景。",
+    "sentiment": "negative",
+    "key_opinions": ["公司上市3个月股价腰斩了。", "大AI时代，未盈利互联网软件公司无炒作空间。", "至今未盈利，上市让风投退场。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论科技股不同板块表现分化，如芯片、半导体、存储、光。",
+    "sentiment": "mixed",
+    "key_opinions": ["昨天芯片+10 今天-2，算正常回调。", "光是真的没招了，古典科技重现。", "还得是芯片啊，梆硬。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论投资恐惧，完全不敢买入股票。",
+    "sentiment": "negative",
+    "key_opinions": ["不玩也是一种智慧。", "空仓不好吗，这样拉你跟得上谁。", "全仓逆回购。"],
+    "mentioned_stocks": ["东山"]
+  },
+  {
+    "index": 11,
+    "summary": "分析谷歌资本支出前景，认为其不太可能缩减。",
+    "sentiment": "positive",
+    "key_opinions": ["谷歌的CapEx增速低于微软。", "Google Cloud收入增速最高。", "谷歌明确表态全年将保持供给受限。"],
+    "mentioned_stocks": ["谷歌", "微软", "亚马逊"]
+  },
+  {
+    "index": 12,
+    "summary": "思考科技股可能大幅下跌70%，引用历史例子警示。",
+    "sentiment": "negative",
+    "key_opinions": ["这一轮跌幅太极端了。", "对标宏和科技，之前最高300，现在144腰斩了。", "杂毛跌去百分之七十可能只需要一个月。"],
+    "mentioned_stocks": ["宏和科技", "远东股份", "赛腾"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论中国巨石股价下跌，电子布涨价逻辑有瑕疵。",
+    "sentiment": "negative",
+    "key_opinions": ["40都没守住回3开头了。", "电子布涨价逻辑有瑕疵。", "成山的套牢盘，筹码结构坏了。"],
+    "mentioned_stocks": ["中国巨石", "江波龙", "澜起科技", "百维存储", "德明利", "同有科技", "香农芯创"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论中际旭创内部趣闻，刷牙事件真实性。",
+    "sentiment": "mixed",
+    "key_opinions": ["开始还以为是什么搞耍。", "就是开会刷牙忘记关视频了。", "小作文来了。"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论科技股见顶信号，科技丧钟涨停影响。",
+    "sentiment": "negative",
+    "key_opinions": ["科技真到头了？", "科技丧钟威力又加强了。", "ZTE中兴通讯被提及。"],
+    "mentioned_stocks": ["中兴通讯"]
+  },
+  {
+    "index": 16,
+    "summary": "分享图片，暗示重建利好，如炸得越多重建越多。",
+    "sentiment": "positive",
+    "key_opinions": ["炸的越多，重建的越多。", "浪子加油。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "创建临时技术分析讨论楼，强调避免时事。",
+    "sentiment": "mixed",
+    "key_opinions": ["不要讨论时事。", "想按摩也行，想提示风险也可以。", "等狼头回来。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论AI是否只是泡沫，有人认为实用，有人质疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["你用付费的模型之后，你应该得不出这个结论。", "AI是好东西 不过股市泡沫也是极大。", "ai真的是划时代的产品。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "分享中长线投资组合，反思对AI投资的错过。",
+    "sentiment": "mixed",
+    "key_opinions": ["事到如今，最对不起的还是全球ai投资人。", "支持海指导。", "主升浪我畏畏缩缩，60日线我重拳出击。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "创建盘前预测临时楼，禁止时事讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["禁止讨论任何时事话题。", "下周准备金字塔加仓a500了。", "复盘帖链接。"],
+    "mentioned_stocks": ["A500"]
+  },
+  {
+    "index": 21,
+    "summary": "用成语讽刺股市表现，如江波龙、德明利等股票。",
+    "sentiment": "negative",
+    "key_opinions": ["波澜不惊——满仓江波龙、澜起科技。", "百折不挠——满仓百维存储。", "不祥之兆——兆易创新是个不吉利的玩意。"],
+    "mentioned_stocks": ["江波龙", "澜起科技", "百维存储", "兆易创新", "德明利", "同有科技", "香农芯创"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论电力ETF趋势机会，与科技股形成对手盘。",
+    "sentiment": "positive",
+    "key_opinions": ["六月跌了一整个月刚回本。", "现在已经是科技对手盘的形状了。", "电力最近走的挺好的。"],
+    "mentioned_stocks": ["电力ETF", "华电", "华能", "大唐发电"]
+  },
+  {
+    "index": 23,
+    "summary": "假设上证指数涨到4200-4300，讨论受益股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["倾向于拉升低估值、业绩好的国资控股的票。", "红利啊。明牌的。", "大唐发电。"],
+    "mentioned_stocks": ["大唐发电", "茅台", "银保证", "猪酒药"]
+  },
+  {
+    "index": 24,
+    "summary": "聊天帖，支持大佬回归，讨论顶住压力。",
+    "sentiment": "positive",
+    "key_opinions": ["顶住了，那天看喜佬的仓位截图，就直接拉满了。", "支持大佬。", "顶住了 差点割在最低点。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "讨论即使谷歌资本支出不削减，科技股仍可能下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["我怎么觉着明天科技还是会跌呢。", "你宣布你就是新的大顶哥了。", "经典利好落地转利空。"],
+    "mentioned_stocks": ["谷歌", "纳指"]
+  },
+  {
+    "index": 26,
+    "summary": "创建左光右存算电协同按摩帖，讨论板块分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["先占坑这周末以按摩为主。", "来啦f佬。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论德明利股价异动，8天6板，监控情况。",
+    "sentiment": "mixed",
+    "key_opinions": ["8天6板！真龙。", "昨天控了一下，操盘的水平可以。", "重点监控，禁止卖出。"],
+    "mentioned_stocks": ["德明利", "利通电子"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论场外半导体ETF套利机会，溢价计算。",
+    "sentiment": "mixed",
+    "key_opinions": ["以562590为例，上涨了10%。", "场外? 场外又没有涨幅限制。", "场外买入按昨天10%涨幅计算净值吧。"],
+    "mentioned_stocks": ["半导体ETF"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论研究员预测谷歌将削减AI开支，引发市场担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["明天不会又要鬼故事了吧。", "坏了，小作文来了。", "大逃杀？"],
+    "mentioned_stocks": ["谷歌", "纳斯达克"]
+  },
+  {
+    "index": 30,
+    "summary": "重建红利投资楼，讨论红利股如中国银行。",
+    "sentiment": "positive",
+    "key_opinions": ["我错了，红利才是我最温暖的家。", "前排插眼。", "红利你砸我盘，我抄你家。"],
+    "mentioned_stocks": ["中国银行", "红利ETF"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论公司利空传闻，如中大哥与海通女销售。",
+    "sentiment": "mixed",
+    "key_opinions": ["RT 小瓜一个。", "错是 来自兔娘。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "讨论巨化股份投资风险，利润预测和套牢情况。",
+    "sentiment": "negative",
+    "key_opinions": ["做确定的行情，挨最狠的毒打。", "2026H1利润预测。", "越按计算器砸的越狠。"],
+    "mentioned_stocks": ["巨化股份", "昊华"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论游戏板块下跌，腾讯亏损，小作文影响。",
+    "sentiment": "negative",
+    "key_opinions": ["腾讯亏麻了今天。", "小作文是充值下滑了。", "每次海峡一关，游戏就没了。"],
+    "mentioned_stocks": ["腾讯", "完美世界"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论上半年证券交易印花税增长97.3%，利好证券。",
+    "sentiment": "mixed",
+    "key_opinions": ["上半年证券交易印花税收入1549亿元 同比增长97.3%。", "证券：利好落地。"],
+    "mentioned_stocks": ["证券板块"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论三十年国债暴涨，可能预示降息预期。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天咋回事啊，3.1bp 了。", "还没突破之前高点吧。", "可能预估月底会议走降息预期。"],
+    "mentioned_stocks": ["三十年国债"]
+  },
+  {
+    "index": 36,
+    "summary": "创建超短线个人记录帖，风格限定为超短打板。",
+    "sentiment": "mixed",
+    "key_opinions": ["本楼主要是以个人记录为主。", "风格限定为超短打板。", "模式以首板套利为主。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "讨论小米集团和港美股投资，社区支持。",
+    "sentiment": "positive",
+    "key_opinions": ["召唤最忠诚的山顶资本。", "回到我们忠诚的小米楼。", "上周五卖飞阿里了。"],
+    "mentioned_stocks": ["小米集团", "阿里", "恒科"]
+  },
+  {
+    "index": 38,
+    "summary": "分享实盘记录，割肉芯片ETF和通信ETF，批评腾讯。",
+    "sentiment": "negative",
+    "key_opinions": ["早上在最低点附近割了芯片etf和通信etf。", "头号战犯腾讯。", "通信ETF里全是脏东西。"],
+    "mentioned_stocks": ["芯片ETF", "通信ETF", "腾讯"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论存储股方向，德明利表现，做出了断。",
+    "sentiment": "mixed",
+    "key_opinions": ["下周做个了断吧。", "存储人听我号令，自刎归天。", "德明利到底会变成什么样。"],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 40,
+    "summary": "个人实盘复盘记录，反思投资经历和操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["个人实盘复盘临时记录贴。", "我曾认为我的夏天在2019年就结束了。", "今天只S和切低，均+17%清了大部分170铁盒。"],
+    "mentioned_stocks": ["铁盒"]
+  },
+  {
+    "index": 41,
+    "summary": "重开猫猫楼，讨论投资心态，如猫猫头比喻。",
+    "sentiment": "positive",
+    "key_opinions": ["重开一楼猫猫楼。", "猫指导牛逼。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "讨论长鑫上市对流动性影响，存储板块可能下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["下周长鑫上来会吸哪个板块的流动性。", "根据空x来看 存储板块集体跌停。", "假存储肯定跌的。"],
+    "mentioned_stocks": ["长鑫", "德明利", "江波龙"]
+  },
+  {
+    "index": 43,
+    "summary": "技术分析科技股图形，预测反弹行情基于财报。",
+    "sentiment": "positive",
+    "key_opinions": ["核心结论：中美AI板块共同调整到位后开启反弹。", "支持技术分析。", "拿来逃命是真有用。"],
+    "mentioned_stocks": ["纳指", "Meta", "微软"]
+  },
+  {
+    "index": 44,
+    "summary": "创建临时超短线交流帖，强调珍惜交流地方。",
+    "sentiment": "mixed",
+    "key_opinions": ["A大闭关，越俎代庖发个。", "珍惜能交流的地方。", "等大食袋恢复期间用来交流。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "分享图片，可能关于科技股表现，有幽默回复。",
+    "sentiment": "mixed",
+    "key_opinions": ["上图，让大伙看看。", "刷牙还是sy？", "And you, my friend, are a true hero。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "讨论大A价值投资标的，如海狗、红利ETF等。",
+    "sentiment": "positive",
+    "key_opinions": ["海狗我有了，还有什么适合价值投资。", "红利类的都行。", "全仓干海狗就行了。"],
+    "mentioned_stocks": ["海狗", "红利ETF", "纳指ETF"]
+  },
+  {
+    "index": 47,
+    "summary": "讨论美股半导体盘前大跌对A股影响。",
+    "sentiment": "negative",
+    "key_opinions": ["大家怎么看？", "跟的大A吗。", "还能咋办，麻袋装人呗。"],
+    "mentioned_stocks": ["半导体板块"]
+  },
+  {
+    "index": 48,
+    "summary": "讨论谷歌、Meta、微软削减资本支出对国产链影响。",
+    "sentiment": "negative",
+    "key_opinions": ["都是量化，大概率无差别的杀。", "会，会引发熊市。", "国产链今天挺抗跌的。"],
+    "mentioned_stocks": ["谷歌", "Meta", "微软"]
+  },
+  {
+    "index": 49,
+    "summary": "分享实盘目标冲击一百个，选股逻辑低估值慢生意。",
+    "sentiment": "mixed",
+    "key_opinions": ["还是想坚持实盘完一年。", "选股逻辑：低估值+安全边际+慢生意。", "龙指导新楼。"],
+    "mentioned_stocks": ["杰瑞"]
+  },
+  {
+    "index": 50,
+    "summary": "创建每周股票讨论帖，禁止不相关话题。",
+    "sentiment": "positive",
+    "key_opinions": ["禁止讨论任何不能讨论的东西。", "这个帖子是股票讨论和趋势投资。"],
+    "mentioned_stocks": []
+  }
+]
