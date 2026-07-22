@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "用户创建了一个置顶的临时讨论帖，用于技术分析交流。",
+    "sentiment": "mixed",
+    "key_opinions": ["这是一个新的、禁止讨论时事的技术分析临时讨论场所。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户们对‘浪奔浪流’用户创建的技术分析临时讨论帖表示欢迎和支持。",
+    "sentiment": "positive",
+    "key_opinions": ["感谢提供临时的讨论家。", "认为这是‘流浪韭菜’的救星。", "提醒标红内容可能是关闭原因。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论开盘前日韩美等外围市场大涨对A股的影响，用户对今日走势看法不一。",
+    "sentiment": "mixed",
+    "key_opinions": ["担心A股会走出‘独立行情’再次高开低走。", "调侃‘高开就砸’的市场‘祖训’。", "讨论日本市场与A股半导体板块的关联性。"],
+    "mentioned_stocks": ["KS11", "225", "东证", "道琼", "纳纳", "SP", "纳百", "费半"]
+  },
+  {
+    "index": 4,
+    "summary": "用户讨论科技股对大盘指数的影响，并询问当前适合投资的ETF或个股。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为国家队可能意图降低科技股权重，但效果不佳。", "认为后续指数拉升可能仍需依靠科技板块。", "建议关注沪深300、科创50等ETF。"],
+    "mentioned_stocks": ["588170", "588200", "科创50", "沪深300"]
+  },
+  {
+    "index": 5,
+    "summary": "用户创建帖子，等待分享技术分析情况，回复多为占位和期待。",
+    "sentiment": "positive",
+    "key_opinions": ["用户表示正在准备分享内容。", "其他用户积极‘插眼’等待分享。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "用户‘鱼大’回归创建临时讨论帖，以按摩（安慰）、提示风险和技术分析为主。",
+    "sentiment": "positive",
+    "key_opinions": ["作为临时避难所，强调不要讨论时事。", "欢迎大佬‘鱼大’回归。", "用户表达支持并提供‘焚诀’备份信息。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论兆易创新（兆易）股价腰斩后是否构成‘黄金坑’。",
+    "sentiment": "mixed",
+    "key_opinions": ["对作为龙头的兆易仍有信心。", "是否为坑取决于后续是否止跌。", "指出该股过去一年已大涨，需谨慎看待。"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 8,
+    "summary": "用户‘井芹仁菜(Nina)’分享个人实盘记录，讨论在新易盛等股票上的操作计划。",
+    "sentiment": "negative",
+    "key_opinions": ["前期操作‘爆爆战法’失败。", "计划在新易盛中做T降低成本。", "对持股立讯精密犹豫，考虑转向科创半导体ETF。"],
+    "mentioned_stocks": ["新易盛", "立讯精密", "科创半导体ETF"]
+  },
+  {
+    "index": 9,
+    "summary": "用户原临时超短楼被封，新楼用于个人复盘，欢迎有限交流。",
+    "sentiment": "mixed",
+    "key_opinions": ["为复盘记录提供备用场所。", "呼吁大家谨言慎行。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论中际旭创计划在港股发行H股，价格高达1010港元。",
+    "sentiment": "mixed",
+    "key_opinions": ["担忧港股流动性被抽干。", "计算A股对应价格很高。", "认为可能带来一波行情。"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论国家队在市场下跌后捡拾廉价筹码的行为，散户对此感到无奈。",
+    "sentiment": "negative",
+    "key_opinions": ["指责国家队带头砸盘后再捡筹码。", "散户难以跟随国家队操作节奏。", "认为这是‘零和博弈’的常态。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "分享韩国交易所暂停KOSPI程序化买盘的消息，并引发讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["猜测此举是为防止A股下跌连累韩股。", "讨论此举是否等同于禁止量化交易。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "对比光模块行业与电池行业的预期净利润，感叹AI产业链的赚钱能力。",
+    "sentiment": "positive",
+    "key_opinions": ["光模块行业明年预期利润已接近整个电池行业。", "认为做美国的生意更赚钱。", "但也指出光模块在AI资本开支中占比仍低。"],
+    "mentioned_stocks": ["中际旭创", "新易盛", "东山精密"]
+  },
+  {
+    "index": 14,
+    "summary": "用户‘海指导’开启新的个人投资组合分享帖，回顾此前操作。",
+    "sentiment": "negative",
+    "key_opinions": ["反思在AI主升浪中畏缩，在调整中重仓导致亏损。", "得到用户们的欢迎和支持。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论韩股大涨是否应改变‘高开跑路’的策略，分析今日走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["部分人认为应从跑路变为加仓。", "分析指出高开幅度可能已包含溢价。", "提醒棒子开越高，越可能带崩A股。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "用户抱怨白银LOF基金停牌，并讨论相关原因。",
+    "sentiment": "negative",
+    "key_opinions": ["停牌是因为溢价过高，属常见操作。", "询问场外是否还能购买。"],
+    "mentioned_stocks": ["白银LOF"]
+  },
+  {
+    "index": 17,
+    "summary": "用户‘f佬’开启新帖，以按摩为主，得到社区用户欢迎。",
+    "sentiment": "positive",
+    "key_opinions": ["新帖以安慰、按摩为主。", "用户们表示热烈欢迎。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "用户‘树哥’发帖讨论存储板块走势，并附带图片。",
+    "sentiment": "mixed",
+    "key_opinions": ["对存储板块走势感到迷茫。", "用户们表示支持并期待分析。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "用户询问金安国纪是否‘死透’，引发对该股及PCB板块的讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["用户持有该股亏损严重。", "分析认为股价被铜冠铜箔等板块带崩。", "有人指出股价前期涨幅过大，业绩难以支撑。"],
+    "mentioned_stocks": ["金安国纪", "铜冠铜箔"]
+  },
+  {
+    "index": 20,
+    "summary": "用户表达今天要抛售，引发对市场抛压和是否高开低走的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["许多用户计划今日高开后跑路。", "讨论高开后走势的多种可能性。", "有人建议勿追高。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "用户感慨中钨高新股价回到原点，自己收益归零，引发共鸣。",
+    "sentiment": "negative",
+    "key_opinions": ["股价从100元回到56元，投资收益清零。", "卖出后买入其他股票（如半导体）反而亏损。", "感叹‘梦都碎了’。"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 22,
+    "summary": "用户‘进击的猫猫头选手’开启新的‘猫猫楼’，受到社区用户欢迎。",
+    "sentiment": "positive",
+    "key_opinions": ["重启‘猫猫楼’。", "用户们表达欢迎，并期待其他大佬回归。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "用户认为外围形势一片大好，预期今日A股将冲击4000点。",
+    "sentiment": "positive",
+    "key_opinions": ["列出多项上涨条件，认为今天应‘拿麻袋装钱’。", "但也有人反驳是‘反向奶’（反向发功）。", "有人认为先过3950点都够呛。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "用户‘汪汪汪’重启‘每周瞎逼逼’帖，强调禁止讨论敏感话题。",
+    "sentiment": "positive",
+    "key_opinions": ["强调帖子是股票讨论和趋势投资。", "用户们热烈欢迎并支持。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "分享对几个科技股图形的技术分析，认为中美AI板块调整到位后将反弹。",
+    "sentiment": "positive",
+    "key_opinions": ["分析纳斯达克100等指数图形。", "认为反弹需等待北美云厂商财报指引。", "部分用户认可技术分析对逃顶的作用。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "用户自称技术分析大师，分享其模型预测，并展示了投资成果。",
+    "sentiment": "mixed",
+    "key_opinions": ["声称模型预测7月22-24日是变盘点。", "分享了全球资金蛋糕变化图。", "部分用户质疑其真实性。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "用户根据黄金走势和原油库存，猜测是否可能即将降息。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为黄金走势与地缘局势不符，可能暗示降息。", "多数观点认为近期降息可能性极低。", "讨论原油库存增加的战略意义。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "用户担心‘文佬’下车后澜起科技股价会拉升，讨论‘司机下车’效应。",
+    "sentiment": "mixed",
+    "key_opinions": ["传言‘文佬’下车后股价易拉升。", "但有证据显示‘文佬’可能并未下车，甚至加仓。", "讨论对‘文佬’操作信息的解读。"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 29,
+    "summary": "用户询问若想定投指数基金至5000点，应选择哪个标的。",
+    "sentiment": "mixed",
+    "key_opinions": ["建议直接定投上证指数。", "有人建议定投科创50。", "普遍认为A股不适合定投，更建议做波段或买标普500。"],
+    "mentioned_stocks": ["沪深300", "科创50", "上证指数", "标普500ETF"]
+  },
+  {
+    "index": 30,
+    "summary": "用户‘Wh佬’开启新的复盘帖，回顾重仓股大跌经历，等待趋势明确。",
+    "sentiment": "negative",
+    "key_opinions": ["重仓中兴通讯等股票遭遇大跌。", "考虑清仓等待趋势明确。", "用户们表达关心并支持其回归。"],
+    "mentioned_stocks": ["中兴通讯"]
+  },
+  {
+    "index": 31,
+    "summary": "传闻国家队关闭了部分科技大资金的卖出权限，引发讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["传闻国家限制了大资金在科技股上的卖出。", "有用户指出历史上确有类似操作。", "但也有人认为传闻不可信，今日必有抛压。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "用户‘海狗’分享个人持仓记录，并进行了调仓，加入中际旭创。",
+    "sentiment": "mixed",
+    "key_opinions": ["进行减仓中国石油、建仓中际旭创的操作。", "表示是纯粹的技术性交易。", "用户们欢迎其回归。"],
+    "mentioned_stocks": ["中国石油", "中际旭创", "神火股份", "兖矿能源H", "腾讯"]
+  },
+  {
+    "index": 33,
+    "summary": "用户表达大涨后‘完全不敢买’的恐惧心理，引发共鸣。",
+    "sentiment": "negative",
+    "key_opinions": ["对大涨后的持续性感到怀疑和恐惧。", "建议空仓或离开市场。", "指出‘要信早信，晚信接盘’的市场规律。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论左侧交易（预判）与右侧交易（跟随）的区别及选择。",
+    "sentiment": "mixed",
+    "key_opinions": ["用带伞比喻左侧和右侧交易。", "讨论左侧抄底与右侧追涨的风险。", "有人认为左侧安全边际更高。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "用户担心今日大涨是诱多，犹豫是否应追高入场。",
+    "sentiment": "negative",
+    "key_opinions": ["担心再次被骗进去接盘。", "认为大涨后回调概率大。", "建议等待真正反转信号。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "用户对韩股高开感到‘慌’，讨论A股是否跟涨及国家队可能动作。",
+    "sentiment": "negative",
+    "key_opinions": ["对A股跟涨能力缺乏信心。", "预期国家队会‘砸盘降温’。", "担忧A股波动性过大。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "用户在东山精密上涨6.3%时追高买入，反映市场追涨情绪。",
+    "sentiment": "positive",
+    "key_opinions": ["认为‘这种情况不进还等啥时候’。", "目标价看到300元。"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 38,
+    "summary": "用户坚信市场将完成‘暴力V’型反转，并看好国算核心创新高。",
+    "sentiment": "positive",
+    "key_opinions": ["分析昨日分时走势已具备V型反转心理K线。", "看好国算核心标的今日创新高。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "用户询问何时能买到便宜的长江电力，引发科技股与红利股的对比。",
+    "sentiment": "mixed",
+    "key_opinions": ["想在股息率4%时买入长江电力。", "被嘲讽科技股一天涨幅远超多年股息。", "讨论长电股价可能的位置。"],
+    "mentioned_stocks": ["长江电力"]
+  },
+  {
+    "index": 40,
+    "summary": "用户惊呼韩国交易所开盘上涨即触发熔断机制。",
+    "sentiment": "positive",
+    "key_opinions": ["感叹韩国市场剧烈波动。", "后悔未提前买入相关ETF。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "分享美国原油库存超预期增加的数据，并讨论对油价和相关投资的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["原油库存增加，但油价未明显下跌。", "讨论高油价对全球经济和地缘政治的影响。", "认为油价难以大幅上涨。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "用户指出A股‘高开跳水’的剧情屡次上演，提醒注意风险。",
+    "sentiment": "negative",
+    "key_opinions": ["相同剧情已多次发生。", "提醒牢记‘大涨第二天高开’的祖训。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "用户分享美股科技和韩股大涨的截图，暗示A股今日表现，引发对高开走势的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["暗示A股今日可能大涨。", "但用户普遍担忧‘高开低走’再次上演。", "以历史为鉴，提醒谨慎。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "用户询问持有兴森科技和盛和资源亏损严重，寻求建议。",
+    "sentiment": "negative",
+    "key_opinions": ["持仓亏损严重，回本无望。", "后悔买入非龙头股，被‘边拉边出货’套牢。", "有人建议换股至龙头或ETF。"],
+    "mentioned_stocks": ["兴森科技", "盛和资源"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论在大涨之后，是应该‘追高’还是‘恐惧’（即反向操作）。",
+    "sentiment": "mixed",
+    "key_opinions": ["部分‘小登’倾向于追高。", "多数人认为会有抛压和回踩。", "建议等待回踩确认后再考虑。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "用户观察到很多人计划明天高开跑路，讨论市场博弈及可能走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["预判明天会有较大抛压。", "理想剧本是高开消化抛压后继续上涨。", "部分用户计划高开就跑，等回落再接。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "用户‘喜佬’开启聊天帖，询问大家是否在近期波动中‘顶住了’。",
+    "sentiment": "positive",
+    "key_opinions": ["关心社区用户在大跌中的持仓情况。", "用户表示顶住了，或已跟随‘喜佬’操作回血。"],
+    "mentioned_stocks": ["588200"]
+  },
+  {
+    "index": 48,
+    "summary": "用户记录对515880 ETF的技术分析过程和后续操作计划。",
+    "sentiment": "mixed",
+    "key_opinions": ["对515880进行多周期技术结构分析。", "计划根据反弹情况决定是否撤出。", "撤出后优先考虑证券等方向。"],
+    "mentioned_stocks": ["515880", "512070"]
+  },
+  {
+    "index": 49,
+    "summary": "用户开启新的超短线个人记录临时帖，风格为超短打板。",
+    "sentiment": "positive",
+    "key_opinions": ["新帖专注于超短线打板操作记录。", "用户们热烈欢迎‘D佬’回归。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "讨论韩股开盘大涨5%对A股今日走势的预示，观点多为看高开。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为A股高开是预期之内。", "但对高开后的走势看法分歧，有看‘高开低走’，有看‘高低高耐克’。", "提醒‘开盘先祖训（高开跑路）总是对的’。"],
+    "mentioned_stocks": []
+  }
+]
