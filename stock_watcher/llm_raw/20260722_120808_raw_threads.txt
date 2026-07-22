@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "建立技术分析临时讨论地，避免讨论时事。",
+    "sentiment": "mixed",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户感谢并欢迎新讨论区的建立，表达支持。",
+    "sentiment": "positive",
+    "key_opinions": ["感谢临时讨论区", "对版主表示感激"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "科技板块走势分化，资金去伪存真，可能利好真正科技股。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股分化是去伪存真", "资金不再完全对立", "可能实现共赢慢牛"],
+    "mentioned_stocks": ["澜起科技", "中兴通讯", "浪潮信息", "紫光股份", "盛科通信"]
+  },
+  {
+    "index": 4,
+    "summary": "用户困惑中兴涨停的信号意义，普遍视为负面。",
+    "sentiment": "negative",
+    "key_opinions": ["中兴涨停是大盘不好信号", "可能引发回调", "有历史战绩支撑"],
+    "mentioned_stocks": ["中兴"]
+  },
+  {
+    "index": 5,
+    "summary": "建立临时超短趋势交流楼，用户表达支持。",
+    "sentiment": "positive",
+    "key_opinions": ["珍惜交流机会", "支持新楼", "期待回归"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "用户后悔买入中兴，羡慕其他科技股表现。",
+    "sentiment": "negative",
+    "key_opinions": ["后悔买中兴", "羡慕其他科技股", "考虑止损"],
+    "mentioned_stocks": ["中兴", "紫光", "浪潮", "锐捷"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论沪硅的买入时机，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["已被视为杂毛", "需等待业绩", "可能长期持有"],
+    "mentioned_stocks": ["沪硅"]
+  },
+  {
+    "index": 8,
+    "summary": "建立科技讨论临时避难所，禁止时事。",
+    "sentiment": "mixed",
+    "key_opinions": ["提供临时避难所", "等待版主回归", "禁止讨论时事"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "关注日本股市下跌对A股量化的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化可能砸盘", "国家队会护盘", "关注韩国股市"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "寻找投资国产科技的ETF标的。",
+    "sentiment": "positive",
+    "key_opinions": ["推荐科创50或芯片ETF", "国产链在科创板"],
+    "mentioned_stocks": ["科创50ETF", "半导体设备ETF"]
+  },
+  {
+    "index": 11,
+    "summary": "中兴涨停被视为科技股见顶的负面信号。",
+    "sentiment": "negative",
+    "key_opinions": ["中兴涨停是见顶信号", "有历史数据支持", "可能引发科技股回调"],
+    "mentioned_stocks": ["中兴"]
+  },
+  {
+    "index": 12,
+    "summary": "描述散户“跌时硬扛，涨时拿不住”的普遍心理。",
+    "sentiment": "negative",
+    "key_opinions": ["这是普遍现象", "影响投资收益"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "技术分析中美AI板块调整和反弹时机，期待反弹。",
+    "sentiment": "positive",
+    "key_opinions": ["等待调整到位", "关注云厂商财报", "有反弹预期"],
+    "mentioned_stocks": ["纳斯达克100指数"]
+  },
+  {
+    "index": 14,
+    "summary": "建立盘前预测临时讨论区，替代原楼。",
+    "sentiment": "mixed",
+    "key_opinions": ["临时替代原楼", "禁止讨论时事", "有复盘帖"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "用户困惑猪肉股持续下跌的原因。",
+    "sentiment": "negative",
+    "key_opinions": ["猪肉股下跌因资金回流科技", "无猪瘟则难反转"],
+    "mentioned_stocks": ["猪肉股"]
+  },
+  {
+    "index": 16,
+    "summary": "质疑AI是否只是概念炒作，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI有用但股市泡沫大", "是划时代产品", "已替代部分搜索功能"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "反思科技投资教训，强调等待美股叙事反转。",
+    "sentiment": "negative",
+    "key_opinions": ["等待美股叙事反转", "科技股回撤严重", "需耐心等待"],
+    "mentioned_stocks": ["兆易创新", "半导体设备ETF"]
+  },
+  {
+    "index": 18,
+    "summary": "建立基于“猫猫头”理论的投资指导楼。",
+    "sentiment": "positive",
+    "key_opinions": ["欢迎猫猫头指导", "期待上涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "决定清仓红利股，改变投资策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股涨幅过大", "策略转向波段操作", "股息率可能下降"],
+    "mentioned_stocks": ["红利50ETF"]
+  },
+  {
+    "index": 20,
+    "summary": "分享中长线投资组合，反思操作失误。",
+    "sentiment": "negative",
+    "key_opinions": ["主升浪畏缩", "重仓被套", "教训深刻"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "个人投资复盘，记录操作和思考。",
+    "sentiment": "mixed",
+    "key_opinions": ["回撤严重", "操作反思", "关注国产光模块"],
+    "mentioned_stocks": ["半导体ETF"]
+  },
+  {
+    "index": 22,
+    "summary": "询问单只股票澜起科技的投资价值和风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["逢低购入", "不宜追高", "是科技核心股"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论在紫金矿业下跌时抄底的机会与风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["等回调再入", "长期看好黄金", "部分人已抄底"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 24,
+    "summary": "建立科技讨论临时楼，以按摩为主。",
+    "sentiment": "positive",
+    "key_opinions": ["前排支持", "期待回归"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "提醒科技分化行情下注意风险，管住手。",
+    "sentiment": "negative",
+    "key_opinions": ["通信ETF跌", "半导体ETF涨", "需谨慎操作"],
+    "mentioned_stocks": ["通信ETF", "半导体ETF"]
+  },
+  {
+    "index": 26,
+    "summary": "因大幅亏损感到绝望和心态崩溃。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重", "心态崩溃", "建议冷静"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 27,
+    "summary": "建立科技讨论临时复盘楼，等待回归。",
+    "sentiment": "positive",
+    "key_opinions": ["等待板块回归", "关注中兴走势"],
+    "mentioned_stocks": ["中兴"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论半导体设备ETF（铁盒）的强势表现。",
+    "sentiment": "positive",
+    "key_opinions": ["机构抱团", "ETF表现强势", "可手动配置"],
+    "mentioned_stocks": ["北方华创", "中微公司", "拓荆科技", "盛美上海"]
+  },
+  {
+    "index": 29,
+    "summary": "认为科技股在抛压下承接力度不错。",
+    "sentiment": "positive",
+    "key_opinions": ["抛压下承接强", "看下午走势", "缩量可能不好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "观察到AI应用（豆包、KiMi）免费服务受限。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能是算力紧张或变现需求"],
+    "mentioned_stocks": ["豆包", "KiMi"]
+  },
+  {
+    "index": 31,
+    "summary": "滔搏因耐克终止合作导致股价下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["业务受负面影响", "股价与利空幅度匹配"],
+    "mentioned_stocks": ["滔搏"]
+  },
+  {
+    "index": 32,
+    "summary": "重启每周股票讨论帖。",
+    "sentiment": "positive",
+    "key_opinions": ["禁止违规内容", "支持讨论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "分析光模块走势弱的原因，包括消息面和机构行为。",
+    "sentiment": "mixed",
+    "key_opinions": ["受东山交流会影响", "短期可能受港股上市压力", "机构重新计价"],
+    "mentioned_stocks": ["光模块龙头", "东山精密", "光迅科技"]
+  },
+  {
+    "index": 34,
+    "summary": "询问“涨价逻辑”概念近期承压的原因。",
+    "sentiment": "negative",
+    "key_opinions": ["业绩不及预期", "股价已透支涨价预期", "部分个股被误杀"],
+    "mentioned_stocks": ["中国巨石"]
+  },
+  {
+    "index": 35,
+    "summary": "感叹中钨高新股价回落，投资收益归零。",
+    "sentiment": "negative",
+    "key_opinions": ["股价回到起点", "投资其他股票亏损"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 36,
+    "summary": "因韩海力士ADR转换事件计划清仓存储股。",
+    "sentiment": "negative",
+    "key_opinions": ["韩海力士行为不端", "ADR转换可能引发抛售", "影响美光等"],
+    "mentioned_stocks": ["韩海力士", "美光", "美力士", "闪迪", "STX", "WD"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论如果科技牛回归，下一个领涨方向。",
+    "sentiment": "positive",
+    "key_opinions": ["看好算力租赁", "设备厂、光模块", "封测互连"],
+    "mentioned_stocks": ["利通电子", "润泽", "北方华创", "中科曙光", "紫光股份", "通富微电", "澜起科技"]
+  },
+  {
+    "index": 38,
+    "summary": "小红书否认IPO传闻。",
+    "sentiment": "mixed",
+    "key_opinions": ["IPO传闻被否认", "市场仍有解读"],
+    "mentioned_stocks": ["小红书"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论霍尔木兹海峡解封对油运股的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["油运股难做", "周期股需谨慎", "关注地缘政治"],
+    "mentioned_stocks": ["油运股", "招商轮船", "海能达"]
+  },
+  {
+    "index": 40,
+    "summary": "描述下跌满仓、上涨控仓的普遍投资心理。",
+    "sentiment": "negative",
+    "key_opinions": ["这是常见现象", "影响收益", "多数人如此"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "讨论存储股未来走势，表达等待和担忧。",
+    "sentiment": "mixed",
+    "key_opinions": ["下周做出决定", "耐心等待", "部分存储股大跌"],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 42,
+    "summary": "询问长电和通富微电的买入时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["已有仓位", "目标价高", "需等待"],
+    "mentioned_stocks": ["长电科技", "通富微电"]
+  },
+  {
+    "index": 43,
+    "summary": "反思科技股选择的重要性，总结教训。",
+    "sentiment": "mixed",
+    "key_opinions": ["选择至关重要", "感谢利通", "亨通风险大"],
+    "mentioned_stocks": ["利通电子", "亨通光电"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论雅克科技股价高点的后悔与坚持。",
+    "sentiment": "mixed",
+    "key_opinions": ["高点买入后悔", "但坚持持有"],
+    "mentioned_stocks": ["雅克科技"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论半导体股是否值得追涨，有风险提示。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能是倒车接人", "但需谨慎", "周五前跑"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 46,
+    "summary": "分析东山精密今日走势强弱及明日预期。",
+    "sentiment": "mixed",
+    "key_opinions": ["今日强势但明天可能补跌", "受中兴涨停影响"],
+    "mentioned_stocks": ["东山精密", "中兴"]
+  },
+  {
+    "index": 47,
+    "summary": "寻找澜起科技讨论楼，用户表达亏损和坚持。",
+    "sentiment": "mixed",
+    "key_opinions": ["讨论楼被删", "仍有亏损", "坚定持有"],
+    "mentioned_stocks": ["澜起科技", "沪硅"]
+  },
+  {
+    "index": 48,
+    "summary": "讨论财通基金重仓MLCC，但MLCC股大跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["基金看好MLCC", "MLCC股大跌", "AI需求增长理论"],
+    "mentioned_stocks": ["风华高科", "三环集团", "博迁新材"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论英伟达Rubin和华为机柜对产业链的影响。",
+    "sentiment": "positive",
+    "key_opinions": ["Rubin交付", "华为堆数量", "利好PCB和液冷"],
+    "mentioned_stocks": ["英伟达", "华为"]
+  },
+  {
+    "index": 50,
+    "summary": "搬运sai佬观点。",
+    "sentiment": "positive",
+    "key_opinions": ["参考sai佬观点"],
+    "mentioned_stocks": []
+  }
+]
