@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "设置临时讨论区，强调技术分析和顺应趋势，禁止讨论时事。",
+    "sentiment": "mixed",
+    "key_opinions": ["创建技术分析临时讨论区", "强调顺应趋势", "禁止讨论时事"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户们对技术分析讨论区的欢迎和支持，期待交流。",
+    "sentiment": "positive",
+    "key_opinions": ["感谢创建讨论区", "期待技术交流", "社区支持"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "创建临时避难所，鼓励技术分析和风险提示，避免时事。",
+    "sentiment": "mixed",
+    "key_opinions": ["避免时事讨论", "专注于技术分析和风险提示", "临时避难所"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "分享中长线投资组合，用户表示支持和鼓励。",
+    "sentiment": "positive",
+    "key_opinions": ["分享投资经验", "获得社区支持", "中长线躺平流"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "创建超短线交流贴，鼓励珍惜交流机会，避免被封。",
+    "sentiment": "positive",
+    "key_opinions": ["提供交流平台", "珍惜交流机会", "超短线趋势交流"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论文佬对锐捷股价预测的准确性，希望其回归社区。",
+    "sentiment": "mixed",
+    "key_opinions": ["文佬预测精准", "希望文佬回归", "社区失去车头"],
+    "mentioned_stocks": ["锐捷", "澜起科技"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论德子股票表现强势，称为熊王，热度高。",
+    "sentiment": "positive",
+    "key_opinions": ["德子股票表现强势", "称为熊王", "热度高"],
+    "mentioned_stocks": ["德子"]
+  },
+  {
+    "index": 8,
+    "summary": "分析韩国散户持续卖出的原因，如杠杆过高。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国散户因杠杆高而卖出", "市场不稳", "外资影响"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论熊头股票今日走势，预测涨跌和战法。",
+    "sentiment": "mixed",
+    "key_opinions": ["熊头可能首阳反包", "继续下跌风险", "带崩其他股票"],
+    "mentioned_stocks": ["熊头", "赵姨"]
+  },
+  {
+    "index": 10,
+    "summary": "希望韩国股市收盘，让大A自由发挥，不满影响。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市影响大A", "希望脱钩", "不满"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "讨论德明利股票的风险，建议割肉或观察。",
+    "sentiment": "negative",
+    "key_opinions": ["德明利可能下跌", "建议止损", "散户接盘风险"],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论谷歌股票，预测目标价和可能走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["谷歌可能涨到4500", "大A可能拖累", "需等待机会"],
+    "mentioned_stocks": ["谷歌"]
+  },
+  {
+    "index": 13,
+    "summary": "创建讨论区，提供按摩和技术分析支持。",
+    "sentiment": "positive",
+    "key_opinions": ["鼓励技术交流", "提供支持", "左光右存算电协同"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论美股波动小，与A股对比，看法不一。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股波动小", "A股更刺激", "慢牛趋势"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "重启每周股票讨论，强调维护环境规则。",
+    "sentiment": "positive",
+    "key_opinions": ["维护讨论环境", "专注股票", "避免不必要讨论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "预测海外硬件链今日可能表现，看法分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["海外硬件链可能反弹", "被盯得紧", "难以预测"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "创建猫猫楼讨论大A市场，轻松氛围。",
+    "sentiment": "positive",
+    "key_opinions": ["大A像猫猫头", "轻松讨论", "社区支持"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "韩国股市高开，讨论对大A可能影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国高开可能拖累大A", "需关注开盘", "量化影响"],
+    "mentioned_stocks": ["文峰"]
+  },
+  {
+    "index": 19,
+    "summary": "分析谷歌财报，认为现金流转负利空AI软硬件。",
+    "sentiment": "negative",
+    "key_opinions": ["谷歌现金流转负", "利空AI", "资本开支担忧"],
+    "mentioned_stocks": ["谷歌"]
+  },
+  {
+    "index": 20,
+    "summary": "寻找有长期涨价预期且扩产受限的板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["光刻机有壁垒", "稀土和黄金受限", "电力慢涨"],
+    "mentioned_stocks": ["光刻机", "稀土", "黄金", "电力"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论存储行业未来方向，不确定向南向北。",
+    "sentiment": "mixed",
+    "key_opinions": ["存储行业面临选择", "可能下跌", "耐心等待"],
+    "mentioned_stocks": ["存储", "德明利"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论油价上涨对市场影响，用户担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["油价上涨影响股市", "美伊因素", "市场脱敏"],
+    "mentioned_stocks": ["原油lof"]
+  },
+  {
+    "index": 23,
+    "summary": "白酒股票上涨，但用户不敢买入，矛盾心理。",
+    "sentiment": "mixed",
+    "key_opinions": ["白酒可能上升", "投资逻辑存疑", "不敢买入"],
+    "mentioned_stocks": ["白酒", "绿电"]
+  },
+  {
+    "index": 24,
+    "summary": "创建盘前预测楼，禁止讨论时事。",
+    "sentiment": "positive",
+    "key_opinions": ["专注盘前预测", "避免时事", "金字塔加仓"],
+    "mentioned_stocks": ["a500"]
+  },
+  {
+    "index": 25,
+    "summary": "原油价格波动，用户关注其对股市影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["原油价格成为关注点", "可能冲击100", "金融游戏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论美国可能制裁中国AI公司的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["制裁可能利好国产算力", "利空被制裁公司", "智谱遭重"],
+    "mentioned_stocks": ["智谱", "恒科"]
+  },
+  {
+    "index": 27,
+    "summary": "分享超短线实盘记录，模式稳定。",
+    "sentiment": "mixed",
+    "key_opinions": ["超短线操作", "模式稳定", "风险并存"],
+    "mentioned_stocks": ["哈药"]
+  },
+  {
+    "index": 28,
+    "summary": "满仓满融投资，目标五年六倍，价值投资。",
+    "sentiment": "positive",
+    "key_opinions": ["价值投资", "股息复投", "高回报目标"],
+    "mentioned_stocks": ["皖能电力", "鞍钢", "电力股"]
+  },
+  {
+    "index": 29,
+    "summary": "响应需求，准备分享技术分析。",
+    "sentiment": "positive",
+    "key_opinions": ["提供技术分析支持", "社区期待", "坐等分享"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "用户全仓投入，希望赢，乐观心态。",
+    "sentiment": "positive",
+    "key_opinions": ["全仓梭哈", "渴望成功", "萌新博弈"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论东山股票表现，用户情感复杂失望。",
+    "sentiment": "negative",
+    "key_opinions": ["东山股票表现不佳", "可能分手", "扛着亏损"],
+    "mentioned_stocks": ["东山", "新易盛"]
+  },
+  {
+    "index": 32,
+    "summary": "预测长鑫上市对科技板块的影响，不确定。",
+    "sentiment": "mixed",
+    "key_opinions": ["长鑫上市可能吸血", "或带动科技股", "历史参考"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 33,
+    "summary": "谷歌Q2财报超预期，但自由现金流转负。",
+    "sentiment": "negative",
+    "key_opinions": ["财报超预期", "现金流转负", "利空AI"],
+    "mentioned_stocks": ["谷歌", "美光", "海力士"]
+  },
+  {
+    "index": 34,
+    "summary": "韩国科技股上涨，可能提振大A科技股。",
+    "sentiment": "positive",
+    "key_opinions": ["韩国科技股上涨利好", "低吸机会", "但谨慎"],
+    "mentioned_stocks": ["紫光", "大韩双C"]
+  },
+  {
+    "index": 35,
+    "summary": "从巨头上市中吸取教训，建议提前清仓。",
+    "sentiment": "negative",
+    "key_opinions": ["巨头上市前应清仓", "长鑫教训", "浮亏严重"],
+    "mentioned_stocks": ["中石油", "长鑫"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论做T技巧以保住反弹利润，焦虑心态。",
+    "sentiment": "mixed",
+    "key_opinions": ["做T技巧重要", "避免卖飞", "震荡行情挑战"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "谷歌财报资本开支符合预期，云业务超预期。",
+    "sentiment": "mixed",
+    "key_opinions": ["资本开支符合预期", "云业务超预期", "但反响一般"],
+    "mentioned_stocks": ["谷歌", "美光", "海力士"]
+  },
+  {
+    "index": 38,
+    "summary": "分享AI泡沫与互联网泡沫对比文章。",
+    "sentiment": "neutral",
+    "key_opinions": ["对比AI和互联网泡沫", "信息分享", "启发思考"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "用游戏比喻红利投资策略，轻松有趣。",
+    "sentiment": "positive",
+    "key_opinions": ["红利投资类似游戏", "稳定收益", "越跌越买"],
+    "mentioned_stocks": ["红利"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论宽基指数买入时机，考虑长鑫上市影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["宽基指数投资需择时", "等长鑫上市", "逢绿加仓"],
+    "mentioned_stocks": ["沪深300", "中证1000", "深证50", "科创ETF", "红利ETF"]
+  },
+  {
+    "index": 41,
+    "summary": "分析中钨高新股票下跌原因，基本面尚可但跌。",
+    "sentiment": "negative",
+    "key_opinions": ["钨价下跌影响", "PCB板块疲软", "预期放缓"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 42,
+    "summary": "预测周五长协确定，影响存储和科技行业。",
+    "sentiment": "mixed",
+    "key_opinions": ["长协可能利好存储", "压缩上游", "影响手机内存"],
+    "mentioned_stocks": ["存储", "光模块"]
+  },
+  {
+    "index": 43,
+    "summary": "询问科技股今日能否上涨，担忧情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股可能继续下跌", "依赖韩国", "量化风险"],
+    "mentioned_stocks": ["科技", "美力士"]
+  },
+  {
+    "index": 44,
+    "summary": "科技股和海外链可能反弹，乐观预期。",
+    "sentiment": "positive",
+    "key_opinions": ["科技股有望上涨", "海外链反弹", "但谨慎明天"],
+    "mentioned_stocks": ["科技", "海外链"]
+  },
+  {
+    "index": 45,
+    "summary": "科普光纤行业基本面，有技术壁垒。",
+    "sentiment": "positive",
+    "key_opinions": ["光纤行业有壁垒", "四大公司介绍", "长期投资"],
+    "mentioned_stocks": ["长飞", "亨通", "中天", "烽火"]
+  },
+  {
+    "index": 46,
+    "summary": "反思股市中的嘲讽和周期性，回旋镖现象。",
+    "sentiment": "negative",
+    "key_opinions": ["嘲讽容易回旋镖", "股市有周期", "情绪宣泄"],
+    "mentioned_stocks": ["汽车人"]
+  },
+  {
+    "index": 47,
+    "summary": "询问长鑫上市时是否卖出通富微电，担忧吸血。",
+    "sentiment": "negative",
+    "key_opinions": ["长鑫上市可能吸血", "应卖出相关股票", "科技股先跑"],
+    "mentioned_stocks": ["长鑫", "通富微电"]
+  },
+  {
+    "index": 48,
+    "summary": "美股AI软件和硬件表现分化，观察分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI硬件上涨", "软件下跌", "财报影响"],
+    "mentioned_stocks": ["英伟达", "海力士", "台积电", "迈威尔", "美光", "苹果", "亚马逊", "meta", "微软", "谷歌", "特斯拉"]
+  },
+  {
+    "index": 49,
+    "summary": "谷歌电话会对Gemini4看好，全力冲刺。",
+    "sentiment": "positive",
+    "key_opinions": ["谷歌看好Gemini4", "每月推出新品", "冲刺前沿"],
+    "mentioned_stocks": ["谷歌"]
+  },
+  {
+    "index": 50,
+    "summary": "创建超短线个人记录贴，从亏损起步。",
+    "sentiment": "positive",
+    "key_opinions": ["超短线打板记录", "模式稳定", "社区支持"],
+    "mentioned_stocks": []
+  }
+]
