@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "技术分析临时讨论帖，禁止时事话题。",
+    "sentiment": "mixed",
+    "key_opinions": ["强调技术分析", "避免讨论时事", "临时讨论性质"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户对技术分析临时帖的欢迎和支持。",
+    "sentiment": "positive",
+    "key_opinions": ["欢迎技术分析帖", "感谢管理者", "避免时事讨论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论股市投资中的风险和亏损，提及被套经历。",
+    "sentiment": "negative",
+    "key_opinions": ["投资风险高", "被套经历普遍", "认知决定收益"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "临时技术讨论帖，禁止时事，鼓励技术分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["禁止时事讨论", "临时避难所", "技术分析优先"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论A股与韩国股市的下跌关系，用户抱怨A股跟跌。",
+    "sentiment": "negative",
+    "key_opinions": ["A股跟跌不跟涨", "韩国股市先崩", "量化跟随外围"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "股票趋势投资讨论帖，禁止敏感话题。",
+    "sentiment": "mixed",
+    "key_opinions": ["禁止敏感讨论", "趋势投资", "维护社区秩序"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "预测长鑫科技上市前后的市场走势和操作策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["长鑫上市前有逼空", "上市后可能震荡", "操作需谨慎"],
+    "mentioned_stocks": ["长鑫科技"]
+  },
+  {
+    "index": 8,
+    "summary": "抱怨A股市场波动剧烈，缺乏稳定性。",
+    "sentiment": "negative",
+    "key_opinions": ["市场波动大", "冲高回落频繁", "质疑市场有效性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "科技股大幅下跌，利好无法提振股价。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股下跌严重", "利好无效", "市场情绪悲观"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 10,
+    "summary": "用户清仓科技股，转向传统持仓，表达失望。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股难玩", "转向老登股", "亏损严重"],
+    "mentioned_stocks": ["科技股", "老登股"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论电力板块偏弱和科技板块可能反转。",
+    "sentiment": "mixed",
+    "key_opinions": ["电力板块走弱", "科技可能反转", "反弹是逃命机会"],
+    "mentioned_stocks": ["电力股", "科技股", "紫光股份", "德明利"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论加仓紫光股份的时机错误和调整预期。",
+    "sentiment": "negative",
+    "key_opinions": ["高位加仓错误", "调整预期", "紫光股份需等五日线"],
+    "mentioned_stocks": ["紫光股份"]
+  },
+  {
+    "index": 13,
+    "summary": "用户转向老登股，科技股波动大，风险高。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股风险高", "老登股更安心", "科技跌幅大"],
+    "mentioned_stocks": ["科技股", "老登股"]
+  },
+  {
+    "index": 14,
+    "summary": "超短线投资临时交流帖，避免封禁。",
+    "sentiment": "mixed",
+    "key_opinions": ["临时超短线交流", "珍惜交流平台", "避免违规"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "科技股接盘资金不足，公募持仓占比高。",
+    "sentiment": "negative",
+    "key_opinions": ["接盘资金不足", "公募持仓过高", "未来可能分化"],
+    "mentioned_stocks": ["科技股", "公募基金"]
+  },
+  {
+    "index": 16,
+    "summary": "超短线个人记录帖，从亏损起步。",
+    "sentiment": "mixed",
+    "key_opinions": ["超短线打板记录", "从亏损开始", "个人操作日志"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "临时占坑帖，计划周末按摩。",
+    "sentiment": "mixed",
+    "key_opinions": ["临时占坑", "周末按摩计划", "交流准备"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "用户抄底东山精密成功，讨论选股。",
+    "sentiment": "positive",
+    "key_opinions": ["抄底成功", "选股逻辑", "赌博性质"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 19,
+    "summary": "个人实盘记录，分享选股逻辑和目标。",
+    "sentiment": "mixed",
+    "key_opinions": ["实盘记录", "低估值选股", "坚持投资逻辑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论“能”字辈股票，如电力股。",
+    "sentiment": "mixed",
+    "key_opinions": ["股票分类游戏", "电力股表现", "ST宝实异动"],
+    "mentioned_stocks": ["大唐发电", "ST宝实", "京能", "中远海能"]
+  },
+  {
+    "index": 21,
+    "summary": "科技股下跌目标讨论，涉及量化交易。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股下跌未止", "量化影响大", "需等估值回归"],
+    "mentioned_stocks": ["科技股", "科创50"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论南航股价走势与油价变动的关系。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价与油价脱钩", "流动性问题", "死猫跳反弹"],
+    "mentioned_stocks": ["南航"]
+  },
+  {
+    "index": 23,
+    "summary": "长鑫上市增加股市科技含量，讨论估值。",
+    "sentiment": "mixed",
+    "key_opinions": ["长鑫上市提升科技含量", "估值比较", "资金分流"],
+    "mentioned_stocks": ["长鑫科技", "工商银行", "宁德时代"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论股价爆拉5%的原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价爆拉", "跟风涨停", "盘子大小影响"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "盘前预测临时帖，禁止时事讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["盘前预测", "禁止时事", "计划加仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论A股是否跟随韩国股市反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["A股不跟涨", "量化排除韩国因子", "科技股横盘"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 27,
+    "summary": "分享中长线投资组合临时帖。",
+    "sentiment": "mixed",
+    "key_opinions": ["中长线投资", "组合分享", "AI投资反思"],
+    "mentioned_stocks": ["全球AI投资"]
+  },
+  {
+    "index": 28,
+    "summary": "京东方股价下跌，讨论抄底时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["京东方股价低", "抄底风险", "合理区间讨论"],
+    "mentioned_stocks": ["京东方"]
+  },
+  {
+    "index": 29,
+    "summary": "锂电板块上涨，但用户谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": ["锂电板块反弹", "风险高", "资金溢出效应"],
+    "mentioned_stocks": ["天华新能", "天赐", "天齐", "湖南裕能"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论科技股行情历史和市场氛围。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股行情历史", "题材轮动", "主线聚焦"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "投票讨论长鑫科技上市首日参与价位。",
+    "sentiment": "mixed",
+    "key_opinions": ["上市价位预测", "中签不卖选择", "娱乐性质"],
+    "mentioned_stocks": ["长鑫科技"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论科技股外的其他投资板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["金属板块看好", "黄金电力推荐", "锂电风险高"],
+    "mentioned_stocks": ["金属股", "黄金", "电力", "锂电股", "紫金"]
+  },
+  {
+    "index": 33,
+    "summary": "非科技股盈利，科技股亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股亏损", "非科技股盈利", "主线分散"],
+    "mentioned_stocks": ["科技股", "植物人", "航天"]
+  },
+  {
+    "index": 34,
+    "summary": "期货风险高于股票，讨论原因。",
+    "sentiment": "negative",
+    "key_opinions": ["期货风险高", "爆仓风险", "股票相对安全"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "用户询问原帖消失，表达不满。",
+    "sentiment": "negative",
+    "key_opinions": ["原帖消失", "社区管理严格", "用户失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "讨论T+0操作，挽回损失。",
+    "sentiment": "mixed",
+    "key_opinions": ["T+0操作", "挽回损失", "手续费考虑"],
+    "mentioned_stocks": ["大韩双C"]
+  },
+  {
+    "index": 37,
+    "summary": "紫金矿业月涨幅高，讨论减仓。",
+    "sentiment": "positive",
+    "key_opinions": ["紫金上涨快", "减仓时机", "黄金相关"],
+    "mentioned_stocks": ["紫金矿业", "赤峰黄金"]
+  },
+  {
+    "index": 38,
+    "summary": "帖子再次消失，用户困惑。",
+    "sentiment": "negative",
+    "key_opinions": ["帖子消失", "社区管理严", "用户受挫"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "大A市场像猫猫头，娱乐讨论。",
+    "sentiment": "positive",
+    "key_opinions": ["市场娱乐化", "猫指导回归", "用户欢迎"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "量化排除韩国因子，A股下跌自找。",
+    "sentiment": "negative",
+    "key_opinions": ["量化因子调整", "A股下跌独立", "散户误解"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "兆易创新持仓亏损，讨论回本可能。",
+    "sentiment": "negative",
+    "key_opinions": ["兆易创新亏损", "回本困难", "心理压力大"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 42,
+    "summary": "市场反指现象，开香槟后下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["反指准确", "开香槟后跌", "韩国下跌利空"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "个人实盘复盘记录帖。",
+    "sentiment": "mixed",
+    "key_opinions": ["实盘复盘", "投资反思", "季节比喻"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "存储板块未来方向讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["存储板块方向", "耐心等待", "德明利关注"],
+    "mentioned_stocks": ["存储股", "德明利"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论长鑫科技上市第一天操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["上市操作预测", "投票问题", "科创板限制"],
+    "mentioned_stocks": ["长鑫科技"]
+  },
+  {
+    "index": 46,
+    "summary": "技术分析分享临时帖。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术分析分享", "等待大佬", "占位支持"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "市场调整是否为外资上车机会。",
+    "sentiment": "negative",
+    "key_opinions": ["调整为外资机会", "外资不愿进场", "自我安慰"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "讨论市场是否复制奇迹日反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["反弹期望", "情绪杀到位", "长鑫上市影响"],
+    "mentioned_stocks": ["科技股", "华虹"]
+  },
+  {
+    "index": 49,
+    "summary": "寻求下周投资建议，计划长期持有。",
+    "sentiment": "mixed",
+    "key_opinions": ["低点买入", "长期持有", "推荐股票"],
+    "mentioned_stocks": ["胜宏", "新易盛", "黄金股", "港股互联网"]
+  },
+  {
+    "index": 50,
+    "summary": "牛人榜第一高收益，用户惊叹。",
+    "sentiment": "positive",
+    "key_opinions": ["高收益惊人", "穿越者比喻", "软件来源"],
+    "mentioned_stocks": []
+  }
+]
