@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "置顶帖，主题为技术分析和趋势讨论，禁止时事，内容简单。",
+    "sentiment": "mixed",
+    "key_opinions": ["临时讨论技术分析；", "遵循趋势；", "避免时事话题。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户们庆祝有临时技术分析讨论地点，表达感谢和支持。",
+    "sentiment": "positive",
+    "key_opinions": ["感谢有临时交流地方；", "用户支持二哥和Z哥；", "讨论流浪韭菜有救。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "临时超短趋势交流帖，警告珍惜交流机会，避免封禁。",
+    "sentiment": "mixed",
+    "key_opinions": ["临时避难所；", "珍惜能交流的地方；", "用户支持前排。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "盘前预测临时楼，禁止时事讨论，用户提供复盘链接。",
+    "sentiment": "mixed",
+    "key_opinions": ["临时用新楼预测；", "禁止时事防封；", "用户占座支持。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "市场情绪压抑，讨论长鑫可能大顶和下跌风险。",
+    "sentiment": "negative",
+    "key_opinions": ["长鑫可能十年大顶；", "市场情绪极端压抑；", "下跌后可能踩踏。"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 6,
+    "summary": "分析通富股票封板行为，主力硬顶以避免情绪恶化。",
+    "sentiment": "mixed",
+    "key_opinions": ["主力硬封通富维护情绪；", "可能硬顶后出货；", "封板避免周一踩踏。"],
+    "mentioned_stocks": ["通富"]
+  },
+  {
+    "index": 7,
+    "summary": "用户预测下午大涨，但市场缩量可能落空。",
+    "sentiment": "mixed",
+    "key_opinions": ["预测援兵或大阳线；", "市场缩量严重；", "英维克相关讨论。"],
+    "mentioned_stocks": ["英维克"]
+  },
+  {
+    "index": 8,
+    "summary": "通信ETF深度套牢，用户寻求操作建议。",
+    "sentiment": "negative",
+    "key_opinions": ["通信ETF亏损严重；", "建议躺平或低吸摊成本；", "闲钱操作无杠杆。"],
+    "mentioned_stocks": ["通信ETF"]
+  },
+  {
+    "index": 9,
+    "summary": "临时楼禁止时事，提供技术分析和风险提示。",
+    "sentiment": "mixed",
+    "key_opinions": ["临时避难所；", "按摩或提示风险；", "等待狼头回归。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "用户询问宽基指数投资建议，如科创50或沪深300。",
+    "sentiment": "mixed",
+    "key_opinions": ["定投科创50或沪深300；", "余额宝更安全；", "定投开始时机。"],
+    "mentioned_stocks": ["科创50", "沪深300"]
+  },
+  {
+    "index": 11,
+    "summary": "重开猫猫楼，分享图片，用户支持开玩笑。",
+    "sentiment": "positive",
+    "key_opinions": ["猫指导牛逼；", "重开楼庆祝；", "用户前排支持。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "抱怨煤炭股大跌，行情差劲。",
+    "sentiment": "negative",
+    "key_opinions": ["煤炭股莫名大跌；", "市场行情狗都不如；", "用户不满。"],
+    "mentioned_stocks": ["煤炭股"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论救市期待，但可能落空，科创50被托住。",
+    "sentiment": "negative",
+    "key_opinions": ["等待救市但可能不救；", "稳定下跌也是稳定；", "科创50被托住。"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 14,
+    "summary": "临时按摩帖，用户支持并希望大佬回归。",
+    "sentiment": "positive",
+    "key_opinions": ["临时按摩缓解情绪；", "用户前排支持；", "希望大时代恢复。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "市场全面下跌，用户困惑科技股外也跌。",
+    "sentiment": "negative",
+    "key_opinions": ["四千九百家下跌；", "泥沙俱下无一幸免；", "市场无人类般下跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "分享投资领悟，讨论清仓信号和超短策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["上面出手时清仓；", "超短或长投为赚钱方式；", "反转信号为套牢离场。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "通富天量交易和封板失败，讨论主力操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["天量砸盘和封板失败；", "主力硬顶逆天改命；", "改命失败下跌。"],
+    "mentioned_stocks": ["通富"]
+  },
+  {
+    "index": 18,
+    "summary": "存储股走向讨论，用户等待下周了断。",
+    "sentiment": "mixed",
+    "key_opinions": ["存储股方向不定；", "下周可能了断；", "德明利担忧。"],
+    "mentioned_stocks": ["存储股", "德明利"]
+  },
+  {
+    "index": 19,
+    "summary": "利通股票成交量异常大，用户担忧可能下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["天量天价可能见顶；", "尾盘出逃担忧鬼故事；", "利空消息影响。"],
+    "mentioned_stocks": ["利通"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论可长期持有的科技股，如中际和长鑫。",
+    "sentiment": "mixed",
+    "key_opinions": ["中际和长鑫敢长拿；", "寒武纪等科技股；", "板块权重基本安全。"],
+    "mentioned_stocks": ["中际", "长鑫", "寒武纪", "PCB龙头"]
+  },
+  {
+    "index": 21,
+    "summary": "批评市场机制不完善，导致抱团炒作和国家队干扰。",
+    "sentiment": "negative",
+    "key_opinions": ["无做空机制致抱团；", "国家队抑制反而助长；", "市场扭曲。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "启动每周股票讨论帖，禁止不当内容。",
+    "sentiment": "positive",
+    "key_opinions": ["禁止讨论敏感话题；", "股票趋势投资讨论；", "用户支持汪指导。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "PCB板块大跌，用户抱怨全面A杀。",
+    "sentiment": "negative",
+    "key_opinions": ["PCB板块被A杀；", "扩产严重无买盘；", "市场全面下跌。"],
+    "mentioned_stocks": ["PCB板块", "光纤", "服务器"]
+  },
+  {
+    "index": 24,
+    "summary": "分享实盘投资组合，逻辑为低估值和慢生意。",
+    "sentiment": "mixed",
+    "key_opinions": ["选股逻辑低估值；", "创业板走势担忧；", "长期投资坚持。"],
+    "mentioned_stocks": ["创业板指", "科创50"]
+  },
+  {
+    "index": 25,
+    "summary": "油价下跌但A股无正反馈，用户不满。",
+    "sentiment": "negative",
+    "key_opinions": ["油价压点A股不反应；", "日韩有响应A股自由落体；", "海油和航司下跌。"],
+    "mentioned_stocks": ["海油", "国航", "东航"]
+  },
+  {
+    "index": 26,
+    "summary": "科技股临时复盘，用户重仓中兴损失，等待趋势。",
+    "sentiment": "mixed",
+    "key_opinions": ["复盘科技股谨慎；", "重仓中兴吃地板；", "等待一阳改三观。"],
+    "mentioned_stocks": ["中兴", "东山"]
+  },
+  {
+    "index": 27,
+    "summary": "澜起科技股价波动，用户开玩笑设定目标。",
+    "sentiment": "mixed",
+    "key_opinions": ["目标价330；", "股价掉头向下担忧；", "套牢用户不满。"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 28,
+    "summary": "分享中长线投资组合，主升浪错过导致亏损。",
+    "sentiment": "mixed",
+    "key_opinions": ["重仓AI亏损；", "主升浪畏缩错过；", "支持海指导。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "技术分析科技股，预测调整到位后反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["中美AI调整到位；", "云厂商财报时间明牌；", "等待企稳信号。"],
+    "mentioned_stocks": ["纳斯达克100指数"]
+  },
+  {
+    "index": 30,
+    "summary": "用户顶住下跌，分享抄底经历和支持。",
+    "sentiment": "positive",
+    "key_opinions": ["顶住下跌死里逃生；", "抄底成功支持大佬；", "发图易炸楼。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论长鑫新股上市是否购买，风险高。",
+    "sentiment": "mixed",
+    "key_opinions": ["开盘可能高开风险大；", "比较中韩半导体；", "谨慎冲进去。"],
+    "mentioned_stocks": ["长鑫", "中韩半导体", "海力士"]
+  },
+  {
+    "index": 32,
+    "summary": "批评A股市场荒芜，国家队收割。",
+    "sentiment": "negative",
+    "key_opinions": ["市场荒芜如战场；", "国家队收割后撤离；", "一片狼藉。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "玩笑讨论散户抄底，幽默表达。",
+    "sentiment": "mixed",
+    "key_opinions": ["龙队进场散户抄底；", "幽默互动；", "市场情绪玩笑。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "用户小赚考虑离场，犹豫不决。",
+    "sentiment": "mixed",
+    "key_opinions": ["赚钱离场不错；", "盈转亏风险；", "犹豫可能错失。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "银行和石油股上涨一个月，寻求解释。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股修复行情；", "股息率吸引力上升；", "油价涨但海油跌。"],
+    "mentioned_stocks": ["银行", "石油", "中石油", "海油"]
+  },
+  {
+    "index": 36,
+    "summary": "询问政策底和市场底概念，困惑下跌空间。",
+    "sentiment": "mixed",
+    "key_opinions": ["政策底3700点；", "市场底可能更低；", "担忧量化踩踏。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "证券板块下跌，用户抱怨托底放弃。",
+    "sentiment": "negative",
+    "key_opinions": ["证券板块全面下跌；", "托底力量放弃；", "指南针跌8%。"],
+    "mentioned_stocks": ["证券", "广发", "指南针"]
+  },
+  {
+    "index": 38,
+    "summary": "建议持有等待国家队救市，甚至满仓对抗。",
+    "sentiment": "mixed",
+    "key_opinions": ["满仓持有等狗队捞；", "死扛反弹逻辑；", "极端情况跳楼威胁。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "提醒打新股嘉立创，中签可能赚大钱。",
+    "sentiment": "positive",
+    "key_opinions": ["嘉立创新股中签赚10万；", "打新建议；", "概率低但期待。"],
+    "mentioned_stocks": ["嘉立创"]
+  },
+  {
+    "index": 40,
+    "summary": "超短线个人记录帖，风格限定为打板套利。",
+    "sentiment": "mixed",
+    "key_opinions": ["超短打板风格；", "首板套利为主；", "资金盘口逻辑。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "讨论霍尔木兹海峡解封对油运影响，利弊分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["海峡解封可能利好油运；", "轮船造vloc影响分红；", "国油国运传言。"],
+    "mentioned_stocks": ["轮船", "海能", "联化"]
+  },
+  {
+    "index": 42,
+    "summary": "抱怨海外链股票面临无穷鬼故事和风险。",
+    "sentiment": "negative",
+    "key_opinions": ["海外链鬼故事不断；", "公募持仓高无增量；", "看美股走势定生死。"],
+    "mentioned_stocks": ["海外链", "纳斯达克", "英伟达"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论周一红利股可能回调，因涨幅大。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股月涨幅大可能回调；", "长鑫上市吸资金；", "用户期待下跌补仓。"],
+    "mentioned_stocks": ["红利股", "海皇"]
+  },
+  {
+    "index": 44,
+    "summary": "用户通过做T成功降低澜起科技成本。",
+    "sentiment": "positive",
+    "key_opinions": ["做T成本从258降至300；", "量化市场做T难；", "成功操作分享。"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 45,
+    "summary": "批评市场操作，认为板块轮动被硬控非牛市。",
+    "sentiment": "negative",
+    "key_opinions": ["板块轮动被国家队硬控；", "国家队撤离后无活口；", "怨气大不满。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "讨论中际旭创走势无人维护，可能过气。",
+    "sentiment": "negative",
+    "key_opinions": ["中际走势如大盘无人管；", "可能过气龙头；", "看美股决定未来。"],
+    "mentioned_stocks": ["中际旭创", "科创50"]
+  },
+  {
+    "index": 47,
+    "summary": "半导体板块独涨，其他板块下跌，讽刺科创独舞。",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体独舞科创导链；", "先救半导体合理；", "ETF涨停可能砸回。"],
+    "mentioned_stocks": ["半导体", "科创50"]
+  },
+  {
+    "index": 48,
+    "summary": "建议直接投资科创50，因其他板块死。",
+    "sentiment": "mixed",
+    "key_opinions": ["科创50弹性大；", "其他科技板块全死；", "半导体设备更优。"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 49,
+    "summary": "用户适应缓慢下跌，感觉比暴涨暴跌好。",
+    "sentiment": "mixed",
+    "key_opinions": ["每天跌一点感觉幸福；", "被大A PUA；", "回撤体感对比。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "半导体板块被拉红，用户惊讶可能正规操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体狂暴拉升；", "ETF涨停可能；", "市场不正规感。"],
+    "mentioned_stocks": ["半导体", "ETF"]
+  }
+]
