@@ -1,0 +1,547 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论澜起科技高PE原因，涉及行业地位、客户关系和技术竞争力。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "内存接口芯片全球市占率第一，客户优质，估值合理。",
+      "公司是扩产逻辑，景气周期长。",
+      "有人认为技术一换代就淘汰，是垃圾公司。"
+    ],
+    "mentioned_stocks": ["澜起科技", "中际旭创", "长鑫存储"]
+  },
+  {
+    "index": 2,
+    "summary": "韩国股市上涨困难下跌简单，与资金、外资撤离和中东局势相关。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "外资大举撤离，资金少，涨不上去。",
+      "资金如何解读长协事件影响走势。",
+      "中东局势可能导致红盘。"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 3,
+    "summary": "韩国养老基金投资海力士，但金额是否算重仓有争议。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "投资金额4800万美元，是否重仓有质疑。",
+      "可能被套山顶。",
+      "买指数等于重仓海力士。"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 4,
+    "summary": "评价股市评论员李大霄的预测水平，观点不一。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "预测多次底部，但可能错过主升浪。",
+      "口号如‘好人好股’缺乏具体指标。",
+      "有人认为他水平超过多数散户。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "质疑牛市成交量增加是否主要来自量化交易，担忧影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "成交量增加可能主要是量化交易额。",
+      "建议限制量化交易频率或阶梯收费。",
+      "监管机构可能不想约束量化。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "比较长鑫科技和中芯国际作为长期投资的价值。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫不如中芯国际含金量高。",
+      "存储是周期股，波动大。",
+      "中芯国际上市后下跌四年，长期持有需耐心。"
+    ],
+    "mentioned_stocks": ["长鑫科技", "中芯国际"]
+  },
+  {
+    "index": 7,
+    "summary": "手机厂商抵制存储芯片涨价，可能影响存储行业和供需。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "手机厂商可能私下妥协，涨价难避免。",
+      "产能可能转向AI领域。",
+      "苹果机会来了，若不涨价，对手压力大。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "预测锂电板块将上涨，基于宁德时代回购注销消息。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "宁德时代大规模回购注销是重大利好。",
+      "可能高开低走，追高风险大。",
+      "板块可能被宁德时代抽水，难以整体上涨。"
+    ],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论AI板块全网唱空，是否是信息茧房，市场情绪分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "全网唱空，明天可能继续下跌。",
+      "有分歧是好事，避免一致性预期。",
+      "美股存储大跌，影响情绪。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "国际金价上涨，关注黄金股表现，如赤峰和紫金矿业。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "黄金股本月涨幅大，如赤峰涨50%。",
+      "国内黄金股提前反应。",
+      "布林带抬头，可关注。"
+    ],
+    "mentioned_stocks": ["赤峰黄金", "紫金矿业"]
+  },
+  {
+    "index": 11,
+    "summary": "比亚迪进入人形机器人领域，对行业格局和股价影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "比亚迪进入可能改变行业格局。",
+      "小公司故事难讲，行业洗牌。",
+      "机器人板块最近走弱。"
+    ],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 12,
+    "summary": "长鑫存储与华为关系紧张，HBM销售对象和前景担忧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "HBM主要买家华为可能不买，其他厂商出货量小。",
+      "长鑫生产HBM是国家战略，但供给受限。",
+      "华为可能被迫购买，但成本转嫁下游。"
+    ],
+    "mentioned_stocks": ["长鑫存储", "华为", "寒武纪"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论德赛电池股价能否回到100元，基于成本和行业情况。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "公司基本面有改善概念，但走势弱。",
+      "定增机构被套，拉升困难。",
+      "成本低，可持有做T。"
+    ],
+    "mentioned_stocks": ["德赛电池"]
+  },
+  {
+    "index": 14,
+    "summary": "提醒投资者即使股市不好也要注意生活和健康，正能量。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "不要被股市情绪影响生活。",
+      "享受家庭时光和美食。",
+      "调整心态，继续投资。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论英伟达过度依赖AI业务，风险高，可能像挖矿周期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "英伟达深度绑定AI，风险高。",
+      "AI投资流动性循环，可能虚高。",
+      "公司不依赖游戏业务，转向AI。"
+    ],
+    "mentioned_stocks": ["英伟达", "Oracle"]
+  },
+  {
+    "index": 16,
+    "summary": "分享投资心得，强调不执着涨跌预判，鼓励理性投资。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "散户应避免频繁预判，等待行情。",
+      "复盘和心法分享。",
+      "有用户分享资料和鼓励。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "比较长鑫存储和长江存储的技术、市场和投资价值。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫做DRAM，利润率高；长江存储做NAND，技术更先进。",
+      "DRAM涨价更猛，长鑫受追捧。",
+      "长江存储技术第一梯队，长鑫第二。"
+    ],
+    "mentioned_stocks": ["长鑫存储", "长江存储"]
+  },
+  {
+    "index": 18,
+    "summary": "询问是否有人换仓到油股，基于中东局势和投资策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中东局势反复，投资需谨慎。",
+      "有人卖出油股，有人买入。",
+      "油股可能短期波动。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "中信证券看好商业航天可回收技术降本增效，行业前景乐观。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "可回收火箭技术将降低成本。",
+      "低轨卫星组网高峰将至。",
+      "制造端带来大量投入。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "关注比音勒芬股票，走势稳定，但品牌和行业有质疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "比音勒芬是高端高尔夫服饰龙头，股价稳涨。",
+      "社保基金入场，基本面不错。",
+      "有用户质疑品牌真实性，行业风险。"
+    ],
+    "mentioned_stocks": ["比音勒芬"]
+  },
+  {
+    "index": 21,
+    "summary": "预测今天股市表现，情绪波动，有悲观和乐观预期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国股市下跌，影响情绪。",
+      "今天可能低开高走。",
+      "有用户期待大涨。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "从银行股转科技股的经历，科技股波动大，易亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股涨跌幅大，容易亏损。",
+      "从银行股转科技股后，快速回撤。",
+      "提到具体科技股如北方华创。"
+    ],
+    "mentioned_stocks": ["北方华创", "长川", "中微", "赛腾", "汉钟"]
+  },
+  {
+    "index": 23,
+    "summary": "周末消息中宁德时代确定性最高，基于回购注销，但可能高开低走。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "宁德时代200亿回购注销是重大利好。",
+      "可能高开低走，追高风险大。",
+      "创业板靠宁德护盘。"
+    ],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 24,
+    "summary": "列举多个利空因素看空市场，包括中东、加息和流动性危机。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中东、加息不确定性。",
+      "科技板块高位派发。",
+      "大盘缩量，熊市迹象。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "同花顺交易软件挂单消失，技术问题，可能量化被查影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "自动止损单失效，需注意。",
+      "可能量化被查影响。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "七月股市魔幻，AI需求强劲但股价表现不一，有流动性危机。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI算力需求供不应求。",
+      "市场流动性危机，影响股价。",
+      "用户分享复盘和策略。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "保持投资策略，但原油上涨导致市场交易加息预期，科技杀估值。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "原油上涨导致市场交易加息预期。",
+      "科技股杀估值。",
+      "对冲策略如黄金。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "化工煤炭石油加税政策，但讨论少，可能利空中小企业。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "加税可能利空中小化工企业。",
+      "相比其他事件，影响小。",
+      "化工行业有全球竞争力。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "调侃投资心态，别人贪婪恐惧时的操作，幽默自嘲。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "恐惧和贪婪的调侃。",
+      "有用户分享破产经历。",
+      "投资情绪化问题。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "纳斯达克指数上涨，关注市场反应和中东局势影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指大涨，但可能盘前波动。",
+      "中东局势缓和利好。",
+      "有用户等待入场机会。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "质疑三星和海力士协议类型，如果是MOU则无约束力，利空。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "如果是MOU，没有约束力，利空。",
+      "协议可能只是备忘录，意义不大。"
+    ],
+    "mentioned_stocks": ["三星", "海力士"]
+  },
+  {
+    "index": 32,
+    "summary": "期待今天股市表现，关键一天，计划梭哈长鑫存储。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "期待长鑫存储带领上涨。",
+      "可能ETF暴涨。",
+      "有用户计划短期反弹后退出。"
+    ],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 33,
+    "summary": "技术分析国产算力板块见顶，建议卖出，对比格力电器。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "技术形态恶化，高位派发。",
+      "具体股票如中科曙光、浪潮信息分析。",
+      "建议抽身，对比格力电器。"
+    ],
+    "mentioned_stocks": ["中科曙光", "浪潮信息", "格力电器"]
+  },
+  {
+    "index": 34,
+    "summary": "预测下周股市大涨，但可能涨幅不足以回本，有质疑。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "明天将是最红的一天。",
+      "但可能涨幅不足以回本。",
+      "有用户质疑，认为许愿。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "光纤行业扩产，股价前景担忧，短期赚钱但未来预期差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "扩产可能兑现预期，股价难涨。",
+      "短期赚钱，但未来预期差。",
+      "技术门槛被质疑。"
+    ],
+    "mentioned_stocks": ["长飞光纤", "亨通光电", "杭电股份"]
+  },
+  {
+    "index": 36,
+    "summary": "持有美股QDII基金体验，因限购难以卖出，长期持有翻倍。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "QD基金限购，卖出后难买回。",
+      "长期持有，平均翻倍。",
+      "相信纳指长期涨。"
+    ],
+    "mentioned_stocks": ["易方达全球成长精选"]
+  },
+  {
+    "index": 37,
+    "summary": "远东股份股价下跌，可能跟光纤概念但实际业务弱，产品质量差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "远东股份可能跟光纤概念，但实际业务弱。",
+      "产品质量差，行业竞争激烈。"
+    ],
+    "mentioned_stocks": ["远东股份", "东方电缆", "中天", "亨通"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论龙头股大跌但业绩增长，是否超跌，需看未来估值。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能是光纤光通信股，但不行。",
+      "需看未来业绩和估值。",
+      "股价比利润更早见顶。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "李大霄周末看空市场，明天可能是黄金坑，评价不一。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "李大霄看空，明天可能是黄金坑。",
+      "有用户认为明天大跌。",
+      "李大霄水平评价不一。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "用户‘龙哥’成为东山精密十大股东，讨论其投资金额和合规性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "龙哥投资东山精密金额大。",
+      "可能私募和个人资金混合。",
+      "有用户担心杀猪盘。"
+    ],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论澄星股份，有用户推荐和赚亏经历，静待花开。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "澄星股份有用户赚亏经历。",
+      "静待花开，长期持有。"
+    ],
+    "mentioned_stocks": ["澄星股份"]
+  },
+  {
+    "index": 42,
+    "summary": "用户个人复盘帖，分享投资记录和交流策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "超短楼被ST，寻找备份。",
+      "讨论投资策略和心态。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "伊朗和美国停火消息，对股市影响可能利好，但开盘变化。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "停火可能利好，但开盘可能变化。",
+      "有用户认为配合韩国签协议。",
+      "做空赚够后做多。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "兴业证券分析公募持仓集中度高是否见顶，不足看空科技。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "公募持仓集中，但不足看空科技。",
+      "老乡别跑，场子还能玩。",
+      "游戏板块估值低。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "计划开盘梭哈长鑫存储，但唱衰多，估值看法分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "计划40以下竞价梭哈。",
+      "科创权限限制，部分人无法买。",
+      "估值看法分歧。"
+    ],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 46,
+    "summary": "小作文关于长鑫存储与华为关系变化，影响生产，真假待判。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "小作文真假需判断，可能影响走势。",
+      "如果是真，设备转移；如果是假，补跌。",
+      "用户质疑逻辑漏洞。"
+    ],
+    "mentioned_stocks": ["长鑫存储", "华为"]
+  },
+  {
+    "index": 47,
+    "summary": "用户复盘投资，分享经历和策略，讨论板块如光模块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "个人投资复盘记录。",
+      "讨论板块如光模块、半导体。",
+      "希望光模块大涨。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "讨论离岸信托征税政策，对富人影响，可能强制执行。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "征税可能强制执行。",
+      "国内信托安全性质疑。",
+      "费率可能高。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "如何持有长鑫存储仅1股，技术操作和最小交易单位。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可以通过买卖201股卖200股实现。",
+      "最小交易单位限制。",
+      "有用户问为何要卖。"
+    ],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 50,
+    "summary": "用户梦到创业板暴跌，担心现实，梦是反的可能预示大涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "梦是反的，可能预示大涨。",
+      "有用户梦到类似下跌。",
+      "坏的灵，可能真下跌。"
+    ],
+    "mentioned_stocks": []
+  }
+]
