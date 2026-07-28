@@ -1,0 +1,324 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论利通股票跌停，用户感到无奈但节约时间，利通波动大。",
+    "sentiment": "negative",
+    "key_opinions": ["利通股票波动大，跌停让人无奈", "跌停后反而安心工作", "利通主力操控明显"],
+    "mentioned_stocks": ["利通"]
+  },
+  {
+    "index": 2,
+    "summary": "质疑国家队托盘策略，机构套利，科技股估值高需调整。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队托而不举被套利", "科技估值过高砸盘正常", "国家队可能希望科技回归正常"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "分析海力士在美股上市的原因，如高位增发、收割美国资金。",
+    "sentiment": "mixed",
+    "key_opinions": ["海力士在美股上市是为了高位增发", "美国资金参与分红", "华尔街可能收割韩国"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论抄底大哥二哥股票，接盘后被套，逻辑叙事崩坏。",
+    "sentiment": "negative",
+    "key_opinions": ["接盘大哥二哥被套", "逻辑叙事崩坏", "左侧交易风险大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "调侃科创崩盘原因，逻辑闭环：中国光刻机突破导致科技股大跌。",
+    "sentiment": "negative",
+    "key_opinions": ["科创崩盘逻辑荒谬", "利好市场却大跌", "涨多了是原因"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "赞扬601919（中远海控）表现强劲，用户后悔错过，期待回调买入。",
+    "sentiment": "positive",
+    "key_opinions": ["海控表现强，月线正15", "用户等待回调买入", "海狗是安稳之家"],
+    "mentioned_stocks": ["601919", "中远海控"]
+  },
+  {
+    "index": 7,
+    "summary": "codex重置，但用户亏损严重，无力关注。",
+    "sentiment": "negative",
+    "key_opinions": ["账户亏损严重", "codex重置但无用", "亏损抵消多年会员费"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "抱怨市场没量，板块无法支撑，科技股跌影响全局。",
+    "sentiment": "negative",
+    "key_opinions": ["市场没量，板块无法支撑", "科技跌其他板块也跌", "量化责任"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "辩论T+0和T+1交易制度对散户的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["T+0可能被收割", "T+1是保护企业非散户", "T+0会减少割韭菜"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "大学生分享实盘，开仓九安医疗和胜宏科技，月亏严重。",
+    "sentiment": "negative",
+    "key_opinions": ["开仓九安和胜宏，亏麻", "做t操作", "大学生用父母账号"],
+    "mentioned_stocks": ["九安医疗", "胜宏科技"]
+  },
+  {
+    "index": 11,
+    "summary": "上半场亏1.2%，用户请求大盘平盘，持仓多样。",
+    "sentiment": "negative",
+    "key_opinions": ["亏1.2%请求平盘", "持有海南矿业、大秦铁路等", "避险不碰科技"],
+    "mentioned_stocks": ["海南矿业", "大秦铁路"]
+  },
+  {
+    "index": 12,
+    "summary": "探讨市场需要什么样的利好消息。",
+    "sentiment": "mixed",
+    "key_opinions": ["需要AGI突破", "新主线或科技反弹", "议息会议可能解读为利好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "对比牛市和熊市投资逻辑，牛市看预期，熊市看实际价值。",
+    "sentiment": "neutral",
+    "key_opinions": ["牛市打满预期，熊市看实际价值", "周期股在熊市按亏损计算", "用户持仓中免"],
+    "mentioned_stocks": ["中免"]
+  },
+  {
+    "index": 14,
+    "summary": "推荐老登股如银行、海狗、中石油等在熊市持有。",
+    "sentiment": "positive",
+    "key_opinions": ["老登股防御属性强", "低价买入享受股息", "白色电器和航司也稳"],
+    "mentioned_stocks": ["银行", "海狗", "中石油", "长江电力"]
+  },
+  {
+    "index": 15,
+    "summary": "小猫实盘，小资金投资计划，详情待写。",
+    "sentiment": "neutral",
+    "key_opinions": ["计划分享小资金实盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "海力士若大V翻微绿，市场或有救，但难度大。",
+    "sentiment": "negative",
+    "key_opinions": ["海力士V起来难", "科技行情短期结束", "晚上美股还得跌"],
+    "mentioned_stocks": ["海力士", "美光", "闪迪"]
+  },
+  {
+    "index": 17,
+    "summary": "股市止跌但持仓跌停，自嘲式评论。",
+    "sentiment": "negative",
+    "key_opinions": ["止跌因跌停无法再跌", "中大哥下午可能还跌", "好图分享"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "分享锤哥文章，强调不执着于涨跌预判，稳健投资。",
+    "sentiment": "positive",
+    "key_opinions": ["散户不执着预判", "锤哥更新文章", "堂哥心法分享"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "更新定投计划，基于模型判断黄金坑，计划大额定投。",
+    "sentiment": "positive",
+    "key_opinions": ["小额定投转大额定投", "模型显示黄金坑", "定投宽基和细分板块"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "引用巴菲特理论，熊市应兴奋抄底，但散户资金有限。",
+    "sentiment": "mixed",
+    "key_opinions": ["巴菲特熊市兴奋因有子弹", "散户估值高于实际价值", "大盘破3500可能"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "一键清仓，抱怨股市比赌场残酷，量化砸盘。",
+    "sentiment": "negative",
+    "key_opinions": ["题材轮动折腾人", "量化不对等", "散户难赚钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讽刺热点板块如困境反转，造假被发现后不造假。",
+    "sentiment": "mixed",
+    "key_opinions": ["困境反转板块讽刺", "利空出尽是利好", "高压氧舱等概念"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "一天亏3个月工资，持仓利通东山通富跌停。",
+    "sentiment": "negative",
+    "key_opinions": ["亏3个月工资想清仓", "利通等跌停", "放钱太多亏得难受"],
+    "mentioned_stocks": ["利通", "东山", "通富"]
+  },
+  {
+    "index": 24,
+    "summary": "有色股直线上涨，可能拉指数稳盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["有色股直线上涨", "中场收盘拉最便宜稳指数"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "电力股拉升，但冲高回落，套牢盘多。",
+    "sentiment": "negative",
+    "key_opinions": ["电力股拉升但冲高回落", "华辽山顶等你", "游资等散户避险"],
+    "mentioned_stocks": ["电力股", "华润新能"]
+  },
+  {
+    "index": 26,
+    "summary": "易中下降趋势确立，机构出货。",
+    "sentiment": "negative",
+    "key_opinions": ["易中大形态破位下降趋势", "机构天天出货", "筹码不舍得给家人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "证券板块跌，银行保险拉涨，逻辑矛盾。",
+    "sentiment": "negative",
+    "key_opinions": ["银行保险拉冒烟", "证券量化换板块跌", "券商牛熊都不能涨"],
+    "mentioned_stocks": ["证券", "银行", "保险"]
+  },
+  {
+    "index": 28,
+    "summary": "看好中远海特，特种船只量价齐升，高分红成长。",
+    "sentiment": "positive",
+    "key_opinions": ["中远海特种船量价齐升", "高分红高成长", "目标市值600-1000亿"],
+    "mentioned_stocks": ["中远海特", "招商轮船"]
+  },
+  {
+    "index": 29,
+    "summary": "钨业高位腰斩，询问反弹机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["钨业高位腰斩可能博反弹", "四钨兄弟", "看钨价起来"],
+    "mentioned_stocks": ["钨业", "中钨"]
+  },
+  {
+    "index": 30,
+    "summary": "红利股被批评跑输大盘，但本月跑赢。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股本月跑赢大盘15%", "跑输整个牛市", "买红利不如买大盘"],
+    "mentioned_stocks": ["红利股", "招行"]
+  },
+  {
+    "index": 31,
+    "summary": "黄金股猛拉，可能因科技跌或汪汪队拉上证50。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金股猛拉可能有预判", "科技跌黄金涨", "汪汪队拉上证50"],
+    "mentioned_stocks": ["黄金股", "紫金"]
+  },
+  {
+    "index": 32,
+    "summary": "看好源神（思源电气）和雅克，但价格不理想。",
+    "sentiment": "mixed",
+    "key_opinions": ["源神电网设备出海", "雅克半导体前驱", "中报可能拉"],
+    "mentioned_stocks": ["源神", "思源电气", "雅克"]
+  },
+  {
+    "index": 33,
+    "summary": "光模块教父称开始磨底，但被质疑。",
+    "sentiment": "negative",
+    "key_opinions": ["光模块超跌很久", "车轱辘话来回转", "指望散户接"],
+    "mentioned_stocks": ["光模块", "中际旭创"]
+  },
+  {
+    "index": 34,
+    "summary": "一鲸起万物死，梁叔叔猛，但科技死。",
+    "sentiment": "negative",
+    "key_opinions": ["一鲸起万物死", "梁叔叔猛", "科技死其他还行"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "呼吁反攻，下午翻红，但被质疑骗人。",
+    "sentiment": "negative",
+    "key_opinions": ["下午5000+涨停", "加大电压", "骗你进来两点半下杀"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "比较某产品收益率高于逆回购，但有风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["收益率比逆回购高", "但有亏钱风险", "逆回购稳"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "沪电股份跌得顶不住，从盈利到亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["沪电跌顶不住", "从盈利到亏损", "一辈子持股计划"],
+    "mentioned_stocks": ["沪电"]
+  },
+  {
+    "index": 38,
+    "summary": "抱怨股市轮回，本月多次下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["仿佛处于轮回中", "亏钱教训", "昨天还欣欣向荣"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "调侃韩国股市大跌，可能空中飞人。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市大跌", "棒子论坛发汉江水温", "养老金亏钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "抱怨大A不给力，补仓做T亏损，坚持学习。",
+    "sentiment": "negative",
+    "key_opinions": ["风儿吹不动", "补仓做T亏损", "学习做T技巧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "对联调侃长鑫吸血，导致天下瘦。",
+    "sentiment": "negative",
+    "key_opinions": ["长鑫合肥吸血", "新老韭菜一起割", "光刻神舟万民贫"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 42,
+    "summary": "指数下跌可怕，双创技术性熊市。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板科创板熊市", "高点下跌20%技术性熊市", "80%票跌破年线"],
+    "mentioned_stocks": ["创业板", "科创板"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论H股汇丰控股，表现好但价格高。",
+    "sentiment": "mixed",
+    "key_opinions": ["汇丰控股月线新高", "不如中银香港", "好公司非好价格"],
+    "mentioned_stocks": ["汇丰控股", "中银香港"]
+  },
+  {
+    "index": 44,
+    "summary": "文件夹名“如梦幻泡影”应验，股市回撤。",
+    "sentiment": "negative",
+    "key_opinions": ["股市如梦幻泡影", "回撤严重", "学到东西赢麻"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "确认熊市来了，主线科技出问题。",
+    "sentiment": "negative",
+    "key_opinions": ["熊市已来", "主线出问题", "成长股自求多福"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "讨论澜起科技，目标330，但被套牢。",
+    "sentiment": "mixed",
+    "key_opinions": ["澜起科技目标330", "司机跳车概念股", "成本277被套"],
+    "mentioned_stocks": ["澜起科技"]
+  }
+]
