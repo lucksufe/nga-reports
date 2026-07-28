@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论市场波动，股市、原油、黄金同时涨跌，受周末会议影响，大A可能二次探底。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场行为癫狂，黄金受会议影响", "大A可能二次探底"],
+    "mentioned_stocks": ["股市", "原油", "黄金"]
+  },
+  {
+    "index": 2,
+    "summary": "比较韩指、日经、美半导体见顶时间，A股半导体延迟下跌，跌幅大。",
+    "sentiment": "negative",
+    "key_opinions": ["A股科技股见顶晚，跌幅大", "舆论骂某队洗地", "兆易创新跌60%"],
+    "mentioned_stocks": ["韩指", "日经", "美半导体", "大A半导体", "纳指", "兆易创新"]
+  },
+  {
+    "index": 3,
+    "summary": "闪迪美光盘后下跌，讨论AI硬件逻辑不通、存储巨头竞争。",
+    "sentiment": "negative",
+    "key_opinions": ["AI硬件逻辑不通顺", "中国存储巨头竞争影响垄断", "恐慌盘未出AI硬难好转"],
+    "mentioned_stocks": ["闪迪", "美光", "海力士", "长鑫", "显卡"]
+  },
+  {
+    "index": 4,
+    "summary": "长鑫市值超越腾讯，讨论其收入低、周期股属性，腾讯可能被AI淘汰。",
+    "sentiment": "mixed",
+    "key_opinions": ["长鑫收入低但市值高，水分大", "周期股属性明显", "腾讯可能被AI淘汰"],
+    "mentioned_stocks": ["长鑫", "腾讯"]
+  },
+  {
+    "index": 5,
+    "summary": "解释汉奸链（出海链）和国产链的定义，涉及相关股票。",
+    "sentiment": "neutral",
+    "key_opinions": ["达链为首出海链", "长鑫为首国产替代链", "海外链配套英伟达"],
+    "mentioned_stocks": ["中际旭创", "长鑫", "光模块", "PCB", "国产半导体"]
+  },
+  {
+    "index": 6,
+    "summary": "询问A500是否会死，回复有不同意见。",
+    "sentiment": "mixed",
+    "key_opinions": ["有人认为A500会死", "有人认为已到黄金坑", "参考道琼斯走势"],
+    "mentioned_stocks": ["A500"]
+  },
+  {
+    "index": 7,
+    "summary": "韩国指数开盘下跌，原因与美股半导体下跌相关。",
+    "sentiment": "negative",
+    "key_opinions": ["美股半导体跌导致韩国跟跌", "海力士下跌引死亡螺旋", "韩国资金外流买美股"],
+    "mentioned_stocks": ["韩国指数", "美股半导体", "海力士", "三星"]
+  },
+  {
+    "index": 8,
+    "summary": "解释金融炼金术，英伟达循环融资模式被质疑。",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达借钱给下游买卡，左脚踩右脚", "高盛唱空因循环融资", "类似2008金融危机诱因"],
+    "mentioned_stocks": ["英伟达", "OpenAI", "高盛"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论黄金时代是否结束，涉及长鑫和海力士表现。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金时代已结束", "长鑫表现不佳", "海力士下跌"],
+    "mentioned_stocks": ["长鑫", "海力士"]
+  },
+  {
+    "index": 10,
+    "summary": "批评小作文（谣言）关于长鑫和光刻机，市场轻信。",
+    "sentiment": "negative",
+    "key_opinions": ["小作文荒谬但市场反应大", "有人利用小作文出货", "长鑫相关小作文频繁"],
+    "mentioned_stocks": ["长鑫", "光刻机", "新凯来"]
+  },
+  {
+    "index": 11,
+    "summary": "澜起科技股价讨论，有目标价但发帖后掉头向下。",
+    "sentiment": "mixed",
+    "key_opinions": ["目标价330，但发帖后股价跌", "被套牢成本277", "求别奶股价"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 12,
+    "summary": "碳酸科技股价快新高，表现强劲。",
+    "sentiment": "positive",
+    "key_opinions": ["碳酸科技表现强劲，羡慕"],
+    "mentioned_stocks": ["碳酸科技"]
+  },
+  {
+    "index": 13,
+    "summary": "感恩A股有跌停保护，讨论流动性差异。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股跌停保护散户", "美股流动性较好但接盘价未知", "东山精密被套"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 14,
+    "summary": "韩国指数下跌，三星、海力士大跌，引死亡螺旋担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国科技股大跌", "海力士下跌引死亡螺旋", "日股闪存也跌"],
+    "mentioned_stocks": ["三星", "海力士", "韩国指数", "闪存"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论小作文与东升西落，国产替代可能走独立行情。",
+    "sentiment": "mixed",
+    "key_opinions": ["小作文影响大", "国产替代可能走独立行情", "量化因子关键"],
+    "mentioned_stocks": ["国产链", "海外链", "量化基金"]
+  },
+  {
+    "index": 16,
+    "summary": "韩国可能熔断，A股是否跟跌引发担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["可能泥沙俱下", "A股跟跌不跟涨", "小作文出口转内销"],
+    "mentioned_stocks": ["韩国指数", "A股"]
+  },
+  {
+    "index": 17,
+    "summary": "分享《金钱心理学》总结，鼓励理性投资。",
+    "sentiment": "positive",
+    "key_opinions": ["保持谦逊和宽容", "减少虚荣积累财富", "用适合方式理财"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "询问今天是否能走行情，期望落空。",
+    "sentiment": "negative",
+    "key_opinions": ["行情可能不好", "棒子跳水影响A股", "昨天普涨诡异"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论是否要跑，提到暴力反弹预测。",
+    "sentiment": "mixed",
+    "key_opinions": ["有预测暴力反弹", "A股可能上3000点", "插眼观察"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论高志凯预言与行为，国产技术可能冲击美国。",
+    "sentiment": "mixed",
+    "key_opinions": ["国产技术可能引发美国金融危机", "但危机影响全球", "AGI或成关键"],
+    "mentioned_stocks": ["华为", "长鑫", "DeepSeek"]
+  },
+  {
+    "index": 21,
+    "summary": "苹果新高，讨论价值投资和美股表现。",
+    "sentiment": "positive",
+    "key_opinions": ["苹果是真正的价值投资", "A股蓝筹被控盘", "管理层重视股东利益"],
+    "mentioned_stocks": ["苹果", "美股老登股", "小米"]
+  },
+  {
+    "index": 22,
+    "summary": "为何追捧科技但厌恶长鑫，对高估值不满。",
+    "sentiment": "negative",
+    "key_opinions": ["长鑫溢价高散户难参与", "开盘价50过高", "直接拉满与散户无关"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论美股下跌原因，英伟达担保可能是主因。",
+    "sentiment": "negative",
+    "key_opinions": ["小作文影响不大", "英伟达担保引担忧", "类似2008金融危机"],
+    "mentioned_stocks": ["英伟达", "OpenAI"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论AI硬件与软件，需ARR数据救半导体。",
+    "sentiment": "negative",
+    "key_opinions": ["AI硬件可能见顶杀估值", "AI软件更佳但需数据", "OPENAI和ANTHROPIC ARR关键"],
+    "mentioned_stocks": ["OPENAI", "ANTHROPIC", "半导体"]
+  },
+  {
+    "index": 25,
+    "summary": "中信建投研报，A股长期致胜，有八大优势。",
+    "sentiment": "positive",
+    "key_opinions": ["A股有安全边际优势", "产业进步显著", "美股有系统性风险"],
+    "mentioned_stocks": ["A股", "美股"]
+  },
+  {
+    "index": 26,
+    "summary": "观测中光防雷，推荐短期投资。",
+    "sentiment": "positive",
+    "key_opinions": ["中光防雷有资金进入", "明天可能涨", "中电鑫龙同款"],
+    "mentioned_stocks": ["中光防雷", "中电鑫龙"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论AI硬件与软件，比较前景分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI硬件可能杀估值", "AI软件应用形态未知", "算力需求爆炸"],
+    "mentioned_stocks": ["恒生科技", "AI软", "AI硬"]
+  },
+  {
+    "index": 28,
+    "summary": "国金证券研报，AI光模块带动mSAP-PCB扩容。",
+    "sentiment": "positive",
+    "key_opinions": ["mSAP-PCB快速扩容", "关注直写光刻等环节", "利好胜宏"],
+    "mentioned_stocks": ["胜宏"]
+  },
+  {
+    "index": 29,
+    "summary": "港股中际旭创基石投资者阵容强，但股价可能跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["基石投资者全明星阵容", "价格高可能破发", "上市首日可做空"],
+    "mentioned_stocks": ["中际旭创", "胜宏"]
+  },
+  {
+    "index": 30,
+    "summary": "杂谈投资心态，不执着预判，专注可控事情。",
+    "sentiment": "positive",
+    "key_opinions": ["散户避免预判行情", "专注可控事情", "耐心等待行情"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "美股半导体跌，兆易创新危了，被长鑫吸血。",
+    "sentiment": "negative",
+    "key_opinions": ["兆易创新被长鑫吸血", "美股半导体压力大", "可能破400"],
+    "mentioned_stocks": ["兆易创新", "长鑫"]
+  },
+  {
+    "index": 32,
+    "summary": "一直亏扛不住，市场持续阴跌。",
+    "sentiment": "negative",
+    "key_opinions": ["阴跌难熬", "下跌趋势破位别扛", "散户割肉后行情可能来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "如何买入腾讯，推荐易方达中概互联网ETF。",
+    "sentiment": "positive",
+    "key_opinions": ["ETF持仓腾讯高", "中概股利空出清", "走势反转机会"],
+    "mentioned_stocks": ["腾讯", "易方达中概互联网ETF", "携程"]
+  },
+  {
+    "index": 34,
+    "summary": "建议看国产链表现，决定是否投资。",
+    "sentiment": "mixed",
+    "key_opinions": ["国产链如果表现强则投资", "否则跑路", "半导体设备已涨"],
+    "mentioned_stocks": ["国产链", "海外链", "锐捷网络", "紫光股份"]
+  },
+  {
+    "index": 35,
+    "summary": "经济日报文章，长鑫上市折射硬科技成长逻辑。",
+    "sentiment": "positive",
+    "key_opinions": ["长鑫展示硬科技成长", "需长期投资", "价值投资试金石"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 36,
+    "summary": "调侃小作文，为套散户连光刻机都造出来了。",
+    "sentiment": "negative",
+    "key_opinions": ["小作文荒谬", "明天科技股走势不确定", "量化因子难写"],
+    "mentioned_stocks": ["科技股", "光刻机"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论英伟达卡回本周期，谷歌现金流需验证。",
+    "sentiment": "mixed",
+    "key_opinions": ["卡回本周期短可能不实", "谷歌现金流回正时点关键", "英伟达卡价格国内外差异大"],
+    "mentioned_stocks": ["英伟达", "谷歌", "OpenAI"]
+  },
+  {
+    "index": 38,
+    "summary": "小额定投计划，提到黄金坑持续15交易日。",
+    "sentiment": "positive",
+    "key_opinions": ["黄金坑持续15交易日", "分批定投创业板指等", "细分板块投半导体设备等"],
+    "mentioned_stocks": ["创业板指", "中证1000", "中证2000", "半导体设备", "CPO", "PCB"]
+  },
+  {
+    "index": 39,
+    "summary": "贝莱德韩国ETF连续资金流入，或创纪录。",
+    "sentiment": "positive",
+    "key_opinions": ["韩国ETF连续资金流入", "7月或创单月流入纪录", "贝莱德投资中国民航信息亏损"],
+    "mentioned_stocks": ["贝莱德韩国ETF", "中国民航信息"]
+  },
+  {
+    "index": 40,
+    "summary": "质疑英伟达给下游钱买卡的循环融资模式。",
+    "sentiment": "negative",
+    "key_opinions": ["循环融资类似泡沫", "英伟达财报好但模式受质疑", "阿斯麦杀跌严重"],
+    "mentioned_stocks": ["英伟达", "海力士", "阿斯麦"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论长鑫明天抛压，小作文影响大。",
+    "sentiment": "mixed",
+    "key_opinions": ["小作文影响长鑫走势", "明天抛压担忧", "但小作文有圣旨效应"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 42,
+    "summary": "酒店股爆发逻辑，进军长租市场。",
+    "sentiment": "positive",
+    "key_opinions": ["酒店业推出长租产品", "盘活存量市场", "获取稳定现金流"],
+    "mentioned_stocks": ["华住", "亚朵", "同庆楼", "携程"]
+  },
+  {
+    "index": 43,
+    "summary": "中了新债新股，讨论仓位和中签率。",
+    "sentiment": "mixed",
+    "key_opinions": ["可转债中签率高", "新股难中", "可转债第一天卖与否看体量"],
+    "mentioned_stocks": ["可转债", "新股"]
+  },
+  {
+    "index": 44,
+    "summary": "小猫实盘，小额投资记录。",
+    "sentiment": "neutral",
+    "key_opinions": ["小额实盘，后续更新"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "阿斯麦大跌，小道消息我们DUV弄出来了。",
+    "sentiment": "mixed",
+    "key_opinions": ["DUV可能国产化", "但需验证消息真实性", "优先供货中芯等"],
+    "mentioned_stocks": ["阿斯麦", "中芯国际", "华虹半导体", "长鑫"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论罕见链和吴京链头子，调侃性。",
+    "sentiment": "mixed",
+    "key_opinions": ["罕见链头子中际旭创", "吴京链头子也是中大哥", "叫菊花链或战狼链"],
+    "mentioned_stocks": ["中际旭创", "中芯国际"]
+  },
+  {
+    "index": 47,
+    "summary": "美股V回来了，但AI硬件烂了。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股半导体问题导致跌", "英伟达补跌", "海力士溢价问题"],
+    "mentioned_stocks": ["纳斯达克", "英伟达", "闪迪", "海力士", "美光"]
+  },
+  {
+    "index": 48,
+    "summary": "恒科和A500比较，看好恒科性价比。",
+    "sentiment": "positive",
+    "key_opinions": ["恒科性价比更高", "A500+恒科组合投资", "智谱等公司应踢出"],
+    "mentioned_stocks": ["恒科", "A500", "智谱", "中概互联网"]
+  },
+  {
+    "index": 49,
+    "summary": "为什么华尔街傻子总能赚钱，批评投行研报。",
+    "sentiment": "negative",
+    "key_opinions": ["投行研报不可靠", "频繁交易增加成本", "散户难赚钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "香港交易员挪用资金巨亏，女上司可能知情。",
+    "sentiment": "negative",
+    "key_opinions": ["交易员挪用资金做多海力士巨亏", "女上司可能知情", "一跳解千愁"],
+    "mentioned_stocks": ["海力士"]
+  }
+]
