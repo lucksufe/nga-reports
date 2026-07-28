@@ -1,0 +1,546 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "抱怨科技板块亏钱效应巨大且退潮期过长，导致市场被绑架。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "科技板块亏钱效应巨大。",
+            "退潮期过长，没完没了。",
+            "板块体量太大绑架了市场。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 2,
+        "summary": "讨论根据反人性原则在下跌日抄底，但有分歧和风险警告。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "尾盘接半导设备，恒生科技。",
+            "这是抄底好时候，敢抄就该发财。",
+            "压路机前捡硬币，风险极大。"
+        ],
+        "mentioned_stocks": ["半导设备", "恒生科技"]
+    },
+    {
+        "index": 3,
+        "summary": "讨论恒生科技指数（恒科）跟随科技板块下跌的原因。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "AI软硬件关联，泡沫破则同死。",
+            "恒科在底部，跌不了多少。",
+            "内资傻逼。"
+        ],
+        "mentioned_stocks": ["恒科", "小米", "腾讯", "阿里"]
+    },
+    {
+        "index": 4,
+        "summary": "用户调侃被ST的兆易创新，并计划在其进一步下跌后抄底。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "兆易创新被ST，股价大跌。",
+            "心态对了，计划等待下跌后倍仓。",
+            "可考虑抄底。"
+        ],
+        "mentioned_stocks": ["兆易创新", "ST兆易"]
+    },
+    {
+        "index": 5,
+        "summary": "认为技术性熊市可能结束，但全面熊市已到来。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "技术性熊市应该结束了。",
+            "全面熊正式登场。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 6,
+        "summary": "抱怨A股市场被外盘拖累下跌，收割散户。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "华尔街先砸盘，A股跟跌。",
+            "市场做法恶心。",
+            "银行等防御股上涨。"
+        ],
+        "mentioned_stocks": ["银行", "长电", "伊利"]
+    },
+    {
+        "index": 7,
+        "summary": "认为尾盘拉升无意义，不如收出光头阴线。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "尾盘拉，意味不明。",
+            "还不如收个光头阴。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 8,
+        "summary": "讨论国家队通过ETF救市，但力度被质疑，银行股被拉升。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "国家队借道ETF入市。",
+            "卖盘太大，买盘显得小。",
+            "银行股被拉升。"
+        ],
+        "mentioned_stocks": ["ETF", "银行"]
+    },
+    {
+        "index": 9,
+        "summary": "询问下跌日是否适合抄底，多数回复建议等待。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "空仓再等等。",
+            "等个放量跌再买。",
+            "明天还会跌，管住手。"
+        ],
+        "mentioned_stocks": ["科技ETF", "债基"]
+    },
+    {
+        "index": 10,
+        "summary": "不解为何创新药板块也一同下跌。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "创新药也跟着跌。",
+            "变成一家人整整齐齐。",
+            "变成猴模块了。"
+        ],
+        "mentioned_stocks": ["创新药"]
+    },
+    {
+        "index": 11,
+        "summary": "用户坚信明天会V型反转，但遭其他用户嘲讽。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "3800就是底，肯定V。",
+            "东升西落，相信国家。",
+            "鉴定结论：又疯一个。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 12,
+        "summary": "讨论茅台股价，认为其可能重回高价股王座且利润实在。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "下个月茅台可能重回高价股王座。",
+            "茅台利润每年实打实。"
+        ],
+        "mentioned_stocks": ["茅台"]
+    },
+    {
+        "index": 13,
+        "summary": "讨论7月份科技股腰斩式下跌是否罕见，认为比历史更惨。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "科技股天天跌停，如ST股。",
+            "跌一半连像样反弹都没有。",
+            "比2015年股灾还惨。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 14,
+        "summary": "抱怨A股市场历史规律总是以崩盘收场，散户屡教不改。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "市场每次结局都是崩盘式下跌。",
+            "散户不吸取教训。",
+            "市场初衷就是割韭菜。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 15,
+        "summary": "描述中际旭创和新易盛暴跌的恐怖，并讨论风险。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "中际旭创、新易盛暴跌。",
+            "两天跌去20-30个点。",
+            "硬抗的可能死在龙头上。"
+        ],
+        "mentioned_stocks": ["中际旭创", "新易盛"]
+    },
+    {
+        "index": 16,
+        "summary": "讨论国产DUV光刻机消息本是利好，却导致股价下跌的疑惑。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "国产DUV光刻机是利好开端。",
+            "消息导致外围跌，A股跟跌。",
+            "美韩非因光刻机跌，而是AI盈利预期质疑。"
+        ],
+        "mentioned_stocks": ["光刻机相关股", "中芯国际"]
+    },
+    {
+        "index": 17,
+        "summary": "因市场惨淡，用户表达想删除炒股软件的想法。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "想删软件。",
+            "老黄（黄仁勋）就是个外行。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 18,
+        "summary": "讨论通讯ETF被巨大卖盘压制下跌。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "通讯ETF被卖盘压死。",
+            "明天应该还有补跌。",
+            "有人接盘，准备长持。"
+        ],
+        "mentioned_stocks": ["通讯ETF"]
+    },
+    {
+        "index": 19,
+        "summary": "讨论银行股涨而证券股不涨的原因。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "银行位置高，拉证券意义不大。",
+            "证券散户多，不易拉。",
+            "银行是亲儿子。"
+        ],
+        "mentioned_stocks": ["银行", "证券"]
+    },
+    {
+        "index": 20,
+        "summary": "讨论中际旭创（中大哥）出现对子底价格899.99元。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "中大哥出现对子底。",
+            "能守住吗？",
+            "何不888.88。"
+        ],
+        "mentioned_stocks": ["中际旭创"]
+    },
+    {
+        "index": 21,
+        "summary": "因财经新闻将“中际旭创”打错为“中继续创”，引发调侃。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "标题“中继续创”有错字。",
+            "网友调侃为下跌中继信号。",
+            "大哥名字打错。"
+        ],
+        "mentioned_stocks": ["中际旭创"]
+    },
+    {
+        "index": 22,
+        "summary": "讨论如果一支股票你觉得贵，那就该卖了，因为无人接盘。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "觉得贵就该卖，无人接盘。",
+            "科技越涨越便宜，老登越跌越贵。",
+            "趋势的力量。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 23,
+        "summary": "事后看，投资四大行、海狗、长电等红利龙头股在熊市中更抗跌。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "老登龙头股跌得慢，有股息锚点。",
+            "财政龙头不会被砸死。",
+            "需结合无风险利率判断高股息锚点。"
+        ],
+        "mentioned_stocks": ["四大行", "海狗", "长电", "伊利", "紫金", "万科"]
+    },
+    {
+        "index": 24,
+        "summary": "认为长鑫存储是抗跌的真龙头，可能有国家队托盘。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "长鑫今天抗跌。",
+            "真龙头，带着ZZ任务。",
+            "国家队资金在托盘。"
+        ],
+        "mentioned_stocks": ["长鑫存储"]
+    },
+    {
+        "index": 25,
+        "summary": "讨论股价跌至800元的中际旭创是否值得抄底。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "倒车接人？",
+            "科技已处下跌趋势。",
+            "需等美韩股市稳定再考虑。"
+        ],
+        "mentioned_stocks": ["中际旭创"]
+    },
+    {
+        "index": 26,
+        "summary": "讨论上证指数3800点是否是铁底，老登股护盘。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "老登股拉冒烟了护盘。",
+            "3800是铁底？",
+            "磨磨蹭蹭不像底。"
+        ],
+        "mentioned_stocks": ["银行", "保险"]
+    },
+    {
+        "index": 27,
+        "summary": "认为半导体设备ETF在图形上形成了双底。",
+        "sentiment": "positive",
+        "key_opinions": [
+            "图形上满双底。"
+        ],
+        "mentioned_stocks": ["半导体设备"]
+    },
+    {
+        "index": 28,
+        "summary": "用户发布实盘，主打核心低吸，偶尔大亏，仅供交流。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "模式稳定，但会管不住手。",
+            "主打核心低吸。",
+            "实盘交流，切勿跟车。"
+        ],
+        "mentioned_stocks": ["哈药"]
+    },
+    {
+        "index": 29,
+        "summary": "指出AI基本面需求强劲与股价暴跌的魔幻背离。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "AI算力需求未减速。",
+            "但AI算力板块股价普跌。",
+            "市场流动性危机导致。"
+        ],
+        "mentioned_stocks": ["中际旭创"]
+    },
+    {
+        "index": 30,
+        "summary": "讨论今年A股盈利人数占比低，科技板块赚钱效应差。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "72%股民今年亏损。",
+            "科技板块轰轰烈烈但赚钱少数。",
+            "十倍股能拿满的人少。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 31,
+        "summary": "用户持仓小幅下跌，寻求安慰，部分仓位在避险。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "求今天平盘就行。",
+            "持仓包含矿业、铁路等避险股。",
+            "今天不V，下午估计还要砸。"
+        ],
+        "mentioned_stocks": ["海南矿业", "大秦铁路", "护垫", "创新药"]
+    },
+    {
+        "index": 32,
+        "summary": "询问灌石科技为何作为国产替代股却大跌。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "灌石科技大跌。",
+            "不是国产替代吗？"
+        ],
+        "mentioned_stocks": ["灌石科技"]
+    },
+    {
+        "index": 33,
+        "summary": "用户因连续亏损失去操作勇气，不敢追涨也不敢抄底。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "上涨不敢追，跌停不敢吸。",
+            "失去做出判断和操作的勇气。",
+            "需要正反馈。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 34,
+        "summary": "指出港股中际旭创打新锁仓带杠杆，下跌可能导致螺旋爆炸。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "港股打新中际旭创锁仓。",
+            "自带十倍杠杆，暴跌导致螺旋爆炸。",
+            "比2015年股灾更惨烈。"
+        ],
+        "mentioned_stocks": ["中际旭创"]
+    },
+    {
+        "index": 35,
+        "summary": "用户希望国家队拉科创50救市，但认为可能性小。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "希望国家队拉科创50。",
+            "国家队不拉，银行才是亲儿子。",
+            "你割肉国家队才可能拉。"
+        ],
+        "mentioned_stocks": ["科创50"]
+    },
+    {
+        "index": 36,
+        "summary": "讨论中际旭创和新易盛股价看似高，可能还要腰斩。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "中际、新易盛看着还挺高。",
+            "不到山腰不抄底。",
+            "预测中际到800+筑底。"
+        ],
+        "mentioned_stocks": ["中际旭创", "新易盛", "败绿"]
+    },
+    {
+        "index": 37,
+        "summary": "讽刺国产光刻机量产利好反而导致A股科技股下跌的矛盾逻辑。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "国产技术突破，市场却看空。",
+            "利好越多，股价越跌。",
+            "‘我杀我自己’的逻辑。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 38,
+        "summary": "讨论大盘被控制在3800点以上，但可能守不住。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "一跌破3800就拉上来。",
+            "美股跌的话明天开盘就破。",
+            "没交易量了，想怎么控都行。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 39,
+        "summary": "指出今天实际上一半股票上涨，但论坛关注点在下跌的科技股上。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "今天一半股票在涨。",
+            "只是买了科技的太惨了。",
+            "涨幅小，跌幅大。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 40,
+        "summary": "认为死守3800点没有意义，是面子工程。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "守3800没意义。",
+            "是面子牛。",
+            "非要守住就是守不住。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 41,
+        "summary": "预测今晚美股半导体将继续下跌。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "会螺旋下跌。",
+            "鬼故事太多了。",
+            "今晚继续大杀特杀。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 42,
+        "summary": "质疑长鑫存储收入与市值不匹配，是周期股。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "长鑫年营收才百亿到千亿。",
+            "是周期股，行情不能长久。",
+            "腾讯也是科技股。"
+        ],
+        "mentioned_stocks": ["长鑫存储", "腾讯"]
+    },
+    {
+        "index": 43,
+        "summary": "指出德明利股票进入了跌幅前十。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "德明利进入跌幅前十。",
+            "一堆688和300中进入跌幅前十。"
+        ],
+        "mentioned_stocks": ["德明利"]
+    },
+    {
+        "index": 44,
+        "summary": "讨论指数一接近3800点就被拉起，似在诱多。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "一接近3800就拉一下。",
+            "拉了三次，骗人上钩。",
+            "破了3800。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 45,
+        "summary": "讨论海控股价短期是否见顶，已到回购价上限。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "海控一个月涨近两成。",
+            "现价和之前高点利润相当。",
+            "主打慢涨慢跌。"
+        ],
+        "mentioned_stocks": ["海控"]
+    },
+    {
+        "index": 46,
+        "summary": "讨论德明利封板是否开启科技股第二轮主跌浪。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "德明利封板。",
+            "可能开启第二轮主跌浪。",
+            "跌幅应该更直接。"
+        ],
+        "mentioned_stocks": ["德明利"]
+    },
+    {
+        "index": 47,
+        "summary": "用户因市场残酷一键清仓，抱怨投机博弈不对等。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "一键清仓，不留恋。",
+            "市场比赌场还残酷。",
+            "题材轮动折腾人。"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 48,
+        "summary": "讨论韩国股市大跌，其领导人位子可能不稳。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "韩国股市大跌。",
+            "李卡卡（李在明）可能坐不稳。",
+            "之前救市，现在情况恶化。"
+        ],
+        "mentioned_stocks": ["韩指ETF"]
+    },
+    {
+        "index": 49,
+        "summary": "询问腰斩后的钨业股票是否有反弹机会。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "高位下来已腰斩。",
+            "近期有企稳迹象。",
+            "可以博反弹。"
+        ],
+        "mentioned_stocks": ["钨业", "中钨"]
+    },
+    {
+        "index": 50,
+        "summary": "用户为求稳买入ETF，但仍遭遇亏损。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "买了通信ETF和科创50。",
+            "通信ETF也能跌停。",
+            "买急了，跟买科技没区别。"
+        ],
+        "mentioned_stocks": ["通信ETF", "科创50"]
+    }
+]
+```
