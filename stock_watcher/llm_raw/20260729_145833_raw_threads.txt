@@ -1,0 +1,548 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论明天可能的风险事件，如美联储议息会议和公司财报。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "明天有美联储议息会议和财报发布，可能带来风险。",
+      "有人认为可能加息，建议超短操作。",
+      "用户关注兆易创新等个股。"
+    ],
+    "mentioned_stocks": ["兆易创新", "Meta", "微软"]
+  },
+  {
+    "index": 2,
+    "summary": "老逼峰进入红利股，用户反应不一，担忧科技板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "老逼峰进红利可能利好科技股。",
+      "用户负面看待老逼峰行为，建议清仓。",
+      "量化交易可能受影响。"
+    ],
+    "mentioned_stocks": ["红利股"]
+  },
+  {
+    "index": 3,
+    "summary": "建议购买实体金条以应对经济危机，讨论货币风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "实体金条作为避险资产，但可能被抢。",
+      "经济面临货币危机风险，楼市股市下跌。",
+      "讨论移民或持有黄金的选项。"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 4,
+    "summary": "分享7月亏损教训，强调仓位控制和市场困难。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "需严格仓位控制以保命。",
+      "不要相信下跌中的小作文。",
+      "市场难做，散户成长快。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "胜宏科技港股破发，讨论是否属于CPO或PCB概念。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "胜宏是PCB不是CPO，可能买错股。",
+      "港股市场严格，外资谨慎。",
+      "中际旭创也可能破发。"
+    ],
+    "mentioned_stocks": ["胜宏科技", "中际旭创"]
+  },
+  {
+    "index": 6,
+    "summary": "询问定投红利基金推荐，回复提供多种选择。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "推荐中证红利、港股红利ETF等。",
+      "考虑股息率和流动性。",
+      "港股红利ETF股息高但扣税。"
+    ],
+    "mentioned_stocks": ["中证红利100", "港股红利ETF", "南方红利低波50", "中证红利低波H30269", "东方红证931446", "标普红利低波HPCLLHCP", "515450", "东证红利低波", "港股通高息精选"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论是否抄底赵姨（某股票），风险与机会并存。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "需等到价格低点再抄底。",
+      "今天抄底是勇士，搏反弹成功率高。",
+      "风险存在，但位置有吸引力。"
+    ],
+    "mentioned_stocks": ["赵姨", "海力士"]
+  },
+  {
+    "index": 8,
+    "summary": "韩国市场杠杆爆仓严重，下跌失控可能引发连锁反应。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "杠杆爆仓导致下跌螺旋。",
+      "可能失控爆炸，影响全球市场。",
+      "杀杠杆力度过猛。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "预测收盘后有人晒抄底，但市场可能未到底。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "抄底可能在半山腰，需谨慎。",
+      "月线阴线预示熊市，等8月。",
+      "紫光投资需持有三天以上。"
+    ],
+    "mentioned_stocks": ["紫光"]
+  },
+  {
+    "index": 10,
+    "summary": "长鑫存储表现强劲，被看好为护盘主力。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "长鑫是国家队护盘工具。",
+      "市值可能被低估，强于海力士。",
+      "流通盘小，拉升容易。"
+    ],
+    "mentioned_stocks": ["长鑫存储", "海力士"]
+  },
+  {
+    "index": 11,
+    "summary": "探讨红利股见顶后科技股是否轮动回归。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能回到板块轮动，无独大。",
+      "科技股看美韩，独立行情难。",
+      "红利到顶可能进入熊市。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "用户梭哈首旅酒店，基于政策预期和携程被罚。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "消费股可能起来，政策预期利好。",
+      "携程被罚利好酒店板块。",
+      "首旅酒店是买点，博反弹。"
+    ],
+    "mentioned_stocks": ["首旅酒店", "携程"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论大哥二哥股票表现，认为不如长鑫强劲。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大哥二哥表现弱，跑输大盘。",
+      "长鑫是真正大哥，护盘成功。",
+      "需看明天表现，持有需谨慎。"
+    ],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 14,
+    "summary": "推荐科创半导体ETF平替，分析流动性和资金流向。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "588170流动性好但资金流出。",
+      "588710资金流入，费率相同。",
+      "两者跟踪同一指数，聚焦半导体上游。"
+    ],
+    "mentioned_stocks": ["588170", "588710"]
+  },
+  {
+    "index": 15,
+    "summary": "发现UP主看空长鑫但持股牧原，讨论其观点。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫可能被拉高后指数接盘。",
+      "牧原上涨，多头较多。",
+      "行业竞争激烈，长鑫破发不现实。"
+    ],
+    "mentioned_stocks": ["牧原", "长鑫"]
+  },
+  {
+    "index": 16,
+    "summary": "询问科技反攻感觉，用户反应谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技可能反攻，但需确认。",
+      "国家队入场，量化机器人操作。",
+      "韩国市场影响大，反攻不确定。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "用户取钱买电脑，退出股市享受生活。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "炒股亏损不如消费，买电脑放松。",
+      "电脑贵但比亏损好。",
+      "建议从股市抽身。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "用户分享实盘策略，主打低吸核心股票。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "有稳定模式但需控制手。",
+      "低吸策略，偶尔埋伏补涨。",
+      "不要跟车，风险自负。"
+    ],
+    "mentioned_stocks": ["哈药"]
+  },
+  {
+    "index": 19,
+    "summary": "预期周四下跌，月底市场压力大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "周四月底可能砸坑埋人。",
+      "科技股建议空仓两天。",
+      "撑过7月，8月可能反攻。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "预测今天大涨，鼓励用户猛干。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "预计5000+上涨，全面大涨。",
+      "有梦想，大奇迹日。",
+      "资金抄底，向上拉红。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "建议坚守科技股，长期持有等待回本。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "AI是大趋势，龙头股能回本。",
+      "华虹、中芯国际不用等10年。",
+      "时间成本高，但耐心持有。"
+    ],
+    "mentioned_stocks": ["华虹", "中芯国际", "中际旭创", "江波龙", "工业富联"]
+  },
+  {
+    "index": 22,
+    "summary": "沪电市值超过胜宏，可能订单流失。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "沪电市值更高，胜宏跌法异常。",
+      "胜宏订单可能被友商分走。"
+    ],
+    "mentioned_stocks": ["沪电", "胜宏"]
+  },
+  {
+    "index": 23,
+    "summary": "分享投资心得，强调不执着涨跌预判。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "散户需灵活，不预判行情。",
+      "学习老杨心态，等待机会。",
+      "投资哲学分享，避免情绪化。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "韩国市场下跌止不住，杠杆连锁爆仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "杠杆连锁爆炸，止不住下跌。",
+      "可能引发金融危机，与大A会师。",
+      "金融史奇观，失控状态。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "高频做T反而亏损，悲伤故事。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "做T策略失败，疯狂亏损。",
+      "装死不动亏更多，无奈。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论长鑫是否唯一值得买的科技股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫硬挺，其他科技股死。",
+      "不买老登没去处，长鑫流通盘小。",
+      "长鑫可能贵了，后面跌。"
+    ],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论药明中报预期，关键点是1260H。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中报可能已price in，1260H是关键。",
+      "药明在底部区间，长期博弈。",
+      "轻仓做T，降低风险。"
+    ],
+    "mentioned_stocks": ["药明", "IQVIA", "查尔斯河", "三星生物"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论李大霄的市场观点，争议性大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "李大霄6月提示风险，被嘲讽。",
+      "黑五类观点有道理，但造神运动。",
+      "能理解李大霄的人少。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "月底临近，回忆上月表现，担忧市场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "7月人均亏损，五穷六绝七翻身失败。",
+      "收K线到历年大顶连线。",
+      "市场疲软，情绪悲观。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "长鑫将进科创50，可能基民接盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "长鑫拉高后基民接盘，受伤。",
+      "基金提前配置，苦了基民。",
+      "均摊亏损，指数基金接盘。"
+    ],
+    "mentioned_stocks": ["长鑫", "科创50"]
+  },
+  {
+    "index": 31,
+    "summary": "A股量化交易似乎跟随韩国市场。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "韩国收盘后纳指期货拉，可能相关。",
+      "量化可能受韩国因子影响。",
+      "A股缩量，参照目标缺失。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "A股AI硬件受光周期影响，国产链分离失败。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "AI硬件在光周期内，所有题材相关。",
+      "国产设备材料尝试分离失败。",
+      "看通信ETF发展。"
+    ],
+    "mentioned_stocks": ["通信ETF"]
+  },
+  {
+    "index": 33,
+    "summary": "建议红利股投资者逐步减仓，保护利润。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "红利股应减仓，汲取科技股教训。",
+      "越涨越卖，降低持股成本。",
+      "分红是真的，长期持有。"
+    ],
+    "mentioned_stocks": ["水电", "美的", "移动", "长江电力", "川投能源"]
+  },
+  {
+    "index": 34,
+    "summary": "用户卖出后股票上涨，表达 frustration。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "卖出后启动，可能拉高出货。",
+      "最大空头卖出后股价上涨。",
+      "经历类似，情绪崩溃。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "观察到国家队入场护盘，但效果有限。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国家队托市，但只托不举。",
+      "跟随韩国市场，效果差。",
+      "第二天必跑，流动性注入。"
+    ],
+    "mentioned_stocks": ["科创50ETF", "创业板ETF", "中证1000ETF"]
+  },
+  {
+    "index": 36,
+    "summary": "黄金价格异动，等待美联储会议。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金看美联储议息，加息难。",
+      "逢低加仓，跟随白宫股神。",
+      "白银上涨，黄金拉升慢。"
+    ],
+    "mentioned_stocks": ["黄金", "白银"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论消费市场是否复苏，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "消费股超跌反弹，基本面未好转。",
+      "政策预期可能推动，但现实一般。",
+      "个人消费谨慎，必需品优先。"
+    ],
+    "mentioned_stocks": ["恒科", "小米"]
+  },
+  {
+    "index": 38,
+    "summary": "科技股表现矛盾，部分大涨部分大跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "逻辑错乱，市场魅力。",
+      "中船特气硬逻辑，机构抱团。",
+      "其他科技股如兆易创新被抛弃。"
+    ],
+    "mentioned_stocks": ["中船特气", "托伦斯", "长鑫", "兆易创新"]
+  },
+  {
+    "index": 39,
+    "summary": "分享红利股投资标准和分析。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "低估值、高分红、永续行业。",
+      "优秀股票基准：ROE>15%，PE<15。",
+      "看好水电和煤电一体化。"
+    ],
+    "mentioned_stocks": ["长江电力", "川投能源"]
+  },
+  {
+    "index": 40,
+    "summary": "长鑫可能抽干科创50流动性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "长鑫吸流动性，科创50起不来。",
+      "纳入指数后基民高位接盘。",
+      "科创50不如直接买长鑫。"
+    ],
+    "mentioned_stocks": ["长鑫", "科创50"]
+  },
+  {
+    "index": 41,
+    "summary": "宜安科技可能启动，基于技术面。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "站上20天线，爆量强势。",
+      "抄底时机，但需等回调。",
+      "苹果铰链逻辑，但股价波动。"
+    ],
+    "mentioned_stocks": ["宜安科技"]
+  },
+  {
+    "index": 42,
+    "summary": "分享红利股投资组合和策略。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "介绍红利公司，不含银行。",
+      "选择策略：低估值、好管理层。",
+      "投资建议，谨慎选择。"
+    ],
+    "mentioned_stocks": ["君正", "云天化"]
+  },
+  {
+    "index": 43,
+    "summary": "讽刺A股量化交易严格跟随韩国K线。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股跟随韩国因子，行为乖巧。",
+      "建议韩国闭市后拉盘证明独立。",
+      "量化交易机械跟随。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "黄金上涨但用户仍亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黄金涨了但亏5万，悲伤。"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 45,
+    "summary": "建议科技股投资谨慎，等待消息消化。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "本月消息多，需时间消化。",
+      "企稳再进，定投更好。",
+      "存储股拉红，但风险高。"
+    ],
+    "mentioned_stocks": ["存储"]
+  },
+  {
+    "index": 46,
+    "summary": "询问长鑫HBM技术对应的主板股票。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "长鑫自己做HBM，无对应主板。",
+      "不要买杂毛，如通富微电。",
+      "深科技可能相关，但需确认。"
+    ],
+    "mentioned_stocks": ["长鑫", "通富微电", "深科技"]
+  },
+  {
+    "index": 47,
+    "summary": "讨论黄金价格是否诱多，关注美联储。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金已计价加息，不加息难涨。",
+      "加息可能涨，但风险高。",
+      "全仓黄金想卖，犹豫。"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 48,
+    "summary": "用户开盘梭哈长鑫，高风险操作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "开盘梭哈长鑫，成本高。",
+      "心脏大，钱该赚。",
+      "明天开盘知盈亏，新股风险。"
+    ],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 49,
+    "summary": "海力士大跌，用户情绪崩溃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "海力士下跌10%，扛不住。",
+      "央行加息消息叠加利空。",
+      "杠杆ETF加速死亡，恐慌扩散。"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 50,
+    "summary": "用户在科技和红利股两头亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技完蛋后买老登股也亏。",
+      "国家队收割，看美日韩。",
+      "两头挨打，情绪崩溃。"
+    ],
+    "mentioned_stocks": ["海力士", "老登股"]
+  }
+]
