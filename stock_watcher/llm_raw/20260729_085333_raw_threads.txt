@@ -1,0 +1,541 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论台湾为何没有强大的存储芯片公司，提到南亚科等企业相比台积电等较弱。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "台湾存储芯片公司不强，与科技巨头差距大",
+      "不是每个国家或地区都需要搞全产业链",
+      "地区限制可能影响产业发展"
+    ],
+    "mentioned_stocks": ["南亚科", "台积电", "联发科", "联电", "日月光"]
+  },
+  {
+    "index": 2,
+    "summary": "用户实亏7000元，询问是否还有救，讨论心态和应对策略。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损7000元较少，可通过送外卖等弥补",
+      "心态重要，抗风险不足者别玩股市",
+      "建议止损或灵活操作"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论市场是否达到情绪冰点，观点分歧，有人认为未到。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "有人提冰点说明冰点没到",
+      "需更多下跌或减少讨论才到冰点",
+      "当前市场情绪仍较热闹"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "用户分享定投策略，测试模型，提醒黄金坑，计划持续投资。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "定投策略，接受震荡，分批投资",
+      "宽基和细分板块定投，如半导体设备",
+      "黄金坑持续15个交易日"
+    ],
+    "mentioned_stocks": ["中证2000ETF", "中证1000", "创业板指数", "半导体设备材料", "CPO", "PCB"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论短视频平台官方社群吹票现象，提供判断条件。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "吹票视频无持续跟踪、挂靠投顾、一惊一乍",
+      "官方社群存在吹票行为",
+      "记录唱多资金股票加入自选"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "外围市场好，期待A股绝地反击，但有人怀疑空头压制。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "外围市场涨，A股应修复",
+      "空头可能压制，需观察9点后走势",
+      "建议灵活操作，低开卖等右侧机会"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论市场高开后跳水，海力士不及预期导致失望。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高开跳水，海力士不及预期",
+      "棒子走势弱，毫无抵抗",
+      "期望反弹但可能失败"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 8,
+    "summary": "认为科技企业上市前牛市未结束，下跌是调整和博弈。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "科技企业上市需求支撑牛市",
+      "下跌是上涨终点前的调整",
+      "AI可能带来工业革命机会"
+    ],
+    "mentioned_stocks": ["长江存储", "deepseek", "宇树科技", "上海微电子", "荣耀终端", "月之暗面"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论论坛是否信息茧房，重要信息被忽略，按摩不讲逻辑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "重要信息被忽略，缺乏讨论热度",
+      "按摩帖子不讲逻辑只讲信仰",
+      "市场炒作无业绩股，忽略基本面"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "开盘前市场波动，韩国股市先动，讨论A股开盘走势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "开盘前韩国股市波动剧烈",
+      "期望反弹但走势熟悉如冲高回落",
+      "市场紧张，等待开盘"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "海力士利润增长惊人但股价不及预期，讨论原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利润增长近6倍但不及市场预期",
+      "市场预期过高导致失望",
+      "涨价可持续性存疑"
+    ],
+    "mentioned_stocks": ["海力士", "三星"]
+  },
+  {
+    "index": 12,
+    "summary": "建议关注健康而非股市，早睡早起锻炼，转移注意力。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "早睡早起，精神富足应对市场压力",
+      "市场残忍，活下去就有机会",
+      "通过健身、读书转移注意力"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "中际旭创回购40亿但用于股权激励不注销，被批评套现。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "回购不注销是高管套现",
+      "股权激励计划可能损害股东利益",
+      "港股上市与回购矛盾"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 14,
+    "summary": "中际旭创电话会辟谣小作文，强调需求旺盛和订单充足。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "辟谣1.6T价格恶性竞争，需求旺盛",
+      "客户订单已下，交付稀缺",
+      "但市场可能已熊市化，作用有限"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 15,
+    "summary": "分享投资心态，不执着预判涨跌，等待行情。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "散户应不执着预判，碾压市场需耐心",
+      "等待下一轮行情，不猜涨跌",
+      "锤哥更新或分享心法鼓励投资"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "为科技股按摩，建议抄底等待反抽，但市场拥挤度高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股连续下跌后可能有反抽行情",
+      "但市场拥挤度高，反抽可能弱",
+      "止损重要，别盲目听按摩"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "亨通股票下跌严重，讨论应对策略，行业困难。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亨通已跌70%，明天可能地板",
+      "光纤行业困难，康宁也跌",
+      "建议割肉或越跌越买"
+    ],
+    "mentioned_stocks": ["亨通", "康宁"]
+  },
+  {
+    "index": 18,
+    "summary": "认为市场情绪未达冰点，仍有讨论回本，需更惨才到底。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "仍有帖子讨论回本，说明未到底",
+      "需更惨如删软件才到情绪冰点",
+      "当前只是利润回撤，亏本金才不同"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "盘后存储股反弹，但A股可能不跟，市场走势困惑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "盘后反弹可能流动性小，无实际意义",
+      "期望A股反弹，但可能不现实",
+      "市场走势不对，涨跌矛盾"
+    ],
+    "mentioned_stocks": ["闪迪", "美光", "海力士"]
+  },
+  {
+    "index": 20,
+    "summary": "分享技术分析话题，讨论市场缩量，关注减少。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "技术分析分享，每日总结",
+      "市场真缩量，关注度低"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "警告韩国股市下跌无止境，可能影响美股半导体，AI泡沫或爆。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国散户杠杆高，下跌没完没了",
+      "美股半导体可能跟跌",
+      "AI泡沫可能爆，流动性问题"
+    ],
+    "mentioned_stocks": ["海力士", "三星", "SK海力士"]
+  },
+  {
+    "index": 22,
+    "summary": "批评基金经理不稳健，调仓激进，从蓝筹到科技小票。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "基金经理不稳健，梭哈科技小票",
+      "基民接盘，花的不是自己钱",
+      "可能老鼠仓或被架空"
+    ],
+    "mentioned_stocks": ["宁德", "紫金", "平安", "茅台", "万华", "中际旭创", "长川科技", "寒武纪", "深南电路", "新易盛", "江海股份"]
+  },
+  {
+    "index": 23,
+    "summary": "比较韩国指数和兆易创新跌幅，质疑兆易业绩和估值。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "兆易跌60%，业绩可能假",
+      "龙头区别，海力士也腰斩",
+      "高PE不合理，边角料公司"
+    ],
+    "mentioned_stocks": ["兆易创新", "海力士", "三星", "长鑫"]
+  },
+  {
+    "index": 24,
+    "summary": "批评机构通过预期管理收割散户，股价涨跌由机构决定。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "机构制造不切实际预期，收割散户",
+      "股价由大资金决定，预期是套路",
+      "散户与机构是对手，需预判"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "韩国股市开盘红，但可能不持久，A股可能不跟涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国股市红开，期望坚持到9点",
+      "A股只有跟跌没有跟涨",
+      "做做样子，需观察空头上线"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "娱乐预测投资方向，询问走军工、国防还是科技。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "讨论军工、国防或科技投资方向",
+      "无实质内容，娱乐性质"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "SK海力士财报不及预期但高开，可能利空出尽转利好。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "不及预期但高开，可能利空出尽",
+      "财报已被市场计价",
+      "市场反应奇怪，需观察开盘"
+    ],
+    "mentioned_stocks": ["SK海力士"]
+  },
+  {
+    "index": 28,
+    "summary": "投资亏损一年收入，反思错误，建议止损离场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损25%本金，犯交易错误",
+      "追涨杀跌、频繁交易导致亏损",
+      "建议止损，大A不缺机会"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "期望抄底纳指，但市场不确定，可能高开低走。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指直线，开盘低想抄底",
+      "但可能高开低走，情绪主导",
+      "满仓猛干，冒险操作"
+    ],
+    "mentioned_stocks": ["纳指", "大A"]
+  },
+  {
+    "index": 30,
+    "summary": "认为利空落地转利好，美联储加息预期已计价。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "利空出尽转利好，加息无所谓",
+      "加息预期已提前跌完",
+      "但真加息可能爆破AI硬件"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "询问高开时是否卖出，情绪主导市场。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能高开，但不确定",
+      "情绪主导，高开低走或低开低走",
+      "尾盘可能收红"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "认为今天可抄底，但风险大。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "今天应该可以抄底",
+      "刀口舔血，风险高"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "海力士不及预期可能利好AI，存储利润太高不利于发展。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "存储利润高不利于AI，不及预期反活"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论科技股都是臭鱼烂虾，推荐其他板块如白酒。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股全都是臭鱼烂虾",
+      "推荐酱香科技、银行等传统板块",
+      "应分散投资"
+    ],
+    "mentioned_stocks": ["赵姨（兆易创新）", "酱香科技（茅台）", "建行", "海狗"]
+  },
+  {
+    "index": 35,
+    "summary": "预测存储已见底，建议买入海力士ETF。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "存储已见大底，回测数据支持",
+      "是时候入手2x海力士ETF"
+    ],
+    "mentioned_stocks": ["海力士ETF"]
+  },
+  {
+    "index": 36,
+    "summary": "质疑韩国股市提前泄露财报，前期猛杀可能因此。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "前期猛杀可能因提前知道财报",
+      "利空出尽是利好"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "海力士财报显示AI存储王者，利润增长高但不及预期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利润增长557%但不及预期",
+      "可能牺牲短期利益换长期发展",
+      "韩股盘前转涨，有格局"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 38,
+    "summary": "美股走势对A股科技不利，道琼斯涨但AI硬件跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "道琼斯涨但AI硬件跌，对科技不利",
+      "其他科技板块可能好，需看费半",
+      "希望AI硬件价格降利于产业"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "海力士财报不及预期，盘后下跌，存储可能继续跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "海力士利润不及预期，盘后直线下跌",
+      "存储可能继续下跌",
+      "利空未计价，小韩今天废"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论美联储加息可能性对黄金影响，但可能不真加。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "吹风加息，但可能不真加",
+      "黄金已计价加息，利空出尽",
+      "野狗自媒体不可信"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 41,
+    "summary": "详细财报，利润增长高但不及预期，市场麻木。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利润增长557%但不及预期64万亿韩元",
+      "市场麻木，不及预期要跌，超预期也跌",
+      "HBM占比较高影响常规存储涨价"
+    ],
+    "mentioned_stocks": ["SK海力士", "三星", "美光"]
+  },
+  {
+    "index": 42,
+    "summary": "同花顺软件提示跌停为中阴线，批评软件弱智。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "软件管跌停叫中阴线，弱智",
+      "与大哥比算中阴线"
+    ],
+    "mentioned_stocks": ["东山精密", "赵姨（兆易创新）"]
+  },
+  {
+    "index": 43,
+    "summary": "纳指翻红，但AI硬件仍跌，大盘可能稳。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指翻红，大盘就稳了",
+      "但AI硬件仍一坨",
+      "费半翻红才重要"
+    ],
+    "mentioned_stocks": ["纳指", "海力士"]
+  },
+  {
+    "index": 44,
+    "summary": "分析海力士不及预期原因，良率爬坡慢等。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "良率爬坡慢，出货不及预期",
+      "市场预期过高",
+      "HBM占比高，未能充分受益常规涨价"
+    ],
+    "mentioned_stocks": ["海力士", "七姐妹", "达子"]
+  },
+  {
+    "index": 45,
+    "summary": "质疑AI是否骗局，段子老套，会计问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "AI可能骗局，段子老套",
+      "会计上收入实现有问题"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "多重利空：战争升级、大票暴雷、加息可能，可能砸出底。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "三雷连爆可能砸出抄底点",
+      "市场已计价加息",
+      "但沃什不敢加息"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 47,
+    "summary": "根据反人性原则，建议抄底，打部分仓位。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "反人性抄底，慢就是快",
+      "打1/3仓位，尾盘接半导体等"
+    ],
+    "mentioned_stocks": ["半导设备", "恒生科技"]
+  },
+  {
+    "index": 48,
+    "summary": "海力士财报不管好坏都可能跌，但实际HBM产能倾向AI。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利润超预期或不及预期都跌",
+      "实际HBM产能倾向AI发展",
+      "但盘后又v回来了点"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 49,
+    "summary": "中韩美股市轮番下跌，源头是韩国，影响全球。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "源头是韩国，影响全球股市",
+      "股市金丝雀效应，最先预警",
+      "美股有其他板块承接"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "后悔没买白酒和绿电，它们最近涨好。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "白酒和绿电最近涨不错",
+      "应该相信自己买点"
+    ],
+    "mentioned_stocks": ["白酒", "绿电"]
+  }
+]
