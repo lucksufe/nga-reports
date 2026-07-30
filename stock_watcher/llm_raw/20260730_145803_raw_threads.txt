@@ -1,0 +1,338 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论不允许做空下砸盘如何赚钱，涉及散户和机构差异。",
+    "sentiment": "negative",
+    "key_opinions": ["散户不允许做空", "浮盈转实盈", "量化机构可能可以做空"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户对国家队救市表现打分，评价褒贬不一。",
+    "sentiment": "mixed",
+    "key_opinions": ["止住了恐慌盘", "0分评价", "套住了恐慌盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论科技强国背景下A股的长期机遇和投资建议。",
+    "sentiment": "positive",
+    "key_opinions": ["A股依托中国制造和科创浪潮", "自主创新奔涌向前", "建议买银行股"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 4,
+    "summary": "用户分享情绪，得到支持，讨论跌市中的同理心。",
+    "sentiment": "mixed",
+    "key_opinions": ["感谢支持", "跌市中不想发帖", "盈亏自负"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "质疑护盘行为，讨论护盘目的和后果。",
+    "sentiment": "negative",
+    "key_opinions": ["护盘为了面子工程", "防范急涨急跌", "护盘可能引发更多问题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "探讨科技股在大跌后新高所需的条件。",
+    "sentiment": "negative",
+    "key_opinions": ["需要革命性产出或变现模式", "持续现金流能力", "科技股需新逻辑"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论当前反弹是自救还是反转。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能是自救", "需要时间确认反转", "多次反弹后失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "观察市场情绪和投资者行为变化。",
+    "sentiment": "negative",
+    "key_opinions": ["投资者情绪低迷", "割肉比例上升", "老登股稳定"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "帖子内容敏感被编辑，回复警告。",
+    "sentiment": "negative",
+    "key_opinions": ["话题敏感不应讨论", "可能违规", "引用历史事件"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论会议消息对市场的影响和评价。",
+    "sentiment": "mixed",
+    "key_opinions": ["消息看起来急", "科技未提及", "消费被前置"],
+    "mentioned_stocks": ["消费", "科技"]
+  },
+  {
+    "index": 11,
+    "summary": "用户割肉后股价反弹，感到被玩弄。",
+    "sentiment": "negative",
+    "key_opinions": ["割肉后反弹", "被玩弄感", "可能捡筹码"],
+    "mentioned_stocks": ["利通电子", "兆易创新"]
+  },
+  {
+    "index": 12,
+    "summary": "劝告投资者趁反弹离场。",
+    "sentiment": "negative",
+    "key_opinions": ["赶紧跑", "回本难", "反弹是跑路机会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "质疑下午反弹是否为诱多。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能是诱多", "多次被骗", "等待确认"],
+    "mentioned_stocks": ["科技", "银行"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论招商银行股价表现和散户对比。",
+    "sentiment": "positive",
+    "key_opinions": ["银行股表现好", "跑赢散户", "股息投资策略"],
+    "mentioned_stocks": ["招商银行", "邮储银行", "长电"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论不能做空导致行情哀嚎。",
+    "sentiment": "negative",
+    "key_opinions": ["做空限制导致问题", "空仓是替代", "做空择时难"],
+    "mentioned_stocks": ["中大哥", "兆易"]
+  },
+  {
+    "index": 16,
+    "summary": "分享投资哲学，不执着预判。",
+    "sentiment": "positive",
+    "key_opinions": ["散户应不执涨跌", "复盘重要", "提供资料分享"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论重要日子A股常掉链子。",
+    "sentiment": "negative",
+    "key_opinions": ["重要日子股市常跌", "政策不及预期", "献礼思维"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论海狗股（可能指海皇）走势强劲。",
+    "sentiment": "positive",
+    "key_opinions": ["海狗走势无敌", "红利股表现好", "美的也强势"],
+    "mentioned_stocks": ["海狗", "美的"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论德明利反弹是否为曙光。",
+    "sentiment": "mixed",
+    "key_opinions": ["德明利暴力拉升", "情绪带动", "逻辑可能坏"],
+    "mentioned_stocks": ["德明利", "科技"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论美的股价强劲，纠结是否止盈。",
+    "sentiment": "mixed",
+    "key_opinions": ["美的走势强", "考虑止盈", "红利股投资策略"],
+    "mentioned_stocks": ["美的", "创业板"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论科技股A杀后是否有双头。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股不会有双头", "需要时间", "参考历史"],
+    "mentioned_stocks": ["科技", "新能源"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论尾盘下跌不装了。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘下跌", "守3800点", "反弹希望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "讨论下午救市否则会崩盘。",
+    "sentiment": "negative",
+    "key_opinions": ["需要救市", "跌破支撑会崩盘", "政府暗示不救市"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "用户分享多次亏损经历。",
+    "sentiment": "negative",
+    "key_opinions": ["多次亏损", "股市风险大", "建议远离股市"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "提醒市场仍绿，别过早乐观。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场仍绿", "需等确认", "诱多可能"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 26,
+    "summary": "亏损中寻求安慰。",
+    "sentiment": "negative",
+    "key_opinions": ["亏麻了", "需要按摩", "自己负责"],
+    "mentioned_stocks": ["光", "芯片"]
+  },
+  {
+    "index": 27,
+    "summary": "分享定投策略和黄金坑。",
+    "sentiment": "positive",
+    "key_opinions": ["小额定投", "黄金坑", "宽基和细分板块定投"],
+    "mentioned_stocks": ["中证1000", "中证2000", "创业板指", "半导体设备材料", "CPO", "PCB"]
+  },
+  {
+    "index": 28,
+    "summary": "对盘面感到frustration。",
+    "sentiment": "negative",
+    "key_opinions": ["盘面难玩", "跌停家数增加"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "分享德明利表情包。",
+    "sentiment": "mixed",
+    "key_opinions": ["德明利表情包", "请求其他表情包"],
+    "mentioned_stocks": ["德明利", "赵姨"]
+  },
+  {
+    "index": 30,
+    "summary": "抄底后希望溢价跑路。",
+    "sentiment": "mixed",
+    "key_opinions": ["抄底", "希望溢价", "跑路策略"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "汇总科技股中表现差的股票。",
+    "sentiment": "negative",
+    "key_opinions": ["东山精密是熊头", "兆易创新总熊头", "亨通更差"],
+    "mentioned_stocks": ["东山精密", "紫光股份", "雅克科技", "兆易创新", "亨通"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论科技反弹未影响老登股。",
+    "sentiment": "mixed",
+    "key_opinions": ["未虹吸老登股", "可能是套", "准备新低"],
+    "mentioned_stocks": ["科技", "老登股"]
+  },
+  {
+    "index": 33,
+    "summary": "对市场走势迷茫。",
+    "sentiment": "negative",
+    "key_opinions": ["仓位迷茫", "急跌急拉", "像赌单双"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论德明利被拉以保指数。",
+    "sentiment": "neutral",
+    "key_opinions": ["dml被拉保3800", "其他没戏", "国家队目的"],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论用德明利打窝拉科技的合理性。",
+    "sentiment": "mixed",
+    "key_opinions": ["拉动情绪重要", "释放流动性", "可能诱多"],
+    "mentioned_stocks": ["德明利", "立新", "NVDA"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论德明利涨停的微妙影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["涨停引导情绪反转", "存储板块V形反弹", "需看小票表现"],
+    "mentioned_stocks": ["德明利", "中大哥"]
+  },
+  {
+    "index": 37,
+    "summary": "对比美股投资者淡定心态。",
+    "sentiment": "negative",
+    "key_opinions": ["美股能涨回来", "A股科技含量低", "长期持有策略"],
+    "mentioned_stocks": ["美股", "纳指", "镁光", "苹果"]
+  },
+  {
+    "index": 38,
+    "summary": "引用动漫表达市场选择。",
+    "sentiment": "mixed",
+    "key_opinions": ["引用命运石之门", "总熊头独木难支"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论中芯华虹稳住反弹。",
+    "sentiment": "positive",
+    "key_opinions": ["中芯稳住", "长下影线", "可能企稳"],
+    "mentioned_stocks": ["中大哥", "德大哥"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论反弹有限，信心不足。",
+    "sentiment": "negative",
+    "key_opinions": ["报团拉龙头", "其他观望", "掩护出货可能"],
+    "mentioned_stocks": ["德明利", "风华", "易中天", "长鑫"]
+  },
+  {
+    "index": 41,
+    "summary": "再次讨论用德明利打窝。",
+    "sentiment": "mixed",
+    "key_opinions": ["高招带动情绪", "散户被钓", "中大哥更猛"],
+    "mentioned_stocks": ["德明利", "中大哥"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论反弹后跑路。",
+    "sentiment": "negative",
+    "key_opinions": ["拉起来就跑", "多次被骗", "落袋为安"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 43,
+    "summary": "提醒别过早乐观，等时间点。",
+    "sentiment": "negative",
+    "key_opinions": ["别半场开香槟", "量化上班", "可能砸盘"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 44,
+    "summary": "用户自责操作导致下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["买啥跌啥", "游资设局", "法让科技A回去"],
+    "mentioned_stocks": ["科技", "CPO", "科创50", "长鑫"]
+  },
+  {
+    "index": 45,
+    "summary": "清仓半导体，考虑基金投资。",
+    "sentiment": "negative",
+    "key_opinions": ["半导体亏惨", "交给基金经理", "基金不如指数"],
+    "mentioned_stocks": ["半导体", "基金"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论国家队救市是为释放流动性。",
+    "sentiment": "mixed",
+    "key_opinions": ["救市为释放流动性", "不是让你抄底", "3800死命令"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "希望缓慢上涨而非爆拉。",
+    "sentiment": "mixed",
+    "key_opinions": ["不要爆拉", "慢慢小碎步上", "健全上涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "亏损导致身体反应。",
+    "sentiment": "negative",
+    "key_opinions": ["两天跌10%", "浑身冒汗", "长飞光纤、利通电子可怕"],
+    "mentioned_stocks": ["长飞光纤", "利通电子", "德明利"]
+  }
+]
