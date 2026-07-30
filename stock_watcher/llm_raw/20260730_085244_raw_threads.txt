@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论股市突然下跌，涉及国家队干预和救市问题。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队干预不当", "只干预上涨不干预下跌", "市场有风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "分析美股下跌原因，聚焦美联储议息会议和加息预期。",
+    "sentiment": "mixed",
+    "key_opinions": ["美联储发言偏鹰导致市场下跌", "长期通胀担忧", "美债收益率新高"],
+    "mentioned_stocks": ["美股指数", "美债"]
+  },
+  {
+    "index": 3,
+    "summary": "新加坡指数上涨，其他市场下跌，讨论AI相关股票分化。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI相关股票涨跌分化", "其他国家市场与AI无关", "新加坡指数表现突出"],
+    "mentioned_stocks": ["新加坡指数", "加拿大指数", "印度孟买指数", "西班牙指数", "欧洲指数"]
+  },
+  {
+    "index": 4,
+    "summary": "批评韩国李卡卡导致市场过山车，散户受损。",
+    "sentiment": "negative",
+    "key_opinions": ["李卡卡唱多误导散户", "配合外资收割散户", "韩国监管问题"],
+    "mentioned_stocks": ["韩国市场", "杠杆ETF"]
+  },
+  {
+    "index": 5,
+    "summary": "预测《牛来》上线，涉及市场情绪和量化监控。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场有反弹预期", "量化监控下有人跟风", "下跌趋势中情绪谨慎"],
+    "mentioned_stocks": ["院线股"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论美联储不加息但发言偏鹰的策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["美联储预期管理", "不加息但达到加息效果", "沃什的方法论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "用户频繁切换老登股和科技股导致亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["追涨杀跌导致亏损", "仓位管理重要", "技术分析风险高"],
+    "mentioned_stocks": ["老登股", "科技股"]
+  },
+  {
+    "index": 8,
+    "summary": "韩国股市走势像心电图，波动剧烈。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市波动大", "杠杆交易风险高", "可能向下熔断"],
+    "mentioned_stocks": ["韩国指数", "海力士"]
+  },
+  {
+    "index": 9,
+    "summary": "上海地铁调价新闻，可能利好相关股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["地铁涨价可能增加收入", "利好中国中车", "地铁盈利困难"],
+    "mentioned_stocks": ["中国中车", "申通地铁"]
+  },
+  {
+    "index": 10,
+    "summary": "美股下跌但中国资产逆势上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["美股集体下跌", "中概股多数上涨", "新东方等涨超"],
+    "mentioned_stocks": ["美股指数", "新东方", "理想汽车"]
+  },
+  {
+    "index": 11,
+    "summary": "海力士股价下跌，讨论韩国市场状况。",
+    "sentiment": "negative",
+    "key_opinions": ["海力士下跌严重", "韩国无救市措施", "估值与长鑫比较"],
+    "mentioned_stocks": ["海力士", "长鑫"]
+  },
+  {
+    "index": 12,
+    "summary": "股票跌33%，寻求回本建议。",
+    "sentiment": "negative",
+    "key_opinions": ["建议止损", "投资红利低波ETF", "长期持有"],
+    "mentioned_stocks": ["红利低波ETF", "宽基ETF"]
+  },
+  {
+    "index": 13,
+    "summary": "韩国股市可能向下熔断。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市下跌", "可能熔断", "市场担忧"],
+    "mentioned_stocks": ["韩国指数"]
+  },
+  {
+    "index": 14,
+    "summary": "韩股螺旋下跌，让人不适。",
+    "sentiment": "negative",
+    "key_opinions": ["螺旋下跌风险", "远离科技股", "市场波动大"],
+    "mentioned_stocks": ["韩股", "纳斯达克"]
+  },
+  {
+    "index": 15,
+    "summary": "韩国股市像被索罗斯做空香港的感觉。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国金融被外资做空", "会议无效", "担忧掏空"],
+    "mentioned_stocks": ["韩股"]
+  },
+  {
+    "index": 16,
+    "summary": "韩股拉升，问科技会否反攻。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩股拉升", "科技股可能反攻", "海力士表现不佳"],
+    "mentioned_stocks": ["韩国指数", "海力士"]
+  },
+  {
+    "index": 17,
+    "summary": "微软延长数据中心折旧年限，讨论会计调整。",
+    "sentiment": "mixed",
+    "key_opinions": ["折旧年限调整影响资本开支", "会计口径变化", "华为卡寿命讨论"],
+    "mentioned_stocks": ["微软", "华为"]
+  },
+  {
+    "index": 18,
+    "summary": "解读美联储主席沃什发言。",
+    "sentiment": "mixed",
+    "key_opinions": ["沃什发言含糊", "市场表现影响决策", "预期管理复杂"],
+    "mentioned_stocks": ["美股", "存储股"]
+  },
+  {
+    "index": 19,
+    "summary": "做T触发交易所预警，涉及频繁交易。",
+    "sentiment": "mixed",
+    "key_opinions": ["频繁交易引发预警", "券商客户管理", "做T策略风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "美股科技股下跌，讨论原因。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股下跌", "巴菲特观点", "美联储加息影响"],
+    "mentioned_stocks": ["海力士", "谷歌"]
+  },
+  {
+    "index": 21,
+    "summary": "AI硬件可能不再跌但也不涨，进入调整期。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI硬调整期", "控温措施影响", "现实追上来需要时间"],
+    "mentioned_stocks": ["AI硬相关股票"]
+  },
+  {
+    "index": 22,
+    "summary": "质疑马斯克和黄仁勋是骗子。",
+    "sentiment": "negative",
+    "key_opinions": ["SpaceX和NVIDIA被质疑", "股市下跌归因", "时间证明"],
+    "mentioned_stocks": ["SpaceX", "NVIDIA"]
+  },
+  {
+    "index": 23,
+    "summary": "日韩翻红，科技可能反攻。",
+    "sentiment": "mixed",
+    "key_opinions": ["日韩翻红", "科技反攻可能", "全球空头影响"],
+    "mentioned_stocks": ["日韩指数", "科技股"]
+  },
+  {
+    "index": 24,
+    "summary": "基金7月后未跟跌，分析其行为。",
+    "sentiment": "mixed",
+    "key_opinions": ["基金经理可能调仓", "可能砸盘", "灵活配置"],
+    "mentioned_stocks": ["主动型基金", "科技股"]
+  },
+  {
+    "index": 25,
+    "summary": "抱怨加息预期落空，已割肉空仓。",
+    "sentiment": "negative",
+    "key_opinions": ["加息预期未实现", "市场提前计价", "预期管理误导"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "美股议息会议后拉升，市场反应快。",
+    "sentiment": "positive",
+    "key_opinions": ["美联储不加息", "市场快速拉升", "量化市场成熟"],
+    "mentioned_stocks": ["美股"]
+  },
+  {
+    "index": 27,
+    "summary": "利空走尽，曙光来临。",
+    "sentiment": "positive",
+    "key_opinions": ["利空出尽", "外部因素落地", "财报待看"],
+    "mentioned_stocks": ["AI硬相关股票"]
+  },
+  {
+    "index": 28,
+    "summary": "微软资本开支未调整，是会计口径变化。",
+    "sentiment": "mixed",
+    "key_opinions": ["资本开支未减", "AI硬影响有限", "微软财报验证"],
+    "mentioned_stocks": ["微软", "NVIDIA"]
+  },
+  {
+    "index": 29,
+    "summary": "证券时报称产业链韧性是A股护城河。",
+    "sentiment": "positive",
+    "key_opinions": ["A股受外部影响小", "产业链自主可控", "护城河坚固"],
+    "mentioned_stocks": ["A股", "光刻机相关股"]
+  },
+  {
+    "index": 30,
+    "summary": "大胆开NVIDIA空单，风险高。",
+    "sentiment": "negative",
+    "key_opinions": ["做空NVIDIA", "需黑天鹅事件", "风险极大"],
+    "mentioned_stocks": ["NVIDIA", "QQQ"]
+  },
+  {
+    "index": 31,
+    "summary": "美股鬼故事讲完了吗，有新预期。",
+    "sentiment": "mixed",
+    "key_opinions": ["利空可能出尽", "新鬼故事加息预期", "市场不确定性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "小猫实盘分享，晚些再写。",
+    "sentiment": "neutral",
+    "key_opinions": ["分享实盘", "内容待更新"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "美股夜盘涨开盘跌，流动性问题。",
+    "sentiment": "negative",
+    "key_opinions": ["流动性折价", "夜盘参考有限", "恐慌盘多"],
+    "mentioned_stocks": ["美股", "油价"]
+  },
+  {
+    "index": 34,
+    "summary": "港股杠杆ETF改为动态杠杆ETF。",
+    "sentiment": "mixed",
+    "key_opinions": ["杠杆ETF调整", "杠杆比例披露", "政策变化"],
+    "mentioned_stocks": ["港股杠杆ETF"]
+  },
+  {
+    "index": 35,
+    "summary": "质疑纳斯达克巨头业绩保密性。",
+    "sentiment": "negative",
+    "key_opinions": ["业绩未泄露", "国内公司类似", "保密性质疑"],
+    "mentioned_stocks": ["微软", "英维克"]
+  },
+  {
+    "index": 36,
+    "summary": "老登股回本，但操作不佳。",
+    "sentiment": "positive",
+    "key_opinions": ["回本成功", "错过买点", "波动小"],
+    "mentioned_stocks": ["老登股"]
+  },
+  {
+    "index": 37,
+    "summary": "三星电子业绩超预期，股价可能反应。",
+    "sentiment": "mixed",
+    "key_opinions": ["业绩超预期", "可能跌停", "财报好坏影响股价"],
+    "mentioned_stocks": ["三星电子", "海力士"]
+  },
+  {
+    "index": 38,
+    "summary": "微软云收入来自非前沿模型公司。",
+    "sentiment": "positive",
+    "key_opinions": ["微软财报超预期", "AI模型越多算力需求越大", "正向循环"],
+    "mentioned_stocks": ["微软", "OpenAI"]
+  },
+  {
+    "index": 39,
+    "summary": "OpenAI年化收入超过二季度总和。",
+    "sentiment": "positive",
+    "key_opinions": ["OpenAI收入增长", "年化收入指标", "可能夸大宣传"],
+    "mentioned_stocks": ["OpenAI"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论李大霄的股评预测。",
+    "sentiment": "mixed",
+    "key_opinions": ["李大霄提示风险", "造神运动", "认知门槛"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "黄金价格上涨，建议关注。",
+    "sentiment": "positive",
+    "key_opinions": ["黄金回升", "黄金股涨", "有色主升"],
+    "mentioned_stocks": ["黄金", "有色股"]
+  },
+  {
+    "index": 42,
+    "summary": "兆易主力净流入但股价深水。",
+    "sentiment": "negative",
+    "key_opinions": ["主力净流入但股价跌", "指标无效", "托单必跌"],
+    "mentioned_stocks": ["兆易"]
+  },
+  {
+    "index": 43,
+    "summary": "全部清仓，股市影响生活。",
+    "sentiment": "negative",
+    "key_opinions": ["清仓离场", "影响生活", "本金还在"],
+    "mentioned_stocks": ["紫光", "某唐远见基金"]
+  },
+  {
+    "index": 44,
+    "summary": "微软股价爆拉原因。",
+    "sentiment": "positive",
+    "key_opinions": ["财报超预期", "资本开支调整", "AI硬同步反弹"],
+    "mentioned_stocks": ["微软", "AI硬相关股票"]
+  },
+  {
+    "index": 45,
+    "summary": "微软砍资本支出，澄清为会计口径变化。",
+    "sentiment": "mixed",
+    "key_opinions": ["资本支出未砍", "会计口径调整", "AI硬影响"],
+    "mentioned_stocks": ["微软"]
+  },
+  {
+    "index": 46,
+    "summary": "科技股利好无效，利空有效。",
+    "sentiment": "negative",
+    "key_opinions": ["资金获利了结", "做空控制盘面", "AI瑕疵被放大"],
+    "mentioned_stocks": ["NVIDIA", "存储股"]
+  },
+  {
+    "index": 47,
+    "summary": "韩国救市会议结论，措施不足。",
+    "sentiment": "negative",
+    "key_opinions": ["限制杠杆ETF", "无平准基金", "散户限制"],
+    "mentioned_stocks": ["韩国市场", "杠杆ETF"]
+  },
+  {
+    "index": 48,
+    "summary": "富时中国50指数上涨一个月。",
+    "sentiment": "positive",
+    "key_opinions": ["富时中国50涨", "个股表现差", "指数权重股带动"],
+    "mentioned_stocks": ["富时中国50指数"]
+  },
+  {
+    "index": 49,
+    "summary": "长鑫科技无龙虎榜，疑问。",
+    "sentiment": "mixed",
+    "key_opinions": ["新股无龙虎榜", "科创规则", "可能有黑幕"],
+    "mentioned_stocks": ["长鑫科技"]
+  },
+  {
+    "index": 50,
+    "summary": "微软盘后涨8%，但美股下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["美联储发言导致下跌", "预期管理", "微软财报强"],
+    "mentioned_stocks": ["微软", "美股"]
+  }
+]
