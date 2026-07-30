@@ -1,0 +1,354 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "讨论sai是否清仓离场，回复暗示当前跌幅异常。",
+        "sentiment": "negative",
+        "key_opinions": ["sai可能跑了。", "这次回撤已非正常。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 2,
+        "summary": "讨论创业板创下单月历史最大跌幅，超越2016年熔断时期。",
+        "sentiment": "negative",
+        "key_opinions": ["创业板7月跌幅26.78%创历史记录。", "市场持续见证历史，引发感慨。", "与2016年熔断和2015年股灾对比。"],
+        "mentioned_stocks": ["创业板"]
+    },
+    {
+        "index": 3,
+        "summary": "分析知名投资者sai的操作和心态变化，推测其卸杠杆但未清仓。",
+        "sentiment": "mixed",
+        "key_opinions": ["sai可能卸了杠杆而非清仓。", "心态已从大户逐渐散户化，受锚定效应影响。", "盈亏同源，应自行负责。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 4,
+        "summary": "讨论白酒、中药、地产与科技板块的表现和投资价值。",
+        "sentiment": "mixed",
+        "key_opinions": ["科技股表现不佳，传统行业也非优质。", "应灵活操作，避免与股票“信仰”过不去。", "股市轮动，板块间存在跷跷板效应。"],
+        "mentioned_stocks": ["白酒", "中药", "地产", "科技"]
+    },
+    {
+        "index": 5,
+        "summary": "反驳科技股必须上涨的观点，讨论市场风格切换。",
+        "sentiment": "mixed",
+        "key_opinions": ["买股票不应执着于单一板块。", "指数受科技绑架，风格可能切换。", "科技与其他板块存在跷跷板关系。"],
+        "mentioned_stocks": ["指数", "老登股"]
+    },
+    {
+        "index": 6,
+        "summary": "讨论医药板块（特别是药明康德）下跌及板块联动风险。",
+        "sentiment": "negative",
+        "key_opinions": ["药明康德横盘后下跌，拖累板块。", "创新药底层逻辑与AI类似，受科技下跌影响。", "在科技杀跌时，医药股可能同步下跌。"],
+        "mentioned_stocks": ["药明康德", "创新药"]
+    },
+    {
+        "index": 7,
+        "summary": "从地域经济和基础设施维护角度，论证白酒行业不会消亡。",
+        "sentiment": "positive",
+        "key_opinions": ["白酒产业对贵州经济至关重要。", "贵州奇观大桥等维护成本高，行业需支撑。", "喝酒是刚需，不依赖年轻人市场。"],
+        "mentioned_stocks": ["白酒"]
+    },
+    {
+        "index": 8,
+        "summary": "探讨投资者难以止盈的人性弱点和心理障碍。",
+        "sentiment": "mixed",
+        "key_opinions": ["止盈比割肉更难，害怕利润回吐。", "市场狂热时，情绪影响决策。", "卖飞带来的痛苦可能超过套牢。"],
+        "mentioned_stocks": ["长川科技", "江丰电子"]
+    },
+    {
+        "index": 9,
+        "summary": "分享在股市中亏钱换来的经验教训清单。",
+        "sentiment": "positive",
+        "key_opinions": ["不要盲从任何“大佬”。", "严格执行止损线，尾盘开新仓。", "频繁换股、高位加仓是常见亏损原因。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 10,
+        "summary": "用户分享因贷款跟车炒股，高位加仓导致本金亏光的惨痛经历。",
+        "sentiment": "negative",
+        "key_opinions": ["贷款炒股是危险行为。", "跟车赚钱后膨胀，放大杠杆导致归零。", "建议注销账户，远离股市。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 11,
+        "summary": "引用长文探讨散户投资心法，强调不执着于预测涨跌。",
+        "sentiment": "positive",
+        "key_opinions": ["不应执着于预判行情和抓主升浪。", "保持耐心，等待下一轮行情。", "分享投资“心法”文章。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 12,
+        "summary": "回顾巴菲特投资策略在当下市场中的表现和争议。",
+        "sentiment": "mixed",
+        "key_opinions": ["市场曾嘲讽巴菲特，现需反思。", "巴菲特可能踏空本轮科技行情。", "其持股谷歌面临被套风险。"],
+        "mentioned_stocks": ["可口可乐", "谷歌"]
+    },
+    {
+        "index": 13,
+        "summary": "马后炮式地回顾本轮科技股行情中最该止盈离场的信号。",
+        "sentiment": "mixed",
+        "key_opinions": ["“韩国女孩”等情绪化小作文泛滥是危险信号。", "ETF涨停等非理性现象让人难以离场。", "价值投资者（如张坤）买入科技股时是离场信号。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 14,
+        "summary": "分析市场下跌阶段，并推测可能的底部出现时间。",
+        "sentiment": "negative",
+        "key_opinions": ["等待最抗跌的科技股（如紫光）补跌。", "指数关键点位3741若破则趋势转弱。", "可能还需继续下跌。"],
+        "mentioned_stocks": ["紫光"]
+    },
+    {
+        "index": 15,
+        "summary": "请求推荐传统蓝筹股（老登股），但普遍认为当前价位已高。",
+        "sentiment": "negative",
+        "key_opinions": ["老登股已处高位，此时买入易被套。", "建议空仓或等待风格转换。", "部分老登股（如茅台）年线已红，位置不低。"],
+        "mentioned_stocks": ["茅台", "工商银行", "长江电力", "招商银行", "美的集团"]
+    },
+    {
+        "index": 16,
+        "summary": "自称“老登”投资者开始定投创业板成长ETF，进行左侧布局。",
+        "sentiment": "negative",
+        "key_opinions": ["从传统股转向定投下跌的成长股。", "买入后即亏损，担心买在半山腰。", "认为当前接飞刀风险较大，应等待。"],
+        "mentioned_stocks": ["创业板成长ETF (159967)"]
+    },
+    {
+        "index": 17,
+        "summary": "质疑财经博主在暴跌中现出原型，未能提示风险。",
+        "sentiment": "negative",
+        "key_opinions": ["部分财经博主在牛市中只是“风口上的猪”。", "收取高额费用却不提示风险。", "点名批评多个博主。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 18,
+        "summary": "对比当前与以往市场普跌时的情绪差异，指出科技股持仓者痛苦更甚。",
+        "sentiment": "negative",
+        "key_opinions": ["当前下跌家数少但哀嚎更重，因科技持仓者多。", "此前普跌时科技股涨，现在则反之。", "科技股单日跌幅远超传统股月跌幅。"],
+        "mentioned_stocks": ["双创"]
+    },
+    {
+        "index": 19,
+        "summary": "探讨若AI应用端盈利兑现，AI硬件股能否重回巅峰。",
+        "sentiment": "mixed",
+        "key_opinions": ["AI收入若兑现，资金可能流向应用端。", "硬件股（AI硬）能否回升存在不确定性。"],
+        "mentioned_stocks": ["AI硬件股"]
+    },
+    {
+        "index": 20,
+        "summary": "询问科技股年线已转绿，下跌是否还会继续。",
+        "sentiment": "negative",
+        "key_opinions": ["科技股七月跌幅巨大。", "普遍认为下跌趋势可能延续。", "部分个股年线跌幅已很深。"],
+        "mentioned_stocks": ["胜宏科技"]
+    },
+    {
+        "index": 21,
+        "summary": "讨论是否应救市，或让市场自然下跌完成筑底。",
+        "sentiment": "negative",
+        "key_opinions": ["救市效果不佳，浪费资金。", "让市场自己找到出路可能更好。", "目前下跌可能尚未到位。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 22,
+        "summary": "预测创业板底部在2000点左右，需要约三年时间筑底。",
+        "sentiment": "negative",
+        "key_opinions": ["创业板底部预估在2000点。", "筑底过程可能需要3年左右。"],
+        "mentioned_stocks": ["创业板"]
+    },
+    {
+        "index": 23,
+        "summary": "询问今日市场是否可能出现奇迹般大涨，但普遍预期悲观。",
+        "sentiment": "negative",
+        "key_opinions": ["国家队救市抛压沉重，效果存疑。", "普遍预期今日无救市，下跌为主。", "对市场极度失望。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 24,
+        "summary": "对比套牢与踏空两种痛苦，引发讨论哪种更甚。",
+        "sentiment": "mixed",
+        "key_opinions": ["套牢损失真金白银，痛苦更真实。", "踏空会导致心理焦虑，可能引发追高套牢。", "两种痛苦性质不同，难以直接比较。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 25,
+        "summary": "分享关于选择老登红利股的选股标准和风险分析。",
+        "sentiment": "positive",
+        "key_opinions": ["选择低估值、永续行业、好管理层的公司。", "关注高ROE、低PE、高分红等指标。", "看好水电等能抗周期的行业。"],
+        "mentioned_stocks": ["长江电力", "川投能源"]
+    },
+    {
+        "index": 26,
+        "summary": "讨论航空公司（航司）股价表现疲软的原因。",
+        "sentiment": "negative",
+        "key_opinions": ["航司股价受国际油价压制。", "航司与传统蓝筹（如银行）特性不同。", "航司业绩和股价受国际局势（如油价、航线）影响大。"],
+        "mentioned_stocks": ["南方航空", "工商银行"]
+    },
+    {
+        "index": 27,
+        "summary": "马后炮式复盘讨论科技股何时该离场以及技术信号。",
+        "sentiment": "negative",
+        "key_opinions": ["跌破20日线是重要的减仓信号。", "市场过热、ETF涨停等是离场信号。", "杠杆操作在下跌中会加剧痛苦。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 28,
+        "summary": "展示分散投资于不同板块（包括科技、航天等）但依然亏损的结果。",
+        "sentiment": "negative",
+        "key_opinions": ["分散投资未能避免亏损。", "科技相关板块（如存储、半导体）本质是同一个篮子。", "对后市缺乏信心。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 29,
+        "summary": "批评国家队托市不力，只压涨不托跌，导致市场失衡。",
+        "sentiment": "negative",
+        "key_opinions": ["国家队应“防大涨大跌”，但下跌时缺位。", "国家队离场带崩了情绪和流动性。", "质疑政策的一致性和公平性。"],
+        "mentioned_stocks": ["沪深300ETF"]
+    },
+    {
+        "index": 30,
+        "summary": "一位曾翻倍的投资者经历利润回吐后，感到绝望并质疑炒股之路。",
+        "sentiment": "negative",
+        "key_opinions": ["牛市利润在熊市快速回吐。", "明知应等待行情，但管不住手。", "对时间和结果感到焦虑。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 31,
+        "summary": "部分人认为市场下跌还不够，应继续杀跌以挤出泡沫。",
+        "sentiment": "negative",
+        "key_opinions": ["下跌是必要的，要“矫枉必须过正”。", "希望科技股继续暴跌。", "认为创业板尚未跌够。"],
+        "mentioned_stocks": ["创业板"]
+    },
+    {
+        "index": 32,
+        "summary": "抱怨购买宽基指数基金也出现大幅亏损，质疑是否有人护盘。",
+        "sentiment": "negative",
+        "key_opinions": ["宽基指数（如沪深300）含科量高，随科技股下跌。", "指数下跌，投资者感到无助。", "认为下跌是所有指数向低位补跌的过程。"],
+        "mentioned_stocks": ["沪深300", "中证1000", "中证2000"]
+    },
+    {
+        "index": 33,
+        "summary": "附图询问导致当日大跌的可能原因。",
+        "sentiment": "negative",
+        "key_opinions": ["试图分析当日大跌的触发因素。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 34,
+        "summary": "建议持有红利股的投资者逐步减仓保利润，吸取科技股教训。",
+        "sentiment": "mixed",
+        "key_opinions": ["越涨越卖，降低持股成本。", "警惕红利股估值已高（如美的PE）。", "采取逐步减仓策略，保持平衡。"],
+        "mentioned_stocks": ["长江电力", "美的集团", "中国移动"]
+    },
+    {
+        "index": 35,
+        "summary": "警告沪深300ETF中科技股权重过高，易受拖累。",
+        "sentiment": "negative",
+        "key_opinions": ["沪深300ETF前五大重仓股均为下跌的科技股。", "认为这些公司本身质量一般，靠AI概念上位。", "不看好国家队继续救市。"],
+        "mentioned_stocks": ["中际旭创", "新易盛", "兆易创新", "寒武纪", "沪深300ETF"]
+    },
+    {
+        "index": 36,
+        "summary": "讨论国家政策与股市表现的矛盾，质疑监管目标。",
+        "sentiment": "negative",
+        "key_opinions": ["监管目标可能只聚焦上证指数。", "科技股（双创）被视为可牺牲的附带品。", "认为“慢牛”是幻想，市场只有极端行情。"],
+        "mentioned_stocks": ["长鑫存储"]
+    },
+    {
+        "index": 37,
+        "summary": "质疑创业板是否已跌无可跌，普遍认为仍有下跌空间。",
+        "sentiment": "negative",
+        "key_opinions": ["创业板月线已吞没数月涨幅。", "认为3000点可能守不住。", "从估值和历史看，可能还需大幅下跌。"],
+        "mentioned_stocks": ["创业板"]
+    },
+    {
+        "index": 38,
+        "summary": "质疑白酒、地产等传统行业的长期投资价值。",
+        "sentiment": "negative",
+        "key_opinions": ["白酒消费趋势长期看淡，地产行业已死。", "当前上涨缺乏基本面支撑。", "投资者主要进行短期博弈而非长期投资。"],
+        "mentioned_stocks": ["白酒", "地产"]
+    },
+    {
+        "index": 39,
+        "summary": "观察到科技股下跌时，其他板块表现相对较好。",
+        "sentiment": "mixed",
+        "key_opinions": ["“科技死，万物生”，市场资金流向其他板块。", "投资者习惯了科技股主导的路径依赖。", "风格可能切换，但需时间。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 40,
+        "summary": "认为A股总会打乱市场预期，修复期可能很长。",
+        "sentiment": "negative",
+        "key_opinions": ["市场走势常出人意料。", "科创50此前涨幅已全部回吐。", "预计修复需要3-6个月。"],
+        "mentioned_stocks": ["科创50"]
+    },
+    {
+        "index": 41,
+        "summary": "感慨中际旭创等科技股在下跌后被贬为“电子厂”，反映市场情绪变化。",
+        "sentiment": "negative",
+        "key_opinions": ["涨时被追捧，跌时被贬低。", "“电子厂”是对其技术含量的质疑。", "投资逻辑随股价涨跌而快速变化。"],
+        "mentioned_stocks": ["中际旭创"]
+    },
+    {
+        "index": 42,
+        "summary": "总结今年市场主题是众多板块经历腰斩，强调远离下跌中的“飞刀”。",
+        "sentiment": "negative",
+        "key_opinions": ["多个前期热门板块（有色、锂电、AI硬件）跌幅巨大。", "基本面再好，股价也可能先暴跌。", "当前接盘风险极高。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 43,
+        "summary": "指出深成指已低于三月份低点，揭示市场真实弱势。",
+        "sentiment": "negative",
+        "key_opinions": ["指数失真，掩盖了多数股票的下跌。", "三月以来的涨幅主要由科技股贡献。", "当前国际局势比三月更差。"],
+        "mentioned_stocks": ["深成指"]
+    },
+    {
+        "index": 44,
+        "summary": "用户亏损严重，呼唤博主“阿赛”来给予心理按摩和分析。",
+        "sentiment": "negative",
+        "key_opinions": ["持有光模块和芯片股，亏损巨大。", "希望获得专业博主的心理支持。", "强调最终决策和责任在自己。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 45,
+        "summary": "开帖纪念创业板创下单月历史最大跌幅，引导用户“哀嚎”。",
+        "sentiment": "negative",
+        "key_opinions": ["创业板7月跌幅-26.78%，登顶历史第一。", "与历史上的熔断月对比。", "预计下跌可能仅是开始。"],
+        "mentioned_stocks": ["创业板"]
+    },
+    {
+        "index": 46,
+        "summary": "讨论经过大跌后，部分优质科技股性价比可能已超过传统蓝筹股。",
+        "sentiment": "mixed",
+        "key_opinions": ["科技股连续暴跌后，估值吸引力上升。", "但当前情绪恐慌，抄底易接飞刀。", "需等待出现明确的底部形态。"],
+        "mentioned_stocks": ["五粮液", "兆易创新", "紫光国微"]
+    },
+    {
+        "index": 47,
+        "summary": "关注上证指数关键点位3782能否守住，并讨论破位后果。",
+        "sentiment": "negative",
+        "key_opinions": ["市场跌破关键点位引发恐慌。", "若守不住，可能下探至3300点。", "认为指数低迷已成常态。"],
+        "mentioned_stocks": ["上证指数"]
+    },
+    {
+        "index": 48,
+        "summary": "讽刺每次下跌时总有老股民说“这才哪到哪”。",
+        "sentiment": "negative",
+        "key_opinions": ["批评老股民“卖惨”或“装经验”的言论。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 49,
+        "summary": "指出实际上所有板块都在下跌，并非简单的风格轮动。",
+        "sentiment": "negative",
+        "key_opinions": ["各主要指数均已跌回去年9月，一年涨幅归零。", "老登股上涨可能只是补涨，并非避风港。", "投资者面临“两头挨打”的困境。"],
+        "mentioned_stocks": ["上证指数", "沪深300", "创业板", "科创50", "红利指数"]
+    },
+    {
+        "index": 50,
+        "summary": "询问市场底部在哪里，回应普遍悲观，认为无法预测。",
+        "sentiment": "negative",
+        "key_opinions": ["市场仍在持续下跌。", "无法预测底部在何处。", "左侧交易者会买在无数个“假底”。"],
+        "mentioned_stocks": []
+    }
+]
+```
