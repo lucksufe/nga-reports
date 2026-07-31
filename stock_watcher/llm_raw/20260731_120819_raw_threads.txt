@@ -1,0 +1,525 @@
+[
+  {
+    "index": 1,
+    "summary": "商业航天板块在筑底，可能反弹，但需消息催化，用户讨论投资思路。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "商业航天跌不动，在筑底阶段，可能反弹。",
+      "投资思路：等科技反弹后再配置商业航天。",
+      "需要消息催化，如蓝箭发射时间不确定。"
+    ],
+    "mentioned_stocks": ["商业航天", "蓝箭", "科技"]
+  },
+  {
+    "index": 2,
+    "summary": "帖子只有图片，无实质讨论内容。",
+    "sentiment": "mixed",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "用户抱怨反弹太弱，但有人通过短线操作如抄底新易盛获利。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "反弹太弱，一个月大跌后反弹不足。",
+      "有大资金做短线操作。",
+      "短线抄底新易盛可获利。"
+    ],
+    "mentioned_stocks": ["新易盛"]
+  },
+  {
+    "index": 4,
+    "summary": "分享投资心法，强调不预判涨跌，耐心等待行情。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "不执着预判涨跌，耐心等待行情。",
+      "分享堂哥心法和投资笔记。",
+      "强调长期视角和不预判。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "建军节祝福，将祖国比作A股繁荣，但带讽刺意味。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "祝福祖国繁荣，类比A股。",
+      "质疑A股表现和市场。"
+    ],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论财经博主薛松，技术好但近期表现不佳，偏好超跌补涨标的。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "薛松技术前三，但最近不行。",
+      "炒老登股，没吃上科技行情。",
+      "杠杆爆仓后风险控制强。"
+    ],
+    "mentioned_stocks": ["老登股", "科技"]
+  },
+  {
+    "index": 7,
+    "summary": "用户后悔错过低点，幻想回到过去操作AI硬软件，机构可能高开卖下午接。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "后悔没在低点买入科技股。",
+      "机构可能高开卖、下午接回。",
+      "想回到去年，梭哈光模块财富自由。"
+    ],
+    "mentioned_stocks": ["AI硬件", "AI软", "光模块", "万丰奥威", "大众交通", "常山北明", "日出东方", "海力士"]
+  },
+  {
+    "index": 8,
+    "summary": "AI硬件龙头可能换股，德明利开板，看好东山精密成为新龙头。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "德明利开板正确，AI硬件需换龙头。",
+      "东山有光芯片逻辑和业绩增长，看好反转。",
+      "拿住东山，可能新高。"
+    ],
+    "mentioned_stocks": ["德明利", "东山", "兆易", "长鑫", "新易盛"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论高开后出货、下午接回的策略，量化每天做T洗盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高开出货，下午接回是常见量化策略。",
+      "量化每天降成本做T洗盘。",
+      "外盘利好但A股不跟，收割散户。"
+    ],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 10,
+    "summary": "微软财报利好AI软件，但A股缺乏好标的，多是蹭概念。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "微软财报利好AI软件，商业兑现。",
+      "AI软前期炒作不充分，有上涨空间。",
+      "A股AI软大多是蹭概念的传媒庄股。"
+    ],
+    "mentioned_stocks": ["AI软", "微软", "中概互联网ETF", "阿里巴巴", "腾讯", "金山办公", "金蝶国际"]
+  },
+  {
+    "index": 11,
+    "summary": "盘面高开低走再拉高，观点分歧，科技股主导但反弹不足。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "高开低走震荡，套牢盘多需消化。",
+      "今天开盘没套人，但反弹不足。",
+      "科技股主导，其他板块弱。"
+    ],
+    "mentioned_stocks": ["AI硬件", "AI软", "ETF"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论leoPort事件被做局，资金被分食后可能拉升，8月看涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "leoPort被做局，市值大减。",
+      "多个类似事件，资金被分食。",
+      "8月可能上涨，拿住筹码。"
+    ],
+    "mentioned_stocks": ["三倍做多", "空头"]
+  },
+  {
+    "index": 13,
+    "summary": "建议改革市场机制如取消集合竞价、T+0，以改善散户处境。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "建议取消集合竞价或改为T+0。",
+      "限制量化交易，保护散户。",
+      "市场机制问题导致散户亏损。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "用户买港股ETF没成交，讨论撮合机制如价格笼子或资金不足。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "买港股ETF没成交。",
+      "可能是撮合资金不足或价格笼子问题。"
+    ],
+    "mentioned_stocks": ["港股ETF"]
+  },
+  {
+    "index": 15,
+    "summary": "德明利下跌，用户焦虑求救，可能有人吸筹。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "德明利下跌，用户求救。",
+      "李虎可能吸筹。"
+    ],
+    "mentioned_stocks": ["德明利", "长鑫"]
+  },
+  {
+    "index": 16,
+    "summary": "AI软件应用可能有机会，基于超跌、大模型降价和云厂财报超预期。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "AI软超跌，筹码干净有上涨空间。",
+      "大模型降价利好AI应用。",
+      "云厂财报超预期，验证逻辑。"
+    ],
+    "mentioned_stocks": ["AI软", "金山办公", "金蝶国际", "阿里巴巴", "腾讯", "天地在线", "蓝色光标"]
+  },
+  {
+    "index": 17,
+    "summary": "批评A股市场高开低走，量化收割，散户亏损严重。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股是全世界最差市场。",
+      "高开低走模式，量化收割散户。",
+      "散户亏损严重，信心受损。"
+    ],
+    "mentioned_stocks": ["科技股", "港股"]
+  },
+  {
+    "index": 18,
+    "summary": "分析科技盘面洗盘，资金拉老登压科技，下午可能回升。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "资金出去拉老登股，压科技洗盘。",
+      "下午资金可能回流科技。",
+      "今天下午盘关键，决定后续走势。"
+    ],
+    "mentioned_stocks": ["科技", "老登股"]
+  },
+  {
+    "index": 19,
+    "summary": "紫光股票中午拉升，用户犹豫是否卖出，走国产替代但跟海外链跳水。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "紫光中午拉升，用户慌是否卖。",
+      "紫光走国产替代逻辑，但跟海外链跳水。"
+    ],
+    "mentioned_stocks": ["紫光"]
+  },
+  {
+    "index": 20,
+    "summary": "抱怨每周五修复被打压，散户信心受损，亏损难修复。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "三次周五修复被打压。",
+      "散户信心被打击，亏损难修复。",
+      "跌50%涨20%反弹难。"
+    ],
+    "mentioned_stocks": ["科技", "ETF"]
+  },
+  {
+    "index": 21,
+    "summary": "情绪反转，逻辑夯实，反弹力度大，基于超跌和财报验证。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "超跌后情绪反转，反弹力度大。",
+      "微软亚马逊财报验证逻辑。",
+      "螺旋上涨可能，别当小行情。"
+    ],
+    "mentioned_stocks": ["AI硬件", "AI软", "海力士", "存储"]
+  },
+  {
+    "index": 22,
+    "summary": "AI软不被看好，但可能还有涨，A股多是蹭概念杂毛。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI软不被看好，可能还有涨。",
+      "A股AI软多是蹭概念，主战场在港股。",
+      "游戏是有业绩的AI应用。"
+    ],
+    "mentioned_stocks": ["AI软", "阿里", "金山办公", "传媒ETF"]
+  },
+  {
+    "index": 23,
+    "summary": "推荐电解铝龙头宏桥控股，目标价31+，股息好。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "电解铝龙头宏桥控股进入右侧区间。",
+      "目标价31+，股息率高。",
+      "其他弹性股如云铝、神火可关注。"
+    ],
+    "mentioned_stocks": ["宏桥控股", "云铝", "神火", "中孚", "天山铝业"]
+  },
+  {
+    "index": 24,
+    "summary": "希望科技涨以便银行股跌，抄底银行如工行到7元。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "希望科技涨，银行跌以便抄底。",
+      "银行股如工行跌到7元抄底。",
+      "科技是虚假存储，银行是真存储。"
+    ],
+    "mentioned_stocks": ["工商银行", "农行", "建行", "招商", "长电"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论微软亚马逊财报对A股映射，可能买云计算ETF或中概互联网ETF。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "云厂验牌成功，A股映射难。",
+      "可能买云计算ETF或中概互联网ETF。",
+      "阿里云和火山云是中国云厂主要。"
+    ],
+    "mentioned_stocks": ["云计算ETF", "中概互联网ETF", "阿里巴巴", "腾讯"]
+  },
+  {
+    "index": 26,
+    "summary": "软件应用也是科技，SAP等映射，A股标的如金蝶国际走底。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "SAP、SNOW、NOW猛，A股对应标的走底。",
+      "AI应用如SaaS、AI4S可能有机会。",
+      "标的如金蝶国际、用友。"
+    ],
+    "mentioned_stocks": ["SAP", "SNOW", "NOW", "金蝶国际", "用友", "汉得"]
+  },
+  {
+    "index": 27,
+    "summary": "港股高开后下跌，用户亏损，操作风险大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "早盘冲港股ETF亏损。",
+      "港股T+0，但操作难风险高。",
+      "跳水快，类似7月10号走势。"
+    ],
+    "mentioned_stocks": ["港股ETF", "建滔"]
+  },
+  {
+    "index": 28,
+    "summary": "封测板块跌惨，外围好但A股打压，大资金出货。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "封测板块跌惨，指数大跌。",
+      "外围情绪好，A股打压不跟。",
+      "大资金如汇金做超短出货。"
+    ],
+    "mentioned_stocks": ["封测", "深成指", "科技", "汇金"]
+  },
+  {
+    "index": 29,
+    "summary": "机器人板块缓慢上涨，比AI应用慢。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "机器人板块慢慢涨，爬山坡。"
+    ],
+    "mentioned_stocks": ["机器人"]
+  },
+  {
+    "index": 30,
+    "summary": "德明利下跌，用户焦虑，可能洗盘吸筹。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "德明利下跌，用户担心。",
+      "可能洗盘吸筹。",
+      "全球科技风向标。"
+    ],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 31,
+    "summary": "认为砸盘是好事，预防周末风险。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "砸盘是好事，砸不下去才恐怖。",
+      "预防周末盘外招。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "市场操作手法多，散户难应对，高开震荡骗线。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场手法高，散户难招架。",
+      "高开震荡骗线，追高被套。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "AI软易点天下等暴涨，可能风格切换，但追高风险大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI软易点天下等暴涨。",
+      "传媒ETF涨停，可能追高被套。"
+    ],
+    "mentioned_stocks": ["易点天下", "中文在线", "天地在线", "传媒ETF"]
+  },
+  {
+    "index": 34,
+    "summary": "汇金做超短抛售科技筹码，大资金玩超短收割散户。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "汇金净流出创业板ETF，做超短。",
+      "大资金玩超短，散户难玩。"
+    ],
+    "mentioned_stocks": ["汇金", "创业板ETF", "科技"]
+  },
+  {
+    "index": 35,
+    "summary": "分享科技股操作经验，如涨停跑、跌停干，但风险高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "早盘涨停跑，尾盘涨停格局。",
+      "早盘跌停满仓干。",
+      "跌停战法风险高，需谨慎。"
+    ],
+    "mentioned_stocks": ["科技ETF"]
+  },
+  {
+    "index": 36,
+    "summary": "对比韩国股市，A股被影响但韩股稳，批评A股机构。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩股没受A股影响，独立走势。",
+      "A股机构研究不透，连累市场。"
+    ],
+    "mentioned_stocks": ["三星", "海力士", "日经"]
+  },
+  {
+    "index": 37,
+    "summary": "比较AI硬与历史抱团行情的成长性，AI硬有逻辑支撑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI硬有行业景气+涨价逻辑。",
+      "对比宁德时代、中际等历史抱团。",
+      "中远海控特殊周期，无参考性。"
+    ],
+    "mentioned_stocks": ["中际旭创", "新易盛", "宁德时代", "中远海控"]
+  },
+  {
+    "index": 38,
+    "summary": "询问下午走势预测，观点不一，软件涨硬件跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "软件涨，硬件可能跌。",
+      "收红或收绿预测分歧。"
+    ],
+    "mentioned_stocks": ["软件", "硬件"]
+  },
+  {
+    "index": 39,
+    "summary": "完美世界上涨，打脸黑子，蹭到AI概念。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "完美世界上涨，当初被骂。",
+      "蹭到AI概念，股价上涨。"
+    ],
+    "mentioned_stocks": ["完美世界", "异环"]
+  },
+  {
+    "index": 40,
+    "summary": "FOMO开盘买入可能后悔，追高风险大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "开盘买入FOMO可能后悔。",
+      "前次耍猴教训，需谨慎。"
+    ],
+    "mentioned_stocks": ["科技", "老登股"]
+  },
+  {
+    "index": 41,
+    "summary": "李大霄喊英伟达回撤，国家队可能打压科技，做T收益实。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "李大霄喊回撤，国家队可能打压科技。",
+      "国家队做T，信用收益实。",
+      "科技强国基本面不变，但市场被操控。"
+    ],
+    "mentioned_stocks": ["英伟达", "科技"]
+  },
+  {
+    "index": 42,
+    "summary": "巨人网络底部放量，可能收集筹码，游戏是有业绩的AI应用。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "巨人网络周K底部放量，蓄势。",
+      "游戏是有业绩的AI应用。"
+    ],
+    "mentioned_stocks": ["巨人网络"]
+  },
+  {
+    "index": 43,
+    "summary": "科技股技术面无用，靠外围映射，国家队护盘不如美股涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股技术面无用，靠美股映射。",
+      "国家队护盘不如美股涨一次。"
+    ],
+    "mentioned_stocks": ["纳指", "费半", "科技ETF"]
+  },
+  {
+    "index": 44,
+    "summary": "创业板涨但没反包昨天跌幅，反弹不足，量能堪忧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创业板涨但没反包昨天跌幅。",
+      "量能堪忧，反弹力度不足。"
+    ],
+    "mentioned_stocks": ["创业板", "科创板ETF"]
+  },
+  {
+    "index": 45,
+    "summary": "询问昨天亏损是否修复，但涨10%抵不过跌10%。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上午不砸可能修复部分亏损。",
+      "但涨10%抵不过跌10%，修复不足。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "昨天跌幅没收回，长电跌破割肉线，反弹不足。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "昨天跌幅没收回。",
+      "长电跌破割肉线。"
+    ],
+    "mentioned_stocks": ["长电"]
+  },
+  {
+    "index": 47,
+    "summary": "台积电2nm性能不强，GPU提升可能来自架构而非制程。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "2nm性能不强，预期中。",
+      "GPU提升可能来自架构突破。"
+    ],
+    "mentioned_stocks": ["台积电", "AMD", "NVIDIA"]
+  },
+  {
+    "index": 48,
+    "summary": "A股高开低走，收割散户，市场模式令人服气。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股高开低走，收割散户。",
+      "情绪套利跑得快，否则亏损。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 49,
+    "summary": "买入北方华创后悔，准备销户保利润，市场风险大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "买入北方华创错，后悔。",
+      "准备销户保住今年利润。"
+    ],
+    "mentioned_stocks": ["北方华创"]
+  },
+  {
+    "index": 50,
+    "summary": "科技股人心散，队伍难带，信心不足。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股人心散。",
+      "队伍不好带，信心受损。"
+    ],
+    "mentioned_stocks": ["科技"]
+  }
+]
