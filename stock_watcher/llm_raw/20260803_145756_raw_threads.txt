@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论韩国股市大幅下跌，网友带有嘲讽和自我感慨的情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["嘲讽韩国股市下跌幅度大", "暗示自身处境也‘惨’", "讨论杠杆水平与跌幅关系"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户‘狼大’分享自己的操作策略和市场观察，强调技术操作和护盘资金。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术策略是保命手段", "国家队7月大量净流入护盘", "当前是滚雪球式踩踏行情"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "分享关注业绩预增股票的选股标准，希望共同讨论符合条件的标的。",
+    "sentiment": "positive",
+    "key_opinions": ["选择同比和环比增速均超100%的股票", "曾选出模组三傻和源杰", "欢迎讨论和指正AI筛选结果"],
+    "mentioned_stocks": ["模组三傻", "源杰"]
+  },
+  {
+    "index": 4,
+    "summary": "批评某公司高管减持套现，却用公司资金回购，引发股东不满。",
+    "sentiment": "negative",
+    "key_opinions": ["高管减持个人获利，用股东钱增持", "行为被批‘既当又立’", "相关讨论区被指责为洗地"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 5,
+    "summary": "主帖鼓励抄底，但回复显示许多人已被套牢或资金不足，市场情绪悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["当前位置应敢抄底", "但资金被套无法行动", "被反复收割，对抄底失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "质疑在3800家股票上涨的普涨行情下，为何仍有众多投资者哀嚎。",
+    "sentiment": "mixed",
+    "key_opinions": ["3800家上涨是普涨", "但科技股投资者感受不同", "小盘股涨，大盘股可能跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "询问沪深300ETF是否为当前理想投资标的，引发对其构成和走势的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["沪深300科技含量高，走势受科技股影响", "当前可能不是好去处", "可考虑上证50等替代标的"],
+    "mentioned_stocks": ["沪深300ETF", "上证50"]
+  },
+  {
+    "index": 8,
+    "summary": "质疑3800点位是否有‘任务’支撑，认为底部在不断下移。",
+    "sentiment": "negative",
+    "key_opinions": ["3800点似乎被反复托盘", "但市场底部预期不断降低", "可能是维护面子的‘牛’"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "分享抄底‘中国巨石’的经历，但多数回复警告风险巨大。",
+    "sentiment": "negative",
+    "key_opinions": ["在放量下跌时抄底风险极高", "该股图形难看", "曾有三连跌停的历史"],
+    "mentioned_stocks": ["中国巨石"]
+  },
+  {
+    "index": 10,
+    "summary": "对‘普涨行情’的定性产生争议，部分投资者认为体验并不一致。",
+    "sentiment": "mixed",
+    "key_opinions": ["4000家上涨算普涨", "但科技股投资者体验极差", "小微盘涨，大盘指数可能跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "讽刺东亚市场出现‘抓人背锅’事件，暗示与‘黄金时代’相关。",
+    "sentiment": "negative",
+    "key_opinions": ["为‘黄金时代’抓人背锅", "被戏称为‘金融犯’", "认为是某种模仿行为"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "报告兆易创新跌停，投资者情绪悲观，认为A股市场环境恶劣。",
+    "sentiment": "negative",
+    "key_opinions": ["兆易创新跌停", "A股被称为恶劣市场", "科技股含金量受质疑"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 13,
+    "summary": "认为AI大模型技术突破会使量化更智能，对散户是利空。",
+    "sentiment": "negative",
+    "key_opinions": ["AI进步使量化交易更聪明", "散户更难战胜AI量化", "因此是股市利空"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "质疑上周五的市场走势是否正常，认为当前行情疲软。",
+    "sentiment": "negative",
+    "key_opinions": ["周五走势不正常导致本周疲软", "需要低开高走修复", "长期震荡磨灭散户信心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "观测到巨人网络底部放量，讨论其技术形态和投资逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["底部放量可能是在收集筹码", "属于有业绩的AI应用和消费股", "技术图形走出W底"],
+    "mentioned_stocks": ["巨人网络"]
+  },
+  {
+    "index": 16,
+    "summary": "询问被套在兆易创新几个点，是否应该卖出，回复多建议卖出。",
+    "sentiment": "negative",
+    "key_opinions": ["短期可能没机会，建议能跑就跑", "但长期持有或能回本", "依赖美股存储股走势"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 17,
+    "summary": "暗示股市功能是收割散户以‘为国家做贡献’，语气讽刺。",
+    "sentiment": "negative",
+    "key_opinions": ["股市是收割散户的工具", "收割所得用于化债", "股市必须开放才能收割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论韩国某政策室长名字‘金融犯’的搞笑程度。",
+    "sentiment": "mixed",
+    "key_opinions": ["名字‘金融犯’很搞笑", "名字与职位反差感强", "引发网络关注"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论欧洲缺水是否利好光伏，但回复多持怀疑态度。",
+    "sentiment": "negative",
+    "key_opinions": ["欧洲地理更适合发展风电", "光伏有电网平衡问题", "光伏公司财报多亏损"],
+    "mentioned_stocks": ["隆基股份", "光伏ETF"]
+  },
+  {
+    "index": 20,
+    "summary": "认为ST股票市场的‘清算’和‘回合制’现象很有趣。",
+    "sentiment": "mixed",
+    "key_opinions": ["兆易创新持仓者周末与周一境遇反转", "市场呈现‘回合制’特点", "观察现象有趣"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 21,
+    "summary": "观测到‘小时代’板块讨论量缩量，对板块活跃度表示担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["板块帖子回复量减少，缩量", "板块可能持续低迷", "危险帖子被删导致更冷清"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "为兆易创新高管回购注销辩护，认为不应被喷，并解释原因。",
+    "sentiment": "positive",
+    "key_opinions": ["回购注销是积极的市值管理", "高管减持时股价不算高位", "股价腰斩后行为容易被误解"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 23,
+    "summary": "感叹市场成交量极低，认为已进入‘熊市’状态。",
+    "sentiment": "negative",
+    "key_opinions": ["成交量萎缩至极低水平", "市场情绪低迷，是熊市特征", "大资金在等待外围明朗"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论纳指期货走势，认为A股自身问题而非外围导致下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["A股下跌源于自身问题", "经济面临通缩压力", "资金对市场缺乏信心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "期货佬征集有潜力的股票进行技术分析，并承诺给出操作建议。",
+    "sentiment": "mixed",
+    "key_opinions": ["只回复有潜力的票", "会给出止损和加仓位建议", "一般股票不回复"],
+    "mentioned_stocks": ["首创环保", "比亚迪", "半导体设备ETF", "巨人网络", "微创机器人-B", "东方电气", "伟隆股份", "沪深300ETF"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论抄底存储股的‘带血筹码’，认为风险与机遇并存。",
+    "sentiment": "mixed",
+    "key_opinions": ["声称吃到了带血筹码", "但质疑筹码的‘血’是谁的", "可能是接飞刀，风险极高"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 27,
+    "summary": "尝试抄底‘半岛铁盒’股票，但目前处于亏损状态。",
+    "sentiment": "negative",
+    "key_opinions": ["抄底后已出现亏损", "认为其估值可能还要跌", "抄底风险大，可能被套"],
+    "mentioned_stocks": ["半岛铁盒"]
+  },
+  {
+    "index": 28,
+    "summary": "询问电网设备ETF是否到了建仓时机，并附走势图。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为震荡整理时间仍短", "ETF持仓集中于中天亨通，有风险", "讨论是否可建仓"],
+    "mentioned_stocks": ["电网设备ETF"]
+  },
+  {
+    "index": 29,
+    "summary": "分享从科技股亏损转向消费股的经历，讨论板块轮动。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股跌幅恐怖，动辄跌停", "消费与科技形成跷跷板", "低价、刚需消费在经济下行期表现好"],
+    "mentioned_stocks": ["天际股份", "海天味业", "华天科技", "星网锐捷"]
+  },
+  {
+    "index": 30,
+    "summary": "认为科技股大跌的原因是散户情绪博弈，离真正底部尚早。",
+    "sentiment": "negative",
+    "key_opinions": ["散户筹码在博弈抄底", "当前离真正底部可能还早", "情绪主导了下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "询问上个月听劝全仓科技股的投资者近况，推测其可能被套。",
+    "sentiment": "negative",
+    "key_opinions": ["有人曾听劝全仓科技", "可能未卖出导致深度亏损", "另有投资者重仓兆易创新"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论量化交易是否被限制或关闭，认为未完全关闭。",
+    "sentiment": "negative",
+    "key_opinions": ["量化交易可能被限制频率而非关闭", "成交量表明量化仍在活动", "量化控制导致基本面失效"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "讨论兆易创新每次股价拉升是否都是卖出机会，描述其惨状。",
+    "sentiment": "negative",
+    "key_opinions": ["兆易创新下跌无止跌迹象", "散户疯狂抄底反被套", "人气高反而成为出货理由"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 34,
+    "summary": "认为上证指数月线死叉可能标志熊市开始，或将持续两年。",
+    "sentiment": "negative",
+    "key_opinions": ["月线死叉是熊市技术信号", "历史经验显示熊市可能持续两年", "据此看空后市"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "分享因严格执行交易纪律而卖出‘海皇’股票，并期待下次机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["在目标价位严格执行卖出纪律", "卖出后股价上涨，略有遗憾", "期待下次波段机会"],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 36,
+    "summary": "推荐纽威股份、福耀玻璃、豪迈科技三只股票，认为已企稳。",
+    "sentiment": "positive",
+    "key_opinions": ["股价较最高点回落超30%后企稳", "福耀玻璃基本面优秀，全球化布局", "豪迈科技底部放量，可能反转"],
+    "mentioned_stocks": ["纽威股份", "福耀玻璃", "豪迈科技"]
+  },
+  {
+    "index": 37,
+    "summary": "深度分析牧原股份，认为其处于猪周期底部，是‘黄金猪’。",
+    "sentiment": "positive",
+    "key_opinions": ["猪价深跌，能繁母猪去化，周期反转在即", "牧原成本最低，周期反转弹性最大", "管理层大额增持，给出高目标价"],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 38,
+    "summary": "困惑于周末利好消息下，市场为何仍走出弱势行情。",
+    "sentiment": "negative",
+    "key_opinions": ["利好消息可能是诱多", "周末并无实质重磅利好", "市场自身问题主导走势"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "表达对投资‘金枪鱼’（澜起科技）的绝望情绪，想割肉又抱幻想。",
+    "sentiment": "negative",
+    "key_opinions": ["每次想清仓又抱有幻想", "等待调查结果决定去留", "跌幅相对其他存储股较小"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论恒生互联ETF走势强劲，部分投资者已卖飞。",
+    "sentiment": "positive",
+    "key_opinions": ["恒生互联走势强势", "部分网格仓位已卖出", "可能面临技术回调压力"],
+    "mentioned_stocks": ["恒生互联ETF"]
+  },
+  {
+    "index": 41,
+    "summary": "认为轮船和海能（海运股）可能即将启动，行业立于不败之地。",
+    "sentiment": "positive",
+    "key_opinions": ["油运行业立于不败之地", "尽管无关注度但走势硬", "可能有即将启动的行情"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "投资者因存储股亏损严重而换仓至光模块股，表达痛苦与无奈。",
+    "sentiment": "negative",
+    "key_opinions": ["存储股亏损严重被迫换仓", "光模块股可能同样要挨打", "科技股整体风险巨大"],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 43,
+    "summary": "询问抛开科技股，尾盘还能买什么，回复多建议空仓观望。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股底在何方不可知", "看不到其他板块好转迹象", "成交量低迷，建议空仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "感叹市场进入‘冰点’，情绪麻木，可能持续阴跌。",
+    "sentiment": "negative",
+    "key_opinions": ["市场情绪麻木，精神不振", "可能将持续阴跌", "被外围市场利好欺骗进场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "分析WorkBuddy应用的商业模式，认为其盈利前景堪忧。",
+    "sentiment": "negative",
+    "key_opinions": ["靠卖AI推理服务收入，难盈利", "用户使用其他API则平台不赚钱", "需培养付费习惯或加广告"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "对是否定投高位美股感到矛盾，既心动于其强势又担忧风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股已处高位，有人推荐定投", "A股亏损后想转战美股", "认为可等待加息周期结束再投"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "讨论银行股是否短期见顶，结合其近期回调走势分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["四大行出现回调", "可能是为托盘指数暂时休息", "部分银行股（招行）仍在涨"],
+    "mentioned_stocks": ["建设银行", "工商银行", "招商银行"]
+  },
+  {
+    "index": 48,
+    "summary": "质疑3800点能否守住，预测市场底部可能更低。",
+    "sentiment": "negative",
+    "key_opinions": ["3800点支撑托盘力度减弱", "市场底部可能下移至3600点", "等待外围市场大跌作为催化剂"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "讨论电力股普涨是否值得买入，回复建议谨慎勿追高。",
+    "sentiment": "mixed",
+    "key_opinions": ["电力股今日普涨", "建议不要盲目追高", "个股（如大唐发电）走势磨人"],
+    "mentioned_stocks": ["华能国际", "大唐发电"]
+  },
+  {
+    "index": 50,
+    "summary": "质疑市场是否还有‘活人’，表达对低迷行情的失望。",
+    "sentiment": "negative",
+    "key_opinions": ["成交量低迷，市场冷清", "投资者‘活人微死’，不敢看账户", "科技股跌，但其他股上涨"],
+    "mentioned_stocks": []
+  }
+]
