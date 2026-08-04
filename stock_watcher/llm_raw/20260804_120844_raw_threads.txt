@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论李一恩骂散户，回复乐观预测光大涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["光可能继续大涨，以前类似情况。"],
+    "mentioned_stocks": ["光"]
+  },
+  {
+    "index": 2,
+    "summary": "抱怨论坛负面情绪帖子多，用户通过发帖宣泄亏损情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["市场不好时用户发帖宣泄情绪。", "亏损后写段子或发歌。", "被套牢需要情绪出口。"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 3,
+    "summary": "市场缩量，场外资金缺乏信心，周五龙头砸盘影响大。",
+    "sentiment": "negative",
+    "key_opinions": ["缩量显示信心不足。", "周五情绪龙头砸盘影响。", "等场外资金有信心时可能该卖。"],
+    "mentioned_stocks": ["德明利", "兆易", "科技"]
+  },
+  {
+    "index": 4,
+    "summary": "红利股今天下跌，国家队调控或想抄底。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股下跌可能是国家队调控。", "跌得不够深，想等更低买入。", "红利低波可能回调到年线。"],
+    "mentioned_stocks": ["红利"]
+  },
+  {
+    "index": 5,
+    "summary": "短线亏损，讨论慢牛可能到来，投降不再买短线。",
+    "sentiment": "mixed",
+    "key_opinions": ["短线操作亏损。", "可能投降不再买短线。", "科技股可能反弹。"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论市场承接情况，缩量但可能止跌，下午看补量。",
+    "sentiment": "mixed",
+    "key_opinions": ["缩量显示平衡。", "下午看能否补量。", "场内卖压减轻，场外试错。"],
+    "mentioned_stocks": ["科技", "券商", "纳指期货"]
+  },
+  {
+    "index": 7,
+    "summary": "银行股暴跌，可能意味多头建仓，想等更低价格抄底。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行暴跌可能意味多头建仓。", "跌得不够深，不想接盘。", "等银行跌到特定价格再买。"],
+    "mentioned_stocks": ["银行", "招行", "工行", "科技"]
+  },
+  {
+    "index": 8,
+    "summary": "科技股解放套牢盘，存储股因CX在可能难涨。",
+    "sentiment": "positive",
+    "key_opinions": ["科技股上涨解放了追高套牢盘。", "存储股因CX在可能难涨。"],
+    "mentioned_stocks": ["科技", "存储股"]
+  },
+  {
+    "index": 9,
+    "summary": "发布个人操作策略，强调技术策略跟随市场。",
+    "sentiment": "positive",
+    "key_opinions": ["操作跟随市场策略。", "低位看逻辑，高位看量价。", "技术策略是保命策略。"],
+    "mentioned_stocks": ["科技", "光纤", "存储"]
+  },
+  {
+    "index": 10,
+    "summary": "美股AI股调整后快速反弹，微软财报确认趋势。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI股调整后可能真香。", "微软财报确认趋势。", "调整在正常范围内。"],
+    "mentioned_stocks": ["AI", "微软", "英伟达", "存储股", "恒生指数"]
+  },
+  {
+    "index": 11,
+    "summary": "通信ETF可能涨停，讨论后续砸盘风险和祖训卖出。",
+    "sentiment": "mixed",
+    "key_opinions": ["ETF涨停可能引发后续砸盘。", "遵循祖训卖出。", "这次可能不一样。"],
+    "mentioned_stocks": ["通信etf", "光迅", "科创50etf"]
+  },
+  {
+    "index": 12,
+    "summary": "科技仍是主线但涨幅有限，涨跌都猛。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技是贯穿牛熊的主线。", "涨的时候猛，跌的时候也猛。", "一年涨光后三年涨幅。"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 13,
+    "summary": "乐观看好科技反转，但可能半场开香槟。",
+    "sentiment": "positive",
+    "key_opinions": ["科技可能反转。", "半场开香槟可能早。", "隔天可能回调。"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 14,
+    "summary": "比喻股市可能好转，但亏损后反弹少。",
+    "sentiment": "mixed",
+    "key_opinions": ["股市可能好转。", "亏损后反弹少。", "女神发信息比喻。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论巨人网络股票，周K底部放量可能收集筹码。",
+    "sentiment": "mixed",
+    "key_opinions": ["周K底部放量可能收集筹码。", "游戏股有业绩或超跌。", "走出W底形态。"],
+    "mentioned_stocks": ["巨人网络"]
+  },
+  {
+    "index": 16,
+    "summary": "认为科技企稳反转，但可能半场开香槟。",
+    "sentiment": "positive",
+    "key_opinions": ["科技企稳反转。", "半场开香槟。", "下午可能砸盘。"],
+    "mentioned_stocks": ["科技", "赵姨达美乐"]
+  },
+  {
+    "index": 17,
+    "summary": "警告不要盲目乐观，缩量上涨可能走熊。",
+    "sentiment": "negative",
+    "key_opinions": ["缩量上涨不乐观。", "沪指死叉可能走熊。", "尾盘放量需观察。"],
+    "mentioned_stocks": ["科技", "沪指"]
+  },
+  {
+    "index": 18,
+    "summary": "科技股博弈，有预期差但波动大。",
+    "sentiment": "mixed",
+    "key_opinions": ["有预期差在。", "科技波动大。", "导的跌幅没收回。"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 19,
+    "summary": "场外资金不进场，缩量显示场内博弈。",
+    "sentiment": "negative",
+    "key_opinions": ["场外资金不进场。", "缩量显示场内资金博弈。", "后续可能涨到信为止。"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 20,
+    "summary": "券商股缩量压制情绪，量化限制利空。",
+    "sentiment": "negative",
+    "key_opinions": ["券商缩量压制情绪。", "量化限制对券商利空。", "券商是牛市风向标。"],
+    "mentioned_stocks": ["券商", "银行", "保险"]
+  },
+  {
+    "index": 21,
+    "summary": "分享自建股票分析网站，有随机选股功能。",
+    "sentiment": "positive",
+    "key_opinions": ["网站用codex构建。", "有随机选股功能。", "数据来自akshare。"],
+    "mentioned_stocks": ["北证50", "纳指", "标普"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论是否追涨科技大阳线，缩量但强势。",
+    "sentiment": "mixed",
+    "key_opinions": ["大阳线但缩量。", "追涨可能被套。", "等回调再买。"],
+    "mentioned_stocks": ["双创", "科创50", "纳指"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论三只股票，纽威和豪迈企稳，福耀估值高。",
+    "sentiment": "mixed",
+    "key_opinions": ["纽威和豪迈科技企稳。", "福耀基本面好但估值已高。", "豪迈科技底部放量。"],
+    "mentioned_stocks": ["纽威股份", "福耀玻璃", "豪迈科技"]
+  },
+  {
+    "index": 24,
+    "summary": "建议通过香港银行买纳指基金，考虑汇率和门槛。",
+    "sentiment": "positive",
+    "key_opinions": ["通过香港银行买纳指基金。", "汇率损失考虑。", "跨境理财通有高门槛。"],
+    "mentioned_stocks": ["纳斯达克100", "标普500"]
+  },
+  {
+    "index": 25,
+    "summary": "担心市场再次砸盘，某队调控可能不要脸。",
+    "sentiment": "negative",
+    "key_opinions": ["市场可能再次砸绿。", "某队不要脸。", "美国数据公布可能影响。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论福晶科技，跌多反弹弱，逻辑是光模块上游。",
+    "sentiment": "mixed",
+    "key_opinions": ["福晶科技跌多反弹弱。", "逻辑是光模块上游。", "无业绩担忧。"],
+    "mentioned_stocks": ["福晶科技", "东山精密", "晶方科技", "云南锗业"]
+  },
+  {
+    "index": 27,
+    "summary": "买入标普500并加杠杆，头像含义开玩笑。",
+    "sentiment": "mixed",
+    "key_opinions": ["买标普500并加杠杆。", "头像可能有多种意思。", "标普可能拥挤。"],
+    "mentioned_stocks": ["标普500", "纳指", "TQQQ"]
+  },
+  {
+    "index": 28,
+    "summary": "看好轮船和海能股，油运立于不败但缺乏关注。",
+    "sentiment": "positive",
+    "key_opinions": ["油运股立于不败之地。", "缺乏关注度。", "吹捧可能引来砸盘。"],
+    "mentioned_stocks": ["轮船", "海能", "中远海特"]
+  },
+  {
+    "index": 29,
+    "summary": "中证2000指数上涨，定投宽基指数更稳。",
+    "sentiment": "positive",
+    "key_opinions": ["中证2000上涨。", "定投宽基指数更稳。", "微盘股可能走上升趋势。"],
+    "mentioned_stocks": ["中证2000", "中证500", "标普", "深指"]
+  },
+  {
+    "index": 30,
+    "summary": "科技关键一天，基金赎回潮可能见底。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天不砸，明天关键。", "基金赎回潮可能见底。", "基民最惨。"],
+    "mentioned_stocks": ["科技", "基金"]
+  },
+  {
+    "index": 31,
+    "summary": "亨通光电下跌多但关注度低，早跑出避免亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["亨通光电跌得多。", "早跑出避免更多亏损。", "光纤股无人坚持。"],
+    "mentioned_stocks": ["亨通光电", "德明利", "兆易创新"]
+  },
+  {
+    "index": 32,
+    "summary": "电信门店倒闭影响股票信心，但垄断行业可能不受影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["门店倒闭不一定影响垄断行业。", "担心利润降低影响分红。", "线下需求减少是趋势。"],
+    "mentioned_stocks": ["电信股票", "银行"]
+  },
+  {
+    "index": 33,
+    "summary": "反驳昨天观点，今天普涨但银行没涨。",
+    "sentiment": "positive",
+    "key_opinions": ["今天所有指数全红。", "银行没涨。", "科技猛拉但指数萎靡。"],
+    "mentioned_stocks": ["科技", "银行", "红利"]
+  },
+  {
+    "index": 34,
+    "summary": "腾讯拖累中概股，阿里更映射美股。",
+    "sentiment": "negative",
+    "key_opinions": ["腾讯到压力位。", "阿里更映射美股。", "腾讯像微软，阿里像谷歌。"],
+    "mentioned_stocks": ["腾讯", "阿里", "中概股"]
+  },
+  {
+    "index": 35,
+    "summary": "转折点出现但仍需定投，可能还有一次大跌。",
+    "sentiment": "positive",
+    "key_opinions": ["转折点符合模型。", "定投逐步加仓。", "可能还有一次大跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "挑战从20万到100万，可能很快到10万。",
+    "sentiment": "mixed",
+    "key_opinions": ["挑战从20万到100万。", "可能很快到10万。", "需要长时间或充值。"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 37,
+    "summary": "完美世界与游戏ETF价格强相关，ETF资金主导。",
+    "sentiment": "mixed",
+    "key_opinions": ["完美世界单价与ETF单价相关。", "分时线重合。", "ETF资金主导。"],
+    "mentioned_stocks": ["完美世界", "游戏ETF"]
+  },
+  {
+    "index": 38,
+    "summary": "一个月亏光三年盈利，科技股亏损严重。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股亏损严重。", "割肉认亏。", "老登股更稳妥。"],
+    "mentioned_stocks": ["中远海控", "雅戈尔", "工商银行", "农业银行", "交通银行", "科技", "红利"]
+  },
+  {
+    "index": 39,
+    "summary": "光通信上涨，兴奋感谢迪迦。",
+    "sentiment": "positive",
+    "key_opinions": ["光通信上涨。", "感谢迪迦。", "回血否则光身子。"],
+    "mentioned_stocks": ["光通信"]
+  },
+  {
+    "index": 40,
+    "summary": "AI硬件分化分梯队，存储因传言示弱。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI硬件分梯队。", "存储因传言示弱。", "光强势但A股不好说。"],
+    "mentioned_stocks": ["AI硬件", "存储", "算力租赁", "光互联"]
+  },
+  {
+    "index": 41,
+    "summary": "批评追高科技股亏钱，认为A股科技是骗钱。",
+    "sentiment": "negative",
+    "key_opinions": ["追高科技亏钱活该。", "A股科技企业是骗钱。", "核心资产是银行白酒。"],
+    "mentioned_stocks": ["科技", "银行白酒"]
+  },
+  {
+    "index": 42,
+    "summary": "号召集结钨相关股票，但利好出货可能。",
+    "sentiment": "mixed",
+    "key_opinions": ["钨妖王可能启动。", "利好出货。", "建议来汽车或创新药。"],
+    "mentioned_stocks": ["钨", "小商品城", "中概", "汽车", "创新药"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论止盈和贪心，小盈利是否满足。",
+    "sentiment": "mixed",
+    "key_opinions": ["小盈利是否满足。", "止盈难。", "日内交易策略。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "强调科技对市场重要性，砸老登股释放流动性。",
+    "sentiment": "positive",
+    "key_opinions": ["科技稳住才能刺激消费。", "砸老登股释放流动性。", "看好国产科技。"],
+    "mentioned_stocks": ["科技", "老登股"]
+  },
+  {
+    "index": 45,
+    "summary": "散户可以空仓，逆回购类似空仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["散户可以空仓。", "逆回购类似空仓。", "空仓跑赢市场。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "讨论泡泡玛特投资，难算现金流和竞品多。",
+    "sentiment": "mixed",
+    "key_opinions": ["泡泡玛特难算现金流。", "没有爆款替代。", "竞品多。"],
+    "mentioned_stocks": ["泡泡玛特"]
+  },
+  {
+    "index": 47,
+    "summary": "记录轮动行情操作，策略通过指数和资金选板块。",
+    "sentiment": "positive",
+    "key_opinions": ["通过指数和资金选板块。", "敢在下跌买龙头。", "持股不超过48小时。"],
+    "mentioned_stocks": ["昭衍新药", "茂业商业", "东百", "美地", "华天", "兴欣"]
+  },
+  {
+    "index": 48,
+    "summary": "银行股才开始跌，建议等跌到年线再买。",
+    "sentiment": "negative",
+    "key_opinions": ["银行股才开始跌。", "等跌到年线再买。", "别人赚股息后接盘。"],
+    "mentioned_stocks": ["银行", "招商银行", "建设银行"]
+  },
+  {
+    "index": 49,
+    "summary": "从银行转向科技，因回本慢，科技企稳。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行回本慢，转科技。", "科技企稳迹象。", "左右挨打。"],
+    "mentioned_stocks": ["银行", "科技", "光通信"]
+  },
+  {
+    "index": 50,
+    "summary": "讨论嘉立创股票操作，可能还有拉升但建议卖。",
+    "sentiment": "mixed",
+    "key_opinions": ["嘉立创可能还有拉升。", "PCB涨但嘉立创不冲。", "建议全卖避免下跌。"],
+    "mentioned_stocks": ["嘉立创", "沪电", "胜宏"]
+  }
+]
