@@ -1,0 +1,549 @@
+[
+  {
+    "index": 1,
+    "summary": "用户询问是否有便宜筹码可捡，回复讨论半导体、国产链或指数机会，但悲观情绪为主。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跟着光错杀的半导体或国产链可能有机会。",
+      "光大哥倒下可能导致其他板块下跌。",
+      "今天外热内冷，机会不多。"
+    ],
+    "mentioned_stocks": ["半导体", "国产链", "中证500"]
+  },
+  {
+    "index": 2,
+    "summary": "对比日韩指数走出下行区间，表达对A股表现的失望和无奈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股股民等待挨刀，对比日韩的嘲讽。",
+      "AI产业链受益程度可能轮到A股。",
+      "国家队行为引发不满。"
+    ],
+    "mentioned_stocks": ["恒生", "大A", "日韩指数"]
+  },
+  {
+    "index": 3,
+    "summary": "预计光大证券低开，讨论处理方式，悲观预期消息可能已消化但仍有下跌风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "担心低开后无法及时卖出。",
+      "消息可能已消化，但仍有下跌风险。",
+      "低开后可能继续下跌。"
+    ],
+    "mentioned_stocks": ["光大证券", "tower", "atx"]
+  },
+  {
+    "index": 4,
+    "summary": "引用AI工具豆包预测东山不会跌停，但用户持怀疑态度，反思误判。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "豆包预测不可信，市场情绪主导。",
+      "之前对东山误判，需要吸取教训。",
+      "技术分析是概率判断，不是确定。"
+    ],
+    "mentioned_stocks": ["东山"]
+  },
+  {
+    "index": 5,
+    "summary": "基于外围修复趋势，认为国产链被错杀可能是黄金坑，但警惕下跌陷阱。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "外围修复，纳斯达克上涨。",
+      "国产科技板块博弈成功率高。",
+      "警惕预判预判和下跌陷阱。"
+    ],
+    "mentioned_stocks": ["国产链", "中际旭创", "cpo"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论云南猪业（云南锗业）在光模块制裁下的表现，有分歧和情绪炒作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "光模块被制裁可能影响。",
+      "磷化铟反制可能带来机会。",
+      "情绪炒作，不一定落地。"
+    ],
+    "mentioned_stocks": ["云南猪业", "axt"]
+  },
+  {
+    "index": 7,
+    "summary": "引用钟声文章，讨论市场恐慌和救市可能，悲观预期机构砸盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "不要抱幻想，可能下跌。",
+      "国家队可能救市，但手段有限。",
+      "机构可能砸盘，互相背刺。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "对比药明康德经验，认为中际被禁可能不了了之，但短期情绪受影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "药明康德被制裁最终不了了之。",
+      "中际被禁可能不落地，但情绪会受影响。",
+      "短期承压，长期看替代性。"
+    ],
+    "mentioned_stocks": ["药明康德", "中际旭创"]
+  },
+  {
+    "index": 9,
+    "summary": "大使馆回应确认事件真实，市场反应悲观，建议早跑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大使馆回应，事件真实。",
+      "早跑为妙，类似阳光电源、药明案例。",
+      "情绪炸了，砸盘为主。"
+    ],
+    "mentioned_stocks": ["阳光电源", "药明"]
+  },
+  {
+    "index": 10,
+    "summary": "期望美日韩上涨托举A股，但现实是大A有自己的节奏。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "期待外围托举A股高开高走。",
+      "大A有自己的节奏。",
+      "关注韩国和港股走势。"
+    ],
+    "mentioned_stocks": ["美日韩指数", "大A"]
+  },
+  {
+    "index": 11,
+    "summary": "预测澜起科技低开5个点，讨论抄底可能，参考美股存储芯片。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "澜起科技可能低开5个点。",
+      "参考美股存储芯片表现。",
+      "科创可能被光带下来。"
+    ],
+    "mentioned_stocks": ["澜起科技", "rambus", "intel"]
+  },
+  {
+    "index": 12,
+    "summary": "分享炒股经历和心态，有自嘲和反思，恐惧来源于未知。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "做好事但股市亏钱。",
+      "讨论股不敢买，运气找到妖股但没赚到。",
+      "恐惧来源于未知。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "发布操作策略，强调技术分析，自信应对市场波动。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "操作跟随市场策略。",
+      "上面护盘，但滚雪球式踩踏。",
+      "严格以技术策略操作保命。"
+    ],
+    "mentioned_stocks": ["大光"]
+  },
+  {
+    "index": 14,
+    "summary": "分享定投纳斯达克ETF盈利，对比A股被套，建议打不过就加入。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "纳斯达克定投盈利。",
+      "对比A股被套。",
+      "打不过就加入。"
+    ],
+    "mentioned_stocks": ["纳斯达克ETF"]
+  },
+  {
+    "index": 15,
+    "summary": "DELL股价新高，走势好，对比A股表现羡慕。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "DELL走势好，跌少修复快。",
+      "对比A股表现。"
+    ],
+    "mentioned_stocks": ["DELL"]
+  },
+  {
+    "index": 16,
+    "summary": "质疑美股日线走势，讨论美股吸收流动性和各种资产波动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股吸收流动性。",
+      "纳指值得格局。",
+      "各种资产波动。"
+    ],
+    "mentioned_stocks": ["美股", "纳指", "饼"]
+  },
+  {
+    "index": 17,
+    "summary": "羡慕美股上涨，对A股失望，认为美股涨可能利空A股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美股正规市场。",
+      "美股涨可能利空A股。",
+      "美股吸收流动性。"
+    ],
+    "mentioned_stocks": ["纳斯达克", "标普500"]
+  },
+  {
+    "index": 18,
+    "summary": "Rubin Ultra规格变化对光模块影响，可能对旭创NPO放量有预期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "Rubin Ultra砍HBM规格。",
+      "对旭创NPO放量有预期。",
+      "通信ETF有光纤拖后腿。"
+    ],
+    "mentioned_stocks": ["旭创", "兆易", "通信ETF"]
+  },
+  {
+    "index": 19,
+    "summary": "预测房价止跌，宏观因素可能稳房价，但人口下降存疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "宏观因素可能稳房价。",
+      "人口下降，存量房问题。",
+      "一线城市可能到位。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "黑天鹅事件打断大涨预期，失望美股大涨而A股可能跟跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黑天鹅打断大涨。",
+      "美股大涨，A股可能跟跌。",
+      "中际旭创可能回到100。"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论阳光电源是否被错杀，业绩不行且受FCC政策影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "阳光电源业绩不行。",
+      "FCC政策影响。",
+      "如果光模块稳住，阳光可能补涨。"
+    ],
+    "mentioned_stocks": ["阳光电源", "宁德时代"]
+  },
+  {
+    "index": 22,
+    "summary": "呼吁支持国产半导体，列举公司但估值高，科技含量待提升。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "列举国产半导体公司。",
+      "机构应重视国产链。",
+      "估值已高，但科技含量待提升。"
+    ],
+    "mentioned_stocks": ["长鑫科技", "寒武纪", "中芯国际"]
+  },
+  {
+    "index": 23,
+    "summary": "美光高成交量原因探讨，多空对轰，存储卡脖子利润高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美光是热门存储股。",
+      "多空对轰，波动大。",
+      "存储卡脖子，利润高。"
+    ],
+    "mentioned_stocks": ["美光"]
+  },
+  {
+    "index": 24,
+    "summary": "德明利业绩下滑，Q3可能更惨，筹码结构好但基本面差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "德明利利润环比下滑。",
+      "Q3可能更惨。",
+      "筹码结构好但基本面差。"
+    ],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 25,
+    "summary": "纳指大涨引发对A股焦虑，原油暴跌导致科技股估值修复。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳指猛涨，A股担忧。",
+      "原油暴跌，科技股估值修复。",
+      "叙事纠偏。"
+    ],
+    "mentioned_stocks": ["纳指", "QQQ"]
+  },
+  {
+    "index": 26,
+    "summary": "英伟达CPO量产对国内光模块影响不确定，小作文是主要因子。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "小作文是最大因子。",
+      "做美国生意的可能跌。",
+      "基本高开高走。"
+    ],
+    "mentioned_stocks": ["英伟达", "天孚", "光模块"]
+  },
+  {
+    "index": 27,
+    "summary": "探讨光模块护城河，包括成本、产能和精密加工优势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "成本和产能优势。",
+      "精密加工护城河深。",
+      "物料锁定和认证。"
+    ],
+    "mentioned_stocks": ["易中天"]
+  },
+  {
+    "index": 28,
+    "summary": "黄金价格下跌，波动小，受汇率影响，讨论积存金策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金波动小。",
+      "汇率影响。",
+      "积存金策略。"
+    ],
+    "mentioned_stocks": ["黄金", "赤峰黄金"]
+  },
+  {
+    "index": 29,
+    "summary": "AMD财报后下跌，资本开支大，估值高回本存疑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "AMD资本开支大。",
+      "估值高，回本疑问。",
+      "资金要求回报。"
+    ],
+    "mentioned_stocks": ["AMD"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论做空中际旭创和剑桥的可能胜率，但做空风险高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "做空可能高胜率。",
+      "开盘最低怎么办。",
+      "做空难赚钱。"
+    ],
+    "mentioned_stocks": ["中际旭创", "剑桥"]
+  },
+  {
+    "index": 31,
+    "summary": "阳光电源FCC事件参考，限制新型号杀未来成长性，光模块可能不受影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "FCC限制新型号。",
+      "杀未来成长性。",
+      "光模块可能不受影响。"
+    ],
+    "mentioned_stocks": ["阳光电源", "ENPH", "SEDG"]
+  },
+  {
+    "index": 32,
+    "summary": "担忧创业板阴包阳，被光模块绑架，宁德时代可能出手。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创业板被光模块绑架。",
+      "宁德时代可能出手。",
+      "跌一个月后可能反弹。"
+    ],
+    "mentioned_stocks": ["创业板", "宁德时代"]
+  },
+  {
+    "index": 33,
+    "summary": "美股大涨和特朗普政策对比，A股可能跟跌，保美股收割中日韩。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美股涨，A股可能跟跌。",
+      "纳指新高，上证可能不到3900。",
+      "保美股，收割中日韩。"
+    ],
+    "mentioned_stocks": ["纳指", "QQQ", "大A"]
+  },
+  {
+    "index": 34,
+    "summary": "探讨A股真科技公司，列举但认为目前没有真科技。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫算真科技。",
+      "比亚迪、宁德时代。",
+      "目前没有真科技。"
+    ],
+    "mentioned_stocks": ["长鑫", "比亚迪", "宁德时代"]
+  },
+  {
+    "index": 35,
+    "summary": "光模块开盘预测，低开可能更安心，-3开可能加剧下跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "低开可能更安心。",
+      "-20开可能拉回。",
+      "-3开可能加剧下跌。"
+    ],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 36,
+    "summary": "ETF资金净流出，汪汪队撤退，明天可能托底。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "ETF净流出。",
+      "汪汪队撤退。",
+      "明天可能托底。"
+    ],
+    "mentioned_stocks": ["ETF", "易方达创业板ETF", "华泰柏瑞沪深300ETF"]
+  },
+  {
+    "index": 37,
+    "summary": "机构出货方式分析，估值逻辑双杀，囚徒困境互相掏口袋。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "机构先卖其他持仓。",
+      "估值逻辑双杀。",
+      "囚徒困境，互相掏口袋。"
+    ],
+    "mentioned_stocks": ["中", "新"]
+  },
+  {
+    "index": 38,
+    "summary": "纳指ETF溢价vs创业板ETF比较，溢价可能持续，创业板被冷落。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指溢价可能持续。",
+      "创业板ETF被冷落。",
+      "场外纳指没溢价但收益率低。"
+    ],
+    "mentioned_stocks": ["纳指ETF", "创业板ETF"]
+  },
+  {
+    "index": 39,
+    "summary": "长鑫在国产链中扛旗可能抽干其他，国产链规避风险，机构抱团。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫扛大旗可能抽干其他。",
+      "国产链规避风险。",
+      "机构抱团。"
+    ],
+    "mentioned_stocks": ["长鑫", "寒武纪", "中芯国际"]
+  },
+  {
+    "index": 40,
+    "summary": "韩国大涨希望A股跟涨，上次没跟，这次除光外可能反转。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国大涨，A股可能跟。",
+      "上次没跟，这次可能不同。",
+      "除了光，其他可能反转。"
+    ],
+    "mentioned_stocks": ["韩指", "光模块"]
+  },
+  {
+    "index": 41,
+    "summary": "市场跌幅预测，不会跌停开，最多-3到-5开，低开高走可能。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "不会跌停开。",
+      "最多-3到-5开。",
+      "低开高走可能。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "特斯拉股票下跌，财报后失望，解禁压力和贪心导致亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "财报后下跌。",
+      "解禁压力。",
+      "贪心导致亏损。"
+    ],
+    "mentioned_stocks": ["特斯拉"]
+  },
+  {
+    "index": 43,
+    "summary": "李大霄唱空美股被打脸，实际指A股，逼空行情。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "李大霄唱空美股。",
+      "实际指A股。",
+      "逼空行情。"
+    ],
+    "mentioned_stocks": ["美股", "A股"]
+  },
+  {
+    "index": 44,
+    "summary": "英伟达主升浪可能，AMD拉了，季报前拉新高。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "AMD拉了，英伟达可能涨。",
+      "季报前拉新高。",
+      "竞争对手表现。"
+    ],
+    "mentioned_stocks": ["英伟达", "AMD"]
+  },
+  {
+    "index": 45,
+    "summary": "对新闻事件的厌恶，打断行情，收割感觉。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "新闻打断行情。",
+      "收割感觉。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "抄底中际旭创有争议，高壁垒是假象，杀估值砍血量。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中际高壁垒是假象。",
+      "国内不需要那么多光模块。",
+      "杀估值，砍血量上限。"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 47,
+    "summary": "美股空头被逼空拉爆，做空美股愚蠢，空头是燃料。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "美股空头被拉爆。",
+      "做空美股愚蠢。",
+      "空头是燃料。"
+    ],
+    "mentioned_stocks": ["美股", "道指", "标普500", "纳指"]
+  },
+  {
+    "index": 48,
+    "summary": "买入紫金矿业，利好拉满，有黄金和护盘buff。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "利好拉满。",
+      "紫金有黄金和护盘buff。",
+      "石油和稀土对比。"
+    ],
+    "mentioned_stocks": ["紫金矿业", "石油", "稀土"]
+  },
+  {
+    "index": 49,
+    "summary": "亏损心态调整，浮亏1.2万，仓位在光、存、科创50ETF，建议认亏。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "浮亏1.2万，本金5万。",
+      "仓位在光、存、科创50ETF。",
+      "建议认亏，别加仓。"
+    ],
+    "mentioned_stocks": ["光ETF", "存ETF", "科创50ETF"]
+  },
+  {
+    "index": 50,
+    "summary": "乐观预期，自称丁蟹，基本美好早晚得势。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "自称丁蟹，玩笑。",
+      "基本美好，早晚得势。"
+    ],
+    "mentioned_stocks": []
+  }
+]
