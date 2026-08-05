@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论7月大跌后8月市场情绪迅速反转的现象，网友感慨情绪神奇。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场情绪在短时间内发生极致反转", "涨多了跌，跌多了涨是规律", "科技板块波动大，美股也一样"],
+    "mentioned_stocks": ["美股存储股"]
+  },
+  {
+    "index": 2,
+    "summary": "楼主分享个人交易策略，强调跟随市场和技术执行。",
+    "sentiment": "neutral",
+    "key_opinions": ["策略跟着市场走，低位看逻辑，高位看价量", "技术策略是保命手段", "7月上面有净流入宽基护盘"],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 3,
+    "summary": "广发全球精选基金调整申购限额，网友讨论其持仓和表现。",
+    "sentiment": "negative",
+    "key_opinions": ["限额期间美股回调，客观上降低了成本", "基金近十年收益未跑过纳指", "持仓调整引发投资者不满"],
+    "mentioned_stocks": ["广发全球精选基金", "纳指"]
+  },
+  {
+    "index": 4,
+    "summary": "感叹持有不动比频繁操作好，容易因PTSD卖飞。",
+    "sentiment": "negative",
+    "key_opinions": ["高开低走导致心态不稳", "频繁操作导致未吃到完整反弹", "持有不动是较好的策略"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "号召关注钨相关股票，但遭下跌打击，引发吐槽。",
+    "sentiment": "negative",
+    "key_opinions": ["利好消息成为出货时机", "钨价下跌导致股价下跌", "心态从冲锋到崩塌"],
+    "mentioned_stocks": ["钨股", "小商品城", "中概", "创新药"]
+  },
+  {
+    "index": 6,
+    "summary": "分享因不忠诚持有而卖飞光模块股票的经历。",
+    "sentiment": "negative",
+    "key_opinions": ["卖飞后股价立刻上涨是常见经历", "量化交易导致判断困难", "频繁做T影响持股信心"],
+    "mentioned_stocks": ["光模块股"]
+  },
+  {
+    "index": 7,
+    "summary": "因特朗普相关消息恐惧，在科技股上挂跌停价卖出。",
+    "sentiment": "negative",
+    "key_opinions": ["消息引发恐慌性挂单", "多数人建议撤单观察", "情绪化操作易导致卖飞"],
+    "mentioned_stocks": ["中新科技股"]
+  },
+  {
+    "index": 8,
+    "summary": "新人请教汉钟精机的估值逻辑和买卖点。",
+    "sentiment": "neutral",
+    "key_opinions": ["核心业务是真空泵及液冷概念", "属于半导体设备零部件赛道", "该票较为冷门，少有深度推荐"],
+    "mentioned_stocks": ["汉钟精机"]
+  },
+  {
+    "index": 9,
+    "summary": "抱怨被论坛唱衰科技的言论影响，导致卖飞。",
+    "sentiment": "negative",
+    "key_opinions": ["论坛情绪影响个人操作", "卖出后股价反弹导致后悔", "应独立判断，不应受他人影响"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 10,
+    "summary": "对比泥潭APP的恐慌情绪与实际平稳开盘，感慨情绪放大。",
+    "sentiment": "mixed",
+    "key_opinions": ["论坛情绪与市场实际走势常存在反差", "七月暴跌导致投资者惊弓之鸟", "提前释放风险可能有效果"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "半导体板块反弹，上周五入场者接近回本，引发感慨。",
+    "sentiment": "mixed",
+    "key_opinions": ["板块走势强势", "部分投资者在低点割肉后遭遇反弹", "市场反向操作特征明显"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 12,
+    "summary": "争论“罕见链”（可能指AI硬件）是否是牛市底层逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技牛不等于AI硬件牛", "科技内部可高低切换", "若主线崩塌，其他科技方向可能受牵连"],
+    "mentioned_stocks": ["罕见链", "AI硬件", "商业航天", "中国卫星"]
+  },
+  {
+    "index": 13,
+    "summary": "认为光模块下跌反而解放了资金，使其他科技板块上涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["“一鲸落，万物生”，资金从光模块流出", "机构在低位吸筹后拉升", "光模块是否真正“死亡”存疑"],
+    "mentioned_stocks": ["光模块", "中旭", "PCB", "玻璃基板", "半导体"]
+  },
+  {
+    "index": 14,
+    "summary": "对比美股普涨与A股跷跷板效应，不满资金分配不均。",
+    "sentiment": "negative",
+    "key_opinions": ["A股资金不足，板块间互相抽取", "科技涨时常伴随权重股下跌", "市场存量博弈特征明显"],
+    "mentioned_stocks": ["权重股"]
+  },
+  {
+    "index": 15,
+    "summary": "新手投资者5万本金亏损，重仓科技ETF遭遇下跌，心态焦虑。",
+    "sentiment": "negative",
+    "key_opinions": ["本金不多，亏损影响心态", "清仓后猛涨，重仓后猛跌", "建议不要总想回本，避免操作变形"],
+    "mentioned_stocks": ["光模块ETF", "存储ETF", "科创50ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "尝试使用AI分析股票，认为其判断有一定参考价值。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI分析可作为投资参考", "AI建议可避免大幅回撤", "完全按AI操作仍需谨慎"],
+    "mentioned_stocks": ["工业富联"]
+  },
+  {
+    "index": 17,
+    "summary": "展望AI时代，认为当前投资类似互联网早期，未来软件价值将超越硬件。",
+    "sentiment": "positive",
+    "key_opinions": ["软件市值终将超越硬件", "AI手机可能颠覆现有应用形态", "当前投资是押注未来赢家"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论机构如何对下跌的科技股（如中、新）进行出货。",
+    "sentiment": "negative",
+    "key_opinions": ["机构可能通过拉升自救或左手倒右手出货", "突发利空导致机构间的囚徒困境", "散户容易成为最后的接盘者"],
+    "mentioned_stocks": ["中", "新"]
+  },
+  {
+    "index": 19,
+    "summary": "询问机器人板块上涨原因，有投资者跟风买入。",
+    "sentiment": "mixed",
+    "key_opinions": ["上涨可能与宇树科技上市预期有关", "部分上涨股票与机器人概念关联度不高", "提醒注意短期走势风险"],
+    "mentioned_stocks": ["宗申动力", "机器人"]
+  },
+  {
+    "index": 20,
+    "summary": "深度分析牧原股份，认为其处于周期底部，具备投资价值。",
+    "sentiment": "positive",
+    "key_opinions": ["猪周期见底信号明显，能繁母猪加速去化", "牧原成本行业最低，周期反转后弹性最大", "管理层大额增持显示信心，给出120元目标价"],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 21,
+    "summary": "反思在竞价时清仓光相关股票是否错误，担心卖飞。",
+    "sentiment": "negative",
+    "key_opinions": ["清仓后股价上涨导致卖飞感严重", "紧跟泥潭情绪操作可能是错误", "知行合一，不后悔，认知外的钱难赚"],
+    "mentioned_stocks": ["通信ETF", "光纤"]
+  },
+  {
+    "index": 22,
+    "summary": "提示豪威股份可能成为踏空者的选择，因其走势相对独立。",
+    "sentiment": "mixed",
+    "key_opinions": ["豪威股份走势与大盘科技股有一定负相关", "其业务（GIS摄像头）处于行业下行周期", "即将发布半年报，业绩可能不佳"],
+    "mentioned_stocks": ["豪威股份"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论某科技股（赵姨）的目标价，预期从高位回落。",
+    "sentiment": "mixed",
+    "key_opinions": ["投资者对目标价预期已大幅降低", "短线操作比死拿体验更好", "股价波动剧烈，容易坐过山车"],
+    "mentioned_stocks": ["赵姨（可能指中际旭创或其他科技股）"]
+  },
+  {
+    "index": 24,
+    "summary": "总结散户在涨跌中的矛盾心理和情绪化言论。",
+    "sentiment": "negative",
+    "key_opinions": ["表面看涨，内里充满怀疑和恐惧", "股市是情绪和资金的博弈场", "投机行为普遍，给自己贴金无益"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "观察到港股中际旭创仍在上涨，认为其表现已属强势。",
+    "sentiment": "positive",
+    "key_opinions": ["面对利空消息，股价仅小幅下跌已属强势", "港股走势对A股有参考意义"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 26,
+    "summary": "简单提醒卖飞者不要盲目追高。",
+    "sentiment": "neutral",
+    "key_opinions": ["提醒避免追高风险", "语气带有调侃"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论中际旭创天量成交背后的接盘资金性质。",
+    "sentiment": "mixed",
+    "key_opinions": ["成交量巨大，疑有大资金（“大哥”）接盘", "也有观点认为是散户在接盘", "盘面显示大资金流出，小资金流入"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 28,
+    "summary": "评论马斯克SpaceX只用英伟达GPU的新闻，多为调侃。",
+    "sentiment": "negative",
+    "key_opinions": ["使用英伟达GPU是行业常态，新闻点奇怪", "评论充满对新闻和GPU价格的嘲讽", "凸显GPU市场的垄断和高价现状"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 29,
+    "summary": "认为突发利空未导致市场扩散下跌，是情绪好转信号。",
+    "sentiment": "positive",
+    "key_opinions": ["黑天鹅影响被局限在少数股票，未扩散", "市场整体情绪开始抵抗负面消息", "需观察后续能否稳住"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "咨询现在是否适合买入银行ETF。",
+    "sentiment": "mixed",
+    "key_opinions": ["多数人认为银行ETF短期调整未到位", "科技反弹未结束前银行板块可能承压", "长期配置可考虑，但需耐心等待更好价位"],
+    "mentioned_stocks": ["银行ETF", "招商银行", "招商银行"]
+  },
+  {
+    "index": 31,
+    "summary": "新手因紫金矿业跌破10日线减仓，询问思路是否正确。",
+    "sentiment": "neutral",
+    "key_opinions": ["技术指标预测如同丢硬币", "操作紫金需关注黄金和铜价走势", "地量破位可能是诱空信号"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论紫金矿业的上涨，有投资者因早盘卖出而后悔。",
+    "sentiment": "mixed",
+    "key_opinions": ["开盘卖出导致卖飞，心态受影响", "黄金板块启动，紫金跟涨", "部分投资者坚持持仓，期待主升浪"],
+    "mentioned_stocks": ["紫金矿业", "赤峰黄金"]
+  },
+  {
+    "index": 33,
+    "summary": "预测通信ETF等次日开盘走势，担忧继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["预期次日ETF会深幅低开", "科创50ETF可能被连带下跌", "抄底资金有获利了结压力"],
+    "mentioned_stocks": ["通信ETF", "创业板ETF", "科创50ETF"]
+  },
+  {
+    "index": 34,
+    "summary": "观察到海南橡胶连续上涨，猜测是否企稳启动。",
+    "sentiment": "positive",
+    "key_opinions": ["股价连续上涨引发关注", "猜测趋势可能反转"],
+    "mentioned_stocks": ["海南橡胶"]
+  },
+  {
+    "index": 35,
+    "summary": "投资者因卖出科技股后买入银行ETF，担心被套。",
+    "sentiment": "negative",
+    "key_opinions": ["卖科技买银行是风险转移", "银行ETF可能已在山腰位置", "有投资者选择网格化低吸"],
+    "mentioned_stocks": ["银行ETF"]
+  },
+  {
+    "index": 36,
+    "summary": "深刻反省在兆易创新投资中的赌徒心理和错误行为。",
+    "sentiment": "negative",
+    "key_opinions": ["总结了赌徒的四个典型特征", "应制定并严格遵守交易纪律", "不应盲目听信“死多头”观点"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 37,
+    "summary": "认为光模块下跌对科技板块是“鲸落万物生”，资金流向其他方向。",
+    "sentiment": "mixed",
+    "key_opinions": ["光模块因利空下跌，但资金流入半导体等板块", "预计下午光模块板块可能修复", "认为当前科技修复是主基调"],
+    "mentioned_stocks": ["光模块", "半导体", "东山精密", "光迅", "磷化铟", "兴业"]
+  },
+  {
+    "index": 38,
+    "summary": "提供纳斯达克指数的历史收益、费率等信息，供投资者参考。",
+    "sentiment": "positive",
+    "key_opinions": ["纳斯达克100长期收益优异", "QDII基金有限额问题", "定投有助于平滑波动，降低择时风险"],
+    "mentioned_stocks": ["纳斯达克100", "纳指", "QQQM"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论连板行情出现，AI应用股传智打出高度。",
+    "sentiment": "positive",
+    "key_opinions": ["传智连板突破高度，成为新龙头", "连板行情活跃，短线选手关注", "龙头断板后可能迎来低位补涨机会"],
+    "mentioned_stocks": ["传智", "AI应用", "立新", "圣阳", "恒尚", "爱丽"]
+  },
+  {
+    "index": 40,
+    "summary": "担忧半导体ETF快速上涨，询问是否会有政策调控。",
+    "sentiment": "negative",
+    "key_opinions": ["半导体ETF涨幅接近涨停，引发担忧", "投资者担心“大棒子”（政策）出台", "上周买入者目前仍被套"],
+    "mentioned_stocks": ["半导体ETF"]
+  },
+  {
+    "index": 41,
+    "summary": "吐槽面试的初创公司老板吹嘘纳斯达克上市，内容不靠谱。",
+    "sentiment": "negative",
+    "key_opinions": ["公司业务描述空洞，画饼嫌疑大", "纳斯达克上市门槛并非想象中高", "纳斯达克也有大量垃圾公司"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "认为本轮牛市可能持续跟随美股上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["“西大”（美股）不停，“我们”（A股）就不会停", "期待A股能走出类似美股的长牛"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "询问今日抄底后，明日是否适合卖出。",
+    "sentiment": "mixed",
+    "key_opinions": ["对市场反弹持续性存疑", "建议分批操作，降低焦虑", "有人计划尾盘或次日卖出部分仓位"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "询问中钨高新连续涨停是否意味着趋势反转。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价连续涨停引发关注", "有人计划高开就跑路", "上涨可能与钨价和PCB板块回暖有关"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 45,
+    "summary": "表达对胜宏科技上涨的喜爱之情。",
+    "sentiment": "positive",
+    "key_opinions": ["股价上涨带来积极情绪", "认为应相信趋势"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 46,
+    "summary": "坚持认为剑桥科技和德明利是真科技，应继续做多。",
+    "sentiment": "positive",
+    "key_opinions": ["真科技下跌是买入机会", "反驳质疑者，认为其有科技含量", "德明利的“科技护城河”被质疑"],
+    "mentioned_stocks": ["剑桥科技", "德明利", "富联"]
+  },
+  {
+    "index": 47,
+    "summary": "看到其他股票大涨而自己的股票涨幅小，产生FOMO情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["自选股普涨，但持仓股涨幅落后", "引发错失恐惧和伤心情绪", "考虑调整仓位"],
+    "mentioned_stocks": ["生益亨通", "紫光", "中芯", "华虹", "生益电子"]
+  },
+  {
+    "index": 48,
+    "summary": "质疑科技板块的上涨是多次拉高出货中的一次。",
+    "sentiment": "negative",
+    "key_opinions": ["7月进场者至今仍在亏损", "经历多次“拉高骗炮”后不再信任反弹", "频繁做T或持股不动都有难题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "讨论半导体ETF（半岛铁盒）可能再次涨停。",
+    "sentiment": "mixed",
+    "key_opinions": ["ETF涨幅很大，接近涨停", "提醒ETF涨停次日常出现回调", "投资者心态“今朝有酒今朝醉”"],
+    "mentioned_stocks": ["半导体ETF", "588200", "588170"]
+  },
+  {
+    "index": 50,
+    "summary": "因卖飞科技股而被迫追高买回，心态纠结。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场持续放量上涨", "卖飞后心态失衡，选择追高", "有观点认为早信早追，有观点警告追高风险"],
+    "mentioned_stocks": ["科技股", "半导体"]
+  }
+]
