@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论黄金走势是否为诱多或反转，涉及投资策略和情绪。",
+    "sentiment": "mixed",
+    "key_opinions": ["不会真有人认为黄金是反转了吧", "黄金反转的信号应该很明确", "黄金这么大的盘子，有几个人坐庄"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 2,
+    "summary": "用户分享预测黄金涨势的经历，包括买入时机和持仓情况。",
+    "sentiment": "positive",
+    "key_opinions": ["早早就在1200布局好了", "玩的就是心跳", "大家都在山顶挂着呢"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论传智教育股票的涨停板和投资机会，涉及妖股风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["大盘如果好转妖股就要遭殃", "现在9板了也肯定到头了", "这个题材偏冷门，概念没人研究"],
+    "mentioned_stocks": ["传智教育"]
+  },
+  {
+    "index": 4,
+    "summary": "探讨中国经济是否进入流动性陷阱，涉及利率和消费问题。",
+    "sentiment": "negative",
+    "key_opinions": ["银行存贷款利率持续走低", "大量的货币转化为了存款", "消费的核心是收入啊，和利率有什么关系？"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论科技牛市中跟随美股交易的优势和A股表现比较。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股走势非常规律，可以预判", "人家反弹三十个点，我们十个点", "这就科技牛了？"],
+    "mentioned_stocks": ["纳指", "科技股"]
+  },
+  {
+    "index": 6,
+    "summary": "分析段永平通过期权进行风险对冲的操作，涉及期权策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["不管是buy put还是sell call通过看跌期权对冲持仓", "普通人别动不动就碰期权", "也许他也有卖covered call吧"],
+    "mentioned_stocks": ["SpaceX"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论税收政策对大陆保险公司的影响，涉及财政压力。",
+    "sentiment": "mixed",
+    "key_opinions": ["财政到底有多大压力", "减养老金比啥都管用", "利好境内保险？"],
+    "mentioned_stocks": ["大陆保险公司"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论内存涨价导致手机可能涨价，涉及存储和消费电子。",
+    "sentiment": "negative",
+    "key_opinions": ["肯定的存储压力太大了", "涨价就不买，换机周期可以继续延长", "苹果的手机还没涨呢，竹为就要涨？"],
+    "mentioned_stocks": ["华为", "苹果"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论是否投资铜陵有色股票，涉及铜价和矿业股。",
+    "sentiment": "mixed",
+    "key_opinions": ["铜陵也没涨多少，铜价已经历史新高了", "铜矿不多，概念不纯", "新高那后面就要跌了吧参考锂矿"],
+    "mentioned_stocks": ["铜陵有色"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论存储行业巨头业绩和未来预期，涉及AI产业链。",
+    "sentiment": "mixed",
+    "key_opinions": ["Ai产业链不可能一直给存储打白工", "存储巨头业绩个个牛逼，预期就都低了不少", "都是美国资本控股的"],
+    "mentioned_stocks": ["闪迪", "韩存", "美存"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论谷歌股价闪崩原因，涉及核心人员离职。",
+    "sentiment": "negative",
+    "key_opinions": ["巴菲特清仓了？", "AI核心人员离职", "谷歌不是前阵子刚走了一个核心人员吗？"],
+    "mentioned_stocks": ["谷歌"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论韩国股市指数下跌，涉及全球市场情绪和压力。",
+    "sentiment": "negative",
+    "key_opinions": ["感觉今天压力还是挺大的", "天天就会跟在别人屁股后面闻味能不压力大吗", "不跟涨只跟爹，很难压力不大"],
+    "mentioned_stocks": ["KOSPI指数"]
+  },
+  {
+    "index": 13,
+    "summary": "用户分享投资策略和操作，强调技术分析和基本面。",
+    "sentiment": "mixed",
+    "key_opinions": ["低位看逻辑，高位看量价", "上面既然出了ZC底", "在保证个股基本面没问题的同时严格以技术策略去操作"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "用户抱怨积存金交易因误操作导致亏损，涉及黄金投资。",
+    "sentiment": "negative",
+    "key_opinions": ["迷糊200g给清仓了", "现在黄金涨到我的清仓前的成本价了", "积存金手续费比特么汇丰还黑"],
+    "mentioned_stocks": ["积存金"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论左侧和右侧交易策略，如何确认市场时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["现在不论老登还得小登股都从底部上来30%左右了", "事实就是没法百分百确定", "任何右侧都需要附带技术指标"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论白银价格是否能突破120美元，涉及投资前景。",
+    "sentiment": "mixed",
+    "key_opinions": ["现在才60多，涨回前高120，现在买入等待翻倍", "白银我觉得挺难的", "可以，不过可能要5到10年甚至更久的时间"],
+    "mentioned_stocks": ["白银"]
+  },
+  {
+    "index": 17,
+    "summary": "用户认为今天是诱空，下周一反包，给上车机会。",
+    "sentiment": "positive",
+    "key_opinions": ["今天下午看起来像是诱空", "下周一反包，给想上车的人上车机会", "给散户上车机会主力脑子秀逗了？"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "比较黄金和科技股投资回本速度，涉及两种选择。",
+    "sentiment": "mixed",
+    "key_opinions": ["只要黄金定投我感觉无论多高站岗都能回来", "我觉得是科技黄金不可能一下子崩这么高", "降息逻辑会同时驱动黄金和科技上涨"],
+    "mentioned_stocks": ["黄金", "科技股"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论半导体ETF的走势和交易策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["如果高开一两个点直接卖日内做T", "如果低开就分批低吸", "我还差30点回本，今天高开或者平开我就做反T"],
+    "mentioned_stocks": ["半导体ETF"]
+  },
+  {
+    "index": 20,
+    "summary": "赞扬长鑫存储坚持报价，不向苹果降价，支持国产。",
+    "sentiment": "positive",
+    "key_opinions": ["不愧科技总龙头", "上次才刚了华子，今天又刚果子", "国产就一定要比国外同类同等质量的产品便宜？"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论特殊时期大盘是否不会猛跌，涉及护盘和市场情绪。",
+    "sentiment": "mixed",
+    "key_opinions": ["昨天走的那么强势，是不是有队长在护盘？", "特殊在哪？？", "就算跌了你又能怎么样"],
+    "mentioned_stocks": ["A股大盘"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论科技股今天是否能顶住压力，涉及制裁和美股影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["外面好像不太好，纳斯达克收绿了", "刚对等制裁，它要不绿不是白制裁了", "四天爆拉快10%，回踩不到1%连之前的颈线都没到，这也叫差吗"],
+    "mentioned_stocks": ["科技股", "纳指"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论游戏《黑神话：钟馗》预告片和发售时间，涉及游戏股。",
+    "sentiment": "mixed",
+    "key_opinions": ["要是能有个实机加发售时间，游戏股感觉还是挺有埋伏潜质的", "钟馗和猴哥比还是差太远了", "游科本身没上市，只能买腾讯"],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论有色金属板块已经提前上涨，可能面临回调。",
+    "sentiment": "mixed",
+    "key_opinions": ["按期货去买的话很容易接在顶上", "前阵子黄金一直在4000徘徊，贵金属都涨多少了", "有色股票真是预期，一直比现货早一波"],
+    "mentioned_stocks": ["有色金属股", "赤峰黄金"]
+  },
+  {
+    "index": 25,
+    "summary": "比喻小时代的股民像骑士，充满投机精神，讨论股市行为。",
+    "sentiment": "mixed",
+    "key_opinions": ["厉兵秣驴，寻找风车巨人的蛛丝马迹", "涨了就要跌，跌了就要涨。冲锋！", "以前老话都说三根阳线改三观"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "用户分享卖出股票的经历，涉及科技股，感到伤感。",
+    "sentiment": "negative",
+    "key_opinions": ["卖出的时候还是有点伤感的", "中和新加一起留了800个", "君子不立危墙之下"],
+    "mentioned_stocks": ["中和新", "科技股"]
+  },
+  {
+    "index": 27,
+    "summary": "简短帖子，暗示投资心态或引用电影角色。",
+    "sentiment": "positive",
+    "key_opinions": ["我是丁蟹，今天我来到小时代。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "用户尾盘买入卧龙电驱，埋伏机器人概念。",
+    "sentiment": "positive",
+    "key_opinions": ["检测到长盛轴承有点拉伸的味，入了卧龙电驱", "埋伏一手宇树机器人", "终于看到一个不是光存导的帖子啦"],
+    "mentioned_stocks": ["卧龙电驱", "长盛轴承"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论苹果要求长鑫存储降价被拒绝，涉及供应链谈判。",
+    "sentiment": "positive",
+    "key_opinions": ["苹果一边割用户的韭菜一边要求供应链降价属实不讲道理", "你不买有的是人买", "苹果金子做的内存还能缺利润吗"],
+    "mentioned_stocks": ["苹果", "长鑫存储"]
+  },
+  {
+    "index": 30,
+    "summary": "建议避免美股主动基金，选择纳指ETF。",
+    "sentiment": "negative",
+    "key_opinions": ["老老实实纳指100算了", "费率是纳指两倍", "还有随时高位接盘大a"],
+    "mentioned_stocks": ["纳指ETF", "美股主动基金"]
+  },
+  {
+    "index": 31,
+    "summary": "用户抱怨科技股多次拉高出货，自己亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["7月中进场，未动一股，吃满亏损", "涨的这么热闹，一看刚把周一的亏损抹平", "拉高出货没有这么平开往上拉出货的"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 32,
+    "summary": "用户分享自己建的股票分析网站，提供随机选股功能。",
+    "sentiment": "mixed",
+    "key_opinions": ["基本上都是用codex搓出来的", "推荐试试看算命里面的随机选股功能", "老哥数据源是取得哪里呀"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "讨论ST天际股票的图形和筹码，涉及风险投资。",
+    "sentiment": "mixed",
+    "key_opinions": ["啥票不能买，非要买个st的", "我以前一直觉得上方套牢盘可怕", "筹码图形是不准的"],
+    "mentioned_stocks": ["ST天际"]
+  },
+  {
+    "index": 34,
+    "summary": "用户记录实盘操作，分享投资心得。",
+    "sentiment": "mixed",
+    "key_opinions": ["每个人有每个人的故事", "我已无退路可言", "我依然认为硬科技大票是超跌反弹"],
+    "mentioned_stocks": ["传志", "科技股"]
+  },
+  {
+    "index": 35,
+    "summary": "警告美国30年国债收益率上涨可能拉爆全球股市。",
+    "sentiment": "negative",
+    "key_opinions": ["昨晚美联储9月加息25个基点概率来到63.2%", "美国30年国债爆拉", "当心资金回流老美，拉爆全球股市"],
+    "mentioned_stocks": ["美国国债", "全球股市"]
+  },
+  {
+    "index": 36,
+    "summary": "抱怨黄金下跌，涉及积存金和汇率影响。",
+    "sentiment": "negative",
+    "key_opinions": ["积存金真狗，天天让汇率吃", "不还是4100吗，你都买黄金了能不能别1%的波动就开急", "黄金最近都没啥波动吧"],
+    "mentioned_stocks": ["黄金", "积存金", "赤峰黄金"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论有色金属板块今天可能上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["怎么说", "资金会预判你的预判，今天高开砸给后手", "今天砸下来准备接点"],
+    "mentioned_stocks": ["有色金属股"]
+  },
+  {
+    "index": 38,
+    "summary": "预测明天有色金属和科技股谁会领涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["卧槽，感觉黄金时代又回来了", "或是意想不到的大齐寄日", "有色股已经提前涨过了"],
+    "mentioned_stocks": ["有色金属", "科技股"]
+  },
+  {
+    "index": 39,
+    "summary": "考虑标普指数是否加仓机会，但ETF溢价率高。",
+    "sentiment": "mixed",
+    "key_opinions": ["结果一看没跌多少", "而且etf的溢价率都飙到6%了"],
+    "mentioned_stocks": ["标普指数ETF"]
+  },
+  {
+    "index": 40,
+    "summary": "用户卖出紫金黄金股票后黄金上涨，后悔。",
+    "sentiment": "negative",
+    "key_opinions": ["抄底成功了反弹一点就出了大半", "该借利好出货了"],
+    "mentioned_stocks": ["紫金矿业", "黄金"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论礼来制药股票财报超预期但股价下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["你不是暴增48%财报远超预期吗", "创新药吧，知名产品替尔泊肽", "我一直都不理解为啥礼来比诺和诺德贵那么多"],
+    "mentioned_stocks": ["礼来", "诺和诺德"]
+  },
+  {
+    "index": 42,
+    "summary": "担忧明天黄金会套人，但逐渐脱敏。",
+    "sentiment": "mixed",
+    "key_opinions": ["好消息是石油和黄金逐渐脱敏了", "原油一点反应没有的"],
+    "mentioned_stocks": ["黄金", "石油"]
+  },
+  {
+    "index": 43,
+    "summary": "建议电力板块减仓，转向芯片/电网板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["我觉得要的", "市场情绪还是偏芯片", "电力板块早就从芯片板块正相关变成负相关了"],
+    "mentioned_stocks": ["电力板块", "芯片/电网板块"]
+  },
+  {
+    "index": 44,
+    "summary": "闪迪财报后股价下跌，因下季度预期低。",
+    "sentiment": "negative",
+    "key_opinions": ["结果下季度预期不如预期", "科技的交易逻辑发生改变了", "存储增长速度的加速度拐点基本确认了"],
+    "mentioned_stocks": ["闪迪"]
+  },
+  {
+    "index": 45,
+    "summary": "美光股价下跌，涉及存储行业问题。",
+    "sentiment": "negative",
+    "key_opinions": ["就英伟达一个独苗了", "感觉还是伊朗那边出啥变故了吧", "闪迪盘后十个点了"],
+    "mentioned_stocks": ["美光", "英伟达", "闪迪"]
+  },
+  {
+    "index": 46,
+    "summary": "分享基于圆弧底部图形的交易策略，胜率高。",
+    "sentiment": "positive",
+    "key_opinions": ["不过也卖飞了很多…", "我有个同事跟你一个风格", "怎么能快速筛选出这种走势的股呢"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "批评美股财报后股价反应不理性。",
+    "sentiment": "negative",
+    "key_opinions": ["昨天amd超预期被砸", "闪迪这临时调高预期都超了不少也砸", "不然你以为美股整体估值那么低是怎么回事"],
+    "mentioned_stocks": ["AMD", "闪迪"]
+  },
+  {
+    "index": 48,
+    "summary": "用户作为期货佬，提供股票分析服务。",
+    "sentiment": "mixed",
+    "key_opinions": ["这次只回复有潜力的票，会说止损位、加仓位", "首创环保", "比亚迪"],
+    "mentioned_stocks": ["首创环保", "比亚迪"]
+  },
+  {
+    "index": 49,
+    "summary": "盈透证券系统崩溃，影响交易。",
+    "sentiment": "negative",
+    "key_opinions": ["看了下x应该是全球都崩了", "我也登不上去了", "第一券商是嘉信"],
+    "mentioned_stocks": ["盈透证券", "嘉信证券"]
+  },
+  {
+    "index": 50,
+    "summary": "讨论美股光模块下跌和磷化铟上涨，预测A股相关板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天难道真是抄底的好机会？", "感觉这个方向有点太刀口舔血了", "云南锗业要连续3天涨停了"],
+    "mentioned_stocks": ["光模块", "磷化铟", "云南锗业"]
+  }
+]
