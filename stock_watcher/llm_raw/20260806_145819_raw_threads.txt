@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论钨业股票，以幽默或meme风格表达信心，提及钨妖王和四兄弟。",
+    "sentiment": "positive",
+    "key_opinions": ["对钨业有信心，幽默表达效忠。", "涉及钨妖王梗和四兄弟。"],
+    "mentioned_stocks": ["钨业"]
+  },
+  {
+    "index": 2,
+    "summary": "尾盘科技拉升但银行未跌，讨论板块轮动和证券表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技拉盘但银行未跟跌。", "证券在跌中和行情。", "可能普涨但不确定。"],
+    "mentioned_stocks": ["科技板块", "银行板块", "白酒", "证券"]
+  },
+  {
+    "index": 3,
+    "summary": "证券板块被质疑废了，横盘无反应，但有人看好长期机会。",
+    "sentiment": "negative",
+    "key_opinions": ["证券横盘不涨不跌，成交量低。", "渣男板块，无反应。", "每隔5年做一次，2028年或有机会。"],
+    "mentioned_stocks": ["证券板块"]
+  },
+  {
+    "index": 4,
+    "summary": "分享投资策略，强调技术和基本面，讨论护盘情况。",
+    "sentiment": "mixed",
+    "key_opinions": ["策略跟随市场，不唯心。", "低位看逻辑，高位看量价。", "上面护盘宽基净流入。"],
+    "mentioned_stocks": ["沪深300", "宽基"]
+  },
+  {
+    "index": 5,
+    "summary": "对股市连红三天的怀疑，认为是设套陷阱。",
+    "sentiment": "negative",
+    "key_opinions": ["感觉在套更深的袋子。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "指数上涨但个股钱没回来，讨论尾盘拉升是否反转。",
+    "sentiment": "mixed",
+    "key_opinions": ["指数回来了但钱没回来。", "尾盘拉升隔天可能分给家人们。", "难道真是反转了。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论长鑫存储股价阴跌，看好基本面但预期高导致浮亏。",
+    "sentiment": "mixed",
+    "key_opinions": ["存储行业景气度高。", "长鑫产能未满业绩未释放。", "预期太高买入变浮亏。"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 8,
+    "summary": "科技股调整健康，建议建仓，有人已拉满仓位。",
+    "sentiment": "positive",
+    "key_opinions": ["调整健康想买科技可建仓。", "明天大阳线吃肉。", "回调正常，部分被套但看好。"],
+    "mentioned_stocks": ["科技板块", "亨通光电"]
+  },
+  {
+    "index": 9,
+    "summary": "钨股票平稳，讨论价格走势和中报时间，给出仓位建议。",
+    "sentiment": "mixed",
+    "key_opinions": ["钨价回升预期三季度。", "中报时间点关注。", "仓位重会被高波动洗掉。"],
+    "mentioned_stocks": ["中钨", "翔钨", "夏钨", "章钨", "祥子"]
+  },
+  {
+    "index": 10,
+    "summary": "德明利股票努力变红，情绪积极。",
+    "sentiment": "positive",
+    "key_opinions": ["德明利努力变红。"],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 11,
+    "summary": "批评不适合炒股的人，追涨杀跌甩锅，市场需要这种人。",
+    "sentiment": "negative",
+    "key_opinions": ["亏了甩锅，赚了自夸。", "追涨杀跌是市场部分。", "没有这种人散户难赚钱。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "股市跳水比赛，科技ETF跌幅小但整体波动大。",
+    "sentiment": "negative",
+    "key_opinions": ["各大跳水选手轮流上阵。", "科技ETF跌幅小没意思。", "上蹿下跳难绷。"],
+    "mentioned_stocks": ["科技ETF"]
+  },
+  {
+    "index": 13,
+    "summary": "立新股票突然大跌，无大利空，令人困惑。",
+    "sentiment": "negative",
+    "key_opinions": ["走得好突然暴死。", "也没啥大利空。"],
+    "mentioned_stocks": ["立新"]
+  },
+  {
+    "index": 14,
+    "summary": "尾盘抢筹科技，但可能为明天砸盘，非奸即盗。",
+    "sentiment": "mixed",
+    "key_opinions": ["尾盘抢科技。", "不是为了明天砸吗。", "非奸即盗。"],
+    "mentioned_stocks": ["科技板块"]
+  },
+  {
+    "index": 15,
+    "summary": "预测东鹏特饮明日走势，讨论消费股机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["东鹏特饮连跌后跌不动。", "机构可能从科技切换到消费。", "消费基准面无变化难涨。"],
+    "mentioned_stocks": ["东鹏特饮"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论制裁对中概港股影响，观点不一，有人担忧有人乐观。",
+    "sentiment": "mixed",
+    "key_opinions": ["对中概可能是中性消息。", "国产链可能受益于软件需求。", "估值高长持无影响。"],
+    "mentioned_stocks": ["中概港股", "港胜", "港澜"]
+  },
+  {
+    "index": 17,
+    "summary": "自嘲科技操作反指，盘中加仓被套，ETF交易费用低。",
+    "sentiment": "mixed",
+    "key_opinions": ["我是科技主宰反指者。", "盘中加仓被套。", "ETF交易费用少。"],
+    "mentioned_stocks": ["科技ETF"]
+  },
+  {
+    "index": 18,
+    "summary": "科技股反复设套，有人秀肌肉，发套化债留资金。",
+    "sentiment": "negative",
+    "key_opinions": ["科技软着陆反复设套。", "有人秀肌肉想咋玩就咋玩。", "发套化债留增量资金。"],
+    "mentioned_stocks": ["科技板块"]
+  },
+  {
+    "index": 19,
+    "summary": "美股主动基金风险高，费率高且含A股，建议少碰。",
+    "sentiment": "negative",
+    "key_opinions": ["选主动基如淘金。", "费率是纳指两倍。", "含A股导致T+2风险。"],
+    "mentioned_stocks": ["美股主动基", "纳指100", "国富基金", "嘉实基金", "易方达基金", "银华基金", "汇添富基金"]
+  },
+  {
+    "index": 20,
+    "summary": "IPO上市频率加快，本月估计15个左右。",
+    "sentiment": "neutral",
+    "key_opinions": ["IPO又放宽了。", "这个月估计得有15个左右。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "标普ETF溢价高下不去，讨论溢价问题。",
+    "sentiment": "negative",
+    "key_opinions": ["标普比纳指好点。", "等段时间溢价会降。", "开盘4开头但拉回去了。"],
+    "mentioned_stocks": ["标普ETF"]
+  },
+  {
+    "index": 22,
+    "summary": "咨询境外合法收入标准，需国外税号和扣税处理。",
+    "sentiment": "neutral",
+    "key_opinions": ["需有国外的税号。", "海外平台收入扣税算。", "扣当地税回来再处理。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "讨论哈药股票走势，主力行为难懂，利润多格局。",
+    "sentiment": "mixed",
+    "key_opinions": ["哈药二波走了一段时间。", "看不懂主力想干啥。", "利润比较多先格局。"],
+    "mentioned_stocks": ["哈药"]
+  },
+  {
+    "index": 24,
+    "summary": "利通封板但可能出货，换手率高，明天或低开。",
+    "sentiment": "mixed",
+    "key_opinions": ["利通、沃格、波姐三天三板。", "今天封不住明天要低开。", "换手率35%分歧坚定。"],
+    "mentioned_stocks": ["利通", "沃格", "波姐"]
+  },
+  {
+    "index": 25,
+    "summary": "微软AI收入依赖OpenAI，影响港股，担忧可持续性。",
+    "sentiment": "negative",
+    "key_opinions": ["OpenAI烧钱还能烧多久。", "左脚踩右脚螺旋式拉升。", "诚信互刷模式。"],
+    "mentioned_stocks": ["微软", "OpenAI相关", "AI概念股"]
+  },
+  {
+    "index": 26,
+    "summary": "刚进科技被套，但调整健康，回调正常可做T。",
+    "sentiment": "mixed",
+    "key_opinions": ["怎么刚进科技就被套了。", "调整算很健康。", "回调正常，做T降成本。"],
+    "mentioned_stocks": ["科技板块"]
+  },
+  {
+    "index": 27,
+    "summary": "预判市场一半正确，学到一课，指数在3800磨。",
+    "sentiment": "mixed",
+    "key_opinions": ["预判拉老登砸科技只对一半。", "指数又要在3800磨。", "以后想割我没那么容易。"],
+    "mentioned_stocks": ["老登股", "科技股"]
+  },
+  {
+    "index": 28,
+    "summary": "牧原股份周期底部投资，看好成本护城河和管理层增持。",
+    "sentiment": "positive",
+    "key_opinions": ["猪价新低周期反转在即。", "养殖成本全行业最低。", "管理层真金白银增持。"],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 29,
+    "summary": "市场板块轮动复杂，美股、科技、银行轮流涨跌。",
+    "sentiment": "neutral",
+    "key_opinions": ["美股反弹科技跟涨银行跌。", "银行反弹后非银非科涨。", "随机领涨板块持续性差。"],
+    "mentioned_stocks": ["科技板块", "银行板块", "非银非科"]
+  },
+  {
+    "index": 30,
+    "summary": "煤炭板块今天大涨，情绪积极。",
+    "sentiment": "positive",
+    "key_opinions": ["煤炭今天这么猛。", "爽吃了一小波。"],
+    "mentioned_stocks": ["煤炭板块"]
+  },
+  {
+    "index": 31,
+    "summary": "蘑菇相关股票作为防守板块，尾盘农业V起。",
+    "sentiment": "mixed",
+    "key_opinions": ["菇模块防守。", "尾盘农业V起来了。", "种业拉疯蘑菇杂毛。"],
+    "mentioned_stocks": ["蘑菇相关", "种业", "雪榕"]
+  },
+  {
+    "index": 32,
+    "summary": "建议加仓科技，认为美股新高将带动A股科技。",
+    "sentiment": "positive",
+    "key_opinions": ["标普500和道琼斯新高。", "纳指调整久应新高。", "杀放量不破20日线打满。"],
+    "mentioned_stocks": ["科技板块", "纳指"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论港股与A股走势相反，资金关联。",
+    "sentiment": "mixed",
+    "key_opinions": ["我们涨港股就跌。", "资金穿一条裤子。"],
+    "mentioned_stocks": ["港股"]
+  },
+  {
+    "index": 34,
+    "summary": "评价唱空长鑫的言论，认为太离谱博眼球。",
+    "sentiment": "negative",
+    "key_opinions": ["唱空腰斩破发太离谱。", "进入指数后难腰斩。", "发智障言论吸引关注。"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论AI回测中国神华策略，可能用训练数据回测。",
+    "sentiment": "mixed",
+    "key_opinions": ["后视镜炒股。", "过去不代表未来。", "训练数据集当测试数据。"],
+    "mentioned_stocks": ["中国神华"]
+  },
+  {
+    "index": 36,
+    "summary": "回调健康但明天可能套人，指数微红个股绿。",
+    "sentiment": "mixed",
+    "key_opinions": ["调整的很健康。", "明天麻袋装人。", "又回到4000家绿指数微红。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "讨论股市社区发梗图，氛围娱乐化。",
+    "sentiment": "mixed",
+    "key_opinions": ["发点梗图被指指点点。", "新号发莫名其妙东西。", "苦中作乐。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "有色板块难玩，涨后回调，追期货风险高。",
+    "sentiment": "negative",
+    "key_opinions": ["低位进就给套了。", "有色涨20%+后回调。", "提前期货涨后出货。"],
+    "mentioned_stocks": ["有色板块", "紫金矿业", "湖南黄金", "晓程科技"]
+  },
+  {
+    "index": 39,
+    "summary": "红利低波板块翻红，与科技是对手盘。",
+    "sentiment": "positive",
+    "key_opinions": ["真是对手盘。", "场外加场内加。", "科技股做T美滋滋。"],
+    "mentioned_stocks": ["红利低波板块"]
+  },
+  {
+    "index": 40,
+    "summary": "红利老登拉红，警示科技危险，外围表现差。",
+    "sentiment": "negative",
+    "key_opinions": ["科技危险了。", "外围表现也不好。", "没进的可以先撤。"],
+    "mentioned_stocks": ["红利老登板块", "科技板块"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论AI网络安全前景，行业缩水减员增效。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI网安打板任子行。", "传统网安减员增效。", "前景缩水人数减少。"],
+    "mentioned_stocks": ["AI网安", "任子行", "天融信", "深信服", "奇安信", "量子通信安全"]
+  },
+  {
+    "index": 42,
+    "summary": "银行拉红，科技波动大，做T稳着走。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行拉红科技危险。", "不敢格局收盘做T。", "吃一口两口稳着走。"],
+    "mentioned_stocks": ["银行板块", "科技板块", "红利ETF"]
+  },
+  {
+    "index": 43,
+    "summary": "隆基股份被批垃圾，技术含量低产能过剩。",
+    "sentiment": "negative",
+    "key_opinions": ["技术含量有限。", "成本优势低价倾销。", "产能过剩烂泥扶不上墙。"],
+    "mentioned_stocks": ["隆基股份"]
+  },
+  {
+    "index": 44,
+    "summary": "银行和科技是对手盘，熊市银行牛市。",
+    "sentiment": "neutral",
+    "key_opinions": ["银行涨科技跌。", "银行用来平衡。", "所有拥挤题材与银行对手盘。"],
+    "mentioned_stocks": ["银行板块", "科技板块"]
+  },
+  {
+    "index": 45,
+    "summary": "老登股拉高让解套买科技，可能讽刺市场策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["老登解套买科技。", "小登杀完骗老登进去。", "银行又被拉起来了。"],
+    "mentioned_stocks": ["老登股", "科技股", "银行"]
+  },
+  {
+    "index": 46,
+    "summary": "可转债中签指导，新债第一天顶30%临停。",
+    "sentiment": "neutral",
+    "key_opinions": ["新债一般第一天顶30%。", "第二天开板涨不动卖。", "规模小盘子好拉。"],
+    "mentioned_stocks": ["三鑫发债"]
+  },
+  {
+    "index": 47,
+    "summary": "股票下跌形态像老奶奶下楼梯，锂电标准形态。",
+    "sentiment": "negative",
+    "key_opinions": ["老奶奶下楼梯形态。", "锂电是真楼梯。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "中韩半导体ETF溢价异常高，股硬撑但波动率低。",
+    "sentiment": "mixed",
+    "key_opinions": ["溢价率高达20%。", "里面的股太硬了。", "波动率低不好抄底。"],
+    "mentioned_stocks": ["中韩半导体ETF"]
+  },
+  {
+    "index": 49,
+    "summary": "贵金属股票投资风险高，追涨杀跌易被套。",
+    "sentiment": "negative",
+    "key_opinions": ["贵金属股票提前启动。", "T+1追涨即当日高点。", "年初被套后学到经验。"],
+    "mentioned_stocks": ["贵金属股票", "黄金股", "铜矿", "合金"]
+  },
+  {
+    "index": 50,
+    "summary": "风范股份炸板买入，讨论对错，趋势大票不行连板有机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["趋势大票不行连板有机会。", "昨天上回封今天格局。"],
+    "mentioned_stocks": ["风范股份"]
+  }
+]
