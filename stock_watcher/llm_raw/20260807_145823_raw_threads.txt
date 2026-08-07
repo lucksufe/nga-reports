@@ -1,0 +1,354 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "个人投资者分享自立自强的投资策略，强调跟随市场和严格的技术操作。",
+        "sentiment": "mixed",
+        "key_opinions": ["投资策略需自立自强，跟着市场走。", "低位看逻辑，高位看量价。", "保证基本面没问题，严格以技术策略操作。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 2,
+        "summary": "渲染市场恐慌情绪，提示风险。",
+        "sentiment": "negative",
+        "key_opinions": ["渲染恐慌情绪。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 3,
+        "summary": "讨论上证指数尾盘拉升的意义，怀疑是出货信号。",
+        "sentiment": "negative",
+        "key_opinions": ["怀疑尾盘拉升是把筹码分给下个交易日想买入的人。", "可能意味着周一有回调压力。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 4,
+        "summary": "讨论8月科技板块中哪个细分领域更可能反弹。",
+        "sentiment": "mixed",
+        "key_opinions": ["在光模块、PCB、存储等多个科技细分中选择以求回本。"],
+        "mentioned_stocks": ["光模块", "PCB", "存储", "半导体", "MLCC", "AI应用"]
+    },
+    {
+        "index": 5,
+        "summary": "询问中际旭创是否有未公开的利空消息（小作文）。",
+        "sentiment": "negative",
+        "key_opinions": ["怀疑外资开始抛售。", "担心有未公开的利空消息。"],
+        "mentioned_stocks": ["中际旭创", "应用光电"]
+    },
+    {
+        "index": 6,
+        "summary": "讨论创新药板块（如药明康德）表现强势，股价大幅上涨。",
+        "sentiment": "positive",
+        "key_opinions": ["创新药板块表现强势。", "药明康德等股票带动力强。", "板块可能迎来估值修复。"],
+        "mentioned_stocks": ["药明康德", "百济神州", "毕得医药", "旭创科技"]
+    },
+    {
+        "index": 7,
+        "summary": "对某“大哥”股巨额卖出与强承接的矛盾现象感到困惑。",
+        "sentiment": "mixed",
+        "key_opinions": ["多空力量分歧巨大。", "因不确定性建议暂时离场。"],
+        "mentioned_stocks": ["大哥（疑指中际旭创）"]
+    },
+    {
+        "index": 8,
+        "summary": "讨论“大哥”（疑指中际旭创）股价大跳水的原因及影响。",
+        "sentiment": "negative",
+        "key_opinions": ["跳水原因可能是美国国产替代或港股带崩。", "资金从科技股流向红利板块避险。"],
+        "mentioned_stocks": ["胜宏科技", "中际旭创"]
+    },
+    {
+        "index": 9,
+        "summary": "讨论中际旭创股价转跌，可能受到利空新闻影响。",
+        "sentiment": "negative",
+        "key_opinions": ["行业面临不确定性。", "可能受利空新闻（小作文）发酵影响。"],
+        "mentioned_stocks": ["中际旭创", "光迅科技"]
+    },
+    {
+        "index": 10,
+        "summary": "讨论存储、光模块、PCB各板块的供需及利空情况差异。",
+        "sentiment": "mixed",
+        "key_opinions": ["存储和光模块面临外部压力和“鬼故事”。", "PCB因无利空和Rubin量产期临近相对受益。"],
+        "mentioned_stocks": ["存储", "光模块", "PCB", "Rubin"]
+    },
+    {
+        "index": 11,
+        "summary": "科技股持有者选择卖出一半仓位落袋为安，警惕回调风险。",
+        "sentiment": "mixed",
+        "key_opinions": ["利润已兑现，选择部分卖出。", "科技股近期涨幅大，有加速迹象，怕回调。"],
+        "mentioned_stocks": ["科技股"]
+    },
+    {
+        "index": 12,
+        "summary": "抱怨持仓的股票走势像心电图（猫猫头），缺乏规律。",
+        "sentiment": "negative",
+        "key_opinions": ["市场走势不规律，难以把握。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 13,
+        "summary": "抱怨紫光股份走势疲软，全天低迷。",
+        "sentiment": "negative",
+        "key_opinions": ["紫光股份表现弱于大盘。", "该股有套牢盘压力。"],
+        "mentioned_stocks": ["紫光股份"]
+    },
+    {
+        "index": 14,
+        "summary": "观测到完美世界股价走势相对强势，可能跟随AI应用逻辑。",
+        "sentiment": "mixed",
+        "key_opinions": ["完美世界走势强于游戏ETF。", "可能受AI应用逻辑驱动。"],
+        "mentioned_stocks": ["完美世界", "游戏ETF"]
+    },
+    {
+        "index": 15,
+        "summary": "讨论做T（高抛低吸）卖飞后是否应该追高买回。",
+        "sentiment": "mixed",
+        "key_opinions": ["是否追回因人而异，港股可能追回。", "T飞说明超出认知，不建议盲目追回。"],
+        "mentioned_stocks": ["港股"]
+    },
+    {
+        "index": 16,
+        "summary": "质疑美国本土光模块制造快速扩产的能力和逻辑，认为估值被杀。",
+        "sentiment": "negative",
+        "key_opinions": ["美国本土制造业衰退，扩产能力存疑。", "光模块板块“鬼故事”频出，估值承压。"],
+        "mentioned_stocks": ["AAOI", "易中天（疑指中际旭创）"]
+    },
+    {
+        "index": 17,
+        "summary": "推荐多只已确认趋势反转的股票（如航司、国轩高科等）。",
+        "sentiment": "positive",
+        "key_opinions": ["航司、国轩高科等多只股票趋势已反转。", "推荐关注趋势反转的机会。"],
+        "mentioned_stocks": ["航司（如南方航空）", "国轩高科", "电科", "江山化工"]
+    },
+    {
+        "index": 18,
+        "summary": "讨论黄金价格悄悄向4300点上涨，关注非农数据影响。",
+        "sentiment": "positive",
+        "key_opinions": ["黄金价格在上涨。", "关注今晚非农数据对行情的影响。"],
+        "mentioned_stocks": ["大黄（黄金）"]
+    },
+    {
+        "index": 19,
+        "summary": "对存储模组股德明利的业绩和前景表示悲观，不建议参与。",
+        "sentiment": "negative",
+        "key_opinions": ["德明利业绩环比下滑。", "公司管理层被质疑。", "风险高，不建议赌反转。"],
+        "mentioned_stocks": ["德明利"]
+    },
+    {
+        "index": 20,
+        "summary": "讨论煤炭板块突然大涨的逻辑，可能与防守、轮动或季节因素有关。",
+        "sentiment": "mixed",
+        "key_opinions": ["煤炭板块可能因资金防守需求上涨。", "可能是板块轮动或季节性因素。"],
+        "mentioned_stocks": ["煤炭", "科技"]
+    },
+    {
+        "index": 21,
+        "summary": "描述股票上涨被强力压制（“盖帽”），暗示有空头力量。",
+        "sentiment": "negative",
+        "key_opinions": ["股价上涨被空头压制。", "可能与外资倒筹码有关。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 22,
+        "summary": "认为商业航天板块可能承接了从光模块流出的资金。",
+        "sentiment": "mixed",
+        "key_opinions": ["商业航天板块在光模块跳水时逆势上涨。", "板块可能因事件催化有短期机会。"],
+        "mentioned_stocks": ["商业航天", "光模块"]
+    },
+    {
+        "index": 23,
+        "summary": "建议关注超跌的商业航天板块，有事件催化（朱雀三号发射）可能。",
+        "sentiment": "positive",
+        "key_opinions": ["商业航天板块超跌，有反弹空间。", "临近发射事件，可能形成催化。"],
+        "mentioned_stocks": ["商业航天", "卫星ETF"]
+    },
+    {
+        "index": 24,
+        "summary": "再次提及商业航天板块，但提醒注意事件催化后的风险，建议跑得快。",
+        "sentiment": "mixed",
+        "key_opinions": ["商业航天可能有事件催化机会。", "需注意事件落地后及时离场。"],
+        "mentioned_stocks": ["朱雀三号", "卫星"]
+    },
+    {
+        "index": 25,
+        "summary": "讨论云南锗业股价异常涨停，认为纯属资金和情绪推动的妖股行为。",
+        "sentiment": "mixed",
+        "key_opinions": ["股价上涨与基本面脱节，纯属资金推动。", "属于高风险妖股，情绪瓦解后可能暴跌。"],
+        "mentioned_stocks": ["云南锗业"]
+    },
+    {
+        "index": 26,
+        "summary": "询问百合股份瞬间涨停的原因，猜测可能与消息或量化有关。",
+        "sentiment": "mixed",
+        "key_opinions": ["涨停原因不明，可能涉及消息或量化操作。"],
+        "mentioned_stocks": ["百合股份", "食药"]
+    },
+    {
+        "index": 27,
+        "summary": "讨论大陆居民投资美股的渠道和方法。",
+        "sentiment": "mixed",
+        "key_opinions": ["可通过QDII基金投资。", "可通过办理港卡、开立海外券商账户。"],
+        "mentioned_stocks": ["美股"]
+    },
+    {
+        "index": 28,
+        "summary": "讨论科技股反弹可能仅仅是开始，分析内外部支撑因素。",
+        "sentiment": "mixed",
+        "key_opinions": ["外部环境（如美股）支撑，内部政策发力可能在三季度。", "科技股业绩月前可能继续上涨。"],
+        "mentioned_stocks": ["科技股"]
+    },
+    {
+        "index": 29,
+        "summary": "对“中大哥”（疑指中际旭创）及其他科技股下跌表示不满和困惑。",
+        "sentiment": "negative",
+        "key_opinions": ["科技股（如中际旭创）大跌。", "可能因港股带动或机构出货。", "PCB等板块被带崩。"],
+        "mentioned_stocks": ["中际旭创（中大哥）", "PCB", "胜宏科技"]
+    },
+    {
+        "index": 30,
+        "summary": "推荐空仓者关注低位的火电股，认为有较好的风险收益比。",
+        "sentiment": "positive",
+        "key_opinions": ["火电股处于低位，下跌空间有限。", "枯水期和用电高峰或带来机会。", "等待中报验证容量电价逻辑。"],
+        "mentioned_stocks": ["华能国际", "华电国际", "陕西能源", "大唐发电"]
+    },
+    {
+        "index": 31,
+        "summary": "观测到宗申动力股价大幅拉升后回落，询问原因。",
+        "sentiment": "mixed",
+        "key_opinions": ["股价异动可能因“三蹦子大卖”相关新闻。"],
+        "mentioned_stocks": ["宗申动力"]
+    },
+    {
+        "index": 32,
+        "summary": "表达对钨业股的看好和忠诚（“钨妖王”）。",
+        "sentiment": "positive",
+        "key_opinions": ["看好钨业股上涨潜力。"],
+        "mentioned_stocks": ["钨业"]
+    },
+    {
+        "index": 33,
+        "summary": "讨论下午银行股拉升，同时“中小弟”（中际旭创）下跌。",
+        "sentiment": "negative",
+        "key_opinions": ["银行股拉升可能是为了护盘。", "科技股（中际旭创）被抛售。", "认为机构可能在出货。"],
+        "mentioned_stocks": ["银行", "中际旭创（中小弟）"]
+    },
+    {
+        "index": 34,
+        "summary": "有买入澜起科技的意愿，但想等其港股解禁后再看情况。",
+        "sentiment": "mixed",
+        "key_opinions": ["关注澜起科技是否能有效站上20日均线。", "因港股解禁临近，选择减仓观望。"],
+        "mentioned_stocks": ["澜起科技", "金枪鱼（疑指某股票或ETF）"]
+    },
+    {
+        "index": 35,
+        "summary": "提及“喝酒吃药”板块上涨，并认为新能源板块应避免。",
+        "sentiment": "mixed",
+        "key_opinions": ["消费（喝酒吃药）板块轮动上涨。", "新能源板块被套风险高，建议远离。"],
+        "mentioned_stocks": ["新能源"]
+    },
+    {
+        "index": 36,
+        "summary": "讨论红利板块近期回调幅度较大，提供加仓机会。",
+        "sentiment": "mixed",
+        "key_opinions": ["红利板块回调提供了加仓窗口。", "部分投资者等待进一步下跌后买入。"],
+        "mentioned_stocks": ["红利股", "工行"]
+    },
+    {
+        "index": 37,
+        "summary": "抱怨市场混乱，认为创业板需要新龙头，推荐胜宏科技。",
+        "sentiment": "mixed",
+        "key_opinions": ["市场板块轮动混乱。", "推荐胜宏科技作为创业板新龙头。"],
+        "mentioned_stocks": ["创业板", "PCB", "CPO", "胜宏科技"]
+    },
+    {
+        "index": 38,
+        "summary": "提醒科技股可能面临分歧，建议减仓以保住利润。",
+        "sentiment": "mixed",
+        "key_opinions": ["科技股若今晚美股科技表现差，周一会有分歧。", "建议减仓以规避风险。"],
+        "mentioned_stocks": ["科技股"]
+    },
+    {
+        "index": 39,
+        "summary": "对中际旭创、新易盛等“牛市旗手”股票下跌表示失望和无奈。",
+        "sentiment": "negative",
+        "key_opinions": ["核心科技股（旗手）下跌影响市场信心。", "认为需要发展国产替代解决依赖问题。"],
+        "mentioned_stocks": ["中际旭创", "新易盛"]
+    },
+    {
+        "index": 40,
+        "summary": "看好东山精密的弹性，因其在PCB、光模块、光芯片等多领域布局。",
+        "sentiment": "positive",
+        "key_opinions": ["东山精密在PCB、光模块、光芯片均有布局和成长预期。", "认为其是弹性股。"],
+        "mentioned_stocks": ["东山精密"]
+    },
+    {
+        "index": 41,
+        "summary": "晒出8月高收益（50%+），表达对科技股上涨的兴奋与担忧。",
+        "sentiment": "positive",
+        "key_opinions": ["科技股近期收益丰厚。", "高收益伴随高风险，需警惕。"],
+        "mentioned_stocks": ["胜宏科技"]
+    },
+    {
+        "index": 42,
+        "summary": "认为股价出现“对子顶”（如999.88）是见顶信号。",
+        "sentiment": "negative",
+        "key_opinions": ["股价出现对子顶是看跌信号。"],
+        "mentioned_stocks": ["中小弟（疑指某中小盘股）"]
+    },
+    {
+        "index": 43,
+        "summary": "为AAOI公司产能扩张传闻辩护，认为产能数字被夸大。",
+        "sentiment": "positive",
+        "key_opinions": ["AAOI产能翻倍的传闻被夸大，实际产能有限。"],
+        "mentioned_stocks": ["AAOI"]
+    },
+    {
+        "index": 44,
+        "summary": "认为光模块的海外业务逻辑可能因断供风险而失效。",
+        "sentiment": "negative",
+        "key_opinions": ["光模块核心元器件依赖美日供应。", "若被列入名单将面临断供风险。"],
+        "mentioned_stocks": ["光模块"]
+    },
+    {
+        "index": 45,
+        "summary": "认为科技股普反行情可能接近尾声，建议考虑撤退。",
+        "sentiment": "negative",
+        "key_opinions": ["情绪可能已到位。", "科技股普反可能结束。", "建议不要追高。"],
+        "mentioned_stocks": ["科技股"]
+    },
+    {
+        "index": 46,
+        "summary": "观察到创新药板块快速拉升，同时科技板块可能走弱。",
+        "sentiment": "mixed",
+        "key_opinions": ["板块轮动：创新药拉升，科技板块回落。"],
+        "mentioned_stocks": ["创新药", "科技"]
+    },
+    {
+        "index": 47,
+        "summary": "描述某股票（中稀有色）走势极端横盘，毫无波动。",
+        "sentiment": "negative",
+        "key_opinions": ["股价走势异常横盘，缺乏流动性或被操控。"],
+        "mentioned_stocks": ["中稀有色"]
+    },
+    {
+        "index": 48,
+        "summary": "分析创业板下跌原因，认为是“中大哥”（中际旭创）下跌带崩，资金转向医药。",
+        "sentiment": "negative",
+        "key_opinions": ["中际旭创下跌拖累创业板。", "资金从科技板块流出转向医药板块。"],
+        "mentioned_stocks": ["创业板", "中际旭创（中大哥）", "医药"]
+    },
+    {
+        "index": 49,
+        "summary": "抱怨“中小弟”（中小盘股）下跌拖累整个市场。",
+        "sentiment": "negative",
+        "key_opinions": ["中小盘股下跌拖累全场。"],
+        "mentioned_stocks": ["中小弟（疑指中小板或某中小盘股）"]
+    },
+    {
+        "index": 50,
+        "summary": "询问阳光电源是否到了可以买入的时机。",
+        "sentiment": "mixed",
+        "key_opinions": ["股价处于低位，可能有反弹。", "建议等待放量大阳线确认趋势再入场。"],
+        "mentioned_stocks": ["阳光电源"]
+    }
+]
+```
