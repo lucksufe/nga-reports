@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论光模块行业是否衰落，涉及cpo预期和估值问题。",
+    "sentiment": "negative",
+    "key_opinions": ["光模块可能没落，cpo预期没了估值虚高", "AI硬件需换领域，光纤变光伏"],
+    "mentioned_stocks": ["光模块", "cpo", "AI硬件"]
+  },
+  {
+    "index": 2,
+    "summary": "暗示股市赚钱难，但回复乐观可能指市场机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["炒股赚钱难，散户开户难", "可能市场要起飞，最后一波调整"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论养猪行业崛起，牧原股份相关个人故事。",
+    "sentiment": "positive",
+    "key_opinions": ["养猪行业有黄金周期，牧原股份表现好", "猪肉股可能有机会，镇上全猪宴打折"],
+    "mentioned_stocks": ["牧原股份", "猪肉股"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论PCB行业是否面临类似光模块的风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["PCB可能被整，美国产能难替代", "供应链安全考虑，整你意义不大"],
+    "mentioned_stocks": ["PCB", "光模块", "rubin"]
+  },
+  {
+    "index": 5,
+    "summary": "对比科技股和创新药股的利好发布时机和走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股高位利好出货，加速出货", "创新药股涨幅不高可能机会，需注意洗盘"],
+    "mentioned_stocks": ["科技股", "创新药", "药明"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论医药股因反人性原则导致亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["利好越多越跌，周末情绪发酵后周一出货", "存量互杀，冲医药的亏麻"],
+    "mentioned_stocks": ["医药", "科技药", "创新药"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论板块轮动，艾艾精工可能上涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["药和半导体回调，艾艾精工可能有机会", "名称像情趣用品，妖股回忆"],
+    "mentioned_stocks": ["艾艾精工", "药", "半导体"]
+  },
+  {
+    "index": 8,
+    "summary": "分析宝丰能源的投资价值，涉及地缘政治。",
+    "sentiment": "positive",
+    "key_opinions": ["宝丰能源满产满销，筹码结构健康", "地缘政治推升，同板块异动"],
+    "mentioned_stocks": ["宝丰能源", "金牛金煤", "万华卫星"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论算力租赁板块，涉及利通、协创等公司。",
+    "sentiment": "positive",
+    "key_opinions": ["算力租赁有前景，期待主升", "行云庄家猛，盘子小适合投机"],
+    "mentioned_stocks": ["利通", "协创", "宏景", "行云", "香江", "莲花"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论白酒板块近期强劲表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["白酒涨势强，一阳包三阴", "涨价逻辑，行业消费者年龄高问题"],
+    "mentioned_stocks": ["白酒", "茅台"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论普涨行情中科技股出货，小票涨但赚钱难。",
+    "sentiment": "negative",
+    "key_opinions": ["科技出货，创新药冲不动", "传统行业涨但科技权重高，亏钱"],
+    "mentioned_stocks": ["科技", "创新药", "银行", "白酒", "红利", "煤炭", "畜牧"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论MLCC板块表现，是否预示科技股反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["MLCC超预期，日本公司剩饭甜美", "市场需要新AI硬龙头，科技先锋股"],
+    "mentioned_stocks": ["MLCC", "风华", "科技"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论药明康德股价是否见顶。",
+    "sentiment": "mixed",
+    "key_opinions": ["对子顶可能见顶，豹子顶", "健康走势，机构票有自己的节奏"],
+    "mentioned_stocks": ["药明康德", "药明"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论败绿是否低吸机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["强势让人陌生，承接强但压力位近", "创业板需新大哥，光今天弱"],
+    "mentioned_stocks": ["败绿", "光", "创业板"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论大盘表现，是否有承接和抄底。",
+    "sentiment": "mixed",
+    "key_opinions": ["大盘强有承接，牛回速归", "科技除外，高低切板块漂移"],
+    "mentioned_stocks": ["科技", "PCB"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论西部（可能西部证券）分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["缩量换手少，好事？", "第三次了，快到顶了"],
+    "mentioned_stocks": ["西部"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论宇树公司IPO发行价破发风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["高市盈率220倍，流通股小", "次新容易炒，924以来无破发"],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论申购宇树新股的技巧。",
+    "sentiment": "mixed",
+    "key_opinions": ["钱多技巧，几千万申购", "纯看脸，烧香拜佛，6万顶格"],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论铁盒（半导体设备）回调时机。",
+    "sentiment": "negative",
+    "key_opinions": ["快回调了，半仓涨少赚亏", "观测放量减仓，日内回调"],
+    "mentioned_stocks": ["铁盒", "半导体设备"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论科创板块下跌原因，与光模块相关。",
+    "sentiment": "negative",
+    "key_opinions": ["光模块利空影响科创，延迟发作", "寒武纪带崩科创，光都在创业板"],
+    "mentioned_stocks": ["科创", "光模块", "寒武纪"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论药明康德法律诉讼胜利。",
+    "sentiment": "positive",
+    "key_opinions": ["美国法院正规，三权分立", "正规市场，药明赢了官司"],
+    "mentioned_stocks": ["药明康德", "小米", "中微"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论东鹏饮料股价突然上涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["日内高切低，机构承接", "消费拉涨，盈亏比高"],
+    "mentioned_stocks": ["东鹏饮料", "食品饮料", "老鼠药"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论高争民爆股连板，炒作多龙铜矿。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能成妖股，纯炒作", "不敢跟，新股东有铜矿股份"],
+    "mentioned_stocks": ["高争民爆", "金奥博", "易普力", "宏达", "藏格"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论市场是否出货，特别是光模块。",
+    "sentiment": "negative",
+    "key_opinions": ["拉高出货，光走伤士气", "国家队跑了，光模块头肩顶"],
+    "mentioned_stocks": ["光模块", "国家队"]
+  },
+  {
+    "index": 25,
+    "summary": "股票涨停但持仓少，有图片分享。",
+    "sentiment": "mixed",
+    "key_opinions": ["涨停但持仓少，好消息坏消息", "选股牛"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论西藏天路股价强劲。",
+    "sentiment": "positive",
+    "key_opinions": ["强的离谱，炒西部基建", "高争民爆小弟，跟风"],
+    "mentioned_stocks": ["西藏天路", "高争民爆"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论厄尔尼诺现象推动干散货运，推荐海通发展。",
+    "sentiment": "positive",
+    "key_opinions": ["干散货运景气，海通发展纯正标的", "风险解禁，董事长出货"],
+    "mentioned_stocks": ["海通发展", "招商轮船"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论中坞（可能中钨高新）是否该卖出。",
+    "sentiment": "mixed",
+    "key_opinions": ["高位接盘，滞涨快跑", "有利润减仓，中钨抗跌"],
+    "mentioned_stocks": ["中坞", "中钨", "锗业"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论中大哥（中际旭创）股价支撑位。",
+    "sentiment": "negative",
+    "key_opinions": ["880有支撑，但被黄毛搞死", "逻辑变不要猜底，破了"],
+    "mentioned_stocks": ["中大哥", "中际旭创", "黄毛"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论论坛用户投资成功，抄底轮动。",
+    "sentiment": "mixed",
+    "key_opinions": ["后视镜炒股，股神", "炫耀帖，预知能力"],
+    "mentioned_stocks": ["AI科技", "老登", "立新", "传智", "宝鼎"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论上证指数回调，中字头和茅台涨。",
+    "sentiment": "negative",
+    "key_opinions": ["触摸年线回调，横盘震荡", "某队敢砸，中字头茅台拉指数"],
+    "mentioned_stocks": ["上证指数", "中字头", "茅台"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论光模块亏损，寻求安慰。",
+    "sentiment": "negative",
+    "key_opinions": ["光模块打人，被毒打", "通信占比高，做创业板指更好"],
+    "mentioned_stocks": ["光模块", "通信", "创业板"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论半导体板块回调少。",
+    "sentiment": "positive",
+    "key_opinions": ["日内调整，分歧消化快", "牛皮，没回本"],
+    "mentioned_stocks": ["半导体", "铁盒"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论百合花庄股走势抽象。",
+    "sentiment": "mixed",
+    "key_opinions": ["坐庄被套，走法抽象", "竞价被套，好笑有风险"],
+    "mentioned_stocks": ["百合花"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论海皇（海天味业）股价上涨，期待回调。",
+    "sentiment": "mixed",
+    "key_opinions": ["涨太快，惩罚不忠诚", "主力图啥，无利好"],
+    "mentioned_stocks": ["海皇", "海天味业"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论铁盒（半导体设备）强劲表现。",
+    "sentiment": "positive",
+    "key_opinions": ["分歧扛住，利好逻辑闭环", "唯一活口，光和存支棱不起来"],
+    "mentioned_stocks": ["铁盒", "光", "存", "寒武纪"]
+  },
+  {
+    "index": 37,
+    "summary": "分享茅台批发价数据。",
+    "sentiment": "mixed",
+    "key_opinions": ["数据分享，给有需要的人", "白酒赚脏钱，嫌白酒不高贵"],
+    "mentioned_stocks": ["茅台", "白酒"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论投资反思，下半年机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["回撤利润，小票反弹猛", "掏兜行情，关注科技中小盘"],
+    "mentioned_stocks": ["科技", "中小盘票"]
+  },
+  {
+    "index": 39,
+    "summary": "自责买错股票，计划卖出。",
+    "sentiment": "negative",
+    "key_opinions": ["买错股票，抄底抄不完", "跑掉了，商业航天可拿"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论LOF基金跌停，退市机制。",
+    "sentiment": "negative",
+    "key_opinions": ["LOF清退，溢价杀", "天灾，散户套利难"],
+    "mentioned_stocks": ["全球芯片lof", "白银lof"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论科技反弹，MLCC概念。",
+    "sentiment": "mixed",
+    "key_opinions": ["MLCC吃了一点，想跳车", "科技反弹值得关注"],
+    "mentioned_stocks": ["MLCC"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论黄金投资，宝妈讨论时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金上涨，买涨不买跌", "宝妈讨论该入场，黄金ETF好"],
+    "mentioned_stocks": ["黄金", "黄金ETF", "积存金"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论蝇（可能某股票）高开翻绿。",
+    "sentiment": "negative",
+    "key_opinions": ["高开翻绿，化区亏损", "今天很强，PCB抗跌"],
+    "mentioned_stocks": ["蝇", "PCB", "胜宏", "沪电", "深南"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论周末发酵的有色、创新药下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["周末利好出货，拥挤了", "买在无人问津，卖在人声鼎沸"],
+    "mentioned_stocks": ["有色", "创新药", "ETF", "卫星"]
+  },
+  {
+    "index": 45,
+    "summary": "分享全仓龙佰集团和凯莱英。",
+    "sentiment": "positive",
+    "key_opinions": ["全仓龙佰，凯莱英一手", "加仓跟车，龙佰钛白粉老大"],
+    "mentioned_stocks": ["龙佰集团", "凯莱英", "卧龙电驱"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论存储和光模块板块拖累。",
+    "sentiment": "negative",
+    "key_opinions": ["存储区，光被狙击逻辑坏", "反弹结束，PCB也区"],
+    "mentioned_stocks": ["存储", "光模块", "半导体", "PCB"]
+  },
+  {
+    "index": 47,
+    "summary": "讨论东星医疗股价图形好看。",
+    "sentiment": "positive",
+    "key_opinions": ["估值不贵，底部成型", "后面能涨几天，图形有效"],
+    "mentioned_stocks": ["东星医疗"]
+  },
+  {
+    "index": 48,
+    "summary": "讨论商业航天板块，用途和投资逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["卫星干嘛，抢占轨道", "最温和板块，有预期有节点"],
+    "mentioned_stocks": ["商业航天"]
+  },
+  {
+    "index": 49,
+    "summary": "分享回血经历，上午卖医药进MLCC。",
+    "sentiment": "positive",
+    "key_opinions": ["上周五买对医药，拉高跑", "进入MLCC，回血"],
+    "mentioned_stocks": ["医药", "MLCC"]
+  },
+  {
+    "index": 50,
+    "summary": "讨论中际旭创（中大哥）抄底经历和反思。",
+    "sentiment": "mixed",
+    "key_opinions": ["鬼故事后抄底中际，短线落袋", "逻辑变火中取栗，侥幸成功"],
+    "mentioned_stocks": ["中际旭创", "光模块", "cpo"]
+  }
+]
