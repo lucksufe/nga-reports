@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "用户记录并看好“蛆”这只股票近期强势表现，认为其在逆势中上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["股价连续大涨，4天40多点", "承接力强，调整幅度小", "在弱市中表现强势"],
+    "mentioned_stocks": ["蛆"]
+  },
+  {
+    "index": 2,
+    "summary": "用户遗憾自己过早卖出钨股，分享了错过后钨股继续大涨的经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["钨股近期涨幅巨大，几乎无回调", "有用户从低位一直持有至今", "讨论不同价位的入场与出场时机"],
+    "mentioned_stocks": ["钨", "中钨"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论完美世界股价走势，认为有修复13元关口的迹象。",
+    "sentiment": "positive",
+    "key_opinions": ["股价近期表现强硬", "认为会借新版本再冲一波", "观察到关联板块（影视）发力"],
+    "mentioned_stocks": ["完美世界", "完美酱"]
+  },
+  {
+    "index": 4,
+    "summary": "用户抱怨长期持有证券板块一年未涨，持仓体验极差。",
+    "sentiment": "negative",
+    "key_opinions": ["持有证券股一年毫无收益", "板块整体表现低迷，部分个股下跌", "用户坚持不卖，但感到无奈"],
+    "mentioned_stocks": ["证券", "东瀛财富"]
+  },
+  {
+    "index": 5,
+    "summary": "用户小仓位试探完美世界，认为其图形有上攻13元的可能。",
+    "sentiment": "positive",
+    "key_opinions": ["图形感觉要上13元", "关联多个题材（游戏、应用、影视）", "用户提及卖出后股价可能上涨"],
+    "mentioned_stocks": ["完美世界", "完美酱", "侏儒网络"]
+  },
+  {
+    "index": 6,
+    "summary": "分析药明康德当日形成对子顶后拉回，用户对此走势感到犹豫。",
+    "sentiment": "mixed",
+    "key_opinions": ["形成对子顶（技术形态）", "洗盘后又拉回均线", "部分用户认为涨不多，计划离场"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 7,
+    "summary": "用户询问国投白银LOF基金是否还有持有必要，已深度套牢。",
+    "sentiment": "negative",
+    "key_opinions": ["在高位买入已亏损40%", "相关LOF产品即将清退，流动性差", "建议尽早清理"],
+    "mentioned_stocks": ["国投白银LOF"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论普涨行情下，不同板块分化严重，用户感到赚钱困难。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行、白酒等板块大涨，科技板块调整", "普涨行情下，小票涨幅有限", "用户抱怨板块轮动快，难以把握"],
+    "mentioned_stocks": ["银行", "白酒", "科技", "创新药", "红利", "煤炭", "畜牧"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论如何打新（申购）宇树科技新股，普遍认为中签靠运气和资金量。",
+    "sentiment": "mixed",
+    "key_opinions": ["新股申购门槛50万，上限6万元", "中签主要靠运气，多账户可提高概率", "用户期待中签获得高收益"],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 10,
+    "summary": "用户观察到腾景科技今天放量，询问是否为出货信号。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价今日放出大量", "提问此现象是否为出货"],
+    "mentioned_stocks": ["腾景科技"]
+  },
+  {
+    "index": 11,
+    "summary": "对比分析中国电影和儒意/北京文化在电影《龙餐馆》概念股中的表现差异。",
+    "sentiment": "mixed",
+    "key_opinions": ["中国电影作为龙头，表现却不如儒意和北京文化", "认为中国电影盘子大，资金认可度低", "部分用户关注中国电影的其他大片预期"],
+    "mentioned_stocks": ["中国电影", "儒意", "北京文化"]
+  },
+  {
+    "index": 12,
+    "summary": "用户感叹今日大盘强劲，有承接力，部分人认为是踏空资金在抄底。",
+    "sentiment": "mixed",
+    "key_opinions": ["大盘表现强劲，有资金承接", "有人认为是踏空资金抄底", "也有用户指出是板块轮动，并非真牛"],
+    "mentioned_stocks": ["科技", "PCB"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论中国稀土作为反制工具的潜力，认为其基本面和趋势正在反转。",
+    "sentiment": "positive",
+    "key_opinions": ["稀土是能“卡脖子”的反制手段", "行业基本面和趋势出现反转", "底部放量启动，看好后续走势"],
+    "mentioned_stocks": ["稀土", "铟"]
+  },
+  {
+    "index": 14,
+    "summary": "用户询问是什么在拉升大盘，并观察到有色金属板块（尤其是钨）突然大涨。",
+    "sentiment": "positive",
+    "key_opinions": ["有色金属板块突然大幅拉升", "钨股直线起飞", "红利板块出现回调"],
+    "mentioned_stocks": ["有色", "钨", "稀土", "PCB"]
+  },
+  {
+    "index": 15,
+    "summary": "用户抱怨市场轮动过快，上周暴涨的板块本周就表现不佳。",
+    "sentiment": "negative",
+    "key_opinions": ["PCB板块上周暴涨后今日回调", "科技股今日表现差，消费股走强", "轮动快导致追高风险大，信心不足"],
+    "mentioned_stocks": ["PCB", "消费", "东山精密"]
+  },
+  {
+    "index": 16,
+    "summary": "用户询问英维克是否值得投资，并希望中报能带来转机。",
+    "sentiment": "mixed",
+    "key_opinions": ["期待中报业绩能扭转股价走势", "有用户认为会上涨，也有用户认为会受骗"],
+    "mentioned_stocks": ["英维克"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论黄金投资，提及宝妈（散户）又开始讨论黄金，通常被视为反向指标。",
+    "sentiment": "negative",
+    "key_opinions": ["散户开始讨论黄金，常预示阶段性见顶", "有用户在金价上涨时加仓", "看好黄金长期保值属性"],
+    "mentioned_stocks": ["黄金", "黄金ETF"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论败绿（可能为某股代号）是否迎来低吸机会，对其强势表现感到意外。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价表现强势，承接力强", "技术面上离压力位近，支撑位远", "日内完成调整，量化资金参与明显"],
+    "mentioned_stocks": ["败绿"]
+  },
+  {
+    "index": 19,
+    "summary": "用户痛诉自己操作钨股的经历，每次买入后割肉，股价就起飞。",
+    "sentiment": "negative",
+    "key_opinions": ["每次买钨股都亏损割肉", "割肉后股价随即大涨", "其他用户求后续操作提示以便跟买"],
+    "mentioned_stocks": ["钨"]
+  },
+  {
+    "index": 20,
+    "summary": "用户持有中坞（疑为中钨）询问是否该卖出，担心当前价位是顶部。",
+    "sentiment": "mixed",
+    "key_opinions": ["有用户已获利离场", "有用户选择减仓或继续持有", "对后续走势存在分歧（看到95或认为滞涨）"],
+    "mentioned_stocks": ["中坞", "中钨", "锗业"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论西部（某股）的走势分歧，认为缩量可能是好事。",
+    "sentiment": "mixed",
+    "key_opinions": ["今日缩量，换手率低", "认为可能是好事，也有人认为接近顶部"],
+    "mentioned_stocks": ["西部"]
+  },
+  {
+    "index": 22,
+    "summary": "用户困惑今日成交量为何如此小，后发现自己看错了周期。",
+    "sentiment": "mixed",
+    "key_opinions": ["起初认为成交量异常少", "后发现是看错了K线周期", "认为科技股下跌是主因"],
+    "mentioned_stocks": ["无"]
+  },
+  {
+    "index": 23,
+    "summary": "用户寻求推荐深市稳健的高股息股票，用于配置打新额度。",
+    "sentiment": "mixed",
+    "key_opinions": ["列举了平安、美的、格力等候选", "有人认为当前价位已高，缺乏稳健标的", "提供了其他高股息股票参考"],
+    "mentioned_stocks": ["平安", "美的", "格力", "中国广核", "双汇", "粤高速A", "招商公路", "张家港行", "华能国际", "阿胶", "云铝"]
+  },
+  {
+    "index": 24,
+    "summary": "用户困惑金枪鱼（疑为某股）股价疲软，反弹乏力。",
+    "sentiment": "negative",
+    "key_opinions": ["股价表现像死水，反弹无力", "缺乏资金关注", "因调查事件暂无机会"],
+    "mentioned_stocks": ["金枪鱼", "长鑫"]
+  },
+  {
+    "index": 25,
+    "summary": "用户讨论今日大盘是否遇阻（3950点压力位），开盘后快速下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["开盘后快速跳水", "对3950点是否为压力位有讨论", "用户担心市场情绪"],
+    "mentioned_stocks": ["无"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论下周市场主线，认为医药、小金属（稀土、钨）和机器人确定性较高。",
+    "sentiment": "positive",
+    "key_opinions": ["医药、小金属有龙头引领和稀缺性", "机器人板块有启动预期", "板块有基本面支撑，不易受制裁影响"],
+    "mentioned_stocks": ["药", "稀土", "钨", "机器人"]
+  },
+  {
+    "index": 27,
+    "summary": "从冷门角度（AIDC供电上游）切入算力主题，寻找细分投资机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["探讨AIDC供电与金属铬的关联", "有人质疑为时过早，核心硬件尚未爆炒", "有用户认为该方向已启动"],
+    "mentioned_stocks": ["巨化"]
+  },
+  {
+    "index": 28,
+    "summary": "用户对有色金属板块（尤其是钨）突然大涨感到困惑。",
+    "sentiment": "positive",
+    "key_opinions": ["有色金属板块下午突然大幅拉升", "创新药、PCB表现不佳，资金转向有色", "用户对快速的盈亏变化感到惊讶"],
+    "mentioned_stocks": ["有色", "钨", "创新药", "PCB", "金价", "铜"]
+  },
+  {
+    "index": 29,
+    "summary": "用户以夸张的方式效忠“钨妖王”（钨股），表达对股价大涨的兴奋。",
+    "sentiment": "positive",
+    "key_opinions": ["用夸张口号表达对钨股上涨的追捧", "对股价大涨感到兴奋"],
+    "mentioned_stocks": ["钨"]
+  },
+  {
+    "index": 30,
+    "summary": "用户抱怨今日行情混乱，板块轮动快（风电、火电、化工等），缺乏主线。",
+    "sentiment": "negative",
+    "key_opinions": ["行情混乱，板块快速轮动", "资金像无头苍蝇", "出现多个异动板块（有色、半导体等）"],
+    "mentioned_stocks": ["风电", "火电", "水电", "化工", "金风科技", "红宝丽", "有色", "半导体"]
+  },
+  {
+    "index": 31,
+    "summary": "用户提议为算力租赁相关股票建讨论楼，表达对该方向的期待。",
+    "sentiment": "positive",
+    "key_opinions": ["看好算力租赁概念（利通、协创、宏景、行云）", "认为该方向有故事和业绩", "期待主升浪"],
+    "mentioned_stocks": ["利通", "协创", "宏景", "行云", "香江", "莲花"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论中钨高新的持有体验，虽然股价大涨但许多用户仍未解套。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价大涨，部分死扛用户接近回本", "但很多用户仍亏损严重，需多个涨停才能回本", "讨论持仓与卖出时机"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 33,
+    "summary": "资深用户Sai佬因公司利空，大幅减仓并发布告别帖，引发用户感慨。",
+    "sentiment": "negative",
+    "key_opinions": ["因利空事件清仓卖出大部分股票", "用户表达伤感和对后续操作的讨论", "其他用户表示支持并期待其下次“开车”"],
+    "mentioned_stocks": ["中和新"]
+  },
+  {
+    "index": 34,
+    "summary": "用户感叹今日盘中多空对决激烈，散户参与感强。",
+    "sentiment": "mixed",
+    "key_opinions": ["盘中多空大战激烈", "行情惊心动魄", "散户观感参与度高"],
+    "mentioned_stocks": ["无"]
+  },
+  {
+    "index": 35,
+    "summary": "总结今日盘面：科技医药退潮，有色金属转强，医药分歧大。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技板块反弹暂时结束", "有色金属板块转强", "医药板块反弹弱且分歧大"],
+    "mentioned_stocks": ["科技", "医药", "有色"]
+  },
+  {
+    "index": 36,
+    "summary": "用户认为50元的长鑫存储是不错的买入机会，并已买入。",
+    "sentiment": "positive",
+    "key_opinions": ["认为50元是较好买入点", "有用户已买入，期待上涨", "有用户调侃其估值高"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 37,
+    "summary": "用户用篮球梗比喻股价上涨被“盖帽”（受阻），并讨论后续走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["用篮球术语形容股价上涨被打压", "期待下周突破前高", "讨论外资操作与技术形态"],
+    "mentioned_stocks": ["无"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论风华高科股价表现强势，有望封板或走出第二春。",
+    "sentiment": "positive",
+    "key_opinions": ["股价近期非常强势", "有望封板，走出第二波上涨", "有用户认为是庄股"],
+    "mentioned_stocks": ["风华高科", "宝鼎科技"]
+  },
+  {
+    "index": 39,
+    "summary": "用户呼吁“海皇”（海皇集团）股价不要再涨，等待回调接自己上车。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价持续大涨，用户后悔未持仓", "好奇大涨原因和主力意图", "有用户在大涨中卖出"],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 40,
+    "summary": "用户呼吁中大哥（疑为中际旭创或中芯国际）和新二哥股价再次拉升。",
+    "sentiment": "negative",
+    "key_opinions": ["股价走势不佳，用户被套", "后悔之前有卖出机会未行动", "认为在利空背景下，上涨机会渺茫"],
+    "mentioned_stocks": ["中大哥", "新二哥"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论电影《龙餐馆》相关概念股（儒意和中国电影）应选择哪个进行投资。",
+    "sentiment": "mixed",
+    "key_opinions": ["儒意倾向于提前兑现预期", "中国电影有值博率，是年冠种子选手", "讨论两者出品份额和股价表现"],
+    "mentioned_stocks": ["儒意", "中国电影"]
+  },
+  {
+    "index": 42,
+    "summary": "用户抱怨港股败绿（疑为某股）股价波动剧烈，涨跌都不如预期。",
+    "sentiment": "negative",
+    "key_opinions": ["股价上涨乏力，下跌凶猛", "认为外资操作风格比内资更极端", "发帖后股价反弹"],
+    "mentioned_stocks": ["败绿"]
+  },
+  {
+    "index": 43,
+    "summary": "用户感叹不亏不赚等于亏损，感到难受，并反思自己持仓分散如“开超市”。",
+    "sentiment": "negative",
+    "key_opinions": ["持仓不赚不亏，心态失落", "反思自己持股过于分散", "计划按照指导进行复盘"],
+    "mentioned_stocks": ["无"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论中际旭创在光模块“鬼故事”后的股价走势，及抄底行为的风险与收益。",
+    "sentiment": "mixed",
+    "key_opinions": ["利空后股价走势与4月7日不同", "抄底成功者分享经验，但被质疑是火中取栗", "认为技术形态已走坏，逻辑已变"],
+    "mentioned_stocks": ["中际旭创", "中际", "澜起"]
+  },
+  {
+    "index": 45,
+    "summary": "用户认为创新药板块近期表现平淡，缺乏起色。",
+    "sentiment": "negative",
+    "key_opinions": ["创新药板块表现疲软", "用户买入ETF但收益缓慢"],
+    "mentioned_stocks": ["创新药"]
+  },
+  {
+    "index": 46,
+    "summary": "用户抱怨银河证券融券券源少，想做空热门股（中际旭创、茅台）都借不到券。",
+    "sentiment": "negative",
+    "key_opinions": ["大券商券源稀缺，做空困难", "小券商可能更没有券源", "质疑是否存在VIP通道"],
+    "mentioned_stocks": ["银河证券", "中际旭创", "茅台"]
+  },
+  {
+    "index": 47,
+    "summary": "用户询问宇树科技新股220倍市盈率是否会破发，普遍认为不会。",
+    "sentiment": "positive",
+    "key_opinions": ["市盈率高达220倍，但市场预期不会破发", "流通盘小，易于炒作", "中签预期收益高"],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 48,
+    "summary": "用户困惑周末被热烈讨论的有色、创新药板块为何周一高开低走甚至下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["周末热议的板块周一表现不佳", "认为是借利好出货", "追高者被套"],
+    "mentioned_stocks": ["有色", "创新药"]
+  },
+  {
+    "index": 49,
+    "summary": "用户考虑将兆易创新换成中际旭创，试图利用后者跌幅大来博反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["中际旭创跌幅大，博反弹心理", "多数用户反对，认为基本面有黑天鹅，图形已坏", "建议两者都别碰"],
+    "mentioned_stocks": ["兆易创新", "中际旭创", "易中"]
+  },
+  {
+    "index": 50,
+    "summary": "用户询问有色金属板块是否可以继续持有，有用户表示上周已获利回吐部分。",
+    "sentiment": "mixed",
+    "key_opinions": ["有用户上周入场后利润回吐", "有用户认为有色板块上周一直在涨", "讨论有色板块内部分化及与黄金的比较"],
+    "mentioned_stocks": ["有色", "黄金", "紫金"]
+  }
+]
