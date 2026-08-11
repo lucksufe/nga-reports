@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "商业航天抄底风险高，发射失败和延期导致不确定性。",
+    "sentiment": "negative",
+    "key_opinions": ["发射失败概率高，风险类似俄罗斯轮盘赌", "抄底可能为时过早，科技股更优", "股价已到底部，但下跌空间未知"],
+    "mentioned_stocks": ["商业航天", "卫星指数", "朱雀"]
+  },
+  {
+    "index": 2,
+    "summary": "美股光模块大跌，原因包括禁令和成本增加，可能利好A股光模块。",
+    "sentiment": "mixed",
+    "key_opinions": ["光模块禁令会导致涨价和基建变慢", "美股大跌可能利好A股光模块", "小作文可信度低，逻辑变化重要"],
+    "mentioned_stocks": ["光模块", "A股光"]
+  },
+  {
+    "index": 3,
+    "summary": "锂矿板块讨论，用户亏损但近期有反弹，情绪复杂。",
+    "sentiment": "mixed",
+    "key_opinions": ["锂矿内脏东西多，投资风险高", "最近涨得不错，从低点反弹", "用户亏损，希望回本但可能错过机会"],
+    "mentioned_stocks": ["天华新能", "华友钴业", "盛新锂能"]
+  },
+  {
+    "index": 4,
+    "summary": "风投女王徐新投资美团基于懒惰习惯，但外卖质量和成本受质疑。",
+    "sentiment": "negative",
+    "key_opinions": ["习惯吃外卖不等于美团股票赚钱", "外卖偷工减料，配送费不合理", "美团与其他平台竞争，投资逻辑牵强"],
+    "mentioned_stocks": ["美团"]
+  },
+  {
+    "index": 5,
+    "summary": "用户割肉证券股，转投科技股，希望快速回本。",
+    "sentiment": "mixed",
+    "key_opinions": ["证券股亏损，割肉后转向科技", "看好科技股回本", "操作时机不佳，可能进一步亏损"],
+    "mentioned_stocks": ["东方财富", "科技股"]
+  },
+  {
+    "index": 6,
+    "summary": "韩国存储股大跌，市场表现疲软。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国散户被坑杀", "市场正规但表现差", "A股存储股继续下跌"],
+    "mentioned_stocks": ["海力士", "A股存储"]
+  },
+  {
+    "index": 7,
+    "summary": "寻求稳定40%收益的基金，被回复认为不现实。",
+    "sentiment": "negative",
+    "key_opinions": ["40%收益不算高收益不现实", "巴菲特都做不到稳定40%", "稳定4%的红利低波更实际"],
+    "mentioned_stocks": ["基金", "ETF"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论上证指数4000点突破可能性，选项包括突破、上涨、下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["强势突破到月球", "稳扎稳打延续趋势", "回调到2800点"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 9,
+    "summary": "股市论坛“大时代”板块讨论，技术性调整后消失。",
+    "sentiment": "negative",
+    "key_opinions": ["技术性调整导致板块消失", "小时代有挂水区问题", "大时代需大盘一万点才回来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "商业航天因爆炸和延期股价下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["爆炸和延期导致股价下跌", "可能退市"],
+    "mentioned_stocks": ["商业航天"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论CPI数据公布时间，对黄金和油价的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["CPI数据可能延续缓和态势支撑金价", "黄金上涨，但可能受加息影响", "消息面影响有限"],
+    "mentioned_stocks": ["黄金", "油价"]
+  },
+  {
+    "index": 12,
+    "summary": "用户寻找查看大资金持股的平台，提到顽主杯等。",
+    "sentiment": "neutral",
+    "key_opinions": ["顽主杯是已知平台", "同花顺投资账本有牛人交割单", "淘股吧有实盘比赛"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论股市后续走势，认为调整需求大。",
+    "sentiment": "negative",
+    "key_opinions": ["想进的已进，可能震荡", "获利盘和套牢盘到位，需调整", "科技股已调整"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "比较昊华和中船科技，讨论走势和投资逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["中船科技涨幅大，昊华可能跟进", "昊华科技有半导体材料，但股性差", "中船科技有独特产能，更具投资价值"],
+    "mentioned_stocks": ["昊华科技", "中船科技", "多氟多", "中巨芯", "江化微"]
+  },
+  {
+    "index": 15,
+    "summary": "钨价上涨，舆论看多，但风险高。",
+    "sentiment": "mixed",
+    "key_opinions": ["抖音小作文爆量，主力可能继续拉", "股吧唱多，目标价高，令人心慌", "追涨风险大，可能回调"],
+    "mentioned_stocks": ["中钨", "钨"]
+  },
+  {
+    "index": 16,
+    "summary": "黄金价格上涨，讨论原因如川子搞事。",
+    "sentiment": "positive",
+    "key_opinions": ["黄金目标4800", "金油齐涨，可能因川子", "汇率影响，黄金吃汇率"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 17,
+    "summary": "美联储官员提及多次加息压低通胀，但市场不信。",
+    "sentiment": "negative",
+    "key_opinions": ["加息狼来了喊太多，没人信", "黄金上涨显示不信加息", "关注加息票转向，而非个别官员"],
+    "mentioned_stocks": ["黄金", "利率"]
+  },
+  {
+    "index": 18,
+    "summary": "半导体板块强势，光模块和存储弱势。",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体拖着光模块和存储前进", "PCB曾属光模块，现在独立", "存储和光模块下跌，导体上涨"],
+    "mentioned_stocks": ["光模块", "存储", "半导体", "PCB", "胜宏"]
+  },
+  {
+    "index": 19,
+    "summary": "投资低位老登股，期待反弹20%。",
+    "sentiment": "positive",
+    "key_opinions": ["可以做右侧交易，赚20%休息", "科技股可能走完，转向老登", "火电等板块价位合适"],
+    "mentioned_stocks": ["华能国际", "东航", "工行", "海螺水泥"]
+  },
+  {
+    "index": 20,
+    "summary": "茅台涨价，讨论白酒板块前景。",
+    "sentiment": "mixed",
+    "key_opinions": ["茅台涨价可能带动老登板块", "年轻人不喝白酒，看空", "白酒启动，但需谨慎"],
+    "mentioned_stocks": ["飞天茅台", "百润"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论宝妈指数，纳斯达克、标普500、创新药排名。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳斯达克和标普硬刚宝妈", "创新药可能司马（下跌）", "美股阶段高点，可能回调"],
+    "mentioned_stocks": ["纳斯达克ETF", "标普500ETF", "创新药ETF"]
+  },
+  {
+    "index": 22,
+    "summary": "用户希望股市上涨解套，但套牢深。",
+    "sentiment": "negative",
+    "key_opinions": ["涨一点就调整，解套难", "山顶套住，年内可能无法解套", "融资加仓可解套（讽刺）"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "美股光模块下跌，可能因国产替代逻辑失败。",
+    "sentiment": "negative",
+    "key_opinions": ["美股光模块下跌，利好A股光", "美国国产替代未成功", "小作文可能影响"],
+    "mentioned_stocks": ["AAOI", "光模块"]
+  },
+  {
+    "index": 24,
+    "summary": "比较半导体设备和材料，设备弹性大，材料行情长。",
+    "sentiment": "mixed",
+    "key_opinions": ["设备比材料先升浪", "材料弹性大，涨跌多", "设备一锤子买卖，材料持续消耗"],
+    "mentioned_stocks": ["半导体设备ETF", "半导体材料"]
+  },
+  {
+    "index": 25,
+    "summary": "预测半导体明天走势，可能回调。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股跌，A股半导体可能跟跌", "半导体应调整", "材料设备还能涨，长协价利好"],
+    "mentioned_stocks": ["半导体", "光模块", "存储"]
+  },
+  {
+    "index": 26,
+    "summary": "创新药股票出现对子顶，可能下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["对子顶是机构撤退暗号", "科技股曾对子顶后下跌", "创新药未涨太多，风险较低"],
+    "mentioned_stocks": ["药明康德", "凯莱英", "美迪西", "奥普迈", "阳光诺和", "诺思格"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论PCB是否会被美国制裁，可能性低。",
+    "sentiment": "mixed",
+    "key_opinions": ["对光动手，可能对其他板块动手", "PCB美国无法替代，风险低", "PCB利润不大，制裁意义小"],
+    "mentioned_stocks": ["PCB", "光模块"]
+  },
+  {
+    "index": 28,
+    "summary": "恒逸石化高分红，业绩增长。",
+    "sentiment": "positive",
+    "key_opinions": ["股息率4.9%，老登水平", "半年净利润大增", "与中东业务有关，表现强"],
+    "mentioned_stocks": ["恒逸石化"]
+  },
+  {
+    "index": 29,
+    "summary": "兆易创新盘子大但波动剧烈。",
+    "sentiment": "negative",
+    "key_opinions": ["波动大，涨停跌停频繁", "流动性差导致波动率高", "与光迅类似，成交额大"],
+    "mentioned_stocks": ["兆易创新", "光迅", "亨通", "中钨"]
+  },
+  {
+    "index": 30,
+    "summary": "SpaceX股价回升，讨论美股价值回归。",
+    "sentiment": "positive",
+    "key_opinions": ["SpaceX修复发行价，早晚价值回归", "追高的还在半山腰", "美股双向交易，时间长回归"],
+    "mentioned_stocks": ["SpaceX"]
+  },
+  {
+    "index": 31,
+    "summary": "高盛唱多中国AI板块，但市场质疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["高盛重仓科技，可能被套", "唱多可能为出货", "高盛有格局"],
+    "mentioned_stocks": ["中国AI板块"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论钨股明天走势，止盈或冲高。",
+    "sentiment": "mixed",
+    "key_opinions": ["选高点止盈", "等回调", "清仓中钨，明天可能涨停"],
+    "mentioned_stocks": ["中钨", "钨"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论猪肉股加仓，价格涨但需谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": ["可以持续买一个季度", "短时间有回撤，等利好", "猪肉价格涨是拉因"],
+    "mentioned_stocks": ["猪肉股"]
+  },
+  {
+    "index": 34,
+    "summary": "商业航天面临利空，发射取消和业绩差。",
+    "sentiment": "negative",
+    "key_opinions": ["发射失败、延期、业绩差", "取消发射等同失败计提", "明天可能地板开"],
+    "mentioned_stocks": ["商业航天", "铖昌"]
+  },
+  {
+    "index": 35,
+    "summary": "炒股亏损后反而更舍得消费。",
+    "sentiment": "mixed",
+    "key_opinions": ["亏损比赚得多，改变消费观", "金融消费也是消费", "红了粗茶淡饭，绿了消费"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "商业航天发射成功后股价下跌，原因包括庄家操作。",
+    "sentiment": "negative",
+    "key_opinions": ["庄家倒货给散户", "监管降温导致下跌", "股价瞬间按地板，散户难跑"],
+    "mentioned_stocks": ["商业航天"]
+  },
+  {
+    "index": 37,
+    "summary": "用户全仓龙佰集团和凯莱英，引发跟车。",
+    "sentiment": "positive",
+    "key_opinions": ["全仓龙佰集团和凯莱英", "跟车操作", "龙佰是钛白粉老大"],
+    "mentioned_stocks": ["龙佰集团", "凯莱英", "卧龙电驱"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论宇树科技上市是否破发，普遍认为不会。",
+    "sentiment": "positive",
+    "key_opinions": ["机器人第一股，情绪溢价", "首日不会破发，盘子小", "未中签的幻想破发"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 39,
+    "summary": "电影相关概念股炒作，如北京文化、儒意电影。",
+    "sentiment": "mixed",
+    "key_opinions": ["炒作概念股，电影评价高", "涨停后追高风险大", "柚子抢筹，可能连续涨停"],
+    "mentioned_stocks": ["北京文化", "儒意电影", "完美世界", "幸福蓝海"]
+  },
+  {
+    "index": 40,
+    "summary": "证券板块横盘不涨，讨论是否无用。",
+    "sentiment": "negative",
+    "key_opinions": ["证券横盘，成交量低", "渣男板块，不跟涨跌", "工具属性，等牛市冲锋"],
+    "mentioned_stocks": ["证券板块"]
+  },
+  {
+    "index": 41,
+    "summary": "比较昊华和中船科技投资，偏好中船。",
+    "sentiment": "mixed",
+    "key_opinions": ["中船更好，有权限优先", "连涨需回调", "中船有独特产能"],
+    "mentioned_stocks": ["昊华科技", "中船科技"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论光模块调整，可能为后续上涨腾空间。",
+    "sentiment": "mixed",
+    "key_opinions": ["深蹲后两倍做多", "光模块估值低，终将上涨", "等财报或事件催化"],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 43,
+    "summary": "江波龙财报不佳，可能带崩科技板块。",
+    "sentiment": "negative",
+    "key_opinions": ["收入降成本涨，现金流差", "高价囤货，风险高", "周期结束可能退市"],
+    "mentioned_stocks": ["江波龙"]
+  },
+  {
+    "index": 44,
+    "summary": "黄金指数上升，宝妈讨论增加。",
+    "sentiment": "positive",
+    "key_opinions": ["买涨不买跌，黄金势头起", "宝妈讨论时应入场", "黄金定投不怕回不来"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 45,
+    "summary": "中金增持中际旭创港股，但市场反应冷淡。",
+    "sentiment": "negative",
+    "key_opinions": ["增持0.31%不多", "不如高盛", "拖单必砸"],
+    "mentioned_stocks": ["中金", "中际旭创", "广发", "高盛"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论美股存储股表现，闪迪上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["闪迪上涨，美光海力士微涨", "美股可能反弹", "泥潭网友看平行时空"],
+    "mentioned_stocks": ["闪迪", "美光", "海力士"]
+  },
+  {
+    "index": 47,
+    "summary": "龙头宏股票强势上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["强者恒强", "梦想成真", "尾盘抢高"],
+    "mentioned_stocks": ["龙头宏"]
+  },
+  {
+    "index": 48,
+    "summary": "用户分享A股黄金坑策略，准备干美股。",
+    "sentiment": "positive",
+    "key_opinions": ["干七姐妹加台积电", "A股黄金坑策略有效", "现在all in赔率胜率低"],
+    "mentioned_stocks": ["七姐妹", "台积电", "中证1000", "中证2000"]
+  },
+  {
+    "index": 49,
+    "summary": "基金持仓偏A股港股，美股仓位少，引争议。",
+    "sentiment": "negative",
+    "key_opinions": ["基金名不副实，持仓偏A股", "净值回撤大", "限额外溢，可能被要求调整"],
+    "mentioned_stocks": ["华夏全球科技先锋混合(QDII)", "建滔积层板"]
+  },
+  {
+    "index": 50,
+    "summary": "讨论长飞光纤是否跟涨康宁。",
+    "sentiment": "negative",
+    "key_opinions": ["跟跌不跟涨", "涨时玻璃鸡，跌时光纤"],
+    "mentioned_stocks": ["长飞", "康宁"]
+  }
+]
