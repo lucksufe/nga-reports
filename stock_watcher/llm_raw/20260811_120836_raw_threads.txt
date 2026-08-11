@@ -1,0 +1,310 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论是否买入中钨，有人在下跌时加仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["在下跌时加仓，有风险但机会", "怕别买，买别怕，-5%时加仓"],
+    "mentioned_stocks": ["中钨"]
+  },
+  {
+    "index": 2,
+    "summary": "黄金价格上涨，但有人减仓，讨论持有策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["减仓以管理风险，仓位拿不住", "持有到下次议息会议，黄金走势强劲"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 3,
+    "summary": "大盘连阳上涨，但多数人抱怨未赚到钱。",
+    "sentiment": "negative",
+    "key_opinions": ["大盘涨但个股难赚钱，板块轮动快", "回本困难，担心4000点后下跌"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 4,
+    "summary": "老登股和科技股走势分歧，资金流向分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股可能继续上涨，老登股有潜力", "缩量行情下板块轮动，资金偏爱科技"],
+    "mentioned_stocks": ["科技股", "老登股", "创新药"]
+  },
+  {
+    "index": 5,
+    "summary": "解释涨停板买入原因，T+1导致追高。",
+    "sentiment": "mixed",
+    "key_opinions": ["T+1制度导致追高，赌第二天溢价", "涨停板吸引投机，但今天买可能跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论澜起科技投资价值，走势疲软。",
+    "sentiment": "negative",
+    "key_opinions": ["澜起科技走势疲软，量少", "回购价203有支撑，但短期空间有限"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 7,
+    "summary": "大盘V型反转，讨论量化资金和波动。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化资金影响大，盘中V型反转", "成交量缩量，外场观望，波动恶心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "有色金属下跌原因，股票预判期货。",
+    "sentiment": "negative",
+    "key_opinions": ["股票预判期货，提前透支涨幅", "资金转移，有色跌但期货涨"],
+    "mentioned_stocks": ["有色板块", "紫金矿业"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论棒子（韩国股市）是否筑底，海力士股价。",
+    "sentiment": "mixed",
+    "key_opinions": ["海力士股价在最高点一半左右，可能筑底"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论完美世界股价修复，新版本推动。",
+    "sentiment": "positive",
+    "key_opinions": ["完美世界股价可能修复，新版本催化", "财报将反映异环收入，长期看好"],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 11,
+    "summary": "出差期间仓位管理，建议清仓或防守。",
+    "sentiment": "mixed",
+    "key_opinions": ["出差应清仓或换防守股，风险控制", "科技股风险大，建议买电力ETF等稳股"],
+    "mentioned_stocks": ["科技股", "三大航", "电力ETF"]
+  },
+  {
+    "index": 12,
+    "summary": "投资反思和未来机会，小票反弹猛。",
+    "sentiment": "mixed",
+    "key_opinions": ["误判行情后重新开始，小票反弹剧烈", "关注科技中小盘和产业趋势，波动中掏兜"],
+    "mentioned_stocks": ["光模块", "科技股"]
+  },
+  {
+    "index": 13,
+    "summary": "美元走弱影响投资产品，汇率风险。",
+    "sentiment": "negative",
+    "key_opinions": ["美元走弱导致产品涨但亏钱，汇率风险大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "清仓科技股后声称主力拉升，调侃主力。",
+    "sentiment": "mixed",
+    "key_opinions": ["清仓后科技上涨，主力行为不可预测", "科技清仓转红利，可能挨打"],
+    "mentioned_stocks": ["科技股", "红利股"]
+  },
+  {
+    "index": 15,
+    "summary": "有色和科技股资金转移，板块轮动分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["资金从有色转移到科技，短期弹性差异", "有色结账，科技自救，缩量下轮动"],
+    "mentioned_stocks": ["有色板块", "科技股"]
+  },
+  {
+    "index": 16,
+    "summary": "全仓买入龙佰集团和凯莱英，跟车操作。",
+    "sentiment": "positive",
+    "key_opinions": ["全仓买入龙佰集团，凯莱英小亏卖出", "跟车操作，半仓跟随"],
+    "mentioned_stocks": ["龙佰集团", "凯莱英"]
+  },
+  {
+    "index": 17,
+    "summary": "操作失误，全仓卖出变买入，分享经历。",
+    "sentiment": "negative",
+    "key_opinions": ["操作失误导致损失，应设置风控", "App可能有问题，提前下班"],
+    "mentioned_stocks": ["西部矿业", "大为股份", "湖北宜化"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论电力板块投资，买入相关股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["买入华电辽能、大唐电力，ETF埋伏", "电力板块横盘，等风来"],
+    "mentioned_stocks": ["华电辽能", "大唐电力", "电力ETF"]
+  },
+  {
+    "index": 19,
+    "summary": "商业航天板块被质疑，声称机构建仓。",
+    "sentiment": "negative",
+    "key_opinions": ["商业航天板块垃圾，机构建仓年底拉"],
+    "mentioned_stocks": ["商业航天板块"]
+  },
+  {
+    "index": 20,
+    "summary": "科技股意外强势，但参与者少，怕跳水。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股反弹但参与少，怕下午跳水", "洗盘严重，被洗出去或绝望"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 21,
+    "summary": "动漫风格描述科技股和老登股竞争。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股强势，老登股可能被压制", "监管影响，K线图可切割"],
+    "mentioned_stocks": ["科技股", "老登股"]
+  },
+  {
+    "index": 22,
+    "summary": "科技股承接强，但质疑散户接盘能力。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股日内调整后V起，承接足", "散户接不住，下午可能变盘"],
+    "mentioned_stocks": ["科技股", "半导体设备"]
+  },
+  {
+    "index": 23,
+    "summary": "药明康德新高预期，但有法案风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["药明康德可能新高，底部买入", "法案禁令通过，估值调整到30PE"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 24,
+    "summary": "中钨股价V型反转，讨论做T策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["中钨股价V型反转，硬挺", "做T策略，持股不动或调整后接回"],
+    "mentioned_stocks": ["中钨"]
+  },
+  {
+    "index": 25,
+    "summary": "茅台酒价上涨，讨论白酒板块前景。",
+    "sentiment": "mixed",
+    "key_opinions": ["茅台涨价，白酒可能启动", "年轻人不喝酒，白酒前景分歧"],
+    "mentioned_stocks": ["茅台", "百润"]
+  },
+  {
+    "index": 26,
+    "summary": "担忧大盘走A字形，冲高回落。",
+    "sentiment": "negative",
+    "key_opinions": ["大盘可能走A，摸4000压力大", "GJD任务可能拉上4100防死叉"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "记录学习回本，存储股亏损经历。",
+    "sentiment": "negative",
+    "key_opinions": ["学习投资回本，存储股亏损痛"],
+    "mentioned_stocks": ["存储股"]
+  },
+  {
+    "index": 28,
+    "summary": "科技投资高手撤离，怕C杀，有分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技人撤离，怕C杀恐怖", "有分歧还有戏，一致看多危险"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论中概股撤离，担忧中报风险。",
+    "sentiment": "negative",
+    "key_opinions": ["中概股走势差，中报可能有雷", "留底仓，韩国反弹影响"],
+    "mentioned_stocks": ["中概股", "腾讯"]
+  },
+  {
+    "index": 30,
+    "summary": "MLCC股超预期上涨，科技先锋角色。",
+    "sentiment": "positive",
+    "key_opinions": ["MLCC超预期上涨，证明科技还能涨", "洗盘后拉升，日本剩饭甜美"],
+    "mentioned_stocks": ["MLCC", "风华高科", "村田", "太阳诱电"]
+  },
+  {
+    "index": 31,
+    "summary": "商业航天与光模块跌停后比较，可能反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["跌停后可能反弹，机构自救", "血筹吓出，具体问题具体分析"],
+    "mentioned_stocks": ["商业航天", "光模块", "中际旭创"]
+  },
+  {
+    "index": 32,
+    "summary": "老登和科技股跷跷板，缩量无聊。",
+    "sentiment": "mixed",
+    "key_opinions": ["老登科技跷跷板，缩量行情", "可能来个大波动，方向不明"],
+    "mentioned_stocks": ["老登股", "科技股"]
+  },
+  {
+    "index": 33,
+    "summary": "早盘惊吓割肉后修复，操作失误。",
+    "sentiment": "negative",
+    "key_opinions": ["割肉后股价修复，主力操作坏", "价格错误导致多亏"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论锂矿股前景，有反弹但套牢多。",
+    "sentiment": "mixed",
+    "key_opinions": ["锂矿股套牢，近期有反弹20%", "回本承诺，脏东西多"],
+    "mentioned_stocks": ["锂矿板块", "天华新能", "华友钴业", "盛新锂能"]
+  },
+  {
+    "index": 35,
+    "summary": "东航物流强势，油价上涨跟涨。",
+    "sentiment": "positive",
+    "key_opinions": ["东航物流上涨，油价影响"],
+    "mentioned_stocks": ["东航物流"]
+  },
+  {
+    "index": 36,
+    "summary": "卫星发射失败未跌停，发射频率高脱敏。",
+    "sentiment": "mixed",
+    "key_opinions": ["卫星发射失败未跌停，发射频率高", "脱敏效应，位置低跌不下去"],
+    "mentioned_stocks": ["卫星股", "斯瑞新材"]
+  },
+  {
+    "index": 37,
+    "summary": "光通信股上涨，主力操作和血筹博弈。",
+    "sentiment": "mixed",
+    "key_opinions": ["光通信股冲起来，主力反向操作", "榨油火中取栗，下跌中继可能"],
+    "mentioned_stocks": ["光通信股"]
+  },
+  {
+    "index": 38,
+    "summary": "建仓中国电影但儒意涨停，游资短线。",
+    "sentiment": "negative",
+    "key_opinions": ["建仓中国电影但儒意涨停，选错股", "游资短线，主力聪明"],
+    "mentioned_stocks": ["中国电影", "儒意"]
+  },
+  {
+    "index": 39,
+    "summary": "老登科技跷跷板，缩量无法普涨。",
+    "sentiment": "negative",
+    "key_opinions": ["老登科技跷跷板，缩量行情", "需要增量资金才能普涨"],
+    "mentioned_stocks": ["老登股", "科技股", "银行"]
+  },
+  {
+    "index": 40,
+    "summary": "商业航天V型反转，位置低赌大小。",
+    "sentiment": "mixed",
+    "key_opinions": ["商业航天V型反转，跌不下去", "赌发射成功失败，板块风险大"],
+    "mentioned_stocks": ["商业航天股"]
+  },
+  {
+    "index": 41,
+    "summary": "某股（蛆）强势反弹，记录持股体验。",
+    "sentiment": "positive",
+    "key_opinions": ["蛆股强势反弹，抗跌接棒潜力", "4天40多个点，勇敢者盛宴"],
+    "mentioned_stocks": ["蛆（可能指某科技股）"]
+  },
+  {
+    "index": 42,
+    "summary": "海力士被做局，韩国监管问题。",
+    "sentiment": "negative",
+    "key_opinions": ["海力士被做局，想象空间受限", "韩国监管问题，华尔街影响"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 43,
+    "summary": "稀土有反制潜力，底部启动但套牢多。",
+    "sentiment": "mixed",
+    "key_opinions": ["稀土反制卡脖子，底部放量启动", "套牢多，国家整合后影响力大"],
+    "mentioned_stocks": ["稀土板块", "铟"]
+  },
+  {
+    "index": 44,
+    "summary": "风华高科股价强势，可能封板。",
+    "sentiment": "positive",
+    "key_opinions": ["风华高科可能封板，趋势强", "主力出货后拉升，情绪标"],
+    "mentioned_stocks": ["风华高科", "宝鼎科技"]
+  }
+]
