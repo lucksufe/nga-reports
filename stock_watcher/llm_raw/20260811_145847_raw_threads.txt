@@ -1,0 +1,310 @@
+[
+  {
+    "index": 1,
+    "summary": "用户因评论被股市大佬在小红书拉黑，引发讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["用户行为被批评无聊", "大佬可能因反感离开", "小红书体验好情绪价值高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户建楼讨论算力租赁相关股票，期待主升。",
+    "sentiment": "mixed",
+    "key_opinions": ["算力租赁年内有潜力", "行云老庄强势", "协创表现不佳"],
+    "mentioned_stocks": ["利通", "协创", "宏景", "行云"]
+  },
+  {
+    "index": 3,
+    "summary": "用户后悔买入某股票，因看跌卖出，转而投资其他。",
+    "sentiment": "negative",
+    "key_opinions": ["抄底风险高", "可能反弹但用户选择卖出", "转向加仓其他股票"],
+    "mentioned_stocks": ["豫能控股"]
+  },
+  {
+    "index": 4,
+    "summary": "豆包推荐酒店订单收取高额佣金，引发平台收费讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["平台收费普遍且高额", "类似百度等平台", "AI被滥用为流量入口"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "稀土板块下跌，用户讨论盛和等股票，表示失望。",
+    "sentiment": "negative",
+    "key_opinions": ["稀土板块惨淡", "盛和是主要稀土股", "美股稀土上涨但A股不跟"],
+    "mentioned_stocks": ["盛和", "稀土MP"]
+  },
+  {
+    "index": 6,
+    "summary": "阳光电源反弹，用户后悔卖出，讨论储能前景。",
+    "sentiment": "mixed",
+    "key_opinions": ["利空出尽是利好", "储能行业有增长潜力", "机构预测乐观"],
+    "mentioned_stocks": ["阳光电源", "科士达", "派能科技"]
+  },
+  {
+    "index": 7,
+    "summary": "用户询问利通股票下跌原因，讨论其跟随大盘波动。",
+    "sentiment": "mixed",
+    "key_opinions": ["利通跟随大盘走", "科技行情不好影响", "股票波动大如妖股"],
+    "mentioned_stocks": ["利通"]
+  },
+  {
+    "index": 8,
+    "summary": "南方航空跌到5元附近，用户讨论买入和反弹机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["跌到5元可能反弹", "放量跌后需观察", "对比其他航空公司"],
+    "mentioned_stocks": ["南方航空", "华夏航空", "东航", "春秋航空"]
+  },
+  {
+    "index": 9,
+    "summary": "金属ETF大跌，用户庆幸逃顶，讨论历史波动。",
+    "sentiment": "negative",
+    "key_opinions": ["金属ETF日跌5%罕见", "历史有连续跌停", "黄金ETF也曾跌停"],
+    "mentioned_stocks": ["金属ETF", "黄金ETF", "白银有色"]
+  },
+  {
+    "index": 10,
+    "summary": "用户抱怨股票分时图异常，怀疑市场操纵。",
+    "sentiment": "negative",
+    "key_opinions": ["分时图丑陋", "怀疑操纵市场", "其他股票更丑"],
+    "mentioned_stocks": ["志特新材", "海航"]
+  },
+  {
+    "index": 11,
+    "summary": "大盘突然跳水，用户讨论量化交易和自由落体走势。",
+    "sentiment": "negative",
+    "key_opinions": ["量化交易可能加剧下跌", "大盘缩量", "板块个股自由落体"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "证券板块持续下跌，用户讨论缩量和加息预期。",
+    "sentiment": "negative",
+    "key_opinions": ["证券板块下跌", "缩量严重", "加息预期影响"],
+    "mentioned_stocks": ["证券ETF"]
+  },
+  {
+    "index": 13,
+    "summary": "用户打满仓位后市场下跌，自嘲为股市冥灯。",
+    "sentiment": "negative",
+    "key_opinions": ["时机选择错误", "市场下跌", "用户自嘲冥灯"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "用户询问科技板块是否同涨同跌，讨论细分差异。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技板块并非完全同步", "存储板块表现弱", "7月存储领跌"],
+    "mentioned_stocks": ["德明利", "兆易"]
+  },
+  {
+    "index": 15,
+    "summary": "有色板块大幅下跌，用户讨论原因如加息预期。",
+    "sentiment": "negative",
+    "key_opinions": ["有色板块阴包阳", "可能因加息预期", "资金敏感易撤离"],
+    "mentioned_stocks": ["有色板块"]
+  },
+  {
+    "index": 16,
+    "summary": "用户讨论大盘走势，是否上涨或调整。",
+    "sentiment": "mixed",
+    "key_opinions": ["大盘可能摸4000点", "连绿三天担忧", "政府可能托市"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "宇树科技高管呼吁长期投资，反对投机炒作。",
+    "sentiment": "mixed",
+    "key_opinions": ["公司希望价值投资", "用户讽刺炒作", "中签后可能立即卖出"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 18,
+    "summary": "缩量情况下出现地天板，展示A股波动性。",
+    "sentiment": "positive",
+    "key_opinions": ["缩量地天板", "A股有力量"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "创业板盘中接近翻绿，走势震荡。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板走势剧烈", "可能复刻昨天走势"],
+    "mentioned_stocks": ["创业板指数"]
+  },
+  {
+    "index": 20,
+    "summary": "用户表达对钨股的忠诚，使用幽默表情。",
+    "sentiment": "positive",
+    "key_opinions": ["忠诚于钨股", "使用幽默表情"],
+    "mentioned_stocks": ["钨业"]
+  },
+  {
+    "index": 21,
+    "summary": "大盘突然跳水，用户讨论原因如筹码派发。",
+    "sentiment": "negative",
+    "key_opinions": ["跳水原因多样", "可能筹码派发", "加息预期"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "德子股票开盘涨收盘跌，用户表达不满。",
+    "sentiment": "negative",
+    "key_opinions": ["开盘涨收盘跌", "表现不合理"],
+    "mentioned_stocks": ["德子", "宏桥控股"]
+  },
+  {
+    "index": 23,
+    "summary": "超纯应材新股中签收益高，用户求好运。",
+    "sentiment": "positive",
+    "key_opinions": ["新股中签收益高", "求沾仙气"],
+    "mentioned_stocks": ["超纯应材"]
+  },
+  {
+    "index": 24,
+    "summary": "用户感觉反弹到头，讨论回调和基本面问题。",
+    "sentiment": "negative",
+    "key_opinions": ["反弹可能结束", "回调力度大", "基本面问题如加息预期"],
+    "mentioned_stocks": ["光伏", "费半"]
+  },
+  {
+    "index": 25,
+    "summary": "机器人股票早盘走后拉升，用户犹豫是否追高。",
+    "sentiment": "mixed",
+    "key_opinions": ["机器人股票有行情", "可能A杀", "需谨慎追高"],
+    "mentioned_stocks": ["机器人ETF"]
+  },
+  {
+    "index": 26,
+    "summary": "用户分析宝丰能源，看好其主升潜力。",
+    "sentiment": "positive",
+    "key_opinions": ["宝丰能源基本面好", "筹码结构健康", "等待风口"],
+    "mentioned_stocks": ["宝丰能源", "金牛", "金煤", "万华", "卫星"]
+  },
+  {
+    "index": 27,
+    "summary": "用户询问中钨是否值得买入，表达风险态度。",
+    "sentiment": "mixed",
+    "key_opinions": ["怕别买，买别怕", "跌5%加仓"],
+    "mentioned_stocks": ["中钨"]
+  },
+  {
+    "index": 28,
+    "summary": "用户半仓等待铁盒回调，表达少赚心痛。",
+    "sentiment": "mixed",
+    "key_opinions": ["半仓涨五天心痛", "回调时机难测", "可能日内回调"],
+    "mentioned_stocks": ["铁盒"]
+  },
+  {
+    "index": 29,
+    "summary": "用户记录交易模式，买入科技股并讨论老登股。",
+    "sentiment": "mixed",
+    "key_opinions": ["按技术指标交易", "买入老登股但止损", "盘面奇怪"],
+    "mentioned_stocks": ["科技股", "老登股"]
+  },
+  {
+    "index": 30,
+    "summary": "MLCC板块走势如A字，用户讨论相关股票。",
+    "sentiment": "negative",
+    "key_opinions": ["MLCC涨后回调", "获利盘兑现", "科技环境不支持"],
+    "mentioned_stocks": ["国瓷", "三环", "博纤", "利和兴"]
+  },
+  {
+    "index": 31,
+    "summary": "机器人板块表现但动力不足，为宇树科技造势。",
+    "sentiment": "mixed",
+    "key_opinions": ["机器人板块表现", "为宇树造势", "拉升没动力"],
+    "mentioned_stocks": ["宇树科技", "LDXB"]
+  },
+  {
+    "index": 32,
+    "summary": "有色板块下跌，用户讨论预判CPI和资金流向。",
+    "sentiment": "negative",
+    "key_opinions": ["有色资金预判CPI", "加息预期影响", "资金避险"],
+    "mentioned_stocks": ["有色板块", "科技板块"]
+  },
+  {
+    "index": 33,
+    "summary": "新手投资者讨论黄金ETF卖出策略，与妻子意见不同。",
+    "sentiment": "mixed",
+    "key_opinions": ["投资决策应独立于盈亏", "黄金长期看涨", "减仓合理"],
+    "mentioned_stocks": ["黄金ETF", "存积金"]
+  },
+  {
+    "index": 34,
+    "summary": "用户质疑商业航天和机器人的长期故事性。",
+    "sentiment": "negative",
+    "key_opinions": ["商业航天和机器人只有故事", "业绩预期遥远", "炒作后接盘风险"],
+    "mentioned_stocks": ["商业航天", "机器人", "宇树科技", "智元"]
+  },
+  {
+    "index": 35,
+    "summary": "用户预判市场调整提前发生。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场预判提前", "3950点收费"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "海皇股票上涨，用户后悔提前卖出。",
+    "sentiment": "negative",
+    "key_opinions": ["海皇股票大涨", "惩罚不忠诚者", "无利好上涨"],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 37,
+    "summary": "紫金矿业下跌，尽管黄金上涨。",
+    "sentiment": "negative",
+    "key_opinions": ["紫金下跌逆势", "可能涨多了", "资金流向其他板块"],
+    "mentioned_stocks": ["紫金矿业", "黄金股"]
+  },
+  {
+    "index": 38,
+    "summary": "存储板块表现不佳，用户困惑原因。",
+    "sentiment": "negative",
+    "key_opinions": ["存储跟跌不跟涨", "去医药板块", "真存储上市影响"],
+    "mentioned_stocks": ["存储板块", "太极"]
+  },
+  {
+    "index": 39,
+    "summary": "用户观察上午走势，怀疑是诱多打窝。",
+    "sentiment": "negative",
+    "key_opinions": ["走势扭捏可能打窝", "建议空仓", "V形走势骗人"],
+    "mentioned_stocks": ["中和易"]
+  },
+  {
+    "index": 40,
+    "summary": "大盘V形反转，机器人板块启动。",
+    "sentiment": "positive",
+    "key_opinions": ["V形反转", "机器人启动", "目标上4000点"],
+    "mentioned_stocks": ["机器人板块"]
+  },
+  {
+    "index": 41,
+    "summary": "用户复盘商业航天投资，因爆炸事件失败。",
+    "sentiment": "negative",
+    "key_opinions": ["买入逻辑没错但黑天鹅", "长甲爆炸概率低", "资金可能承接"],
+    "mentioned_stocks": ["商业航天", "朱雀", "长甲"]
+  },
+  {
+    "index": 42,
+    "summary": "市场行情快速轮动，用户建议埋伏而非追高。",
+    "sentiment": "mixed",
+    "key_opinions": ["行情轮动快", "埋伏策略较好", "追高风险大"],
+    "mentioned_stocks": ["创新药", "有色", "机器人", "电池"]
+  },
+  {
+    "index": 43,
+    "summary": "科技板块连红，用户怀疑是诱多上车。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技连红可能诱多", "账户仍亏损", "缩量需观察"],
+    "mentioned_stocks": ["半导体", "科技板块"]
+  },
+  {
+    "index": 44,
+    "summary": "轮船股票下跌，用户讨论原因如海峡事件。",
+    "sentiment": "negative",
+    "key_opinions": ["轮船股票下跌", "可能因霍尔木兹海峡", "有色航运同跌"],
+    "mentioned_stocks": ["轮船", "有色", "航运"]
+  }
+]
