@@ -1,0 +1,338 @@
+[
+  {
+    "index": 1,
+    "summary": "用户后悔选择厦钨，讨论其表现差于预期。",
+    "sentiment": "negative",
+    "key_opinions": ["厦钨是四骑士里走得最差的", "支持本地企业但结果失望", "市场强者恒强"],
+    "mentioned_stocks": ["厦钨"]
+  },
+  {
+    "index": 2,
+    "summary": "三大指数全红但缺乏生气，讨论成交量低和市场活力不足。",
+    "sentiment": "mixed",
+    "key_opinions": ["普涨但无量市场缺乏动力", "投资者套牢等待回本", "尾盘难下手"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论市场缩量，小票平稳但大票被长鑫吸走资金。",
+    "sentiment": "negative",
+    "key_opinions": ["走势像织布机平稳", "长鑫吸走资金但成交额不高", "连续缩量是重点"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 4,
+    "summary": "强烈推荐买昀冢股票，看好其反弹势头。",
+    "sentiment": "positive",
+    "key_opinions": ["强力推荐买昀冢", "反弹最猛接近前高", "多次强调买入"],
+    "mentioned_stocks": ["昀冢"]
+  },
+  {
+    "index": 5,
+    "summary": "万科股价跌至3元，讨论其生存危机和行业前景。",
+    "sentiment": "negative",
+    "key_opinions": ["万科资不抵债", "依赖深铁输血生存", "房地产行业无预期"],
+    "mentioned_stocks": ["万科"]
+  },
+  {
+    "index": 6,
+    "summary": "质疑高盛关于AI转向人形机器人的报告，认为可能有利益驱动。",
+    "sentiment": "negative",
+    "key_opinions": ["高盛可能持有宇树股份", "机器人板块表现差", "报告动机受质疑"],
+    "mentioned_stocks": ["宇树科技", "高盛"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论超声电子，期待技术信号和L佬回归。",
+    "sentiment": "mixed",
+    "key_opinions": ["等待放量大阳信号", "L佬回归引起关注", "严肃加入自选"],
+    "mentioned_stocks": ["超声电子"]
+  },
+  {
+    "index": 8,
+    "summary": "操作建议：清仓华电买入中文在线，关注AI应用。",
+    "sentiment": "mixed",
+    "key_opinions": ["清仓华电买入中文在线", "关注AI语料应用", "创业板权限限制"],
+    "mentioned_stocks": ["华电", "中文在线"]
+  },
+  {
+    "index": 9,
+    "summary": "预测完美世界股价修复到15，基于游戏和利好因素。",
+    "sentiment": "positive",
+    "key_opinions": ["预测股价修复到15", "多因素推动反弹", "游戏相关潜力"],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 10,
+    "summary": "长文分析宝丰能源的投资价值，看好其基本面和板块联动。",
+    "sentiment": "positive",
+    "key_opinions": ["公司满产满销基本面硬", "筹码结构健康", "板块联动等风口"],
+    "mentioned_stocks": ["宝丰能源"]
+  },
+  {
+    "index": 11,
+    "summary": "询问黄金是否启动，讨论其已上涨趋势。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金已启动两周", "投资者后知后觉", "汇率影响价格"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 12,
+    "summary": "抱怨市场轮动迅速如电风扇，导致套人频繁。",
+    "sentiment": "negative",
+    "key_opinions": ["市场轮动快套人严重", "缩量下只能潜伏", "挨个拉挨个套"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论缩量连阳的市场表现，隐含机会和控制力。",
+    "sentiment": "mixed",
+    "key_opinions": ["缩量十几连阳", "市场意志强", "闻到小妞淡淡香味"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论主力尾盘操作策略，花小钱办大事。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘买入做T策略", "花小钱办大事手法", "有效波动少"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "发现对冲后账户波动小，讨论投资组合平衡。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技与非科技对冲", "账户波动小", "建议流动资金操作"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "抱怨持仓反大盘亏损，尤其万华化学不涨。",
+    "sentiment": "negative",
+    "key_opinions": ["持仓反大盘表现", "万华化学不涨", "机器人板块下跌"],
+    "mentioned_stocks": ["万华化学", "山推股份", "恒力石化", "三花智控"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论银行板块未创新低，可能反弹并推荐ETF。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行3天未创新低", "可能随时反弹", "推荐银行ETF埋伏"],
+    "mentioned_stocks": ["银行ETF", "512800", "516310"]
+  },
+  {
+    "index": 18,
+    "summary": "用户11年后回本，分享喜悦并暗示市场风险。",
+    "sentiment": "positive",
+    "key_opinions": ["11年首次回本", "半场开香槟庆祝", "可能见顶信号"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论港股个股短期操作策略，如阿里和腾讯。",
+    "sentiment": "mixed",
+    "key_opinions": ["阿里建观察仓", "腾讯减仓等财报", "胜宏科技追回操作"],
+    "mentioned_stocks": ["阿里", "腾讯", "胜宏科技"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论传统行业拉升但科技缺乏持续性。",
+    "sentiment": "mixed",
+    "key_opinions": ["地产白酒光伏拉升", "科技无持续性", "不建议购买传统行业"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "分析宽基ETF资金流，复盘国家队控盘手法。",
+    "sentiment": "neutral",
+    "key_opinions": ["ETF资金流分析", "控盘手法复盘", "核心结论总结"],
+    "mentioned_stocks": ["宽基ETF"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论京投发展投资属性，可能是光模块或地产。",
+    "sentiment": "mixed",
+    "key_opinions": ["京投发展可能光模块或地产", "短线情绪标的", "跌无可跌有潜力"],
+    "mentioned_stocks": ["京投发展"]
+  },
+  {
+    "index": 23,
+    "summary": "分析晓程科技与黄金走势关联，讨论融资风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金走势分析", "晓程科技相关", "融资可能割韭菜"],
+    "mentioned_stocks": ["晓程科技"]
+  },
+  {
+    "index": 24,
+    "summary": "宇树科技呼吁价值投资，但市场预期炒作。",
+    "sentiment": "mixed",
+    "key_opinions": ["希望投资者认同价值", "实际炒作预期强", "研发销售平衡问题"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论对子顶作为技术信号，涉及资金撤退。",
+    "sentiment": "mixed",
+    "key_opinions": ["对子顶是资金撤退信号", "可能是洗盘", "机构持仓影响"],
+    "mentioned_stocks": ["药明康德", "哈药"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论CPI数据对市场影响，担忧美联储政策。",
+    "sentiment": "negative",
+    "key_opinions": ["CPI可能利多降息", "美联储话语权强", "数据可能被修正"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "询问模糊判断买卖点的方法，分享操作经验。",
+    "sentiment": "mixed",
+    "key_opinions": ["无明确买卖点判断方法", "大概率赚钱时买入", "卖飞影响心态"],
+    "mentioned_stocks": ["北京文化"]
+  },
+  {
+    "index": 28,
+    "summary": "观测房地产板块批量上涨，讨论原因和持续性。",
+    "sentiment": "mixed",
+    "key_opinions": ["房地产批量起飞", "可能大基建开启", "死猫跳可能"],
+    "mentioned_stocks": ["陆家嘴"]
+  },
+  {
+    "index": 29,
+    "summary": "表达投资恐惧，不敢操作因市场混沌。",
+    "sentiment": "negative",
+    "key_opinions": ["不敢买不敢卖", "市场混沌期", "缩量下观望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "抱怨券商板块表现差，错过科技反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["券商板块疲软", "错过科技反弹", "靠做T盈利"],
+    "mentioned_stocks": ["中信证券", "国泰海通"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论科大讯飞投资价值，普遍负面评价。",
+    "sentiment": "negative",
+    "key_opinions": ["科大讯飞是垃圾", "依赖政府补贴", "AI质量差"],
+    "mentioned_stocks": ["科大讯飞", "金山办公"]
+  },
+  {
+    "index": 32,
+    "summary": "中兴通讯被视为反向指标，拉升时其他跌。",
+    "sentiment": "negative",
+    "key_opinions": ["中兴是反向指标", "股票有毒", "适合做T"],
+    "mentioned_stocks": ["中兴通讯"]
+  },
+  {
+    "index": 33,
+    "summary": "记录交易策略：买热榜前30妖股，固定时间。",
+    "sentiment": "neutral",
+    "key_opinions": ["不打板买热榜前30", "B时间特定", "策略记录"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论风华高科技术走势，控盘精准但有出货风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["控盘划线精准", "不涨停涨不停", "加速可能出货"],
+    "mentioned_stocks": ["风华高科", "宝鼎科技"]
+  },
+  {
+    "index": 35,
+    "summary": "分享交易高光时刻截图，表达自豪。",
+    "sentiment": "positive",
+    "key_opinions": ["展示盈利截图", "勇气是赞歌", "提前预测地产"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "讨论创新药板块少人关注，可能横盘后有机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["创新药可能横盘后入", "对子顶警告", "趋势明显但谨慎"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 37,
+    "summary": "质疑科技板块是否反转，讨论缩量问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["缩量上涨不是好事", "需破4000点确认", "光模块走势硬"],
+    "mentioned_stocks": ["中际旭创", "东山精密", "剑桥科技", "深南电路"]
+  },
+  {
+    "index": 38,
+    "summary": "询问首开股份跟房地产还是宇树概念。",
+    "sentiment": "neutral",
+    "key_opinions": ["首开股份可能跟房地产", "或与宇树相关", "疑问性质"],
+    "mentioned_stocks": ["首开股份"]
+  },
+  {
+    "index": 39,
+    "summary": "宗申动力大幅拉升后回落，讨论原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["拉升7点后回落", "三蹦子大卖新闻", "名字含义负面"],
+    "mentioned_stocks": ["宗申动力"]
+  },
+  {
+    "index": 40,
+    "summary": "市场再次拉升白酒银行保指数，缺乏成交量。",
+    "sentiment": "negative",
+    "key_opinions": ["拉白酒保指数", "银行板块拉升", "市场无成交量"],
+    "mentioned_stocks": ["白酒", "银行"]
+  },
+  {
+    "index": 41,
+    "summary": "记录持股蛆（某股票）体验，看涨化龙。",
+    "sentiment": "positive",
+    "key_opinions": ["蛆化龙看涨", "4天涨40多个点", "抗跌能力强"],
+    "mentioned_stocks": ["蛆"]
+  },
+  {
+    "index": 42,
+    "summary": "通信板块强势，讨论对CPI和科技抱团的看法。",
+    "sentiment": "positive",
+    "key_opinions": ["通信板块硬", "CPI可能没问题", "科技抱团持续"],
+    "mentioned_stocks": ["通信板块"]
+  },
+  {
+    "index": 43,
+    "summary": "操作中际旭创，讨论FCC利空和情绪化交易。",
+    "sentiment": "mixed",
+    "key_opinions": ["捡回中际旭创筹码", "FCC鬼故事利空", "情绪化操作风险"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论A股指数难上涨原因，如估值高和资金不足。",
+    "sentiment": "negative",
+    "key_opinions": ["估值高于其他市场", "无增量资金", "IPO持续抽水"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "市场冲高回落A杀，归因于无量。",
+    "sentiment": "negative",
+    "key_opinions": ["下午A杀回落", "没量是主因", "红利半导体同跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "文峰股份定时做T，讨论量化模型收割散户。",
+    "sentiment": "negative",
+    "key_opinions": ["文峰每天定时做T", "量化模型训练", "收割散户"],
+    "mentioned_stocks": ["文峰股份"]
+  },
+  {
+    "index": 47,
+    "summary": "光模块板块强势反弹，封板且PE低。",
+    "sentiment": "positive",
+    "key_opinions": ["光模块封板反弹", "PE低可能", "投资公司上市收益"],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 48,
+    "summary": "谷歌负面新闻影响，担忧AI链风险。",
+    "sentiment": "negative",
+    "key_opinions": ["谷歌人事变动", "AI链可能受风险", "投资者套牢"],
+    "mentioned_stocks": ["谷歌", "ETF"]
+  }
+]
