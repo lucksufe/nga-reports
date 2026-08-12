@@ -1,0 +1,345 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论长期持有20年的股票选择，偏好稳健增长和龙头公司。",
+    "sentiment": "mixed",
+    "key_opinions": ["长期持有应选银行、能源等稳健股", "偏好科技龙头如苹果", "看好保险、水电、煤炭等防御板块"],
+    "mentioned_stocks": ["农业银行", "建设银行", "中国神华", "中国海油", "可口可乐", "苹果"]
+  },
+  {
+    "index": 2,
+    "summary": "用户询问满仓后是否会被套，回复对后续走势看法分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["缺买盘导致没量，下跌空间可能不大", "认为应等真突破再进", "有观点认为反弹快结束，市场会暴跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "用户庆祝持股11年后回本，引发对市场见顶的担忧。",
+    "sentiment": "positive",
+    "key_opinions": ["庆祝长期坚持后终于回本", "有用户预言此类帖子出现后市场将暴跌", "询问回本方法"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论美国CPI数据对市场（尤其是科技、黄金）的影响，普遍预期不加息。",
+    "sentiment": "positive",
+    "key_opinions": ["预测CPI数据将低于预期", "美联储9月不可能加息", "利好科技和黄金，应看准美联储不敢加息"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "观察到多头缩量和踏空现象，但发帖者认为缩量是好事。",
+    "sentiment": "mixed",
+    "key_opinions": ["当前行情缩量上涨，等放量是撤退信号"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论科技股是否确认反转，观点对立。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为今日上涨是右侧确认信号", "缩量上涨不是好事，资金在观望", "需放量突破关键点位才能确认"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "询问中韩半导体ETF的构成和走势异常原因。",
+    "sentiment": "negative",
+    "key_opinions": ["持仓为韩国和A股半导体龙头", "溢价正在杀跌", "ETF走势与标的背离，被评价为“垃圾”"],
+    "mentioned_stocks": ["中韩半导体ETF"]
+  },
+  {
+    "index": 8,
+    "summary": "认为A股软件板块表现远逊于硬件板块，缺乏真正的AI龙头。",
+    "sentiment": "negative",
+    "key_opinions": ["软件股走势如小丑，硬件股更稳健", "A股软件公司质量差，多是“阿猫阿狗”", "真正的AI软件公司在港股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "中兴通讯拉升，用户询问是否该卖出，引发“中兴定律”讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["引用“中兴起飞，科技坠落”的定律看空", "建议减仓或清仓", "对小幅上涨反应过度"],
+    "mentioned_stocks": ["中兴通讯"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论李大霄精准预测韩国股市反弹，评价不一。",
+    "sentiment": "mixed",
+    "key_opinions": ["佩服其预测精准", "认为其凭借技术和经验", "也有人调侃其预测不准"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "担忧科技股讨论过于集中，但多数人认为行情还早。",
+    "sentiment": "mixed",
+    "key_opinions": ["讨论区全是科技，令人担忧", "科技股回本比例尚低，行情未到高潮", "7月科技杀跌时同样集中讨论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "亲友咨询炒股，建议进行稳健的资产配置（如红利股）。",
+    "sentiment": "positive",
+    "key_opinions": ["建议有闲钱后配置红利股吃股息", "比存银行收益高，稳定可靠", "实物黄金也是选项之一"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论股价出现“对子顶”现象，争议是玄学还是资金信号。",
+    "sentiment": "mixed",
+    "key_opinions": ["“对子顶”是资金撤退信号", "认为是散户迷信的共识", "也可能是主力操作或洗盘"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 14,
+    "summary": "有色板块上涨，但用户持有的白银却下跌，建议避免白银。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金等有色涨，但白银跌", "建议不要碰白银", "有人提及兴业银表现尚可"],
+    "mentioned_stocks": ["兴业银"]
+  },
+  {
+    "index": 15,
+    "summary": "展示多只股票出现“对子顶”的图片，计划后续验证。",
+    "sentiment": "mixed",
+    "key_opinions": ["列举出现对子顶的股票", "计划过几天再来看结果", "有人认为是玄学"],
+    "mentioned_stocks": ["大连亚圣", "长白山", "宏桥", "中钨", "景旺电子"]
+  },
+  {
+    "index": 16,
+    "summary": "用户感觉有牛市气息，但立即被熊市图片“对冲”，显示谨慎情绪。",
+    "sentiment": "mixed",
+    "key_opinions": ["感觉有牛市迹象", "立即有熊市图片进行对冲", "认为一阳改三观，但需警惕"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "标题警示“大的要来了”，实为中兴通讯拉升，评论多戏谑和警告。",
+    "sentiment": "negative",
+    "key_opinions": ["中兴拉升被视为不祥之兆", "戏称“丧钟敲响”", "劝诫快跑，因有家人要养"],
+    "mentioned_stocks": ["中兴通讯"]
+  },
+  {
+    "index": 18,
+    "summary": "宇树科技老板呼吁投资者基于价值而非炒作买入，引发反讽。",
+    "sentiment": "mixed",
+    "key_opinions": ["公司希望投资者认同价值而非炒作", "网友反讽希望让自己赚钱或中签", "认为研发和销售投入比例需关注"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 19,
+    "summary": "佩服某投资者将仓位从易中调至天孚，讨论光模块板块逻辑。",
+    "sentiment": "positive",
+    "key_opinions": ["赞赏调仓操作果断", "认为事件会影响易中估值", "讨论天孚与光模块的上下游关系及政策影响"],
+    "mentioned_stocks": ["易中", "天孚"]
+  },
+  {
+    "index": 20,
+    "summary": "询问“小时代”缩量怎么办，回复多为对论坛平台归属感的表达。",
+    "sentiment": "mixed",
+    "key_opinions": ["询问其他讨论平台", "认为缩量可能是好事", "表达对本论坛的归属感"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论上午缩量上涨，普遍担忧下午跳水，纷纷减仓观望。",
+    "sentiment": "negative",
+    "key_opinions": ["缩量上涨，担心下午跳水", "已减仓或准备减仓", "有人认为会放量大涨，但和者寡"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "认为行情在“逼空”，科技将大涨，但也有观点认为缺乏号召力。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为逼空行情会持续到无人相信", "科技股缺乏号召力，量能不足", "医药股表现强势"],
+    "mentioned_stocks": ["药明", "伊利", "中远海控"]
+  },
+  {
+    "index": 23,
+    "summary": "抱怨持有中信、国泰等券商股导致错过科技反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["痛斥券商股表现", "完整错过科技反弹", "券商板块走势低迷"],
+    "mentioned_stocks": ["中信证券", "国泰海通", "紫菜"]
+  },
+  {
+    "index": 24,
+    "summary": "惊讶于商业航天股在发射失败后未跌停，讨论其韧性。",
+    "sentiment": "mixed",
+    "key_opinions": ["发射失败后未跌停，出乎意料", "航天板块已跌无可跌", "频繁发射使市场对失败脱敏"],
+    "mentioned_stocks": ["斯瑞新材"]
+  },
+  {
+    "index": 25,
+    "summary": "个人投资复盘，认为前期误判，但近期小票反弹猛，并展望下半年产业趋势。",
+    "sentiment": "mixed",
+    "key_opinions": ["误判行情导致利润回撤", "观察到超额小票反弹最猛", "认为后续是波动掏兜行情，关注中小盘科技股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "感觉本周盘面不对劲，硬科技高位难入手，质疑红利股刚从顶部下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["硬科技高位二次拉升不敢下手", "质疑红利股是否刚从顶部下跌", "对当前轮动节奏感到困惑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "记录交易，按技术指标换仓“老登股”，但开盘即止损。",
+    "sentiment": "negative",
+    "key_opinions": ["按指标应卖出科技买老登股", "所选老登股开盘即破位止损", "抱怨市场暴涨暴跌难以捉摸"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "期望交换机板块轮动，抱怨紫光股份走势疲软。",
+    "sentiment": "negative",
+    "key_opinions": ["期待交换机板块轮动上涨", "抱怨紫光股份横盘已久"],
+    "mentioned_stocks": ["紫光股份"]
+  },
+  {
+    "index": 29,
+    "summary": "引用古早电视剧提及“对子”说法，讨论对子顶的玄学或主力行为本质。",
+    "sentiment": "mixed",
+    "key_opinions": ["古早剧中就有对子说法，确为玄学", "认为是主力恶趣味或收割信号", "也有观点认为历史和自然中早有对子概念"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "建立算力租赁板块讨论楼，看好行业前景，但个股走势分化。",
+    "sentiment": "positive",
+    "key_opinions": ["看好算力租赁行业年内有行情", "认为有故事也有业绩", "个股如行云走势强，协创走势弱"],
+    "mentioned_stocks": ["利通电子", "协创数据", "宏景科技", "行云", "香江", "莲花"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论现在买入云南锗业的风险与机会，关注其高估值和稀缺性。",
+    "sentiment": "mixed",
+    "key_opinions": ["质疑磷化铟是否值千倍估值", "认为该价位买入胜率低", "有人愿意小仓位尝试"],
+    "mentioned_stocks": ["云南锗业"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论利通电子走势，认为在出货，需关注半年报预告。",
+    "sentiment": "negative",
+    "key_opinions": ["感觉走势像在出货", "前几天获利盘在离场", "需关注半年报预告，下限可能很低"],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 33,
+    "summary": "复盘商业航天买入逻辑，认为逻辑正确但遇黑天鹅，部分人认为风险过高。",
+    "sentiment": "mixed",
+    "key_opinions": ["买入逻辑没错，遭遇黑天鹅", "认为板块投资类似赌博", "有资金在承接，但散户被套较深"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "质疑对有色板块走势的解释存在双重标准（涨是反弹，跌是涨多）。",
+    "sentiment": "negative",
+    "key_opinions": ["批评市场对涨跌的解释自相矛盾", "认为股价波动常领先于期货", "指出散户常涨时看涨跌时看跌"],
+    "mentioned_stocks": ["紫金矿业", "山东黄金", "中金黄金"]
+  },
+  {
+    "index": 35,
+    "summary": "观察到宗申动力盘中大幅拉升，推测与“三蹦子”销量新闻有关。",
+    "sentiment": "mixed",
+    "key_opinions": ["盘中从水下大幅拉升7个点", "有新闻称其“三蹦子”大卖", "有人调侃其名称在方言中不好听"],
+    "mentioned_stocks": ["宗申动力"]
+  },
+  {
+    "index": 36,
+    "summary": "中兴通讯拉升，评论普遍引用“定律”看空，催促快跑。",
+    "sentiment": "negative",
+    "key_opinions": ["中兴拉升被视为不祥之兆", "认为是科技板块“丧钟”", "建议立即卖出"],
+    "mentioned_stocks": ["中兴通讯"]
+  },
+  {
+    "index": 37,
+    "summary": "认为今日盘面诡异，科技反弹但量缩，怀疑是诱多。",
+    "sentiment": "negative",
+    "key_opinions": ["科技反弹但成交额仅2万亿，感觉吓人", "怀疑是CPI数据前拉高出货", "盘面轮动像电风扇"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "投资者（sai佬）因利空卖出大部分科技仓位，情感伤感，得到社区支持。",
+    "sentiment": "negative",
+    "key_opinions": ["因重大利空卖出大部分科技仓位", "操作时感到伤感", "得到社区用户的理解和支持"],
+    "mentioned_stocks": ["中际旭创", "新易盛"]
+  },
+  {
+    "index": 39,
+    "summary": "预测行情将“涨到不信为止”，看好下午继续上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["认为会涨到踏空者不敢进场", "看好下午继续上涨", "呼吁猛干科技"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "认为选股能力不行不如直接买板块ETF。",
+    "sentiment": "negative",
+    "key_opinions": ["抱怨个股（兆易创新）表现差", "认为买ETF可避免个股比较带来的焦虑"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 41,
+    "summary": "询问多只连续涨停股票的逻辑，被告知是“妖股”炒作，风险高。",
+    "sentiment": "mixed",
+    "key_opinions": ["询问哈药、百花等连板股逻辑", "被回复为“炒小炒差”的妖股", "有人建议追涨，但提示停牌风险"],
+    "mentioned_stocks": ["哈药", "百花", "一鸣", "传智", "爱丽家居"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论市场增量资金从何而来，认为需要赚钱效应或政策驱动。",
+    "sentiment": "negative",
+    "key_opinions": ["市场缺乏增量资金", "资金需要赚钱效应吸引入场", "或需等待美联储降息等政策"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "讨论创新药板块，部分人认为回调可买，部分人认为已到结账时点。",
+    "sentiment": "mixed",
+    "key_opinions": ["创新药板块横盘后可能介入", "提醒注意创新药也出现对子顶", "认为其涨势偏情绪，可能面临回调"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 44,
+    "summary": "惊讶于长鑫存储拉升七个点，认为其是存储龙头发起进攻。",
+    "sentiment": "positive",
+    "key_opinions": ["长鑫存储盘中大幅拉升", "被视为存储板块总龙头", "对比兆易创新表现"],
+    "mentioned_stocks": ["长鑫存储", "兆易创新"]
+  },
+  {
+    "index": 45,
+    "summary": "预测下午大盘将回调，建议等待晚间CPI数据。",
+    "sentiment": "negative",
+    "key_opinions": ["预测下午开始回调", "应耐心等待CPI数据"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "记录持有宏景科技（被戏称为“蛆”）的经历，描述其走势强劲。",
+    "sentiment": "positive",
+    "key_opinions": ["记录持有宏景科技的体验", "称其几天涨幅超40%", "讨论其走势抗跌，可能成为新龙头"],
+    "mentioned_stocks": ["宏景科技"]
+  },
+  {
+    "index": 47,
+    "summary": "帖子内容与版块不符，要求删除，附带了图片。",
+    "sentiment": "negative",
+    "key_opinions": ["内容发错版块", "要求删除以避免评论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "提出“中兴通讯定律”，即其异动常预示科技反弹进入尾声。",
+    "sentiment": "negative",
+    "key_opinions": ["中兴异动是反弹尾声的信号", "质疑这次是否会不同"],
+    "mentioned_stocks": ["中兴通讯"]
+  },
+  {
+    "index": 49,
+    "summary": "请教个股单日巨幅震荡的原因，被告知是庄股行为主力随意操作。",
+    "sentiment": "negative",
+    "key_opinions": ["个股单日先大幅拉升后回落", "被解释为知名庄股行为", "主力可随意控制股价，日K线无参考性"],
+    "mentioned_stocks": ["大连圣亚", "雪人集团", "长白山"]
+  }
+]
