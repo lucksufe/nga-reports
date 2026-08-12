@@ -1,0 +1,541 @@
+[
+  {
+    "index": 1,
+    "summary": "探讨增加家庭打新账户是否能提高中签次数，结论是效果有限，中签率低靠玄学。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中签率极低，多账户帮助不大",
+      "类似大乐透，多买几注区别不大",
+      "依赖玄学而非技术"
+    ],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 2,
+    "summary": "新手询问黄金投资是否该分批卖出或等待回本，回复建议分歧大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "投资决策不应基于盈亏情绪",
+      "黄金长期看涨可持有",
+      "需考虑仓位管理和风险"
+    ],
+    "mentioned_stocks": ["存积金", "黄金ETF"]
+  },
+  {
+    "index": 3,
+    "summary": "预测今天股市可能大涨，但利好下可能下跌，暗示市场有操纵。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利好下可能跌",
+      "暗示群众有坏人",
+      "市场操纵担忧"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "源杰科技宣布投资42亿扩产激光器芯片，讨论FCC影响。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "投资扩产提升产能",
+      "FCC威慑可能影响光模块",
+      "理论利好但实际待观察"
+    ],
+    "mentioned_stocks": ["源杰科技"]
+  },
+  {
+    "index": 5,
+    "summary": "投资者割肉后股价反弹，寻求心态调整建议，讨论亏损处理。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "建议留底仓避免踏空感",
+      "亏损时不宜轻易割肉",
+      "控制仓位是关键"
+    ],
+    "mentioned_stocks": ["航天电子", "阳光电源"]
+  },
+  {
+    "index": 6,
+    "summary": "比较半导体和光模块投资，半导体因财报焦虑更不稳定。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "半导体市梦率高，财报风险大",
+      "光模块更稳定，受美国制裁影响",
+      "科技板块内部分化明显"
+    ],
+    "mentioned_stocks": ["沪电股份", "生益科技", "光模块"]
+  },
+  {
+    "index": 7,
+    "summary": "探讨A股指数上涨至4000点困难的原因，如资金不足和业绩差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "没有增量资金推动",
+      "公司业绩不够好",
+      "IPO抽水导致水位低"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论宇树科技打新中签率极低，难以中签，类似游戏概率。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中签率万分之1.8极低",
+      "类似暗黑2刷装备概率",
+      "有人中签但概率小"
+    ],
+    "mentioned_stocks": ["宇树科技", "绿控传动"]
+  },
+  {
+    "index": 9,
+    "summary": "李大霄预测韩国股市可能反弹，但回复调侃和怀疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩股可能反弹",
+      "美股走势影响大",
+      "半导体板块反弹无力"
+    ],
+    "mentioned_stocks": ["韩股", "半导体"]
+  },
+  {
+    "index": 10,
+    "summary": "标普500 ETF在国内溢价过高，投资者抱怨难以买入。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "溢价离谱达6%",
+      "纳指科技ETF溢价更高",
+      "市场情绪推高溢价"
+    ],
+    "mentioned_stocks": ["标普500 ETF", "纳指科技ETF"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论创新药板块投资机会，是否该买入，建议关注压力位。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "创新药横盘后可能入",
+      "需关注技术压力位",
+      "风险高，可能结账时"
+    ],
+    "mentioned_stocks": ["创新药ETF", "药名康德"]
+  },
+  {
+    "index": 12,
+    "summary": "Anthropic宣布AI在黎曼猜想上的进展，提升已知下界但未完全证明。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI提升数学下界到67.2%",
+      "不解决根本证明问题",
+      "技术突破但可能泡沫"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "用电视剧《龙餐馆》剧情比喻炒股经历，反映投资心理。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "炒股如剧情起伏",
+      "人性弱点如不止损",
+      "不必硬套剧情"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论海力士国内扩产对存储芯片股的影响，担忧利空。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "海力士扩产可能利空",
+      "不同赛道，影响有限",
+      "市场恐慌过度"
+    ],
+    "mentioned_stocks": ["海力士", "赵姨", "香农芯创"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论算力租赁板块投资机会，看好相关个股。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "算力租赁年内有潜力",
+      "个股如利通、协创等",
+      "要饼有饼，要业绩有业绩"
+    ],
+    "mentioned_stocks": ["利通科技", "协创数据", "宏景科技", "行云数据", "香江控股", "莲花健康"]
+  },
+  {
+    "index": 16,
+    "summary": "上海发布软件政策，讨论是否该介入股市，风险大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "政策具体但效果待观察",
+      "祖训高开跑路",
+      "风险高，建议过几天看"
+    ],
+    "mentioned_stocks": ["软件股", "城地香江"]
+  },
+  {
+    "index": 17,
+    "summary": "分享股市相关玄学梦，调侃市场调整和预测。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "梦境预示市场",
+      "技术性调整",
+      "玄学幽默"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论圣阳股份后半段走势异常，可能被套利资金操作。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股票常被套利资金拉涨停",
+      "庄股特征，格局不了一点",
+      "明天可能先下杀再拉升"
+    ],
+    "mentioned_stocks": ["圣阳股份"]
+  },
+  {
+    "index": 19,
+    "summary": "分享股市故事《慢慢回本交流群》，描述投资者心态。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "投资群聊现象",
+      "时机比逻辑重要",
+      "学习节点与周期"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "工业富联中报业绩增长，但不分红引发争议。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "净利润同比增长96%",
+      "不分红是坏人股",
+      "增速下降风险"
+    ],
+    "mentioned_stocks": ["工业富联"]
+  },
+  {
+    "index": 21,
+    "summary": "宇树打新中签，周围人中签，羡慕并讨论赶紧跑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中签如中彩票",
+      "普通人中签好，赶紧跑",
+      "身边统计学不准确"
+    ],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论中东局势对股市影响，担忧地缘政治风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中东可能爆发危机",
+      "影响油价和股市",
+      "投资者清仓买油气避险"
+    ],
+    "mentioned_stocks": ["油气股"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论风电板块股票新强联、金雷股份、东方电缆的机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "风电板块跌久可能反弹",
+      "东方电缆走势抽象",
+      "融资盘暴增需警惕"
+    ],
+    "mentioned_stocks": ["新强联", "金雷股份", "东方电缆"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论英伟达牵头5000亿融资事件，市场解读分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "非循环融资，资金来自第三方",
+      "算力中心类似房地产",
+      "影响英伟达股价"
+    ],
+    "mentioned_stocks": ["英伟达", "思科"]
+  },
+  {
+    "index": 25,
+    "summary": "从技术指标看半导体和科创50缩量，讨论是否反弹。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "缩量可能起跳或阴跌",
+      "T+1交易陷阱",
+      "观察成交量变化"
+    ],
+    "mentioned_stocks": ["半导体", "科创50"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论老登科技和科技股跷跷板效应，缺乏增量资金。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "缩量互相掏兜",
+      "需要放量普涨",
+      "除非大政策如924重现"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "分享个人选股策略，督促自己复盘，选趋势启动票。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "选趋势启动票拿几天",
+      "不破五日线就拿着",
+      "不建议跟车，自己不学透"
+    ],
+    "mentioned_stocks": ["晋控电力"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论甘咨询股票，庄股特征，风险高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "知名庄股，地天后可能地板",
+      "跟老庄玩刀尖舔血",
+      "风险极高"
+    ],
+    "mentioned_stocks": ["甘咨询", "百合花"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论国家队（汪汪队）是否在拉升指数，连阳可能。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国家队可能托市",
+      "连续待增持5天",
+      "半年出货近2万亿"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "分析股市盘面纠结原因，如资金不足和等美股方向。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "资金不足做电风扇",
+      "等美股科技选择方向",
+      "主力犹豫不敢上攻"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论美股近期交易平淡，等CPI数据，黄毛安静。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "交易量小，垃圾时间",
+      "等CPI数据公布",
+      "黄毛（特朗普）安静可怕"
+    ],
+    "mentioned_stocks": ["美股"]
+  },
+  {
+    "index": 32,
+    "summary": "建议短线关注券商板块，旗形整理，时机重要。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "券商旗形整理恶心",
+      "券商涨确认反弹结束",
+      "低位积攒动能可能不同"
+    ],
+    "mentioned_stocks": ["券商", "中信证券", "海通证券", "东方财富"]
+  },
+  {
+    "index": 33,
+    "summary": "美股交易量小，可能憋大事件，等CPI。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "交易量小可怕",
+      "等着今晚CPI",
+      "可能憋大事件"
+    ],
+    "mentioned_stocks": ["美股"]
+  },
+  {
+    "index": 34,
+    "summary": "分享实盘日记，记录锁仓传志和趋势科技反弹。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "锁仓传志，板上量放不错",
+      "趋势科技超跌反弹",
+      "硬科技大票反弹二三十点"
+    ],
+    "mentioned_stocks": ["传志科技"]
+  },
+  {
+    "index": 35,
+    "summary": "询问兴业银行、招商银行股价是否可能回调到低点。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "错过低点后悔",
+      "可能倒车接人",
+      "分配资金到防守板块"
+    ],
+    "mentioned_stocks": ["兴业银行", "招商银行", "紫金矿业", "海油发展"]
+  },
+  {
+    "index": 36,
+    "summary": "用“香港人”玄学预测明天股市，幽默和焦虑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "开盘和收盘不同玄学",
+      "炸卫星、谈判影响",
+      "协议扰动市场"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "祈祷美股不要下跌影响A股，羡慕美股新高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "羡慕美股新高",
+      "美股涨跌影响A股开盘",
+      "反弹概率90%"
+    ],
+    "mentioned_stocks": ["美股", "纳指", "标普"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论选股策略，如何从相似走势中选一个，建议哑铃策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "一样走势别买",
+      "找同性质独立走势",
+      "黄金和科技哑铃策略"
+    ],
+    "mentioned_stocks": ["黄金ETF", "高股息红利", "科技股"]
+  },
+  {
+    "index": 39,
+    "summary": "批评公司用股市融资，如兆易、中际旭创买股票。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "公司用资金炒股",
+      "融资太爽",
+      "炒股炒傻"
+    ],
+    "mentioned_stocks": ["兆易创新", "中际旭创"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论中概股下跌原因，恒生大跌和小作文影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "恒生大跌影响",
+      "美股走势关联",
+      "腾讯业绩小作文miss"
+    ],
+    "mentioned_stocks": ["中概股", "腾讯", "阿里巴巴"]
+  },
+  {
+    "index": 41,
+    "summary": "上海发布软件信息服务业规划，目标2030年产业规模4万亿。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "产业规模目标宏大",
+      "AI赋能应用主阵地",
+      "具体措施如算力作价入股"
+    ],
+    "mentioned_stocks": ["软件股", "城地香江", "汉得信息"]
+  },
+  {
+    "index": 42,
+    "summary": "家庭共用账户被证券公司警告多人操作，有风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "共用账户有被查风险",
+      "建议每人开户",
+      "可能限制操作"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "将炒股比作修仙，科技如剑修，7月天劫道心破碎。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技对应剑修流派",
+      "7月下跌如天劫",
+      "短线如邪修"
+    ],
+    "mentioned_stocks": ["AI", "科技股"]
+  },
+  {
+    "index": 44,
+    "summary": "询问赵姨和澜起科技哪个更可能回本，亏损30%。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏30%想割一个补另一个",
+      "都是存储股，风险高",
+      "等回本，但机会渺茫"
+    ],
+    "mentioned_stocks": ["赵姨", "澜起科技"]
+  },
+  {
+    "index": 45,
+    "summary": "询问ETF和个股仓位配比，预期ETF涨60%不现实。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "预期60%涨幅不现实",
+      "建议满仓或融资",
+      "哪个ETF能涨60%？"
+    ],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论长鑫存储股票，每天阴跌，持有痛苦。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "每天阴跌一两个点",
+      "等科创50等基金接盘",
+      "可能安全但机会小"
+    ],
+    "mentioned_stocks": ["长鑫存储", "中芯国际", "长江存储"]
+  },
+  {
+    "index": 47,
+    "summary": "分享每日股市复盘，用BigAMap工具和天意策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用BigAMap大A地图工具",
+      "天意复盘，曹氏兵法",
+      "指数守关3794"
+    ],
+    "mentioned_stocks": ["赵姨", "闪迪", "美光", "胜宏科技"]
+  },
+  {
+    "index": 48,
+    "summary": "询问利通科技股票下跌原因，跟随大盘和妖股特性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "跟随大盘走",
+      "涨跌如妖股",
+      "利通没跌停已给面"
+    ],
+    "mentioned_stocks": ["利通科技"]
+  },
+  {
+    "index": 49,
+    "summary": "分享巨额亏损-500万经历，七月-60%，最对不起家人。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "总体亏损500万",
+      "考虑销户或打工",
+      "留得青山在，不怕没柴烧"
+    ],
+    "mentioned_stocks": []
+  }
+]
