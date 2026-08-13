@@ -1,0 +1,533 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论市场性质，机构短线行为和散户保护问题，抱怨市场不正规。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "机构喜欢玩短线，频繁操作。",
+      "市场被批为喇叭市场，涨跌不同步。",
+      "散户保护不足，波动大，跟跌不跟涨。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "维生素股票新和成下跌幅度大，原因不明，建议卖出。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "重仓新和成，跌傻了。",
+      "下跌可能因结婚率下降。",
+      "技术图形差，建议走人。"
+    ],
+    "mentioned_stocks": ["新和成"]
+  },
+  {
+    "index": 3,
+    "summary": "用户宣布11年后回本，庆祝长期投资，但有人预测暴跌。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "11年回本，半场开香槟庆祝。",
+      "恭喜和祝贺回本。",
+      "预测回本后市场可能暴跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "简短发言，可能调侃市场或投资，用表情符号。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "谁说着呢？带表情符号，可能调侃。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "抱怨科技股拉升吸血，崩时带崩全盘，银行和电力板块讨论。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "拉科技股吸血，崩时带崩全盘。",
+      "银行拉升时科技股跳水。",
+      "科技股先崩，银行护盘避险。"
+    ],
+    "mentioned_stocks": ["科技股", "银行", "电力"]
+  },
+  {
+    "index": 6,
+    "summary": "描述市场挖坑套人，科技股缩量上涨后跳水。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场挖坑好几天，缩量上涨诱人。",
+      "早上高开放量，下午埋人。",
+      "明天可能高开继续冲。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 7,
+    "summary": "质疑T+1交易制度保护散户的效果，想卖出但无法。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "T+1到底保护了谁？",
+      "想卖出但无法逃离。",
+      "感觉想笑，制度问题。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "简短表达疲劳和毁灭感，消极情绪。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "累了，毁灭吧。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "确认反弹结束，市场难度增加，量能下降。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "反弹结束，地狱难度来了。",
+      "大A独立行情回归，跟跌不跟涨。",
+      "量能从2.9万亿跌回2万亿。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "推荐超声电子股票，期待量化拉升，L佬回归。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "给量化投物料，上无阻力。",
+      "L佬回来了，等放量大阳。",
+      "严肃加入自选。"
+    ],
+    "mentioned_stocks": ["超声电子"]
+  },
+  {
+    "index": 11,
+    "summary": "预测科技股明天大逃杀，反弹结束，恐慌情绪。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股反弹二三十个点，尾盘杀跌。",
+      "看美韩走势，回调可能导致下跌。",
+      "今天是逃命时间。"
+    ],
+    "mentioned_stocks": ["科技股", "美韩指数"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论立新股票下跌，尽管电力板块涨停，困惑不解。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "华电、大唐、京能涨停，但立新不跟涨。",
+      "不明白立新下跌原因。"
+    ],
+    "mentioned_stocks": ["立新", "华电", "大唐", "京能"]
+  },
+  {
+    "index": 13,
+    "summary": "预测大盘可能下探3880，市场局面变差，没量难涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大盘或下探3880，好局面垮了。",
+      "有人看到37开头。",
+      "没量难以上涨。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "抱怨放量进入被套，中信平对冲单问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "放量2000亿，进来就被套。",
+      "中信平对冲单难。"
+    ],
+    "mentioned_stocks": ["中信"]
+  },
+  {
+    "index": 15,
+    "summary": "讽刺市场稳定，但突然跳水，治安问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场稳定，但治安不好说。",
+      "形势大好却大跳水。",
+      "早上红点下午跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "描述任意时刻买入收盘被套的一天，挫折感。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "经典被套一天。",
+      "早上开盘直接卖了。",
+      "十个赚钱机会但抓住都被套。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "建议买入电力股，分享操作和风险，有亏有赚。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "今天赌超研股份，没权限就买电力。",
+      "华电能源涨停，推荐华银电力。",
+      "之前跟买亏了不少，短线操作。"
+    ],
+    "mentioned_stocks": ["电力股", "超研股份", "华电能源", "华银电力", "龙佰"]
+  },
+  {
+    "index": 18,
+    "summary": "猜测市场是否要大变，有色下跌，可能事件影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "感觉要忍界大战。",
+      "有色下跌，可能海峡事件。"
+    ],
+    "mentioned_stocks": ["有色"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论电力板块内部差距大，情绪和辨识度驱动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "华电国际和华能国际蠕动，其他起飞。",
+      "电力作为避险工具，情绪标表演。",
+      "散户少拉哪个。"
+    ],
+    "mentioned_stocks": ["华电国际", "华能国际", "电力ETF"]
+  },
+  {
+    "index": 20,
+    "summary": "观察韩国尾盘拉升，猜测淡马锡扫货，三星成交大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国尾盘放量拉升。",
+      "可能是淡马锡扫货。",
+      "三星成交额大。"
+    ],
+    "mentioned_stocks": ["韩国指数", "三星"]
+  },
+  {
+    "index": 21,
+    "summary": "抱怨今天杀得狠，除了医药全杀，吃大面。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "除了医药全杀，吃大面。"
+    ],
+    "mentioned_stocks": ["医药"]
+  },
+  {
+    "index": 22,
+    "summary": "科创50突然下跌，原因不明，指数不让人上去。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科创50下跌，没大事发生。",
+      "指数不让人上去。"
+    ],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论金属有色何时回来，资金轮动和金价回调。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "有色提前量打完了，需震荡。",
+      "资金不乱跳，地盘有主。",
+      "金价可能回调。"
+    ],
+    "mentioned_stocks": ["有色", "金价"]
+  },
+  {
+    "index": 24,
+    "summary": "科技股不拉了，用户买入就跌，控盘和外围影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股不拉，买入就跌。",
+      "控盘问题。",
+      "等棒子（韩国）反弹。"
+    ],
+    "mentioned_stocks": ["科技股", "券商", "剑桥", "新易盛"]
+  },
+  {
+    "index": 25,
+    "summary": "大盘下跌，回家吃饭比喻，指标不能过4000。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "脸都不要了。",
+      "3000点是温暖的家。",
+      "指标不能过4000。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论通子股票吃几板结账，期待和谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "看好三板结账。",
+      "格局必须格局。",
+      "等算力回流。"
+    ],
+    "mentioned_stocks": ["通子", "利通", "腾讯"]
+  },
+  {
+    "index": 27,
+    "summary": "尾盘跳水意味，文峰表演，讽刺市场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "又是4000+下跌。",
+      "文峰装钱。",
+      "腕豪砸盘。"
+    ],
+    "mentioned_stocks": ["文峰"]
+  },
+  {
+    "index": 28,
+    "summary": "努力拉盘，但缩量问题，散户上就跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "满仓满融干，量不能缩。",
+      "爆量给家人调整。",
+      "散户上就会跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "3968点像收费站，碰了三次就跳水。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "3968收费站。",
+      "碰三次下午跳水。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "盐湖下跌离谱，原因不明。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "盐湖跌得离谱。",
+      "有啥消息吗。"
+    ],
+    "mentioned_stocks": ["盐湖"]
+  },
+  {
+    "index": 31,
+    "summary": "建议加仓券商，分析券商与科技关系。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "券商该加仓了。",
+      "中信证券是中流砥柱。",
+      "科技反弹，券商跌幅。"
+    ],
+    "mentioned_stocks": ["券商", "中信证券", "沪深300"]
+  },
+  {
+    "index": 32,
+    "summary": "黑色星期四后绝望星期五，市场教育。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "祖训被教育。",
+      "早盘追高套牢。",
+      "指数全绿但个股跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "多氟多尾盘异常，地天地效果。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "多氟多尾盘干什么。",
+      "一手买蹦。",
+      "地天地效果。"
+    ],
+    "mentioned_stocks": ["多氟多"]
+  },
+  {
+    "index": 34,
+    "summary": "今天真要4000了，九阳神功大成，证券最强。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "九阳神功大成。",
+      "4000就减仓。",
+      "证券最强。"
+    ],
+    "mentioned_stocks": ["证券"]
+  },
+  {
+    "index": 35,
+    "summary": "被骗早上加仓，医药电商陷阱。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "骗我加仓3万。",
+      "医药电商有量突破关键位。",
+      "控盘弄了。"
+    ],
+    "mentioned_stocks": ["医药电商"]
+  },
+  {
+    "index": 36,
+    "summary": "入场决定，市场盘整轮动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "暴毙不太可能。",
+      "指数盘整轮动。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "兆易创新拉完俯冲，其他股崩，看空到3700。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "兆易创新从+4%到-1%。",
+      "涨撑不住，跌爽快。",
+      "反弹结束，看空到3700。"
+    ],
+    "mentioned_stocks": ["兆易创新", "利通", "金枪鱼", "长飞"]
+  },
+  {
+    "index": 38,
+    "summary": "科技大V天龙幻想破灭，麻袋装钱。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "麻袋装钱是装走我的钱。",
+      "三个香港人含金量上升。",
+      "高开必跑。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "韩国和A股走势相似，原因分析。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "海力士和半导体设备图相似。",
+      "上证和韩国指数相似。",
+      "加入韩国因子。"
+    ],
+    "mentioned_stocks": ["海力士", "韩国指数", "半导体"]
+  },
+  {
+    "index": 40,
+    "summary": "科技股买入即被套，信心没了。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "上午任何位置买入都被套。",
+      "信心没了。",
+      "高位科技阳线诱多。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 41,
+    "summary": "回忆7月10号科技股，预感不好，建议先撤。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "看到科技股回忆7月10号。",
+      "接下来几天不敢想。",
+      "没套死的先撤。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 42,
+    "summary": "看盘从睡着到笑出声，幽默应对危险位置。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "就是想笑。",
+      "这个位置危险。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "成交量缩量，大盘普涨让人害怕，减仓建议。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "缩量普涨，可能出货。",
+      "减仓建议。",
+      "科技老登。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 44,
+    "summary": "没遵循祖训高开必跑，亏损，内幕消息。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "红4点变绿，没量。",
+      "内幕说周三红只出不进。",
+      "高开格局不了一点。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "黄金宗再开，讨论黄金走势，CPI落地后调整。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "CPI落地，黄金上涨动能耗尽。",
+      "不认为深调，调整次高。",
+      "矿股先于黄金市场。"
+    ],
+    "mentioned_stocks": ["黄金", "黄金股", "GDX"]
+  },
+  {
+    "index": 46,
+    "summary": "感觉剧情与上周五类似，盘中盘尾变化。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "盘中3个香港人，盘尾5个。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "国家队发套，中信平单砸盘，放量被套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "任何位置买都是发套。",
+      "中信平多单砸盘。",
+      "放量2000亿进来被套。"
+    ],
+    "mentioned_stocks": ["中信"]
+  },
+  {
+    "index": 48,
+    "summary": "有啥利空，反弹结束，抱怨梁文峰。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "反弹结束了吗？",
+      "梁文峰我cnm。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "科技股又怎么了，小红开健康但跳水。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股小红开后跳水。",
+      "红的健康，但跳水了。",
+      "一条裤子换着穿。"
+    ],
+    "mentioned_stocks": ["科技股", "半导体", "通信ETF"]
+  },
+  {
+    "index": 50,
+    "summary": "原以为7月31是巅峰，还有高手，失望。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "7月31涨停开，现在一两点也走成这样。"
+    ],
+    "mentioned_stocks": []
+  }
+]
