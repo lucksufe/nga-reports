@@ -1,0 +1,549 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论王小雨是否为股神，争议在于其是反向指标还是真能赚钱。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "认为跟着王小雨反买能赚钱",
+      "认为她是股市反向指标（明灯）",
+      "对其25年80%+收益的争议"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论美联储年内加息可能性，网友与主流预测观点冲突。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "网友普遍认为加息概率为零",
+      "主流预测认为加息风险在提升",
+      "美联储态度与市场预期存在分歧"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "分享个人趋势选股模式，引发对策略有效性的质疑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "分享的选股模式被质疑有效性",
+      "难以区分真启动与欺骗性走势",
+      "市场存在信息不对称和作弊质疑"
+    ],
+    "mentioned_stocks": ["晋控电力"]
+  },
+  {
+    "index": 4,
+    "summary": "金价上涨引发关注，讨论黄金股的交易策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "金价上涨引发‘窜天猴’感叹",
+      "部分用户分享‘高开必卖’黄金股策略",
+      "金价走势与加息预期关联"
+    ],
+    "mentioned_stocks": ["黄金股"]
+  },
+  {
+    "index": 5,
+    "summary": "内存价格回溯至2007年，引发对性价比和技术进步的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "价格对比引发对过去的回忆",
+      "质疑不同年代内存的可比性",
+      "技术进步使性价比概念变化"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "戏谑询问‘棒子因子’（可能指韩国市场影响）开盘，调侃高开低走。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "戏谑讨论特定‘因子’开盘表现",
+      "对高开低走有普遍预期（‘祖训’）",
+      "因子开盘引发市场关注"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "公司高管呼吁投资者为价值而非炒作持股，引发网友讽刺和调侃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "呼吁价值投资遭网友讽刺",
+      "投资者心态矛盾（欲中签炒作）",
+      "对‘不为炒作’说法的讽刺理解"
+    ],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 8,
+    "summary": "用户发帖希望量化资金拉升超声电子，引发对‘L佬’和趋势的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用户希望量化资金介入拉升",
+      "引发对‘L佬’动向的询问",
+      "讨论等待放量信号介入"
+    ],
+    "mentioned_stocks": ["超声电子"]
+  },
+  {
+    "index": 9,
+    "summary": "结婚人数下降数据引发对人口趋势及关联股市板块的讨论。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "结婚人数下降趋势明显",
+      "关联并利空房地产等传统板块",
+      "数据悲观，引发长期担忧"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "新AI模型（文峰dsv4）API上线，引发关注并讨论相关公司。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "新AI模型正式版发布受关注",
+      "引申到对其他AI公司的做空讨论",
+      "用户关心新模型价格"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "美国CPI数据发布前，市场预期分歧，多数看好黄金和科技。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "CPI数据预测值引发市场关注",
+      "市场普遍预期美联储不敢加息",
+      "看涨黄金和科技股是主流"
+    ],
+    "mentioned_stocks": ["黄金", "科技股"]
+  },
+  {
+    "index": 12,
+    "summary": "电影《牛来》上映，因质量低劣遭网友广泛吐槽和讽刺。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "电影质量极差引发吐槽",
+      "讽刺其能上映背后可能有能量",
+      "借此暗示牛市高点位"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "询问放量突破时是否该卖出，回复普遍建议谨慎或卖出。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "放量突破可能伴随出货",
+      "获利盘丰富，建议卖出",
+      "‘想跑就跑，想留就留’"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "投资者欲买入SpaceX股票，引发对‘信仰投资’与估值的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "对投资‘信仰’的讨论",
+      "认为当前股价过高，不建议购入",
+      "建议以超长期视角持有"
+    ],
+    "mentioned_stocks": ["SpaceX"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论Corewave财报中A100使用至2029年，表明AI硬件长期需求。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "A100长期需求合同确认",
+      "硬件（如英伟达卡）保值性高",
+      "算力租赁前景被看好"
+    ],
+    "mentioned_stocks": ["Corewave", "英伟达"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论ST绝味股票走势，多数回复质疑其行业前景和公司状况。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "技术面‘右侧’定义遭质疑",
+      "行业（鸭脖）前景不被看好",
+      "公司信披违规、业绩下滑问题多"
+    ],
+    "mentioned_stocks": ["ST绝味"]
+  },
+  {
+    "index": 17,
+    "summary": "建立算力租赁板块讨论楼，用户表达对个股的关注和期待。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "算力租赁板块受关注",
+      "个股（如行云）表现受讨论",
+      "期待板块主升浪"
+    ],
+    "mentioned_stocks": ["利通", "协创", "宏景", "行云"]
+  },
+  {
+    "index": 18,
+    "summary": "担忧未来算力可能过剩，但多数回复认为需求将持续增长。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "对未来算力是否过剩存在分歧",
+      "认为AI用户增长将维持算力需求",
+      "投资建设算力被视为稳赚不亏"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "总结腾讯财报电话会议，显示AI投资积极，利好算力租赁。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "腾讯AI投资策略积极",
+      "算力需求旺盛，利好租赁",
+      "资本开支主要集中在今明两年"
+    ],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 20,
+    "summary": "分享基于‘人气’的超短线交易策略并记录操作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "分享基于东财人气榜的超短策略",
+      "策略为竞价买入，次日卖出",
+      "记录操作为主，策略有效性存疑"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "全球最大智算中心投产，讨论其能耗和意义。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "智算中心规模巨大，算力强",
+      "‘一度电换30秒视频’的换算被质疑",
+      "利好绿电和风电板块"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "用户持有科技和医药ETF，寻求第三个配置方向，引发多种建议。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "讨论ETF组合配置",
+      "多板块（如有色、中概）被建议",
+      "配置建议多样化"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "网友回忆和分享自己炒股买入的第一只股票。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "分享初入股市的经历",
+      "第一只股票往往印象深刻",
+      "普遍有亏损教训"
+    ],
+    "mentioned_stocks": ["601919", "中兴"]
+  },
+  {
+    "index": 24,
+    "summary": "询问利通电子明日涨停后如何操作，回复多建议谨慎卖出。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "涨停后操作策略讨论",
+      "担心‘高开兑现’或‘核按钮’",
+      "多数建议落袋为安"
+    ],
+    "mentioned_stocks": ["利通"]
+  },
+  {
+    "index": 25,
+    "summary": "用户期待高开‘装钱’，回复调侃高开风险和‘祖训’。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "期待高开带来盈利",
+      "‘高开必卖’祖训被提及",
+      "充满调侃和戏谑氛围"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "本金5万亏损7000元寻求回本建议，回复多劝其放宽心态或销户。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损金额相对不大，劝其放松",
+      "建议销户避免更大亏损",
+      "回本心态讨论"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "呼吁持有完美世界股票，基于Dota2 TI赛事夺冠预期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "持股逻辑基于电竞赛事预期",
+      "赛事结果影响股价，充满不确定性",
+      "调侃成分大于实际分析"
+    ],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 28,
+    "summary": "感慨美韩股市互相带动上涨的‘螺旋飞升’阶段。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "美韩股市呈现联动上涨态势",
+      "发帖者羡慕这种走势"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讨论宁德时代枧下窝锂矿复产消息反复，被视为价格调控工具。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "锂矿复产消息反复，折磨市场",
+      "被视为宁德时代调控锂价的工具",
+      "上游企业被‘操控’，利润微薄"
+    ],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 30,
+    "summary": "基于美股光模块大涨，期待A股相关股票盈利，但担心高开风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "期待美股大涨带动A股光模块",
+      "提醒‘高开祖训’风险",
+      "认为A股走势有时会领先美股"
+    ],
+    "mentioned_stocks": ["中际旭创", "新易盛"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论交易自律（‘飞机战法’）对身体的影响和健康建议。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "交易自律（管住手）影响身体健康",
+      "网友给出健康建议（补锌、节制）",
+      "调侃交易纪律与健康的关系"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "WSB概念Meme股Wendy汉堡因私有化传闻暴涨，引发讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "Meme股受散户追捧致暴涨",
+      "私有化传闻是直接催化剂",
+      "基本面不佳，纯属投机"
+    ],
+    "mentioned_stocks": ["温蒂汉堡(WEN)"]
+  },
+  {
+    "index": 33,
+    "summary": "基于电影《龙餐馆》预期看好儒意影业股票，但实际走势分歧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "基于电影品质和热度看好股价",
+      "实际股价走势未达预期（未一字板）",
+      "市场已提前反应，入场时机重要"
+    ],
+    "mentioned_stocks": ["儒意", "北京文化"]
+  },
+  {
+    "index": 34,
+    "summary": "用户依赖的‘猫猫楼’（讨论帖）消失，引发焦急寻找。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "特定讨论帖（猫猫楼）突然消失",
+      "用户依赖其获取信息（如‘雨神’操作）",
+      "氛围焦急，寻求恢复或替代"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "分析云计算ETF走势，回复认为其下跌缓慢但前景不乐观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "ETF下跌速度较慢引发关注",
+      "同类ETF已大幅下跌",
+      "第一重仓股（科大讯飞）影响走势"
+    ],
+    "mentioned_stocks": ["云计算ETF", "科大讯飞"]
+  },
+  {
+    "index": 36,
+    "summary": "中国人形机器人出货量数据公布，但被广泛质疑含‘水分’。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "出货数据‘夸张’，遭质疑",
+      "应用场景受限，市场想象力不足",
+      "关联‘任务出货’等质疑"
+    ],
+    "mentioned_stocks": ["人形机器人相关股"]
+  },
+  {
+    "index": 37,
+    "summary": "质疑知名股市博主‘峰哥’交易真实性，认为其是‘嘴盘’。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "收益曲线与操作言论矛盾",
+      "被质疑是‘嘴盘’，非实盘交易",
+      "流量赚钱模式比炒股更稳定"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "大盘缩量普涨引发担忧，用户考虑减仓回避风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "缩量普涨可能暗藏出货风险",
+      "部分用户选择减仓观望",
+      "成交量与上涨比例引发担忧"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "咨询如何调整长辈高风险持仓，回复多批评其持仓标的。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "使用公司资金炒股风险极高",
+      "持仓中多只问题股（如康美药业）",
+      "建议转向ETF等更稳健品种"
+    ],
+    "mentioned_stocks": ["康美药业", "哈药集团"]
+  },
+  {
+    "index": 40,
+    "summary": "提及DeepSeek V4 Pro正式版发布。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "新AI模型正式发布"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "分析腾讯中报业绩，收入增长但现金流受AI投入影响下滑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "业绩增长主要来自游戏和广告",
+      "AI投入导致现金流环比恶化",
+      "ADR下跌影响港股次日走势"
+    ],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 42,
+    "summary": "因FOMO（害怕错过）情绪导致操作困扰，寻求建议。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "FOMO情绪严重，影响操作",
+      "网友调侃其追高剧本",
+      "心态调整比具体操作更重要"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "询问CPI数据对美股和次日A股的影响，预判走势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "CPI数据是美股走势关键",
+      "A股明日走势存在分歧",
+      "提醒‘麻袋套人’（高开低走）风险"
+    ],
+    "mentioned_stocks": ["中钨", "神火"]
+  },
+  {
+    "index": 44,
+    "summary": "美联航乘客开始选择Starlink航班，讨论卫星互联网的商业应用。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "Starlink提升航空旅行体验",
+      "卫星互联网商业应用前景广阔",
+      "用户需求驱动技术采纳"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "DeepSeek V4 Pro正式版发布，讨论其对算力产业链的影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "新模型发布受关注",
+      "利好算力租赁和国产算力",
+      "模型性能（如速度）有待观察"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "纳指高开后出现跳水迹象，分析市场结构。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高开可能阻碍新资金入场",
+      "纳指市场以机构博弈为主",
+      "散户资金影响有限"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "讨论当前买入高估值股票云南锗业的时机和风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市盈率极高，估值风险大",
+      "磷化铟价值存在争议",
+      "作为‘容量核心’，操作需遵循高抛低吸"
+    ],
+    "mentioned_stocks": ["云南锗业"]
+  },
+  {
+    "index": 48,
+    "summary": "询问‘大位’（可能指某股票）的买入时机，技术分析认为需等待。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "询问股票买入时机",
+      "技术面看走势不佳，建议等待更深回踩",
+      "用户长期关注该股票"
+    ],
+    "mentioned_stocks": ["大位"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论紫金矿业的分红及其投资经历。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "紫金矿业分红稳定，受长期投资者青睐",
+      "投资者分享持有或卖飞的经历",
+      "分红比例和时机被讨论"
+    ],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 50,
+    "summary": "某股票（‘老馒头’）先跌后涨，调侃机构操盘行为。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股价先大跌后拉升，走势波动",
+      "机构操盘行为被调侃为‘外行’",
+      "中美光模块股走势存在联动或跷跷板效应"
+    ],
+    "mentioned_stocks": ["老馒头"]
+  }
+]
