@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "用户分享操作失误，回复中表示类似经历。",
+    "sentiment": "negative",
+    "key_opinions": ["切反导致亏损", "其他用户也有类似高亏损经历"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论恒生互联ETF的配置和短线风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["不适合短线，冲顶回落深", "冲着腾讯阿里买不如中概互联", "中概还有拼多多"],
+    "mentioned_stocks": ["恒生互联", "腾讯", "阿里", "中概互联", "拼多多"]
+  },
+  {
+    "index": 3,
+    "summary": "主观论断散户减仓，主力推仓位，量化动作。",
+    "sentiment": "mixed",
+    "key_opinions": ["散户减仓锁仓，偏好小盘股", "没有数据验证，纯粹盘感", "散户调仓减仓，场外补仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论某软件股票涨停和A股投机行为。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股神力，炒概念", "炸板了，导购好死", "祝福账户以后一直绿"],
+    "mentioned_stocks": ["002474", "川大智胜", "哈尔斯"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论科技股B浪反弹尾声和用户频繁发帖行为。",
+    "sentiment": "negative",
+    "key_opinions": ["科技B浪反弹接近尾声", "用户频繁发帖可能是水军", "唱空科技，换号装神棍"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 6,
+    "summary": "建议券商加仓，分析科技与券商对手盘关系。",
+    "sentiment": "positive",
+    "key_opinions": ["券商和沪深300对手盘", "中信证券是中流砥柱", "科技反弹幅度大，券商跌幅20%"],
+    "mentioned_stocks": ["券商", "中信证券", "沪深300"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论火电股票陕西能源的投资机会和风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["怕买在局部高点", "我觉得挺好的，买了陕西能源跟东方电气", "一个点玩一天"],
+    "mentioned_stocks": ["陕西能源", "东方电气", "大唐"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论基金经理葛兰的业绩和基民情感。",
+    "sentiment": "negative",
+    "key_opinions": ["基金表现差，不如ETF", "高位接盘，美美隐身去生孩子", "近五年还-41%"],
+    "mentioned_stocks": ["葛兰", "医药ETF", "长春高新", "智飞生物", "片仔癀", "恒瑞"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论散户减仓行为和市场信心。",
+    "sentiment": "mixed",
+    "key_opinions": ["散户被吓尿了", "再复刻7月没人能撑住", "拉盘让散户踏空后追回"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论电影股儒意电影的投机操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["短线投机，12我就跑", "电影股都是A杀，没先手别碰", "等周末发酵吧"],
+    "mentioned_stocks": ["儒意电影"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论软件板块的波动和难操作性。",
+    "sentiment": "negative",
+    "key_opinions": ["软件板块太恶心", "突破失败，冲高回落", "AI软冲高就该跑"],
+    "mentioned_stocks": ["软件板块", "能科", "利欧", "省广"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论内存价格下跌趋势。",
+    "sentiment": "negative",
+    "key_opinions": ["D4接近腰斩，D5也差不多", "DDR5价格仍高", "等储存厂建好可能降价"],
+    "mentioned_stocks": ["内存"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论创新药炒作的疯狂和风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["连板票前仆后继", "都对子顶了，快跑吧", "关键没业绩，纯炒"],
+    "mentioned_stocks": ["创新药", "药明"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论医药板块是否达到顶峰。",
+    "sentiment": "mixed",
+    "key_opinions": ["百花顶着异动死亡冲锋", "药明才到半山腰", "已经高潮了，不适合再进"],
+    "mentioned_stocks": ["医药", "百花", "药明", "恒瑞"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论算力龙头股票。",
+    "sentiment": "positive",
+    "key_opinions": ["利通、协创、宏景是龙头", "其他都是区", "利通今天涨停了"],
+    "mentioned_stocks": ["利通", "协创", "宏景", "润建", "浪潮", "三棵树"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论盘面感觉和科技牛市香。",
+    "sentiment": "mixed",
+    "key_opinions": ["拉券商冲4000了，该跑了", "淡淡的科技牛香", "闻到了烤牛肉的香味"],
+    "mentioned_stocks": ["券商"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论腾讯现金流为负和AI投入。",
+    "sentiment": "negative",
+    "key_opinions": ["AI云服务无起色，靠AI打广告赚钱", "资本没耐心，看不到赚钱就卖出", "预付款影响现金流"],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论算力租赁股票并建楼观察。",
+    "sentiment": "positive",
+    "key_opinions": ["行云的老庄是真猛", "顺势利通，逆势行云", "算力租赁年内有说法"],
+    "mentioned_stocks": ["利通", "协创", "宏景", "行云", "香江", "莲花"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论莲花控股股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["没必要这样吧", "图片展示情绪"],
+    "mentioned_stocks": ["莲花控股"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论大A指数能否突破4000点。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技和银行都在发力", "狗队不发力说什么都是假的", "磨磨蹭蹭月底4000"],
+    "mentioned_stocks": ["科技", "银行", "沪深300"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论昊华和中船的投资选择。",
+    "sentiment": "mixed",
+    "key_opinions": ["有权限还是去中船", "中船唯一能生产7N级材料", "昊华股性极差"],
+    "mentioned_stocks": ["昊华", "中船"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论电源相关股票强势。",
+    "sentiment": "positive",
+    "key_opinions": ["麦格米特、中恒电气近期都很强"],
+    "mentioned_stocks": ["麦格米特", "中恒电气"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论本周股市无聊，无收获。",
+    "sentiment": "negative",
+    "key_opinions": ["科技小红，老登没跌", "量起来了但没变化", "对冲操作难赚钱"],
+    "mentioned_stocks": ["科技", "老登"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论华电国际的窄幅震荡行情。",
+    "sentiment": "mixed",
+    "key_opinions": ["织布机行情，几分钱玩一天", "收集筹码然后耗着", "火电跌不到哪去"],
+    "mentioned_stocks": ["华电国际", "华能国际", "大唐"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论T+0 ETF的蚊子腿操作策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["标普ETF是T+0，低买高卖", "中概也可以，位置低", "国内这些容易发套"],
+    "mentioned_stocks": ["标普ETF", "中概"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论追高蓝色光标导致亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["追高亏麻了", "AI软跌起来要命", "定好止损线跑路"],
+    "mentioned_stocks": ["蓝色光标", "岩山"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论海能达股票的买入时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["速度上船，机会难得", "没到14还有空间", "等回调到14.5"],
+    "mentioned_stocks": ["海能达"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论黄金价格走势和CPI数据。",
+    "sentiment": "mixed",
+    "key_opinions": ["多头不太行，双顶结构", "CPI符合预期，震荡稳在4400", "有色股去世了"],
+    "mentioned_stocks": ["黄金", "盛达", "有色股"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论海能达股票的涨跌和操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["别涨了让我上车", "两个涨停板了", "15.4背刺卖飞了"],
+    "mentioned_stocks": ["海能达"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论百花医药股票的强势。",
+    "sentiment": "positive",
+    "key_opinions": ["百花医药太牛逼了", "看看远处的龙神和万邦", "百字辈股票"],
+    "mentioned_stocks": ["百花医药", "龙神", "万邦", "百合花", "百合股份", "梦百合"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论医药板块强势但讨论少。",
+    "sentiment": "mixed",
+    "key_opinions": ["药比科技弹性和持续性差", "容量没涨起来", "对子顶了该跑路"],
+    "mentioned_stocks": ["医药", "药明康德"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论创新药买入是否会被套。",
+    "sentiment": "mixed",
+    "key_opinions": ["涨挺久了怕被埋", "药明估值合理，怎么埋"],
+    "mentioned_stocks": ["创新药", "药明"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论股市网红峰哥的真实性。",
+    "sentiment": "negative",
+    "key_opinions": ["嘴盘造假，收益曲线往下走", "流量赚钱不比炒股快", "无下限的人干什么都正常"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "分享宝丰能源的盈利预测模型。",
+    "sentiment": "positive",
+    "key_opinions": ["滚动盈利跟踪模型", "中位50亿，看好宝丰", "今年保守180亿"],
+    "mentioned_stocks": ["宝丰能源"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论下半年投资机会和反思。",
+    "sentiment": "mixed",
+    "key_opinions": ["7月误判回撤利润", "小票反弹猛", "掏兜行情到了"],
+    "mentioned_stocks": ["光模块", "科技中小盘"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论科技ETF回本和科技反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["通过补仓回本7%", "科技反弹弱，每天T一两点", "怕跌的时候来波大的"],
+    "mentioned_stocks": ["科创芯片ETF", "创业板人工智能ETF", "生益"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论大盘压力位和操作建议。",
+    "sentiment": "negative",
+    "key_opinions": ["压力位短期有效", "上攻意愿弱，建议减仓", "看不到大趋势"],
+    "mentioned_stocks": ["有色", "科技", "赵姨"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论高开卖出后追高的后悔。",
+    "sentiment": "negative",
+    "key_opinions": ["判断是对的但情绪驱动", "非得盯盘导致追高后悔"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论从华电换仓到中文在线。",
+    "sentiment": "mixed",
+    "key_opinions": ["清仓华电，买入中文在线", "创业板权限问题", "博明天了"],
+    "mentioned_stocks": ["华电", "中文在线"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论CPI数据对A股的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["CPI数据怎么说", "明天麻袋装钱或套人", "开特高可能重演7月"],
+    "mentioned_stocks": ["中钨", "神火"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论宇树科技创始人的投资者期望。",
+    "sentiment": "mixed",
+    "key_opinions": ["希望投资者认同价值才买", "不为炒作，研发占比高", "认同炒作价值请中签"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论AI硬件板块资金需求大。",
+    "sentiment": "negative",
+    "key_opinions": ["AI硬件屁股太大拉不动", "量化主导成交额", "外围好都涨不动，减仓"],
+    "mentioned_stocks": ["AI硬件", "光存板导"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论剑桥科技股价爆拉。",
+    "sentiment": "positive",
+    "key_opinions": ["剑桥爆拉了", "人在里面一脸懵逼", "羡慕了"],
+    "mentioned_stocks": ["剑桥科技"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论科技反弹缺乏增量资金。",
+    "sentiment": "negative",
+    "key_opinions": ["老登股不被吸，没有增量资金", "科技反弹结束了吗", "板块互掏"],
+    "mentioned_stocks": ["科技", "老登股", "白酒", "创新药", "红利"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论A股指数能否突破4000点。",
+    "sentiment": "mixed",
+    "key_opinions": ["九阳神功要大成了吗", "4000我就减仓了", "今天没力气又绿了"],
+    "mentioned_stocks": ["证券"]
+  },
+  {
+    "index": 46,
+    "summary": "列出热门股票选择。",
+    "sentiment": "mixed",
+    "key_opinions": ["巨轮、皇氏、京投、百花等", "一个板块里不要买老三", "百花进监管后续悬"],
+    "mentioned_stocks": ["秦安", "巨轮", "一鸣", "皇氏", "高争", "京投", "百花", "哈药", "开开", "传智"]
+  },
+  {
+    "index": 47,
+    "summary": "讨论红利股拉升时减仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利直线拉红，该撤", "高开没走是我的锅", "半导体我觉得没啥问题"],
+    "mentioned_stocks": ["红利", "半导体"]
+  },
+  {
+    "index": 48,
+    "summary": "讨论投资美股SpaceX。",
+    "sentiment": "mixed",
+    "key_opinions": ["希望马斯克带我发财", "价位太贵不建议购入", "持有十年看看"],
+    "mentioned_stocks": ["SpaceX", "特斯拉", "苹果", "山姆"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论剑桥科技可能小作文。",
+    "sentiment": "mixed",
+    "key_opinions": ["利益相关，持有啥吹啥", "有小作文，奔着涨停去"],
+    "mentioned_stocks": ["剑桥科技"]
+  },
+  {
+    "index": 50,
+    "summary": "讨论连板股票一字涨停现象。",
+    "sentiment": "negative",
+    "key_opinions": ["一字晋级难上桌", "只能排队等开板", "全是一波流"],
+    "mentioned_stocks": []
+  }
+]
