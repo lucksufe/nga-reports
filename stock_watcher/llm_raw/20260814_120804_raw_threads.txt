@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论A股科技股上涨的困难及原因",
+    "sentiment": "negative",
+    "key_opinions": ["科技股缺乏股东回报，本质是存量博弈", "与纳斯达克相比缺乏全球增量资金", "市场信心不足，存款难以搬家入市"],
+    "mentioned_stocks": ["纳斯达克100", "海力士", "三星", "闪迪"]
+  },
+  {
+    "index": 2,
+    "summary": "分享AI投资研究系统的使用和经验",
+    "sentiment": "mixed",
+    "key_opinions": ["使用deepseek等工具观察指标并进行预测", "强调纪律执行和操作的重要性", "讨论AI工具的可靠性问题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "质疑美股上涨与通胀的关系",
+    "sentiment": "negative",
+    "key_opinions": ["认为美股涨幅能轻易甩开通胀", "暗示美联储关注通胀的逻辑被市场上涨消解"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论青龙管业因天气题材的埋伏机会",
+    "sentiment": "negative",
+    "key_opinions": ["尝试埋伏事件驱动机会", "被套亏损后认为股票是垃圾", "建议避开此类老庄股"],
+    "mentioned_stocks": ["青龙管业"]
+  },
+  {
+    "index": 5,
+    "summary": "抱怨市场表现差劲",
+    "sentiment": "negative",
+    "key_opinions": ["对七月份的市场行情表示失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "抱怨指数拉升但个股不赚钱的常态",
+    "sentiment": "negative",
+    "key_opinions": ["对拉尾盘行为感到厌恶", "抱怨指数回来但本金未回", "指出量化交易模式固化"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论交易时机和市场缩量",
+    "sentiment": "negative",
+    "key_opinions": ["盘中买入易被套，类似仙人跳", "建议下午2:30或2:55后操作", "市场成交量萎缩，信心不足"],
+    "mentioned_stocks": ["场外基金", "外围ETF", "588170"]
+  },
+  {
+    "index": 8,
+    "summary": "预判电力板块拉尾盘后将回调",
+    "sentiment": "negative",
+    "key_opinions": ["认为拉尾盘是抢先手，次日易套人", "部分用户已跟随买入并计划次日卖出", "认为行情缺乏持续性，仍是旧戏码"],
+    "mentioned_stocks": ["华银电力", "立新", "京能", "辽能", "大唐"]
+  },
+  {
+    "index": 9,
+    "summary": "探讨美股上涨原因及A股困境",
+    "sentiment": "negative",
+    "key_opinions": ["A股缺乏增量资金，环境通缩且收割散户", "美股因市场正规、资金流入而上涨", "A股市场被批评为割韭菜的封闭市场"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 10,
+    "summary": "询问是否有比A股难度更高的市场",
+    "sentiment": "negative",
+    "key_opinions": ["A股被视为地狱难度", "港股被认为同样困难甚至更甚", "自嘲买银行股相当于存定期"],
+    "mentioned_stocks": ["港股", "港股通", "银行股"]
+  },
+  {
+    "index": 11,
+    "summary": "分析A股近期独立下跌的操盘逻辑",
+    "sentiment": "negative",
+    "key_opinions": ["认为市场主力“将错就错”故意不涨", "指出ETF资金持续流出", "质疑市场为何将上涨视为好事"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论连板股一字涨停难以参与",
+    "sentiment": "negative",
+    "key_opinions": ["新梯队连板多以一字形式晋级，散户难参与", "参与方式只能是排队等待开板", "认为是量化或老庄主导的模式"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论“宝妈指数”对黄金股的预测",
+    "sentiment": "negative",
+    "key_opinions": ["宝妈指数显示黄金有下跌风险", "黄金股投资者面临亏损", "该指数对某些股票（如娜娜）可能无效"],
+    "mentioned_stocks": ["黄金", "黄金股", "娜娜"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论当前行情下做T的可行性",
+    "sentiment": "mixed",
+    "key_opinions": ["认为只有做T才能赚点钱", "指出做T也存在风险（T飞）", "分享尾盘做T、次日开盘卖出的策略"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "戏谑列出A股上涨的苛刻条件",
+    "sentiment": "negative",
+    "key_opinions": ["A股上涨需依赖全球市场和地缘和平", ["需中美经济数据好看且无不利言论"], "条件繁多被戏称为“规则怪谈”"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "以宇通客车为例描述市场情绪",
+    "sentiment": "negative",
+    "key_opinions": ["个股上涨缓慢但下跌迅速", "类似当前科技股“磕磕绊绊涨，快速跌回”的走势", "提及宇通分红高是良心企业"],
+    "mentioned_stocks": ["宇通客车"]
+  },
+  {
+    "index": 17,
+    "summary": "观测到紫光国微直线拉升并讨论",
+    "sentiment": "mixed",
+    "key_opinions": ["拉升可能因财报或诱多，原因不明", "半导体板块无联动反应", "有用户尝试小仓位买入"],
+    "mentioned_stocks": ["紫光国微", "紫光股份"]
+  },
+  {
+    "index": 18,
+    "summary": "描述省广集团股价剧烈波动",
+    "sentiment": "negative",
+    "key_opinions": ["个股从涨停到跌停，波动极大", "即使昨日买入，今日也可能面临跌停亏损"],
+    "mentioned_stocks": ["省广集团"]
+  },
+  {
+    "index": 19,
+    "summary": "抱怨市场高开低走且持续缩量",
+    "sentiment": "negative",
+    "key_opinions": ["认为主力恶意“抱摔”套人", ["市场缩量，参与者稀少"], "部分用户亏损后清仓离场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "批评中际旭创绑架大盘走势",
+    "sentiment": "negative",
+    "key_opinions": ["中际旭创拉升吸血，导致大盘跳水", "内资卖、外资买的矛盾格局", "投资美股或纳斯达克受限制"],
+    "mentioned_stocks": ["中际旭创", "纳斯达克"]
+  },
+  {
+    "index": 21,
+    "summary": "展示大盘波动极小的盘面",
+    "sentiment": "mixed",
+    "key_opinions": ["上午盯盘收益仅为0.1%", "有用户收益顶别人涨10个点", "调侃波动小如“织布机”"],
+    "mentioned_stocks": ["紫光", "588170"]
+  },
+  {
+    "index": 22,
+    "summary": "解释抱团股下跌是为防止冲涨停",
+    "sentiment": "negative",
+    "key_opinions": ["报团资金会反复尝试拉升", "报团不退，市场难以上涨", "呼吁出台窗口指导"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "讨论CPO（光模块）板块的强势",
+    "sentiment": "mixed",
+    "key_opinions": ["CPO板块吸引资金，导致其他板块回落", "分享个人投资券商和智度股的经历", "部分用户因板块轮动感到困惑"],
+    "mentioned_stocks": ["智度", "引力传媒", "券商"]
+  },
+  {
+    "index": 24,
+    "summary": "探讨尾盘买、开盘抛的交易策略",
+    "sentiment": "negative",
+    "key_opinions": ["此策略被认为是熊市战法", "需承担次日低开的风险", "被认为不如空仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "声称站在“光”里并进行投资",
+    "sentiment": "positive",
+    "key_opinions": ["认为今天是未来三天最佳的节点", "参考了小作文消息进行决策", "认为利空出尽可能已充分"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "抱怨“回本必跌”的经历",
+    "sentiment": "negative",
+    "key_opinions": ["回本后立即遭遇下跌被套", "分享多次回本后未能及时离场的亏损经历", "长期持股并做T以求回本"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "警告午盘拉升是“离别钩”诱多",
+    "sentiment": "negative",
+    "key_opinions": ["认为上午尾盘拉升是诱饵", "预测下午会回落", "用户对取名表示佩服"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "用游戏梗自嘲市场下跌",
+    "sentiment": "negative",
+    "key_opinions": ["“坚持下”是双关，既是鼓励也是“挨枪子”", "形容市场像“排队枪毙”"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "观察到老登股与科技股同涨同跌",
+    "sentiment": "mixed",
+    "key_opinions": ["近期红利与科技板块走势趋同", "国家队可能通过做T实现", "资金轮动受阻"],
+    "mentioned_stocks": ["银行", "白酒"]
+  },
+  {
+    "index": 30,
+    "summary": "提出“买绿不买红”的熊市操作法",
+    "sentiment": "negative",
+    "key_opinions": ["建议只买当日下跌的股票，次日开盘即卖", ["认为当前行情空仓才是最佳策略"], "操作收益低且风险高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "预测明天半导体将大涨并给出理由",
+    "sentiment": "positive",
+    "key_opinions": ["依据是财报利好和新AI模型发布", "有人反驳并认为利好出尽将下跌", "用户希望借此安慰亏损的心情"],
+    "mentioned_stocks": ["中微", "设备ETF", "北方华创"]
+  },
+  {
+    "index": 32,
+    "summary": "展示分析师看空存储股后相关股票反涨",
+    "sentiment": "negative",
+    "key_opinions": ["分析师Jukan看空存储后，相关股票大涨", "认为该分析师是“谁涨吹谁”的散户", "部分用户反向操作获利"],
+    "mentioned_stocks": ["闪迪", "海力士", "三星", "美光"]
+  },
+  {
+    "index": 33,
+    "summary": "批评赛力斯的商业模式损害加盟商",
+    "sentiment": "negative",
+    "key_opinions": ["认为赛力斯向加盟商转嫁风险", "华为合作模式导致赛力斯失去先发优势", "机械层面被质疑使用劣质材料"],
+    "mentioned_stocks": ["赛力斯", "问界", "尚界", "MG"]
+  },
+  {
+    "index": 34,
+    "summary": "询问市场普跌4000只的利空原因",
+    "sentiment": "negative",
+    "key_opinions": ["认为A股下跌不需要具体利空", "吐槽A股是“全球最垃圾的市场”", "认为银行股下跌是关键信号"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 35,
+    "summary": "用游戏术语开组形容市场哀嚎",
+    "sentiment": "negative",
+    "key_opinions": ["形容市场参与者集体哀嚎", "用户表示已退出股市", "认为无需特地开组，天天如此"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "询问铜冠铜箔盘口异常跳价原因",
+    "sentiment": "mixed",
+    "key_opinions": ["观察到股价频繁非整数跳动", "怀疑是量化机器人交易信号", "与其它股票对比后觉得异常"],
+    "mentioned_stocks": ["铜冠铜箔", "新易盛", "中际旭创"]
+  },
+  {
+    "index": 37,
+    "summary": "长文分析宝丰能源并看好其前景",
+    "sentiment": "positive",
+    "key_opinions": ["公司基本面良好，满产满销", "地缘政治可能成为股价驱动", "筹码结构健康，已加入自选"],
+    "mentioned_stocks": ["宝丰能源", "金牛", "金煤", "万华卫星"]
+  },
+  {
+    "index": 38,
+    "summary": "指出近期10点做T的盈利模式",
+    "sentiment": "mixed",
+    "key_opinions": ["观察到近一周早盘10点做T可盈利", "认为尾盘竞价规则为此服务", "也可以利用板块跷跷板做T"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "质疑医药板块大涨但无人讨论",
+    "sentiment": "mixed",
+    "key_opinions": ["认为医药板块弹性差、容量小", "讨论热度低可能因投资者无仓位", "交易惯性导致资金集中在科技股"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 40,
+    "summary": "同时看A股和电竞比赛感到痛苦",
+    "sentiment": "negative",
+    "key_opinions": ["同时看大A和XG（电竞战队）是“享福”", "两者都令人失望和难受", "用户选择去看其他比赛"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "开源一个面向小白的AI投资研究系统",
+    "sentiment": "mixed",
+    "key_opinions": ["发布SmartTrader系统进行技术交流", "强调系统不构成投资建议", "供学习和研究使用"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "抱怨切换板块后原板块涨新板块不涨",
+    "sentiment": "negative",
+    "key_opinions": ["卖出光模块买入国产链，遭遇踏空", "认为有业绩支撑的才是硬道理", "市场被形容为反人性的“CS”"],
+    "mentioned_stocks": ["光模块", "国产链"]
+  },
+  {
+    "index": 43,
+    "summary": "形容市场缩量下跌，毫无生机",
+    "sentiment": "negative",
+    "key_opinions": ["预期缩量4000-5000亿，市场极度冷清", "外围大涨A股却下跌，令人失望", "频繁的“抱摔”让投资者不敢参与"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "讨论国庆前后A股是否必跌",
+    "sentiment": "negative",
+    "key_opinions": ["询问国庆前是否会有下杀", ["提示9月、1月常轻仓"], "提醒不要刻舟求剑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "质问主力为何砸盘前总要诱多",
+    "sentiment": "negative",
+    "key_opinions": ["认为诱多是为了方便做T获利", "不诱多就无法在阴跌中获利", "主力需要出货"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "用电竞赛事类比A股上涨的难度",
+    "sentiment": "negative",
+    "key_opinions": ["认为AME夺冠的概率像A股涨到4500点", "对国内电竞战队表现失望", "A股上涨被比喻为极难达成的目标"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "认为情绪低谷可能是抄底时机",
+    "sentiment": "mixed",
+    "key_opinions": ["意识到反人性操作很困难", "无法在低点下手买入"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "批评A股上涨全靠砸出空间",
+    "sentiment": "negative",
+    "key_opinions": ["上涨是先下跌砸出空间", "形成“偷摸拉高、宣传、套人、割肉”的循环", "建议不如先去3000点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "类比A股和电竞战队“滔博”的相似性",
+    "sentiment": "negative",
+    "key_opinions": ["认为大A、XG（电竞）和滔博都“幽默”", "批评电竞选手表现差且言论多"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "质疑外围市场对A股的影响力减弱",
+    "sentiment": "negative",
+    "key_opinions": ["认为A股走势已与外围脱钩", ["缺乏资金和信心突破压力位"], "国家队托底后可能快速减持"],
+    "mentioned_stocks": ["创业板指"]
+  }
+]

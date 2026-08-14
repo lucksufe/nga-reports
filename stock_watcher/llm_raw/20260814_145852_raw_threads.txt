@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论场内纳指和标普ETF的高溢价问题，以及如何规避风险。",
+    "sentiment": "negative",
+    "key_opinions": ["溢价接近10点，有风险", "建议场外定投避开高溢价", "ETF可能被关闭限制购买"],
+    "mentioned_stocks": ["纳指ETF", "标普ETF", "沪深300ETF"]
+  },
+  {
+    "index": 2,
+    "summary": "亨通光电今日资金流入强势，讨论是否能突破前高。",
+    "sentiment": "positive",
+    "key_opinions": ["主力决心大，拉升意图明显", "反倾销税利好光纤板块", "可能涨停，成交量放大"],
+    "mentioned_stocks": ["亨通光电", "中天科技"]
+  },
+  {
+    "index": 3,
+    "summary": "民航板块受油价压制，调整时间可能较短，适合定投。",
+    "sentiment": "mixed",
+    "key_opinions": ["板块被油价压制", "逻辑调整时间短于猪周期", "当前位置适合定投"],
+    "mentioned_stocks": ["民航板块"]
+  },
+  {
+    "index": 4,
+    "summary": "东山精密近期跟随PCB板块，资金关注度下降。",
+    "sentiment": "negative",
+    "key_opinions": ["东山跟PCB板块走势", "光模块进攻时误入东山", "当前是算力回合"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 5,
+    "summary": "缩量深V走势后，讨论下周市场是否乐观。",
+    "sentiment": "mixed",
+    "key_opinions": ["抛压可能消失，下周乐观", "成交量缩减过多引发担忧", "怕套牢盘和抄底盘影响"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "无明确主线时，板块轮动尾盘拉升需警惕风险。",
+    "sentiment": "negative",
+    "key_opinions": ["没明确主线板块轮动", "尾盘拉升可能非奸即盗", "提醒投资者谨慎"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论儒意电影的短期投机机会和风险，如电影上映前兑现。",
+    "sentiment": "mixed",
+    "key_opinions": ["等周末消息发酵", "儒意庄家可能操盘坏", "影视股通常A杀，风险高"],
+    "mentioned_stocks": ["儒意电影"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论国家队救市和赚钱的目标，与散户关系紧张。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队只救市和赚钱", "不关心散户死活", "A股是化债工具之一"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "分享T加1制度下重仓螳螂股票的过山车经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["重仓买入螳螂股票", "T加1制度救了避免亏损", "买点时机令人迷惑"],
+    "mentioned_stocks": ["螳螂"]
+  },
+  {
+    "index": 10,
+    "summary": "质疑美联储关注通胀的必要性，因美股上涨可抵消通胀。",
+    "sentiment": "negative",
+    "key_opinions": ["美股涨法抵消通胀影响", "美国人不关心生活物资涨价", "投资指数即可跑赢通胀"],
+    "mentioned_stocks": ["美股"]
+  },
+  {
+    "index": 11,
+    "summary": "用户展示抄底证券的大手笔交易，讨论对市场的影响。",
+    "sentiment": "positive",
+    "key_opinions": ["大手笔买入证券板块", "市场立竿见影效果", "多头加速建仓"],
+    "mentioned_stocks": ["证券"]
+  },
+  {
+    "index": 12,
+    "summary": "中国移动上半年净利润同比下降，讨论影响和转型。",
+    "sentiment": "negative",
+    "key_opinions": ["红利股可能结束", "增值税政策影响业绩", "转型算力服务有潜力"],
+    "mentioned_stocks": ["中国移动", "中兴"]
+  },
+  {
+    "index": 13,
+    "summary": "A股科技股走弱，因FCC拟限制中国光模块，影响市场情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["光模块是科技股龙头", "FCC限制如达摩克利斯之剑", "市场担心企业持续性"],
+    "mentioned_stocks": ["光模块", "剑桥科技"]
+  },
+  {
+    "index": 14,
+    "summary": "分享投资交流群中的讨论，涉及业绩、投机和投资心理。",
+    "sentiment": "mixed",
+    "key_opinions": ["业绩增长但股价不涨", "产业链消息驱动投机", "投资节点与周期重要"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "旭光电子近期表现妖，多次涨停，用户卖飞后悔。",
+    "sentiment": "positive",
+    "key_opinions": ["旭光电子妖股特征明显", "9个交易日涨停5次", "用户卖飞后遗憾"],
+    "mentioned_stocks": ["旭光电子"]
+  },
+  {
+    "index": 16,
+    "summary": "宏和公告被误解，实为砍低端增高端，AI分析为利好。",
+    "sentiment": "mixed",
+    "key_opinions": ["终止旧项目推进新项目", "砍低端产能增加高端", "情绪影响股价表现"],
+    "mentioned_stocks": ["宏和"]
+  },
+  {
+    "index": 17,
+    "summary": "用户乐观喊牛回速归，但被其他用户质疑和嘲笑。",
+    "sentiment": "mixed",
+    "key_opinions": ["卖电瓶车投资股市", "牛回速归口号乐观", "熊市观点反驳"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "用户自嘲卖出股票后大盘上涨，调侃自己托起大盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["牺牲自己造福大家", "上证指数摸十日线", "回踩确认时卖出"],
+    "mentioned_stocks": ["上证指数", "科创50"]
+  },
+  {
+    "index": 19,
+    "summary": "用户回归，提及之前推荐的万邦医药表现好，但科技腰斩。",
+    "sentiment": "mixed",
+    "key_opinions": ["推荐万邦医药表现强", "科技股腰斩影响", "神佬回归讨论板块"],
+    "mentioned_stocks": ["万邦医药", "盛和资源"]
+  },
+  {
+    "index": 20,
+    "summary": "分享使用AI工具辅助炒股，设置观察指标和纪律执行。",
+    "sentiment": "positive",
+    "key_opinions": ["设立崩盘指数等观察指标", "大盘预测指标较符合", "纪律执行至关重要"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "调侃救市，讨论某股票织布机走势正常，因成交量低。",
+    "sentiment": "mixed",
+    "key_opinions": ["图形像黄瓜调侃", "织布机走势正常", "无量时走势平稳"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论套牢盘定义，对比A股T+1制度与其他市场做空机制。",
+    "sentiment": "mixed",
+    "key_opinions": ["T+1制度影响套牢盘", "美股可做空减少损失", "A股多头策略限制"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "证券板块作为工具合格，但与上证指数深绑定。",
+    "sentiment": "mixed",
+    "key_opinions": ["工具角色合格", "与上证指数深绑定", "板块问题较大"],
+    "mentioned_stocks": ["证券", "上证指数"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论美股能涨是否因通胀，对比A股散户资金不足环境。",
+    "sentiment": "negative",
+    "key_opinions": ["美股有增量资金持续流入", "A股通缩环境散户没钱", "国家队割韭菜循环"],
+    "mentioned_stocks": ["美股", "A股"]
+  },
+  {
+    "index": 25,
+    "summary": "南方航空织布机走势，用户跟随主力收筹码，意图不明。",
+    "sentiment": "mixed",
+    "key_opinions": ["织布机走势明显", "主力意图不确定", "等待事件催化"],
+    "mentioned_stocks": ["南方航空"]
+  },
+  {
+    "index": 26,
+    "summary": "质疑A股科技股上涨动力不足，缺乏股东回报和增量资金。",
+    "sentiment": "negative",
+    "key_opinions": ["无股东回报相互掏兜", "缺乏全球增量资金", "需存款搬家才有机会"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 27,
+    "summary": "市场缩量至3300亿，大家躺平，对后市不乐观。",
+    "sentiment": "negative",
+    "key_opinions": ["缩量市场躺平", "放量跌缩量涨无意义", "站上五日线才参与"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "两点半准时下跌，讨论利通股票表现。",
+    "sentiment": "negative",
+    "key_opinions": ["神奇两点半准时向下", "利通永远的神", "图形像黄瓜"],
+    "mentioned_stocks": ["利通"]
+  },
+  {
+    "index": 29,
+    "summary": "长文分析宝丰能源基本面和筹码结构，预测即将主升。",
+    "sentiment": "positive",
+    "key_opinions": ["满产满销基本面扎实", "筹码结构健康清理套牢", "等待风口到来"],
+    "mentioned_stocks": ["宝丰能源"]
+  },
+  {
+    "index": 30,
+    "summary": "抱怨A股市场死水一潭，缺乏波动和活力。",
+    "sentiment": "negative",
+    "key_opinions": ["市场像一潭死水", "连小时代股都快跌停", "被骗多次知道问题"],
+    "mentioned_stocks": ["小时代"]
+  },
+  {
+    "index": 31,
+    "summary": "最后半小时指数冲高失败，期待下周一表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["冲不过去关键点位", "下周一可能麻袋装钱", "等待市场方向"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "担心午后跳水，类似昨日表现，市场情绪谨慎。",
+    "sentiment": "negative",
+    "key_opinions": ["昨日一幕犹在眼前", "跳水与否不确定", "指数踩完十日线"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "两点半时间点讨论是否跳水，每日模式相似。",
+    "sentiment": "negative",
+    "key_opinions": ["准时开砸模式", "每天都一样", "缩量无抛压"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 34,
+    "summary": "到点后讨论是否跳水，半导体可能领跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["紧张等待跳水", "半导体申请出战", "缩量横盘压力小"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 35,
+    "summary": "期货金摸底，黄金股前高附近，讨论谁在抢跑。",
+    "sentiment": "mixed",
+    "key_opinions": ["期货金摸底动作", "黄金股是期货的期货", "贵金属市场人精多"],
+    "mentioned_stocks": ["山东黄金", "黄金股"]
+  },
+  {
+    "index": 36,
+    "summary": "有色板块下跌，可能因海峡事件影响，讨论风险。",
+    "sentiment": "negative",
+    "key_opinions": ["忍界大战可能爆发", "有色板块下跌", "海峡事件引发担忧"],
+    "mentioned_stocks": ["有色"]
+  },
+  {
+    "index": 37,
+    "summary": "电力板块尾盘拉升，警告明天追高风险被套。",
+    "sentiment": "negative",
+    "key_opinions": ["拉尾盘抢先手策略", "明天追高大概率被套", "关注辽能和大唐龙头"],
+    "mentioned_stocks": ["华银电力", "京能电力", "辽能", "大唐发电"]
+  },
+  {
+    "index": 38,
+    "summary": "用户选择投资光模块，认为FCC限制影响已消化。",
+    "sentiment": "positive",
+    "key_opinions": ["最佳投靠光节点", "FCC消息已消化", "资金跑路后波动小"],
+    "mentioned_stocks": ["光模块", "康德"]
+  },
+  {
+    "index": 39,
+    "summary": "用户追涨网宿科技，今晚公布业绩，讨论套牢盘和风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["追高网宿科技风险", "今晚公布业绩关键", "上方套牢盘被消灭"],
+    "mentioned_stocks": ["网宿科技", "蓝色光标", "利通"]
+  },
+  {
+    "index": 40,
+    "summary": "智谱新模型发布后股价下跌，可能因利好兑现。",
+    "sentiment": "negative",
+    "key_opinions": ["智谱股价炸了", "新模型glm5.3发布", "利好兑现下跌"],
+    "mentioned_stocks": ["智谱"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论算力租赁板块相关股票，如利通、协创等。",
+    "sentiment": "positive",
+    "key_opinions": ["算力租赁有望主升", "行云老庄操作猛", "有故事有业绩支撑"],
+    "mentioned_stocks": ["利通电子", "协创数据", "宏景科技", "行云集团", "香江控股", "莲花健康"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论今天能否收红，其他指数已红。",
+    "sentiment": "mixed",
+    "key_opinions": ["高开假阴线可能", "创业板等指数收红", "要面子收红结束"],
+    "mentioned_stocks": ["创业板指数", "中证500", "中证1000", "中证2000"]
+  },
+  {
+    "index": 43,
+    "summary": "指数收红，用户庆祝胜利。",
+    "sentiment": "positive",
+    "key_opinions": ["指数红了我们赢了", "冠军庆祝", "市场小幅上涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "羡慕美股散户买入即涨，T+0降低成本，对比A股不满。",
+    "sentiment": "negative",
+    "key_opinions": ["美股买进等着涨", "T多次降成本爽", "A股学不到技术"],
+    "mentioned_stocks": ["美股", "纳指ETF"]
+  },
+  {
+    "index": 45,
+    "summary": "类比日本打弹珠上瘾，调教自己在A股找亏钱爽感。",
+    "sentiment": "mixed",
+    "key_opinions": ["打弹珠亏钱爽感", "调教自己在A股", "达到无敌状态"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "用户踏空错过上涨，希望市场接回。",
+    "sentiment": "negative",
+    "key_opinions": ["踏空了没上车", "牛熊交替困惑", "算力板块起飞"],
+    "mentioned_stocks": ["算力"]
+  },
+  {
+    "index": 47,
+    "summary": "观察半导体拉升带动盘面，讨论科技股作用。",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体V起带动盘面", "盘面活了靠科技", "配置对冲策略"],
+    "mentioned_stocks": ["半导体", "银行", "煤炭", "券商"]
+  },
+  {
+    "index": 48,
+    "summary": "抱怨股价波动被甩下车，讨论策略和情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["就差我这点筹码", "抛压导致被甩下车", "股价波动折磨人"],
+    "mentioned_stocks": ["云赛智联", "特变电工", "杭电股份"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论指数是否回到3960点，看午后两点半表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["总不能回到3960", "看神奇两点半时间", "指数在拉升中"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "比较A股和港股中芯国际表现差异，讨论换股。",
+    "sentiment": "negative",
+    "key_opinions": ["A股中芯比港股差", "AH溢价不合理", "卖盘少涨快原理"],
+    "mentioned_stocks": ["中芯国际"]
+  }
+]
