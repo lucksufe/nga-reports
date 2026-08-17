@@ -1,0 +1,326 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "讨论今日股市普涨的原因，部分用户认为是跌不动或洗盘结束，有人关联电影《牛来》。",
+        "sentiment": "mixed",
+        "key_opinions": ["跌不动了，上周洗盘一周", "可能是电影《牛来》的炒作影响", "之前一直问为什么跌，今天突然普涨"],
+        "mentioned_stocks": ["牛来"]
+    },
+    {
+        "index": 2,
+        "summary": "用户发起活动抽奖送电影票，讨论《牛来》电影及与股市行情的联系。",
+        "sentiment": "positive",
+        "key_opinions": ["电影质量不错，值得支持", "票房成绩好，是市场情绪的反映", "讨个彩头，希望股市牛来"],
+        "mentioned_stocks": ["牛来"]
+    },
+    {
+        "index": 3,
+        "summary": "讨论恒生科技ETF是否已无投资价值，用户被套牢，回复中对其估值和前景有分歧。",
+        "sentiment": "mixed",
+        "key_opinions": ["目前估值较低，例如阿里5PE，有吸引力", "底部概率较大，但指标不一定准", "建议考虑其他指数或基金如纳指标普"],
+        "mentioned_stocks": ["恒生科技ETF", "阿里巴巴", "纳指标普ETF"]
+    },
+    {
+        "index": 4,
+        "summary": "建议买入中韩半导体ETF进行套利，认为明天韩国市场可能补涨带来溢价。",
+        "sentiment": "positive",
+        "key_opinions": ["利用市场差异进行短期套利", "科技股热度高，资金活跃", "尾盘有资金抢筹，博弈明天补涨"],
+        "mentioned_stocks": ["中韩半导体ETF"]
+    },
+    {
+        "index": 5,
+        "summary": "讨论药明康德股价形态是双顶还是突破，用户感觉拿不住。",
+        "sentiment": "mixed",
+        "key_opinions": ["短期形态已突破回踩确认", "是否双顶需看后续走势", "目前是机构重评估价值的时候"],
+        "mentioned_stocks": ["药明康德"]
+    },
+    {
+        "index": 6,
+        "summary": "用户减仓至一层，认为反弹接近尾声，引发对后市走势和操作的讨论。",
+        "sentiment": "mixed",
+        "key_opinions": ["普涨后可能回调，但板块节奏不同", "创业板空间有限，主板科创可能还有", "操作策略应根据市场情绪灵活调整"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 7,
+        "summary": "用户询问可以埋伏的板块，回复中推荐了电力、科创半导体、稀土、房地产等多个方向。",
+        "sentiment": "mixed",
+        "key_opinions": ["市场普涨时难以埋伏，应关注回调板块", "推荐电力、稀土等防御或资源板块", "若牛市来临，可短期博弈券商"],
+        "mentioned_stocks": ["电力ETF", "科创半导体", "稀土ETF", "片仔癀", "券商ETF"]
+    },
+    {
+        "index": 8,
+        "summary": "用户因卖出钨后未及时买回而感到踏空，表达遗憾。",
+        "sentiment": "negative",
+        "key_opinions": ["踏空行情，等待调整未果", "错过低位买入机会"],
+        "mentioned_stocks": ["钨"]
+    },
+    {
+        "index": 9,
+        "summary": "讨论利通电子作为情绪标的，下午是否会有奇迹上涨，回复普遍认为可能性低。",
+        "sentiment": "negative",
+        "key_opinions": ["情绪标的作用有限，难独立上涨", "股价涨幅已大，性价比不高", "下午行情可能受情绪影响下跌"],
+        "mentioned_stocks": ["利通电子"]
+    },
+    {
+        "index": 10,
+        "summary": "用户讨论大盘指数明天是否能到达4000点，引发对上涨速度和压力位的讨论。",
+        "sentiment": "mixed",
+        "key_opinions": ["上涨速度快，令人惊讶", "上方存在缺口和均线压力", "有人期待快速上涨，有人担忧回调"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 11,
+        "summary": "庆祝电影《牛来》票房破千万，讨论电影质量及票房高的原因，引发是否洗钱的争论。",
+        "sentiment": "mixed",
+        "key_opinions": ["电影质量获得部分观众认可", "高票房反映市场情绪和资金充裕", "部分人怀疑涉及洗钱，引发争论"],
+        "mentioned_stocks": ["牛来"]
+    },
+    {
+        "index": 12,
+        "summary": "推荐机器人零部件概念股雷赛智能，认为其长期被低估，有较大增长空间。",
+        "sentiment": "positive",
+        "key_opinions": ["看好机器人零部件赛道长期发展", "认为公司估值合理，目标价高", "有人认为当前股价已不便宜"],
+        "mentioned_stocks": ["雷赛智能"]
+    },
+    {
+        "index": 13,
+        "summary": "讨论长鑫存储被纳入指数可能导致ETF被动接盘的问题，担忧股价虚高。",
+        "sentiment": "negative",
+        "key_opinions": ["上涨是为了让ETF指数接盘", "指数编制规则导致资金被动买入", "估值远高于行业龙头，风险大"],
+        "mentioned_stocks": ["长鑫存储", "50ETF", "SK海力士"]
+    },
+    {
+        "index": 14,
+        "summary": "用户因股市上涨联想到电影《牛来》也将创新高，引发对电影制作质量的讨论。",
+        "sentiment": "positive",
+        "key_opinions": ["见证市场行情与文化现象的结合", "电影在美术和分镜上有想法", "故事完整，片尾曲好听"],
+        "mentioned_stocks": ["牛来"]
+    },
+    {
+        "index": 15,
+        "summary": "用户提醒盘后可能发布降温政策，建议轻仓，引发激烈反驳和情绪化讨论。",
+        "sentiment": "negative",
+        "key_opinions": ["政策面存在不确定性风险", "情绪化发言受到批评", "仓位管理应平衡风险与收益"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 16,
+        "summary": "用户询问现在进场是否还能捡到钱，引发对市场持续性和回调风险的讨论。",
+        "sentiment": "mixed",
+        "key_opinions": ["普涨行情可能吸引增量资金", "此时进场风险较高，可能接到高开低走", "部分人认为明天会回调是进场机会"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 17,
+        "summary": "用户分享清仓通鼎并买入新莱应材的操作，回复中有人跟单，并推荐其他主板股票。",
+        "sentiment": "mixed",
+        "key_opinions": ["根据行情进行个股调仓换股", "有人跟买，有人持观望态度", "有用户推荐其他主板票如金安国际"],
+        "mentioned_stocks": ["通鼎", "新莱应材", "金安国际", "宝鼎科技", "红板"]
+    },
+    {
+        "index": 18,
+        "summary": "用户看好存储板块下周趋势，认为应轮动到该板块，但回复中分歧较大。",
+        "sentiment": "mixed",
+        "key_opinions": ["外围存储股已企稳，国内可能补涨", "存储板块处于底部，值博率高", "有人怀疑没有足够资金解套上方套牢盘"],
+        "mentioned_stocks": ["存储板块", "兆易创新", "赵姨", "长大哥"]
+    },
+    {
+        "index": 19,
+        "summary": "老用户回归论坛，引发其他用户欢迎和询问其过往推荐股票的情况。",
+        "sentiment": "positive",
+        "key_opinions": ["老用户回归受到欢迎", "其过往推荐如万邦医药走势较强", "期待其新的观点和指导"],
+        "mentioned_stocks": ["万邦医药", "盛和资源"]
+    },
+    {
+        "index": 20,
+        "summary": "用户认为国产替代板块正式启航，可能大幅上涨。",
+        "sentiment": "positive",
+        "key_opinions": ["认为国产替代成为新主线", "期待连续上涨行情"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 21,
+        "summary": "用户展示在算力和光模块股票上赚钱，并引发关于持股耐心和对手的讨论。",
+        "sentiment": "positive",
+        "key_opinions": ["长期持有算力光模块终获回报", "散户常在上涨初期就卖出", "有用户表示已战胜“中际”"],
+        "mentioned_stocks": ["算力", "光模块", "中际"]
+    },
+    {
+        "index": 22,
+        "summary": "用户请求解读生益科技中报，回复认为业绩很好，符合预期上限。",
+        "sentiment": "positive",
+        "key_opinions": ["业绩顶格，接近预告上限", "股东人数增加，关注者变多", "下半年业绩可能比上半年更好"],
+        "mentioned_stocks": ["生益科技"]
+    },
+    {
+        "index": 23,
+        "summary": "用户担忧周末情绪过高导致明天高开低走，询问是否应减仓。",
+        "sentiment": "mixed",
+        "key_opinions": ["可能因电影《牛来》等话题高开", "市场情绪过热，有回调风险", "需关注是否有实质性利好"],
+        "mentioned_stocks": ["金牛股份", "牛来"]
+    },
+    {
+        "index": 24,
+        "summary": "讨论B站财经UP主制作的股市AI连续剧，内容融合实时股市梗，获得好评。",
+        "sentiment": "positive",
+        "key_opinions": ["剧本优秀，融合实时股市梗", "制作成本低但效果好", "内容寓教于乐，有CP感"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 25,
+        "summary": "用户庆祝电影《牛来》成功，并认为这预示着市场资金充裕，应大胆做多科技股。",
+        "sentiment": "positive",
+        "key_opinions": ["电影成功说明市场外资金充裕", "应抓住机会做多科技股", "有用户提到金牛化工一字板"],
+        "mentioned_stocks": ["金牛化工", "牛来"]
+    },
+    {
+        "index": 26,
+        "summary": "用户观察铜冠铜箔盘口有频繁跳价现象，询问原因，回复认为可能是量化交易。",
+        "sentiment": "neutral",
+        "key_opinions": ["盘口跳价频繁且不规则", "可能是量化或机器人交易迹象", "与其他热门股盘口特征不同"],
+        "mentioned_stocks": ["铜冠铜箔", "新易盛", "中际旭创"]
+    },
+    {
+        "index": 27,
+        "summary": "用户分享自己七月八月的收益对比，引发其他用户分享盈亏情况。",
+        "sentiment": "mixed",
+        "key_opinions": ["八月收益相比七月有改善", "回本之路依然艰难", "跑赢指数不等于绝对盈利"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 28,
+        "summary": "用户介绍使用AI辅助炒股的方法，包括观察指标和纪律执行，并分享操作简报。",
+        "sentiment": "neutral",
+        "key_opinions": ["利用AI工具进行市场预测和纪律执行", "关注崩盘指数等特殊指标", "操作需简洁，避免过度交易"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 29,
+        "summary": "用户羡慕他人普涨，自己却还在亏损，引发对板块分化的讨论。",
+        "sentiment": "negative",
+        "key_opinions": ["市场分化严重，有人狂欢有人挣扎", "科技股抽血其他板块", "持有白酒等板块感受不佳"],
+        "mentioned_stocks": ["白酒", "巨人", "电力ETF"]
+    },
+    {
+        "index": 30,
+        "summary": "用户认为剑桥科技可能是第一个站上60日线的光模块股，引发情绪龙头和股价对比讨论。",
+        "sentiment": "mixed",
+        "key_opinions": ["可能成为光模块板块的情绪龙头", "其上涨可能因前期涨幅较少", "有用户指出天孚通信也很强"],
+        "mentioned_stocks": ["剑桥科技", "天孚通信"]
+    },
+    {
+        "index": 31,
+        "summary": "用户认为今天不会跳水并加仓，回复中多数人提醒风险，认为其操作可能“买崩”市场。",
+        "sentiment": "mixed",
+        "key_opinions": ["用户加仓时机引质疑", "市场面临年线压力位", "尾盘操作风险较高"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 32,
+        "summary": "用户认为德明利和剑桥是“真科技”代表，表现独立强势。",
+        "sentiment": "positive",
+        "key_opinions": ["在整体行情中表现出独立强势", "剑桥科技走势被看好", "对存储板块内部个股有分化评价"],
+        "mentioned_stocks": ["德明利", "剑桥科技", "太极实业", "君正"]
+    },
+    {
+        "index": 33,
+        "summary": "用户询问海皇（可能指海光信息或类似股票）是否要突破16元，分享自己下车的后悔操作。",
+        "sentiment": "mixed",
+        "key_opinions": ["有用户按纪律下车后后悔", "股价走势强势，超出预期", "有用户认为可能诱多，需谨慎"],
+        "mentioned_stocks": ["海皇"]
+    },
+    {
+        "index": 34,
+        "summary": "用户期待万润科技下午能有资金点火上涨，希望半导体板块带动后排。",
+        "sentiment": "negative",
+        "key_opinions": ["期待板块龙头带动个股上涨", "自己错过了机会，表达焦虑"],
+        "mentioned_stocks": ["万润科技"]
+    },
+    {
+        "index": 35,
+        "summary": "讨论万华化学持仓体验，用户抱怨股价不涨，与产品价格走势背离。",
+        "sentiment": "negative",
+        "key_opinions": ["周期股不受市场认可，资金偏好科技", "基本面良好但股价不反映", "资金在股价上反复做T"],
+        "mentioned_stocks": ["万华化学", "宝丰能源", "化工ETF"]
+    },
+    {
+        "index": 36,
+        "summary": "询问是否有用户在上周四被洗盘洗出去，引发对主力操作和踏空的抱怨。",
+        "sentiment": "negative",
+        "key_opinions": ["主力洗盘手法凶悍", "被洗出后股价上涨导致踏空", "认为上方套牢盘压力大"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 37,
+        "summary": "用户因卖出海皇后股价继续上涨而难受，分享卖出细节。",
+        "sentiment": "negative",
+        "key_opinions": ["卖出后股价继续涨导致后悔", "操作纪律与心态难以平衡", "有用户表示会留底仓或等回调接回"],
+        "mentioned_stocks": ["海皇"]
+    },
+    {
+        "index": 38,
+        "summary": "用户在市场一片唱空科技股的声音中卖出了筹码，感到困惑和后悔。",
+        "sentiment": "negative",
+        "key_opinions": ["科技股反弹被许多人认为是逃命机会", "逆势操作带来心理压力", "论坛观点分歧大，多数人长期亏损"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 39,
+        "summary": "讨论光纤板块近期连续修复，但用户认为修复缓慢，并分析是否被错杀。",
+        "sentiment": "mixed",
+        "key_opinions": ["七月被严重错杀，目前在修复", "扩产逻辑让资金谨慎", "修复速度慢于其他科技板块"],
+        "mentioned_stocks": ["光纤", "长飞", "港飞"]
+    },
+    {
+        "index": 40,
+        "summary": "用户认为东航物流是最强航空股，其股价随油价上涨。",
+        "sentiment": "positive",
+        "key_opinions": ["公司股价走势强势", "股价与原油价格正相关"],
+        "mentioned_stocks": ["东航物流"]
+    },
+    {
+        "index": 41,
+        "summary": "用户惊讶于长鑫存储要涨停，引发对其超高市盈率的讨论。",
+        "sentiment": "mixed",
+        "key_opinions": ["股价大涨，市盈率极高", "与行业龙头估值差距巨大", "科创板涨跌幅为20%"],
+        "mentioned_stocks": ["长鑫存储", "海力士", "三星"]
+    },
+    {
+        "index": 42,
+        "summary": "用户分享早上追高买入后亏损的经历，感到后悔。",
+        "sentiment": "negative",
+        "key_opinions": ["追高买入导致短期亏损", "心态不坚定，导致操作失误"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 43,
+        "summary": "有用户建议牛市来临时冲券商板块，但遭到其他用户反对和警告。",
+        "sentiment": "mixed",
+        "key_opinions": ["若牛市来临，券商可能有表现", "券商板块历史表现不佳，有大卖压", "建议配置更宽基的指数如沪深300"],
+        "mentioned_stocks": ["券商ETF", "中信证券", "沪深300"]
+    },
+    {
+        "index": 44,
+        "summary": "用户询问为何论坛没人吹捧磷化铟板块，回复指出该板块已涨过一波，有人已卖飞。",
+        "sentiment": "mixed",
+        "key_opinions": ["该板块已有一波涨幅", "有用户卖飞相关个股", "认为现在讨论为时已晚"],
+        "mentioned_stocks": ["海川智能", "魅视科技", "云南锗业", "ST京蓝"]
+    },
+    {
+        "index": 45,
+        "summary": "用户询问下午大盘是否会有奇迹，站上年线，引发对行情走势的猜测。",
+        "sentiment": "mixed",
+        "key_opinions": ["当前走势超乎预期", "可能突破关键压力位", "也有人认为是出货行情"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 46,
+        "summary": "用户因工作原因想定投基金，询问推荐，回复建议配置纳指标普、红利低波等多种基金。",
+        "sentiment": "neutral",
+        "key_opinions": ["定投纳指、标普等指数基金是常见建议", "可搭配红利低波、黄金ETF等分散风险", "注意场外基金限额和场内溢价问题"],
+        "mentioned_stocks": ["纳指100", "标普500", "沪深300", "红利低波ETF", "黄金ETF"]
+    }
+]
+```
