@@ -1,0 +1,331 @@
+[
+  {
+    "index": 1,
+    "summary": "用户分享亏损经历，发起电影《牛来》抽奖活动，寄托牛市希望。",
+    "sentiment": "mixed",
+    "key_opinions": ["用户7月亏损严重，希望牛市到来", "有人支持roll活动，提前祝吃饭钱", "讨论电影热度下降，小时代冷清"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "TI比赛中国队表现不佳，可能影响完美世界股价。",
+    "sentiment": "negative",
+    "key_opinions": ["中国队在TI比赛中淘汰，令人失望", "预期完美世界可能跌停", "有人认为符合预期，利空落地"],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 3,
+    "summary": "英伟达周末利空消息引发科技股担忧，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["用户担忧科技股周一爆炸", "有人认为这是大利好", "讨论对OpenAI的影响"],
+    "mentioned_stocks": ["英伟达", "Meta", "OpenAI"]
+  },
+  {
+    "index": 4,
+    "summary": "正面评价电影《牛来》，认为值得票房。",
+    "sentiment": "positive",
+    "key_opinions": ["电影值得票房，没有大家说的那么粗糙"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "用户分享趋势模式选股策略，有人质疑有效性。",
+    "sentiment": "mixed",
+    "key_opinions": ["用户分享趋势启动选股模式", "有人质疑策略，认为有资金介入问题", "讨论信息不对称"],
+    "mentioned_stocks": ["晋控电力"]
+  },
+  {
+    "index": 6,
+    "summary": "萌新求交易学习路线，分享股票分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["用户学习了理论但缺乏经验", "建议从实盘和书籍开始", "推荐具体股票如航天发展"],
+    "mentioned_stocks": ["中航沈飞", "内蒙一机", "航天发展", "万科A", "五粮液"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论美国股市牛逼原因，比较A股表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股全方位牛，因美元是世界结算货币", "A股可能更贵，牛市波动大", "美国金融体系建立在股市上"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论工业革命中铜的重要性，长期看好。",
+    "sentiment": "positive",
+    "key_opinions": ["铜是能源转换的关键，价格硬", "长期看好铜价，建议做期货", "硅基消费的尽头是矿产能源"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "抱怨股市节假日太多，调休影响交易。",
+    "sentiment": "negative",
+    "key_opinions": ["开盘时间少，节假日多", "调休太多，假被拆碎", "建议加休或开半天"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "热榜撤了Zane，可能涉及应用变化。",
+    "sentiment": "mixed",
+    "key_opinions": ["热榜撤了Zane，可能是散户不看", "周末热度来自下载", "图片显示相关应用"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "预测明天开阳线，建议买票支持电影《牛来》。",
+    "sentiment": "positive",
+    "key_opinions": ["预测周一大涨，电影寄托牛市祝愿", "有人质疑，认为可能高开低走", "讨论反派三条狗含义"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "回顾2026年投资战役，如航天卫星、黄金白银等。",
+    "sentiment": "mixed",
+    "key_opinions": ["列出四大战役，有人参加所有", "讨论亏损经历，如半导体亏惨", "有人小赚或卖飞"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论日本股市对A股的影响，预测走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["日本汇率波动影响股市", "随机跟随跌多的股票", "预测A股微红后绿盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "电影《牛来》下线传闻，但实际未下架。",
+    "sentiment": "mixed",
+    "key_opinions": ["担心牛来下线，影响股民", "实际只是辽宁地区下架", "讨论票房涨停后回调"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论凭感觉买股的策略，认为不靠谱。",
+    "sentiment": "negative",
+    "key_opinions": ["凭感觉买股缺乏前置条件", "大部分人这样但容易亏", "建议更科学方法或ETF定投"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论精密机床封锁对相关股票的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["提到大富科技等标的", "相关股票已涨过，老消息", "讨论半导体真空泵限制"],
+    "mentioned_stocks": ["大富科技", "华东数控", "华中数控", "秦川机床", "汉钟", "新莱应材"]
+  },
+  {
+    "index": 17,
+    "summary": "龙队秀肌肉导致亏损，分享跌停经历。",
+    "sentiment": "negative",
+    "key_opinions": ["龙队操作如压单是撤退信号", "个人经历多次跌停板亏损", "讨论量化砸盘风险"],
+    "mentioned_stocks": ["招商银行", "紫金", "中信"]
+  },
+  {
+    "index": 18,
+    "summary": "赞扬东鹏特饮新产品，潜力巨大。",
+    "sentiment": "positive",
+    "key_opinions": ["产品味道好，可能成为增长点", "对比东方树叶，看好市场份额", "包装和渠道是关键"],
+    "mentioned_stocks": ["东鹏特饮"]
+  },
+  {
+    "index": 19,
+    "summary": "假设粮食短缺，讨论投资方向如农业股和化肥。",
+    "sentiment": "mixed",
+    "key_opinions": ["炒农业股可能被铁拳，需谨慎", "建议化肥股，但出口管制", "食品加工股走势较好"],
+    "mentioned_stocks": ["金健米业", "苏垦农发", "双汇发展", "圣农发展", "海天味业", "天味食品", "中炬高新"]
+  },
+  {
+    "index": 20,
+    "summary": "批评电影《牛来》是转移注意力，股民炒傻。",
+    "sentiment": "negative",
+    "key_opinions": ["牛来是转移注意力，负面新闻掩盖", "股民炒出幻觉，魔怔人多", "预测明天再骗一波砸盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "用户回归，讨论神佬推荐和股票。",
+    "sentiment": "positive",
+    "key_opinions": ["用户离开后回来", "神佬推荐万邦医药很强", "讨论盛和资源能否拿"],
+    "mentioned_stocks": ["万邦医药", "盛和资源"]
+  },
+  {
+    "index": 22,
+    "summary": "分享股市搞笑图片，涉及趣事。",
+    "sentiment": "mixed",
+    "key_opinions": ["图片搞笑，如一字断魂刀", "提到铖昌科技", "牛来周边光速出片"],
+    "mentioned_stocks": ["铖昌科技"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论纳斯达克新高附近的投资性价比。",
+    "sentiment": "mixed",
+    "key_opinions": ["新高后可能越涨越卖", "长期看涨，但短期风险", "建议定投或等回调"],
+    "mentioned_stocks": ["纳斯达克", "标普500", "中丐"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论明天港股表现，喊牛来。",
+    "sentiment": "mixed",
+    "key_opinions": ["喊牛来，期待大涨", "老A不至于因电影抽象", "预测商航起飞"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "梳理电影《牛来》概念股，如牛模块。",
+    "sentiment": "mixed",
+    "key_opinions": ["列出牛模块概念股", "炒作垃圾股才能吃肉", "玄学炒股有用吗"],
+    "mentioned_stocks": ["金牛化工", "公牛集团", "铜牛信息", "罗牛山", "蒙牛乳业", "文投控股", "天娱数科"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论B站大霄AI连续剧反映股市。",
+    "sentiment": "positive",
+    "key_opinions": ["AI连续剧播放量高，反映股市现实", "文本牛逼，有CP感", "制作成本低但流量高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "埋伏华为昇腾标的推荐。",
+    "sentiment": "mixed",
+    "key_opinions": ["推荐华丰、申菱、兴森等标的", "华为吸血，利润被卡脖子", "关注能卡华为脖子的厂商"],
+    "mentioned_stocks": ["华丰科技", "申菱环境", "兴森科技", "中芯国际", "盛和晶微"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论吉比特股息高，游戏股特点。",
+    "sentiment": "mixed",
+    "key_opinions": ["股息高，分红比例大", "游戏股分红看过去利润", "雷霆游戏在国内不错"],
+    "mentioned_stocks": ["吉比特"]
+  },
+  {
+    "index": 29,
+    "summary": "求解化债利率与结构牛分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["用户知识欠缺，求解释逻辑", "附图片供讨论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "Anthropic收入预测被质疑，为IPO造势。",
+    "sentiment": "negative",
+    "key_opinions": ["预测2028年收入过于乐观", "为IPO造势，数据可能美化", "代码能力被追上，竞争加剧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "提示纳斯达克风险，卖在人声鼎沸时。",
+    "sentiment": "negative",
+    "key_opinions": ["卖在人声鼎沸时，美国也一样", "科技股洗掉散户后拉升", "讨论茅台散户股东增加"],
+    "mentioned_stocks": ["纳斯达克", "标普", "茅台", "闪迪", "美光"]
+  },
+  {
+    "index": 32,
+    "summary": "求基金推荐，适合定投长持。",
+    "sentiment": "mixed",
+    "key_opinions": ["推荐纳指和标普，但高位不合算", "建议沪深300、红利低波、黄金ETF分散", "讨论额度和定投策略"],
+    "mentioned_stocks": ["纳指ETF", "标普500ETF", "沪深300ETF", "红利低波ETF", "黄金ETF"]
+  },
+  {
+    "index": 33,
+    "summary": "强调复盘重要性，批评不自省。",
+    "sentiment": "negative",
+    "key_opinions": ["真正的复盘是往伤口撒盐", "科技股下跌因资金拥挤和融资压力", "批评亏钱不骂自己"],
+    "mentioned_stocks": ["光模块", "存储", "AI算力"]
+  },
+  {
+    "index": 34,
+    "summary": "电影《牛来》可能象征牛市起点。",
+    "sentiment": "positive",
+    "key_opinions": ["电影男一牛来，男二豹拉，寓意牛市", "导演可能亏损后创作", "期待帖子被挖坟"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论CPO牛逼，分享交易经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["用户做券商和智度套利", "半导体资金流动导致过山车", "讨论股票情绪和超短特点"],
+    "mentioned_stocks": ["券商", "智度", "引力传媒"]
+  },
+  {
+    "index": 36,
+    "summary": "韩国散户大量持有三星股票，买盘枯竭。",
+    "sentiment": "negative",
+    "key_opinions": ["每五名成年人中一人持有三星", "筹码给散户，买盘枯竭", "社保也重仓三星"],
+    "mentioned_stocks": ["三星电子"]
+  },
+  {
+    "index": 37,
+    "summary": "电影《牛来》单日票房亚军。",
+    "sentiment": "mixed",
+    "key_opinions": ["牛来票房亚军，冠军是汪汪队", "质疑票房统计不全面", "说明有汪汪队牛就不会来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "招商证券研报，聚焦业绩主线结构性机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场修复进入尾声", "聚焦业绩主线机会", "配置建议科技创新和出海"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "电影《牛来》下架传闻，实际是小作文。",
+    "sentiment": "mixed",
+    "key_opinions": ["传闻牛来下架，引发担忧", "实际只是大连下架，官方辟谣", "讨论票房和热度炒作"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "巴菲特接班人狂买科技股，谷歌成第三大持仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["谷歌买成第三大持仓", "质疑谷歌AI护城河", "巴菲特自己决定投资"],
+    "mentioned_stocks": ["谷歌", "亚马逊", "微软"]
+  },
+  {
+    "index": 41,
+    "summary": "高股息股票选择，如银行和电力股。",
+    "sentiment": "mixed",
+    "key_opinions": ["选招行、工商、神华、长江电力", "分散投资降低风险", "打新和定投策略"],
+    "mentioned_stocks": ["招商银行", "工商银行", "神华", "长江电力"]
+  },
+  {
+    "index": 42,
+    "summary": "中国巨石因电影《牛来》梗被炒作。",
+    "sentiment": "positive",
+    "key_opinions": ["中国巨石因电影梗人气高", "搞笑评论增加趣味性", "类似川大智胜炒作"],
+    "mentioned_stocks": ["中国巨石"]
+  },
+  {
+    "index": 43,
+    "summary": "预测明天高开，但担心情绪太高。",
+    "sentiment": "mixed",
+    "key_opinions": ["担心高开低走，做T机会", "质疑周末情绪和利好", "讨论牛来相关股票"],
+    "mentioned_stocks": ["金牛股份"]
+  },
+  {
+    "index": 44,
+    "summary": "allin完美世界等TI比赛结果。",
+    "sentiment": "negative",
+    "key_opinions": ["完美世界股价受TI比赛影响", "AME夺冠概率极低", "难蠕动进决赛"],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 45,
+    "summary": "中信建投研报，A股科技修复未结束。",
+    "sentiment": "positive",
+    "key_opinions": ["算力产业链需求有韧性", "科技修复偏慢但未逆转", "建议梭哈天孚通信等"],
+    "mentioned_stocks": ["天孚通信", "胜宏科技", "中钨高新"]
+  },
+  {
+    "index": 46,
+    "summary": "茅台中报业绩雷但继续涨价策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["业绩雷但涨价可能亡羊补牢", "消费者接受涨价，提纯市场", "对比其他商品涨价"],
+    "mentioned_stocks": ["茅台", "五粮液"]
+  },
+  {
+    "index": 47,
+    "summary": "电影《牛来》放量，关联A股放量预测。",
+    "sentiment": "mixed",
+    "key_opinions": ["电影放量可能预示A股放量", "警惕串子号和监管风险", "期待放量大涨支持电影"],
+    "mentioned_stocks": []
+  }
+]
