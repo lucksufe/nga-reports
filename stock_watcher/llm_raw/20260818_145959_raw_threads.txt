@@ -1,0 +1,501 @@
+[
+  {
+    "index": 1,
+    "summary": "用户询问是否在尾盘加仓多氟多股票，并询问潜在利空。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "询问多氟多尾盘加仓时机。",
+      "担心潜在利空因素。",
+      "有讽刺回应称‘你不是股神吗’。"
+    ],
+    "mentioned_stocks": ["多氟多"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论投资粮食相关股票，基于厄尔尼诺预期粮食价格上涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "厄尔尼诺可能导致国际粮食价格上涨。",
+      "粮食是民生，涨幅过大可能受调控。",
+      "建议埋伏化肥、农业等股票。"
+    ],
+    "mentioned_stocks": ["盐湖", "亚钾国家", "北大荒", "种子粮业", "豆粕ETF", "猪肉相关股票"]
+  },
+  {
+    "index": 3,
+    "summary": "用户感觉大盘和科技股今天表现坚挺。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "大盘和科技股今天表现意外坚挺。"
+    ],
+    "mentioned_stocks": ["大盘", "科技"]
+  },
+  {
+    "index": 4,
+    "summary": "质疑澜起科技股票表现不佳，询问资金关注情况。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "澜起科技可能表现烂透。",
+      "韩国调查结果出来前资金可能不愿参与。"
+    ],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 5,
+    "summary": "用户买入紫金矿业后股价回升，讨论黄金和国债走势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金和美国30年国债同涨，显示不信任美元信用。",
+      "空头在黄金约4450位置有阻力。"
+    ],
+    "mentioned_stocks": ["紫金矿业", "黄金"]
+  },
+  {
+    "index": 6,
+    "summary": "用户抱怨指数上涨但个人账户亏损，询问哪些板块在涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "指数回来了但个人账户仍亏损。",
+      "讨论可能在涨的板块如半导体、粮食。"
+    ],
+    "mentioned_stocks": ["半导体", "粮食"]
+  },
+  {
+    "index": 7,
+    "summary": "用户买入电力股票以防守，但电力股票下跌更多。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "电力股票表现不如科技股。",
+      "电力可能不是好的防守选择。",
+      "科技股更强势。"
+    ],
+    "mentioned_stocks": ["电力", "科技"]
+  },
+  {
+    "index": 8,
+    "summary": "用户询问红利投资历史，担心当前拥挤度高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "红利ETF近年来受欢迎。",
+      "当前讨论度可能过高，有拥挤风险。",
+      "利率下降周期促进了红利投资。"
+    ],
+    "mentioned_stocks": ["红利ETF"]
+  },
+  {
+    "index": 9,
+    "summary": "提示科技股反弹到颈线位，建议注意高低切风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股反弹到颈线，可能弹不动。",
+      "建议卖涨多的，买涨少的。",
+      "关注美联储纪要影响。"
+    ],
+    "mentioned_stocks": ["德明利", "存储股", "科技股"]
+  },
+  {
+    "index": 10,
+    "summary": "用户后悔错过低价买入海狗（海皇）股票的机会。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "后悔错过13块低价买入机会。",
+      "询问未来是否还有机会。"
+    ],
+    "mentioned_stocks": ["海狗", "海皇"]
+  },
+  {
+    "index": 11,
+    "summary": "海狗股票连续涨停，讨论是否与粮食危机和航运相关。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "海狗股票连续涨停。",
+      "可能因粮食危机导致航运上涨。",
+      "有争议是否与粮食直接相关。"
+    ],
+    "mentioned_stocks": ["海狗", "海皇"]
+  },
+  {
+    "index": 12,
+    "summary": "询问韩国股市下跌原因，分析可能与外围市场有关。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国股市下跌可能与美国存储股、口头加息有关。",
+      "日经指数下跌也产生影响。"
+    ],
+    "mentioned_stocks": ["韩国股市", "日经"]
+  },
+  {
+    "index": 13,
+    "summary": "大盘接近4000点，用户询问国家队是否在卖出。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大盘接近4000点。",
+      "国家队可能在出货。",
+      "价值投资被质疑。"
+    ],
+    "mentioned_stocks": ["大盘", "汪队（国家队）"]
+  },
+  {
+    "index": 14,
+    "summary": "用户关注科华数据在国产AIDC领域的投资机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科华数据涉及储能、AIDC供配电等概念。",
+      "与其他股票如英维克、中恒电气比较。",
+      "有用户分享买入被套经验。"
+    ],
+    "mentioned_stocks": ["科华数据", "英维克", "中恒电气", "中钨", "超声电子"]
+  },
+  {
+    "index": 15,
+    "summary": "大盘上涨，但用户个人账户可能仍亏损。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大盘上涨但个人账户未同步上涨。",
+      "原因可能如银行、有色金属拉升。"
+    ],
+    "mentioned_stocks": ["银行", "有色金属", "半导体"]
+  },
+  {
+    "index": 16,
+    "summary": "用户对天孚通信不满，准备做空该股票。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "准备做空天孚通信。",
+      "有用户质疑或支持做空行为。"
+    ],
+    "mentioned_stocks": ["天孚通信"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论黄金投资前景，短期可能回调但长期看好。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金短期上涨动能可能耗尽。",
+      "调整后可能继续上涨。",
+      "黄金股已下跌，需谨慎。"
+    ],
+    "mentioned_stocks": ["黄金", "黄金股", "GDX"]
+  },
+  {
+    "index": 18,
+    "summary": "用户卖出新莱应材，买入机器人相关股票。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "清仓新莱应材。",
+      "买入雷赛智能、鑫宏业等机器人股票。",
+      "电力股票被吐槽。"
+    ],
+    "mentioned_stocks": ["新莱应材", "雷赛智能", "鑫宏业", "大唐发电"]
+  },
+  {
+    "index": 19,
+    "summary": "半导体股票今天表现强劲，用户感到惊讶。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "半导体股票表现强势。",
+      "可能原因如宇树上市造势。"
+    ],
+    "mentioned_stocks": ["半导体", "宇树"]
+  },
+  {
+    "index": 20,
+    "summary": "半导体今天顶住压力，反驳质疑。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "半导体今天表现坚挺。",
+      "半导体ETF是红的。"
+    ],
+    "mentioned_stocks": ["半导体ETF", "588170"]
+  },
+  {
+    "index": 21,
+    "summary": "大盘强势但未突破4000点。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "大盘表现强势。",
+      "期待突破4000点。"
+    ],
+    "mentioned_stocks": ["大盘"]
+  },
+  {
+    "index": 22,
+    "summary": "用户担心爱丽家居股票尾盘可能下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "担心爱丽家居尾盘下跌。"
+    ],
+    "mentioned_stocks": ["爱丽家居"]
+  },
+  {
+    "index": 23,
+    "summary": "用户回忆牛市周期，最后阶段炒粮食引发担忧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "牛市可能以炒粮食结束。",
+      "粮食股上涨引发牛市结束担忧。",
+      "有观点认为这是市场周期规律。"
+    ],
+    "mentioned_stocks": ["粮食股", "半导体", "农牧渔"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论卫星化学的乙烷原材料价格长期低廉。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "乙烷作为美国天然气副产品价格低廉。",
+      "可能有利于卫星化学生产。"
+    ],
+    "mentioned_stocks": ["卫星化学"]
+  },
+  {
+    "index": 25,
+    "summary": "用户进行抽奖活动，希望牛市到来拯救亏损账户。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用户账户亏损，希望通过抽奖带来好运。",
+      "娱乐性质，期待牛市。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "用户进行抽奖活动，希望牛市到来拯救亏损账户。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用户账户亏损，希望通过抽奖带来好运。",
+      "娱乐性质，期待牛市。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "用户寻找关于国算产业的分析图片。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "分享国算相关图片和信息。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "用户猜测大盘今天可能冲击4000点。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大盘可能冲4000点。",
+      "调侃为‘4000点收费站’。"
+    ],
+    "mentioned_stocks": ["大盘"]
+  },
+  {
+    "index": 29,
+    "summary": "588170 ETF大幅上涨，用户有追高冲动。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "588170 ETF上涨猛烈。",
+      "用户有追高冲动。"
+    ],
+    "mentioned_stocks": ["588170"]
+  },
+  {
+    "index": 30,
+    "summary": "分析复旦微电半年报，营收增长主要靠存储高景气度。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "复旦微电营收增长20%，毛利率不变。",
+      "增长主要来自存储高景气度。",
+      "FPGA业务变化不大。"
+    ],
+    "mentioned_stocks": ["复旦微电", "紫光国微"]
+  },
+  {
+    "index": 31,
+    "summary": "润和软件突然上涨，可能与华为概念相关。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "润和软件爆拉。",
+      "可能跟诚迈科技、中国软件相关。",
+      "或与华为鸿蒙概念有关。"
+    ],
+    "mentioned_stocks": ["润和软件", "诚迈科技", "中国软件"]
+  },
+  {
+    "index": 32,
+    "summary": "用户不理解设备国产化旧消息为何引起市场反应。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "设备国产化消息是旧闻。",
+      "市场可能因主力消息而反应。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "上午市场下跌猛烈，用户抱怨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "上午市场下跌猛烈。",
+      "用户可能亏损。",
+      "有人提示风险。"
+    ],
+    "mentioned_stocks": ["电力", "科技"]
+  },
+  {
+    "index": 34,
+    "summary": "用户投资光模块回本，看好算力和光模块未来。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "光模块投资回本。",
+      "看好算力和光模块未来。"
+    ],
+    "mentioned_stocks": ["光模块", "中际"]
+  },
+  {
+    "index": 35,
+    "summary": "大盘上涨，表现独立。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "大盘上涨，表现独立坚强。"
+    ],
+    "mentioned_stocks": ["大盘"]
+  },
+  {
+    "index": 36,
+    "summary": "紫金矿业价格稳定，用户希望回调以便买入。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "紫金矿业价格感觉下不去。",
+      "用户希望回调以便买入。"
+    ],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 37,
+    "summary": "用户担心科技股下跌，但实际跌幅不大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用户担心科技股下跌。",
+      "实际跌幅很小，是正常分歧。"
+    ],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 38,
+    "summary": "中国软件上涨，可能与国产系统替代传闻相关。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "中国软件上涨。",
+      "传闻公家可能全面禁Windows。"
+    ],
+    "mentioned_stocks": ["中国软件"]
+  },
+  {
+    "index": 39,
+    "summary": "用户询问如何在有盈利时果断卖出。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用户难以在盈利时卖出。",
+      "建议如止损、止盈、记住亏损痛苦。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "用户观察科技股下跌时放量，询问是主力还是散户卖出。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股下跌时放量。",
+      "讨论是主力卖出还是散户。"
+    ],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 41,
+    "summary": "用户观察中粮糖业上涨，回忆去年类似情况。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中粮糖业上涨。",
+      "去年类似情况，资金有记忆。"
+    ],
+    "mentioned_stocks": ["中粮糖业"]
+  },
+  {
+    "index": 42,
+    "summary": "用户觉得A股今天表现异常，担心尾盘下跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "A股今天表现陌生。",
+      "担心尾盘下跌。"
+    ],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 43,
+    "summary": "用户看好牧原股份，但板块表现不一。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "牧原股份冲高。",
+      "板块上涨但牧原可能表现较弱。"
+    ],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 44,
+    "summary": "询问阿里巴巴大涨原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "阿里巴巴大涨。",
+      "可能因财报preview或小作文。"
+    ],
+    "mentioned_stocks": ["阿里巴巴"]
+  },
+  {
+    "index": 45,
+    "summary": "用户提到阿里财报可能有问题。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "提到阿里财报相关图片。"
+    ],
+    "mentioned_stocks": ["阿里巴巴"]
+  },
+  {
+    "index": 46,
+    "summary": "韩国股市下跌，可能受A股因素影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国股市下跌可能与A股相关。",
+      "量化交易影响。"
+    ],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 47,
+    "summary": "用户指出必选消费公司估值低，但市场可能不认可。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "必选消费公司稳定盈利但市值低。",
+      "市场可能错误定价。"
+    ],
+    "mentioned_stocks": ["必选消费公司"]
+  },
+  {
+    "index": 48,
+    "summary": "用户询问算力股是否可买入。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "询问算力股如首都在线、润泽科技。",
+      "有用户分享负面体验。"
+    ],
+    "mentioned_stocks": ["首都在线", "润泽科技"]
+  },
+  {
+    "index": 49,
+    "summary": "用户加仓光模块股票，看好右侧机会。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "加仓光模块股票。",
+      "看好右侧机会，知行合一。"
+    ],
+    "mentioned_stocks": ["光模块", "东山", "源杰", "胜宏"]
+  }
+]
