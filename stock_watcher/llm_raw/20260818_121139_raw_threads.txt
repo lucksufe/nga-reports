@@ -1,0 +1,333 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "讨论科技股快速下跌，楼主感到意外，回复中多认为跌幅不大或属于正常调整。",
+        "sentiment": "mixed",
+        "key_opinions": ["下跌太快，反应时间不足。", "正常分歧，甩下不坚定筹码。", "科技股跌幅不算大，不算杀。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 2,
+        "summary": "讨论沃格光电，楼主认为明天将低开下杀，回复中有人基于技术分析预测会下跌。",
+        "sentiment": "negative",
+        "key_opinions": ["日本相关消息是利空。", "技术反弹已到位，接下来该跌。", "炸板显示走弱，可能回调。"],
+        "mentioned_stocks": ["沃格光电"]
+    },
+    {
+        "index": 3,
+        "summary": "讨论今天盘面是结账（获利了结）还是正常调整，看法分歧，有从量能、主力动向等角度分析。",
+        "sentiment": "mixed",
+        "key_opinions": ["量能未放大，非主力出货，是健康调整。", "短期结账，长期看调整。", "关注60日线压力位。"],
+        "mentioned_stocks": ["科技股", "证券", "纳指科技ETF"]
+    },
+    {
+        "index": 4,
+        "summary": "讨论部分必选消费公司盈利稳定但市值低，与缺乏预期的科技股估值对比。",
+        "sentiment": "negative",
+        "key_opinions": ["无增长的稳定公司，20-30倍PE已不便宜。", "市场风格不在，股价不涨。", "应看分红率而非单纯利润。"],
+        "mentioned_stocks": ["仲景食品"]
+    },
+    {
+        "index": 5,
+        "summary": "分享在股票盈利时难以果断卖出的困扰，回复中多建议接受卖飞、设置条件单。",
+        "sentiment": "negative",
+        "key_opinions": ["牢记亏损的痛苦来督促卖出。", "卖飞好过套牢。", "使用止损、止盈条件单。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 6,
+        "summary": "讨论某股票（疑似天孚通信）强势走势，提及某位博主（sai佬）预判准确，股价创新高。",
+        "sentiment": "mixed",
+        "key_opinions": ["sai佬预判准确，令人佩服。", "卖飞令人遗憾。", "可能成为反弹龙头。"],
+        "mentioned_stocks": ["天孚通信", "胜宏"]
+    },
+    {
+        "index": 7,
+        "summary": "抱怨上午市场杀跌猛，回复中有人认为跌幅正常，是涨多后的回调。",
+        "sentiment": "negative",
+        "key_opinions": ["跌幅不大，体感不强。", "半个月涨幅大，回调正常。", "提示的风险被忽视。"],
+        "mentioned_stocks": ["电力股"]
+    },
+    {
+        "index": 8,
+        "summary": "帖子鼓励清仓杂毛、All in科技核心德明利，情绪狂热，但回复中也有质疑和求救。",
+        "sentiment": "mixed",
+        "key_opinions": ["德明利是本轮情绪核心。", "跟帖质疑其“科技核心”地位。", "高位接盘风险大，引发恐慌。"],
+        "mentioned_stocks": ["德明利"]
+    },
+    {
+        "index": 9,
+        "summary": "展示天孚通信的K线图并提问，回复中多为调侃，暗示可能是诱多或安慰套牢者。",
+        "sentiment": "mixed",
+        "key_opinions": ["K线形态可能意在诱多。", “愿者上钩”，暗示风险。", "致敬仍在坚守的多头。"],
+        "mentioned_stocks": ["天孚通信"]
+    },
+    {
+        "index": 10,
+        "summary": "讨论百合花股票走势奇特，筹码可能集中在老庄手中，回复建议可买入。",
+        "sentiment": "mixed",
+        "key_opinions": ["筹码可能由老庄控制。", "是好票，可买入。", "可反复操作，小赚差价。"],
+        "mentioned_stocks": ["百合花"]
+    },
+    {
+        "index": 11,
+        "summary": "发布国家队（汪队）八月累计减持数据，提示市场资金面压力。",
+        "sentiment": "negative",
+        "key_opinions": ["八月累计减持近30%。", "减持量不容忽视。", "可对比七月增持数据作为参考。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 12,
+        "summary": "寻找外围市场（黄金、纳指）下跌的利空原因，讨论涉及中东、美债等。",
+        "sentiment": "negative",
+        "key_opinions": ["黄金和纳指期货跳水是外围利空。", "可能与中东局势有关。", "美债收益率飙升带来巨大压力。"],
+        "mentioned_stocks": ["黄金", "纳指期货"]
+    },
+    {
+        "index": 13,
+        "summary": "呼喊“海皇”（某航运股）等待散户，股价下跌令人失望，回复中有忠诚口号和乐观目标价。",
+        "sentiment": "negative",
+        "key_opinions": ["股价下跌刺痛持有者。", "散户表达“忠诚”口号。", "仍有人设定30元的目标价。"],
+        "mentioned_stocks": ["海皇"]
+    },
+    {
+        "index": 14,
+        "summary": "用一张熊的图片暗示牛市被叫停，回复中调侃图片是熊猫，时机尴尬。",
+        "sentiment": "negative",
+        "key_opinions": ["熊图暗示牛市停止。", "熊猫形象在下跌日显得尴尬。", "市场操作恶心人。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 15,
+        "summary": "质疑外围市场未好转，A股却在日内V型反弹，回复多认为是诱饵或骗炮。",
+        "sentiment": "negative",
+        "key_opinions": ["V反弹是午盘放出的诱饵。", "可能又是“骗炮”行情。", "A股独立性存疑，外围仍弱。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 16,
+        "summary": "羡慕新股中签一签赚50万，回复讨论其概率和发行机制。",
+        "sentiment": "negative",
+        "key_opinions": ["收益极高，令人羡慕。", "发行价贵，中签概率低。", "比彩票更靠谱，但仍靠运气。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 17,
+        "summary": "调侃市场为了套住散户，编造各种利好故事（如拍电影），回复期待下一个“活”。",
+        "sentiment": "mixed",
+        "key_opinions": ["市场为套人编造故事。", "期待市场下一个炒作剧本。", "充满戏谑和无奈。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 18,
+        "summary": "观测并讨论“猪模块”牧原股份，但回复指出板块涨而牧原不涨。",
+        "sentiment": "mixed",
+        "key_opinions": ["长期观察猪板块。", "牧原走势弱于板块整体。", "持仓体验差。"],
+        "mentioned_stocks": ["牧原"]
+    },
+    {
+        "index": 19,
+        "summary": "分析卫星化学的原材料乙烷将长期处于低价，对成本控制有利，回复补充了其他化工品情况。",
+        "sentiment": "positive",
+        "key_opinions": ["乙烷供应过剩，将长期低价，利好成本。", "相关化工品（丙烯酸）紧缺可能传导利好。", "股票当前位置不算高。"],
+        "mentioned_stocks": ["卫星化学"]
+    },
+    {
+        "index": 20,
+        "summary": "建议买入中韩半导体ETF，博弈韩国市场补涨以获取溢价，回复中有原理分析和风险提示。",
+        "sentiment": "mixed",
+        "key_opinions": ["博弈韩国市场次日补涨吃溢价。", "尾盘抢筹迹象明显。", "开盘时间晚，有跳水风险。"],
+        "mentioned_stocks": ["中韩半导体ETF"]
+    },
+    {
+        "index": 21,
+        "summary": "楼主庆幸早上跑了，认为四大行拉升，但回复中质疑其“拉冒烟”的说法。",
+        "sentiment": "mixed",
+        "key_opinions": ["楼主庆幸及时离场。", "回复认为银行涨幅有限，不算冒烟。", "与科技股等涨幅对比明显。"],
+        "mentioned_stocks": ["四大行", "招商银行"]
+    },
+    {
+        "index": 22,
+        "summary": "记录并展示加仓“光”模块相关股票的操作，知行合一，右侧买入，回复多为支持和鼓励。",
+        "sentiment": "positive",
+        "key_opinions": ["看到右侧机会果断买入。", "跟随sai佬的操作策略。", "希望再冲一次，情绪积极。"],
+        "mentioned_stocks": ["东山", "源杰", "胜宏"]
+    },
+    {
+        "index": 23,
+        "summary": "预测长鑫科技明年净利润极高，并对比美股存储公司估值，认为当前股价是底部，回复中有质疑。",
+        "sentiment": "mixed",
+        "key_opinions": ["对标美股存储估值，长鑫股价是底部。", "国产科技股带有梦想溢价，逻辑合理。", "质疑国产股不应简单套用此估值逻辑。"],
+        "mentioned_stocks": ["长鑫科技", "SK海力士", "美光"]
+    },
+    {
+        "index": 24,
+        "summary": "提到农业板块上涨但大盘跳水，讨论上涨原因（如粮食危机传闻），并提醒控制仓位。",
+        "sentiment": "negative",
+        "key_opinions": ["农业股上涨但整体指数弱。", "上涨或与粮食危机传闻有关。", "市场“玄学”炒作明显，需控制仓位。"],
+        "mentioned_stocks": ["神乐种业", "北大荒", "罗牛山"]
+    },
+    {
+        "index": 25,
+        "summary": "认为医药股逆指数拉升，讨论其是否成为主线，回复中认为CXO是主线。",
+        "sentiment": "mixed",
+        "key_opinions": ["医药股呈现逆指数拉升特征。", "CXO板块更可能是主线。", "医药板块带不动大盘。"],
+        "mentioned_stocks": ["医药", "CXO"]
+    },
+    {
+        "index": 26,
+        "summary": "简单指出和达科技的涨幅比科技股更惊人。",
+        "sentiment": "positive",
+        "key_opinions": ["和达科技涨幅惊人。"],
+        "mentioned_stocks": ["和达科技"]
+    },
+    {
+        "index": 27,
+        "summary": "讨论中钨高科庄家直接低开不诱多，被解读为“善良”，但回复批评其昨日诱多行为。",
+        "sentiment": "negative",
+        "key_opinions": ["庄家直接深水开，不给机会。", "前一日尾盘拉高有诱多嫌疑。", "大盘和板块调整，个股无法逆势。"],
+        "mentioned_stocks": ["中钨高科"]
+    },
+    {
+        "index": 28,
+        "summary": "用“大地熊起”的标题和图片暗示市场可能转熊，回复附和“熊来”的观点。",
+        "sentiment": "negative",
+        "key_opinions": ["“熊起”的图片暗示下跌信号。", "市场可能转向熊市。", "个股走势与板块联动弱。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 29,
+        "summary": "疑问是谁的买入把“科技大哥”（龙头股）买跌了，回复归因于“牛来”的情绪反转。",
+        "sentiment": "negative",
+        "key_opinions": ["科技龙头股冲高回落。", "可能因“牛来”情绪消退而下跌。", "“牛走”导致杀跌。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 30,
+        "summary": "讨论海皇（航运股）连续涨停，持有者感到烫手，回复分析上涨原因并讨论逻辑。",
+        "sentiment": "mixed",
+        "key_opinions": ["海皇连续涨停，持有心态不稳。", "上涨可能与粮食危机推动的航运需求有关。", "散货船运粮逻辑与海狗关联不强。"],
+        "mentioned_stocks": ["海皇"]
+    },
+    {
+        "index": 31,
+        "summary": "以荒谬逻辑推荐乔治白，认为经济下行利好其职业装业务，回复多为调侃和质疑。",
+        "sentiment": "mixed",
+        "key_opinions": ["推荐逻辑荒诞无厘头。", "经济下行利好职业装是玩笑。", "网友以调侃和质疑为主。"],
+        "mentioned_stocks": ["乔治白", "浪莎"]
+    },
+    {
+        "index": 32,
+        "summary": "讨论巨化股份趋势走坏，与同期的牧原股份对比，回复建议长线看待并分析短期支撑位。",
+        "sentiment": "negative",
+        "key_opinions": ["巨化趋势走坏，不如牧原。", "已买入就应长线看待。", "短期可能继续调整。"],
+        "mentioned_stocks": ["巨化股份", "牧原股份"]
+    },
+    {
+        "index": 33,
+        "summary": "感叹“这才是我熟悉的大A”，指普涨后接普跌，回复调侃散户只能接受上涨。",
+        "sentiment": "negative",
+        "key_opinions": ["A股普涨后紧跟普跌。", "市场情绪从极度乐观转向失望。", "散户似乎只能接受上涨。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 34,
+        "summary": "疑惑为何出现集体获利了结，回复中表示还在观望，认为后续或有鱼尾行情。",
+        "sentiment": "negative",
+        "key_opinions": ["获利了结迹象明显。", "市场分歧加大，方向不明。", "后续可能还有“鱼尾”行情。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 35,
+        "summary": "声称当前是半导体最后上车机会，鼓励追跌，但被回复批评为“末日狂欢”，风险极高。",
+        "sentiment": "mixed",
+        "key_opinions": ["认为回调是最后上车机会。", "批评者认为这是“末日狂欢”。", "美债利率走高是重大风险因素。"],
+        "mentioned_stocks": ["半导体"]
+    },
+    {
+        "index": 36,
+        "summary": "关注科华数据在国产AIDC领域的布局，讨论其与其他相关公司的对比和优劣。",
+        "sentiment": "positive",
+        "key_opinions": ["科华数据概念多元（储能、AIDC等）。", "与英维克等公司赛道不完全重叠。", "公司规模相对较大，有优势。"],
+        "mentioned_stocks": ["科华数据", "中恒电气", "英维克"]
+    },
+    {
+        "index": 37,
+        "summary": "责怪追高买入中际旭创和新易盛的人，用“盛宴买单”比喻，回复提醒可能反弹。",
+        "sentiment": "negative",
+        "key_opinions": ["追高买入者面临被套。", "行情如同“盛宴买单”时刻。", "虽可能反弹，但风险高。"],
+        "mentioned_stocks": ["中际旭创", "新易盛"]
+    },
+    {
+        "index": 38,
+        "summary": "讨论早上买入巨石集团是否是接飞刀，回复认为大概率是，且设了条件单也难幸免。",
+        "sentiment": "negative",
+        "key_opinions": ["大概率是接飞刀。", "股价已从底部反弹30%，有调整需求。", "可能需设置止损。"],
+        "mentioned_stocks": ["巨石集团"]
+    },
+    {
+        "index": 39,
+        "summary": "认为创业板指数虽有机会到3750-3800点，但风险收益不匹配，选择不参与。",
+        "sentiment": "negative",
+        "key_opinions": ["创业板指数可能还有上涨空间。", "但当前点位风险收益比不佳。", "选择离场观望。"],
+        "mentioned_stocks": ["创业板指数"]
+    },
+    {
+        "index": 40,
+        "summary": "感叹A股独一份，昨天四千多股上涨，今天四千多股下跌，回复指责是机构收割散户。",
+        "sentiment": "negative",
+        "key_opinions": ["A股“独一份”的暴涨暴跌模式。", "散户被机构收割。", "市场缺乏格局，恶意砸盘。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 41,
+        "summary": "分享行情看法，认为全天走低是昨天获利盘分歧，建议恪守纪律，避免早盘追高。",
+        "sentiment": "negative",
+        "key_opinions": ["全天走低，分歧显现。", "建议恪守纪律，避免早盘追高。", "获利盘会吐出部分收益。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 42,
+        "summary": "创作打油诗描述追涨科技股后被套牢的窘境，回复附和，调侃回调不够深。",
+        "sentiment": "negative",
+        "key_opinions": ["诗描述追涨杀跌、账户新低的痛苦。", "回调或许是机会，但调得不够深。", "量化砸盘影响市场。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 43,
+        "summary": "抱怨收藏的帖子或存档功能失效，找不到之前的内容。",
+        "sentiment": "negative",
+        "key_opinions": ["帖子存档或收藏功能疑似出现问题。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 44,
+        "summary": "抱怨盘中多次给出机会，但收盘时都被套牢，用香港人梗形容市场。",
+        "sentiment": "negative",
+        "key_opinions": ["盘中冲高回落，最终套牢。", "行情方向未定，操作难度大。", "“狗A”（A股）头一天好，第二天必变差。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 45,
+        "summary": "表示受不了，想买入海皇做T，看多目标到16元以上。",
+        "sentiment": "mixed",
+        "key_opinions": ["情绪化，想通过做T摊薄成本。", "看多股价到16元以上。", "感觉趋势快到17元。"],
+        "mentioned_stocks": ["海皇"]
+    },
+    {
+        "index": 46,
+        "summary": "指出东方财富股价多次在19.3元附近受阻，担心守不住，回复指出证券板块与指数背离。",
+        "sentiment": "negative",
+        "key_opinions": ["东方财富多次测试支撑，可能守不住。", "证券板块走势与大盘指数背离。", "可能预示市场转向熊市。"],
+        "mentioned_stocks": ["东方财富"]
+    },
+    {
+        "index": 47,
+        "summary": "抱怨证券板块持续下跌两个月，回复认为牛市已走，证券是蓝筹流动性差的缩影。",
+        "sentiment": "negative",
+        "key_opinions": ["证券板块持续阴跌。", "市场普遍不认为是牛市。", "证券作为蓝筹，流动性差，资金不关注。"],
+        "mentioned_stocks": ["证券"]
+    }
+]
+```
