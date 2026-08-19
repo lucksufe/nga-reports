@@ -1,0 +1,354 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "用户声称重仓抄底，计划梭哈科创，但讨论资金规模大且手续费高。",
+        "sentiment": "negative",
+        "key_opinions": ["认为救市资金来了，决定重仓抄底。", "五百亿资金规模太大，风险高。", "提醒计算手续费。"],
+        "mentioned_stocks": ["科创"]
+    },
+    {
+        "index": 2,
+        "summary": "讨论某股出现6万手跌停被一次性大单吃掉的异常情况。",
+        "sentiment": "negative",
+        "key_opinions": ["出现大单瞬间吃掉跌停。", "怀疑是撤单还是成交。", "针对“风华”股的讨论。"],
+        "mentioned_stocks": ["风华"]
+    },
+    {
+        "index": 3,
+        "summary": "用户因股市大跌而情绪激动，表达气愤。",
+        "sentiment": "negative",
+        "key_opinions": ["股市大跌导致情绪极度糟糕。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 4,
+        "summary": "用户满仓德子与剑桥遭遇双跌停，亏损严重，寻求安慰。",
+        "sentiment": "negative",
+        "key_opinions": ["满仓两只股票遭遇双跌停，亏损巨大。", "科技股今日普遍跌幅大。", "重仓导致风险集中。"],
+        "mentioned_stocks": ["德子", "剑桥"]
+    },
+    {
+        "index": 5,
+        "summary": "讨论中小盘指数出现对子底888.80，但市场普遍看空。",
+        "sentiment": "negative",
+        "key_opinions": ["出现技术面的对子底数字。", "认为会继续下跌至更低点位。", "批评该指数表现差。"],
+        "mentioned_stocks": ["中小弟"]
+    },
+    {
+        "index": 6,
+        "summary": "讨论在普跌行情中依然能翻红的股票，并预警补跌风险。",
+        "sentiment": "mixed",
+        "key_opinions": ["今日能红的股票需要高看一眼。", "银行、红利等防御板块表现较好。", "担心今日抗跌的票明日补跌。"],
+        "mentioned_stocks": ["酱香科技", "长电", "四大行", "黄河旋风"]
+    },
+    {
+        "index": 7,
+        "summary": "抱怨股市一天跌幅抹去近两周涨幅，市场疲弱。",
+        "sentiment": "negative",
+        "key_opinions": ["单日跌幅巨大，侵蚀前期涨幅。", "用老太太上楼梯比喻市场走势。", "批评市场机制问题。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 8,
+        "summary": "SK海力士夜盘因大规模回购消息突然拉升。",
+        "sentiment": "positive",
+        "key_opinions": ["海力士夜盘出现突然拉升。", "原因可能是大规模回购注销消息。", "公司计划回购约286亿美元股份。"],
+        "mentioned_stocks": ["海力士"]
+    },
+    {
+        "index": 9,
+        "summary": "对尾盘拉升行为感到不安，普遍认为是诱多信号。",
+        "sentiment": "negative",
+        "key_opinions": ["对尾盘拉升有不好的预感。", "认为是“老乡别走”的诱多信号。", "担心明天会继续下跌。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 10,
+        "summary": "因股市大跌导致消费欲望下降，影响七夕节日心情。",
+        "sentiment": "negative",
+        "key_opinions": ["股市亏损导致节日消费计划取消。", "将股市投资戏称为金融消费。", "消费欲望被股市大跌打击。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 11,
+        "summary": "激烈批评A股市场表现，称其为全球最差。",
+        "sentiment": "negative",
+        "key_opinions": ["市场涨少跌多，表现差劲。", "与其他市场对比后强烈不满。", "称A股为最大的诈骗团伙。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 12,
+        "summary": "“海狗”股连续涨停，用户询问上涨原因。",
+        "sentiment": "positive",
+        "key_opinions": ["该股连续涨停，走势强劲。", "用户不清楚上涨的具体原因。", "有观点认为可能带动其他板块。"],
+        "mentioned_stocks": ["海狗", "油运双熊", "轮船"]
+    },
+    {
+        "index": 13,
+        "summary": "讨论半导体板块大跌，跌幅预计至少8个点。",
+        "sentiment": "negative",
+        "key_opinions": ["半导体板块今日跌幅巨大。", "市场情绪化严重，方向不明。", "讨论是否会出现V型反弹。"],
+        "mentioned_stocks": ["半导体"]
+    },
+    {
+        "index": 14,
+        "summary": "观测到黄河旋风在大盘下跌时逆势拉升。",
+        "sentiment": "positive",
+        "key_opinions": ["该股在大盘下跌时逆势上涨。", "每次大盘大跌时都有神秘资金拉升。", "用户对此感到惊喜。"],
+        "mentioned_stocks": ["黄河旋风"]
+    },
+    {
+        "index": 15,
+        "summary": "用户看到许多诱多信号，形容为“离别钩”。",
+        "sentiment": "negative",
+        "key_opinions": ["市场出现很多诱多信号。", "将其比喻为让老乡别走的“离别钩”。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 16,
+        "summary": "讨论港股海力士因回购消息而拉升，对比韩股。",
+        "sentiment": "mixed",
+        "key_opinions": ["海力士因回购消息拉升。", "讨论其对美股的影响。", "认为港股市场更正规。"],
+        "mentioned_stocks": ["海力士"]
+    },
+    {
+        "index": 17,
+        "summary": "SK海力士宣布大规模回购，引发韩国股市盘后大涨。",
+        "sentiment": "positive",
+        "key_opinions": ["海力士宣布巨额回购计划。", "消息刺激韩国股市盘后大涨。"],
+        "mentioned_stocks": ["海力士"]
+    },
+    {
+        "index": 18,
+        "summary": "“德明利”股强势表现，但整体市场科技股普跌。",
+        "sentiment": "negative",
+        "key_opinions": ["科技股今日普遍跌幅巨大。", "“德明利”的回归引发关注。", "担心后续还有下跌空间。"],
+        "mentioned_stocks": ["德明利"]
+    },
+    {
+        "index": 19,
+        "summary": "用户因听信“牛来”观点被套在波段高点，非常失望。",
+        "sentiment": "negative",
+        "key_opinions": ["被“牛来”的预期误导而高位被套。", "今日市场近5000家下跌。", "“牛来”被调侃为一场大梦。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 20,
+        "summary": "对比美股和A股，A股跌幅更大，且防御板块逻辑不同。",
+        "sentiment": "negative",
+        "key_opinions": ["A股跌得比美股更多。", "分析中美医药股逻辑差异巨大。", "今日A股防御板块也表现不佳。"],
+        "mentioned_stocks": ["药明康德"]
+    },
+    {
+        "index": 21,
+        "summary": "股市持续下跌，用户失去信心，指责主力资金“汪汪队”跑路。",
+        "sentiment": "negative",
+        "key_opinions": ["市场信心缺失，持续下跌。", "指责主力资金连续流出。", "茅台等权重股也跳水。"],
+        "mentioned_stocks": ["茅台"]
+    },
+    {
+        "index": 22,
+        "summary": "详述SK海力士40万亿韩元回购计划及市值占比。",
+        "sentiment": "positive",
+        "key_opinions": ["海力士计划回购约286亿美元股份。", "回购旨在注销股份提升回报。", "回购金额占其总市值约4%。"],
+        "mentioned_stocks": ["海力士"]
+    },
+    {
+        "index": 23,
+        "summary": "将尾盘拉升比喻为挑衅，批评市场操纵行为。",
+        "sentiment": "negative",
+        "key_opinions": ["将尾盘拉升比作挑衅。", "批评A股市场“专业不做人”。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 24,
+        "summary": "“有研新材”在市场普跌中逆势翻红，引发关注。",
+        "sentiment": "positive",
+        "key_opinions": ["该股在普跌中逆势翻红。", "换手率已达到20%。"],
+        "mentioned_stocks": ["有研"]
+    },
+    {
+        "index": 25,
+        "summary": "用户强烈质疑当前股市的投资价值，认为上涨慢下跌快。",
+        "sentiment": "negative",
+        "key_opinions": ["上涨缓慢但下跌迅猛。", "对监管层的发言感到失望。", "认为“慢牛快熊”市场特征明显。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 26,
+        "summary": "注意到市场大跌但成交量仅500亿，讨论放量与割肉情况。",
+        "sentiment": "negative",
+        "key_opinions": ["大跌但初期成交量未显著放大。", "讨论谁会先割肉离场。", "认为后续可能继续放量下跌。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 27,
+        "summary": "复盘讨论下跌前是否有逃离信号，批评操盘手法。",
+        "sentiment": "negative",
+        "key_opinions": ["回顾下跌前存在诱多信号。", "批评主力操盘手法阴险。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 28,
+        "summary": "用户称观测到有资金开始抄底，点名“太极实业”。",
+        "sentiment": "positive",
+        "key_opinions": ["观测到有抄底迹象。", "点名太极实业。"],
+        "mentioned_stocks": ["太极实业"]
+    },
+    {
+        "index": 29,
+        "summary": "用户希望将下跌原因归结为债券利率，而非更坏的因素。",
+        "sentiment": "negative",
+        "key_opinions": ["希望下跌是因债券利率。", "担心若因AI则市场前景更糟。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 30,
+        "summary": "“湖南裕能”逆势上涨，但用户担心明天会补跌。",
+        "sentiment": "negative",
+        "key_opinions": ["该股今日逆势上涨，不合群。", "多人预测明天会补跌。", "公司当晚有财报，存在风险。"],
+        "mentioned_stocks": ["湖南裕能"]
+    },
+    {
+        "index": 31,
+        "summary": "用户询问今日大跌原因，回复指向外围市场及内部因素。",
+        "sentiment": "negative",
+        "key_opinions": ["大跌可能受美股等外围影响。", "认为A股市场本身垃圾。", "与杠杆市场对比，A股跌幅更大。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 32,
+        "summary": "对大盘快速跌破关键点位感到夸张和不可思议。",
+        "sentiment": "negative",
+        "key_opinions": ["市场跌破关键点位速度极快。", "形容为“贝莱德实名认证的市场”。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 33,
+        "summary": "用户因担心风险卖出华锦换宝丰后感到后悔。",
+        "sentiment": "negative",
+        "key_opinions": ["因心理不安而调仓，事后后悔。", "认为持有时心理难受的股票不该拿。"],
+        "mentioned_stocks": ["华锦", "宝丰"]
+    },
+    {
+        "index": 34,
+        "summary": "用户转发所谓“梁文峰Deepseek”关于美债的回应，但被质疑。",
+        "sentiment": "negative",
+        "key_opinions": ["传播关于美债接盘的乐观消息。", "该消息及信源被其他用户质疑。", "被怀疑是量化投毒。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 35,
+        "summary": "用户今日亏损6万多，却用网贷7万来“对冲”，调侃市场。",
+        "sentiment": "negative",
+        "key_opinions": ["今日亏损巨大。", "用网贷来填补亏损，自嘲心态。", "其他用户以幽默方式回应。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 36,
+        "summary": "用户在-5.5%时买入，股价继续下跌至-8.5%，被套。",
+        "sentiment": "negative",
+        "key_opinions": ["抄底后股价继续深跌。", "感叹市场下跌无下限。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 37,
+        "summary": "科技股投资者本月盈利转为亏损，为卖出不够果断而懊恼。",
+        "sentiment": "negative",
+        "key_opinions": ["科技股收益本月转绿。", "后悔卖出操作不够果断。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 38,
+        "summary": "讨论股票跌停后是否应该“装死”等待，大多数人警告风险。",
+        "sentiment": "negative",
+        "key_opinions": ["考虑跌停后是否死扛。", "多人引用历史教训警告风险。", "跌停卖不出去，只能被动等待。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 39,
+        "summary": "抱怨辛苦半个月的收益被一天大跌全部抹平。",
+        "sentiment": "negative",
+        "key_opinions": ["半月收益一日亏光。", "大涨时没份，大跌总在场。", "对市场走势感到绝望。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 40,
+        "summary": "看到印度股市表现差的新闻，用户反讽A股更差。",
+        "sentiment": "negative",
+        "key_opinions": ["印度股市被评为亚洲最不受欢迎。", "用户反讽A股表现可能更差。", "自嘲“慢牛”A股最受欢迎。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 41,
+        "summary": "介绍百济神州是唯一同时在A股、港股、美股上市的中国公司。",
+        "sentiment": "mixed",
+        "key_opinions": ["介绍百济神州三地上市的独特性。", "讨论其业务（创新药）及市场逻辑。", "有用户分析创新药公司的服务对象。"],
+        "mentioned_stocks": ["百济神州"]
+    },
+    {
+        "index": 42,
+        "summary": "再次强烈批评A股，认为其是全球最垃圾的市场。",
+        "sentiment": "negative",
+        "key_opinions": ["质疑A股为最垃圾市场。", "与外围对比，A股涨少跌多。", "其他用户表示认同。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 43,
+        "summary": "科技股投资者感到心累，一个月经营成果即将还回去。",
+        "sentiment": "negative",
+        "key_opinions": ["科技股收益面临回吐。", "表达对市场的极度疲惫和心累。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 44,
+        "summary": "因股市大跌感到愧疚，讨论最对不起的人。",
+        "sentiment": "negative",
+        "key_opinions": ["亏损后产生愧疚情绪。", "讨论对家人或伴侣的亏欠。", "情绪需要发泄。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 45,
+        "summary": "用户推荐机器人零部件股“雷赛智能”，并给出长期目标价。",
+        "sentiment": "positive",
+        "key_opinions": ["推荐机器人产业链零部件公司。", "给出该股长期上涨的目标价和逻辑。", "有用户觉得价格已贵。"],
+        "mentioned_stocks": ["雷赛智能", "拓普集团"]
+    },
+    {
+        "index": 46,
+        "summary": "“澜起科技”反弹后涨幅不及预期，被批评股性差、散户多。",
+        "sentiment": "negative",
+        "key_opinions": ["该股反弹涨幅低于预期。", "被批评为散户集中营，股性差。", "是做T专用股，不适合长期持有。"],
+        "mentioned_stocks": ["澜起科技"]
+    },
+    {
+        "index": 47,
+        "summary": "用户满仓满融抄底，计划次日无论涨跌都离场，属赌博心态。",
+        "sentiment": "negative",
+        "key_opinions": ["满仓满融进行抄底赌博。", "计划次日无条件清仓。", "被其他用户视为高风险行为。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 48,
+        "summary": "讨论李大霄关于美股泡沫的观点，多数人表示质疑。",
+        "sentiment": "negative",
+        "key_opinions": ["李大霄预测美股泡沫破裂。", "多数用户质疑其预测的准确性。", "讨论美债收益率飙升的影响。"],
+        "mentioned_stocks": ["美股"]
+    },
+    {
+        "index": 49,
+        "summary": "讨论A股的避险板块，茅台拉升，但多数认为银行股更优。",
+        "sentiment": "mixed",
+        "key_opinions": ["茅台尾盘拉升红盘。", "多数观点认为银行股是真正的避险板块。", "列举农业银行、中国神华等为避险选择。"],
+        "mentioned_stocks": ["茅台", "四大行", "农业银行", "中国神华"]
+    },
+    {
+        "index": 50,
+        "summary": "比较阴跌与急跌，认为在T+1下阴跌观感更恶心。",
+        "sentiment": "negative",
+        "key_opinions": ["阴跌比急跌心理上更折磨人。", "急跌一次性到位可能更轻松。", "讨论不同市场下跌方式的弊端。"],
+        "mentioned_stocks": []
+    }
+]
+```
