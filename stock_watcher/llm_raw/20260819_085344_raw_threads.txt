@@ -1,0 +1,552 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论A股市场是否会在一致悲观时低开高走，用户分歧较大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "一致悲观可能导致低开高走，是A股惯用套路。",
+      "市场分歧在于低开后如何走，有人希望抄底。",
+      "有人担忧会下跌，但可能冰点行情反转。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论朱雀三事件对商业航天股的影响，涉及AI预测和利好股票。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "朱雀三可能利好金风科技等股票。",
+      "航天板块资金不可信，回收成功可能被抛售。",
+      "蓝箭未上市，但相关股东可能受益。"
+    ],
+    "mentioned_stocks": ["金风科技", "蓝箭"]
+  },
+  {
+    "index": 3,
+    "summary": "用户期待市场V型反弹，但普遍悲观认为A股会跟跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大A可能低开后下跌，缺乏独立行情。",
+      "对A股跟跌不跟涨感到失望。",
+      "期待反弹但持怀疑态度。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "探讨板块龙头与妖股的关系，分析游资操作逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "妖股股价低，易拉升出货，避免机构埋伏。",
+      "板块龙头可能是情绪龙头，而非基本面龙头。",
+      "游资抱团主导妖股行情。"
+    ],
+    "mentioned_stocks": ["哈药", "传智教育", "一鸣食品", "药明", "中际旭创", "德明利"]
+  },
+  {
+    "index": 5,
+    "summary": "用户询问债基风险，建议选择纯债基金避免漂移。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "债基与银行利率反向相关，需注意加息风险。",
+      "灵活配置混合基金可能漂移，不稳定。",
+      "建议买纯债基金，或图稳买国债。"
+    ],
+    "mentioned_stocks": ["易方达瑞锦"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论李大霄唱多百度，但用户对百度前景悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "李大霄唱多百度可能误导，百度股价表现差。",
+      "百度产品和技术被认可，但市值低。",
+      "阿里涨得好，百度落后，经营问题多。"
+    ],
+    "mentioned_stocks": ["百度", "阿里巴巴"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论商业航天板块因朱雀三事件可能上涨，但担忧一日游。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "商业航天可能因朱雀三事件上涨。",
+      "担忧一日游，量化操作风险高。",
+      "资金可能流向商业航天板块。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "用户对商业航天投资持怀疑态度，认为风险高如赌大小。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "商业航天风险高，获利盘多。",
+      "需等待明天开盘看真章。",
+      "有人投资南航，但讨论商业航天。"
+    ],
+    "mentioned_stocks": ["南航"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论科技股暴跌后资金流向，猜测商业航天等板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "资金可能流向商业航天、电力、黄金等。",
+      "商业航天因朱雀三可能上涨。",
+      "有建议投资海皇等具体股票。"
+    ],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论云天化股票是否值得买入，基于业绩稳定性。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "云天化业绩稳定，类似煤炭电力。",
+      "受油价压制，但可作为红利股。",
+      "建议悄悄买入，吃独食。"
+    ],
+    "mentioned_stocks": ["云天化"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论兆易创新董秘辞职事件，用户反应负面。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "董秘辞职可能影响股价，过往发言导致下跌。",
+      "用户希望董秘赶紧离开。",
+      "质疑董秘对股价的实际影响。"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论伊朗局势对市场的影响，涉及商业航天和美债。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市场可能因国际事件波动。",
+      "商业航天可能受益，如SPCX。",
+      "美债收益率影响成长股。"
+    ],
+    "mentioned_stocks": ["SPCX"]
+  },
+  {
+    "index": 13,
+    "summary": "使用波浪理论分析市场走势，预测C浪下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "基于ABC波浪理论，C浪可能到来。",
+      "图表分析支持市场下跌。",
+      "需要观察是否C浪启动。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "用户担心市场下跌，讨论风险如创业板跌3%。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创业板可能下跌3%，影响b浪反弹。",
+      "开盘可能大跌，但希望V型反弹。",
+      "关注兆易和德明利可能跌停。"
+    ],
+    "mentioned_stocks": ["兆易", "德明利"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论布伦特原油价格走势和地缘政治影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "原油价格可能因局势上涨或回落。",
+      "美国石油储备影响价格。",
+      "海峡封锁效应可能递减。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论韩国市场下跌对A股的影响，预期跟跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国市场下跌，A股可能跟跌。",
+      "预期开盘下跌，但部分板块可能稳住。",
+      "大A科技股可能已提前下跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "用户有资金到账，询问投资方向如科技股或空仓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "建议投资科技股或特定股票如688826。",
+      "有建议空仓或逆回购。",
+      "提到半导体、兆易、中际旭创等。"
+    ],
+    "mentioned_stocks": ["688826", "兆易", "中际旭创"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论买入中际旭创和新易盛，但用户已跑路担忧市场结束。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "担忧市场盛宴结束，及时跑路。",
+      "有人建议持有等待上涨。",
+      "中际旭创和新易盛可能面临回调。"
+    ],
+    "mentioned_stocks": ["中际旭创", "新易盛"]
+  },
+  {
+    "index": 19,
+    "summary": "预测硬科技股将经历C浪下跌，有人计划抄底。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "硬科技可能C杀，波浪理论应用。",
+      "有人计划在下跌时抄底接盘。",
+      "具体股票如赵姨可能大跌。"
+    ],
+    "mentioned_stocks": ["赵姨"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论今天市场关键，科技股风险高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股没本事做不了，等待回稳的投资者可能被套。",
+      "图表显示风险，前几天撤退。",
+      "高位大佬说反弹不是反转。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "宣布朱雀三号回收成功，期待商业航天上涨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "朱雀三号回收成功利好商业航天。",
+      "但担忧高开一日游，需观察。",
+      "视频证据支持成功。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "用户转向投资旅游股，讨论旅游板块机会和风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "旅游股可能在节日前上涨，但行业疲软。",
+      "具体股票如张家界、大连圣亚、长白山。",
+      "七夕概念股如好想你被提及。"
+    ],
+    "mentioned_stocks": ["张家界", "大连圣亚", "长白山", "好想你"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论国泰纳斯达克100 ETF额度开放，可能预示下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "额度开放可能代表要跌了。",
+      "费率高，筹码分配给散户。",
+      "建信纳斯达克作为比较。"
+    ],
+    "mentioned_stocks": ["国泰纳斯达克100 ETF", "建信纳斯达克"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论如何减少股市关注，平衡生活。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "炒股消耗精力，建议减少关注。",
+      "建议投资红利股躺平，如纳指、中远海控。",
+      "一键清仓或减仓。"
+    ],
+    "mentioned_stocks": ["纳指", "中远海控", "招商银行"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论晚上利空消息多，但怀疑消息面真实性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利空消息多，但可能是量化掩护。",
+      "建议卸载消息app，利空出尽是利好。",
+      "明天看韩国股市。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "推荐雷赛智能作为机器人零部件股，长期看好。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "雷赛智能低估，有潜力，目标价300元。",
+      "机器人零部件行业向上。",
+      "目标市值1000亿，营收利润增长。"
+    ],
+    "mentioned_stocks": ["雷赛智能", "拓普集团"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论阿联酋暂停与伊朗交易的经济影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "双边贸易规模大，暂停可能影响市场。",
+      "地缘局势升级，关注金融交易。",
+      "强调对话和合作承诺。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "讨论美债收益率高对美联储政策的影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美联储可能保持不变，通过言论控制市场。",
+      "高收益率压制科技股和黄金。",
+      "日元可能成为变数。"
+    ],
+    "mentioned_stocks": ["科技股", "黄金"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论OpenAI放缓扩展，可能利空AI相关股票。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "OpenAI放缓可能利空AI股票。",
+      "本质是华尔街杀多头。",
+      "可能只是假期暂停训练。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "讨论红利低波ETF的选择，关注成分股和银行占比。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "红利低波ETF成分股差别大，需仔细选择。",
+      "建议买具体股票或ETF如563020。",
+      "关注银行占比，或等新ETF上市。"
+    ],
+    "mentioned_stocks": ["563020中证红利低波"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论证券股投资，推荐ETF或具体股票如广发证券。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "证券ETF风险较低，适合投资。",
+      "广发证券走势好，上涨多下跌少。",
+      "东方财富可选，香港证券ETF T+0。"
+    ],
+    "mentioned_stocks": ["广发证券", "东方财富", "香港证券ETF"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论东鹏饮料股票持有和变盘可能。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股不行时，东鹏饮料可能上涨。",
+      "明天可能爽吃，但亏麻了等回本。",
+      "饮料板块可能有看头。"
+    ],
+    "mentioned_stocks": ["东鹏饮料", "茅台"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论美国暂停与伊朗接触的政策变化。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "特朗普政策转变，从重击到长期扼制伊朗。",
+      "暂停接触可能影响地缘政治和市场。",
+      "团队包括副总统万斯等。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论A股是否预判了美股下跌，有V型反弹。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "A股可能跟跌，但午后V型反弹。",
+      "半导体资金流出100亿，放量跌缩量涨。",
+      "质疑预判准确性，尾盘拉升可能坑散户。"
+    ],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论北京文化股票接盘风险，高换手率危险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "跌停接盘，60%换手率风险大。",
+      "影视题材炒作结束，可能A杀。",
+      "类似股票如中国电影、儒意也风险高。"
+    ],
+    "mentioned_stocks": ["北京文化", "中国电影", "儒意"]
+  },
+  {
+    "index": 36,
+    "summary": "调侃机构预判美股回调可能失误。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "机构预判可能失误，套牢风险。",
+      "预判对就夸，错就找理由。",
+      "昨天尾盘硬了下，美股终于回调。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "讨论美债收益率创新高，利空红利股和科技股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高收益率利空红利股和科技股。",
+      "投资者应清仓或减仓。",
+      "美国可能衰落，美债提前加息。"
+    ],
+    "mentioned_stocks": ["红利股", "科技股"]
+  },
+  {
+    "index": 38,
+    "summary": "预测半导体股下跌幅度，如3-4个点。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "半导体可能下跌3-4%，一路下杀。",
+      "纳指崩了，大跌1.5个点影响。",
+      "铁盒（可能指ETF）预计-7以上。"
+    ],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论宇树上市平淡原因，盘子小、时机不对。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市值小，关注度低，无人在意。",
+      "时机不对，机器人泡沫风险。",
+      "供应链如上纬新材涨了，但宇树平淡。"
+    ],
+    "mentioned_stocks": ["宇树", "上纬新材", "绿的谐波"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论某公告限制账户交易，但未停牌，风险观望。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "限制账户交易，但未停牌可能继续涨。",
+      "高标股被盯上，大资金限制购买。",
+      "风险高，建议观望。"
+    ],
+    "mentioned_stocks": ["高争"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论伊利股票是否可抄底，但可能继续跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "伊利跌多，但不一定涨，等中报。",
+      "消费股环境差，套牢盘多。",
+      "建议24元再考虑。"
+    ],
+    "mentioned_stocks": ["伊利"]
+  },
+  {
+    "index": 42,
+    "summary": "用户寻求股票卖出建议，可能需甩卖。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股票可能需甩卖，亏损严重。",
+      "具体股票如张江可能需处理。",
+      "建议亏到两万收手。"
+    ],
+    "mentioned_stocks": ["张江"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论市场指数显示大事可能发生，如共振大跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国内外指数都显示风险，可能共振大跌。",
+      "但有人认为指数强，每次托底。",
+      "体感市场弱，需回踩。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "询问紫光浪潮股票是否跟跌，可能情绪杀。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "开盘可能情绪杀，紫光有停工问题。",
+      "紫光浪潮今天已跌，可能继续跌。",
+      "等待开盘看走势。"
+    ],
+    "mentioned_stocks": ["紫光浪潮", "紫光"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论论坛大时代版块关闭和重开，与市场周期相关。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大时代可能在市场涨到4500时重开。",
+      "市场周期影响论坛，当前风险高。",
+      "怀念大时代，但现实不乐观。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "讨论明天市场是全面下跌还是特定板块如创新药撑住。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "可能全面下跌，美债塌缩风险。",
+      "宇树上市可能吸走资金，但市值小。",
+      "创新药可能撑起市场。"
+    ],
+    "mentioned_stocks": ["创新药", "宇树"]
+  },
+  {
+    "index": 47,
+    "summary": "七夕送股票话题，讨论七夕概念股。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "送股票作为七夕礼物，轻松话题。",
+      "七夕概念股如好想你被提及。",
+      "具体股票建议如北方华创、浪莎。"
+    ],
+    "mentioned_stocks": ["好想你", "北方华创", "洲明科技", "浪莎", "京东方", "传智教育"]
+  },
+  {
+    "index": 48,
+    "summary": "讨论市场跳水后可能V型反弹，商业航天可能受益。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跳水后可能反弹，但需观察。",
+      "商业航天可能吃肉，SPCX避风头。",
+      "具体ETF如SPCX，全仓埋伏。"
+    ],
+    "mentioned_stocks": ["SPCX"]
+  },
+  {
+    "index": 49,
+    "summary": "用户分享买入半导体ETF就亏损的经历。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "买入半导体设备ETF即亏，次次吃面。",
+      "建议买完发帖预警。",
+      "说明每次都买错了。"
+    ],
+    "mentioned_stocks": ["半导体设备ETF"]
+  },
+  {
+    "index": 50,
+    "summary": "讨论同花顺基金免申购费，费率比较。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "同花顺有0折卡免申购费。",
+      "支付宝也有类似券，费率比较。",
+      "最低投100，方便。"
+    ],
+    "mentioned_stocks": ["同花顺基金"]
+  }
+]
