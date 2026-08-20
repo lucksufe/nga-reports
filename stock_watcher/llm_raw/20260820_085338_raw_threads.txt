@@ -1,0 +1,550 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论国产替代股票估值过高、炒作现象及海外链风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国产替代估值太高导致炒作不起来",
+      "估值高是资金追捧的结果",
+      "海外链面临外部不可控风险"
+    ],
+    "mentioned_stocks": ["宁德时代", "比亚迪", "华为"]
+  },
+  {
+    "index": 2,
+    "summary": "商业航天板块因发射失败而暴跌，投资者亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "发射失败导致板块暴跌",
+      "该板块风险高，狗都不买",
+      "投资者抱怨亏损"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "推荐基因测序股票，特别是华大智造，看好AI+医药前景。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "基因测序是AI+医药的未来",
+      "华大智造是A股基因测序龙头",
+      "美股基因测序板块上涨传导"
+    ],
+    "mentioned_stocks": ["华大智造", "华大基因", "艾德生物", "Tempus A", "XBI", "标普生物科技ETF"]
+  },
+  {
+    "index": 4,
+    "summary": "预测韩国股市高开低走，影响A股走势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国市场可能高开低走",
+      "A股可能跟跌",
+      "市场情绪悲观"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "预测股市低开低走，尾盘短暂反弹后继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场可能低开低走",
+      "尾盘有短暂反弹",
+      "后续继续下跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论长期持有股票的选择，推荐银行股或ETF。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "推荐银行股或ETF长期持有",
+      "股票锁仓风险大",
+      "需要超常忍耐力"
+    ],
+    "mentioned_stocks": ["工商银行", "长江电力", "511360", "QQQ", "VOO", "Spacex"]
+  },
+  {
+    "index": 7,
+    "summary": "询问投资黄金和XBI的风险，讨论黄金股预期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金股预期已走完",
+      "黄金投资需谨慎",
+      "XBI可能有机会"
+    ],
+    "mentioned_stocks": ["黄金", "XBI", "紫金矿业"]
+  },
+  {
+    "index": 8,
+    "summary": "A股市场走势受美股和韩国市场影响，跟跌不跟涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股跟跌不跟涨",
+      "美股和韩股影响大",
+      "市场情绪悲观"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "黄金投资论坛，讨论回调、策略及长期前景。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金短期可能回调",
+      "长期看好黄金",
+      "黄金股已下跌"
+    ],
+    "mentioned_stocks": ["黄金", "黄金股", "GDX"]
+  },
+  {
+    "index": 10,
+    "summary": "美国对伊朗制裁，讨论对市场影响有限。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "制裁影响有限",
+      "主要看中国反应",
+      "可能影响A股科技股"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "利通电子因外围利空、高位定增等因素下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "外围利空导致下跌",
+      "高位定加加剧下跌",
+      "投资者亏损抱怨"
+    ],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 12,
+    "summary": "预测A股开盘走势，不看好高开。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股高开可能跑",
+      "纳指和韩国红但A股可能跟跌",
+      "市场情绪悲观"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "机构抄底ETF，散户抱怨被割韭菜。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "机构抄底ETF",
+      "散户被割韭菜",
+      "市场由庄家控制"
+    ],
+    "mentioned_stocks": ["ETF", "沪深300ETF华泰柏瑞"]
+  },
+  {
+    "index": 14,
+    "summary": "用博弈论比喻股市利益分配，讨论接受或拒绝。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "博弈论在股市中的应用",
+      "接受或拒绝取决于心态",
+      "现实中双输可能更好"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "美债危机可能延迟爆发，风险持续存在。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美债危机可能延迟爆发",
+      "风险持续存在",
+      "其他资产上涨因美债问题"
+    ],
+    "mentioned_stocks": ["美债"]
+  },
+  {
+    "index": 16,
+    "summary": "SpaceX估值被质疑过高，基于AI炒作。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "SpaceX估值虚高",
+      "基于AI炒作",
+      "投资风险高"
+    ],
+    "mentioned_stocks": ["SpaceX", "特斯拉", "Grok"]
+  },
+  {
+    "index": 17,
+    "summary": "A股科技股全面下跌，美股医药股上涨但A股药不跟。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股科技股全面下跌",
+      "美股医药股上涨但A股药不跟",
+      "中国创新药追赶难度大"
+    ],
+    "mentioned_stocks": ["药明康德", "创新药ETF"]
+  },
+  {
+    "index": 18,
+    "summary": "宝丰股票业绩好但可能不被看好。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "宝丰业绩好",
+      "逆势上涨",
+      "但需谨慎"
+    ],
+    "mentioned_stocks": ["宝丰"]
+  },
+  {
+    "index": 19,
+    "summary": "预测明天股市继续下跌，投资者清仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "明天可能继续跌",
+      "投资者清仓",
+      "黄金可能避险"
+    ],
+    "mentioned_stocks": ["粮食ETF", "黄金"]
+  },
+  {
+    "index": 20,
+    "summary": "利通电子可能继续下跌，高风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利通电子高风险",
+      "定增利空",
+      "投资者考虑补跌"
+    ],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 21,
+    "summary": "韩国和纳斯达克反弹，A股估值高可能跟跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国市场可能反弹",
+      "纳斯达克跌幅小",
+      "A股估值高"
+    ],
+    "mentioned_stocks": ["费城半导体指数", "纳斯达克"]
+  },
+  {
+    "index": 22,
+    "summary": "分享股市相关AI短剧，娱乐放松。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "AI短剧制作精良",
+      "反映股市心态",
+      "用户好评"
+    ],
+    "mentioned_stocks": ["可口可乐", "苹果"]
+  },
+  {
+    "index": 23,
+    "summary": "质疑东升西落在股市中的真实性，中国产业变成周期股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "东升西落是故事",
+      "股市中不成立",
+      "中国产业变成周期股"
+    ],
+    "mentioned_stocks": ["光伏", "电池", "汽车"]
+  },
+  {
+    "index": 24,
+    "summary": "韩国股市高开低走，A股可能跟跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国股市高开低走",
+      "A股可能跟跌",
+      "市场情绪悲观"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "股市下跌导致投资者利润回吐，亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股市下跌导致利润回吐",
+      "投资者亏损",
+      "市场波动大"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 26,
+    "summary": "寻找A股创新药投资机会，看好药明康德。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "美股Moderna上涨带动创新药",
+      "A股创新药ETF可能有机会",
+      "药明康德是龙头"
+    ],
+    "mentioned_stocks": ["Moderna", "创新药ETF", "药明康德", "英矽", "标普生物科技ETF", "港股生物科技ETF"]
+  },
+  {
+    "index": 27,
+    "summary": "Moderna股价大涨，投资者后悔买少。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "Moderna股价大涨",
+      "投资者赚了但后悔买少",
+      "T+0和无涨跌幅限制的好处"
+    ],
+    "mentioned_stocks": ["Moderna"]
+  },
+  {
+    "index": 28,
+    "summary": "预测黄金股是否跟随黄金价格上涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金股可能不立即上涨",
+      "黄金股调整中",
+      "长期看好黄金"
+    ],
+    "mentioned_stocks": ["黄金", "黄金股", "美股黄金矿业股ETF"]
+  },
+  {
+    "index": 29,
+    "summary": "暗示牛市与黄金上涨相关。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "牛市颜色是黄色（指黄金）",
+      "特朗普概念"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 30,
+    "summary": "昆仑万维业绩扭亏，AI短剧业务增长。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "昆仑万维扭亏",
+      "AI短剧业务增长",
+      "投资者期待上涨"
+    ],
+    "mentioned_stocks": ["昆仑万维"]
+  },
+  {
+    "index": 31,
+    "summary": "股市投资困难，投资者亏损，建议买ETF。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股市投资难",
+      "短线亏损",
+      "建议买ETF或银行股"
+    ],
+    "mentioned_stocks": ["ETF", "标普500指数基金", "纳斯达克100指数基金"]
+  },
+  {
+    "index": 32,
+    "summary": "看好中钨高新，目标价100。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "中钨高新目标价100",
+      "钨有逻辑和前景",
+      "但需谨慎入场"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 33,
+    "summary": "海力士韩国股价盘前上涨，可能高开低走。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "海力士韩股盘前上涨",
+      "可能高开低走",
+      "回购影响股价"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 34,
+    "summary": "全球硬件股普遍高开低走。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "硬件股高开低走",
+      "市场对AI硬件信心不足"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论股市预测老师的准确性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "预测老师可能准确",
+      "但无人能持续预测",
+      "可能是骗子"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "ETF大幅下跌，投资者抱怨市场波动大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "ETF下跌8%",
+      "市场波动大",
+      "投资与投机混淆"
+    ],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 37,
+    "summary": "预测八月股市下跌，等待英伟达财报。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "八月股市无望",
+      "指数可能到3720",
+      "等待英伟达财报"
+    ],
+    "mentioned_stocks": ["上证指数", "英伟达"]
+  },
+  {
+    "index": 38,
+    "summary": "完美世界游戏《异环》流水高，可能推动股价。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "《异环》流水超20亿",
+      "国际服表现好",
+      "但流水不等于利润"
+    ],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 39,
+    "summary": "英伟达H200进口放松，可能利空国产半导体。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "英伟达H200进口放松",
+      "利空国产半导体",
+      "市场反应平淡"
+    ],
+    "mentioned_stocks": ["英伟达", "国产半导体股", "利通电子", "韩无忌"]
+  },
+  {
+    "index": 40,
+    "summary": "猜测黄金上涨因外资消息。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金上涨可能因外资",
+      "港股交易",
+      "黄金股投资"
+    ],
+    "mentioned_stocks": ["黄金", "黄金股", "ETF"]
+  },
+  {
+    "index": 41,
+    "summary": "询问谁在下跌日盈利，少数用户分享。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "少数用户盈利",
+      "红利股或ETF",
+      "早上跑路"
+    ],
+    "mentioned_stocks": ["哈三联", "中远海控", "红利股", "ETF"]
+  },
+  {
+    "index": 42,
+    "summary": "野村给宇树科技高目标价，估值有质疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "宇树科技目标价370",
+      "估值可能过高",
+      "依赖机器人业务"
+    ],
+    "mentioned_stocks": ["宇树科技", "长鑫", "腾讯"]
+  },
+  {
+    "index": 43,
+    "summary": "美国财政部回购美债，认为是短期操作，危机未解。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "回购美债是短期操作",
+      "美债危机未解决",
+      "可能引发经济危机"
+    ],
+    "mentioned_stocks": ["美债", "纳斯达克"]
+  },
+  {
+    "index": 44,
+    "summary": "A股黄金股提前预判国际金价走势。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "黄金股资金预判准",
+      "可作风向标",
+      "可能内幕资金"
+    ],
+    "mentioned_stocks": ["黄金股", "赤峰黄金"]
+  },
+  {
+    "index": 45,
+    "summary": "买入Moderna支持创新，股价上涨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "Moderna是改变人类的公司",
+      "股价上涨",
+      "靶向治疗价格高"
+    ],
+    "mentioned_stocks": ["MRNA"]
+  },
+  {
+    "index": 46,
+    "summary": "询问沪硅走势，看跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "沪硅可能下跌",
+      "硅片界表现差",
+      "跟随半导体板块"
+    ],
+    "mentioned_stocks": ["沪硅", "有研硅", "西安硅", "立昂微"]
+  },
+  {
+    "index": 47,
+    "summary": "分析苹果上涨可能因避险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "苹果上涨可能因避险",
+      "类似茅台",
+      "与AI硬件对手盘"
+    ],
+    "mentioned_stocks": ["苹果", "茅台", "海力士", "美光"]
+  },
+  {
+    "index": 48,
+    "summary": "询问紫光和浪潮是否跟跌，担忧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "紫光和浪潮可能跟跌",
+      "紫光有囤地问题",
+      "科技股风险"
+    ],
+    "mentioned_stocks": ["紫光", "浪潮"]
+  },
+  {
+    "index": 49,
+    "summary": "希望明天股市上涨，纳斯达克和黄金上涨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "纳斯达克和黄金上涨",
+      "A股可能跟涨",
+      "但需观察"
+    ],
+    "mentioned_stocks": ["纳斯达克", "黄金", "A股"]
+  },
+  {
+    "index": 50,
+    "summary": "完美世界股价下跌，预期降低，等待抄底。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "完美世界股价下跌",
+      "游戏业务表现一般",
+      "等待抄底"
+    ],
+    "mentioned_stocks": ["完美世界", "网易"]
+  }
+]
