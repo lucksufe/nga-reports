@@ -1,0 +1,347 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "讨论电力板块走势独立，不跟其他板块涨跌，投资者感到困惑。",
+        "sentiment": "mixed",
+        "key_opinions": ["电力板块与科技、银行等板块走势脱钩。", "电力有自己的走势逻辑，中长线看财报。", "电力缺乏自主能力，只看大盘脸色。"],
+        "mentioned_stocks": ["电力ETF"]
+    },
+    {
+        "index": 2,
+        "summary": "用户全仓中钨高新并坚定看多，目标价100元，社区对此有讨论和质疑。",
+        "sentiment": "positive",
+        "key_opinions": ["全仓看多中钨高新，长期持有。", "目标价100元，认为有基本面支撑。", "社区成员询问定价逻辑和走势预测。"],
+        "mentioned_stocks": ["中钨高新"]
+    },
+    {
+        "index": 3,
+        "summary": "质疑韩国海力士回购和美国创新药突破对A股的影响，讨论市场关联性。",
+        "sentiment": "mixed",
+        "key_opinions": ["认为外围事件对A股影响是情绪映射。", "从供应链角度解释关联，A股公司是供应商。", "市场走势缺乏现实逻辑，跟随情绪。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 4,
+        "summary": "用户因段永平推荐泡泡玛特和茅台而粉转黑，讨论其投资决策。",
+        "sentiment": "negative",
+        "key_opinions": ["不认可段永平对茅台和泡泡玛特的吹捧。", "认为段永平也有做错投资决策的时候。", "不应完全否定一个投资人。"],
+        "mentioned_stocks": ["泡泡玛特", "茅台"]
+    },
+    {
+        "index": 5,
+        "summary": "讨论“国家队”（汪汪队）今日操作，为何有拉升又有打压，分析ETF资金流向。",
+        "sentiment": "mixed",
+        "key_opinions": ["国家队早盘拉升后遭遇抛压。", "ETF资金流出，机构可能在调仓。", "市场下跌与股指交割等事件相关。"],
+        "mentioned_stocks": ["沪深300ETF"]
+    },
+    {
+        "index": 6,
+        "summary": "指出大盘持续缩量，认为横盘难以持续，市场可能面临下跌。",
+        "sentiment": "negative",
+        "key_opinions": ["再怎么拉指数也白搭。", "缩量后市场可能崩盘。", "等待崩盘后抄底。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 7,
+        "summary": "认为论坛活跃度下降（缩量）是市场见底信号，引发不同解读。",
+        "sentiment": "mixed",
+        "key_opinions": ["论坛发帖量减少，市场情绪低迷。", "缩量是利空信号，要卖出。", "缩量是利好信号，恐慌时应贪婪买入。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 8,
+        "summary": "对比英维克业绩暴雷大跌与飞龙股份业绩差却涨停的现象，讨论市场非理性。",
+        "sentiment": "mixed",
+        "key_opinions": ["机构不维护股价，散户承受下跌。", "英维克预期已被打没，飞龙预期低。", "炒股反人性，分歧时容易拉升。"],
+        "mentioned_stocks": ["英维克", "飞龙股份"]
+    },
+    {
+        "index": 9,
+        "summary": "争论国家队是否存在，讨论其具体机构和操作行为。",
+        "sentiment": "mixed",
+        "key_opinions": ["中央汇金等机构就是国家队，是明牌。", "国家队操作有神秘之处。", "跟随国家队操作有时机问题。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 10,
+        "summary": "询问海皇（可能指招商轮船）股价情况，讨论之前卖出者是否还有机会。",
+        "sentiment": "negative",
+        "key_opinions": ["认为可能见不到15元的海皇了。", "现在价格很难上车。", "前期高点卖出的投资者感到后悔。"],
+        "mentioned_stocks": ["海皇"]
+    },
+    {
+        "index": 11,
+        "summary": "询问开盘大量股票下跌的原因，归因于外围市场影响和脆弱情绪。",
+        "sentiment": "negative",
+        "key_opinions": ["美债等外围风吹草动引发下跌。", "A股资金软骨头，比谁跑得快。", "市场泥沙俱下，极度疲弱。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 12,
+        "summary": "讨论宇树科技的客观估值，市场对其价值分歧巨大。",
+        "sentiment": "mixed",
+        "key_opinions": ["估值难以客观，按PE只有几百亿。", "考虑到叙事，开盘价被顶得太高。", "行业竞争激烈，目前看不到行业壁垒。"],
+        "mentioned_stocks": ["宇树科技"]
+    },
+    {
+        "index": 13,
+        "summary": "讨论长鑫存储和中芯国际是否有技术含量及各自定位。",
+        "sentiment": "mixed",
+        "key_opinions": ["晶圆代工非常有技术含量。", "与国际巨头比差距仍大。", "逻辑芯片（中芯）比存储（长鑫）技术含量更高。"],
+        "mentioned_stocks": ["长鑫存储", "中芯国际"]
+    },
+    {
+        "index": 14,
+        "summary": "讨论中国平安在“老登”股中的性价比，认为其估值低且被低估。",
+        "sentiment": "positive",
+        "key_opinions": ["PE低，股息率高，性价比突出。", "业务增长，理财收益好，被低估。", "保险主业的“三差”控制得好。"],
+        "mentioned_stocks": ["中国平安", "格力电器"]
+    },
+    {
+        "index": 15,
+        "summary": "对比韩国股市收复跌幅与A股表现，赞扬其市场机制和回购力度。",
+        "sentiment": "mixed",
+        "key_opinions": ["韩国是“正规市场”，真金白银维护股价。", "韩国举国做多存储半导体板块。", "A股缺乏类似力度的市场维护。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 16,
+        "summary": "分析美股杀科技但药涨，A股却全面下跌的原因，讨论医药板块中外差异。",
+        "sentiment": "negative",
+        "key_opinions": ["A股直接“杀光”，市场脆弱。", "A股预判美股下跌，先行调整。", "中美创新药行业环境差异巨大。"],
+        "mentioned_stocks": ["药明康德"]
+    },
+    {
+        "index": 17,
+        "summary": "将当前市场与4月7日进行技术图形类比，讨论其合理性。",
+        "sentiment": "mixed",
+        "key_opinions": ["图形相似，都是暴力调整后反弹再缩量。", "但当前外围市场环境与当时不同。", "刻舟求剑无意义，个股位置差异大。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 18,
+        "summary": "探讨A股科技板块何时开始纯粹映射外围市场走势。",
+        "sentiment": "negative",
+        "key_opinions": ["A股科技股本质是吃外围订单。", "处于产业链跟从地位，缺乏定价权。", "外围不崩，A股科技难有独立行情。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 19,
+        "summary": "讨论创新药板块是否已死，以及是否可以抄底。",
+        "sentiment": "mixed",
+        "key_opinions": ["认为是洗盘，故事刚开始要早信。", "建议暂时别碰，等待更明确信号。", "有资金流入相关ETF，可考虑港股药ETF。"],
+        "mentioned_stocks": ["创新药ETF", "沃森生物"]
+    },
+    {
+        "index": 20,
+        "summary": "抱怨买入宇树科技后连续大跌，询问还会跌到何时，感到扛不住。",
+        "sentiment": "negative",
+        "key_opinions": ["预测会跌破600元甚至更低。", "股票没有业绩支撑，纯属赌博。", "类似“遥控玩具”，估值再腰斩也贵。"],
+        "mentioned_stocks": ["宇树科技"]
+    },
+    {
+        "index": 21,
+        "summary": "将美国比作银行、美债比作银行理财，分析美债问题的类比逻辑。",
+        "sentiment": "mixed",
+        "key_opinions": ["美债像理财，但钱被用于战争且挥霍。", "美债利率高企，反映信用和偿还能力问题。", "美国国力衰退，引发对长期债务的担忧。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 22,
+        "summary": "用户通过“做法”祈求科技股（CPO、半导体等）回暖，反映绝望与调侃。",
+        "sentiment": "mixed",
+        "key_opinions": ["通过跳大神方式祈求科技股上涨。", "被认为“越做越死得快”。", "反映科技股投资者的深度套牢与无奈。"],
+        "mentioned_stocks": ["CPO", "PCB", "半导体", "光纤", "存储芯片"]
+    },
+    {
+        "index": 23,
+        "summary": "用户分享连续亏损记录，寻求安慰和建议，讨论当前困境。",
+        "sentiment": "mixed",
+        "key_opinions": ["连续亏损，但仍在坚持。", "有人鼓励为改变命运而战。", "建议审视资金性质，中长线可装死。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 24,
+        "summary": "求助因追涨哈三联被套死在跌停，讨论打板失败后的应对策略。",
+        "sentiment": "negative",
+        "key_opinions": ["打板就是赌大小，愿赌服输。", "应果断止损，尤其在龙头走弱时。", "选股能力差，买入即跌停。"],
+        "mentioned_stocks": ["哈三联", "哈药"]
+    },
+    {
+        "index": 25,
+        "summary": "惊讶于数字货币板块再次被炒作，认为其行情不持续且风险高。",
+        "sentiment": "mixed",
+        "key_opinions": ["数字货币时不时会抽风炒一下。", "是美股相关概念的跟风炒作。", "有历史被割肉的不好回忆。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 26,
+        "summary": "询问胜宏科技当前价格是否适合买入，讨论其风险与机会。",
+        "sentiment": "mixed",
+        "key_opinions": ["250元是平台底部，可分批建仓。", "按波浪理论，当前处于反弹尾声风险大。", "股价可能已提前反映Q3业绩预期。"],
+        "mentioned_stocks": ["胜宏科技"]
+    },
+    {
+        "index": 27,
+        "summary": "讨论让家人开户买银行股吃股息以覆盖贷款的可行性，多数建议谨慎。",
+        "sentiment": "mixed",
+        "key_opinions": ["建议先偿还贷款再投资。", "当前红利股价格偏高，风险大。", "若长期持有获取稳定现金流需想清楚。"],
+        "mentioned_stocks": ["工商银行"]
+    },
+    {
+        "index": 28,
+        "summary": "抱怨某只被称为“大哥”的科技股（可能指光模块龙头）近期表现疲软。",
+        "sentiment": "negative",
+        "key_opinions": ["大哥股已经软了很久，跑不赢ETF。", "需等待业绩释放。", "板块内部有轮动，龙头交接。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 29,
+        "summary": "观察并讨论当日成交量可能跌破2万亿，显示市场活跃度下降。",
+        "sentiment": "negative",
+        "key_opinions": ["成交量持续萎缩。", "预期未来量能可能更低。", "投资者准备“装死”观望。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 30,
+        "summary": "描述市场无量、无涨无跌的死寂状态，比喻为入定或圆寂。",
+        "sentiment": "negative",
+        "key_opinions": ["市场如入定般毫无波动。", "没有动静意味着市场“死了”。", "投资者情绪麻木。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 31,
+        "summary": "争论人形机器人第一股是谁，质疑当前行业的可行性和龙头地位。",
+        "sentiment": "mixed",
+        "key_opinions": ["人形机器人目前无法实际应用。", "宇树科技研发费用低，无壁垒。", "未来可能被有造车经验的厂商取代。"],
+        "mentioned_stocks": ["宇树科技", "优必选"]
+    },
+    {
+        "index": 32,
+        "summary": "批评宇树科技新股上市机制，机构配售部分可迅速流通套利。",
+        "sentiment": "negative",
+        "key_opinions": ["机构网下配售可自由流通，套现百亿。", "上市机制对散户不公平。", "500多倍PE的股票本质是赌博。"],
+        "mentioned_stocks": ["宇树科技"]
+    },
+    {
+        "index": 33,
+        "summary": "讨论社会对炒股的负面刻板印象，认为源于A股市场长期表现不佳。",
+        "sentiment": "mixed",
+        "key_opinions": ["二三线城市视炒股如赌博。", "根本原因是A股缺乏稳定赚钱效应。", "大部分散户亏损加剧了负面看法。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 34,
+        "summary": "空仓者观望市场，提醒不要追高，认为不涨就是熊市。",
+        "sentiment": "negative",
+        "key_opinions": ["不涨到4000点就是熊市。", "提醒不要追高，可能被套。", "市场只有连板票有赚钱效应。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 35,
+        "summary": "分享操作：清仓雷赛智能，买入沃森生物，并讨论板块轮动。",
+        "sentiment": "mixed",
+        "key_opinions": ["雷赛智能有基本面，错杀后可格局。", "药板块成避险选择。", "哈药翘板是自救，无持续性。"],
+        "mentioned_stocks": ["雷赛智能", "沃森生物", "哈药股份"]
+    },
+    {
+        "index": 36,
+        "summary": "认为市场情况恶劣，资金通过打压其他板块来集中做多某个板块。",
+        "sentiment": "negative",
+        "key_opinions": ["资金为做多某板块不惜打压对手。", "导致全市场虹吸，涨少跌多。", "没有增量资金，只有存量博弈。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 37,
+        "summary": "抱怨市场每天高开低走的模式，无人接盘导致持续下跌。",
+        "sentiment": "negative",
+        "key_opinions": ["每天都是同样高开低走的剧本。", "市场缩量，投资者被套牢。", "没有新资金入场接盘。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 38,
+        "summary": "询问哈药股份今日大跌原因，已知是昨日触及异动规则的结果。",
+        "sentiment": "negative",
+        "key_opinions": ["昨日触及交易异动，今日受限制。", "再涨可能停牌，只能选择向下。", "是预期中的控盘大师操作。"],
+        "mentioned_stocks": ["哈药股份"]
+    },
+    {
+        "index": 39,
+        "summary": "比较机器人（植物人）和商业航天两个概念板块，均不被看好。",
+        "sentiment": "negative",
+        "key_opinions": ["两个板块都靠炒作，缺乏业绩。", "机器人有汽配作为基本盘，稍好。", "商业航天纯属吹炒，风险极高。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 40,
+        "summary": "指出火电股业绩大幅下滑，基本面恶化，受煤价和电价双杀。",
+        "sentiment": "negative",
+        "key_opinions": ["火电股业绩全面下滑，低于预期。", "受煤价上涨和电价下滑双暴击。", "新能源发电挤压火电空间。"],
+        "mentioned_stocks": ["华能国际", "国电电力", "陕西能源", "中国神华", "长江电力"]
+    },
+    {
+        "index": 41,
+        "summary": "讨论是否要赌中际旭创周末发的财报，多数意见认为没必要。",
+        "sentiment": "mixed",
+        "key_opinions": ["财报预期已较为明牌，难有惊喜。", "机构可能利用财报进行洗盘操作。", "赌财报是高难度作业，十赌九输。"],
+        "mentioned_stocks": ["中际旭创"]
+    },
+    {
+        "index": 42,
+        "summary": "认为通富微电、深科技等股出现便宜筹码可抄底，但被建议谨慎。",
+        "sentiment": "mixed",
+        "key_opinions": ["认为某些股票已跌出价值。", "多数人认为现在抄底会“包死”。", "建议等待更明确的企稳信号。"],
+        "mentioned_stocks": ["通富微电", "深科技"]
+    },
+    {
+        "index": 43,
+        "summary": "呼唤比亚迪上涨，讨论其板块属性随科技股涨跌而摇摆。",
+        "sentiment": "positive",
+        "key_opinions": ["科技涨时比亚迪被视为传统股（老登）。", "科技跌时又被视为真科技股。", "看好其业绩和高端车型趋势。"],
+        "mentioned_stocks": ["比亚迪"]
+    },
+    {
+        "index": 44,
+        "summary": "展示并买入场外纳指、标普等海外ETF，视为避险或跟风选择。",
+        "sentiment": "mixed",
+        "key_opinions": ["“打不过就加入”，转向海外市场。", "投资额小，像买奶茶一样尝试。", "至少不会像A股一样被深套。"],
+        "mentioned_stocks": ["纳指ETF", "标普ETF", "日经ETF", "富时ETF"]
+    },
+    {
+        "index": 45,
+        "summary": "提醒市场将留下“鱼钩”吸引投资者，建议抓紧逃跑。",
+        "sentiment": "negative",
+        "key_opinions": ["预判今天行情会复制昨天（下跌）。", "市场有诱多陷阱（鱼钩）。", "提醒投资者抓紧卖出。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 46,
+        "summary": "尝试抄底某光模块股（thesai），但对其走势感到担忧。",
+        "sentiment": "mixed",
+        "key_opinions": ["试图在下跌中抄底（捡尸体）。", "抄底后股价表现很弱。", "有投资者已卖出避险。"],
+        "mentioned_stocks": ["thesai"]
+    },
+    {
+        "index": 47,
+        "summary": "认为主力在刻意制造双底形态，但主力资金可能已在撤离。",
+        "sentiment": "negative",
+        "key_opinions": ["主力刻意引导市场做双底图形。", "但大资金离场态度坚决。", "双底可能是散户的一厢情愿。"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 48,
+        "summary": "关注海皇（招商轮船）持续上涨，并询问原因。",
+        "sentiment": "positive",
+        "key_opinions": ["股价快接近17元。", "整个航运板块运费上涨，形成合力。", "已正式加入“船帮”看好后续。"],
+        "mentioned_stocks": ["海皇", "招商轮船"]
+    },
+    {
+        "index": 49,
+        "summary": "惊呼海皇再次涨停，社区反应包括后悔、调侃和忠诚表态。",
+        "sentiment": "positive",
+        "key_opinions": ["股价持续上涨，让人感到陌生。", "早期卖出者感到后悔。", "投资者表示“忠诚”跟随。"],
+        "mentioned_stocks": ["海皇"]
+    }
+]
+```
