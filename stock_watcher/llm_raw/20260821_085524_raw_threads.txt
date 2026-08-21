@@ -1,0 +1,552 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论日韩股市稳定，A股可能跟随下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "日经和KOSPI稳定",
+      "A股被过度反应",
+      "预计A股9点半开跌"
+    ],
+    "mentioned_stocks": ["日经指数", "KOSPI指数"]
+  },
+  {
+    "index": 2,
+    "summary": "用户分享宇树股票亏损经历，讨论股价下跌风险和估值问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价可能跌破600",
+      "估值过高无业绩支撑",
+      "类似杀猪盘"
+    ],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论能源股前景，石油价格影响，航司等板块表现。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "石油高位利好采油股",
+      "航司可能价值洼地但风险高",
+      "南航股价低迷"
+    ],
+    "mentioned_stocks": ["南航"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论韩国股市上涨原因，涉及三星和海力士。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "三星回购刺激股价",
+      "海力士接力上涨",
+      "美股存储股上涨影响"
+    ],
+    "mentioned_stocks": ["三星", "海力士"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论美债收益率上升，日元贬值，日本经济困境。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "日元单向贬值",
+      "日本通胀可能爆炸",
+      "日央行加息困境"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论国家队在股市中的作用，以汇金为例。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国家队存在如汇金",
+      "操作明牌",
+      "跟随国家队可能错过机会"
+    ],
+    "mentioned_stocks": ["汇金", "沪深300"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论技术突破新闻减少，市场情绪变化。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "技术突破新闻减少",
+      "套定律成为炒作信号",
+      "等待新机发布"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "用户分享母亲投资经历，涉及打新和宇树。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫打新盈利",
+      "宇树打新未中",
+      "账户整体盈利"
+    ],
+    "mentioned_stocks": ["宇树", "长鑫"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论美股下跌对A股影响，A股可能跟跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳斯达克跌，A股可能跌更多",
+      "创业板可能跌3%以上",
+      "外围影响大"
+    ],
+    "mentioned_stocks": ["纳斯达克指数", "创业板指数"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论红利ETF投资方法，强调长期持有。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "红利ETF年线持续上涨",
+      "长期持有十年以上",
+      "股息率高于国债三倍时买"
+    ],
+    "mentioned_stocks": ["红利ETF", "工行"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论美债风险，美国经济困境，类比银行理财。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美债风险高",
+      "美国经济衰退",
+      "美元霸权受威胁"
+    ],
+    "mentioned_stocks": ["美债"]
+  },
+  {
+    "index": 12,
+    "summary": "分享低迷行情下的投资策略，如创新药板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "行情低迷震荡",
+      "创新药板块相对强势",
+      "等待升腾950量产"
+    ],
+    "mentioned_stocks": ["兴森", "华海", "杰华特"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论兆易创新回购注销行为，正面评价。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "回购注销比例类似海力士",
+      "对比宁德时代",
+      "好公司行为"
+    ],
+    "mentioned_stocks": ["兆易创新", "宁德时代", "海力士"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论宇树是否为机器人第一股，质疑其营销。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "营销第一但技术一般",
+      "面临竞争压力",
+      "盈利遥遥无期"
+    ],
+    "mentioned_stocks": ["宇树", "优必选", "比亚迪"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论可口可乐股价持续上涨，消费股表现。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "可口可乐股价持续上涨",
+      "消费再萎靡也喝得起可乐",
+      "全球消费市场大"
+    ],
+    "mentioned_stocks": ["可口可乐", "百事可乐"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论航天板块机会，但提醒风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "航天板块高风险",
+      "历史表现差",
+      "利好可能被抛"
+    ],
+    "mentioned_stocks": ["航天板块", "商航"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论价投在量化市场中的困难。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高位监控低位量化",
+      "价投难做",
+      "小道消息市场"
+    ],
+    "mentioned_stocks": ["恒瑞", "药明", "百济"]
+  },
+  {
+    "index": 18,
+    "summary": "分析宇树科技成功可能性低。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "依赖美国模式难成功",
+      "机器人行业竞争激烈",
+      "看好大厂如阿里字节"
+    ],
+    "mentioned_stocks": ["宇树", "优必选"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论A股科技股映射美股现象。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股科技纯映射美股",
+      "依赖外围订单",
+      "话语权弱"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论职业交易员多屏幕的使用情况。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "看新闻、股价、图表等",
+      "装逼可能",
+      "实用如日内交易"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论创新药板块因美股消息上涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股创新药上涨传导",
+      "A股创新药炒作",
+      "药明是核心"
+    ],
+    "mentioned_stocks": ["药明"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论事件对机器人板块的影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "事件导致板块下跌",
+      "影响投资者情绪",
+      "工作人员同意但被误解"
+    ],
+    "mentioned_stocks": ["机器人板块"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论美债风险和可能的QE。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "无限QE可能",
+      "美元霸权受威胁",
+      "代价大"
+    ],
+    "mentioned_stocks": ["美债"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论红利投资是否适合家人，有贷款背景。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "建议先还贷款",
+      "当前价位高",
+      "红利投资适合长期"
+    ],
+    "mentioned_stocks": ["红利ETF", "工行"]
+  },
+  {
+    "index": 25,
+    "summary": "用户寻找狼大投资总结PDF。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "寻找历史总结",
+      "学习情绪高涨",
+      "有分享链接"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论股票轮动现象，涉及做T。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股票轮动明显",
+      "国家队做T",
+      "房地产承担"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论美元兑人民币汇率能否跌至5。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "很难跌至5",
+      "中国干预汇率",
+      "取决于贸易顺差"
+    ],
+    "mentioned_stocks": ["美元", "人民币"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论美债崩盘可能利好人民币结算。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美债崩盘利好人民币概念",
+      "埋伏相关股票",
+      "黄金更靠谱"
+    ],
+    "mentioned_stocks": ["恒宝", "四方精创", "拉卡拉", "中油资本", "中国银行"]
+  },
+  {
+    "index": 29,
+    "summary": "推荐华大智造，看好基因测序板块。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "华大智造是基因检测真龙",
+      "AI+医药趋势",
+      "国产替代逻辑强"
+    ],
+    "mentioned_stocks": ["华大智造", "华大基因", "艾德生物"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论创新药板块回调风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创新药可能回调",
+      "受美股影响",
+      "做空机制修正估值"
+    ],
+    "mentioned_stocks": ["创新药板块"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论A股盘面疲软，等待外围信号。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "资金等外围反应",
+      "A股跟跌不跟涨",
+      "行情熊到极致"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "讨论谁是机器人第一股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "宇树不是第一",
+      "行业未成熟",
+      "看好车厂或大厂"
+    ],
+    "mentioned_stocks": ["宇树", "优必选", "国恩股份", "智元"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论赚钱时机，强调单边上涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "单边上涨赚钱",
+      "震荡行情难做",
+      "空仓保平安"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论美联储加息与长债收益率关系。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "加息可能压低长债收益率",
+      "市场预期通胀",
+      "美债信心丧失"
+    ],
+    "mentioned_stocks": ["美债"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论白糖价格上涨机会。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "印度取消关税刺激",
+      "白糖期货机会",
+      "战略资源小散难玩"
+    ],
+    "mentioned_stocks": ["中粮糖业"]
+  },
+  {
+    "index": 36,
+    "summary": "用户分享追高亏损经历。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "+5追高被套",
+      "每次选到最差票",
+      "创新药板块风险"
+    ],
+    "mentioned_stocks": ["太华路", "创新药板块"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论量化交易对个人的影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "量化像读心术",
+      "个人操作被反向",
+      "市场操纵感"
+    ],
+    "mentioned_stocks": ["闪迪", "美光"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论美债和油价上涨原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大资金逼宫",
+      "特朗普政策影响",
+      "长期走势独立"
+    ],
+    "mentioned_stocks": ["美债", "存储股票"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论美股存储股反弹。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "存储股修复",
+      "回购支撑",
+      "市场不稳定"
+    ],
+    "mentioned_stocks": ["闪迪", "海力士", "美光"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论莫德纳股价回调对A股影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "莫德纳回调",
+      "A股可能跟跌",
+      "哈药做局"
+    ],
+    "mentioned_stocks": ["莫德纳", "哈药"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论阿里巴巴财报对恒科影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "财报决定短期趋势",
+      "云服务超预期",
+      "中概互联网看好"
+    ],
+    "mentioned_stocks": ["阿里巴巴", "金山云", "恒科指数"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论美股医药股缺乏持续性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "医药股回调",
+      "长期涨幅大",
+      "和AI比差"
+    ],
+    "mentioned_stocks": ["礼来", "默沙东", "莫德纳", "IXJ"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论莫德纳股价剧烈波动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "莫德纳涨幅大",
+      "期权收益高",
+      "A股类似涨停"
+    ],
+    "mentioned_stocks": ["莫德纳"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论长鑫和中芯的技术实力。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫有技术含量",
+      "中芯代工技术高",
+      "比三星海力士差"
+    ],
+    "mentioned_stocks": ["长鑫", "中芯"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论黄金上涨对股市资金影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黄金涨抽干资金",
+      "紫金可能不被抽",
+      "黄金股不同"
+    ],
+    "mentioned_stocks": ["黄金", "紫金"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论贝森特关税政策对出口企业影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "关税收入恢复",
+      "出口企业遭重",
+      "内需板块避险"
+    ],
+    "mentioned_stocks": ["科技出口企业", "医药出口企业"]
+  },
+  {
+    "index": 47,
+    "summary": "讨论宇树科技合理估值。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "估值300-450亿",
+      "1000亿可能",
+      "依赖未来突破"
+    ],
+    "mentioned_stocks": ["宇树", "优必选"]
+  },
+  {
+    "index": 48,
+    "summary": "讨论美股下跌对A股必然影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美股跌A股跟跌",
+      "科技依赖美股",
+      "独立行情有限"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "用户询问今日盈利账户情况。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "航海人红",
+      "红利ETF可能红",
+      "小红盈利"
+    ],
+    "mentioned_stocks": ["航运股", "红利ETF"]
+  },
+  {
+    "index": 50,
+    "summary": "讨论明天市场下跌预期。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "AI利空未消化",
+      "美债问题",
+      "期指交割日风险"
+    ],
+    "mentioned_stocks": ["AI板块", "美债"]
+  }
+]
