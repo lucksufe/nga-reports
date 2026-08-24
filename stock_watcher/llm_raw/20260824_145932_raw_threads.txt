@@ -1,0 +1,338 @@
+[
+  {
+    "index": 1,
+    "summary": "帖子呼吁市场下跌，回复中表现出对抗、冷静或无奈情绪。",
+    "sentiment": "mixed",
+    "key_opinions": ["满仓对抗下跌", "建议淡定面对", "下跌是对嘴硬惩罚"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论中远海控股价暴涨原因，如运价上涨或被用作做空工具。",
+    "sentiment": "mixed",
+    "key_opinions": ["运价上涨驱动", "可能被做空利用", "持续上涨可能性低"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 3,
+    "summary": "抱怨兆易创新表现弱，与其他股票比较，讨论筹码和流动性。",
+    "sentiment": "negative",
+    "key_opinions": ["兆易创新筹码不干净", "与科创50走势相关", "估值可能偏高"],
+    "mentioned_stocks": ["兆易创新", "德明利", "科创50"]
+  },
+  {
+    "index": 4,
+    "summary": "惊讶于有研硅股价强劲反弹，与沪硅对比。",
+    "sentiment": "positive",
+    "key_opinions": ["有研硅表现猛", "与沪硅形成对比"],
+    "mentioned_stocks": ["有研硅", "沪硅"]
+  },
+  {
+    "index": 5,
+    "summary": "用暗恋比喻股市追高接盘的风险和困难。",
+    "sentiment": "negative",
+    "key_opinions": ["追高接盘风险大", "类似暗恋的失望经历"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "用户记录实盘，坚定看多中钨高新，目标价100。",
+    "sentiment": "positive",
+    "key_opinions": ["坚定看多中钨高新", "目标价100基于逻辑", "抄底时机存争议"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 7,
+    "summary": "疑惑股票“一鸣”炒作原因，可能与名字谐音或牛奶公司相关。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能纯属炒作", "涉及牛奶公司业务", "连锁店影响"],
+    "mentioned_stocks": ["一鸣"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论指数跌破后的下一个支撑点，如360日线或3000点。",
+    "sentiment": "negative",
+    "key_opinions": ["支撑点在360日线", "可能下探3000点", "市场悲观情绪浓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "批评投资者无法承受下跌，建议退出股市。",
+    "sentiment": "negative",
+    "key_opinions": ["投资者不适合股市", "市场波动正常", "对比美股表现"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "询问春秋电子股票情况，尾盘拉升含义不明。",
+    "sentiment": "mixed",
+    "key_opinions": ["尾盘拉升可能意味"],
+    "mentioned_stocks": ["春秋电子"]
+  },
+  {
+    "index": 11,
+    "summary": "在低迷行情下分享投资策略，讨论创新药和科技板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["创新药板块相对强势", "科技行情需等待机会", "建议轻仓或空仓"],
+    "mentioned_stocks": ["创新药", "科技ETF", "昇腾", "杰华特"]
+  },
+  {
+    "index": 12,
+    "summary": "用户以855价格上车“中大哥”，讨论后市和制裁影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["上车感受颠簸", "等更低点再买", "制裁影响长期"],
+    "mentioned_stocks": ["中大哥"]
+  },
+  {
+    "index": 13,
+    "summary": "记录量化交易实盘，讨论PTrade和QMT平台。",
+    "sentiment": "mixed",
+    "key_opinions": ["PTrade轻量化", "开通无门槛", "孤注一掷风险高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论宇树科技股价是否见底，机器人概念其他机会。",
+    "sentiment": "negative",
+    "key_opinions": ["宇树下跌可能过度", "其他机器人股票有机会", "人形机器人用途受限"],
+    "mentioned_stocks": ["宇树科技", "上纬新材", "绿地谐波", "中大力德", "中微公司"]
+  },
+  {
+    "index": 15,
+    "summary": "批评国家队救市无效，希望市场自然调整。",
+    "sentiment": "negative",
+    "key_opinions": ["救市行为无效", "类似抄底博反弹", "散户被收割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论放宽港股、美股入场要求对A股资金流出影响。",
+    "sentiment": "negative",
+    "key_opinions": ["限制防止资金外流", "港股美股更吸引", "韭菜被限制"],
+    "mentioned_stocks": ["港股", "美股", "A股"]
+  },
+  {
+    "index": 17,
+    "summary": "感觉所有股票都高位，难以入手投资。",
+    "sentiment": "negative",
+    "key_opinions": ["市场整体高位"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "用户加仓科技ETF，市场下跌中寻求安慰。",
+    "sentiment": "mixed",
+    "key_opinions": ["加仓筹码诱人", "可能继续下跌", "等待支撑点"],
+    "mentioned_stocks": ["科技ETF"]
+  },
+  {
+    "index": 19,
+    "summary": "用户跳车601919，等待市净率1.0再买回。",
+    "sentiment": "mixed",
+    "key_opinions": ["跳车止盈", "目标市净率1.0", "右侧信号注意"],
+    "mentioned_stocks": ["601919"]
+  },
+  {
+    "index": 20,
+    "summary": "传统股全红但上涨不多，疑问是否市场转好。",
+    "sentiment": "mixed",
+    "key_opinions": ["传统股微涨", "银行不拉则指数跌"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 21,
+    "summary": "预测中际旭创因中报影响而股价腰斩。",
+    "sentiment": "negative",
+    "key_opinions": ["成长股逻辑破灭", "动态PE估值高", "应收账款风险大"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 22,
+    "summary": "提醒中远海控净资产上涨，可能不再见15以下价格。",
+    "sentiment": "positive",
+    "key_opinions": ["净资产持续上涨", "分红除权影响", "长期看多"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 23,
+    "summary": "抱怨市场缺乏活力，被量化交易主导。",
+    "sentiment": "negative",
+    "key_opinions": ["市场诱多砸盘循环", "量化交易主导", "做空限制问题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "用户加回光模块仓位，看好右侧机会。",
+    "sentiment": "positive",
+    "key_opinions": ["右侧机会买入", "知行合一操作", "光模块前景看好"],
+    "mentioned_stocks": ["中际旭创", "东山", "源杰", "胜宏"]
+  },
+  {
+    "index": 25,
+    "summary": "在低迷行情中建议炒爱丽家居，盘面无趣。",
+    "sentiment": "negative",
+    "key_opinions": ["盘面昏昏欲睡", "爱丽家居可能有机会"],
+    "mentioned_stocks": ["爱丽家居", "兆易创新"]
+  },
+  {
+    "index": 26,
+    "summary": "询问购买美股的方法和额度限制。",
+    "sentiment": "mixed",
+    "key_opinions": ["正规途径是ETF和QDII", "有额度限制", "信息敏感"],
+    "mentioned_stocks": ["美股", "ETF", "QDII"]
+  },
+  {
+    "index": 27,
+    "summary": "抱怨海康威视股价坑人，像鱼钩钓散户。",
+    "sentiment": "negative",
+    "key_opinions": ["海康威视坑人", "类似鱼钩钓散户"],
+    "mentioned_stocks": ["海康威视"]
+  },
+  {
+    "index": 28,
+    "summary": "询问601919上涨原因，讨论其红利特性。",
+    "sentiment": "mixed",
+    "key_opinions": ["是红利票", "能赚钱分红", "大时代魅魔"],
+    "mentioned_stocks": ["601919"]
+  },
+  {
+    "index": 29,
+    "summary": "茅台上涨带动白酒板块，但讨论估值和风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["茅台赚钱但估值高", "白酒行业风险", "科技股更看好"],
+    "mentioned_stocks": ["茅台", "白酒", "紫金"]
+  },
+  {
+    "index": 30,
+    "summary": "市场早盘V型反弹，但被怀疑是诱多陷阱。",
+    "sentiment": "mixed",
+    "key_opinions": ["V型反弹可能骗炮", "有色板块V了", "头肩顶风险"],
+    "mentioned_stocks": ["有色", "黄金股"]
+  },
+  {
+    "index": 31,
+    "summary": "询问券商选择和融资利率，讨论成本。",
+    "sentiment": "mixed",
+    "key_opinions": ["融资利率5%觉得亏", "看资金量定", "不开两融"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "观测诺德股份，从沃森生物转仓并讨论止损。",
+    "sentiment": "mixed",
+    "key_opinions": ["沃森生物卖一半", "诺德股份进仓", "止损位需设定"],
+    "mentioned_stocks": ["诺德股份", "沃森生物"]
+  },
+  {
+    "index": 33,
+    "summary": "用户以-18%割肉宇树科技，抱怨新股坑人。",
+    "sentiment": "negative",
+    "key_opinions": ["宇树科技坑人", "新股风险高", "接盘责任自负"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 34,
+    "summary": "抱怨药明康德表现弱，归因于大盘下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["药明下跌因大盘", "创新药板块普跌", "建议去正规市场"],
+    "mentioned_stocks": ["药明康德", "创新药", "IQV"]
+  },
+  {
+    "index": 35,
+    "summary": "用户清仓撤退，留少量眼仓，期待大底。",
+    "sentiment": "mixed",
+    "key_opinions": ["清仓止盈", "留眼仓观望", "期待世纪大底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "怀念7月1日市场繁荣，感叹现在走熊。",
+    "sentiment": "negative",
+    "key_opinions": ["7月1日市场高点", "现在开始走熊", "半导体CPO神话破灭"],
+    "mentioned_stocks": ["半导体", "CPO"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论因股票投资而关注特定地区如江苏、伊朗。",
+    "sentiment": "mixed",
+    "key_opinions": ["江苏科技股火", "伊朗地区受关注", "武汉光谷相关"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "比较韩国股市技术调整与A股暴跌表现。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市回踩五日线", "A股暴跌", "A股预判美股走势"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "质疑牛市存在，市场下跌个股跌破年线。",
+    "sentiment": "negative",
+    "key_opinions": ["市场进入熊市", "个股跌破年线", "证监会暗示变化"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "纳指期货突然下跌，讨论亚洲空头等外部因素。",
+    "sentiment": "negative",
+    "key_opinions": ["亚洲空头影响", "美债危机可能", "外部因素冲击"],
+    "mentioned_stocks": ["纳指期货", "美债"]
+  },
+  {
+    "index": 41,
+    "summary": "贵金属股票下跌，讨论量化砸盘和预判。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化集体砸盘", "紫金老庄预判", "技术性回调"],
+    "mentioned_stocks": ["紫金矿业", "赤峰黄金"]
+  },
+  {
+    "index": 42,
+    "summary": "紫金矿业上涨，昵称大小姐，强调其努力。",
+    "sentiment": "positive",
+    "key_opinions": ["紫金努力上涨"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 43,
+    "summary": "市场普遍下跌，泥沙俱下。",
+    "sentiment": "negative",
+    "key_opinions": ["市场泥沙俱下"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "反思月初反弹是诱多陷阱，类似暧昧伤害。",
+    "sentiment": "negative",
+    "key_opinions": ["月初反弹是诱多", "追高被套", "类似暧昧伤害"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "美股大空头清仓阿里转投京东，讨论影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["不认同阿里配售", "京东可能有机会", "大空头历史参考"],
+    "mentioned_stocks": ["阿里巴巴", "京东"]
+  },
+  {
+    "index": 46,
+    "summary": "询问纳指能否新高，标普道指已创新高。",
+    "sentiment": "mixed",
+    "key_opinions": ["标普道指新高", "纳指滞后", "期货影响走势"],
+    "mentioned_stocks": ["纳指", "标普", "道指"]
+  },
+  {
+    "index": 47,
+    "summary": "感叹国外财报分析准确，赛力斯目标价调低。",
+    "sentiment": "mixed",
+    "key_opinions": ["国外分析有见地", "赛力斯目标价50", "花旗调低目标"],
+    "mentioned_stocks": ["赛力斯"]
+  },
+  {
+    "index": 48,
+    "summary": "标普场内ETF上涨，讨论A股资金流入等原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股资金流入ETF", "情绪发泄购买", "溢价高风险"],
+    "mentioned_stocks": ["标普ETF", "纳指ETF"]
+  }
+]
