@@ -1,0 +1,345 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论中概互联网股票下跌，特别是阿里巴巴的融资行为引发不满。",
+    "sentiment": "negative",
+    "key_opinions": ["中概互联是消费股但科技跌时也跌", "阿里巴巴要800亿融资被视为负面", "股民半山腰接盘定义为老登股"],
+    "mentioned_stocks": ["中概互联网", "阿里巴巴"]
+  },
+  {
+    "index": 2,
+    "summary": "A股市场反逻辑，光模块在利空后上涨，现在无利空却下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["光模块在禁令消息下上涨，现在无利空却下跌"],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 3,
+    "summary": "市场放量下跌，归因于美债危机发酵和银行避险拉升。",
+    "sentiment": "negative",
+    "key_opinions": ["官媒和自媒体报道美债危机导致下跌", "银行拉升可能是避险选择"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 4,
+    "summary": "市场反应离谱，量化交易导致股价快速波动，黄金板块放量。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化先兑现导致股价波动", "国家队玩超短", "黄金板块放量"],
+    "mentioned_stocks": ["紫金", "黄金板块"]
+  },
+  {
+    "index": 5,
+    "summary": "感觉市场高位，买啥都不对。",
+    "sentiment": "negative",
+    "key_opinions": ["买啥感觉都不对"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "询问北部湾港是否还有机会到20元，股价长期不涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价有出货风险", "可能九月份通航前要走"],
+    "mentioned_stocks": ["北部湾港"]
+  },
+  {
+    "index": 7,
+    "summary": "农业下跌，科技可能反弹，但持怀疑态度。",
+    "sentiment": "mixed",
+    "key_opinions": ["农业和科技不对盘", "科技利空多抛压大"],
+    "mentioned_stocks": ["农业", "科技"]
+  },
+  {
+    "index": 8,
+    "summary": "转折时间点，暗示3月事件影响市场。",
+    "sentiment": "mixed",
+    "key_opinions": ["3月发生了什么难猜"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "建议用券商防守，引用歌词调侃，但波动大。",
+    "sentiment": "mixed",
+    "key_opinions": ["券商可能防守但波动大"],
+    "mentioned_stocks": ["券商", "太平洋"]
+  },
+  {
+    "index": 10,
+    "summary": "质疑宇树机器人股票高估值，基金可能接盘。",
+    "sentiment": "negative",
+    "key_opinions": ["基金可能接盘给回扣", "高估值不合理"],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 11,
+    "summary": "硬科技可能开始下跌（c杀），预期明天看谁跑得快。",
+    "sentiment": "negative",
+    "key_opinions": ["明天看谁跑得快", "下跌时加仓"],
+    "mentioned_stocks": ["赵姨", "硬科技"]
+  },
+  {
+    "index": 12,
+    "summary": "宇树机器人解套难，除非技术突破如造出擎天柱。",
+    "sentiment": "negative",
+    "key_opinions": ["需要造出擎天柱级别机器人才能解套", "机器人技术不成熟"],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 13,
+    "summary": "红利股上涨，投资者困惑是否加仓，初衷是吃股息。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股涨了但初衷是吃股息", "建议卖出部分"],
+    "mentioned_stocks": ["红利股"]
+  },
+  {
+    "index": 14,
+    "summary": "观测中国平安，询问买入时机，长线看好短线风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["长线看好但短线风险", "港股溢价"],
+    "mentioned_stocks": ["中国平安"]
+  },
+  {
+    "index": 15,
+    "summary": "加仓光模块，认为右侧机会来了，积极操作。",
+    "sentiment": "positive",
+    "key_opinions": ["右侧机会来了要买", "追高买回光模块"],
+    "mentioned_stocks": ["光模块", "东山", "三弟", "源杰", "胜宏"]
+  },
+  {
+    "index": 16,
+    "summary": "海力士市盈率低但还在跌，市场流动性差。",
+    "sentiment": "negative",
+    "key_opinions": ["市场流动性差", "周期股在低PE时卖出"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论“龙哥”是否会救市，悲观认为可能不会花大钱。",
+    "sentiment": "negative",
+    "key_opinions": ["龙哥可能不会花大钱救市", "市场可能继续下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "一级市场对二级市场收割，不满分配不公。",
+    "sentiment": "negative",
+    "key_opinions": ["二级市场连汤都喝不到", "类比农民起义"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "化工三龙是否防守能力强，但已涨多需谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": ["化工股可能防守但已涨多"],
+    "mentioned_stocks": ["化工三龙", "金牛化工", "红宝丽", "中毅达", "赤天化", "宝丰", "卫星化学"]
+  },
+  {
+    "index": 20,
+    "summary": "批评A股为全球最垃圾市场，表达强烈不满。",
+    "sentiment": "negative",
+    "key_opinions": ["市场垃圾人太坏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "科技反弹但红利没加仓，感到遗憾。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利没加仓就反弹"],
+    "mentioned_stocks": ["科技", "红利"]
+  },
+  {
+    "index": 22,
+    "summary": "本月收益归零，感到沮丧。",
+    "sentiment": "negative",
+    "key_opinions": ["收益归零起晚了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "药明康德回调猛，投资者痛苦求别跌。",
+    "sentiment": "negative",
+    "key_opinions": ["回调猛求别跌", "可能到120元"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 24,
+    "summary": "养元高开低走，失望。",
+    "sentiment": "negative",
+    "key_opinions": ["高开当日本人噶了"],
+    "mentioned_stocks": ["养元"]
+  },
+  {
+    "index": 25,
+    "summary": "市场下跌归咎于阿里巴巴抽血港股。",
+    "sentiment": "negative",
+    "key_opinions": ["阿里巴巴抽血港股带崩市场"],
+    "mentioned_stocks": ["阿里巴巴"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论宇树老板的处境，被迫上市需面对投资人。",
+    "sentiment": "mixed",
+    "key_opinions": ["宇树老板被迫上市", "投资人需要回报"],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 27,
+    "summary": "药明康德弱，市场整体下跌，黄金都跌。",
+    "sentiment": "negative",
+    "key_opinions": ["大盘不行黄金都跌", "创新药板块都在跌"],
+    "mentioned_stocks": ["药明康德", "黄金"]
+  },
+  {
+    "index": 28,
+    "summary": "银行是否可上车，价格前高但估值不高。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行价格前高估值不高", "科技跌时买银行"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 29,
+    "summary": "业内信息，半导体设备新品可能不被市场买账。",
+    "sentiment": "mixed",
+    "key_opinions": ["新品可能不被市场买账", "珂马科技相关"],
+    "mentioned_stocks": ["珂马科技", "北方华创"]
+  },
+  {
+    "index": 30,
+    "summary": "中大哥（科技股）业绩好但股价跌，周期行业。",
+    "sentiment": "negative",
+    "key_opinions": ["业绩炸裂但股价跌", "周期行业股价早于业绩见顶"],
+    "mentioned_stocks": ["中大哥"]
+  },
+  {
+    "index": 31,
+    "summary": "预期市场回3000点，周围全清仓无增量资金。",
+    "sentiment": "negative",
+    "key_opinions": ["周围全清仓无增量资金"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "黑暗森林理论应用于股市，散户被收割。",
+    "sentiment": "negative",
+    "key_opinions": ["先露头就被套", "散户是原始人量化是高等文明"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "效忠黄金白银，看好黄金突破1000。",
+    "sentiment": "positive",
+    "key_opinions": ["黄金突破1000"],
+    "mentioned_stocks": ["黄金", "白银"]
+  },
+  {
+    "index": 34,
+    "summary": "市场俯冲，担忧下午走势可能跌停或V。",
+    "sentiment": "negative",
+    "key_opinions": ["可能跌停", "下午可能V或继续跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "理性分析市场，反弹兑现完，短线收益负。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场反弹兑现完短线收益负", "风格分化轮动性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "中际旭创腰斩风险，美国禁令破坏成长逻辑。",
+    "sentiment": "negative",
+    "key_opinions": ["美国禁令破坏成长逻辑", "可能腰斩"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 37,
+    "summary": "A股科技跟跌费半，只限下跌时。",
+    "sentiment": "negative",
+    "key_opinions": ["A股10倍做多费半只限下跌"],
+    "mentioned_stocks": ["费半"]
+  },
+  {
+    "index": 38,
+    "summary": "预判市场成功但讽刺，狗队不干人事。",
+    "sentiment": "negative",
+    "key_opinions": ["跌了就是预判成功", "狗队不干人事"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "批评阿里高管外行，融资方式糟糕。",
+    "sentiment": "negative",
+    "key_opinions": ["阿里融资方式糟糕", "不把股东当人看"],
+    "mentioned_stocks": ["阿里巴巴"]
+  },
+  {
+    "index": 40,
+    "summary": "解读斯蒂芬·米兰的文章，信息性。",
+    "sentiment": "mixed",
+    "key_opinions": ["文章核心解读"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "求助推荐股票，建议买回黄金。",
+    "sentiment": "mixed",
+    "key_opinions": ["建议买回黄金"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 42,
+    "summary": "科技下跌但讨论是否算杀，认为正常分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技下跌不算杀", "正常分歧"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 43,
+    "summary": "创业板可能破前低，担忧走势。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板走势不好"],
+    "mentioned_stocks": ["创业板", "科创板"]
+  },
+  {
+    "index": 44,
+    "summary": "创新药和科技不是对手盘，科技对手盘是银行。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技对手盘是银行", "创新药也是科技但偏防守"],
+    "mentioned_stocks": ["创新药", "科技", "银行"]
+  },
+  {
+    "index": 45,
+    "summary": "卖黄金买科技，越买越跌，后悔。",
+    "sentiment": "negative",
+    "key_opinions": ["方向错误卖黄金买科技"],
+    "mentioned_stocks": ["黄金", "科技"]
+  },
+  {
+    "index": 46,
+    "summary": "午盘前拉升但认为是陷阱，怀疑。",
+    "sentiment": "negative",
+    "key_opinions": ["拉升是陷阱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "建议空仓等待，不确定性多。",
+    "sentiment": "negative",
+    "key_opinions": ["不确定性多空仓等待"],
+    "mentioned_stocks": ["短融ETF"]
+  },
+  {
+    "index": 48,
+    "summary": "AI短剧质量提高，价格不贵，看好发展。",
+    "sentiment": "positive",
+    "key_opinions": ["AI短剧质量好价格不贵"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "宇树研发费用爆出后风评变差，技术不足。",
+    "sentiment": "negative",
+    "key_opinions": ["研发费用低显示技术不足"],
+    "mentioned_stocks": ["宇树"]
+  }
+]
