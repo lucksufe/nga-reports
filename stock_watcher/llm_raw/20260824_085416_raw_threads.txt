@@ -1,0 +1,552 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论市场风格轮转，科技股高估风险，能源和有色金属因科技需求受青睐。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股估值过高，风险增加，可能沦为弃子。",
+      "能源和有色金属上涨，与科技基础相关。",
+      "并非科技全部一无是处，但高估品种需警惕。"
+    ],
+    "mentioned_stocks": ["科技股", "能源", "有色金属"]
+  },
+  {
+    "index": 2,
+    "summary": "质疑AI硬件投资回报问题，讨论算力盈利模式及成本。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "AI算力投资通过卖算力可能回本，但应用端盈利未跑通。",
+      "算力中心闲置和投资成本高，引发回报担忧。",
+      "英伟达卡3年回本，华为卡更久。"
+    ],
+    "mentioned_stocks": ["老黄（英伟达）", "华子（华为）"]
+  },
+  {
+    "index": 3,
+    "summary": "抱怨A股量化交易导致散户亏损，对比美股量化基金。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "量化交易割韭菜，散户亏损。",
+      "美股大奖章基金量化更强大。",
+      "钱不能凭空增加，量化赚钱意味着非量化亏钱。"
+    ],
+    "mentioned_stocks": ["大奖章基金"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论宇树机器人公司上市争议，资本压力及责任。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "上市后资本可能跑路，公司需承担更多责任。",
+      "拿钱多就得接受上市要求。",
+      "可能成为下一个华为大疆，但面临挑战。"
+    ],
+    "mentioned_stocks": ["宇树", "华为", "大疆"]
+  },
+  {
+    "index": 5,
+    "summary": "分析南方航空股票是否值得买入，股价接近低点但可能继续跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股价接近历史低点，但可能还会跌。",
+      "A股比H股贵70%，性价比低。",
+      "推荐其他航空股如春秋航空。"
+    ],
+    "mentioned_stocks": ["南方航空", "春秋航空"]
+  },
+  {
+    "index": 6,
+    "summary": "预测中际旭创股票今日走势，观点多样。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "预测涨5个点以上。",
+      "预测跌20点以上，稳赢。",
+      "认为高开低走或收涨。"
+    ],
+    "mentioned_stocks": ["中际大哥（中际旭创）"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论黄金价格急涨后是否回调，历史有类似涨幅。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金涨太快，可能急跌回调。",
+      "历史上有几天内大涨的先例。",
+      "逼空行情，可能不回调。"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 8,
+    "summary": "量化基金在7月亏损，如简街，质疑量化永远赚钱。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "量化基金不是永远赚钱，熊市难盈利。",
+      "股债双杀导致亏损。",
+      "量化赚短线钱，不比死拿散户多。"
+    ],
+    "mentioned_stocks": ["简街", "梁文锋"]
+  },
+  {
+    "index": 9,
+    "summary": "清仓阿里巴巴，批评其AI投入增发决策。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "阿里增发AI，不如外卖大战明智。",
+      "管理层决策问题，成功概率低。",
+      "外卖大战给淘宝引流。"
+    ],
+    "mentioned_stocks": ["虫二（阿里巴巴）"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论信维通信股价和商业航天板块，看跌情绪。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "可能跌到位，但还要继续跌。",
+      "商业航天板块晦气。",
+      "股价未见底。"
+    ],
+    "mentioned_stocks": ["信维通信"]
+  },
+  {
+    "index": 11,
+    "summary": "白酒基金亏损，建议转投科技基，但科技不被看好。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技现在不行，不建议买入。",
+      "科技可能反弹后继续下跌。",
+      "建议等1-2个月调整。"
+    ],
+    "mentioned_stocks": ["白酒基金", "科技基"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论旅游板块在暑期结束后短期表现，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能炒到15-20号，板块10个点。",
+      "台风天不利旅游，穷游利润低。",
+      "黄山旅游等个股被提及。"
+    ],
+    "mentioned_stocks": ["旅游板块", "黄山旅游", "旅游ETF"]
+  },
+  {
+    "index": 13,
+    "summary": "认为牛市结束，计划清仓转投红利，看跌后市。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "月线走势类似2021年，可能大跌。",
+      "波浪理论显示下跌趋势。",
+      "计划10月前清仓转低波红利。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "推荐分红稳定的行业，如银行、水电和煤炭。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "首推银行、水电，分红稳定。",
+      "煤炭也可以，大手扛周期。",
+      "其余行业是周期。"
+    ],
+    "mentioned_stocks": ["银行", "水电ETF", "煤炭"]
+  },
+  {
+    "index": 15,
+    "summary": "微博财报差，用户流失，平台没落。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "微博活人少，僵尸号多，流量下降。",
+      "平台文字为主，没落是必然。",
+      "可能被收购，个位数PE非黄金坑。"
+    ],
+    "mentioned_stocks": ["微博"]
+  },
+  {
+    "index": 16,
+    "summary": "看好生物科技板块，认为AI科技转弱，推荐创新药。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "美股AI硬强弩之末，生物科技向好。",
+      "推荐创新药、疫苗类标的。",
+      "ST生物等无帽妖股被提及。"
+    ],
+    "mentioned_stocks": ["生物科技", "ST生物", "ST海王", "MRNA", "XBI"]
+  },
+  {
+    "index": 17,
+    "summary": "嫦娥七号发射推迟，影响商业航天板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "发射延期到明年，因窗口期错过。",
+      "商业航天板块可能利好或利空。",
+      "不发射可能有预期炒作。"
+    ],
+    "mentioned_stocks": ["商业航天"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论美联储加息概率低，但市场预期变化。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "加息概率40%不算低，市场已提前反应。",
+      "沃什可能不加息，拖到中期选举后。",
+      "黄金可能受加息影响下跌。"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论微盘股投资策略，历史表现好但量化参与多。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "微盘股历史数据几乎每年最好。",
+      "量化在微盘股搏杀，占比高。",
+      "推荐中证2000指数。"
+    ],
+    "mentioned_stocks": ["微盘股", "中证2000"]
+  },
+  {
+    "index": 20,
+    "summary": "预测下周热点板块，如创新药、科技、有色等。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "创新药看回调，有色偷跑太多。",
+      "科技横盘整理，涨跌不动。",
+      "热点看量化心情，风扇转。"
+    ],
+    "mentioned_stocks": ["创新药", "有色", "商业航天", "科技"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论紫光国微业绩说明会，看好长期投资。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "管理层靠谱务实，业绩下半年改善。",
+      "大规模业绩爆发在27年后。",
+      "长期投资价值，目前价格好。"
+    ],
+    "mentioned_stocks": ["紫光国微"]
+  },
+  {
+    "index": 22,
+    "summary": "希望延长A股交易时间，讨论T+1制度问题。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股准备23小时交易，A股应改革。",
+      "T+1制度下延长时间无意义。",
+      "不开盘可休息，减少亏损。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "批评宇树机器人估值过高，PE 1600太贵。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "PE 1600太高，估值不合理。",
+      "机器人可能是工业垃圾。",
+      "公募基金接盘，散户风险高。"
+    ],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 24,
+    "summary": "小红书上市谣言被辟谣，造谣者被拘留。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "造谣者被行政拘留。",
+      "公司澄清上市状态，可能卡住。",
+      "股价受传闻影响。"
+    ],
+    "mentioned_stocks": ["小红书"]
+  },
+  {
+    "index": 25,
+    "summary": "阿里巴巴可能配售800亿，担忧市场流动性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "配售抽水市场，流动性承压。",
+      "资金投入AI基础建设，现金流紧张。",
+      "短期股价承压。"
+    ],
+    "mentioned_stocks": ["阿里巴巴"]
+  },
+  {
+    "index": 26,
+    "summary": "外卖大战中京东表现最惨，花钱打水漂。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "京东花钱纯打水漂，不如投资AI。",
+      "美团守住份额，淘宝闪购得利。",
+      "京东不打，基本盘会流失。"
+    ],
+    "mentioned_stocks": ["京东", "美团", "淘宝"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论A股与美股差异，A股融资市导致指数不涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美股回购分红多，市场钱增；A股只抽水。",
+      "A股是融资市，制度设计问题。",
+      "融资总额应受限于分红回购。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "对明天股市走势不看好，可能下跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能泥沙俱下，下杀开始。",
+      "都不看好可能反向指标，稳了。",
+      "高开跑路，低开可能上车。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讨论上汽集团是否有独立行情，产销数据好但散户多。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "产销数据有点意思，但散户数量多。",
+      "散户越跌越买，难上涨。",
+      "被套20点以上，风险高。"
+    ],
+    "mentioned_stocks": ["上汽集团"]
+  },
+  {
+    "index": 30,
+    "summary": "中信证券研报分析科技股调整原因，唱空科技。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股调整因AI远期定价问题。",
+      "商业化速率担忧，共识性风险。",
+      "中信带头唱空，大资金不想玩。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 31,
+    "summary": "嫦娥七号发射延期到明年，原因可能是窗口期错过。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "延期因天气错过窗口期。",
+      "不发射可能有炒作预期。",
+      "商业航天板块影响。"
+    ],
+    "mentioned_stocks": ["商业航天"]
+  },
+  {
+    "index": 32,
+    "summary": "预测周一股市上涨，基于每周星期一红规律。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "每周星期一都是红的。",
+      "银行护盘能维持上涨。",
+      "科技股周五涨，周一看好。"
+    ],
+    "mentioned_stocks": ["银行", "科技"]
+  },
+  {
+    "index": 33,
+    "summary": "大疆相机上太空可能催化商业航天，但板块老跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大疆上太空可能带来催化。",
+      "商业航天成功即跌停，风险高。",
+      "事情不稀奇，花钱就能做到。"
+    ],
+    "mentioned_stocks": ["大疆", "商业航天"]
+  },
+  {
+    "index": 34,
+    "summary": "美加贸易战影响，汽车零部件涨过，铝有机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "汽车零部件已经涨过。",
+      "铝这一块挺有搞头。",
+      "可观测铝投资机会。"
+    ],
+    "mentioned_stocks": ["汽车零部件", "铝"]
+  },
+  {
+    "index": 35,
+    "summary": "比较阿里配售和美股债务问题，批评阿里护城河弱。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "阿里护城河弱，配售抽水。",
+      "美股巨头也有债务风险，如英伟达。",
+      "借钱给用户买设备，左脚踩右脚。"
+    ],
+    "mentioned_stocks": ["阿里巴巴", "英伟达", "谷歌", "Meta"]
+  },
+  {
+    "index": 36,
+    "summary": "比较A股和美股投资体验，美股更舒适。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股买了放着不动，A股需更多考虑。",
+      "美股流动性好，顺着趋势做。",
+      "A股情绪流动性主导，科技定价不自信。"
+    ],
+    "mentioned_stocks": ["588170", "海力士ADR", "特斯拉", "CRCL"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论重新投资有色金属，铝板块被推荐。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能提前量打满，散户畏高。",
+      "铝不算特别高，南山铝业可看。",
+      "贵金属更受青睐。"
+    ],
+    "mentioned_stocks": ["有色金属", "铝", "南山铝业", "宏桥控股", "中国铝业", "洛阳钼业"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论美加贸易战对股市影响，关注汽车配额。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "加拿大问中国汽车配额。",
+      "恶心特朗普的话，多进口。",
+      "贸易战可能影响相关板块。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论英伟达产品涨价原因，担忧泡沫。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "内存涨价导致成本增，传导涨价。",
+      "下游可能不接受涨价，风险高。",
+      "硬件涨软件死，泡沫要炸。"
+    ],
+    "mentioned_stocks": ["英伟达", "内存"]
+  },
+  {
+    "index": 40,
+    "summary": "伊朗受邀加入麦加防御协议，可能不实。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "邀请可能不实，沙特可能不同意。",
+      "土耳其、沙特、伊朗教派冲突。",
+      "事件影响地缘风险，但可行性低。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "分享量化交易实盘记录，使用深度学习策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "量化策略调试，争取记录。",
+      "深度学习策略，算力电力等方向。",
+      "家庭财务压力，尝试不确定性。"
+    ],
+    "mentioned_stocks": ["PTrade", "量化基金"]
+  },
+  {
+    "index": 42,
+    "summary": "科技股半年报发布可能利好落地，看后续表演。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "半年报发布可能利好落地。",
+      "看中大哥表演，希望红盘。",
+      "科技股捂着不发，结果待观察。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论贵金属上涨后可能的利空因素。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "涨多了是最大利空。",
+      "美债危机可能抛售黄金。",
+      "宏观数据或政策变化影响。"
+    ],
+    "mentioned_stocks": ["贵金属", "黄金"]
+  },
+  {
+    "index": 44,
+    "summary": "中船特气公告立项，但股价高风险大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "公告立项7N气体，但可能是利空。",
+      "位置太高，业绩跟不上股价。",
+      "风险太大，不值得赌。"
+    ],
+    "mentioned_stocks": ["中船特气"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论美债危机时黄金是否避险，观点争论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金可能被抛售换其他资产。",
+      "美元信用降，黄金可能上升。",
+      "实物资产如黄金、白银避险。"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 46,
+    "summary": "解释股市术语“忍战”，为发泄情绪。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "忍战是发泄情绪，类似村口骂街。",
+      "不懂别问，你把握不住。",
+      "三岁学说话，一生学闭嘴。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "量化托管实盘记录，策略调试和家庭压力。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "PTrade接口约下周收到，9月启航。",
+      "家庭财务压力，拥抱不确定性。",
+      "深度学习策略，需关注回测。"
+    ],
+    "mentioned_stocks": ["PTrade", "量化基金"]
+  },
+  {
+    "index": 48,
+    "summary": "特朗普威胁美军干预债市，利好黄金。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "特朗普想用美军干预债市，不现实。",
+      "言论利好黄金价格。",
+      "伊朗都收拾不了，干预能力弱。"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 49,
+    "summary": "纳斯达克和中证1000对冲风险，但有效性讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "同涨同跌，对冲无效。",
+      "建议买银行或黄金对冲。",
+      "红利黄金纳指是更好对冲。"
+    ],
+    "mentioned_stocks": ["纳斯达克", "中证1000", "银行", "黄金"]
+  },
+  {
+    "index": 50,
+    "summary": "讨论海狗股票（海运股）投资风险，可能回调。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "六连阳后可能回调。",
+      "背刺风险高，不如赌黄金白银。",
+      "位置不如黄金白银低点。"
+    ],
+    "mentioned_stocks": ["海狗（海运股）", "黄金", "白银"]
+  }
+]
