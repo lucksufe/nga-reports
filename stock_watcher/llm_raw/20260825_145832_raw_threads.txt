@@ -1,0 +1,633 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "老股民感慨从自信到保守的心态转变，认为市场环境塑造了“拿不住、死扛”的行为。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "长期持有一致性差，市场环境塑造股民行为。",
+      "存在普遍共识认为A股难有长牛。",
+      "市场以融资为目标，机制决定表现。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户追高科技股后被套，讨论被套原因和应对策略。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "追高易被套，需警惕日内直线拉升陷阱。",
+      "情绪风向标（如利通）走势重要。",
+      "T+1机制下追高风险巨大。"
+    ],
+    "mentioned_stocks": [
+      "利通",
+      "英伟达"
+    ]
+  },
+  {
+    "index": 3,
+    "summary": "感叹市场无人气，提及上交所附近安保的视频暗示市场状况。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场缺乏赚钱效应，无人问津。",
+      "市场氛围只有“绿色幽默”。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "对比韩国股市与A股表现，感叹A股涨幅落后。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股与韩指、日经相比，全年涨幅落后。",
+      "A股有其独特的下跌和上涨逻辑。",
+      "A股缺乏类似三星海力士的定价权公司。"
+    ],
+    "mentioned_stocks": [
+      "三星",
+      "海力士"
+    ]
+  },
+  {
+    "index": 5,
+    "summary": "用户经历日内大幅波动，从巨亏到微红，讨论是否减仓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "日内波动巨大，考验持仓心态。",
+      "需考虑风险与机会的平衡，适当减仓。",
+      "部分板块处于超跌修复状态。"
+    ],
+    "mentioned_stocks": [
+      "光模块半导体ETF",
+      "电力ETF",
+      "515880",
+      "515050",
+      "588170"
+    ]
+  },
+  {
+    "index": 6,
+    "summary": "讨论是否需要避免英伟达财报期间的交易风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "英伟达财报后存在日内反转和暴跌的历史模式。",
+      "可能有资金博弈美股修复。",
+      "高风险事件，适合用期权博弈。"
+    ],
+    "mentioned_stocks": [
+      "英伟达"
+    ]
+  },
+  {
+    "index": 7,
+    "summary": "抱怨A股市场跟随性强，形象比喻为韩国股市的“狗”。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股市场结构受外部市场影响大。",
+      "抱怨A股跟涨无力、跟跌积极。",
+      "市场自身缺乏主导性。"
+    ],
+    "mentioned_stocks": [
+      "韩指"
+    ]
+  },
+  {
+    "index": 8,
+    "summary": "讨论股票涨跌的核心驱动力是资金而非基本面。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "短期股价由资金驱动，业绩好不一定涨。",
+      "长期股价由基本面和现金流决定。",
+      "不同投资风格（趋势/价投）各有优劣。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "对比A股与韩国科技股走势，感叹A股科技股表现弱。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国科技股走势强于A股同类。",
+      "T+1制度导致A股反弹难做，易套人。",
+      "企业实质性回购对股价有支撑。"
+    ],
+    "mentioned_stocks": [
+      "海力士"
+    ]
+  },
+  {
+    "index": 10,
+    "summary": "用户询问亏损14%的科技股是否应割肉。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大幅亏损后考虑是否割肉止损。",
+      "部分回复建议加仓摊薄成本。",
+      "存在投机和玩笑心态。"
+    ],
+    "mentioned_stocks": [
+      "败绿科技"
+    ]
+  },
+  {
+    "index": 11,
+    "summary": "讨论科技股反弹困难，市场信心不足，操作难度大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "T+1机制导致反弹难操作，套人风险高。",
+      "市场信心不足，一拉起就有抛盘。",
+      "“狗队”（主力）操作打压市场情绪。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "用户发现普涨行情，但后悔未在早盘抄底。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "普涨行情下抄底时机重要。",
+      "错过早盘低点感到遗憾。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "抱怨沪硅高管集体减持，伤害投资者信心。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高管集体减持伤害市场情绪，侮辱性强。",
+      "国企高管减持动机被质疑。",
+      "该公司减持历史频繁，体验差。"
+    ],
+    "mentioned_stocks": [
+      "沪硅",
+      "有研硅"
+    ]
+  },
+  {
+    "index": 14,
+    "summary": "观察到缩量背景下4000多家股票上涨的现象。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "缩量普涨，场内资金有限。",
+      "场外资金不敢入场，场内被套。",
+      "历史上类似情况后常回调。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "用户发现持仓股有大笔压单和托单，询问含义。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能有“做市商”控制股价。",
+      "量能太低，导致买卖挂单明显。",
+      "市场参与度低，价格被“织布”。"
+    ],
+    "mentioned_stocks": [
+      "大唐电力"
+    ]
+  },
+  {
+    "index": 16,
+    "summary": "博主分享低迷行情下的投资策略，强调轻仓和波段。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "低迷行情应轻仓或空仓，等待机会。",
+      "关注国产算力替代等特定板块机会。",
+      "市场普涨行情难现，需精选个股。"
+    ],
+    "mentioned_stocks": [
+      "兴森",
+      "华海",
+      "杰华特"
+    ]
+  },
+  {
+    "index": 17,
+    "summary": "讨论是否该埋伏比亚迪，等待其中报发布。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "近期走势显示有资金在建仓。",
+      "比亚迪弹性不足，防守属性强。",
+      "可在特定价格区间博弈中报行情。"
+    ],
+    "mentioned_stocks": [
+      "比亚迪"
+    ]
+  },
+  {
+    "index": 18,
+    "summary": "用户询问是否应卖出海皇（海控）股票。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "认为股价已超预期，选择获利了结。",
+      "海皇股票可能从“好票”转为“差票”。",
+      "保留部分仓位（“藤壶”）。"
+    ],
+    "mentioned_stocks": [
+      "海皇"
+    ]
+  },
+  {
+    "index": 19,
+    "summary": "讨论今日是否为抄底时机，但多数观点谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "今日高点可能已现，反弹难持续。",
+      "缩量上涨，可能只是反抽。",
+      "需放量大跌才能释放风险、迎来真涨。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "深度分析，将美国AI基建类比中国房地产信贷扩张，存在泡沫风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美国AI基建依赖信贷创新，类似中国房地产模式。",
+      "长期看，AI硬件价格会因生产力发展而平稳。",
+      "泡沫在资本市场，与产品市场稀缺性无关。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "认为今日个股普涨但被大盘股压制了指数，赚钱效应被掩盖。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市场当日赚钱情绪效应本应很高。",
+      "大盘股压制了指数表现。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论海皇短期走势，担心即将大涨但已卖出。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "担心29号可能暴涨，但已获利了结。",
+      "认为当前位置下船是明智之举。",
+      "保留少量仓位作为纪念。"
+    ],
+    "mentioned_stocks": [
+      "海皇"
+    ]
+  },
+  {
+    "index": 23,
+    "summary": "质疑宇树科技研发投入低于泡泡玛特，引发对科技公司成色的讨论。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "研发投入不足，与玩具公司相当。",
+      "应与同类机器人公司对比研发投入。",
+      "研发投入低可能影响其科技属性。"
+    ],
+    "mentioned_stocks": [
+      "宇树科技",
+      "泡泡玛特"
+    ]
+  },
+  {
+    "index": 24,
+    "summary": "质疑所谓“汪汪队”（主力）抄底行为实为高抛低吸。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "主力资金流入后常伴随流出，本质是做T。",
+      "主力“划K线”可能稳赚不赔。",
+      "ETF资金来源复杂，非仅汪汪队买入。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "讨论“坏人股”（微盘/绩差股）上涨，可能是流动性问题下的炒作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "流动性出问题后出现“炒小炒差”行情。",
+      "微盘股板块强度位居前列。",
+      "科技股熄火后资金流向垃圾股。"
+    ],
+    "mentioned_stocks": [
+      "坏人股"
+    ]
+  },
+  {
+    "index": 26,
+    "summary": "观察到猪肉板块（牧原）上涨，但认为可能明日回落。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "猪肉板块今日上涨，但基本面未大变。",
+      "可能重复“尾盘抢筹，次日砸盘”模式。",
+      "处于底部震荡阶段。"
+    ],
+    "mentioned_stocks": [
+      "牧原",
+      "猪肉ETF"
+    ]
+  },
+  {
+    "index": 27,
+    "summary": "抱怨指数（大哥二哥）被压制，无法V型反转。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "指数被压制，市场难以向上。",
+      "市场被控盘，上涨无力。",
+      "“大哥二哥”（权重股）成为板块罪人。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "询问利通主力资金图异常抖动的原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "资金图抖动可能是量化T+0操作导致。",
+      "不同股票软件数据可能不一致。",
+      "需谨慎看待主力资金数据。"
+    ],
+    "mentioned_stocks": [
+      "利通"
+    ]
+  },
+  {
+    "index": 29,
+    "summary": "自嘲本月股市收益不如看小说或写小说所得。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股市收益微薄，甚至为负。",
+      "写小说收益也极低。",
+      "用调侃方式表达对股市的失望。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "用户抱怨技术指标（S点）信号不准，感觉被针对。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "技术指标信号失效，导致亏损。",
+      "感觉操作被市场“针对”。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "用户清仓后很快买入比亚迪等股票，表示回归价值投资。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "清仓后选择买入比亚迪等传统蓝筹。",
+      "对比亚迪等公司长期看好。",
+      "港股比亚迪走势强于A股。"
+    ],
+    "mentioned_stocks": [
+      "比亚迪",
+      "宝丰",
+      "万华",
+      "伊利"
+    ]
+  },
+  {
+    "index": 32,
+    "summary": "质疑科技股上涨是反弹还是“死猫跳”（虚假反弹）。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "普遍认为这只是反弹，不是反转。",
+      "市场心理上无法接受科技持续涨。",
+      "需要观察成交量和形态来确认。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "理性讨论胜宏科技的买入时机，基于财报预期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "Q2财报可能不及预期（MISS），Q3可能放量。",
+      "股价短期可能不会反映长期逻辑。",
+      "机构提前买入可能推动股价。"
+    ],
+    "mentioned_stocks": [
+      "胜宏科技",
+      "Rubin"
+    ]
+  },
+  {
+    "index": 34,
+    "summary": "表达持有科技股的煎熬感，亏损导致信心不足。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股走势呈熊市特征，持仓痛苦。",
+      "信心不足，不敢在下跌时加仓。",
+      "科技股整体表现疲软。"
+    ],
+    "mentioned_stocks": [
+      "CPO",
+      "半导体设备",
+      "存储"
+    ]
+  },
+  {
+    "index": 35,
+    "summary": "质疑“慢牛”说法，认为缩量上涨不可靠，担忧明日回调。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "缩量上涨被视为“骗炮”，不可信。",
+      "担心连涨后出现大幅回调。",
+      "今日追高者已被套牢。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "推荐深信服，看好其AI应用、云计算和业绩反转。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "看好AI应用和云计算赛道。",
+      "认为业绩将出现反转。",
+      "技术图形较好，今日缩量调整是机会。"
+    ],
+    "mentioned_stocks": [
+      "深信服"
+    ]
+  },
+  {
+    "index": 37,
+    "summary": "讨论光纤板块今日表现较好，但担心被“毒奶”。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "光纤板块今日上涨，表现突出。",
+      "担心过度吹捧反而导致板块下跌。",
+      "更希望资金流向黄金、医药等板块。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "展示每日场外QDII基金定投操作，进行全球分散配置。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "通过定投进行全球资产配置。",
+      "投资于纳指、日经、富时、标普等ETF。",
+      "视定投为每日任务，保持纪律。"
+    ],
+    "mentioned_stocks": [
+      "纳指ETF",
+      "日经ETF",
+      "富时ETF",
+      "标普ETF"
+    ]
+  },
+  {
+    "index": 39,
+    "summary": "讨论盘中跳水套人，提醒追高风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场拉升后快速跳水，套牢追高者。",
+      "追高科技股的风险极大。",
+      "建议多观察，可尝试尾盘操作。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "展示全仓看多中钨高新的实盘记录，设定目标价100元。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "坚定看多中钨高新，长期持有。",
+      "目标价设定为100元。",
+      "认同公司基本面和行业逻辑。"
+    ],
+    "mentioned_stocks": [
+      "中钨高新"
+    ]
+  },
+  {
+    "index": 41,
+    "summary": "讨论市场资金可能都在等待“套狗”（主力），质疑能否实现慢牛。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "资金学习主力进行高抛低吸。",
+      "主力自身也在做T，难以形成真正牛市。",
+      "市场可能长期在窄幅区间震荡。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "抱怨行情反复，板块快速轮动，导致“多空双杀”。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "板块快速轮动，追涨杀跌易两面挨打。",
+      "散户T+1与机构T+0存在不公平。",
+      "市场量能低迷，参与者少。"
+    ],
+    "mentioned_stocks": [
+      "CPO"
+    ]
+  },
+  {
+    "index": 43,
+    "summary": "提及昊华（股票）8月套牢一批人，筹码结构恶化。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "筹码峰结构变得不健康。",
+      "公司基本面逻辑尚可，但市场资金不足。",
+      "市场风格转换（牛转熊）压制估值。"
+    ],
+    "mentioned_stocks": [
+      "昊华"
+    ]
+  },
+  {
+    "index": 44,
+    "summary": "惊讶于缩量情况下仍有4000多家股票上涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "缩量上涨，资金博弈性强。",
+      "可能只是捡“带血筹码”的反弹。",
+      "市场呈现蓝筹、科技、小盘轮动。"
+    ],
+    "mentioned_stocks": [
+      "中证2000"
+    ]
+  },
+  {
+    "index": 45,
+    "summary": "通过观看DOTA2比赛（TI）感悟股市，类比不确定性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股市与比赛都充满不确定性，局势易反转。",
+      "“BP”（选股/策略）对结果影响权重越来越高。",
+      "在股市中，生存比赢更重要。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "用户亏损15%后，寻求两年内确定性最高的回本方案。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "“上班”被认为是确定性最高的回本方案。",
+      "可考虑定投纳斯达克或买入高股息股票。",
+      "黄金被一些人认为是高确定性选择。"
+    ],
+    "mentioned_stocks": [
+      "腾讯",
+      "中远海控",
+      "创业板ETF",
+      "黄金"
+    ]
+  },
+  {
+    "index": 47,
+    "summary": "质疑A股达链（英伟达产业链）公司的估值不应高于英伟达。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "达链公司的市盈率（PE）不应高于英伟达。",
+      "以此推断，相关公司（如大光）估值偏高。"
+    ],
+    "mentioned_stocks": [
+      "大光",
+      "英伟达"
+    ]
+  },
+  {
+    "index": 48,
+    "summary": "宣称“中新已死”，期待胜宏、天孚成为新的科技龙头。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "认为旧龙头（中新）表现不佳。",
+      "期待新龙头（胜宏、天孚）崛起。",
+      "科技股内部存在地位更替。"
+    ],
+    "mentioned_stocks": [
+      "中新",
+      "胜宏",
+      "天孚"
+    ]
+  },
+  {
+    "index": 49,
+    "summary": "质疑今日抄底的资金可能成为明天的砸盘主力。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "今日的买盘可能在明天转化为卖盘。",
+      "量化资金也常进行类似操作。",
+      "市场处于高抛低吸的震荡模式。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "用户庆幸早盘没有割肉，股价随后大幅回升。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "日内股价大起大落，波动剧烈。",
+      "未割肉躲过了进一步亏损，并可能迎来上涨。",
+      "存在因“贪心”未在高点卖出的懊恼。"
+    ],
+    "mentioned_stocks": []
+  }
+]
+```
