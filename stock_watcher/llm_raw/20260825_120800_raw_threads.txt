@@ -1,0 +1,331 @@
+[
+  {
+    "index": 1,
+    "summary": "新手讨论低价小股经历暴跌后今日大涨，询问主力是否在玩低吸筹码。",
+    "sentiment": "mixed",
+    "key_opinions": ["新手喜欢买低价低点小股", "此前暴跌，今日反弹幅度大", "市场波动剧烈，有主力操作迹象"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论国内机器人行业技术领先，但相关上市公司股价过高引发争议。",
+    "sentiment": "mixed",
+    "key_opinions": ["国内机器人技术全球领先", "宇树股价过高，投资者不认可", "行业未来有发展潜力"],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论国家队（汇金）资金通过高抛低吸做T，可能阻碍市场形成慢牛。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队资金在做T操作", "市场难以形成持续上涨的慢牛", "散户成为被收割的对象"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "抱怨近期几只股票（败绿、三弟、长飞）在消息公布后股价下跌，如同打地鼠。",
+    "sentiment": "negative",
+    "key_opinions": ["股票呈现‘见光死’规律", "对市场走势感到失望和无奈"],
+    "mentioned_stocks": ["败绿科技", "三弟", "长飞光纤"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论当前市场是否在酝酿类似‘924’级别的反弹，但多数观点认为条件尚不具备。",
+    "sentiment": "negative",
+    "key_opinions": ["当前市场持续缩量阴跌", "需要类似‘924’前的极致悲观才有大涨", "外围风险可能加剧下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "列举多个原因，全面批评A股市场是全球最大的空头市场。",
+    "sentiment": "negative",
+    "key_opinions": ["市场由散户主导且炒作垃圾股", "缺乏做空机制与T+1制度助长投机", "国家队与机构带头割韭菜"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论光纤板块（尤其是长飞光纤）近期强势上涨，从‘被判死刑’到大涨的原因。",
+    "sentiment": "positive",
+    "key_opinions": ["光纤板块前期超跌后迎来反弹", "长飞光纤业绩支撑其强势表现", "资金在弱势市场中抱团该板块"],
+    "mentioned_stocks": ["长飞光纤", "康宁", "享福光电"]
+  },
+  {
+    "index": 8,
+    "summary": "询问当前市场是否已从牛市转入阴跌的熊市阶段。",
+    "sentiment": "negative",
+    "key_opinions": ["市场缺乏持续主线", "大盘与个股呈阴跌趋势", "震荡下行阶段最令人恐惧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论场内标普500和纳指ETF溢价持续走高，难以因美股下跌而被‘杀死’。",
+    "sentiment": "mixed",
+    "key_opinions": ["高溢价源于QDII额度限制", "投资者可将溢价视为‘资本利得税’", "需等待额度开放才可能杀溢价"],
+    "mentioned_stocks": ["标普500", "纳斯达克100"]
+  },
+  {
+    "index": 10,
+    "summary": "用户询问持有的败绿科技亏损14%，是该割肉还是加仓摊薄成本。",
+    "sentiment": "mixed",
+    "key_opinions": ["部分建议及时止损", "部分调侃或建议加仓摊薄成本", "决策受到情绪和他人ID影响"],
+    "mentioned_stocks": ["败绿科技"]
+  },
+  {
+    "index": 11,
+    "summary": "用户感慨市场反弹后利润全数回吐，感觉回到了7月的亏损状态。",
+    "sentiment": "negative",
+    "key_opinions": ["反弹成果全部回吐", "亏损金额甚至超过之前", "对市场短期走势感到失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "探讨红利ETF及类似‘老登股’的正确投资心态，强调长期持有。",
+    "sentiment": "positive",
+    "key_opinions": ["应将红利视为长线年线稳步上涨的品种", "最佳买入时机是十年前或现在", "投资前提需持有十年以上并减少操作"],
+    "mentioned_stocks": ["红利ETF"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论‘甲醛白菜’热点新闻为何未对农业板块股价产生冲击。",
+    "sentiment": "mixed",
+    "key_opinions": ["食品安全问题已被市场长期认知", "问题毒性被认为较低且影响有限", "市场对类似事件已显麻木"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "看到日韩股市V型反转，猜测A股下午走势，但态度谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": ["日韩市场已先行反弹", "A股可能走出独立下跌行情", "市场量能不足，反弹乏力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "抱怨场内纳斯达克100 ETF在美股下跌时仍因高溢价而上涨。",
+    "sentiment": "negative",
+    "key_opinions": ["ETF走势脱离底层资产，溢价离谱", "相比其他产品，场内ETF体验不佳"],
+    "mentioned_stocks": ["纳斯达克100", "纳指生物科技"]
+  },
+  {
+    "index": 16,
+    "summary": "用户讨论‘海狗’（中远海控）主力操盘特征，并分享自己成功的波段操作。",
+    "sentiment": "positive",
+    "key_opinions": ["主力操盘手法类似‘小学生’", "运价上涨是主要支撑", "用户自认本月操作完美，清仓及时"],
+    "mentioned_stocks": ["海狗", "中远海控"]
+  },
+  {
+    "index": 17,
+    "summary": "分析指数分化，认为大盘有支撑但创业板等可能跌破前低。",
+    "sentiment": "negative",
+    "key_opinions": ["大盘因权重股护盘难以深跌", "创业板等指数走势更弱，可能破前低", "个股已普遍下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "困惑于没有明显利空消息，市场却持续阴跌的原因。",
+    "sentiment": "negative",
+    "key_opinions": ["美国巨额债务是长期隐性利空", "市场缺乏增量资金入场", "反弹往往成为诱多陷阱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "用户新建中概互联网讨论楼，供投资者交流中概股投资策略与经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["用户间交流减仓、加仓等操作策略", "部分用户选择定投应对下跌", "对中概股短期走势看法分歧"],
+    "mentioned_stocks": ["中概互联网ETF"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论浙江世宝股价走势像庄股，并类比机器人板块与光模块板块的结构。",
+    "sentiment": "negative",
+    "key_opinions": ["资金控盘明显，类似过往庄股", "机器人板块梯队依赖龙头宇树", "行业基本面存疑，但短线或有机会"],
+    "mentioned_stocks": ["浙江世宝", "万向钱潮", "中际旭创"]
+  },
+  {
+    "index": 21,
+    "summary": "用户分享全仓买入中钨高新的实盘记录，坚定看多并设定目标价。",
+    "sentiment": "positive",
+    "key_opinions": ["全仓买入并设定目标价100元", "看好钨的基本面和逻辑", "视其为个人复盘，防止情绪化操作"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 22,
+    "summary": "用户认为当前市场位置适合左侧交易，是主动买入“被套”的建仓机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["当前点位适合左侧建仓", "认为已进入可承受的“买套”区域"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "用户庆幸早盘未割肉，随后股价大幅回升，体验惊险。",
+    "sentiment": "positive",
+    "key_opinions": ["经历股价大起大落", "因未割肉而庆幸", "市场波动带来刺激感"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "用户因操作失误，误将东山精密以高价买入，目前被套在高位。",
+    "sentiment": "negative",
+    "key_opinions": ["因分心导致误操作，高价买入", "立即被套于山顶", "痛恨T+1制度无法及时卖出"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 25,
+    "summary": "用户询问是否有同车兴发集团，并抱怨其业绩公布后股价下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["对兴发集团等股票走势感到恶心", "不理解业绩好为何被杀", "对农业、化肥板块后续不看好"],
+    "mentioned_stocks": ["兴发集团", "海容冷链"]
+  },
+  {
+    "index": 26,
+    "summary": "用户预测午后将出现“离别钩”形态，即小幅拉升后跳水。",
+    "sentiment": "negative",
+    "key_opinions": ["预计午后会出现经典下跌形态", "认为拉升是假动作，随后会跳水", "市场持续缩量，缺乏真实买盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "用户反思自己因情绪化“乱买”导致6万多元亏损，并总结教训。",
+    "sentiment": "negative",
+    "key_opinions": ["因冲动和跟风导致频繁亏损", "承认沉不住气、被情绪左右", "清理自选股后操作趋于理性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "用户感觉被市场“骗”，买入后即被套，表达对主力操盘的失望。",
+    "sentiment": "negative",
+    "key_opinions": ["感觉遭遇诱多后被套", "反复震荡让散户持续割肉", "对市场操纵感到愤怒"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "用户认为市场想V型反转会被“大哥二哥”（可能指权重股或机构）砸下，不看好反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["反弹面临巨大抛压", "受英伟达等外围走势影响大", "光模块板块表现弱势"],
+    "mentioned_stocks": ["光模块", "英伟达"]
+  },
+  {
+    "index": 30,
+    "summary": "用户困惑为何国际金价上涨，但A股有色（黄金）板块却下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金股与黄金现货走势背离", "主力提前炒作，散户追高被套", "机构对股价计算精准"],
+    "mentioned_stocks": ["黄金股", "ETF"]
+  },
+  {
+    "index": 31,
+    "summary": "批评“小时代”论坛部分用户只知抱怨，缺乏技术探讨，拉低社区质量。",
+    "sentiment": "negative",
+    "key_opinions": ["论坛充斥情绪化抱怨帖", "用户缺乏耐心，像赌徒", "有价值的技术讨论比例很低"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "用户希望国家队停止“救市”，因为其行为更像短线做T，扰乱市场。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队救市行为实质是高抛低吸", "救市反而加剧市场波动", "不如让市场自然见底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "质疑市场活跃资金去向，抱怨成交量低迷，流动性枯竭。",
+    "sentiment": "negative",
+    "key_opinions": ["市场流动性严重不足", "资金被国家队等收割", "散户不敢入场，市场死水一潭"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "用户早上买入“海皇”（中远海控）后担心股价见顶，但部分观点认为上涨趋势未止。",
+    "sentiment": "mixed",
+    "key_opinions": ["买入后担心成为接盘者", "海皇走势被认为依然强劲", "上涨趋势中散户常被洗出"],
+    "mentioned_stocks": ["海皇", "中远海控"]
+  },
+  {
+    "index": 35,
+    "summary": "抱怨科创板半导体材料板块内部分化严重，仅一只股票上涨，其余皆绿。",
+    "sentiment": "negative",
+    "key_opinions": ["板块内部分化极其严重", "科技板块走势受美股费城半导体指数影响", "市场资金有限，只能局部拉动"],
+    "mentioned_stocks": ["科创半导体材料"]
+  },
+  {
+    "index": 36,
+    "summary": "用户兴奋地讨论“海皇”（中远海控）连续涨停的走势。",
+    "sentiment": "positive",
+    "key_opinions": ["股价连续涨停，走势强劲", "持有者感到兴奋和焦虑", "上涨速度过快引发是否见顶的讨论"],
+    "mentioned_stocks": ["海皇", "中远海控"]
+  },
+  {
+    "index": 37,
+    "summary": "用户试图抄底博反弹，但所买股票仍被深套，陷入困境。",
+    "sentiment": "negative",
+    "key_opinions": ["抄底后股价继续下跌被套", "自我安慰已在底部", "陷入“死扛”心态"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "用户惊叹长飞光纤近期走势强劲，并讨论其背后可能的业绩原因。",
+    "sentiment": "positive",
+    "key_opinions": ["长飞光纤近期走势非常强劲", "业绩（利润）大幅增长是主要驱动", "资金抱团推动股价上涨"],
+    "mentioned_stocks": ["长飞光纤", "亨通"]
+  },
+  {
+    "index": 39,
+    "summary": "用户操作神奇制药时因股价波动被震出，导致卖飞，感到无语。",
+    "sentiment": "negative",
+    "key_opinions": ["主力开盘下杀导致散户被洗出", "导致卖飞，错过后续上涨", "老庄操盘手法凶狠"],
+    "mentioned_stocks": ["神奇制药", "百花", "金牛"]
+  },
+  {
+    "index": 40,
+    "summary": "用户分享每日场外定投纳指、日经等QDII基金的记录，形如每日任务。",
+    "sentiment": "positive",
+    "key_opinions": ["坚持每日小额定投海外指数基金", "定投过程像完成每日任务", "部分用户选择等待场内低溢价机会"],
+    "mentioned_stocks": ["纳指", "日经", "富时", "标普"]
+  },
+  {
+    "index": 41,
+    "summary": "用户空仓求助，希望他人推荐当日可入手的股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["用户空仓且没有时间看盘", "寻求股票推荐", "回复者认为其他机会不多"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "用户讨论金健米业继续封板，天山生物可能再涨停，认为粮食与牛肉板块形成配合。",
+    "sentiment": "positive",
+    "key_opinions": ["金健米业连续封板", "天山生物有连续涨停趋势", "粮食与肉类板块形成联动"],
+    "mentioned_stocks": ["金健米业", "天山生物", "北大荒"]
+  },
+  {
+    "index": 43,
+    "summary": "用户分享光模块龙头新易盛的半年报业绩，并讨论次日股价是否会有惊喜。",
+    "sentiment": "mixed",
+    "key_opinions": ["业绩同比大幅增长", "但业绩预告已提前释放，股价已有所反应", "市场是否认为超预期存在分歧"],
+    "mentioned_stocks": ["新易盛"]
+  },
+  {
+    "index": 44,
+    "summary": "用户询问月底前市场成交量是否会跌破1万亿元，引发对流动性危机的担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["成交量持续萎缩是市场关注焦点", "跌破万亿可能引发流动性担忧", "可能伴随指数大幅下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "用户感叹市场成交量即使达到1.8万亿也已不够用，板块轮动过快。",
+    "sentiment": "negative",
+    "key_opinions": ["成交量相比以往已显不足", "资金快速轮动，如“电风扇”行情", "隐现流动性危机迹象"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "讨论场内标普500ETF无视高溢价（约8%）仍被资金买入，走势独立于美股。",
+    "sentiment": "mixed",
+    "key_opinions": ["ETF溢价持续高位，完全脱离美股走势", "投资者用脚投票，认为美股长线能涨", "高溢价蕴含较大回调风险"],
+    "mentioned_stocks": ["标普500", "道指"]
+  },
+  {
+    "index": 47,
+    "summary": "用户讨论今日是否出现“血筹”（恐慌抛售），是抄底机会，但多数回复谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": ["部分人认为已出现抄底机会", "但市场缩量，缺乏“血筹”特征", "认为今日高点可能即为反弹高点"],
+    "mentioned_stocks": []
+  }
+]
