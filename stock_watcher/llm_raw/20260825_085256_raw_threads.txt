@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论上海科技股利好，预计明日反弹，但回复多持怀疑态度。",
+    "sentiment": "mixed",
+    "key_opinions": ["利好消息，预计科技股反弹。", "怀疑真金白银投入，质疑利好真实性。", "认为涨时利好跌时利空，情绪影响大。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "批评股市讨论区充斥情绪发泄和技术探讨不足，呼吁理性交流。",
+    "sentiment": "negative",
+    "key_opinions": ["社区帖子怨念重，缺乏技术探讨。", "炒股非人生唯一，部分人过于投机。", "短期持有者易情绪化，含金量低。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "预测今日指数高开高走，吃带血筹码，但被回复质疑为幻想。",
+    "sentiment": "mixed",
+    "key_opinions": ["预期反常识高开，是吃筹码机会。", "被讽刺为最终幻想，概率低。", "分析可能低开高走，但高开不现实。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论国内机器人行业领先但遭调侃，质疑当前股价。",
+    "sentiment": "mixed",
+    "key_opinions": ["机器人技术领先，市场前景广阔。", "疑似持仓者吹票，股价过高。", "行业未来加速发展，但需理性投资。"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 5,
+    "summary": "质疑科技股炒作，认为科技基因不足，行情可能走熊。",
+    "sentiment": "negative",
+    "key_opinions": ["质疑这片土地的科技创新基因。", "只有中美在玩AI，但科技开始走熊。", "劝诫不要盲目相信科技炒作。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论七月税收数据利好，显示经济活力，但回复有不同解读。",
+    "sentiment": "positive",
+    "key_opinions": ["税收数据利好券商，经济活力好。", "个税上升，可能因补缴信托税。", "企业盈利好，员工收入高，贸易火热。"],
+    "mentioned_stocks": ["券商"]
+  },
+  {
+    "index": 7,
+    "summary": "抱怨今日可能亏损5个点，但回复认为跌幅不大。",
+    "sentiment": "negative",
+    "key_opinions": ["预计亏损5个点，心情差。", "认为-5不算什么，跌幅小。", "对股市走势失望。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论伊朗制裁力度不足，回复认为伊朗已习惯，效果有限。",
+    "sentiment": "negative",
+    "key_opinions": ["制裁扩大到第三国企业。", "伊朗已习惯制裁，效果不大。", "去美元化趋势加强，黄金受青睐。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "称赞可口可乐稳定，是全球消费龙头，适合投资。",
+    "sentiment": "positive",
+    "key_opinions": ["可口可乐稳定，适合美股投资。", "全球消费龙头，护城河深。", "股息率约2.5%，可长期持有。"],
+    "mentioned_stocks": ["可口可乐", "东鹏饮料", "农夫山泉", "伊利"]
+  },
+  {
+    "index": 10,
+    "summary": "晒投资收益，但回复多调侃，质疑靠运气。",
+    "sentiment": "mixed",
+    "key_opinions": ["展示月收益不错，用小仓位玩。", "被调侃为靠运气，建议卖课。", "晒收益行为受质疑。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "预测今日指数大跌，但回复认为天天如此，不足为奇。",
+    "sentiment": "negative",
+    "key_opinions": ["预期指数破位，大跌4000点。", "认为天天喊大结局，习惯性下跌。", "呼吁成交量回升，结束低迷。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "指出宇树科技研发经费低于泡泡玛特，被嘲为玩具公司。",
+    "sentiment": "negative",
+    "key_opinions": ["研发经费不如玩具公司。", "煽动性言论，应理性对比。", "行业研发投入不足，令人担忧。"],
+    "mentioned_stocks": ["宇树科技", "泡泡玛特"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论光通信行业利空消息，但回复指其为旧闻，影响有限。",
+    "sentiment": "negative",
+    "key_opinions": ["光通信面临利空压力。", "消息为旧闻，影响已消化。", "熊市下满眼利空，情绪悲观。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "建议明日大低开不要急跑，等拉升再卖，被回复调侃。",
+    "sentiment": "mixed",
+    "key_opinions": ["建议大低开后等反弹再卖。", "被调侃为抢先跑路。", "分析低开后可能有小V反弹。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "建立中概互联网讨论楼，但回复显示中概近期大跌，情绪悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["建立中概讨论楼，抱团取暖。", "中概崩盘，部分人割肉离场。", "短期无望，选择减仓或跑路。"],
+    "mentioned_stocks": ["中概互联"]
+  },
+  {
+    "index": 16,
+    "summary": "记录PTrade量化托管实盘，讨论开通门槛和策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["开始量化托管实盘，计划启航。", "讨论PTrade与QMT的体验差异。", "开通门槛低，但有佣金和数据问题。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "询问AI硬件去杠杆是否结束，但回复认为难以上涨。",
+    "sentiment": "negative",
+    "key_opinions": ["期望去杠杆后上涨。", "认为无情绪面和资金面支持。", "杠杆堆砌的行情难持续，套牢盘大。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "理性分析美国AI基建类似房地产泡沫，回复讨论利率和长期风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI基建似房地产，信贷创新驱动。", "AI涨跌与货币政策相关。", "泡沫在资本市场，硬件价格会稳定。"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 19,
+    "summary": "用ChatGPT预测今日指数下跌，回复认为上证跌幅有限。",
+    "sentiment": "negative",
+    "key_opinions": ["预测上证跌0.5%-1.3%。", "认为上证有银行等权重股支撑。", "国家队控盘，指数可操纵。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "盘前发三个香港人图片，回复调侃其内容为物料卡。",
+    "sentiment": "mixed",
+    "key_opinions": ["发布香港人相关图片。", "调侃内容为戏剧化故事。", "质疑此也能出物料卡。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "抱怨美股基金限额，从日收益100降至10元，讨论对策。",
+    "sentiment": "negative",
+    "key_opinions": ["美股基金限额，收益下降。", "调侃买崩美股，责任重大。", "支持买美股赚外汇，促进消费。"],
+    "mentioned_stocks": ["建信纳斯达克"]
+  },
+  {
+    "index": 22,
+    "summary": "指宇树科技为垃圾公司，靠炒作，业绩不佳。",
+    "sentiment": "negative",
+    "key_opinions": ["宇树靠炒作，营收利润差。", "对比寒武纪，增长慢估值高。", "行业离GPT时刻远，普遍高估。"],
+    "mentioned_stocks": ["宇树科技", "寒武纪"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论英伟达七连阴，影响A股科技板块。",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达七连阴，回撤5%。", "A股科技跟跌，预感明日吃面。", "美股跌幅小，但态度消极。"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 24,
+    "summary": "观察纳指V型反弹，但回复警告勿半场开香槟。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指V型反弹，光存储涨更快。", "警告不要过早乐观。", "涨的主要是消费板块。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "提醒英伟达下周出业绩，科技板块需注意，回复预期悲观。",
+    "sentiment": "mixed",
+    "key_opinions": ["英伟达业绩影响科技股。", "业绩无论好坏都可能被砸。", "女大（英伟达）横盘，动向关键。"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 26,
+    "summary": "引用巴菲特语录批评国家队做空，回复对比中外股市。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队套利做空，破坏流动性。", "美股长牛，A股被自己人做空。", "融资市，散户难赚钱。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "质疑科技股行情到头，回复认为每轮周期相似。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股似历次周期尾声。", "猜顶困难，抱团瓦解反复。", "外围反弹可能带动A股。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "询问今日亏损点数，回复多诉苦，情绪悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["询问今日亏损点数。", "心情痛苦，上班受影响。", "已清仓，避免继续亏损。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "分享通过支付宝薅券商开户羊毛的教程。",
+    "sentiment": "positive",
+    "key_opinions": ["支付宝搜宠粉节开户得红包。", "买ETF可获额外红包。", "扣除费用后仍有小利。"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 30,
+    "summary": "通过指数图质疑这次是否不同，回复悲观，预测下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["指数走势规律，进入暧昧区间。", "情绪悲观，只做超短。", "向下概率大于向上。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "设想美债解决方案，回复认为无论哪种都利好贵金属。",
+    "sentiment": "mixed",
+    "key_opinions": ["美债危机可能用QE解决。", "无论如何利好贵金属。", "美债不会崩，会提高上限。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "对比美股顶住利空上涨与A股利好反跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股顶利空V型反转。", "A股顶利好却下跌。", "调侃A股为正规市场。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "观察侏儒网络（神舟数码）周线支撑，考虑买入。",
+    "sentiment": "positive",
+    "key_opinions": ["周线支撑尚可，考虑买入。", "上次买高，这次少买。", "尝试性投资。"],
+    "mentioned_stocks": ["神舟数码"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论腾讯自选股软件体验，优点是简洁和微信联动。",
+    "sentiment": "positive",
+    "key_opinions": ["界面简洁，看盘方便。", "支持涨跌提醒发微信。", "缺点：不支持某些券商。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "宇树科技亏损18%割肉，被回复嘲讽为接盘侠。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损18%割肉离场。", "被嘲讽拿不住就去打螺丝。", "新股风险大，接盘需谨慎。"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论长白山利润暴增900%，但回复指出季节性波动大。",
+    "sentiment": "mixed",
+    "key_opinions": ["利润总额暴增900%。", "二季度亏损，三季度盈利集中。", "旅游股季节性明显。"],
+    "mentioned_stocks": ["长白山"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论厄尔尼诺对白糖等品种的影响，AI交易者一致性预期。",
+    "sentiment": "mixed",
+    "key_opinions": ["厄尔尼诺预期影响橡胶白糖。", "AI时代交易者共识可能强化。", "期货走势可能带动股票。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "建议上市公司注重股东回报，回复认为融资市难实现。",
+    "sentiment": "negative",
+    "key_opinions": ["建议ST或退市回报差的公司。", "用钱投票，不买即可。", "融资市注重回报是误会。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "在低迷行情下提供投资策略，建议关注创新药和算力替代。",
+    "sentiment": "negative",
+    "key_opinions": ["行情低迷，轻仓或空仓。", "创新药板块相对强势。", "关注国产算力替代机会。"],
+    "mentioned_stocks": ["杰华特"]
+  },
+  {
+    "index": 40,
+    "summary": "提醒海皇（海控）可能不再有15以下价格，基于净资产分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["预测海控净资产上升。", "建议逢高离场，勿追涨。", "部分人继续持有，等分红。"],
+    "mentioned_stocks": ["海控"]
+  },
+  {
+    "index": 41,
+    "summary": "黄金突破4600点，回顾之前4000点唱空言论，反驳空头。",
+    "sentiment": "positive",
+    "key_opinions": ["黄金突破4600，打脸唱空者。", "散户易割在底部追涨。", "黄金看央行动向投资。"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 42,
+    "summary": "询问化债进度和存款搬家，回复认为已接近尾声。",
+    "sentiment": "negative",
+    "key_opinions": ["化债可能快结束，资金撤离。", "存款搬家完成，散户资金转移。", "抄底失败，慌张。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "讨论ST摘帽后的走势，回复指出需看预期和前期涨幅。",
+    "sentiment": "mixed",
+    "key_opinions": ["摘帽后走势看预期。", "前期涨幅大，涨停概率小。", "案例：华通摘帽后跌，步步高涨。"],
+    "mentioned_stocks": ["传智教育", "华通", "步步高"]
+  },
+  {
+    "index": 44,
+    "summary": "分享TI（DOTA2）观赛感悟，类比炒股中的不确定性和心态。",
+    "sentiment": "mixed",
+    "key_opinions": ["DOTA比赛与炒股相似，充满不确定性。", "BP（选股）影响大，如炒股选板块。", "正赛无中国队，似A股反弹缺席。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "询问是否到抄黄金时机，回复认为已涨多，不宜追高。",
+    "sentiment": "negative",
+    "key_opinions": ["考虑抄底黄金。", "涨久后才抄，可能追高。", "建议等回踩再入场。"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 46,
+    "summary": "询问博主川哥停更原因，回复指其换号发布。",
+    "sentiment": "mixed",
+    "key_opinions": ["博主停更，寻问原因。", "换小号发布，内容未变。", "公众号等平台继续更新。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "预测美股科技探底成功，明日A股科技将高开上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["美股科技低开高走，赚钱效应好。", "预期A股科技明日高开。", "乐观期待明日走势。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "观察盘前期货表现，推测明日A股低开，回复多悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["盘前期货显示明日低开。", "A股跟跌不跟涨，习以为常。", "质疑A股能否硬气独立。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "劝诫不适应股市波动的玩家退出，回复批评其言论。",
+    "sentiment": "negative",
+    "key_opinions": ["劝不适应者斩仓删APP。", "批评只愿涨不愿跌的心态。", "股市有风险，需理性承受。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "询问指数缩量缓跌时银行红利股会否被带跌，回复看法不一。",
+    "sentiment": "mixed",
+    "key_opinions": ["指数缓跌，银行红利可能抗跌。", "若全面下跌，老登股也难幸免。", "以往经验银行可避险熊市。"],
+    "mentioned_stocks": []
+  }
+]
