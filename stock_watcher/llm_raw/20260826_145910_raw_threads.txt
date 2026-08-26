@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论在板块不强势时等待优质资产好价格，以及海狗建仓时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["等待优质资产大甩卖需要耐心，以月年为单位蹲守。", "讨论具体股票如伊利、招行的建仓价格。", "A股定价机制迟早出现优质资产低价。"],
+    "mentioned_stocks": ["伊利", "招行", "平安", "海狗"]
+  },
+  {
+    "index": 2,
+    "summary": "分享期货高杠杆交易的恐怖经历，从5万赚到15万又亏回。",
+    "sentiment": "negative",
+    "key_opinions": ["高倍率杠杆易导致冲动交易和亏损。", "赚钱后扛单和急于捞回利润会放大损失。", "期货交易风险极高，可能血本无归。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "用户感觉小牛迹象，但市场震荡等待英伟达财报。",
+    "sentiment": "mixed",
+    "key_opinions": ["有人认为市场在黄金坑，机会来临。", "市场窄幅震荡，等待催化剂如英伟达财报。", "普涨行情迷惑性强，看不懂。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "意外获得1点收益，讨论电力股上涨和A股逻辑缺失。",
+    "sentiment": "mixed",
+    "key_opinions": ["电力股大唐发电和华电国际突然上涨。", "科技股表现不佳，市场分化。", "A股似乎缺乏逻辑，难懂。"],
+    "mentioned_stocks": ["大唐发电", "华电国际"]
+  },
+  {
+    "index": 5,
+    "summary": "市场持续缩量，主力无做多意愿，用户质疑等待什么。",
+    "sentiment": "negative",
+    "key_opinions": ["市场缺乏做多动力，主力身份不明。", "变量太多，不敢轻易拉升。", "上午拉涨但韭菜不跟。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "求助境外股票投资交税问题，需自行申报税务。",
+    "sentiment": "mixed",
+    "key_opinions": ["需自行申报境外股票涨跌部分的税务。", "建议找专业财税人员处理。", "税务追溯可能到23年，资金量大。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "极致缩量和月线死叉，预期调整持续一年或更长。",
+    "sentiment": "negative",
+    "key_opinions": ["调整期可能长达一年或更久。", "市场电风扇行情，无持续性板块。", "指数可能已变成科技指数，不能反映整体。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "普涨行情看不懂，用户困惑市场问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["普涨行情迷惑性强，看不懂原因。", "建议活下去，等待牛市机会。", "市场可能有问题，不是用户个人。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论正规市场的股东回报机制，如回购注销和分红。",
+    "sentiment": "mixed",
+    "key_opinions": ["回购注销和分红是成熟市场标志。", "A股公司可能不回报股东。", "散户行为影响市场，热衷科技股。"],
+    "mentioned_stocks": ["茅台", "格力", "亚马逊", "伯克希尔"]
+  },
+  {
+    "index": 10,
+    "summary": "询问汉森尾盘博弈价值，参考百花和哈药成功案例。",
+    "sentiment": "positive",
+    "key_opinions": ["尾盘博弈有成功案例如百花和哈药。", "感觉成功率较高。"],
+    "mentioned_stocks": ["汉森", "百花", "哈药"]
+  },
+  {
+    "index": 11,
+    "summary": "南方铜业新高，但国内对紫金矿业预判不明，资金有问题。",
+    "sentiment": "negative",
+    "key_opinions": ["国外铜股上涨，国内铜股不跟。", "国内资金喜欢预判，可能错误。", "铜股看长线，短期难做。"],
+    "mentioned_stocks": ["南方铜业", "紫金矿业", "FCX"]
+  },
+  {
+    "index": 12,
+    "summary": "看不懂市场现象，老登和科技都涨但个人亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["市场分化，指数涨但个人持仓亏。", "需参考其他市场如韩国指数。", "早上涨势好但中午A杀。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "今天全涨但成交量可能不足两万亿。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行和科技都涨，可能起飞。", "成交量缩量，难以持续。", "市场被玩坏，指数弱。"],
+    "mentioned_stocks": ["银行", "科技股"]
+  },
+  {
+    "index": 14,
+    "summary": "尾盘买入红宝丽，担心明天亏损风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["尾盘买入可能面临高开低走风险。", "技术分析显示空头压制。", "市场情绪影响股价。"],
+    "mentioned_stocks": ["红宝丽"]
+  },
+  {
+    "index": 15,
+    "summary": "理解保茅台因纳税重要，讨论股价与纳税关系。",
+    "sentiment": "mixed",
+    "key_opinions": ["茅台是国家纳税大户，重要。", "股价高低与纳税无直接关系。", "蓝筹股用于避险，容纳资金。"],
+    "mentioned_stocks": ["茅台", "银行", "白酒"]
+  },
+  {
+    "index": 16,
+    "summary": "航空股是否起飞，讨论东航和南航上涨可能。",
+    "sentiment": "mixed",
+    "key_opinions": ["航空股可能因油价下跌上涨。", "东航超跌补涨，需确认突破。", "南航原地踏步，回本慢。"],
+    "mentioned_stocks": ["东航", "南航"]
+  },
+  {
+    "index": 17,
+    "summary": "英伟达前六次财报后大A跌五次，这次担忧科技股。",
+    "sentiment": "negative",
+    "key_opinions": ["历史显示英伟达财报后大A常跌。", "用户减仓科技股，避险。", "市场避险情绪高。"],
+    "mentioned_stocks": ["英伟达", "科技股"]
+  },
+  {
+    "index": 18,
+    "summary": "Claude构造六维球面复结构，讨论AI能力指数增长。",
+    "sentiment": "positive",
+    "key_opinions": ["AI模型能力指数级增长。", "Claude的数学成就突出。", "OpenAI可能有更多菲奖级成果。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "大时代变小时代是市场恶化标志，容易亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["小时代阶段买啥都容易亏。", "市场参与者越来越少。", "等高抛低吸停止才是玩完。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "催促市场拉升，期待牛市到来。",
+    "sentiment": "mixed",
+    "key_opinions": ["期待市场向上拉。", "开玩笑说牛来。", "市场蓄力中。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "今天涨得猛但成交量可能不到两万亿。",
+    "sentiment": "negative",
+    "key_opinions": ["市场上涨但成交量缩。", "成交量难达两万亿。", "银行拉新高但市场弱。"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 22,
+    "summary": "利通主力资金图像抖动，疑为量化交易。",
+    "sentiment": "mixed",
+    "key_opinions": ["主力资金图像抖动可能因量化T。", "不同App数据不一致，可靠性存疑。"],
+    "mentioned_stocks": ["利通"]
+  },
+  {
+    "index": 23,
+    "summary": "成交量缩，感觉需暴跌才能出量。",
+    "sentiment": "negative",
+    "key_opinions": ["缩量可能预示暴跌。", "暴跌不一定出量，套牢盘躺平。", "市场流动性差。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "8月收盘站上4000避免月线死叉，讨论市场干预。",
+    "sentiment": "mixed",
+    "key_opinions": ["4000点关键，避免月线死叉。", "可能动用证券板块拉升。", "科技股风险高，可能拉其他板块。"],
+    "mentioned_stocks": ["证券", "科技", "白酒", "房地产"]
+  },
+  {
+    "index": 25,
+    "summary": "今天开枪还是等明天，讨论资金流向和策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股可能因英伟达财报下跌。", "资金可能流向银行、化工、医药。", "复星医药可能做波段。"],
+    "mentioned_stocks": ["银行", "化工", "医药", "复星"]
+  },
+  {
+    "index": 26,
+    "summary": "美国CIA头子飞莫斯科，可能影响资本市场。",
+    "sentiment": "negative",
+    "key_opinions": ["事件可能涉及乌克兰或核武。", "对资本市场冲击可能延迟但大。", "国家大事不应由CIA级别谈。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "沪电带领PCB上涨，因业绩超预期。",
+    "sentiment": "positive",
+    "key_opinions": ["沪电业绩超预期，毛利率走强。", "但大盘情绪差，可能补跌。", "板块就它一个走强，风险高。"],
+    "mentioned_stocks": ["沪电"]
+  },
+  {
+    "index": 28,
+    "summary": "抱怨市场对外围反应不对称，跟跌不跟涨。",
+    "sentiment": "negative",
+    "key_opinions": ["市场跟跌不跟涨，行为不对称。", "呼吁惩罚市场参与者。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "长江存储IPO筹备，计划2027年底成为世界第一。",
+    "sentiment": "positive",
+    "key_opinions": ["长江存储在NAND领域领先。", "IPO筹资用于升级设施。", "营收和利润快速增长。"],
+    "mentioned_stocks": ["长江存储", "半导体设备"]
+  },
+  {
+    "index": 30,
+    "summary": "韩指导下班，明天市场关键。",
+    "sentiment": "mixed",
+    "key_opinions": ["明天市场关键。", "希望爆拉。", "没有韩指导可能俯冲。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "泥潭看不起黄金因收益低，讨论杠杆和手续费。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金收益低，不上杠杆没意思。", "期货风险高，易血本无归。", "黄金手续费贵，不划算。"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 32,
+    "summary": "用户通过做T赚钱，像人形量化交易。",
+    "sentiment": "positive",
+    "key_opinions": ["通过做工商银行、建设银行练习做T。", "现在做T轻松，靠此赚钱。"],
+    "mentioned_stocks": ["工商银行", "建设银行"]
+  },
+  {
+    "index": 33,
+    "summary": "中国广核中报比预期高，长期关注核电。",
+    "sentiment": "positive",
+    "key_opinions": ["千亿市值电力股涨4点，业绩好。", "长期关注核电巨头。"],
+    "mentioned_stocks": ["中国广核"]
+  },
+  {
+    "index": 34,
+    "summary": "长飞股票下跌，用户困惑没及时卖出。",
+    "sentiment": "negative",
+    "key_opinions": ["上午没卖是错的，股价绿。", "股票持续下跌。"],
+    "mentioned_stocks": ["长飞"]
+  },
+  {
+    "index": 35,
+    "summary": "观察通鼎，催促买入但风险高。",
+    "sentiment": "mixed",
+    "key_opinions": ["快冲，来不及了。", "加油上涨，但恶庄洗盘。", "股价波动大。"],
+    "mentioned_stocks": ["通鼎"]
+  },
+  {
+    "index": 36,
+    "summary": "养元饮品连续跌停，开恨楼看空。",
+    "sentiment": "negative",
+    "key_opinions": ["养元连续跌停，可能跌到40以下。", "参考长江存储估值。", "明天可能继续跌停。"],
+    "mentioned_stocks": ["养元饮品", "长江存储"]
+  },
+  {
+    "index": 37,
+    "summary": "嘉友国际年年涨，中报好，成长性佳。",
+    "sentiment": "positive",
+    "key_opinions": ["蒙古和非洲物流小公司持续成长。", "现金流好，分红大方。", "股价有5年线支撑。"],
+    "mentioned_stocks": ["嘉友国际"]
+  },
+  {
+    "index": 38,
+    "summary": "证券涨是因为跟美股证券，但A股证券弱。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股证券是跟屁虫，跟风美股。", "美股证券走牛，A股证券跌。", "跟风学习未必错。"],
+    "mentioned_stocks": ["证券"]
+  },
+  {
+    "index": 39,
+    "summary": "用户表达绝望，市场跳水，可能量化折腾。",
+    "sentiment": "negative",
+    "key_opinions": ["用户不懂股票，亏损绝望。", "市场跳水，量化瞎折腾。", "感叹无力。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "跳水了，讽刺这是A股常态。",
+    "sentiment": "negative",
+    "key_opinions": ["跳水是A股该有的样子。", "绿帽子已戴，跟随韩国市场。", "市场下跌符合预期。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "中钨高新实盘记录，坚定看多目标价100。",
+    "sentiment": "positive",
+    "key_opinions": ["全仓进中钨，目标价100。", "钨有逻辑和前景。", "基本面未变，但行情变化快。"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 42,
+    "summary": "又到了天天骂银行的阶段，大时代梦碎。",
+    "sentiment": "negative",
+    "key_opinions": ["银行走势影响自选股。", "大时代像一场梦，演出散场。", "市场情绪低落。"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 43,
+    "summary": "反弹非常弱，市场感觉要去世。",
+    "sentiment": "negative",
+    "key_opinions": ["反弹弱，量能不足。", "市场随时可能大跌。", "老登股涨，情况不妙。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "发现电力跟随票，成功率高，盈亏比好。",
+    "sentiment": "positive",
+    "key_opinions": ["次新股跟随电力股涨停，反应慢但盈亏比高。", "可用于防守英伟达财报风险。", "参考立新、华能涨停后跟。"],
+    "mentioned_stocks": ["电力股", "立新", "华能"]
+  },
+  {
+    "index": 45,
+    "summary": "买了证券和电力，但冲高回落，失望。",
+    "sentiment": "negative",
+    "key_opinions": ["证券和电力买后冲高骗炮。", "证券只能低吸，追高风险大。", "昨天不低吸锦龙后悔。"],
+    "mentioned_stocks": ["证券", "电力", "锦龙"]
+  },
+  {
+    "index": 46,
+    "summary": "看TI电竞比赛感悟，类比炒股的不确定性和生存。",
+    "sentiment": "mixed",
+    "key_opinions": ["不确定性是常态，类似比赛。", "BP影响大，类似市场操控。", "生存比赚钱重要。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "市场没有活人板块，电风扇行情，成交量减少。",
+    "sentiment": "negative",
+    "key_opinions": ["板块无持续性，像破洞裤子。", "成交量缩，3800点可能不稳。", "汪汪队跑路，IPO抽血。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "每次拉证券准没好事，短暂兴奋后阴跌。",
+    "sentiment": "negative",
+    "key_opinions": ["拉证券像吃伟哥，短暂兴奋。", "持续阴跌套人，市场一潭死水。", "证券不大砸，指数空头力量小。"],
+    "mentioned_stocks": ["证券"]
+  },
+  {
+    "index": 49,
+    "summary": "立昂微持续下跌，用户焦虑求助。",
+    "sentiment": "negative",
+    "key_opinions": ["立昂微跌不停，材料股弱势。", "抖音老师推荐就拉黑。", "存储逻辑不行，股价下跌。"],
+    "mentioned_stocks": ["立昂微"]
+  },
+  {
+    "index": 50,
+    "summary": "韩国市场跳水，预期大A跟跌。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国跳水，大A跟跌。", "上午放量下午缩，市场弱。", "跟随日经下跌。"],
+    "mentioned_stocks": []
+  }
+]
