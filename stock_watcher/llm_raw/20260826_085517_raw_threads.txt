@@ -1,0 +1,538 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论deepseek到A股的估值预期，回复暗示明星效应和天价估值。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "明星效应可能比智谱强。",
+      "梁子似乎看不上场内钱。",
+      "保底2W亿，上不封顶。"
+    ],
+    "mentioned_stocks": ["deepseek", "智谱"]
+  },
+  {
+    "index": 2,
+    "summary": "银行红利可能回调，板块分化震荡，科技摇摇欲坠。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "没有其他板块站出来，今日可能分化震荡。",
+      "四大行贵了，招商银行位置不高。",
+      "科技摇摇欲坠，银行回调，大盘指数受压。"
+    ],
+    "mentioned_stocks": ["银行股", "招商银行", "科技板块"]
+  },
+  {
+    "index": 3,
+    "summary": "兆易创新散户期待七板回本，但现实残酷，被质疑为幻想。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "七板回本是散户执念，几乎不可能。",
+      "兆易创新基本面好但股价不振。",
+      "有人质疑这是幻想。"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 4,
+    "summary": "期货交易高风险，杠杆导致大亏损，描述恐怖经历。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "期货杠杆高，容易上瘾和亏损。",
+      "亲身经历从赚到亏。",
+      "金融市场缺乏理性。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "市场突然下跌，原因不明，大A弱不禁风。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大A弱不禁风，易受外部影响。",
+      "可能因大A开盘或外部因素下跌。",
+      "世界空头针对大A。"
+    ],
+    "mentioned_stocks": ["A股", "韩国市场"]
+  },
+  {
+    "index": 6,
+    "summary": "白酒行业前景不佳，销量下降，建议远离。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "白酒销量下降，行业见底需茅台业绩崩塌。",
+      "茅台靠背景，其他白酒位置尴尬。",
+      "白酒下行与年轻人无关，制度变化影响。"
+    ],
+    "mentioned_stocks": ["白酒股", "茅台", "迎驾贡酒"]
+  },
+  {
+    "index": 7,
+    "summary": "A股昨天参与反弹，今天回调。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "今天再参与回调。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "认为买科技之外板块风险大，类似赌博。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "买科技之外板块像去澳门赌博。",
+      "反驳：科技才是高风险。",
+      "鼓励不同观点。"
+    ],
+    "mentioned_stocks": ["科技板块", "红利股"]
+  },
+  {
+    "index": 9,
+    "summary": "宇树机器人公司估值和股价炒作，创始人无法套现。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "发行价104元炒到4000亿，创始人无法套现。",
+      "股东套现方式多样，如股份抵押。",
+      "创业板套现难。"
+    ],
+    "mentioned_stocks": ["宇树机器人", "DEEPSEEK"]
+  },
+  {
+    "index": 10,
+    "summary": "温氏财报惨淡，头均亏损多，可能利好牧原。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "温氏头均亏损比牧原多50%。",
+      "牧原是亏损股流通市值最高。",
+      "猪周期可能被工业克苏鲁摧毁。"
+    ],
+    "mentioned_stocks": ["温氏股份", "牧原股份"]
+  },
+  {
+    "index": 11,
+    "summary": "机器人比赛中国领先，但股市争议大，估值高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中国机器人行业世界领先，老外震惊。",
+      "二级市场股价过高，不认可现价。",
+      "机器人未来潜力大但估值高。"
+    ],
+    "mentioned_stocks": ["宇树机器人", "其他机器人股"]
+  },
+  {
+    "index": 12,
+    "summary": "南方航空股价是否可入手，看空或谨慎。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "南航不是防御股，无分红，可能继续跌。",
+      "A股比H股贵70%，估值高。",
+      "航司在低位，但春秋航空更好。"
+    ],
+    "mentioned_stocks": ["南方航空", "春秋航空"]
+  },
+  {
+    "index": 13,
+    "summary": "宇树股价下跌，是否见底，可博弈其他机器人股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "宇树四天从1100到600，可能继续跌。",
+      "可博弈其他机器人股如上纬新材等。",
+      "人形机器人用途有限。"
+    ],
+    "mentioned_stocks": ["宇树机器人", "上纬新材", "绿地谐波", "中大力德"]
+  },
+  {
+    "index": 14,
+    "summary": "免五账号安全性讨论，大券商安全。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "免五账号安全，大券商没问题。",
+      "100万以上交易额高，免五意义不大。",
+      "使用官方软件安全。"
+    ],
+    "mentioned_stocks": ["国泰海通"]
+  },
+  {
+    "index": 15,
+    "summary": "停战消息对纳指期货无影响，油价跌，英伟达财报是焦点。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "停战可能已计入价格。",
+      "油价跌5%，影响市场。",
+      "英伟达发财报是焦点。"
+    ],
+    "mentioned_stocks": ["纳指期货", "英伟达"]
+  },
+  {
+    "index": 16,
+    "summary": "闪迪股价弱，怀疑长存上市影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "闪迪近期弱，涨太快抛压大。",
+      "长存上市可能吓到闪迪。",
+      "存储巨头技术含量低。"
+    ],
+    "mentioned_stocks": ["闪迪", "美光", "长存"]
+  },
+  {
+    "index": 17,
+    "summary": "持股需耐力，但耐力不一定好，导致亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "没有利润垫难拿住股。",
+      "有耐力可能导致腰斩。",
+      "做T失败仍亏。"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 18,
+    "summary": "市场下跌原因不明，日韩也在跌，英伟达财报影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "日韩跌，大A可能低开。",
+      "利空：英伟达发财报。",
+      "大A昨天打样，今天可能低开高走。"
+    ],
+    "mentioned_stocks": ["日韩市场", "英伟达"]
+  },
+  {
+    "index": 19,
+    "summary": "宇树上市公告揭示高估值、波动和治理风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "估值高，市盈率219倍，行业平均38倍。",
+      "流通盘小，股价波动大。",
+      "实控人控制权集中，有治理风险。"
+    ],
+    "mentioned_stocks": ["宇树机器人"]
+  },
+  {
+    "index": 20,
+    "summary": "机构科技抱团是否瓦解，讨论科技拥挤度。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技瓦解已发生多次。",
+      "科技成交占比仍大，未完全瓦解。",
+      "7月大跌是机构逃亡。"
+    ],
+    "mentioned_stocks": ["科技板块", "科创"]
+  },
+  {
+    "index": 21,
+    "summary": "锶一天暴涨49%，相关股票如红星发展、金瑞矿业。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "锶暴涨，可能打板红星或金瑞。",
+      "红星发展概念多但曾亏损。",
+      "金瑞可能一字板。"
+    ],
+    "mentioned_stocks": ["红星发展", "金瑞矿业", "金属ETF"]
+  },
+  {
+    "index": 22,
+    "summary": "美股烟草板块表现好，对比A股烟草未上市。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股烟草板块牛逼。",
+      "中国烟草未上市，无法分享。",
+      "港股中烟香港被低估。"
+    ],
+    "mentioned_stocks": ["奥驰亚", "中烟香港"]
+  },
+  {
+    "index": 23,
+    "summary": "黄金投资收益低，需杠杆，股市目标高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黄金不上杠杆收益低。",
+      "股市目标高，黄金太慢。",
+      "黄金手续费贵。"
+    ],
+    "mentioned_stocks": ["黄金相关"]
+  },
+  {
+    "index": 24,
+    "summary": "股市波动大，赚很少钱，费时费力。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "挣了6块钱，费时费力。",
+      "亏损经历。",
+      "精准控盘，对冲完美。"
+    ],
+    "mentioned_stocks": ["国产链"]
+  },
+  {
+    "index": 25,
+    "summary": "美联储通胀预期，网友质疑数据真实性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美联储称通胀回落最可能。",
+      "网友认为数字编造。",
+      "CPI指标排除食品和油价。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "梭哈泛微网络凭直觉，自信涨停。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "男人第六感，明天涨停。",
+      "泛微网络图形妖。",
+      "灵车概念股。"
+    ],
+    "mentioned_stocks": ["泛微网络", "五洲交通"]
+  },
+  {
+    "index": 27,
+    "summary": "中钨高新实盘记录，坚定看多，目标价100。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "全仓中钨，目标价100。",
+      "认同钨逻辑。",
+      "可能抄底太早。"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 28,
+    "summary": "加拿大对美加税，可能利好中国出口。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "加拿大加税，可能利好中国出口。",
+      "消息早有。",
+      "美股反攻。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "韩国指数表现比A股好，批评A股涨少跌多。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国指数全年涨60点，日本30点。",
+      "A股涨少跌多。",
+      "韩国有三星海力士等龙头。"
+    ],
+    "mentioned_stocks": ["韩指", "日经", "三星海力士"]
+  },
+  {
+    "index": 30,
+    "summary": "罗伯特科和宇树泡沫比较，看空两者。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "罗伯特科类似寒王，泡沫大。",
+      "宇树需摆脱玩具形象。",
+      "两者领域不同难比。"
+    ],
+    "mentioned_stocks": ["罗伯特科", "宇树机器人"]
+  },
+  {
+    "index": 31,
+    "summary": "特朗普加关税可能，访问前虚空造牌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "彭博说特朗普加税7.5%。",
+      "访问前虚空造牌，谈判筹码。",
+      "A股可能无反应。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "小米芯片消息少，可能领先但机构不信。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "小米芯片可能领先高通苹果。",
+      "自研芯片可降低成本。",
+      "机构可能不信宣传。"
+    ],
+    "mentioned_stocks": ["小米", "高通", "苹果", "联发科"]
+  },
+  {
+    "index": 33,
+    "summary": "美股科技涨，预测明天大反弹，但谨慎。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "美股科技起来了。",
+      "英伟达财报可能影响。",
+      "信心已散，估值悲观。"
+    ],
+    "mentioned_stocks": ["美股科技", "英伟达"]
+  },
+  {
+    "index": 34,
+    "summary": "三安光电问题搞笑，冲动买入后悔。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "尾盘冲动买，后悔。",
+      "公司破烂，法拍。",
+      "股东增加但仍亏。"
+    ],
+    "mentioned_stocks": ["三安光电"]
+  },
+  {
+    "index": 35,
+    "summary": "金风中报好但被商航拖累，行业定价低。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "金风是好企业，回购注销。",
+      "营收增长但行业定价低。",
+      "绿醇项目有预期。"
+    ],
+    "mentioned_stocks": ["金风科技"]
+  },
+  {
+    "index": 36,
+    "summary": "英伟达小作文可能是抹黑，AI发展挖护城河。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "英伟达被小作文攻击。",
+      "AI发展可能挖自己护城河。",
+      "卖铲子越多越好。"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 37,
+    "summary": "科创铁盒五连阴，宇树IPO后被抽干。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "铁盒连续五天大阴棒。",
+      "宇树IPO后科创被抽干。",
+      "可能探双底。"
+    ],
+    "mentioned_stocks": ["科创铁盒"]
+  },
+  {
+    "index": 38,
+    "summary": "定投场内纳指科技和纳指100，计划长期投资退休。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "存款搬家定投纳指。",
+      "目标年入10万+退休。",
+      "泡沫破了就老实上班。"
+    ],
+    "mentioned_stocks": ["纳指科技", "纳指100"]
+  },
+  {
+    "index": 39,
+    "summary": "美光图形平台整理，可能突破，A股弱。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "美光高位盘整，含金量足。",
+      "A股看起来要去世。",
+      "等英伟达财报。"
+    ],
+    "mentioned_stocks": ["美光"]
+  },
+  {
+    "index": 40,
+    "summary": "中概互联网讨论楼，崩盘失望。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中概崩盘，虫二的锅。",
+      "低吸虫一。",
+      "恒科讨论热度高。"
+    ],
+    "mentioned_stocks": ["中概互联网ETF", "虫一", "虫二", "虫三"]
+  },
+  {
+    "index": 41,
+    "summary": "10年债下来，求还3990，抱怨美股不拉AI硬件。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "10年债又下来了。",
+      "美股不拉AI硬件。",
+      "AI硬件派发筹码给散户。"
+    ],
+    "mentioned_stocks": ["3990"]
+  },
+  {
+    "index": 42,
+    "summary": "中科曙光估值低，业绩不错，质疑A股估值混乱。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中科曙光估值低，业绩不错。",
+      "50市盈率还低？大A估值混乱。",
+      "国内服务器不如联想。"
+    ],
+    "mentioned_stocks": ["中科曙光", "联想集团"]
+  },
+  {
+    "index": 43,
+    "summary": "今日大A拥挤度分享，科技拥挤但无其他接棒。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技分崩离析，但拥挤度仍高。",
+      "偏离MA20，到支撑位。",
+      "除了科技没板块接棒。"
+    ],
+    "mentioned_stocks": ["科技板块"]
+  },
+  {
+    "index": 44,
+    "summary": "基因测序机会，推荐华大智造，国产替代逻辑强。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "美股基因测序板块涨。",
+      "A股推荐华大智造。",
+      "基因组学国产替代逻辑强。"
+    ],
+    "mentioned_stocks": ["华大智造", "华大基因", "艾德生物", "金斯瑞生物科技"]
+  },
+  {
+    "index": 45,
+    "summary": "视频号推负面股票内容，不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "视频号推股票亏损内容。",
+      "建议穿红内裤。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "纳指和费半跳水，失望，创新药新高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "小纳和费半从涨到跌。",
+      "创新药新高。",
+      "科技仓位亏损。"
+    ],
+    "mentioned_stocks": ["纳指", "费半", "创新药"]
+  },
+  {
+    "index": 47,
+    "summary": "AI量化交易基于论坛情绪失败，热门股风险高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "AI分析论坛情绪选股失败。",
+      "热门股是收割机。",
+      "拥挤度含金量高。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "A股一年涨5点，或慢牛起点，讽刺乐观。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "一年5点，长期增长。",
+      "慢牛可能。",
+      "去年不同，今年操作多。"
+    ],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 49,
+    "summary": "明天高开是否跑，犹豫执行祖训。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "高开概率大，是否跑？",
+      "执行祖训。",
+      "明天看情况。"
+    ],
+    "mentioned_stocks": []
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论AI公司DeepSeek若在A股上市的估值预期。",
+    "sentiment": "mixed",
+    "key_opinions": ["明星效应可能比智谱更强", "创始人可能看不上场内资金", "估值预期从两万亿起，上不封顶"],
+    "mentioned_stocks": ["DeepSeek"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论银行股及红利板块是否即将回调。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行可能回调但无板块能接力", "四大行估值已高，部分银行仍有空间", "回调或导致大盘指数承压"],
+    "mentioned_stocks": ["招商银行"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论兆易创新散户期待股价连板回本的困境。",
+    "sentiment": "negative",
+    "key_opinions": ["“七板回本”是散户不切实际的幻想", "公司基本面好但股价长期套牢", "被套牢源于不愿止损或等待解套"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 4,
+    "summary": "分享期货高杠杆交易的高风险经历和刺激体验。",
+    "sentiment": "negative",
+    "key_opinions": ["高杠杆易导致亏损和心态失衡", "赚钱后易因扛单和急于翻本而爆仓", "期货风险远高于股市"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论市场小幅上涨后突然出现的下跌原因。",
+    "sentiment": "negative",
+    "key_opinions": ["A股市场脆弱，易受外部影响", ["下跌与A股开盘有关", "可能受英伟达财报博弈影响"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论白酒行业（特别是茅台）面临销量下滑和未来困境。",
+    "sentiment": "negative",
+    "key_opinions": ["消费群体萎缩，销量下降是趋势", "茅台未来可能面临业绩崩塌", "行业困境与社会消费习惯变化相关"],
+    "mentioned_stocks": ["茅台", "迎驾贡酒"]
+  },
+  {
+    "index": 7,
+    "summary": "以图片形式调侃市场在反弹和回调间的切换。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场行情波动大，反弹后紧跟回调"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "争论投资科技板块与其他板块的风险对比。",
+    "sentiment": "negative",
+    "key_opinions": ["观点认为非科技板块投资如赌博", "反驳者认为高风险的科技股才像赌博", "红利股息率因抛售而提升"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论宇树科技上市后股价暴涨，创始人实际收益有限。",
+    "sentiment": "negative",
+    "key_opinions": ["股价暴涨对创始人实际好处有限", "质疑创始人营销手段和减持可能", "探讨科创板股东套现的非减持方式"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论温氏股份财报亏损严重，对比牧原股份的成本优势。",
+    "sentiment": "negative",
+    "key_opinions": ["温氏头均亏损远超牧原", "牧原在成本控制上有碾压性优势", "猪周期可能已被行业竞争改变"],
+    "mentioned_stocks": ["温氏股份", "牧原股份"]
+  },
+  {
+    "index": 11,
+    "summary": "为国产机器人行业（宇树科技）辩护，反驳市场质疑。",
+    "sentiment": "positive",
+    "key_opinions": ["中国机器人技术领先全球，受国际认可", "当前股价过高，不认可其估值", "二级市场炒作与公司价值脱节"],
+    "mentioned_stocks": ["宇树科技", "斯菱股份"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论南方航空股价是否接近底部并可投资。",
+    "sentiment": "negative",
+    "key_opinions": ["股价已跌破关键位置，趋势不乐观", "需关注国际油价长期走势", "A股股价较港股大幅溢价"],
+    "mentioned_stocks": ["南方航空", "春秋航空"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论宇树科技股价暴跌，是否具备反弹及投资机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价暴跌或存在短期博弈机会", "估值过高，野村目标价仅300元", "可关注其他被错杀的机器人概念股"],
+    "mentioned_stocks": ["宇树科技", "绿的谐波", "中微公司"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论“免五”证券账户的资金安全问题。",
+    "sentiment": "positive",
+    "key_opinions": ["使用正规券商软件资金安全", "大券商开户相对可靠", "纠结免五的投资者资金量通常不大"],
+    "mentioned_stocks": ["国泰海通"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论地缘政治缓和（如停战传闻）对纳指期货反应平淡的原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场或已提前计价地缘政治缓和", "关注英伟达财报发布", "除非有实质性大事件否则市场反应冷淡"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论西部数据股价疲软，猜测是否受长江存储上市消息影响。",
+    "sentiment": "negative",
+    "key_opinions": ["股价弱于美光，走势令人费解", "怀疑是受长江存储上市传闻冲击", "前期涨幅过大，存在获利了结压力"],
+    "mentioned_stocks": ["西部数据", "美光", "长江存储"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论在震荡市中持股需要强大耐力，但未必能盈利。",
+    "sentiment": "negative",
+    "key_opinions": ["缺乏利润垫则难以长期持有", "仅凭耐力可能导致持续亏损", "在7月份市场中持有损失惨重"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论隔夜后市场出现的下跌，并询问是否有利空。",
+    "sentiment": "negative",
+    "key_opinions": ["关注英伟达财报对市场的潜在影响", "市场处于迷茫期，波动属正常", "担忧A股可能低开"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "分析宇树科技上市公告中的风险，看空其股价。",
+    "sentiment": "negative",
+    "key_opinions": ["估值远高于行业平均水平", "上市初期流通盘小，股价波动风险大", "实控人集中控制权存在治理风险"],
+    "mentioned_stocks": ["宇树科技", "优必选", "越疆"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论机构在科技股上的抱团是否已经瓦解。",
+    "sentiment": "mixed",
+    "key_opinions": ["7月大跌证明抱团曾瓦解", "科技股成交占比仍高，拥挤度未完全释放", "对散户是瓦解，对主力是获利了结"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论锶概念股暴涨，分析相关个股如红星发展、金瑞矿业。",
+    "sentiment": "mixed",
+    "key_opinions": ["金属锶概念驱动相关个股上涨", "金瑞矿业是更纯正的标的，可能一字板", "资金借消息面进行短线炒作"],
+    "mentioned_stocks": ["红星发展", "金瑞矿业", "沃格光电"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论美股烟草等稳定分红板块，对比A股稀缺此类标的。",
+    "sentiment": "mixed",
+    "key_opinions": ["羡慕美股有烟草等高分红板块", ["A股烟草若上市将是稀缺投资标的", "烟草属重税行业，上市可能性低"],
+    "mentioned_stocks": ["奥驰亚", "中烟香港"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论黄金投资因杠杆低、收益慢被部分投资者看不上。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为黄金收益慢，不如其他投资刺激", ["黄金投资价值在于稳健盈利", "黄金相关产品手续费较高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "分享在震荡市中小幅盈利或亏损的纠结交易日。",
+    "sentiment": "negative",
+    "key_opinions": ["全天震荡最终盈利微薄甚至亏损", "投资者心态备受折磨", "分享精准盈亏平衡的讽刺案例"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "转发美联储官员关于通胀回落的预测，引发质疑。",
+    "sentiment": "negative",
+    "key_opinions": ["质疑美联储通胀预测的真实性", ["认为美联储通过调整指标来控制数据", "指出其偏好指标已排除能源和食品价格"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "基于“第六感”全仓买入泛微网络，并期待涨停。",
+    "sentiment": "negative",
+    "key_opinions": ["投资决策缺乏理性依据", "该股图形走势被认为“妖异”", "被其他投资者视为不理智的赌博行为"],
+    "mentioned_stocks": ["泛微网络", "五洲交通"]
+  },
+  {
+    "index": 27,
+    "summary": "记录对中钨高新的实盘看多操作和目标价。",
+    "sentiment": "positive",
+    "key_opinions": ["全仓看多中钨高新，目标价100元", "认同公司钨业务的长期逻辑", "目标价基于技术回撤位测算"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论加拿大对美国加征关税的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["关注是否利好中国出口", ["认为双方爆发严重冲突的可能性低", "市场可能已对关税消息有所预期"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "对比韩国股市指数与A股指数的表现，A股相对落后。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国指数全年表现优于A股", ["A股表现弱势，被形容为“软骨头”", "韩国股市受三星等巨头主导"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "比较罗博特科和宇树科技两家公司的估值泡沫。",
+    "sentiment": "negative",
+    "key_opinions": ["罗博特科业务相对明确，但估值高", "宇树科技前景不确定，需证明产品力", "罗博特科被部分投资者视为“庄股”"],
+    "mentioned_stocks": ["罗博特科", "宇树科技"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论特朗普拟加征关税，分析其可能为谈判策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["加税是特朗普的“交易艺术”或虚空造牌", "市场可能已对此类消息脱敏", "A股若对此有反应则表现不佳"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "讨论小米自研芯片进展缓慢及市场反应冷淡。",
+    "sentiment": "negative",
+    "key_opinions": ["小米芯片消息缺乏市场反响", ["自研芯片有助于降低成本和提升利润", "除非完全弃用外部芯片，否则故事不成立"],
+    "mentioned_stocks": ["小米集团", "高通"]
+  },
+  {
+    "index": 33,
+    "summary": "因美股科技反弹而预期A股将大涨，但持怀疑态度。",
+    "sentiment": "negative",
+    "key_opinions": ["投资者预期A股将跟随美股反弹", "多数回复持怀疑态度，认为可能高开低走", "市场信心不足，估值逻辑转向悲观"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "分享买入三安光电后遭遇的问题，股价下跌引发抱怨。",
+    "sentiment": "negative",
+    "key_opinions": ["冲动买入后股价下跌导致后悔", "公司存在法拍等负面问题", "股东数量增加被视为接盘信号"],
+    "mentioned_stocks": ["三安光电"]
+  },
+  {
+    "index": 35,
+    "summary": "分析金风科技中报，认为公司优秀但股价被行业拖累。",
+    "sentiment": "positive",
+    "key_opinions": ["公司基本面好，财务和回购行为积极", "因行业其他公司表现差，估值被压低", "投资者扎堆进入导致持仓体验差"],
+    "mentioned_stocks": ["金风科技"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论英伟达面临竞争对手小作文冲击的传闻。",
+    "sentiment": "negative",
+    "key_opinions": ["质疑竞争对手宣传芯片性能领先的真实性", "认为这是模仿中国企业的营销手段", "AI发展可能最终削弱英伟达的护城河"],
+    "mentioned_stocks": ["英伟达", "博通"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论“铁盒”（可能指某ETF或指数）连续下跌五日。",
+    "sentiment": "negative",
+    "key_opinions": ["标的连续下跌，投资者担忧进一步下行", "部分投资者已开始买入或试图做T", "与宇树IPO后科创板块资金被抽离有关"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "制定长期定投纳指ETF的计划，以期实现财务自由。",
+    "sentiment": "positive",
+    "key_opinions": ["计划将大额存款定投于纳指科技ETF", "目标是长期持有实现年入10万+退休", "不进行风险对冲，坚信纳指表现"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "分析美光科技股价图形呈平台整理，或有突破可能。",
+    "sentiment": "positive",
+    "key_opinions": ["美光股价在高位盘整，走势较强", "美股高位盘整比A股更具“含金量”", "可能与等待英伟达财报有关"],
+    "mentioned_stocks": ["美光"]
+  },
+  {
+    "index": 40,
+    "summary": "建立中概互联网讨论楼，交流相关ETF投资策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["部分投资者因下跌而减仓或离场", "有投资者逆势加仓或定投", "关注中概股ETF的费率及成分股差异"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "讨论十年期国债收益率下行与市场风格的矛盾。",
+    "sentiment": "negative",
+    "key_opinions": ["国债收益率下行但AI硬件等板块不涨", "AI硬件股上涨被视为边拉边派发", "股市本质是筹码的收集与派发循环"],
+    "mentioned_stocks": ["长江电力"]
+  },
+  {
+    "index": 42,
+    "summary": "询问中科曙光估值偏低的原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["公司业务不错但估值不高", "A股不同板块估值差异巨大", "与联想等公司相比被低估"],
+    "mentioned_stocks": ["中科曙光", "联想集团"]
+  },
+  {
+    "index": 43,
+    "summary": "分享市场拥挤度数据，显示科技板块拥挤度仍高。",
+    "sentiment": "negative",
+    "key_opinions": ["科技板块拥挤度虽有下降但仍处高位", "投资者对科技板块有“忠诚度”", "缺乏其他板块能承接从科技流出的资金"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "推荐A股基因测序龙头华大智造，并看好AI+医药前景。",
+    "sentiment": "positive",
+    "key_opinions": ["基因测序受美股Moderna大涨带动", "华大智造是A股基因检测板块核心标的", "国产替代在基因数据领域逻辑强劲"],
+    "mentioned_stocks": ["华大智造", "华大基因", "艾德生物", "金斯瑞生物科技"]
+  },
+  {
+    "index": 45,
+    "summary": "调侃算法推送的股市内容过于直接。",
+    "sentiment": "mixed",
+    "key_opinions": ["自嘲算法推荐内容针对性过强"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "提醒美股纳指和费城半导体指数跳水，谨慎乐观。",
+    "sentiment": "negative",
+    "key_opinions": ["美股指数盘中涨幅大幅回落", "不能简单认为外围涨A股就跟", "创新药等板块走势相对独立"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "介绍基于论坛情绪的AI量化交易策略效果不佳。",
+    "sentiment": "negative",
+    "key_opinions": ["AI分析论坛热门股进行交易均跑输指数", "结论是热门股票是“收割机”", "印证了“拥挤度”的投资风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "调侃A股一年仅涨5%的“慢牛”行情。",
+    "sentiment": "negative",
+    "key_opinions": ["讽刺A股涨幅微小如“牛市起点”", ["认为市场上涨缓慢但投资者仍在等待", "指出当前市场环境与以往不同，操作困难"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "讨论如果次日高开是否应该卖出。",
+    "sentiment": "mixed",
+    "key_opinions": ["基于预判询问高开后的操作策略", "多数回复建议谨慎，可能高开低走", "部分建议根据祖训或具体走势决定"],
+    "mentioned_stocks": []
+  }
+]
