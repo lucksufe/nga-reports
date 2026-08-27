@@ -1,0 +1,494 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论汪汪队（主力资金）对月线图的影响，涉及证券稳指数、出货、散户行为等。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "汪汪队今天可能出货。",
+      "大金融证券稳指数很有效。",
+      "散户可能被三根大阳线吸引回来。"
+    ],
+    "mentioned_stocks": ["证券"]
+  },
+  {
+    "index": 2,
+    "summary": "某股票越跌融资盘越多，用户计划在20左右接盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股票下跌但融资盘增加。",
+      "用户计划在20左右接盘。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "指数快到4000点，但个人钱没回来，财富再分配给红利。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "指数上涨但个人亏损。",
+      "财富可能流向红利股。"
+    ],
+    "mentioned_stocks": ["红利股"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论今天是否适合抄底，有血筹卖出，大盘需稳住。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大盘需要稳住。",
+      "缩量拉升，不看好后面。",
+      "有色行业可能去世。"
+    ],
+    "mentioned_stocks": ["有色股"]
+  },
+  {
+    "index": 5,
+    "summary": "用户分享从盈利46%亏到亏损44%的经历，本金腰斩。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "用户从盈利46%亏到亏损44%。",
+      "建议做好止损。",
+      "有人亏损更多。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "今天操作容易，买什么都不会被套。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "今天操作容易，不会被套。",
+      "狗队应该早点这么做。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "后悔从澜起换成兆易，兆易创新表现差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "后悔从澜起换成兆易。",
+      "兆易创新表现差。",
+      "建议别跳来跳去。"
+    ],
+    "mentioned_stocks": ["澜起", "兆易创新", "普冉"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论清仓时机，版里乐观情绪让人怕。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "版里乐观情绪让人怕。",
+      "有分歧就还得涨。",
+      "等版里哀嚎时进场。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "看涨今天暴涨，明天延续，但NGA乐观时往往大跌。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "今天暴涨，明天延续。",
+      "明天再起飞就清仓。",
+      "NGA乐观时往往大跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "K线顺滑自然，技术面看涨，可能是慢牛。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "K线顺滑，上涨趋势。",
+      "任何时间点买都不亏。",
+      "可能是慢牛。"
+    ],
+    "mentioned_stocks": ["文峰"]
+  },
+  {
+    "index": 11,
+    "summary": "证券股票异动，可能牛市来临。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "证券又动了。",
+      "可能牛市来临。"
+    ],
+    "mentioned_stocks": ["证券"]
+  },
+  {
+    "index": 12,
+    "summary": "宝丰股票与科技股一起涨，估值低但业绩可能差。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "宝丰估值低，地板价。",
+      "可能因为Q2业绩差。",
+      "正常平台震荡。"
+    ],
+    "mentioned_stocks": ["宝丰", "万华", "美的", "比亚迪"]
+  },
+  {
+    "index": 13,
+    "summary": "A股今天硬，科技顶住韩国跳水，但可能装一天。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "A股今天硬，科技顶住。",
+      "韩国跳水，A股可能装一天。",
+      "明天可能抱摔。"
+    ],
+    "mentioned_stocks": ["科技股", "银行股", "中国移动"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论阳光电源投资者是否爆仓，股价破100。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "投资者成本180+，现在破100。",
+      "可能因行政令影响。",
+      "有人早跑了。"
+    ],
+    "mentioned_stocks": ["阳光电源"]
+  },
+  {
+    "index": 15,
+    "summary": "建议别急入场，等冲4000点或站稳4100。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "明天放量2.5万亿冲4000再入场。",
+      "冲4000可能清仓。",
+      "等站稳4100更安全。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "赌胜宏科技财报，Q2业绩可能不好，低开或为买点。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "胜宏Q2业绩可能不好。",
+      "Q3起量，Q4放量。",
+      "财报出来低开可能是买点。"
+    ],
+    "mentioned_stocks": ["胜宏科技", "英伟达"]
+  },
+  {
+    "index": 17,
+    "summary": "科技股今天硬，可能进入三个香港人阶段。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "科技股今天硬。",
+      "可能进入三个香港人阶段。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 18,
+    "summary": "询问知名用户是否还在，论坛氛围差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "文佬和sai佬可能离开。",
+      "论坛氛围差，负面情绪多。",
+      "其他平台氛围好。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "看好东方铁塔股票，化肥出口机会，估值便宜。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "东方铁塔估值便宜，业绩好。",
+      "化肥出口是机会。",
+      "亚钾国际估值高。"
+    ],
+    "mentioned_stocks": ["东方铁塔", "亚钾国际", "川恒股份", "云天化"]
+  },
+  {
+    "index": 20,
+    "summary": "换仓操作，圣阳股份太磨叽，换超声电子和托伦斯。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "圣阳股份太磨叽，换了。",
+      "超声电子超跌底部。",
+      "有人跟风。"
+    ],
+    "mentioned_stocks": ["圣阳股份", "超声电子", "托伦斯", "贤丰控股", "红板"]
+  },
+  {
+    "index": 21,
+    "summary": "中韩半导体ETF溢价10%，不让跑路。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "中韩半导体ETF溢价10%。",
+      "不让9点半开盘跑路。"
+    ],
+    "mentioned_stocks": ["中韩半导体ETF"]
+  },
+  {
+    "index": 22,
+    "summary": "招金黄金逆板块上涨，可能掩护出货。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "招金黄金逆板块硬拉。",
+      "可能掩护其他个股出货。"
+    ],
+    "mentioned_stocks": ["招金黄金", "贵金属"]
+  },
+  {
+    "index": 23,
+    "summary": "上证月线死叉技术问题，国家队可画线。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "月线死叉可能需要看下个月。",
+      "国家队可以画线。",
+      "后视镜炒股。"
+    ],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 24,
+    "summary": "红利股下跌，可能加仓机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "红利普遍下跌1-2%。",
+      "红利人想加仓。",
+      "业绩不好。"
+    ],
+    "mentioned_stocks": ["红利股"]
+  },
+  {
+    "index": 25,
+    "summary": "成交量不足，明天抛压巨大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "成交量没放量。",
+      "明天抛压巨大。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "推荐深信服股票，业绩反转，走势好。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "深信服软件，业绩反转。",
+      "走势好，可能突破。",
+      "网络安全行业不看好。"
+    ],
+    "mentioned_stocks": ["深信服"]
+  },
+  {
+    "index": 27,
+    "summary": "今天走势美，牛回速归，历史强势。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "今天走势很美。",
+      "历史上牛转熊没这么强势。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "感觉踏空，科技涨猛但没放量。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技涨猛，没放量。",
+      "狗队可能一波流带走。",
+      "A股无踏空说法。"
+    ],
+    "mentioned_stocks": ["黄金股", "科技股"]
+  },
+  {
+    "index": 29,
+    "summary": "10点开始跳水，量化可能有时间因子。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "10点跳水。",
+      "量化可能有时间因子。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "行情好但买了阳光电源亏钱，黑天鹅事件。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "行情好但买了阳光电源亏钱。",
+      "阳光电源黑天鹅。",
+      "建议止损。"
+    ],
+    "mentioned_stocks": ["阳光电源", "德业股份"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论红利股配置深市必要性，推荐如美的。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "深市红利股不如沪市。",
+      "推荐美的、平安银行等。",
+      "分散配置。"
+    ],
+    "mentioned_stocks": ["美的", "平安银行", "宁德时代", "招商银行", "中国平安", "分众传媒", "云南白药"]
+  },
+  {
+    "index": 32,
+    "summary": "清仓沃森诺德，买入圣阳股份。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "清仓沃森诺德，买入圣阳股份。",
+      "被定增恶心。",
+      "有人跟风。"
+    ],
+    "mentioned_stocks": ["沃森诺德", "圣阳股份"]
+  },
+  {
+    "index": 33,
+    "summary": "卖飞中海油，原本想等油价起来。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "卖飞中海油。",
+      "原本想等油价起来。",
+      "忍不住追科技。"
+    ],
+    "mentioned_stocks": ["中海油", "科技股"]
+  },
+  {
+    "index": 34,
+    "summary": "黄金股讨论少，震荡下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黄金股讨论少。",
+      "震荡下跌，养生喝茶。"
+    ],
+    "mentioned_stocks": ["黄金股"]
+  },
+  {
+    "index": 35,
+    "summary": "投机策略讨论，科技股渣男化，日内超短。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股渣男化，骗炮熟练。",
+      "进入日内超短滚仓阶段。",
+      "妖股更安全。"
+    ],
+    "mentioned_stocks": ["松发股份", "哈药", "护垫", "沪上阿姨", "胜宏", "中际旭创", "楚天龙", "通鼎", "亨通", "大光", "光纤"]
+  },
+  {
+    "index": 36,
+    "summary": "蜜雪冰城财报下跌，奶茶价格战、健康问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "蜜雪财报出来吃大面。",
+      "奶茶价格战，蜜雪口味差。",
+      "年轻人关注健康。"
+    ],
+    "mentioned_stocks": ["蜜雪冰城"]
+  },
+  {
+    "index": 37,
+    "summary": "哈药股份低迷，不温不火，监管期。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "哈药变成考古现场，不温不火。",
+      "进了小黑屋没好下场。",
+      "准备打底仓。"
+    ],
+    "mentioned_stocks": ["哈药股份"]
+  },
+  {
+    "index": 38,
+    "summary": "浮亏心态舒服，不用焦虑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "浮亏不用焦虑。",
+      "亏得不够多。",
+      "被主力调教。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "建楼讨论高蒸明煲股，观测到多。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "观测到各个楼里对这股出现次数多。",
+      "刚走吃了6个点。"
+    ],
+    "mentioned_stocks": ["高蒸明煲"]
+  },
+  {
+    "index": 40,
+    "summary": "投降中钨高新，亏损后全仓进白银。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中钨高新横盘怒亏10个点。",
+      "全仓进白银。",
+      "优质股但要看时机。"
+    ],
+    "mentioned_stocks": ["中钨高新", "白银"]
+  },
+  {
+    "index": 41,
+    "summary": "担心明天埋人，今天涨得奇怪。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "今天涨得奇怪。",
+      "明天可能埋人。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "钨股涨太快，没上车，昨天论坛都说可上。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "钨股涨太快，没上车。",
+      "昨天论坛都说可以上。",
+      "好消息加仓，坏消息只加一手。"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 43,
+    "summary": "中国铀业反弹走势稳，核燃料涨价概念。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中国铀业反弹走势稳。",
+      "核燃料涨价概念。",
+      "周期股，快进快出。"
+    ],
+    "mentioned_stocks": ["中国铀业"]
+  },
+  {
+    "index": 44,
+    "summary": "大A牛逼，用户决定离开。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大A牛逼。",
+      "用户决定离开。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "败绿科技-14%，建议加仓满仓干。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "败绿科技-14%。",
+      "建议加仓满仓干。",
+      "整天串没意思。"
+    ],
+    "mentioned_stocks": ["败绿科技"]
+  },
+  {
+    "index": 46,
+    "summary": "分散投资适合，开超市心态平稳。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "开超市心态平稳。",
+      "散户应该分散。",
+      "一万一万建仓稳。"
+    ],
+    "mentioned_stocks": ["ETF", "全A ETF", "上证指数"]
+  }
+]
