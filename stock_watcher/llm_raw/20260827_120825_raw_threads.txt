@@ -1,0 +1,324 @@
+[
+  {
+    "index": 1,
+    "summary": "散户买入后股价见顶的困扰，讨论量化影响和心理因素。",
+    "sentiment": "negative",
+    "key_opinions": ["散户心理趋同导致买顶", "量化交易影响市场", "建议买热门票避免"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "比较逆回购、余额宝和银行存款的收益，讨论优缺点。",
+    "sentiment": "mixed",
+    "key_opinions": ["逆回购收益高于余额宝和银行存款", "余额宝是活期，逆回购有流动性限制", "逆回购利率不稳定，需考虑税收"],
+    "mentioned_stocks": ["逆回购", "余额宝", "工行存款"]
+  },
+  {
+    "index": 3,
+    "summary": "预测科技股因温和放量回暖，但回复有怀疑。",
+    "sentiment": "positive",
+    "key_opinions": ["科技股可能上涨", "量能不足以支撑大涨", "科技与指数可能跷跷板"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论下午买科技反指（防御性股票），如农业、电力等。",
+    "sentiment": "mixed",
+    "key_opinions": ["买科技反指如农业股", "预期下午跳水", "防御性股票选择有限"],
+    "mentioned_stocks": ["农业", "电力", "药明", "化工"]
+  },
+  {
+    "index": 5,
+    "summary": "操作失误卖飞神奇制药，有其他股票安慰。",
+    "sentiment": "negative",
+    "key_opinions": ["操作失误导致卖飞", "有其他股票如金牛安慰"],
+    "mentioned_stocks": ["神奇制药", "金牛", "百花"]
+  },
+  {
+    "index": 6,
+    "summary": "寻求分红股票配置建议，推荐红利ETF或个股。",
+    "sentiment": "positive",
+    "key_opinions": ["稳定长期持有分红股", "推荐红利ETF或分散个股", "优先选国企和龙头"],
+    "mentioned_stocks": ["红利ETF", "福耀玻璃", "招商银行", "长江水电", "中海油", "中国移动", "中国平安"]
+  },
+  {
+    "index": 7,
+    "summary": "红利股下跌，部分人看作加仓机会。",
+    "sentiment": "negative",
+    "key_opinions": ["红利股普遍下跌", "下跌可能是加仓机会", "正常市场波动"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论深市红利股配置的必要性，推荐具体股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["深市红利股可能不如沪市", "推荐美的、平安银行等", "打新配置策略"],
+    "mentioned_stocks": ["美的集团", "平安银行", "宁德时代", "分众传媒", "粤高速A", "云南白药"]
+  },
+  {
+    "index": 9,
+    "summary": "分享某专家观点称牛市回归，回复多负面和质疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["引用专家观点看涨", "回复质疑专家可信度", "讨论模拟盘可能性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "预期银行红利股回调，讨论科技股和指数影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行股可能回调", "科技股摇摇欲坠", "等待回调买入"],
+    "mentioned_stocks": ["银行股", "四大行", "招商银行"]
+  },
+  {
+    "index": 11,
+    "summary": "清仓圣阳股份，买入超声电子和托伦斯，操作记录。",
+    "sentiment": "neutral",
+    "key_opinions": ["清仓圣阳，买入超声电子和托伦斯", "对PCB板块判断", "等待更好机会"],
+    "mentioned_stocks": ["圣阳股份", "超声电子", "托伦斯", "贤丰控股", "红板", "宝鼎"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论'祖训'（高开低走规律），表达恐惧和保守操作。",
+    "sentiment": "negative",
+    "key_opinions": ["高开可能低走", "保守操作如卖出部分", "历史规律常应验"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "推荐股票佳力图，看好其图形和上涨空间。",
+    "sentiment": "positive",
+    "key_opinions": ["看好佳力图上涨", "图形分析显示底部建仓", "风险提醒压力位"],
+    "mentioned_stocks": ["佳力图", "共进"]
+  },
+  {
+    "index": 14,
+    "summary": "寻找知名用户文佬和sai佬，讨论论坛氛围差。",
+    "sentiment": "mixed",
+    "key_opinions": ["用户流失到其他平台", "论坛氛围负面", "赚钱难正反馈少"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "期待指数突破4000点，科技股当主力军。",
+    "sentiment": "positive",
+    "key_opinions": ["指数将破4000点", "科技股应主导上涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "分析业绩大票走势平平，业绩小票狂暴拉升的现象。",
+    "sentiment": "mixed",
+    "key_opinions": ["大票业绩兑现但走势平", "小票业绩平但拉升", "原因包括预期和资金"],
+    "mentioned_stocks": ["大光", "二光", "沪电", "仕佳光子", "有研新材", "联瑞新材", "赛微电子", "中科飞测"]
+  },
+  {
+    "index": 17,
+    "summary": "提及关键节点，有图片分析。",
+    "sentiment": "neutral",
+    "key_opinions": ["市场关键节点分析"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "预期下午跳水，基于历史规律。",
+    "sentiment": "negative",
+    "key_opinions": ["下午可能跳水", "历史规律支持"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "看涨通信股（通子），因英伟达财报利好。",
+    "sentiment": "positive",
+    "key_opinions": ["英伟达财报利好科技", "通子（通信股）将上涨", "持仓等待"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论中概互联网股票，有亏损和操作策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["中概股波动大", "操作如减仓或加仓", "长期持有或定投"],
+    "mentioned_stocks": ["中概互联网ETF", "恒科", "虫一", "虫二", "虫三", "米子"]
+  },
+  {
+    "index": 21,
+    "summary": "考虑梭哈AI应用股泛微网络，有建议和警告。",
+    "sentiment": "mixed",
+    "key_opinions": ["泛微网络与AI应用相关", "风险高，建议买腾讯", "短线机会不确定"],
+    "mentioned_stocks": ["泛微网络", "腾讯"]
+  },
+  {
+    "index": 22,
+    "summary": "称主力资金卖出，提示风险。",
+    "sentiment": "negative",
+    "key_opinions": ["主力卖出信号", "今天冲进去风险高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "长飞光纤上涨，因利润暴涨和光纤涨价。",
+    "sentiment": "positive",
+    "key_opinions": ["长飞光纤利润暴涨", "光纤产品涨价推动", "业绩修复持续"],
+    "mentioned_stocks": ["长飞光纤", "亨通"]
+  },
+  {
+    "index": 24,
+    "summary": "看好胜宏科技，操作记录显示上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["胜宏科技上涨", "操作如抄底", "等待中报"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 25,
+    "summary": "航空股可能反弹，因油价下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["航空股或迎反弹", "油价下跌利好", "持仓情况不一"],
+    "mentioned_stocks": ["东航", "南航"]
+  },
+  {
+    "index": 26,
+    "summary": "询问亏损科技股是否割肉，有建议加仓。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重达-14%", "建议加仓摊薄成本", "风险高需谨慎"],
+    "mentioned_stocks": ["败绿科技"]
+  },
+  {
+    "index": 27,
+    "summary": "思源电气因美国制裁跌停。",
+    "sentiment": "negative",
+    "key_opinions": ["被美国制裁导致跌停", "电网设备禁令影响大", "类似阳光电源下跌"],
+    "mentioned_stocks": ["思源电气", "阳光电源"]
+  },
+  {
+    "index": 28,
+    "summary": "表达对股市失望，决定离开。",
+    "sentiment": "negative",
+    "key_opinions": ["对大A市场失望", "决定不再参与"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讨论量化交易在10点操作，导致市场波动。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化在10点卖出", "市场因此波动", "量化难以预测"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "提及日本股市上涨，类似其他市场。",
+    "sentiment": "positive",
+    "key_opinions": ["日本股市上涨", "表现类似其他市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "散户亏损严重，股市风险如捐款。",
+    "sentiment": "negative",
+    "key_opinions": ["散户亏损达99.9%", "股市如赌博或诈骗", "多数人亏损"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "担忧上证月线死叉，讨论是否可救回。",
+    "sentiment": "negative",
+    "key_opinions": ["月线死叉担忧", "可能被主力救回", "技术分析如画线"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 33,
+    "summary": "回顾去年十二连阳，讨论死叉可救和科技牛。",
+    "sentiment": "mixed",
+    "key_opinions": ["狗队可拉升指数", "死叉可救回", "科技牛可能复刻"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论英伟达业绩对科技牛影响，验证AI增长。",
+    "sentiment": "mixed",
+    "key_opinions": ["英伟达业绩验证AI增长", "短期波动不改长期", "产业预期被拉满"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 35,
+    "summary": "吐槽盘面震荡无聊，加减仓困难。",
+    "sentiment": "negative",
+    "key_opinions": ["盘面震荡恶心", "加减仓操作困难", "缺乏方向"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "讨论科技股与有色板块关系，关注黄金走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股吸金有色", "黄金高位盘整", "加息影响不确定"],
+    "mentioned_stocks": ["有色", "黄金"]
+  },
+  {
+    "index": 37,
+    "summary": "猜测跳水时间，量能不足。",
+    "sentiment": "negative",
+    "key_opinions": ["预期下午跳水", "量能不足约1.4万亿", "跳水可能是买点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "讨论抄基金作业的可行性，认为不可靠。",
+    "sentiment": "negative",
+    "key_opinions": ["基金作业不可靠", "调仓信息不透明", "不如跟沪深300"],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论德明利作为存储龙头，可能涨停。",
+    "sentiment": "positive",
+    "key_opinions": ["德明利是存储龙头", "可能涨停", "区分兆易创新"],
+    "mentioned_stocks": ["德明利", "兆易创新"]
+  },
+  {
+    "index": 40,
+    "summary": "米业股票上涨，观察仓位买入。",
+    "sentiment": "positive",
+    "key_opinions": ["米业上涨强", "观察仓位买入一万", "万向三板"],
+    "mentioned_stocks": ["米业", "万向"]
+  },
+  {
+    "index": 41,
+    "summary": "科技股回暖上涨，但抛压大。",
+    "sentiment": "positive",
+    "key_opinions": ["科技股回暖", "ETF涨幅小", "抛压大未回本"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "宝丰能源与科技股同步上涨，脱离蓝筹股。",
+    "sentiment": "mixed",
+    "key_opinions": ["宝丰能源上涨像科技股", "估值处地板价", "平台震荡"],
+    "mentioned_stocks": ["宝丰能源", "万华", "美的", "比亚迪"]
+  },
+  {
+    "index": 43,
+    "summary": "煤炭ETF呈现慢牛走势。",
+    "sentiment": "positive",
+    "key_opinions": ["煤炭ETF慢牛"],
+    "mentioned_stocks": ["煤炭ETF"]
+  },
+  {
+    "index": 44,
+    "summary": "药明康德受利空影响，但长期看好。",
+    "sentiment": "mixed",
+    "key_opinions": ["药明康德利空影响", "长期逻辑看好", "等待均线收拢"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 45,
+    "summary": "昊华能源股票套牢，筹码峰不健康。",
+    "sentiment": "negative",
+    "key_opinions": ["筹码峰不健康", "中报看业绩", "逻辑硬但资金不足"],
+    "mentioned_stocks": ["昊华能源"]
+  },
+  {
+    "index": 46,
+    "summary": "期待牛市回归，走势强势。",
+    "sentiment": "positive",
+    "key_opinions": ["走势强势似牛市", "历史对比显示不该弱势"],
+    "mentioned_stocks": []
+  }
+]
