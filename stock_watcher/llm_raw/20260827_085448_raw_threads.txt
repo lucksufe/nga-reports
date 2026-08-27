@@ -1,0 +1,548 @@
+[
+  {
+    "index": 1,
+    "summary": "用户许愿A股大跌，讨论市场低迷和深度调整，希望一次性兑现利空。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场阴跌磨底，不如一次跌透才有机会。",
+      "预测A股开盘后大幅下跌，兑现利空。",
+      "希望科技股调整以便捡便宜筹码。"
+    ],
+    "mentioned_stocks": ["农行", "比亚迪", "长鑫", "茅台"]
+  },
+  {
+    "index": 2,
+    "summary": "提醒今天是周四，讨论“黑周四”现象和KFC梗。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黑周四可能带来不利影响。",
+      "建议逆回购应对风险。",
+      "期待市场起飞。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论日韩和纳指期货下跌，担心美股高开低走影响A股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "英伟达业绩利好但可能高开低走。",
+      "A股可能低开套人。",
+      "韩股下跌趋势明显。"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 4,
+    "summary": "质疑日韩和纳指对英伟达利好的反应冷淡，特别是韩股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩股反应弱，未达熔断预期。",
+      "日经可能翻绿，反应冷淡。",
+      "市场情绪偏谨慎。"
+    ],
+    "mentioned_stocks": ["海力士", "英伟达"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论高开后的操作策略，引用“组训”指经验教训。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "高开后可能跑路，避免亏损。",
+      "认为次次都一样，历史重复。",
+      "建议中大高开卖，小高观察。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "担心夜盘能否撑到美股开盘，可能高台跳水。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "夜盘可能下跌，撑不到开盘。",
+      "对市场前景悲观。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "比喻A股像肖申克监狱，只有磨掉心才能出狱。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场磨人，难以解脱。",
+      "利好管道股（基建）。",
+      "反复坐牢，无期徒刑。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论“汪汪队”卖出，暗示今天不宜买入。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国家队卖出，市场风险高。",
+      "数据来源存疑，需验证。",
+      "韩股下跌，情绪悲观。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "抱怨同花顺广告多，与其他APP比较。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "同花顺广告烦人，影响体验。",
+      "国泰APP较简洁，推荐使用。",
+      "NGA广告也恶心，普遍不满。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "强调英伟达财报中现金流问题，担心可持续性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "现金流增长不如利润，存在隐忧。",
+      "客户拉长账期导致应收增加。",
+      "现金流可能暴雷，需警惕。"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 11,
+    "summary": "分享GLM-5.3-Flash模型使用国产卡成功推理的消息。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "模型用国产卡扛住全球流量。",
+      "针对国产芯片优化推理系统。",
+      "消息比交易所信息更重要。"
+    ],
+    "mentioned_stocks": ["中芯国际"]
+  },
+  {
+    "index": 12,
+    "summary": "寻求红利股票推荐，讨论具体股票表现。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "推荐中国神华等红利股。",
+      "格力业绩不佳，低开可能有机会。",
+      "白酒股如五粮液有雷，需谨慎。"
+    ],
+    "mentioned_stocks": ["格力", "五粮液", "茅台", "中国神华"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论“老登”（传统行业股）表现，担心科技股吸血。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "老登股反弹差不多，该跑路。",
+      "科技股可能吸血，市场分化。",
+      "今天是法定砸盘日，风险高。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "质疑英伟达业绩对科技牛持续性的影响，需看其他公司财报。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "英伟达是总龙头，影响大。",
+      "产业可持续性需微软等财报验证。",
+      "AI竞赛目的明显，前景乐观。"
+    ],
+    "mentioned_stocks": ["英伟达", "微软", "谷歌"]
+  },
+  {
+    "index": 15,
+    "summary": "强调心态比技术重要，在不确定市场中考验耐心。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市场无方向，靠运气赚钱。",
+      "纪律高于一切，心态关键。",
+      "错误心态会导致不能翻身。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论英伟达财报是否大超预期，市场反应可能平淡。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "财报超预期但市场质疑持续性。",
+      "超预期越多透支越多未来。",
+      "看盘后股价表现验证预期。"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 17,
+    "summary": "询问机器人股票是否可买，讨论宇树等公司。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跟宇树做可能有风险。",
+      "比亚迪或小米可能更好。",
+      "买机器人上游股票更稳。"
+    ],
+    "mentioned_stocks": ["比亚迪", "小米", "智元机器人"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论抄基金作业的可行性，基金表现不佳。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "基金套牢严重，不信任作业。",
+      "调仓不可见，风险高。",
+      "散户不如买沪深300。"
+    ],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 19,
+    "summary": "格力中报业绩下滑，讨论对市场的影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "营收利润双降，业绩不佳。",
+      "海外销售拖累，中东打仗影响。",
+      "消费不行，经济下行。"
+    ],
+    "mentioned_stocks": ["格力", "美的"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论高开后的操作，引用“祖训”指经验教训。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "高开祖训还是卖在第一根红K。",
+      "今天可能最后一根，谨慎。",
+      "不如低开收阳，乐观幻想。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "英伟达财报暴涨，闻到小牛香气，鼓励冲。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "今天关键一天，冲。",
+      "乐观看涨小牛。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "提醒明天中元节，鬼来了，市场可能受影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中元节可能带来负面情绪。",
+      "大A多穷鬼赌鬼，调侃。",
+      "拉红干爆魑魅魍魉，乐观。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "预测下半年科技继续杀估值，市场调整。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股高位调整，杀估值。",
+      "场外资金不进场，缺乏动力。",
+      "杀估值需明年年报机会。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "信濠光电亏损但收购滴滴和比亚迪股权。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "连亏两年花9.5亿收购。",
+      "收购滴滴和比亚迪股权。",
+      "有意外和疑问。"
+    ],
+    "mentioned_stocks": ["信濠光电", "滴滴", "比亚迪"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论车企是否已商业化机器人，对比宇树等。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "电动车类似机器人，商业化了。",
+      "宇树没手难搞，挑战大。",
+      "机器人比智驾难，门槛高。"
+    ],
+    "mentioned_stocks": ["宇树", "优必选", "比亚迪", "小米"]
+  },
+  {
+    "index": 26,
+    "summary": "预测“通子”（通富微电）将龙王归来，基于英伟达财报。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "英伟达财报超预期，通子起飞。",
+      "拿着没被吓走，期待上涨。",
+      "怕高开杂绿，谨慎乐观。"
+    ],
+    "mentioned_stocks": ["通富微电"]
+  },
+  {
+    "index": 27,
+    "summary": "找到紫光国微的主力（杨总），讨论其持仓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "杨总持仓像老股民，不够专业。",
+      "发言像韭菜，质疑内幕。",
+      "仅供娱乐，不保真。"
+    ],
+    "mentioned_stocks": ["紫光国微", "光明乳业"]
+  },
+  {
+    "index": 28,
+    "summary": "锶一天暴涨49%，讨论相关股票。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "金瑞可能涨停，概念多。",
+      "红星发展风险高，资金不净。",
+      "金属ETF有机会，关注。"
+    ],
+    "mentioned_stocks": ["红星发展", "金瑞", "金属ETF"]
+  },
+  {
+    "index": 29,
+    "summary": "感觉明天不妙，英伟达财报可能引发市场下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "财报超预期也跌，不及预期爆炸。",
+      "达子明天只是跌多少问题。",
+      "科技ETF怎么办，担忧。"
+    ],
+    "mentioned_stocks": ["英伟达", "科技ETF"]
+  },
+  {
+    "index": 30,
+    "summary": "求助境外收入交税问题，讨论富途等券商。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "需要自行申报境外收入税。",
+      "交税肉疼，资金量大。",
+      "数据被穿透，无法逃避。"
+    ],
+    "mentioned_stocks": ["富途"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论今天是否要祖训（高开跑路），担忧市场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高开可能要跑，避免套牢。",
+      "情绪一致，次次都一样。",
+      "遵从祖训不会亏，谨慎。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "比较不同公司对存储涨价的态度，微软和英伟达没阴阳。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "微软和英伟达没酸存储涨价。",
+      "英伟达也说存储影响利润。",
+      "苹果台积电阴阳，态度差。"
+    ],
+    "mentioned_stocks": ["微软", "英伟达", "台积电", "苹果"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论伯里做空英伟达，可能亏损。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "伯里做空英伟达，风险大。",
+      "他可能买put做空，无无所谓。",
+      "做空当柴火，正规市场。"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 34,
+    "summary": "科技股似乎正常点了，少有大战，但热钱可能走了。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股正常化，大战少。",
+      "热钱走了，流动性差。",
+      "跷跷板效应，板块轮动。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "最终幻想，预测科技第二波主升，基于英伟达等利好。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "英伟达业绩远超预期，带动科技。",
+      "美伊谈判进展，利好市场。",
+      "交易降息预期，乐观幻想。"
+    ],
+    "mentioned_stocks": ["英伟达", "海力士"]
+  },
+  {
+    "index": 36,
+    "summary": "扪心自问科技是否到头，对比历史周期。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技行情尾声像历史周期。",
+      "利好不断但瑕疵出现，内卷。",
+      "老登股也要配，分散风险。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "黄仁勋提前给出业绩指引，讨论其含义。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "达子太硬，可能扭转情绪。",
+      "不是好信号，代价越来越大。",
+      "可能维持泡沫，需警惕。"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 38,
+    "summary": "英伟达盘后大V，从205到218。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "达子V型反弹，情绪乐观。",
+      "可能复刻去年走势。",
+      "量价齐升，科技引领。"
+    ],
+    "mentioned_stocks": ["英伟达", "NBIS"]
+  },
+  {
+    "index": 39,
+    "summary": "美国通胀数据无人在意，市场关注度低。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "数据符合预期但没帖子，流量缩。",
+      "美联储加息两难，市场无方向。",
+      "大A已大结局，失望。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "英伟达财报超预期，营收962亿美元。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "营收超预期，表现强劲。",
+      "盘后没跌超预期，市场认可。",
+      "Q3展望也超预期，增长持续。"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 41,
+    "summary": "伊朗就霍尔木兹海峡收入分配与阿曼达成一致，美方介入延误。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "伊朗控制海峡，强硬表态。",
+      "美国介入延误进程。",
+      "表面让步实则强硬，地缘政治。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "牛市可能走熊，情绪杀崩。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "七月杀狠，情绪崩溃。",
+      "牛可能走远，悲观预期。",
+      "科技股遗老遗少，调整。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "加入小纳（纳斯达克ETF）一个月，收益波动大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "杠杆ETF风险高，谨慎使用。",
+      "震荡期别拿杠杆，易亏损。",
+      "长持杠杆迟早栽跟头。"
+    ],
+    "mentioned_stocks": ["纳斯达克ETF"]
+  },
+  {
+    "index": 44,
+    "summary": "英伟达Q3预期1080亿，超预期。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "Q3预期超预期，增长强劲。"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 45,
+    "summary": "太极实业半年报，股东人数激增，散户套牢。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股东从17W涨到54W，散户涌入。",
+      "散户套牢，科技真熊。",
+      "股票无大资金操盘，阴跌。"
+    ],
+    "mentioned_stocks": ["太极实业", "风华", "宝鼎", "长电"]
+  },
+  {
+    "index": 46,
+    "summary": "大v天龙，小纳开V，期待明天。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "小纳开V，情绪好转。",
+      "量缩，市场谨慎。",
+      "可能卖铲人终结，需观察。"
+    ],
+    "mentioned_stocks": ["美光"]
+  },
+  {
+    "index": 47,
+    "summary": "如何买看好的股票，讨论大资金全天买法。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "大资金全天买，平滑影响。",
+      "小资金一笔买，方便。",
+      "信自己，哪个能赚搞哪个。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "minimax财报讨论，负几十起步但暗盘涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "财报负几十，基数低。",
+      "暗盘涨3.6点，意外。",
+      "智谱永续合约，科技股上链。"
+    ],
+    "mentioned_stocks": ["minimax", "智谱"]
+  },
+  {
+    "index": 49,
+    "summary": "科技基本面没问题，但市场情绪差。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "龙头票基本面好，但股价高。",
+      "高位谈基本面等于接盘。",
+      "市场流动性差，情绪低迷。"
+    ],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 50,
+    "summary": "求推荐分红股票配置，讨论红利股。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "推荐红利ETF或个股配置。",
+      "多支分散投资，降低风险。",
+      "举例四大行等国企龙头。"
+    ],
+    "mentioned_stocks": ["红利ETF", "福耀玻璃", "招商轮船", "工行", "伊利", "华域"]
+  }
+]
