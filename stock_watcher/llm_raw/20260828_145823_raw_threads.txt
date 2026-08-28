@@ -1,0 +1,317 @@
+[
+  {
+    "index": 1,
+    "summary": "用户科技股亏损35%，考虑换红利股询问回本时间，讨论股息回本难度和科技股反弹可能。",
+    "sentiment": "negative",
+    "key_opinions": ["股息率5%回本需多年，科技股涨50%+才回本", "红利股风险如股票腰斩", "科技股可能反弹如上月球"],
+    "mentioned_stocks": ["科技", "红利股"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论科技股下跌原因，如量化交易、散户减少，农业股表现稳定。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股像野狗一样不稳定", "量化交易影响大", "农业股波动向上"],
+    "mentioned_stocks": ["科技股", "农业股"]
+  },
+  {
+    "index": 3,
+    "summary": "质疑指数被人为控制，讨论为国庆准备4000点及月线死叉问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["指数可能被国家队控盘", "月线死叉难救回", "4000点或为国庆献礼"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 4,
+    "summary": "事件导致股市下跌，用户抱怨但内容模糊。",
+    "sentiment": "negative",
+    "key_opinions": ["棒子（外部因素）导致下跌", "小A（A股）受拖累"],
+    "mentioned_stocks": ["小A（A股）"]
+  },
+  {
+    "index": 5,
+    "summary": "用户自身股市亏损，供应商挪用公款炒股亏损，引发愤怒。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重到无法接受", "公款炒股是牛市见顶信号", "需追回挪用资金"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "认为科技股缺乏利好，将长期底部震荡，已清仓一半。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股无大利好", "月线拉起难度高", "逐步清仓策略"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 7,
+    "summary": "持仓全绿但部分板块上涨，如农业食品和银行，讨论指数红绿情况。",
+    "sentiment": "mixed",
+    "key_opinions": ["持仓资源证券银行等下跌", "农业食品饮料上涨", "红利低波指数成分股红"],
+    "mentioned_stocks": ["中国银行", "工商银行", "中信证券", "紫金矿业", "中芯国际"]
+  },
+  {
+    "index": 8,
+    "summary": "提出炒股策略：指数3950以上买红利，跌破3900建仓科技。",
+    "sentiment": "mixed",
+    "key_opinions": ["根据指数点位切换板块", "银行股风险高不建议进", "农业化工有行情"],
+    "mentioned_stocks": ["银行", "科技", "农业", "化工"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论购买退市股深康佳的风险和收益，参考中航产融案例。",
+    "sentiment": "mixed",
+    "key_opinions": ["退市风险高，股价可能跌至2.48", "现金选择权需及时行使", "参考中航产融收益率约2%"],
+    "mentioned_stocks": ["深康佳", "中航产融"]
+  },
+  {
+    "index": 10,
+    "summary": "抱怨卖出股票后T+1或T+2日涨停，卖飞频繁发生。",
+    "sentiment": "negative",
+    "key_opinions": ["短线卖飞是常态", "交易手续费低", "散户诊断需求"],
+    "mentioned_stocks": ["和远气体", "凯莱英", "圣阳股份"]
+  },
+  {
+    "index": 11,
+    "summary": "誉衡药业涨停，用户原预期亏损，分析医药股上涨和主力控盘。",
+    "sentiment": "positive",
+    "key_opinions": ["医药股涨停如誉衡药业", "日K线诱人有第二波走势", "主力控盘吸筹迹象"],
+    "mentioned_stocks": ["誉衡药业", "冀衡医药", "千金药业"]
+  },
+  {
+    "index": 12,
+    "summary": "锶价格暴涨49%，相关股票如红星发展和金瑞涨停。",
+    "sentiment": "positive",
+    "key_opinions": ["金属锶暴涨推动相关股", "金瑞可能一字板", "红星发展概念多"],
+    "mentioned_stocks": ["红星发展", "金瑞", "金属ETF"]
+  },
+  {
+    "index": 13,
+    "summary": "询问上证月线死叉是否既定事实，讨论救回可能性。",
+    "sentiment": "negative",
+    "key_opinions": ["月线死叉预示下跌趋势", "国家队可能画线控制", "技术分析有局限"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 14,
+    "summary": "抱怨股市涨跌反复，昨天涨的今天又跌回。",
+    "sentiment": "negative",
+    "key_opinions": ["市场波动大", "亏损 frustration"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "德明利股票变绿，建议撤退。",
+    "sentiment": "negative",
+    "key_opinions": ["德明利下跌", "建议撤退"],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论恒生科技指数下跌原因，成分股业绩差和未来前景。",
+    "sentiment": "negative",
+    "key_opinions": ["恒科成分股业绩下滑", "腾讯价格值得买", "其他公司如阿里问题大"],
+    "mentioned_stocks": ["恒科（恒生科技）", "腾讯", "中芯国际", "小米", "阿里"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论美国经济数据和会议频繁，对市场影响大。",
+    "sentiment": "mixed",
+    "key_opinions": ["美国数据会议多如CPI、PCE", "市场反应如石头扔鱼塘", "全球关注美国动向"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "沈飞业绩下降但股价上涨，讨论原因如航展预期。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价上涨因消息面驱动", "航展和新飞机预期", "基本面与股价脱节"],
+    "mentioned_stocks": ["沈飞", "成飞"]
+  },
+  {
+    "index": 19,
+    "summary": "市场流动性差，可能脱水。",
+    "sentiment": "negative",
+    "key_opinions": ["市场流动性不足"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "市场回到龙头首阴玩法，可能熊市一段时间。",
+    "sentiment": "negative",
+    "key_opinions": ["龙头股下跌", "缺乏主线和量能", "熊市迹象"],
+    "mentioned_stocks": ["龙头股"]
+  },
+  {
+    "index": 21,
+    "summary": "希望市场回调只是暂时，讨论外部因素和黑天鹅风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["回调可能深化如7月", "美联储会议影响", "科技股跟随外围下跌"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 22,
+    "summary": "早上买入科技股亏损，讨论抄底时机差和套牢风险。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股下跌套牢", "抄底时机不当", "早上买是煞笔行为"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 23,
+    "summary": "思源电气放量下跌，讨论抄底机会和中美博弈影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["放量下跌可能因中美打压", "有大资金核按钮", "基本面支撑不明"],
+    "mentioned_stocks": ["思源电气"]
+  },
+  {
+    "index": 24,
+    "summary": "蓝箭IPO进度可能推进，商业航天埋伏。",
+    "sentiment": "positive",
+    "key_opinions": ["蓝箭IPO进度期待", "商业航天有潜力"],
+    "mentioned_stocks": ["蓝箭"]
+  },
+  {
+    "index": 25,
+    "summary": "杭氧股份可能启动，讨论与长鑫合作和气体涨价。",
+    "sentiment": "positive",
+    "key_opinions": ["可能与长鑫合作落地", "气体涨价支撑基本面", "横盘吸筹迹象"],
+    "mentioned_stocks": ["杭氧股份", "昊华"]
+  },
+  {
+    "index": 26,
+    "summary": "询问红利股票推荐，讨论具体股票风险和机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["推荐中国神华", "格力业绩雷风险", "白酒如五粮液股息高但风险"],
+    "mentioned_stocks": ["中国神华", "格力", "五粮液", "茅台", "伊利"]
+  },
+  {
+    "index": 27,
+    "summary": "用户做空英伟达亏损，讨论市场乐观和做空失败。",
+    "sentiment": "negative",
+    "key_opinions": ["做空英伟达失败", "英伟达财报利好", "市场相信老黄而非空头"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 28,
+    "summary": "建仓失败股票下跌，讨论观察仓策略和建仓时机。",
+    "sentiment": "negative",
+    "key_opinions": ["建仓时机早", "二季报可能是转折", "每跌10%加仓策略"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讨论嘉玲姐股票，东旭系清仓可能有动作。",
+    "sentiment": "mixed",
+    "key_opinions": ["持股十年被套", "东旭系清仓70%", "董事长美女"],
+    "mentioned_stocks": ["嘉玲姐"]
+  },
+  {
+    "index": 30,
+    "summary": "有色与科技股成对手盘，讨论板块轮动和存量博弈。",
+    "sentiment": "mixed",
+    "key_opinions": ["有色与科技对立", "存量资金博弈", "板块如药和有色轮动"],
+    "mentioned_stocks": ["有色", "科技"]
+  },
+  {
+    "index": 31,
+    "summary": "煤炭ETF表现平淡，讨论科技反转影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["煤炭ETF稳定", "科技反转时可能切换", "持仓观望"],
+    "mentioned_stocks": ["煤炭ETF"]
+  },
+  {
+    "index": 32,
+    "summary": "市场下跌可批评，讨论医药股可能主线和板块异动。",
+    "sentiment": "negative",
+    "key_opinions": ["市场糟糕可喷", "医药股或成主线", "板块如农业地产异动"],
+    "mentioned_stocks": ["医药"]
+  },
+  {
+    "index": 33,
+    "summary": "指数被当超短线玩，国家队和量化出货。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队做T出货", "量化跟风", "指数波动大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "幽默讨论科技股上涨，基于反向推理如张继科。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股涨跌玩笑", "反向推理无逻辑", "市场情绪戏谑"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 35,
+    "summary": "上证指数月K线MACD死叉，讨论预示下跌和外部因素。",
+    "sentiment": "negative",
+    "key_opinions": ["死叉预示下跌", "关键变量如美联储会议", "国家队控盘力度强"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 36,
+    "summary": "买入时机差只差一手，导致亏损最大化。",
+    "sentiment": "negative",
+    "key_opinions": ["买在最高点", "亏损最大化", "需多练习"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "601919股票价格下跌，讨论业绩公布和分红重要性。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价跌至17", "等待业绩公布", "分红是关键"],
+    "mentioned_stocks": ["601919（中远海控）"]
+  },
+  {
+    "index": 38,
+    "summary": "华电国际业绩优秀，火电公司中表现最好。",
+    "sentiment": "positive",
+    "key_opinions": ["业绩下滑收窄", "综合上网电价增长", "分红坚持有水电注入预期"],
+    "mentioned_stocks": ["华电国际", "华能"]
+  },
+  {
+    "index": 39,
+    "summary": "科技下跌导致资金流出，银行白酒不被看好。",
+    "sentiment": "negative",
+    "key_opinions": ["科技跌资金跑", "早上放量两千亿撤退", "银行白酒不接盘"],
+    "mentioned_stocks": ["银行", "白酒"]
+  },
+  {
+    "index": 40,
+    "summary": "消费股上涨科技股下跌，讨论调仓困难和板块轮动。",
+    "sentiment": "negative",
+    "key_opinions": ["消费股爆拉科技股蠕动", "调仓像小丑", "消费股腰斩后上涨"],
+    "mentioned_stocks": ["消费股", "科技股", "美的"]
+  },
+  {
+    "index": 41,
+    "summary": "股市亏损对不起家人，讨论精准抄底但卖出早。",
+    "sentiment": "negative",
+    "key_opinions": ["精准抄底建行但卖早", "银行短线生活", "手续费低但亏损"],
+    "mentioned_stocks": ["建行（建设银行）"]
+  },
+  {
+    "index": 42,
+    "summary": "推荐佳力图股票，讨论底部建仓和庄股可能。",
+    "sentiment": "positive",
+    "key_opinions": ["底部建仓吸筹", "庄股可能", "目标价11-12"],
+    "mentioned_stocks": ["佳力图"]
+  },
+  {
+    "index": 43,
+    "summary": "准备上船（投资），讨论扬帆起航时机。",
+    "sentiment": "positive",
+    "key_opinions": ["扬帆起航", "16.5准时上船"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "周末股票分析，讨论液冷股、半导体和医药方向。",
+    "sentiment": "mixed",
+    "key_opinions": ["液冷股如金田股份潜力", "半导体材料横盘", "医药如复星超跌反弹"],
+    "mentioned_stocks": ["金田股份", "金富股份", "福达合金", "海鸥", "复星", "中船防务"]
+  },
+  {
+    "index": 45,
+    "summary": "合百股票连涨四天，讨论底部捞金和期待加速。",
+    "sentiment": "positive",
+    "key_opinions": ["底部捞金", "连红四天", "期待大资金加速"],
+    "mentioned_stocks": ["合百"]
+  }
+]
