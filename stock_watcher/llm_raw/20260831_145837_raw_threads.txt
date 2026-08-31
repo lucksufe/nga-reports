@@ -1,0 +1,338 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论佳力图股票走势，包括发车推荐、庄股特征和卖飞经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["佳力图目标价看到11-12元。", "图形好看，底部建仓吸筹。", "有庄股特征，入场需注意压力位。"],
+    "mentioned_stocks": ["佳力图"]
+  },
+  {
+    "index": 2,
+    "summary": "分享对月线死叉、中际、券商和AI应用的判断和操作经验。",
+    "sentiment": "mixed",
+    "key_opinions": ["中际抄底打短，利润不高。", "券商在底部地量时喊多，判断正确。", "AI应用低开高走，应用比硬件强。"],
+    "mentioned_stocks": ["中际", "券商", "汇金科技"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论token和计算机科学学生话题，非股市相关，带幽默和讽刺。",
+    "sentiment": "mixed",
+    "key_opinions": ["建议众筹本地部署模型。", "嘲讽用词'词元'缺乏文化自信。", "没有token不该被骂畜生。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论中钨高新股票，用户提到预测股价到100元并计划回调买入。",
+    "sentiment": "positive",
+    "key_opinions": ["泥潭大哥预测股价到100元。", "计划-8%回调时上车。", "严肃关注，设置条件单。"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 5,
+    "summary": "用户询问招商蛇口看法，想买几手并提到大阴线和创新低。",
+    "sentiment": "negative",
+    "key_opinions": ["今天超绝大阴线，想买几手陪创新低。"],
+    "mentioned_stocks": ["招商蛇口"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论黄金价格暴跌，分享预测和图片，涉及4400点位。",
+    "sentiment": "mixed",
+    "key_opinions": ["4400以上稳住就没事，跌破就空。", "差不多快要企稳了。", "赌4400跌不破。"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论存储模组厂如江波龙的盈利和囤货情况，看好行业前景。",
+    "sentiment": "positive",
+    "key_opinions": ["江波龙二季度赚100亿，囤货250亿。", "老板持股40%，分红丰厚。", "行业玩供应链和库存管理。"],
+    "mentioned_stocks": ["江波龙"]
+  },
+  {
+    "index": 8,
+    "summary": "用户抱怨操作被主力监控，一卖就涨，卖的票涨最多。",
+    "sentiment": "negative",
+    "key_opinions": ["每次格局就低开低走，卖了就拉红。", "卖的票涨最多，没卖的动也不动。", "难受卖掉时往往是触底反弹。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论股票'大小姐'，用户分享短线操作经验，自信且操作频繁。",
+    "sentiment": "positive",
+    "key_opinions": ["今天32.9接了，明天涨就出，跌就长拿。", "这波短线反弹吃得满嘴流油。", "持股时间不超过一天。"],
+    "mentioned_stocks": ["大小姐"]
+  },
+  {
+    "index": 10,
+    "summary": "探讨科技股股价是否已反映扩产预期，分上游和下游分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["上游设备材料市场已price in未来2-3年资本开支。", "下游存储晶圆厂扩产是远期利空。", "股价交易当下涨价，博弈2028-2029年产能。"],
+    "mentioned_stocks": ["科技股", "存储晶圆厂"]
+  },
+  {
+    "index": 11,
+    "summary": "询问银行股明天走势，用户表达担忧，有建议跑或持有。",
+    "sentiment": "negative",
+    "key_opinions": ["银行涨2%后次日跌概率高。", "安心拿一个月。", "银行没跌过，一路上涨。"],
+    "mentioned_stocks": ["银行股", "光大银行"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论月线死叉是否被拯救，银行和科技股表现，有质疑控盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行+科技双擎可能拯救死叉。", "月线死叉已实，技术派看预言。", "死叉意义不大，狗队控盘。"],
+    "mentioned_stocks": ["银行", "科技股"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论华夏银行情况，警告财报问题，建议谨慎买入。",
+    "sentiment": "negative",
+    "key_opinions": ["财报出问题，做好再跌心理准备。", "银行只能买国有行和招商行。", "光大、华夏、民生不建议买。"],
+    "mentioned_stocks": ["华夏银行", "光大银行", "招商行"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论宁德时代股价下跌，用户被回购骗进，担忧未来利润。",
+    "sentiment": "negative",
+    "key_opinions": ["被回购骗进，每天开盘扣钱。", "15PE的科技，可融资干。", "车企供应链去宁德时代，利润恐下降。"],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论境外投资者是否来A股，实际是调侃耐心资本行为。",
+    "sentiment": "negative",
+    "key_opinions": ["耐心资本卖美股买A股，结果抬轿子。", "汇金证金不是耐心资本。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论山东黄金股价大涨6个点，用户好奇原因，涉及紫金。",
+    "sentiment": "mixed",
+    "key_opinions": ["能红6个点，预判呗。", "紫金也快浮起来。", "xgnb（可能指指标）。"],
+    "mentioned_stocks": ["山东黄金", "紫金"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论澜起科技股价表现，涨一天跌几天，每次到220被砸。",
+    "sentiment": "negative",
+    "key_opinions": ["涨一天跌几天。", "每次上220都被大阴线砸。", "操作策略：跌到190-200补仓，210-220卖。"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论败绿科技亏损14%，是否割肉或加仓，有调侃建议。",
+    "sentiment": "negative",
+    "key_opinions": ["割了吧，都焦了。", "加仓摊薄成本，搏中阳线。", "加仓满仓干。"],
+    "mentioned_stocks": ["败绿科技"]
+  },
+  {
+    "index": 19,
+    "summary": "假设明天低开高走，讨论操作策略，如日内做T或抄底。",
+    "sentiment": "mixed",
+    "key_opinions": ["日内做T。", "低开高走可能是陷阱。", "跌停到-7，抄底有福。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "分享AI写的数据分析报告，关于某队ETF份额五年变化。",
+    "sentiment": "neutral",
+    "key_opinions": ["2022-2024 ETF份额扩张。", "2025-2026 ETF份额收缩。", "相关ETF五年来变化分析。"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论中概互联网股票，用户分享操作和情绪，有亏损和补仓。",
+    "sentiment": "negative",
+    "key_opinions": ["中概崩盘，归咎于虫二。", "恒科讨论多，但米子有楼。", "补仓到1.128，亏5000+。"],
+    "mentioned_stocks": ["中概互联网", "恒科", "虫一虫二虫三米子"]
+  },
+  {
+    "index": 22,
+    "summary": "询问技术派对月线死叉和60日线的相信程度，今天站上60日线。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天站上60日线，大A硬气。", "相信市场情绪，线是画出来的。", "明天大阳，牛来冲进来。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "讨论非农数据对加息预期的影响，卡在加息十字路口。",
+    "sentiment": "neutral",
+    "key_opinions": ["非农是沃什讲话后第一个重磅数据。", "数据强劲则实锤加息预期。", "卡在加息预期的十字路口。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论中国银行股价大涨5%，成交量低，银行股慢牛。",
+    "sentiment": "positive",
+    "key_opinions": ["中国银行涨5%，只有22亿成交量。", "银行股慢牛，但嫌慢。", "基金早砸干净了。"],
+    "mentioned_stocks": ["中国银行", "成都银行", "江苏银行"]
+  },
+  {
+    "index": 25,
+    "summary": "用户分享交易心理，不愿意买上升趋势股票，喜欢抄底。",
+    "sentiment": "mixed",
+    "key_opinions": ["喜欢买下降趋势或暴跌后的股票。", "上升趋势买入反人性。", "适合提前埋伏低估值成长股。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "大盘红了，用户讨论什么拉红指数，如保险、银行。",
+    "sentiment": "positive",
+    "key_opinions": ["保险、银行拉红指数。", "银行主升，存款搬家。", "科技主升浪过去了。"],
+    "mentioned_stocks": ["银行", "保险", "科技股"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论利通电子主力资金图像抖动，可能是量化T导致。",
+    "sentiment": "mixed",
+    "key_opinions": ["图像抖得鬼畜。", "答案是量化T。", "数据可能不可靠。"],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论'旺旺队'操作预判散户，拉起指数可能是为了出货。",
+    "sentiment": "mixed",
+    "key_opinions": ["预判散户预判，周末看空就拉起来。", "为了出货。", "不可能拉新高。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讨论首创证券突然直线涨停，可能有内幕消息。",
+    "sentiment": "positive",
+    "key_opinions": ["首创证券直线涨停。", "可能有内幕消息。", "周五加自选等回调。"],
+    "mentioned_stocks": ["首创证券"]
+  },
+  {
+    "index": 30,
+    "summary": "用户状态不好，挂单错误，讨论新周期开始。",
+    "sentiment": "negative",
+    "key_opinions": ["晕晕乎乎，挂单错误。", "主力反手掏，康盛液冷成看点。"],
+    "mentioned_stocks": ["康盛液冷"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论韩国股市对A股影响，棒子低开高走，V了2%。",
+    "sentiment": "mixed",
+    "key_opinions": ["棒子低开高走，V了2%。", "棒子和大A科技强相关。", "棒子数据难看，预计不加息。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "推荐关注软件应用修复机会，如短剧、云计算、网安等。",
+    "sentiment": "positive",
+    "key_opinions": ["短剧、侧端、云计算、网安百花齐放。", "瑞芯微、芒果超媒等涨停或大涨。", "深信服是不可或缺一环。"],
+    "mentioned_stocks": ["瑞芯微", "芒果超媒", "深信服", "网宿"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论浪潮信息股价大涨，用户困惑，可能拉国产算力链。",
+    "sentiment": "mixed",
+    "key_opinions": ["不知道原因，拉国产算力链。", "周五卖飞，难受。", "短期波动，拿到年底。"],
+    "mentioned_stocks": ["浪潮信息", "紫光", "星网锐捷"]
+  },
+  {
+    "index": 34,
+    "summary": "调侃科技股像士兵出列，看韩国女团舞抚慰心灵。",
+    "sentiment": "mixed",
+    "key_opinions": ["看韩国女团舞抚慰心灵。", "相信韩咕噜。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "分享交易建议，如关注AI应用、券商，硬件行情告一段落。",
+    "sentiment": "positive",
+    "key_opinions": ["关注AI应用，1月份那批，买业绩出来的。", "券商横住等五日线。", "硬件行情告一段落。"],
+    "mentioned_stocks": ["AI应用", "券商", "华特"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论今天大涨是否大奇迹日，中国银行涨5%，明天可能攻4000。",
+    "sentiment": "positive",
+    "key_opinions": ["中国银行涨5%，银行股少有。", "今天是大奇迹日，明天攻上4000。", "招商和兴业半死不活。"],
+    "mentioned_stocks": ["中国银行", "招商", "兴业"]
+  },
+  {
+    "index": 37,
+    "summary": "询问利好原因，可能不加息，纳指期货拉多。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指期货拉多。", "诱多，明天抱摔。", "高位不可能加息。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "用户惊讶醒来指数红了，猜测美国不加息。",
+    "sentiment": "positive",
+    "key_opinions": ["美国不加息了吗。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "用户连续亏损两月，情绪崩溃，买啥都亏，追涨杀跌。",
+    "sentiment": "negative",
+    "key_opinions": ["后悔来这里，给希望又踩脚底。", "买啥都亏，追涨杀跌。", "上半年连跌五个月。"],
+    "mentioned_stocks": ["共进", "风华", "光通"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论比亚迪是否要起飞，二季度扣非净利润增长，出海占比高。",
+    "sentiment": "positive",
+    "key_opinions": ["二季度扣非净利润+50%。", "出海占比过半，毛利高。", "等熬死一批电车企业。"],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 41,
+    "summary": "用户被山东黄金背刺，卖了就涨，成本下降业绩释放。",
+    "sentiment": "negative",
+    "key_opinions": ["早上放掉，下午涨。", "黄金股资金聪明。", "成本下降，业绩释放。"],
+    "mentioned_stocks": ["山东黄金"]
+  },
+  {
+    "index": 42,
+    "summary": "指数全红了，但用户股票绿，科技股猛。",
+    "sentiment": "negative",
+    "key_opinions": ["指数红，但我的绿。", "科技太猛。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "推荐泉阳泉股票，基于图形和消费逻辑，模仿农夫山泉。",
+    "sentiment": "positive",
+    "key_opinions": ["图形很美，低位小股。", "泉阳泉好喝，是逻辑之一。", "模仿农夫山泉收敛三角。"],
+    "mentioned_stocks": ["泉阳泉"]
+  },
+  {
+    "index": 44,
+    "summary": "用户买什么涨什么，但恐高，担心泡沫。",
+    "sentiment": "mixed",
+    "key_opinions": ["这样涨，泡沫大，恐高。", "要点举报了。", "凡尔赛。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "讨论大唐发电股价横盘5.8，是否该买，需等煤炭价格。",
+    "sentiment": "mixed",
+    "key_opinions": ["感觉可以小仓位买点。", "等煤炭价格稳定。", "真实股价5.9，阴跌。"],
+    "mentioned_stocks": ["大唐发电"]
+  },
+  {
+    "index": 46,
+    "summary": "担心晚上股市撑不住，石油上涨，白天靠日韩撑场。",
+    "sentiment": "negative",
+    "key_opinions": ["周末没利好，石油涨。", "白天硬气靠日韩，晚上美国定价权。", "银行全场最硬。"],
+    "mentioned_stocks": ["石油", "银行"]
+  },
+  {
+    "index": 47,
+    "summary": "批评过度吹捧韩国股市，韩股低开V就吹牛逼，实则撤退。",
+    "sentiment": "negative",
+    "key_opinions": ["韩股低开V就吹牛逼。", "棒子加息了，别指望大涨。", "韩股撤退捧臭脚。"],
+    "mentioned_stocks": ["韩股"]
+  },
+  {
+    "index": 48,
+    "summary": "分享抄底选股方法'量窒息法'，基于成交量信号。",
+    "sentiment": "positive",
+    "key_opinions": ["量窒息法用于抄底，成功率不错。", "短期卖盘枯竭信号。", "赚了就跑，别死拿。"],
+    "mentioned_stocks": ["京东方", "昊华", "大唐发电"]
+  }
+]
