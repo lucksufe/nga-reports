@@ -1,0 +1,483 @@
+[
+  {
+    "index": 1,
+    "summary": "用户分享投资组合并决定删除软件，讨论大唐等股票的持有和防御性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "买入宝丰、巨化、中钨等，决定长期持有删软件。",
+      "大唐股票防御性买点，冬季可能有回报。",
+      "讨论长文司机和猪模块投资机会。"
+    ],
+    "mentioned_stocks": ["宝丰", "巨化", "中钨", "大唐", "云天化"]
+  },
+  {
+    "index": 2,
+    "summary": "用户询问川金股票价格数字8.88和5.55的含义。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "对价格数字含义感到困惑。"
+    ],
+    "mentioned_stocks": ["川金"]
+  },
+  {
+    "index": 3,
+    "summary": "用户看好腾讯在游戏行业的投资和AI发展，讨论购买难度。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "腾讯投资多家游戏公司，渠道强大。",
+      "腾讯AI不盲目跟风，混元大模型进步。",
+      "港股通购买困难，A股有限。"
+    ],
+    "mentioned_stocks": ["腾讯", "米哈游", "游科", "库洛", "灵游坊", "乐元素"]
+  },
+  {
+    "index": 4,
+    "summary": "用户抱怨黄金价格没有抄底机会，讨论其他黄金股下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黄金价格不给抄底机会。",
+      "其他黄金股在跌，建议等待。"
+    ],
+    "mentioned_stocks": ["黄金", "紫金"]
+  },
+  {
+    "index": 5,
+    "summary": "用户询问保险股选择，讨论平安、国寿等股息和走势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "平安股息最高，国寿位置还行。",
+      "平安比人寿温柔，走势更稳。",
+      "太保分红增加，一年分两次。"
+    ],
+    "mentioned_stocks": ["平安", "人寿", "国寿", "太保", "新华"]
+  },
+  {
+    "index": 6,
+    "summary": "用户抱怨持续下跌两个月，计划清仓，分享追涨亏损经历。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "连续下跌，后悔投资，计划清仓。",
+      "追涨杀跌导致亏损，如共进、风华等。",
+      "讨论诊股，但已绝望。"
+    ],
+    "mentioned_stocks": ["共进", "风华", "光通"]
+  },
+  {
+    "index": 7,
+    "summary": "用户完成红利投资组合建仓至100万，分享投资理念。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "投资核心资产，与国家成长。",
+      "红利仓位首次达到100万。",
+      "持仓结构对利率敏感，分红可观。"
+    ],
+    "mentioned_stocks": ["邮储", "银行股"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论比亚迪是否即将上涨，基于季度业绩和出海表现。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "比亚迪季度扣非净利润增长50%。",
+      "汽车行业出海占比过半，毛利提高。",
+      "出海单价高，类似豪华品牌。"
+    ],
+    "mentioned_stocks": ["比亚迪", "宁德时代", "江淮"]
+  },
+  {
+    "index": 9,
+    "summary": "询问PTFE（聚四氟乙烯）讨论情况，涉及概念发酵和小盘股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "PTFE概念已发酵，可能快速结束。",
+      "小盘股上涨，如沃特股份。",
+      "生益和多氟多可能蹭到概念。"
+    ],
+    "mentioned_stocks": ["PTFE", "沃特股份", "生益", "多氟多"]
+  },
+  {
+    "index": 10,
+    "summary": "询问阳光电源抄底机会，讨论下跌原因和风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "阳光电源因美国限制逆变器下跌。",
+      "风险高，瀑布杀，大资金做空。",
+      "80元价格可能有吸引力，但套牢盘多。"
+    ],
+    "mentioned_stocks": ["阳光电源", "美光", "中际旭创"]
+  },
+  {
+    "index": 11,
+    "summary": "抱怨市场低迷无人哀嚎，用户麻木亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场下跌，用户亏习惯，无力哀嚎。",
+      "红利、银行股相对较好。",
+      "科技股表现差，用户计划毁灭。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "询问科技股风险，讨论加息影响和投资策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "加息可能杀估值，带崩国内科技股。",
+      "建议小仓位带止损做细分板块。",
+      "科技股风险高，需谨慎。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "分享自创股票分析工具，包括数据聚合和AI解读。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "工具提供早盘、盘中、盘后分析。",
+      "使用自写算法和AI解读数据。",
+      "服务器容量小，可能崩。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "提供投资建议，关注AI应用、券商走势和硬件行情。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "关注AI应用，1月那批股票周一水下建仓。",
+      "券商横盘等五日线，放量大阳线看前高。",
+      "硬件行情结束，关注存储和AI应用。"
+    ],
+    "mentioned_stocks": ["网宿", "迈富时", "媒体ETF"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论化肥出口投资机会，聚焦东方铁塔和业绩。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "厄尔尼诺可能导致粮食短缺，看好化肥出口。",
+      "东方铁塔估值便宜，业绩漂亮。",
+      "比较东方铁塔和亚钾国际。"
+    ],
+    "mentioned_stocks": ["东方铁塔", "亚钾国际", "川恒股份", "云天化"]
+  },
+  {
+    "index": 16,
+    "summary": "质疑人形机器人实用性，认为小型机器人更实用。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "小型机器人研究更实用，人形机器人无用。",
+      "就业压力限制机器人发展。",
+      "人形机器人唯一出路是成人用品。"
+    ],
+    "mentioned_stocks": ["瑞芯微"]
+  },
+  {
+    "index": 17,
+    "summary": "分析郑煤机困境反转，等待中报业绩证实。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "计划写详细分析，但拖延。",
+      "郑煤机股价下跌，等待困境反转。",
+      "用户有信心，但需业绩说话。"
+    ],
+    "mentioned_stocks": ["郑煤机"]
+  },
+  {
+    "index": 18,
+    "summary": "分享技术分析观点，对中际、券商等判断。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "对中际、券商、AI应用判断基本正确。",
+      "讨论MACD技术指标。",
+      "预测市场走势，但不确定。"
+    ],
+    "mentioned_stocks": ["中际", "券商", "汇金科技"]
+  },
+  {
+    "index": 19,
+    "summary": "反转看好比亚迪，基于技术进步和业务前景。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "从看空转为看多比亚迪。",
+      "比亚迪技术进步有用，业务好。",
+      "股价大但值万亿。"
+    ],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论投资与生活平衡，反思投资目的。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "投资可能导致生活失衡，娱乐减少。",
+      "投资本身是娱乐，花钱正常。",
+      "钱流动，改善部分人生活。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "抱怨市场预期差，四大行股息低仍被买。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "四大行股息低于4%仍被买。",
+      "预期差时股息高也没人买。",
+      "房地产政策利好银行。"
+    ],
+    "mentioned_stocks": ["四大行"]
+  },
+  {
+    "index": 22,
+    "summary": "询问黄金950是否抄底，建议等待和观察。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "建议阶梯式建仓，跌破前低跑路。",
+      "等缩量，没人提抄底时再抄。",
+      "950不贵，但看走势。"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论阳光电源满仓满融用户的爆仓风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "用户询问爆仓情况，最后回复在5月。",
+      "阳光电源因FCC限制下跌。",
+      "用户可能已卸杠杆或盈利跑。"
+    ],
+    "mentioned_stocks": ["阳光电源"]
+  },
+  {
+    "index": 24,
+    "summary": "困惑储能股不随油价上涨，讨论关联性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "储能股下跌严重，阳光电源拖累。",
+      "油和储能关系不大。",
+      "储能增长率负增长。"
+    ],
+    "mentioned_stocks": ["储能", "阳光电源"]
+  },
+  {
+    "index": 25,
+    "summary": "注意到捷荣技术连板，讨论华为手机故事。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "捷荣技术4连板，妖股复辟。",
+      "可能华为手机有新故事。",
+      "大盘弱，题材股可能活跃。"
+    ],
+    "mentioned_stocks": ["捷荣技术"]
+  },
+  {
+    "index": 26,
+    "summary": "询问投资方向，用户割了有色半导体。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用户割了有色半导体，问补仓方向。",
+      "建议空仓看戏。",
+      "推荐煤炭、猪模块、宝丰能源等。"
+    ],
+    "mentioned_stocks": ["金牛化工", "红宝丽", "煤炭", "宝丰能源", "中国铝业", "东航"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论中概互联网投资，用户亏损和策略。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中概股下跌，用户亏损严重。",
+      "讨论恒科、虫一虫二投资。",
+      "用户加仓或减仓策略。"
+    ],
+    "mentioned_stocks": ["中概互联网", "恒科", "腾讯", "阿里"]
+  },
+  {
+    "index": 28,
+    "summary": "分享选股策略，排第一的股票涨停。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "用户分享策略选股，结果涨停。",
+      "策略可能有未来函数嫌疑。",
+      "触发条件基于涨幅和成交量。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "预测银行红利回调，讨论银行股位置。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银行红利可能回调。",
+      "四大行贵，招商位置不高。",
+      "银行回调可能影响指数。"
+    ],
+    "mentioned_stocks": ["四大行", "招商"]
+  },
+  {
+    "index": 30,
+    "summary": "分析美联储政策，看空美元和讨论黄金石油。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美联储加息无法解决债务问题。",
+      "黄金、石油受关注，央行购金。",
+      "厄尔尼诺冲击全球，铜供不应求。"
+    ],
+    "mentioned_stocks": ["黄金", "紫金", "铜"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论阳光电源满仓满融用户的后续，担忧爆仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "用户最后回复在5月28日。",
+      "阳光电源被FCC打击下跌。",
+      "用户可能加仓或未卸杠杆。"
+    ],
+    "mentioned_stocks": ["阳光电源"]
+  },
+  {
+    "index": 32,
+    "summary": "抱怨药明康德弱势，讨论周期性和买入机会。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "药明康德下跌，被科技股吸资金。",
+      "周期性大涨阴跌，等待155买。",
+      "小盘股连涨是题材末期。"
+    ],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论韩国股市对A股影响，依赖性强。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国股市低开高走，V了2%。",
+      "韩国股市与A股科技强相关。",
+      "韩国数据差，可能不加息。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "反思投资策略，认为应买化工、能源而非科技。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "追科技是以短攻长，应买化工、能源。",
+      "银行位置高，需下跌再入。",
+      "用户悟了但实际亏损。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论赛力斯是否底部，但看空其前景。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "赛力斯可能腰斩，相对底部不靠谱。",
+      "华为私生子多，赛力斯失去唯一性。",
+      "卖一台亏一台，工业垃圾。"
+    ],
+    "mentioned_stocks": ["赛力斯", "比亚迪", "江淮"]
+  },
+  {
+    "index": 36,
+    "summary": "抱怨市场下跌，用户痛苦，讨论医药和整车股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "用户痛苦，感觉被砸。",
+      "医药股出不来，整车股也跌。",
+      "期待金九银十，但失望。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "质疑境外投资者流入A股，用户怀疑被抬轿子。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "周末说耐心资本买A股，但开盘跑了。",
+      "用户觉得给耐心资本抬轿子。",
+      "大A质量差，境外投资者可能跑路。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "认为科技股跌幅有限，依赖韩国股市支撑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技跌幅感觉还可以。",
+      "韩国股市帮忙顶着，否则更惨。",
+      "科技不能大跌，保指数。"
+    ],
+    "mentioned_stocks": ["中际", "三星", "海力士"]
+  },
+  {
+    "index": 39,
+    "summary": "银行股上涨，六大银行涨2.5%，上证收红可能。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "六大银行上涨2.5%，邮储中行涨4%。",
+      "上证收红可能，银行估值合理。",
+      "银行股护城河好，长期投资价值。"
+    ],
+    "mentioned_stocks": ["六大银行", "邮储", "中行", "建行"]
+  },
+  {
+    "index": 40,
+    "summary": "希望美联储加息以利空出尽，但担忧熊市。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "希望加息利空出尽，才能利好。",
+      "加息可能引发熊市，全球利空。",
+      "美联储整天恐吓，市场定价加息。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "比较四大行和股份行业绩，四大行领先。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "四大行业绩大幅领先股份行。",
+      "银行内部分化严重，好资产但价格高。",
+      "股份行消费属性强，需做波段。"
+    ],
+    "mentioned_stocks": ["四大行", "兴业", "招商"]
+  },
+  {
+    "index": 42,
+    "summary": "抱怨长电业绩好但股价下跌，需看PE。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "业绩超预期但股价A得严重。",
+      "需看PE，计算器摁到未来。",
+      "海力士业绩好也跌。"
+    ],
+    "mentioned_stocks": ["长电", "海力士"]
+  },
+  {
+    "index": 43,
+    "summary": "盘面波动目的不明，可能双杀，等美股反应。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "盘面跳上跳下，可能双杀。",
+      "缩量震荡，等晚上美股反应。",
+      "机构维持估值，做一天和尚撞一天钟。"
+    ],
+    "mentioned_stocks": ["茅台", "房地产", "银行", "半导体"]
+  },
+  {
+    "index": 44,
+    "summary": "关注杭氧股份可能启动，基于合作和业绩。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "杭氧股份可能与长鑫合作落地。",
+      "中报业绩支撑股价，年K还是绿的。",
+      "氩气涨价可能推动股价。"
+    ],
+    "mentioned_stocks": ["杭氧股份", "昊华", "长鑫", "生益"]
+  }
+]
