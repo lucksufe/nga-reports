@@ -1,0 +1,483 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论A股表现恶劣，散户被割韭菜，股市波动大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "散户被死里割韭菜。",
+      "股市盈亏快速，波动剧烈。",
+      "多数人抱怨，少数人认为需多练习。"
+    ],
+    "mentioned_stocks": ["黄金股", "银行"]
+  },
+  {
+    "index": 2,
+    "summary": "农业板块突然上涨，讨论原因及散户风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能与厄尔尼诺现象有关。",
+      "提醒散户小心出货时机。",
+      "看走势，吸引散户接盘。"
+    ],
+    "mentioned_stocks": ["金健米业"]
+  },
+  {
+    "index": 3,
+    "summary": "比较中国与日本航空股业绩差异，分析原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高油价影响全球航司。",
+      "高铁竞争改变出行习惯。",
+      "日本航司用期货锁定成本。"
+    ],
+    "mentioned_stocks": ["三大航", "日本航司"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论招商银行和中国平安是否应减仓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "平安历史低位，可持有。",
+      "招行短期上涨空间有限，可减仓。",
+      "价格不高，业绩增长支撑。"
+    ],
+    "mentioned_stocks": ["招商银行", "中国平安"]
+  },
+  {
+    "index": 5,
+    "summary": "用户决定退出股市，讨论市场走势及失望情绪。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "上次4000点未过后大跌。",
+      "讨论后续下跌可能。",
+      "科技股成为接盘侠。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "抱怨市场恶化，交易量减少，容易亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场进入小时代阶段。",
+      "决策愚蠢昏庸。",
+      "市场活跃度下降。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论股市能否突破4000点，拉升靠银行和科技。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银行保险证券拉指数。",
+      "科技股带头冲锋。",
+      "成交量不足，需更多资金。"
+    ],
+    "mentioned_stocks": ["光模块", "港股", "银行"]
+  },
+  {
+    "index": 8,
+    "summary": "用户换股操作，从AI软件转向化工股，盈利分享。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "卖出易点天下，买入潞化科技。",
+      "跟车操作成功。",
+      "大涨盈利。"
+    ],
+    "mentioned_stocks": ["易点天下", "潞化科技"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论中钨高新股票，期待上涨至100元。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "预期股价能到100元。",
+      "-8上车策略被跟风。",
+      "用户乐观跟进。"
+    ],
+    "mentioned_stocks": ["中钨高新", "章源钨业"]
+  },
+  {
+    "index": 10,
+    "summary": "分享投资心得，强调情绪管理和认知高低。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "投资是认知高低的游戏。",
+      "情绪影响买入卖出决策。",
+      "筛选信息重要。"
+    ],
+    "mentioned_stocks": ["金建米业"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论煤炭板块是否力竭，建议清仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "感觉煤炭板块到头。",
+      "矿难消息影响。",
+      "开始出货迹象。"
+    ],
+    "mentioned_stocks": ["煤炭"]
+  },
+  {
+    "index": 12,
+    "summary": "询问煤炭板块操作，加仓还是减仓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "感觉走势差不多了。",
+      "新高后下跌调整。",
+      "建议保利润，认错调整。"
+    ],
+    "mentioned_stocks": ["煤炭指数"]
+  },
+  {
+    "index": 13,
+    "summary": "抱怨收益跑不赢银行股，讨论银行稳定性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "银行股稳定收益多年。",
+      "跑赢银行极难。",
+      "执行减仓计划。"
+    ],
+    "mentioned_stocks": ["银行", "红利低波"]
+  },
+  {
+    "index": 14,
+    "summary": "批评不拉科技股就上不了4000点。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "昨天上涨因拉科技股。",
+      "对科技板块依赖。"
+    ],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 15,
+    "summary": "分享因偷懒不看盘导致亏损的经历。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "偷懒导致亏损。",
+      "股市惩罚疏忽者。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "抱怨股市下跌，科技领跌，讨论新主线。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股两天跌完月涨幅。",
+      "不要玩科技，找其他板块。",
+      "农业可能成新主线。"
+    ],
+    "mentioned_stocks": ["科技", "农业", "金融"]
+  },
+  {
+    "index": 17,
+    "summary": "分享研究看好通胀和景气板块，分析化工股。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "通胀和能源价格上行。",
+      "化工板块有投资机会。",
+      "关注巨化股份等标的。"
+    ],
+    "mentioned_stocks": ["化工", "煤炭", "巨化股份"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论红利和银行板块是否形成双头形态。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长上影线可能见顶。",
+      "破前高可能开启主升。",
+      "看年线，长期趋势。"
+    ],
+    "mentioned_stocks": ["红利", "银行"]
+  },
+  {
+    "index": 19,
+    "summary": "询问煤炭板块是结账还是调整。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "新高后下跌。",
+      "调整迹象明显。"
+    ],
+    "mentioned_stocks": ["煤炭"]
+  },
+  {
+    "index": 20,
+    "summary": "模拟交易601919股票，讨论低买高卖策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "低买高卖策略模拟。",
+      "五年翻倍但需耐心。",
+      "知易行难，需坚持。"
+    ],
+    "mentioned_stocks": ["601919"]
+  },
+  {
+    "index": 21,
+    "summary": "宣称科技过时，农业和消费是新主线。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "农业和消费涨三个月。",
+      "科技股套牢资金。",
+      "银行股拉指数。"
+    ],
+    "mentioned_stocks": ["农业", "消费", "银行", "科技"]
+  },
+  {
+    "index": 22,
+    "summary": "化工股集体下跌，讨论原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "油价下跌影响。",
+      "连涨一个月后调整。",
+      "国家队操作导致。"
+    ],
+    "mentioned_stocks": ["化工", "金牛"]
+  },
+  {
+    "index": 23,
+    "summary": "乐观预期九月股市，希望突破4000点。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "万物复苏，生机勃勃。",
+      "目标4500点。",
+      "放量突破期待。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "分享低位买入经历，纠结心态和策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "一手一手定投买入。",
+      "踏不准节奏导致矛盾。",
+      "满仓满融风险大。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "怀疑国家队撤离，操作短期化。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "超短操作，昨天买今天卖。",
+      "缩量出货，市场没活力。",
+      "恶性循环，量化主导。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论九月投资策略，科技修复和主线切换。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "8月科技修复，粮食煤矿涨。",
+      "主线微盘炒小炒差。",
+      "继续炒小炒差策略。"
+    ],
+    "mentioned_stocks": ["科技", "粮食", "煤矿", "微盘"]
+  },
+  {
+    "index": 27,
+    "summary": "记录兴业银行实盘交易，强调股息和波段。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "兴业银行股息高，适合低买高卖。",
+      "记录交易过程。",
+      "需要耐心和纪律。"
+    ],
+    "mentioned_stocks": ["兴业银行", "招商银行"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论机构在科技股上套牢，拉指数出货。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "机构资金套在科技板块。",
+      "拉指数吸引散户出货。",
+      "双顶形态可能出货。"
+    ],
+    "mentioned_stocks": ["科技", "中际旭创"]
+  },
+  {
+    "index": 29,
+    "summary": "推荐601988股票，带芯片存储概念。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "银行股601988。",
+      "加入芯片存储概念。",
+      "目标价8块。"
+    ],
+    "mentioned_stocks": ["601988"]
+  },
+  {
+    "index": 30,
+    "summary": "使用AI做行业分析图，提及航运板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI制作分析图。",
+      "航运板块被忽略。",
+      "图表模糊不清。"
+    ],
+    "mentioned_stocks": ["航运"]
+  },
+  {
+    "index": 31,
+    "summary": "抱怨九月第一天股市下跌，损失浮盈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "每月第一天不赢。",
+      "八月浮盈损失。",
+      "够狠的下跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "讨论假新闻拉动股票，量化操作快。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "小作文拉动股价。",
+      "量化读取关键词快。",
+      "大资金造势。"
+    ],
+    "mentioned_stocks": ["中大哥", "药明康德"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论国家队拉指数策略，越拉越绿。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "拉指数想省钱。",
+      "操作导致越拉越绿。",
+      "砸盘可能更省事。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论美国加息可能性及通胀影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "油价粮食涨推高通胀。",
+      "加息可能无效。",
+      "会面可能缓和局势。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "羡慕台湾股市表现，称其为AI龙头。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "台股涨势猛，接近新高。",
+      "台积电是全球龙头。",
+      "对比A股表现差距。"
+    ],
+    "mentioned_stocks": ["台积电", "联发科"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论泉阳泉股票，图形美且产品好喝。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "图形美，低位小股。",
+      "逻辑基于产品好喝。",
+      "跟风操作讨论。"
+    ],
+    "mentioned_stocks": ["泉阳泉", "三维通信"]
+  },
+  {
+    "index": 37,
+    "summary": "询问电力板块投资机会，谨慎建议。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "电力个股适合波段。",
+      "游资炒过一轮。",
+      "建议谨慎，老庄难对付。"
+    ],
+    "mentioned_stocks": ["电力", "华能蒙电", "大唐"]
+  },
+  {
+    "index": 38,
+    "summary": "寻找长期持有老登股，强调吃息。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "老登股吃股息。",
+      "医药版块不看。",
+      "红利ETF适合。"
+    ],
+    "mentioned_stocks": ["医药", "紫金", "中信证券"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论拉升中大哥股票的风险和抛压。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "小作文威能有限。",
+      "散户追高可能套牢。",
+      "明天抛压风险大。"
+    ],
+    "mentioned_stocks": ["中大哥"]
+  },
+  {
+    "index": 40,
+    "summary": "韩国股市尾盘收高，对比A股。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "韩股尾盘收最高点。",
+      "对比银行股表现。",
+      "市场差异明显。"
+    ],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 41,
+    "summary": "比较历史走势相似，犹豫是否卖出。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "走势与历史相似。",
+      "想跑，犹豫不决。",
+      "刻舟求剑心态。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "称国家队为股神，社保基金收益高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "社保基金收益13.22%。",
+      "国家队赚钱能力强。",
+      "没跑过沪深300指数。"
+    ],
+    "mentioned_stocks": ["社保基金", "沪深300"]
+  },
+  {
+    "index": 43,
+    "summary": "科技股套牢资金阻碍牛市，需时间或暴跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "资金量不支持二次走牛。",
+      "需要暴跌才有空间。",
+      "时间远远不够。"
+    ],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 44,
+    "summary": "中大哥股票暴涨原因，假小作文和量化快。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "假小作文拉动股价。",
+      "量化操作速度快。",
+      "科技板块可能调整。"
+    ],
+    "mentioned_stocks": ["中大哥", "旭创"]
+  }
+]
