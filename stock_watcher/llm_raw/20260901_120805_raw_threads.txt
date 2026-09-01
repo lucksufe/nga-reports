@@ -1,0 +1,331 @@
+[
+  {
+    "index": 1,
+    "summary": "用户‘飞翔的小鸭’发帖告别，回复多为再见和祝福。",
+    "sentiment": "negative",
+    "key_opinions": ["用户要离开股市社区。", "社区成员表达了不舍和告别。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "对下午行情的乐观预测，但伴随对A股投资体验的抱怨。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为下午市场可能稳定。", "抱怨A股投资体验差如‘坐狗’。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论A股若能做空的影响，涉及做空工具和对科技股下跌的看法。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为无技术做空也难赚钱。", "有人想尝试做空下跌的科技股。", "提到科创50期权和股指期货等做空工具。"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论原油价格走势，认为可能涨不动并面临风险。",
+    "sentiment": "negative",
+    "key_opinions": ["布油触及90美元，感觉上涨乏力。", "担忧美债收益率走高可能引发晚间市场异动。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论半导体设备板块资金是否撤退，分析个股业绩和资金行为。",
+    "sentiment": "negative",
+    "key_opinions": ["北方华创中报不佳，长鑫财报显示利润被挤压。", "认为机构在半设板块内疯狂做T。", "业绩好的确定性强股票也走势艰难。"],
+    "mentioned_stocks": ["北方华创", "长鑫", "长川"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论杠杆交易的风险，通过模拟盘亏损案例警示。",
+    "sentiment": "negative",
+    "key_opinions": ["杠杆会放大波动，风险极高。", "杠杆应适用于高确定性、低波动标的。", "提到场外配资风险极高。"],
+    "mentioned_stocks": ["新易盛"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论午盘拉升是‘离别钩’还是反转信号，抱有希望但存疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["怀疑此次午盘拉升又是‘离别钩’。", "有人希望‘这次不一样’能持续上涨。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "用户新买入农业股即下跌，感到困惑和抱怨。",
+    "sentiment": "negative",
+    "key_opinions": ["刚买入农业股就遭遇下跌。", "建议应买入强势股而非冷门股。", "有经验者表示持股不动后可能迎来反弹。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "质疑午盘拉升是‘鱼钩’，多数人认为仍是‘离别钩’。",
+    "sentiment": "negative",
+    "key_opinions": ["认为午盘拉升是诱多的‘离别钩’。", "对此现象已感到厌倦。", "适合进行日内交易（做T）。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论指数冲击4000点是否需要科技股发力。",
+    "sentiment": "mixed",
+    "key_opinions": ["有人认为指数拉升靠券商，与科技无关。", "有人认为指数想大涨需要科技股共振。", "指数和科技走势出现一定脱钩。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "看衰人形机器人产业逻辑，认为小型化、特定场景才是出路。",
+    "sentiment": "negative",
+    "key_opinions": ["具身智能研究可能无需昂贵的人形机器人。", "人形机器人缺乏实用性，应用受限。", "除特定用途外，发展前景不被看好。"],
+    "mentioned_stocks": ["瑞芯微"]
+  },
+  {
+    "index": 12,
+    "summary": "农业板块持续上涨，引发投资者关注和追涨讨论。",
+    "sentiment": "positive",
+    "key_opinions": ["农业期货走强带动股票上涨。", "有人早布局已获得可观收益。", "有投资者后悔未早点买入。"],
+    "mentioned_stocks": ["农发种业", "金健米业", "神农种业"]
+  },
+  {
+    "index": 13,
+    "summary": "科技股投资者抱怨行情反复，如同‘昨天给枣今天拿走西瓜’。",
+    "sentiment": "negative",
+    "key_opinions": ["对科技股的反复波动感到痛苦。", "具体提到了德明利、剑桥等个股。"],
+    "mentioned_stocks": ["德明利", "剑桥科技"]
+  },
+  {
+    "index": 14,
+    "summary": "对午盘指数直线拉升的原因进行猜测和讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["有猜测是回购利好或‘神秘力量’出手。", "有人认为是典型的午盘‘离别钩’拉升。", "对拉升意图表示怀疑。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "通信ETF投资者深度被套20%，寻求解套建议。",
+    "sentiment": "negative",
+    "key_opinions": ["可能在最高位买入，被套很深。", "建议通过长期做T来尝试降低成本。", "承认中途割肉了一部分。"],
+    "mentioned_stocks": ["通信ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论台湾股市（WW）强势，认为其拥有真正的科技龙头企业。",
+    "sentiment": "positive",
+    "key_opinions": ["台湾股市表现强势，接近新高。", "认为台湾拥有台积电等全球科技龙头。", "对比之下对A股科技表现感到羡慕。"],
+    "mentioned_stocks": ["台积电", "联发科", "台达电"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论冲击4000点需要一定力度，但有投资者已感疲惫希望下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为指数冲4000需要本次拉升有力度。", "有投资者希望指数早点跌回3000点以便操作。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "寻找在国内板块具有垄断地位（无同行竞争）的股票。",
+    "sentiment": "positive",
+    "key_opinions": ["询问类似海控（海皇）的垄断型股票。", "被推荐的有长鑫、澜起、万华、中国神华等。", "认为许多国企在其行业占据主导地位。"],
+    "mentioned_stocks": ["海控", "长鑫", "澜起科技", "万华化学", "中国神华", "紫金矿业", "长江电力"]
+  },
+  {
+    "index": 19,
+    "summary": "发布长文分析郑煤机（中创智领）困境反转的可能性。",
+    "sentiment": "mixed",
+    "key_opinions": ["计划深度分析郑煤机面临的问题。", "认为公司有困境反转的潜力，但需业绩验证。", "有投资者被套，期待解套。"],
+    "mentioned_stocks": ["郑煤机"]
+  },
+  {
+    "index": 20,
+    "summary": "投资者追高买入中钨高新后股价下跌，感到懊悔。",
+    "sentiment": "negative",
+    "key_opinions": ["早盘追高买入，随后股价下跌。", "认为可能需要较长时间才能回本。", "有建议等待股价企稳后再考虑加仓。"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 21,
+    "summary": "科技股投资者对两天内跌幅回吐八月涨幅感到愤怒和困惑。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股短期跌幅巨大。", "建议不要继续投资科技股。", "有观点认为8月反弹是为出货，现在是逼筹码。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论中钨高新股票，涉及‘-8上车’的交易策略梗。",
+    "sentiment": "mixed",
+    "key_opinions": ["有人询问该股能否涨到100。", "多人提及并计划执行‘-8上车’策略。", "对其他相关钨业股也有讨论。"],
+    "mentioned_stocks": ["中钨高新", "章源钨业"]
+  },
+  {
+    "index": 23,
+    "summary": "海控（海皇）投资者哀叹股价下跌，表达坚守与遗憾。",
+    "sentiment": "negative",
+    "key_opinions": ["股价下跌让持有者感到痛苦。", "有投资者因做T或未能及时操作而遗憾。", "提及CCFI运价指数上涨作为支撑逻辑。"],
+    "mentioned_stocks": ["海控"]
+  },
+  {
+    "index": 24,
+    "summary": "投资者清掉大部分仓位，抱怨市场折磨人，不赚不赔。",
+    "sentiment": "negative",
+    "key_opinions": ["折腾半月后选择清仓离场。", "抱怨持有的股票磨人。", "对‘炒股不是为了回本’表示认同。"],
+    "mentioned_stocks": ["三安光电"]
+  },
+  {
+    "index": 25,
+    "summary": "对大盘突然直线拉升表示惊讶，认为可能需要科技股发力。",
+    "sentiment": "positive",
+    "key_opinions": ["指数出现直线拉升。", "认为科技股拉升是关键。", "有投资者根据此信号入场。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "科技股投资者已对下跌感到麻木，部分人转向农业等板块。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股下跌，投资者情绪低迷。", "认为指数和科技股情绪正在脱钩。", "有观点建议转向农业板块。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论煤炭板块七月后走势坚挺，探讨其上涨持续性及标的。",
+    "sentiment": "positive",
+    "key_opinions": ["煤炭板块受双焦期货上涨带动。", "认为煤板块是全A优质资产之一。", "讨论了神华、兖矿能源等个股。"],
+    "mentioned_stocks": ["中国神华", "兖矿能源", "昊华能源"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论沪深300ETF等ETF不再披露十大持有人信息的政策。",
+    "sentiment": "negative",
+    "key_opinions": ["认为新规是‘掩耳盗铃’。", "推测是为了防止跟踪大机构交易行为。", "对此政策表示批评和不理解。"],
+    "mentioned_stocks": ["沪深300ETF"]
+  },
+  {
+    "index": 29,
+    "summary": "推荐江淮汽车与合百集团，讨论其投资逻辑和走势。",
+    "sentiment": "positive",
+    "key_opinions": ["推荐这两只股票，认为即将启动。", "分析江淮尊界业务对利润的贡献有限。", "认为这两只股票有资金在特定价位做T。"],
+    "mentioned_stocks": ["江淮汽车", "合百集团"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论锶金属相关个股（红星发展、金瑞矿业）的暴涨和交易机会。",
+    "sentiment": "positive",
+    "key_opinions": ["锶价格暴涨刺激相关个股。", "分析金瑞矿业是更纯粹的标的。", "讨论打板和隔夜单挂单策略。"],
+    "mentioned_stocks": ["红星发展", "金瑞矿业"]
+  },
+  {
+    "index": 31,
+    "summary": "分享交易策略，对AI应用股止盈，并布局AI硬件和券商。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为易点天下已到压力位，选择止盈。", "计划买入AI硬件股博反弹。", "关注券商股机会。"],
+    "mentioned_stocks": ["易点天下", "引力传媒"]
+  },
+  {
+    "index": 32,
+    "summary": "预判主力利用利空吸筹拉升后，明日将诱多下杀散户。",
+    "sentiment": "negative",
+    "key_opinions": ["认为主力在利用周末利空吸筹。", "预判次日市场会诱多后下杀。", "讨论了美伊冲突等恐慌因素。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "询问大盘突然直线拉升的原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["观察到指数快速拉升。", "猜测是‘神秘力量’出手。", "询问下午能否冲击4000点。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "抱怨当前行情指数修复但赚钱效应差，操作难度大。",
+    "sentiment": "negative",
+    "key_opinions": ["指数上涨但投资者感觉钱变少了。", "认为是存量博弈，量化资金主导。", "大部分投资者面临‘动则死、不动钝刀割肉’的困境。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论在算力基建背景下，云电脑是否能成为未来主流。",
+    "sentiment": "mixed",
+    "key_opinions": ["云电脑（云游戏）技术已有但普及度不高。", "受限于延迟、带宽、成本等因素。", "对于某些使用场景，数据安全也是担忧。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "讨论量化资金与散户情绪的博弈，预判科技股早盘被砸。",
+    "sentiment": "negative",
+    "key_opinions": ["认为量化资金在预判散户情绪进行操作。", "预判科技股早盘会被砸深水。", "指出科技股走势主要跟随韩国市场。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "感叹指数被精准控制，维持绿色收盘是技术活。",
+    "sentiment": "negative",
+    "key_opinions": ["认为操盘手控盘能力很强。", "感叹指数被精准控制到收绿。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "分享因与AI聊天而错过操作时机，导致亏损的教训。",
+    "sentiment": "negative",
+    "key_opinions": ["因分心与AI聊天错过了交易执行。", "亏损后情绪激动，后悔不已。", "强调休息和心态管理的重要性。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论红利股价格是否已经过高，观点存在分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为红利股短期价格偏高。", "有人根据股息率和国债利率认为仍有空间。", "部分投资者选择减仓。"],
+    "mentioned_stocks": ["红利低波ETF"]
+  },
+  {
+    "index": 40,
+    "summary": "抱怨完美世界、巨人网络等游戏股表现疲软。",
+    "sentiment": "negative",
+    "key_opinions": ["游戏ETF涨但个股不跟涨。", "认为游戏股缺乏故事和资金关注。", "对完美世界游戏运营策略有批评。"],
+    "mentioned_stocks": ["完美世界", "巨人网络", "游戏ETF"]
+  },
+  {
+    "index": 41,
+    "summary": "调侃观察仓（买的最少）的股票反而涨得最好。",
+    "sentiment": "positive",
+    "key_opinions": ["发现观察仓往往涨得最多。", "认为一旦上大仓位，股票就可能下跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "询问昊华能源股票状态，讨论主力动向。",
+    "sentiment": "mixed",
+    "key_opinions": ["询问昊华能源主力是否已撤退。", "有人建立了少量观察仓。", "有人表示已割肉离场。"],
+    "mentioned_stocks": ["昊华能源"]
+  },
+  {
+    "index": 43,
+    "summary": "担忧科技股资金正在被抽离，走势疲软。",
+    "sentiment": "negative",
+    "key_opinions": ["感觉科技股资金在流出。", "认为科技股需要机构抬轿，当前缺乏量能。", "指出政府引导降低科技权重的目标可能影响走势。"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 44,
+    "summary": "看好阳光电源作为储能龙头，分享其长期投资逻辑。",
+    "sentiment": "positive",
+    "key_opinions": ["长期看好光储成本低于火电的趋势。", "认为阳光电源是确定的全球光储龙头。", "有投资者已买入或计划买入。"],
+    "mentioned_stocks": ["阳光电源", "宁德时代"]
+  },
+  {
+    "index": 45,
+    "summary": "认为氧化铝和电解铝价格趋势健康，看好中国宏桥H股。",
+    "sentiment": "positive",
+    "key_opinions": ["看好氧化铝和电解铝的价格走势。", "认为中国宏桥H股股价尚未启动，可以配置。"],
+    "mentioned_stocks": ["中国宏桥"]
+  },
+  {
+    "index": 46,
+    "summary": "祈祷A股（‘A哥’）今日能V型反转，不要‘开门绿’。",
+    "sentiment": "mixed",
+    "key_opinions": ["希望九月开门红，而非开门绿。", "指出今日是普涨行情，无需V型反转。", "认为科技股可能难以继续上涨。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "认为美股科技股已缺乏低位长线埋伏的机会。",
+    "sentiment": "negative",
+    "key_opinions": ["熟悉的美股科技股大多已涨幅较大。", "提及英伟达、AMD等估值已高。", "对超微电脑等低位股的上涨乏力表示疑惑。"],
+    "mentioned_stocks": ["美光", "英伟达", "AMD", "超微电脑"]
+  }
+]
