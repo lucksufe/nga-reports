@@ -1,0 +1,317 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论A股受外围影响大，化工期货涨但股票跌，持股体验痛苦。",
+    "sentiment": "negative",
+    "key_opinions": ["外围影响导致A股下跌", "化工成本驱动上涨对股票利空", "化工持股体验痛苦"],
+    "mentioned_stocks": ["化工类股票"]
+  },
+  {
+    "index": 2,
+    "summary": "抱怨下午假上涨欺骗投资者，市场剧情重复。",
+    "sentiment": "negative",
+    "key_opinions": ["市场走势重复欺骗投资者", "投资者感到恶心和无奈", "类似剧情多次发生"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "科技股持续下跌，投资者纠结操作，担心复制7月暴跌。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股每天跌2-3%", "投资者不敢卖或抄底", "担心历史重演7月"],
+    "mentioned_stocks": ["科创", "科技股"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论大盘缩量但稳定，质疑支撑位是否该踩。",
+    "sentiment": "mixed",
+    "key_opinions": ["缩量但跌不下去", "支撑位如3920是否有效", "创业板跌但大盘稳"],
+    "mentioned_stocks": ["上证指数", "科创指数"]
+  },
+  {
+    "index": 5,
+    "summary": "调侃‘高手不赢前两天’，类似7月科技股波动。",
+    "sentiment": "mixed",
+    "key_opinions": ["先礼让后亏的幽默", "7月类似经历", "市场波动大，一天ktv一天icu"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 6,
+    "summary": "质疑A股预判逻辑，预判美国跌就提前跌。",
+    "sentiment": "negative",
+    "key_opinions": ["预判下跌导致提前跌", "化工期货涨但股票跌", "大资金预判散户"],
+    "mentioned_stocks": ["化工品类个股"]
+  },
+  {
+    "index": 7,
+    "summary": "分析缩量V型走势，原因如卖盘枯竭。",
+    "sentiment": "mixed",
+    "key_opinions": ["缩量V可能是卖盘枯竭", "买盘观望", "交易量下降"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "抱怨是否又套牢一批投资者，担心最低点收盘。",
+    "sentiment": "negative",
+    "key_opinions": ["可能套牢新投资者", "担心收盘价低"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "论坛少讨论期指期权，分享个人期权操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["期指期权可作为保险", "期权考试难", "用小钱操作期权"],
+    "mentioned_stocks": ["创业板ETF"]
+  },
+  {
+    "index": 10,
+    "summary": "低开高走，持仓股票上涨，疑问春天是否来了。",
+    "sentiment": "positive",
+    "key_opinions": ["低开高走表现好", "持仓股票上涨", "但可能横盘磨底"],
+    "mentioned_stocks": ["巨石", "生益", "长飞"]
+  },
+  {
+    "index": 11,
+    "summary": "利通股票可能V红，算力板块强势。",
+    "sentiment": "mixed",
+    "key_opinions": ["利通可能V红", "算力板块强势", "其他股票如协创硬"],
+    "mentioned_stocks": ["利通", "协创", "行云", "星网", "大米"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论科创是否救市，V型反弹及影响因素。",
+    "sentiment": "mixed",
+    "key_opinions": ["科创V型反弹", "科创套牢盘多、贵", "周边市场影响"],
+    "mentioned_stocks": ["科创", "半岛铁盒", "棒子"]
+  },
+  {
+    "index": 13,
+    "summary": "满手有色加科技，结果跌幅小于预期。",
+    "sentiment": "mixed",
+    "key_opinions": ["有色和科技持仓跌幅小", "可能补跌", "讨论港芯、腾讯等"],
+    "mentioned_stocks": ["有色", "科技", "港芯", "腾讯", "阿里", "黄金", "白银", "湖南白银"]
+  },
+  {
+    "index": 14,
+    "summary": "双创指数8月涨9月跌回，上证涨创业板跌。",
+    "sentiment": "negative",
+    "key_opinions": ["双创指数8月涨9月跌", "上证涨创业板跌", "银行调整可能拖累"],
+    "mentioned_stocks": ["双创", "银行"]
+  },
+  {
+    "index": 15,
+    "summary": "海皇死多头提示上船，航运利好鼓励投资。",
+    "sentiment": "positive",
+    "key_opinions": ["航运利好如欧线、苏伊士运河", "目标价高", "鼓励投资"],
+    "mentioned_stocks": ["海皇", "黄金"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论中钨高新股票，提到L大预测能到100。",
+    "sentiment": "mixed",
+    "key_opinions": ["中钨高新可能涨到100", "红板出后涨停", "引用L大观点"],
+    "mentioned_stocks": ["中钨高新", "章源钨业"]
+  },
+  {
+    "index": 17,
+    "summary": "分享投资心法，强调情绪管理影响决策。",
+    "sentiment": "positive",
+    "key_opinions": ["入市为赚钱，认知差异", "情绪影响决策", "逆情绪方法如空仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "股票普跌，开局-3，受美股和加息影响。",
+    "sentiment": "negative",
+    "key_opinions": ["股票普跌", "月线死叉、加息担忧", "昨晚美股跌影响"],
+    "mentioned_stocks": ["阿农", "银行", "创新药"]
+  },
+  {
+    "index": 19,
+    "summary": "AI选股后操作，高开加仓但波动大，分享经验。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI选股短期波动大", "分批建仓重要", "避免追高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论A股是否预判美国跌，明天可能补跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能预判晚上涨所以不跌", "明天可能补跌", "存量博弈"],
+    "mentioned_stocks": ["双创", "纳指"]
+  },
+  {
+    "index": 21,
+    "summary": "分享股市分析小工具，包括早盘、盘中、盘后报告。",
+    "sentiment": "positive",
+    "key_opinions": ["工具用于数据聚合和AI解读", "服务器可能崩溃", "分享给投资者使用"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "分享选股策略，条件触发涨停，避免未来函数。",
+    "sentiment": "positive",
+    "key_opinions": ["选股条件包括成交量、涨幅", "避免未来函数", "AI分析辅助"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "低开高走是A股舒适区，指数保住但明天可能受伤。",
+    "sentiment": "positive",
+    "key_opinions": ["低开高走常见", "旺旺T做爽", "明天可能受伤"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "求锤哥心法，分享文件如‘尽早离去’。",
+    "sentiment": "neutral",
+    "key_opinions": ["心法内容如‘尽早离去’", "感谢分享"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "中钨高新缩量下跌十字星，L大-8概念启动。",
+    "sentiment": "mixed",
+    "key_opinions": ["十字星可能反转", "等后续验证", "引用战法选股"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 26,
+    "summary": "质疑ETF走势，A股预判出货，市场本质是赌场。",
+    "sentiment": "negative",
+    "key_opinions": ["走势看不懂", "A股预判出货", "市场本质是赌场"],
+    "mentioned_stocks": ["ETF", "海油", "LOF", "可转债"]
+  },
+  {
+    "index": 27,
+    "summary": "科技股机构抛压大，死局分析，泡沫程度高。",
+    "sentiment": "negative",
+    "key_opinions": ["机构被套死抛压大", "量化互杀", "泡沫程度高"],
+    "mentioned_stocks": ["科技股", "液冷", "光模块", "芯片", "飞龙", "宁德"]
+  },
+  {
+    "index": 28,
+    "summary": "分享个人操作和建议，如止盈止损，推荐旅游票。",
+    "sentiment": "positive",
+    "key_opinions": ["早盘操作止盈止损", "避免农业、硬科技", "推荐旅游票如新华都"],
+    "mentioned_stocks": ["易点天下", "盛科通信U", "汇金股份", "大元泵业", "同花顺", "华特气体", "新华都"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论紫金矿业股价是否可买入，有性价比。",
+    "sentiment": "positive",
+    "key_opinions": ["紫金有性价比", "分批建仓", "等31再加仓"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 30,
+    "summary": "建滔科技涨价概念强，老张增持，看好PCB上游。",
+    "sentiment": "positive",
+    "key_opinions": ["PCB上游硬", "老张增持", "涨价逻辑强"],
+    "mentioned_stocks": ["建滔", "生益科技"]
+  },
+  {
+    "index": 31,
+    "summary": "黄金失守4400美元，讨论是否看到4000，受加息影响。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金下跌可能到4000", "加息影响", "滚动操作"],
+    "mentioned_stocks": ["黄金", "贵金属板块"]
+  },
+  {
+    "index": 32,
+    "summary": "青龙管业因台风上涨，快进快出，妖股性质。",
+    "sentiment": "mixed",
+    "key_opinions": ["台风利好青龙管业", "快进快出", "妖股性质"],
+    "mentioned_stocks": ["青龙管业"]
+  },
+  {
+    "index": 33,
+    "summary": "中钨高新自L大买入后亏损-8，等补缺口。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重", "-8接-8", "等补缺口"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 34,
+    "summary": "挑战持股5只以上无绿盘，几乎全绿。",
+    "sentiment": "negative",
+    "key_opinions": ["几乎全绿", "银行股可能不绿", "持币观望"],
+    "mentioned_stocks": ["银行", "卫星ETF"]
+  },
+  {
+    "index": 35,
+    "summary": "缩量但大盘稳，量价背离，卖飞股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["缩量稳可能跌不动", "量价背离", "卖飞股票"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "科技股天天挂钩子，博弈反弹，量化互拼。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股博弈反弹", "量化互拼", "韩爹V不V"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 37,
+    "summary": "药明康德波动大，插针后拉起，有铁底支撑。",
+    "sentiment": "mixed",
+    "key_opinions": ["药明波动大", "急拉起", "铁底150"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 38,
+    "summary": "盘面无聊，看睡着，想补缺口3700。",
+    "sentiment": "negative",
+    "key_opinions": ["盘面没法搞", "补缺口3700", "出货难"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "银行放40年超长贷，讨论通胀预期和接盘逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["40年贷款可能无通胀预期", "LPR影响", "接盘逻辑"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 40,
+    "summary": "港飞反弹强势，动能未衰减，等集采结果。",
+    "sentiment": "positive",
+    "key_opinions": ["港飞反弹强", "动能未衰减", "等集采结果"],
+    "mentioned_stocks": ["港飞", "移动", "光纤股"]
+  },
+  {
+    "index": 41,
+    "summary": "全部绿盘，预判问题，银行翻红。",
+    "sentiment": "negative",
+    "key_opinions": ["普跌", "海油高开低走", "银行翻红"],
+    "mentioned_stocks": ["海油", "银行", "长飞光纤", "生益科技"]
+  },
+  {
+    "index": 42,
+    "summary": "宇树科技腰斩，机构接盘，可能再腰斩。",
+    "sentiment": "negative",
+    "key_opinions": ["宇树腰斩", "机构不用道歉", "可能再腰斩"],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 43,
+    "summary": "测试发帖功能，确认能发帖。",
+    "sentiment": "neutral",
+    "key_opinions": ["测试连接", "能发帖"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "科创50套牢，讨论硬拿到下一轮牛市可行性。",
+    "sentiment": "mixed",
+    "key_opinions": ["科创50权重更换", "未来不确定", "长期持有可能回本"],
+    "mentioned_stocks": ["科创50", "中芯国际", "宁德时代", "比亚迪"]
+  },
+  {
+    "index": 45,
+    "summary": "投资迷茫，考虑梭哈逆回购，空仓等待。",
+    "sentiment": "negative",
+    "key_opinions": ["迷茫无想买", "做不好先不做", "空仓等待"],
+    "mentioned_stocks": ["逆回购", "短融ETF"]
+  }
+]
