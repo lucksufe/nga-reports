@@ -1,0 +1,338 @@
+[
+  {
+    "index": 1,
+    "summary": "用户询问科技股今日预估跌幅，回复普遍悲观，预估下跌3%-7%，部分人期待修复。",
+    "sentiment": "negative",
+    "key_opinions": ["满仓科技可能遭受重大损失", "预估跌幅在-3%到-7%之间", "有人认为情绪释放后可能修复"],
+    "mentioned_stocks": ["科技股", "胜宏科技"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论分散投资（开超市）的利弊，强调避免追涨杀跌的坏习惯。",
+    "sentiment": "mixed",
+    "key_opinions": ["开超市可以降低风险，但需合理选股", "追涨杀跌是真正的坏习惯", "分散投资有助于抗跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "提示欧洲战争风险上升，建议关注黄金和军工机会，用户担忧地缘政治。",
+    "sentiment": "negative",
+    "key_opinions": ["俄罗斯总动员可能导致欧洲大战", "关注黄金和军工板块", "讨论是否处于第三次世界大战"],
+    "mentioned_stocks": ["黄金", "军工"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论40年房贷政策，用户表达对长期贷款和生活压力的看法。",
+    "sentiment": "negative",
+    "key_opinions": ["40年房贷对年轻人压力大", "还款减少不多，但期限长", "讨论生活质量和寿命"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论宇树科技的成本控制管理，用户批评其过于严格，可能影响发展。",
+    "sentiment": "negative",
+    "key_opinions": ["管理过于严格，可能影响公司发展", "与马斯克的管理方式对比", "公司可能陷入困境"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 6,
+    "summary": "探讨银行放贷40年的原因，涉及通胀预期和回本周期讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["预期未来通胀不高", "银行回本周期类似30年贷款", "贷款可通过出售房产接盘"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 7,
+    "summary": "用户分享对高通胀和高景气行业的分析，看好化工和能源投资机会。",
+    "sentiment": "positive",
+    "key_opinions": ["预期油价上涨和通胀走高", "化工行业有投资机会", "提到巨化股份等具体公司"],
+    "mentioned_stocks": ["巨化股份", "化工板块"]
+  },
+  {
+    "index": 8,
+    "summary": "用户决定买入金健米业，讨论其连板和风险，涉及妖股操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["决定买入金健米业", "股票已连板，可能有风险", "讨论妖股和板块轮动"],
+    "mentioned_stocks": ["金健米业"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论粮食短缺问题，询问农业龙头股，提及化肥和相关股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["粮食短缺可能推高农产品价格", "农业板块有机会", "提到云天化、盐湖股份等"],
+    "mentioned_stocks": ["云天化", "盐湖股份", "金健米业"]
+  },
+  {
+    "index": 10,
+    "summary": "用户分享从科技股亏损转向纳指期货交易回本的经历，日内交易盈利。",
+    "sentiment": "positive",
+    "key_opinions": ["从科技股亏损转向纳指期货交易", "日内交易稳定盈利", "讨论散户的教训"],
+    "mentioned_stocks": ["纳指期货", "科技股"]
+  },
+  {
+    "index": 11,
+    "summary": "建议关注游戏板块，与短剧相关，可提前埋伏，提及具体股票。",
+    "sentiment": "positive",
+    "key_opinions": ["短剧可能带动游戏板块", "可以提前埋伏", "讨论游戏ETF和具体公司"],
+    "mentioned_stocks": ["游戏板块", "游戏ETF", "巨人网络", "华通", "恺英网络", "完美世界"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论房地产板块是否可以建仓，基于政策利好和市场底部特征。",
+    "sentiment": "mixed",
+    "key_opinions": ["房地产底部特征明显", "政策利好，但可能不彻底", "用户已建仓"],
+    "mentioned_stocks": ["房地产板块"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论农业和化工延伸到化肥的投资机会，提及具体公司。",
+    "sentiment": "mixed",
+    "key_opinions": ["农业板块轮动到化肥", "化肥作为粮食和化工的延伸", "提到云天化、美邦股份等"],
+    "mentioned_stocks": ["化肥", "云天化", "美邦股份", "供销大集", "天鹅股份"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论美国中期选举和特朗普的支持率，用户对选举前景悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["特朗普支持率低", "中期选举可能影响政策", "讨论总统弹劾可能性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "关注软件应用板块的修复机会，列出具体股票如瑞芯微、深信服等。",
+    "sentiment": "positive",
+    "key_opinions": ["软件应用板块百花齐放", "具体股票如瑞芯微、深信服", "讨论创业板和主板标的"],
+    "mentioned_stocks": ["瑞芯微", "深信服", "网宿科技", "芒果超媒", "中文在线", "昆仑万维"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论美国银行副总裁被刺事件，用户反应 mixed，涉及银行和职位实质。",
+    "sentiment": "mixed",
+    "key_opinions": ["事件可能影响银行", "讨论副总裁职位的实质", "用户以幽默方式看待"],
+    "mentioned_stocks": ["美国银行"]
+  },
+  {
+    "index": 17,
+    "summary": "分享农业板块中低位的小而美股票，提到康农种业，讨论北交所流动性。",
+    "sentiment": "positive",
+    "key_opinions": ["农业板块有低位股票", "提到康农种业", "讨论北交所流动性"],
+    "mentioned_stocks": ["康农种业"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论霍尔木兹海峡绕道计划，涉及地缘政治和能源风险，用户怀疑可行性。",
+    "sentiment": "negative",
+    "key_opinions": ["绕道计划可能不现实", "讨论伊朗和美国冲突", "管道可能被破坏"],
+    "mentioned_stocks": ["能源", "石油"]
+  },
+  {
+    "index": 19,
+    "summary": "抱怨预判资金（主力）总是赢，散户处于劣势，对市场不公不满。",
+    "sentiment": "negative",
+    "key_opinions": ["主力有信息优势", "定价权在主力手中", "散户只能与散户竞争"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论中钨高新的股价预测，提到条件单和章源钨业，用户设置买入条件。",
+    "sentiment": "mixed",
+    "key_opinions": ["预测股价到100元", "用户设置-8条件单", "讨论章源钨业"],
+    "mentioned_stocks": ["中钨高新", "章源钨业"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论港股反弹，具体指港飞（可能为港股光纤），看好动能，提及行业集采。",
+    "sentiment": "positive",
+    "key_opinions": ["港飞反弹强势", "讨论光纤行业集采", "用户建议买入"],
+    "mentioned_stocks": ["港飞", "光纤股"]
+  },
+  {
+    "index": 22,
+    "summary": "用户寻求右侧交易策略建议，讨论等趋势确立，提供具体指标。",
+    "sentiment": "mixed",
+    "key_opinions": ["右侧交易需要等趋势确立", "讨论指数和个股交易", "提供具体指标如MA20"],
+    "mentioned_stocks": ["招商银行"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论伦敦金价上涨到4300，用户惊讶并计划加仓黄金投资。",
+    "sentiment": "mixed",
+    "key_opinions": ["金价上涨到4300", "讨论黄金投资机会", "用户计划加仓"],
+    "mentioned_stocks": ["伦敦金", "紫金矿业"]
+  },
+  {
+    "index": 24,
+    "summary": "分享银行股趋势稳定的大牛股，强调长期主义，讨论核心资产。",
+    "sentiment": "positive",
+    "key_opinions": ["银行股趋势稳定", "长期主义重要", "讨论核心资产"],
+    "mentioned_stocks": ["银行", "中国银行"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论金价暴跌，用户认为机会来了，计划接盘紫金矿业。",
+    "sentiment": "mixed",
+    "key_opinions": ["金价暴跌", "讨论紫金矿业底部", "用户计划接盘"],
+    "mentioned_stocks": ["金价", "紫金矿业"]
+  },
+  {
+    "index": 26,
+    "summary": "提醒美股Moderna暴涨，建议关注A股相关供应商机会。",
+    "sentiment": "positive",
+    "key_opinions": ["Moderna暴涨", "A股相关供应商可能受益"],
+    "mentioned_stocks": ["Moderna", "A股供应商"]
+  },
+  {
+    "index": 27,
+    "summary": "批评人形机器人产业逻辑不成立，认为小型化才是方向，就业压力限制发展。",
+    "sentiment": "negative",
+    "key_opinions": ["人形机器人无实用价值", "小型化机器人才是方向", "就业压力限制发展"],
+    "mentioned_stocks": ["宇树科技", "瑞芯微"]
+  },
+  {
+    "index": 28,
+    "summary": "用户分享股市分析工具，提供数据分析和报告，讨论服务器容量。",
+    "sentiment": "positive",
+    "key_opinions": ["工具提供数据分析", "包括早盘、盘中、盘后报告", "讨论服务器容量"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讨论纳斯达克指数V型反弹，涉及美股金属和消费股，用户有科技仓位。",
+    "sentiment": "positive",
+    "key_opinions": ["纳指V型反弹", "讨论美股金属和消费股", "用户有科技仓位"],
+    "mentioned_stocks": ["纳指", "费半", "苹果"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论伊朗袭击油轮事件，影响油价和股市，用户担忧地缘风险。",
+    "sentiment": "negative",
+    "key_opinions": ["袭击可能推高油价", "讨论对A股科技的影响", "用户希望冲突持续"],
+    "mentioned_stocks": ["油价", "航司"]
+  },
+  {
+    "index": 31,
+    "summary": "用户卖飞捷荣技术感到挫败，寻求心理缓解，讨论交易策略。",
+    "sentiment": "negative",
+    "key_opinions": ["卖飞股票感到挫败", "讨论交易策略", "提供建议如反思"],
+    "mentioned_stocks": ["捷荣技术"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论美国货币政策困境，加息或降息都有问题，通胀是首要关注。",
+    "sentiment": "negative",
+    "key_opinions": ["加息或降息都有问题", "通胀是首要问题", "油价是关键"],
+    "mentioned_stocks": ["美债", "美股"]
+  },
+  {
+    "index": 33,
+    "summary": "用户吹票紫光国微，讨论市值管理和收购瑞能半导体，公司积极回应。",
+    "sentiment": "positive",
+    "key_opinions": ["紫光国微被吹票", "公司增持和回复", "收购瑞能半导体"],
+    "mentioned_stocks": ["紫光国微", "瑞能半导体"]
+  },
+  {
+    "index": 34,
+    "summary": "用户询问是否清仓美股定投，表达担忧，建议持续定投或分散投资。",
+    "sentiment": "mixed",
+    "key_opinions": ["对美股风险担忧", "建议持续定投", "讨论黄金和红利"],
+    "mentioned_stocks": ["纳指", "标普", "嘉实美国成长", "银华海外数字经济", "建信新兴市场"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论美股是否计价加息和国债利率，怀疑未充分计价，加息可能导致股灾。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股可能未充分计价加息", "加息可能导致股灾", "油价影响美股"],
+    "mentioned_stocks": ["美股", "纳指"]
+  },
+  {
+    "index": 36,
+    "summary": "用户科技股亏损70%本金，考虑躺平，需上涨3倍回本，建议谨慎。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损70%本金", "躺平可能不是好选择", "需要上涨3倍才能回本"],
+    "mentioned_stocks": ["东山基米", "达美乐", "云锗", "旭光电子"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论农业板块资金流入和科技资金流出，农业可能还有涨幅，行情持续性存疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["农业板块开始吸科技资金", "农业可能还有涨幅", "讨论行情持续性"],
+    "mentioned_stocks": ["农业板块", "科技板块"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论油价直线上涨，影响股市，用户担忧明天表现，提及相关股票。",
+    "sentiment": "negative",
+    "key_opinions": ["油价上涨", "明天可能陪葬", "讨论相关股票"],
+    "mentioned_stocks": ["油价", "赤天化", "中石油", "宝丰能源"]
+  },
+  {
+    "index": 39,
+    "summary": "预测周一板块表现，预期房地产、农业、消费、银行上涨，科技和黄金下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["预期房地产、农业、消费、银行上涨", "科技和黄金可能下跌", "讨论轮动行情"],
+    "mentioned_stocks": ["房地产", "农业", "消费", "银行", "科技", "黄金"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论社保基金2025年投资收益率13.22%，用户抱怨其赚钱，质疑内幕交易。",
+    "sentiment": "mixed",
+    "key_opinions": ["社保基金收益率13.22%", "用户抱怨社保基金赚钱", "讨论内幕交易"],
+    "mentioned_stocks": ["社保基金"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论大盘靠农业、消费、银行、AI软件推动上4000点，科技板块缩量。",
+    "sentiment": "mixed",
+    "key_opinions": ["大盘需要这些板块推动", "科技板块缩量", "讨论板块轮动和风险"],
+    "mentioned_stocks": ["农业", "消费", "银行", "AI软件", "科技"]
+  },
+  {
+    "index": 42,
+    "summary": "用户持仓金健米业，错过金牛化工，尾盘买入金富科技，期待明天表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["持仓金健米业", "错过金牛化工", "买入金富科技"],
+    "mentioned_stocks": ["金健米业", "金牛化工", "金富科技"]
+  },
+  {
+    "index": 43,
+    "summary": "新手询问抛科技后买什么板块，建议长江电力或空仓，讨论农业风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["建议买长江电力或空仓", "科技可能反弹", "讨论农业板块风险"],
+    "mentioned_stocks": ["科技", "农业", "长江电力"]
+  },
+  {
+    "index": 44,
+    "summary": "分享抄底选股方法“量窒息法”，适用于短期交易，提及京东方等案例。",
+    "sentiment": "positive",
+    "key_opinions": ["量窒息法用于抄底", "适用于短期交易", "讨论具体案例如京东方"],
+    "mentioned_stocks": ["京东方", "昊华能源"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论农业重要性，建议科技转仓农业，农业与美国关联性强。",
+    "sentiment": "mixed",
+    "key_opinions": ["农业是硬实力", "科技依赖外部", "讨论农业板块与美国关联"],
+    "mentioned_stocks": ["农业", "科技"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论日元可能像瑞郎一样出现黑天鹅事件，担忧暴跌，美国可能兜底。",
+    "sentiment": "negative",
+    "key_opinions": ["日元可能暴跌", "类似瑞郎黑天鹅", "美国可能兜底"],
+    "mentioned_stocks": ["日元", "美债"]
+  },
+  {
+    "index": 47,
+    "summary": "讨论比亚迪8月销量数据，稳步上升，可能超过去年，关注毛利率和股价。",
+    "sentiment": "positive",
+    "key_opinions": ["销量稳步上升", "可能超过去年", "讨论毛利率和股价"],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 48,
+    "summary": "询问电力板块前景，有波段机会，讨论具体股票如华能蒙电，适合做T。",
+    "sentiment": "mixed",
+    "key_opinions": ["电力板块有波段机会", "讨论具体股票如华能蒙电", "电力适合做T"],
+    "mentioned_stocks": ["电力板块", "节能风电", "大唐发电", "华能蒙电"]
+  }
+]
