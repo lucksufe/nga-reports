@@ -1,0 +1,530 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论美股大涨是否成立及A股补涨可能性，多数认为美股涨幅有限，A股独立走势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股除了英伟达外涨幅不大。",
+      "A股常预判美股下跌，走势独立。",
+      "农业ETF和科技板块提及但无大涨。"
+    ],
+    "mentioned_stocks": ["农业ETF", "科技股", "英伟达"]
+  },
+  {
+    "index": 2,
+    "summary": "宇树科技股价腰斩，公司呼吁投资者基于价值投资，而非炒作。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "公司不认同自己价值，发行价400亿被炒到4000亿。",
+      "股价腰斩仍是炒作，不欢迎活跃资金。",
+      "股东套现上市，散户接盘风险高。"
+    ],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 3,
+    "summary": "新手想买银行股吃股息，但银行股已涨高，讨论买入时机和策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银行随时可买但别满仓，低了加仓。",
+      "短期可能调整，建议等回调。",
+      "长期看好，但需注意回调风险。"
+    ],
+    "mentioned_stocks": ["银行股", "长江电力"]
+  },
+  {
+    "index": 4,
+    "summary": "预测明年粮食问题，但化肥股跌，讨论农业投资时机和风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国际缺肥料但化肥股大跌。",
+      "粮食危机不确定，农业股不适合现在买。",
+      "国内有耕地红线，影响有限。"
+    ],
+    "mentioned_stocks": ["化肥股", "盐湖", "云天"]
+  },
+  {
+    "index": 5,
+    "summary": "大盘缩量无主线，讨论是否进入炒妖股阶段，投机行情可能持续。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大盘缩量，摸4000点后可能向下。",
+      "连板被压制，妖股炒作难持续。",
+      "投机牛可能持续一年。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "抱怨A股与外围市场脱节，常反向走势，股民难赚钱。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股与外围反向，万年3000点。",
+      "股市让股民难捡钱。",
+      "发股过多导致问题。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论开放做空的影响，多数认为散户会被收割，市场机制问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "开放做空散户会被主力干爆。",
+      "炒小炒差因缺乏做空能力。",
+      "多空双杀，散户难斗庄家。"
+    ],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 8,
+    "summary": "美军护航石油船只新闻被质疑真实性，嘲讽美军吹嘘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "新闻可能编造，护航数据不实。",
+      "小船偷运油，赌命换暴利。",
+      "美军拦截导弹说法被嘲讽。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "分析兴业银行可转债对股价影响，认为股价可能被拉至20元以上。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可转债转股需股价涨，避免兑付。",
+      "参考光大转债处理方式。",
+      "银行不缺钱兑付，拉升股价代价高。"
+    ],
+    "mentioned_stocks": ["兴业银行", "光大转债"]
+  },
+  {
+    "index": 10,
+    "summary": "宇树科技股价大跌，散户被套，基金接盘为主，悲观预期。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价还能跌至少1/3。",
+      "散户亏损严重，基金接盘。",
+      "明年解禁成本150元，压力大。"
+    ],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 11,
+    "summary": "ETF不再披露持有人名字，增加信息不对称，散户更难。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "信息不对等加剧，为割韭菜。",
+      "散户只能靠残缺信息抵抗。",
+      "数据不披露趋势，违规成本低。"
+    ],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 12,
+    "summary": "A股与日韩股市关联，日韩涨时A股不一定涨，但跌时必跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股与日韩关联，常反向。",
+      "科技仓位重，盯盘疲劳。",
+      "以前看笑话，现在加油鼓劲。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 13,
+    "summary": "戴尔和英伟达大涨，利好A股相关股票如中际旭创和工业富联。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "利好港股建滔基层板和联想。",
+      "中际旭创市值增长指日可待。",
+      "戴尔业绩好，AI服务器订单积压。"
+    ],
+    "mentioned_stocks": ["英伟达", "戴尔", "中际旭创", "建滔基层板", "联想控股", "工业富联", "浪潮", "曙光"]
+  },
+  {
+    "index": 14,
+    "summary": "万家纳斯达克基金限额调整至10000元，讨论美股资金流入。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "限额调整，可能吸引资金。",
+      "美股增量资金源源不断。",
+      "基金跌得比别家少。"
+    ],
+    "mentioned_stocks": ["万家纳斯达克100指数基金", "汇添富", "易方达"]
+  },
+  {
+    "index": 15,
+    "summary": "测试用A股黄金股预测黄金期货，结论不可行，建议直接买黄金ETF。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黄金股不能提前预判黄金走势。",
+      "有预测能力直接期货市场。",
+      "买黄金ETF长期持有更好。"
+    ],
+    "mentioned_stocks": ["赤峰黄金", "沪金", "黄金ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论萝卜相关业务能否赚钱，涉及半导体测试设备。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "泰瑞达和爱德万抢ficonTEC。",
+      "神教新故事，业务前景不明。",
+      "设备厂盈利不确定性高。"
+    ],
+    "mentioned_stocks": ["ficonTEC"]
+  },
+  {
+    "index": 17,
+    "summary": "汉钟精机基本面讨论，产品和行业情况，机构关注真空泵。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "公司保守，液冷和半导体泵收入未列示。",
+      "机构关注真空泵，明后年铺开。",
+      "与京仪对比，技术有差异。"
+    ],
+    "mentioned_stocks": ["汉钟精机", "京仪"]
+  },
+  {
+    "index": 18,
+    "summary": "船舶制造业业绩与涨幅不匹配，讨论重资产行业风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "业绩和涨幅不太匹配。",
+      "重资产行业大资金不愿给高溢价。",
+      "订单周期长，需求下降风险高。"
+    ],
+    "mentioned_stocks": ["中国船舶", "松发股份"]
+  },
+  {
+    "index": 19,
+    "summary": "日韩高开但A股可能高开低走，情绪化反应。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高开低走预期，失望气愤。",
+      "跳水快，半小时可能变绿。",
+      "情绪化反应，无助感强。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "询问投资方向，农业和牧原股份被提及，迷茫中寻求建议。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "农业是否能去，犹豫不决。",
+      "来牧原养猪，看好。",
+      "小吸不超仓，谨慎。"
+    ],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 21,
+    "summary": "中钨高新股价讨论，提到-8概念（下跌8%买入），目标价100。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "目标价100元，真有人信。",
+      "-8上车，下跌8%买入策略。",
+      "与章源钨业比较，可操作。"
+    ],
+    "mentioned_stocks": ["中钨高新", "章源钨业"]
+  },
+  {
+    "index": 22,
+    "summary": "猜测国家队砸盘时间和方式，对市场悲观，指数虚高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "砸盘方式多样，开盘或尾盘。",
+      "指数虚高，缩量位置危险。",
+      "国家队砸盘可能引发百点长阴。"
+    ],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 23,
+    "summary": "牧原股份投资逻辑：成本最低，猪价涨则盈利，看涨至120元。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "成本11.5/kg，全行业最低。",
+      "秦总增持，猪价回14则大赚。",
+      "剑指120元，半仓建仓。"
+    ],
+    "mentioned_stocks": ["牧原股份", "中钨高新"]
+  },
+  {
+    "index": 24,
+    "summary": "特朗普提议将霍尔木兹海峡改名，象征美国控制，可能隐喻。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美国控制海峡，提议改名。",
+      "特朗普海峡，讽刺意味。",
+      "无直接股市影响。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "杰瑞股份股价下跌，质疑投资逻辑，担心美国禁燃气轮机风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价从127跌至123，没出息。",
+      "逻辑是燃气轮机但业绩放量慢。",
+      "美国禁逆变器，未来可能禁燃气轮机。"
+    ],
+    "mentioned_stocks": ["杰瑞股份", "GEV"]
+  },
+  {
+    "index": 26,
+    "summary": "中际旭创实控人质押股票偿债，可能变相减持，违规成本低。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "质押用于偿还债务。",
+      "变相减持，违规成本低。",
+      "强平风险小，但市场担忧。"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 27,
+    "summary": "担心明天市场继续下跌，期待反弹，情绪悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "今天跌可接受，怕明天继续跌。",
+      "可能反弹，但信心不足。",
+      "跌就完了，快点下万亿。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "贵金属股走势诡异，资金聪明，用赤峰股预测黄金ETF。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "走势邪门，高开下杀博弈。",
+      "资金太聪明，预测准确。",
+      "用赤峰股尾盘操作黄金ETF。"
+    ],
+    "mentioned_stocks": ["赤峰黄金", "黄金ETF"]
+  },
+  {
+    "index": 29,
+    "summary": "中国核电中报差，但长期看好，核电大修明年好转。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中报太差，可能大跌。",
+      "核电在大修，明年会好些。",
+      "流通股东乐观，可持四五年。"
+    ],
+    "mentioned_stocks": ["中国核电", "中广核"]
+  },
+  {
+    "index": 30,
+    "summary": "当前行情难操作，预判互割，红利高、科技下不去手，迷茫。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "行情难做，预判我的预判。",
+      "红利高，科技下不去手。",
+      "题材家人们互割，麻了。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "紫光国微机构持仓低，看空看多分歧，业绩拉胯。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "机构持仓跌至36%，内资仅5.6%。",
+      "看空：机构跑完，散户接盘。",
+      "看多：地量见地价，抄底。"
+    ],
+    "mentioned_stocks": ["紫光国微", "胜宏"]
+  },
+  {
+    "index": 32,
+    "summary": "丸美股票默默涨，但板块不行，化妆品庄暴力。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "图形还行但板块不行。",
+      "化妆品庄都特暴力。",
+      "等回调，位置高吃不了几个点。"
+    ],
+    "mentioned_stocks": ["丸美", "珀莱雅"]
+  },
+  {
+    "index": 33,
+    "summary": "昊华科技二板后分歧大，走势看不懂，操作难度高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "多空分歧天量，完全看不懂。",
+      "博弈难度高，与多氟多关联。",
+      "可能洗盘，明天再看。"
+    ],
+    "mentioned_stocks": ["昊华科技", "多氟多"]
+  },
+  {
+    "index": 34,
+    "summary": "科创50走势像出货，但量小，讨论如何判断出货。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "走势像在出货，放量才出货。",
+      "缩量下跌，躺尸非出货。",
+      "指数出货判断难。"
+    ],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 35,
+    "summary": "水灾导致泡水车，影响保险赔付和费率，比亚迪涉水技术被提及。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "泡水车全损，保险赔付问题。",
+      "比亚迪涉水技术下放需求。",
+      "保费可能提高，费率上调。"
+    ],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 36,
+    "summary": "2万元短线实盘复盘，上证震荡，买反弹和军工股票。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上证在中枢内震荡，双头形成。",
+      "抄反弹170，博军工板块。",
+      "沈飞六连阳但亏损。"
+    ],
+    "mentioned_stocks": ["北方导航", "神剑", "沈飞"]
+  },
+  {
+    "index": 37,
+    "summary": "A股常提前预判美股走势，聪明资金恐怖，黄金股先动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "A股预判美股下跌正确率高。",
+      "黄金股比黄金期货先涨。",
+      "三桶油跳水预示晚间走势。"
+    ],
+    "mentioned_stocks": ["三桶油", "黄金股"]
+  },
+  {
+    "index": 38,
+    "summary": "平陆运河开通，相关标的如北部湾港已炒过，利好出尽。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "北部湾港是相关标的。",
+      "早就炒过两轮，接盘风险。",
+      "利好出尽，庄家诱多。"
+    ],
+    "mentioned_stocks": ["北部湾港"]
+  },
+  {
+    "index": 39,
+    "summary": "分享自制投资分析工具，包括数据聚合和AI解读，获好评。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "工具实用，有AI解读数据。",
+      "报告分早盘、盘中、盘后。",
+      "定时任务，服务器小但够用。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "英伟达大涨带动费半指数，资金抱团，利好业绩增长。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "英伟达大涨，费半被它一家涨。",
+      "资金抱团硬拉，无明显利好。",
+      "投资者会议说28财年增长100%。"
+    ],
+    "mentioned_stocks": ["英伟达", "MU", "闪迪"]
+  },
+  {
+    "index": 41,
+    "summary": "用情绪模型投资军工和恒生互联网，北方长龙立竿见影。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "情绪模型简陋但有效。",
+      "买北方长龙和恒生互联网ETF。",
+      "跟踪一个月看效果。"
+    ],
+    "mentioned_stocks": ["北方长龙", "恒生互联网ETF", "腾讯"]
+  },
+  {
+    "index": 42,
+    "summary": "帖子编辑中，内容混乱，提到顺丰和图片分享。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "炒股卖不涨股，简单逻辑。",
+      "顺丰讨论，服务最好但股价不涨。",
+      "图片分享，信息不完整。"
+    ],
+    "mentioned_stocks": ["顺丰"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论期指和期权，作为保险工具，实盘分享。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "期指期权少人讨论，可作保险。",
+      "卖沽创业板ETF3200。",
+      "期指期权加速亏损风险。"
+    ],
+    "mentioned_stocks": ["创业板ETF期权"]
+  },
+  {
+    "index": 44,
+    "summary": "国家队减持券商，对券商后市看法悲观，周期性调整。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "村长疯狂减持券商。",
+      "板块周期按年算，涨跌不动。",
+      "滚完对板块利好，但下次盘外招。"
+    ],
+    "mentioned_stocks": ["券商"]
+  },
+  {
+    "index": 45,
+    "summary": "发错版块，可能隐喻黄金震荡，利好华能蒙电。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "发错版块，主题无关。",
+      "黄金要大震荡，多空双杀。",
+      "利好华能蒙电，隐晦关联。"
+    ],
+    "mentioned_stocks": ["华能蒙电"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论数字货币相关股票如楚天龙，稳定币影响，短线情绪。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "楚天龙、恒宝等有无搞头。",
+      "稳定币可能废弃SWIFT。",
+      "短线看情绪，异动风险高。"
+    ],
+    "mentioned_stocks": ["楚天龙", "恒宝", "东信", "四方"]
+  },
+  {
+    "index": 47,
+    "summary": "分享神秘战法：买一手股票测试，上涨则买入，利用韭菜体质。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利用韭菜体质，买啥啥跌。",
+      "模拟盘常赢，实盘歇菜。",
+      "中钨高新例子，买崩测试。"
+    ],
+    "mentioned_stocks": ["中钨高新", "金牛化工"]
+  },
+  {
+    "index": 48,
+    "summary": "喊牛市到来，但带图片可能讽刺，乐观预期。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "牛来！牛市快来！",
+      "剧场版暗示不真实或表演。",
+      "无实际分析，情绪喊话。"
+    ],
+    "mentioned_stocks": []
+  }
+]
