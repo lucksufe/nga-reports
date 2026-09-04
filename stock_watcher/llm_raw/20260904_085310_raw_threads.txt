@@ -1,0 +1,256 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "讨论纳指基金限额开放一天即额度耗尽，投资者抢购与市场风险并存。",
+        "sentiment": "mixed",
+        "key_opinions": ["基金限额仅开放一天，额度快速耗尽", "认为美股估值高且有风险，额度应留给他人", "资金从A股撤出抢购QDII额度"],
+        "mentioned_stocks": ["纳指基金", "摩根标普500"]
+    },
+    {
+        "index": 2,
+        "summary": "讨论某标的（港飞）的强势反弹行情，建议关注入场时机。",
+        "sentiment": "positive",
+        "key_opinions": ["行情强势，动能未减", "建议想要参与的投资者现在入场", "有人怀疑其强势程度，认为一般"],
+        "mentioned_stocks": ["港飞", "光纤股"]
+    },
+    {
+        "index": 3,
+        "summary": "分享了一个基于成交量的选股策略，并讨论其有效性和时间点问题。",
+        "sentiment": "mixed",
+        "key_opinions": ["策略基于特定成交量和涨跌幅条件选股", "澄清‘今天’指策略运行当天，非未来数据", "被质疑策略可能存在未来函数"],
+        "mentioned_stocks": ["科创板", "ST股"]
+    },
+    {
+        "index": 4,
+        "summary": "讨论论坛新板块‘微时代’的入口问题，抱怨其难以找到。",
+        "sentiment": "negative",
+        "key_opinions": ["新板块入口难找，尤其PC端", "需在APP端搜索‘杂谈’进入", "老用户也找不到入口，感到困惑"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 5,
+        "summary": "提示欧洲战争风险上升，建议关注黄金及军工等避险资产。",
+        "sentiment": "negative",
+        "key_opinions": ["情报显示俄罗斯可能总动员，战争风险升级", "认为战争可能性在上升，建议避险", "讨论三战是否开始及可能的目标国"],
+        "mentioned_stocks": ["黄金", "军工"]
+    },
+    {
+        "index": 6,
+        "summary": "预测A股成交量低迷，市场缺乏增量资金和赚钱效应。",
+        "sentiment": "negative",
+        "key_opinions": ["预测成交量难以达到1.5万亿", "成交量中量化占比高，人类交易者减少", "资金被套牢，增量资金流向其他市场"],
+        "mentioned_stocks": ["纳指基金", "中韩半导体"]
+    },
+    {
+        "index": 7,
+        "summary": "分享一种基于成交量萎缩的‘量窒息’抄底选股方法。",
+        "sentiment": "positive",
+        "key_opinions": ["方法用于判断短期卖盘枯竭的买点", "适用于抄底或寻找短期反弹机会", "有人用此方法成功抄底部分股票"],
+        "mentioned_stocks": ["京东方", "昊华科技"]
+    },
+    {
+        "index": 8,
+        "summary": "讨论宇树科技股价下跌可能套牢的投资者情况。",
+        "sentiment": "negative",
+        "key_opinions": ["认为股价可能继续下跌三分之一", "散户直接买入者少，多为基金接盘", "基金投资者可能面临亏损"],
+        "mentioned_stocks": ["宇树科技"]
+    },
+    {
+        "index": 9,
+        "summary": "25岁投资小白询问开始每日定投100元纳指基金的可行性。",
+        "sentiment": "positive",
+        "key_opinions": ["建议先从宽基指数ETF开始定投", "认为纳指长期看好，但最好等回调买入", "强调养成定期投入的习惯比择时更重要"],
+        "mentioned_stocks": ["纳斯达克", "红利ETF", "标普500"]
+    },
+    {
+        "index": 10,
+        "summary": "讨论某股票（姨）以特定价格收盘，对其走势和盘口语言进行猜测。",
+        "sentiment": "negative",
+        "key_opinions": ["股价以特定数字收盘引发猜测", "讨论下方关键支撑位", "成交量巨大但股价未涨，令人担忧"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 11,
+        "summary": "论坛发帖功能受限，猜测与‘小时代’指数上涨有关。",
+        "sentiment": "negative",
+        "key_opinions": ["发帖功能疑似被限制", "猜测与‘小时代’指数上涨触发某种机制有关", "抱怨无法在熟悉的板块发帖"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 12,
+        "summary": "作者分享自己开发的股市数据聚合与分析小工具。",
+        "sentiment": "positive",
+        "key_opinions": ["工具聚合大盘数据并配有AI解读", "提供早盘、盘中、盘后定时分析报告", "工具由个人小服务器支撑，访问量大会变慢"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 13,
+        "summary": "讨论持有胜宏科技的痛苦，业绩不及预期且走势弱，考虑割肉。",
+        "sentiment": "negative",
+        "key_opinions": ["半年报业绩不及预期，未来业绩兑现期远", "股价走势弱，持有体验差", "有人选择割肉换股，也有人坚持持有"],
+        "mentioned_stocks": ["胜宏科技", "沪电股份"]
+    },
+    {
+        "index": 14,
+        "summary": "讨论黄金价格上涨的原因，涉及货币超发、债务风险等宏观逻辑。",
+        "sentiment": "mixed",
+        "key_opinions": ["牛市逻辑基于全球主权债务风险和货币超发", "上涨可能因美指下跌或数据反弹", "央行是黄金的重要买家，支撑金价"],
+        "mentioned_stocks": ["黄金"]
+    },
+    {
+        "index": 15,
+        "summary": "讨论水灾导致泡水车增多，对汽车技术和保险行业的影响。",
+        "sentiment": "negative",
+        "key_opinions": ["关注比亚迪何时下放涉水技术", "讨论全损车辆对次年保费的影响", "质疑保险费率是否会因此上调"],
+        "mentioned_stocks": ["比亚迪"]
+    },
+    {
+        "index": 16,
+        "summary": "讨论宁德时代股价下跌，部分投资者被其大规模回购吸引而买入后被套。",
+        "sentiment": "negative",
+        "key_opinions": ["认为回购是诱多，股价持续下跌", "有投资者认为当前估值（PE）已具吸引力", "担忧车企供应链去宁德化，影响未来利润"],
+        "mentioned_stocks": ["宁德时代"]
+    },
+    {
+        "index": 17,
+        "summary": "在市场低迷时选择买入，但观察到日韩市场大跌引发担忧。",
+        "sentiment": "negative",
+        "key_opinions": ["在其他资产躺平后选择买入", "有人提醒日韩市场大跌，风险高", "建议等待放量下跌信号再操作"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 18,
+        "summary": "看涨航运股（海皇），强调错过上涨机会的风险，给出高目标价。",
+        "sentiment": "positive",
+        "key_opinions": ["因航运受阻等逻辑强烈看涨", "给出极高目标价（如40）", "提醒投资者错过上涨机会的风险"],
+        "mentioned_stocks": ["海皇"]
+    },
+    {
+        "index": 19,
+        "summary": "个人短线实盘记录，买入看好的军工等相关股票，进行盘面分析。",
+        "sentiment": "mixed",
+        "key_opinions": ["记录当天亏损及操作", "分析上证指数在区间内震荡", "买入看好的板块个股博反弹"],
+        "mentioned_stocks": ["170", "北方导航", "神剑", "沈飞"]
+    },
+    {
+        "index": 20,
+        "summary": "对开盘行情预判出错，市场走势与预期相反。",
+        "sentiment": "mixed",
+        "key_opinions": ["开盘走势与预期相反，令人困惑", "有人预判错误，有人观察到特定股票低开", "讨论今日成交量可能偏低"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 21,
+        "summary": "记录投资兴业银行等高股息银行股的策略和初始盈亏。",
+        "sentiment": "positive",
+        "key_opinions": ["投资策略基于高股息和价格波动区间", "记录实际操作的盈亏", "与同类高股息标的（海皇）比较"],
+        "mentioned_stocks": ["兴业银行", "招商银行"]
+    },
+    {
+        "index": 22,
+        "summary": "讨论昊华科技经历大涨后的高难度博弈，多空分歧巨大。",
+        "sentiment": "negative",
+        "key_opinions": ["涨停后出现天量分歧，走势看不懂", "博弈难度高，主力资金态度不明", "建议观望或等待更清晰信号"],
+        "mentioned_stocks": ["昊华科技", "多氟多"]
+    },
+    {
+        "index": 23,
+        "summary": "科技股从暴跌转为阴跌，持有者感到痛苦，担心下跌持续。",
+        "sentiment": "negative",
+        "key_opinions": ["科技股每日阴跌，持有者进退两难", "认为八月底可能不是底部", "通过比较安慰自己，但账户持续亏损"],
+        "mentioned_stocks": ["科技股"]
+    },
+    {
+        "index": 24,
+        "summary": "计划从2.5万元开始短线实盘，目标做到100万，记录交易思路。",
+        "sentiment": "positive",
+        "key_opinions": ["主要做首板等短线模式", "计划小资金积累，记录以理清思路", "其他用户对其模式提出疑问或鼓励"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 25,
+        "summary": "开楼回答关于汉钟精机基本面的疑问，进行理性讨论。",
+        "sentiment": "positive",
+        "key_opinions": ["针对公司基本面、产品、行业进行答疑", "讨论半导体真空泵的进展和竞争", "吸引用户提问液冷、半导体泵等业务细节"],
+        "mentioned_stocks": ["汉钟精机", "京仪"]
+    },
+    {
+        "index": 26,
+        "summary": "讨论煤炭股价格波动，分析其与期货、石油市场的关联。",
+        "sentiment": "negative",
+        "key_opinions": ["煤炭股走势受期货市场影响明显", "有人认为需关注石油价格", "讨论近期上涨逻辑（提价、进口紧张）"],
+        "mentioned_stocks": ["煤炭ETF", "石油"]
+    },
+    {
+        "index": 27,
+        "summary": "分享个人交易经历，包括大幅亏损、追加资金和操作失误。",
+        "sentiment": "negative",
+        "key_opinions": ["原有资金亏损严重，追加新资金", "记录因上课错过卖出时机等失误", "抱怨银行股板块上涨而个股不涨"],
+        "mentioned_stocks": ["神奇制药", "康冠", "中国银行"]
+    },
+    {
+        "index": 28,
+        "summary": "讨论如果A股开放全面做空，散户会面临怎样的结果。",
+        "sentiment": "negative",
+        "key_opinions": ["认为开放做空后主力会改变策略，散户更难", "指出当前制度缺陷导致炒小炒差", "对比其他市场，认为A股体验差"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 29,
+        "summary": "澜起科技出现四连阴，满仓投资者感到难以承受。",
+        "sentiment": "negative",
+        "key_opinions": ["股价出现罕见的四连阴走势", "满仓投资者心态接近崩溃", "历史走势显示在特定区间震荡"],
+        "mentioned_stocks": ["澜起科技"]
+    },
+    {
+        "index": 30,
+        "summary": "抱怨市场盘面僵化，涨跌无力，缺乏交易机会。",
+        "sentiment": "negative",
+        "key_opinions": ["市场陷入僵局，涨跌都难", "建议睡觉等待机会", "有人认为银行股表现尚可"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 31,
+        "summary": "询问是否还有投资者满仓科技股，并讨论当前困境。",
+        "sentiment": "negative",
+        "key_opinions": ["科技股缺乏像样的反弹", "有投资者近期满仓被套", "部分人仍持有并等待"],
+        "mentioned_stocks": ["美海力士"]
+    },
+    {
+        "index": 32,
+        "summary": "提示关注CART生物医药板块，进行前瞻分析。",
+        "sentiment": "positive",
+        "key_opinions": ["对CART生物板块进行前瞻性提示", "建议加入自选观察", "讨论相关个股的走势"],
+        "mentioned_stocks": ["智飞生物", "海南海药", "誉衡", "百普赛斯"]
+    },
+    {
+        "index": 33,
+        "summary": "分析当日大盘开盘前的技术特征，预测可能走势。",
+        "sentiment": "negative",
+        "key_opinions": ["注意到上方存在跳空缺口", "指出尾盘无常见走势信号", "对今日红绿盘走势做出不同预测"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 34,
+        "summary": "英伟达大涨却不带动A股相关科技板块，质疑其联动性。",
+        "sentiment": "negative",
+        "key_opinions": ["美股科技股上涨不带动A股对应板块", "A股科技股已跌回原位", "讨论A股走势与美股相反的“预判”逻辑"],
+        "mentioned_stocks": ["英伟达", "美光", "罕见链"]
+    },
+    {
+        "index": 35,
+        "summary": "讨论建滔积层板等涨价概念PCB上游股的强势表现和投资逻辑。",
+        "sentiment": "positive",
+        "key_opinions": ["涨价概念是科技股中的亮点", "公司有股东增持等利好", "比较估值，认为存在投资机会"],
+        "mentioned_stocks": ["建滔", "建滔积层板", "生益科技"]
+    },
+    {
+        "index": 36,
+        "summary": "惊讶于银行股表现强势，未出现预期的回调。",
+        "sentiment": "positive",
+        "key_opinions": ["银行股走势超出预期，未回调", "有投资者认为银行是穿越周期的核心资产", "有人希望能等来银行股回调上车机会"],
+        "mentioned_stocks": ["银行股"]
+    }
+]
+```
