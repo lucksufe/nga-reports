@@ -1,0 +1,310 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论尾盘拉升的含义，是庄家行为还是诱多或控指数。",
+    "sentiment": "mixed",
+    "key_opinions": ["尾盘拉升可能是庄家拿筹码", "也可能是诱多行为", "或者是为了控制指数"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "抱怨上午加仓被欺骗，尾盘放量杀跌，讨论市场操作。",
+    "sentiment": "negative",
+    "key_opinions": ["上午加仓可能被欺骗", "尾盘放量杀跌令人失望", "建议远离科技板块"],
+    "mentioned_stocks": ["GDX", "浪潮信息"]
+  },
+  {
+    "index": 3,
+    "summary": "不希望尾盘拉升，认为会加剧市场问题。",
+    "sentiment": "negative",
+    "key_opinions": ["不希望尾盘拉升，认为会更完蛋", "市场自然走势更好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "A股对特朗普事件过度反应，批评市场表现差。",
+    "sentiment": "negative",
+    "key_opinions": ["A股对任何外国事件都反应过度", "市场是全球最垃圾的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "抱怨尾盘砸盘，指责市场操控如拉银行白酒稳指数。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘砸盘令人崩溃", "拉银行白酒稳指数是虚伪行为", "市场缺乏公平"],
+    "mentioned_stocks": ["银行", "白酒"]
+  },
+  {
+    "index": 6,
+    "summary": "极端不满市场割散户，建议关停市场。",
+    "sentiment": "negative",
+    "key_opinions": ["市场存在盘外招割散户", "庄家出老千", "市场没有存在必要"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "质疑银行证券护盘，认为应一起下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["银行证券护盘是浪费", "杀科技人心", "市场操控明显"],
+    "mentioned_stocks": ["银行", "证券"]
+  },
+  {
+    "index": 8,
+    "summary": "对市场前景绝望，寻找出路如润或装死。",
+    "sentiment": "negative",
+    "key_opinions": ["市场没有鲜花只有粪坑", "建议逃离或装死"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "猜测主力提前知道非农数据，市场存在预判。",
+    "sentiment": "mixed",
+    "key_opinions": ["主力可能提前知道非农数据", "市场存在预判行为"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "猪股上涨嘲讽散户像猪被宰割。",
+    "sentiment": "negative",
+    "key_opinions": ["猪股上涨是对散户的嘲讽", "在A股像猪被宰割"],
+    "mentioned_stocks": ["牧原"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论分红税计算规则和困惑。",
+    "sentiment": "mixed",
+    "key_opinions": ["分红税按先进先出原则计算", "日内买卖影响税", "需要理解规则"],
+    "mentioned_stocks": ["招行"]
+  },
+  {
+    "index": 12,
+    "summary": "预测尾盘拉升是为了周一更好砸盘。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘拉起是为了更好砸盘", "主力在吸收筹码"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "询问小作文谣言，如特朗普死亡和碳酸锂下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["小作文（谣言）可能影响市场", "碳酸锂大跌", "特朗普事件可能是假消息"],
+    "mentioned_stocks": ["碳酸锂", "科技股"]
+  },
+  {
+    "index": 14,
+    "summary": "询问海皇股票下跌原因。",
+    "sentiment": "negative",
+    "key_opinions": ["海皇下跌可能因涨多了", "等待更低价格买入"],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 15,
+    "summary": "咨询金螳螂股票走势，冲高回落亏损。",
+    "sentiment": "mixed",
+    "key_opinions": ["金螳螂冲高回落目前亏损", "可能考虑卖出"],
+    "mentioned_stocks": ["金螳螂"]
+  },
+  {
+    "index": 16,
+    "summary": "表达对市场的彻底失望和服气。",
+    "sentiment": "negative",
+    "key_opinions": ["市场令人服气", "钱都亏了", "建议辱骂A股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "质疑A股前景，表达痛苦和绝望。",
+    "sentiment": "negative",
+    "key_opinions": ["A股没有幻想", "回本难", "市场垃圾时间多"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "评论市场从4000红变3000绿的大幅波动。",
+    "sentiment": "negative",
+    "key_opinions": ["市场独立行情不跟全球", "科技股可能上月球", "可能预判非农数据"],
+    "mentioned_stocks": ["科技", "银行", "白酒"]
+  },
+  {
+    "index": 19,
+    "summary": "抱怨亏钱，切换板块如银行证券也亏。",
+    "sentiment": "negative",
+    "key_opinions": ["切换板块如银行证券也亏", "光模块和算力长期看好"],
+    "mentioned_stocks": ["国链", "银行", "证券", "光模块", "算力"]
+  },
+  {
+    "index": 20,
+    "summary": "预期微红但实际下跌，市场如耍猴。",
+    "sentiment": "negative",
+    "key_opinions": ["早上涨后来砸绿", "市场如耍猴", "考虑是否接回"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 21,
+    "summary": "亏损接近止损线，准备清仓放弃。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损接近止损线", "清仓不玩了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "A股指数接近前低，全球市场反弹更好。",
+    "sentiment": "negative",
+    "key_opinions": ["科创50和创业板接近前低", "全球市场反弹更好", "A股是垃圾市场"],
+    "mentioned_stocks": ["科创50", "创业板指", "纳指", "费半"]
+  },
+  {
+    "index": 23,
+    "summary": "加仓科技股，准备最后一搏。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股砸出空间", "加仓", "放弃回本"],
+    "mentioned_stocks": ["科技", "证银"]
+  },
+  {
+    "index": 24,
+    "summary": "尾盘砸盘带来痛苦。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘砸盘痛", "可能周一再拉大", "冲4000扣钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "半岛铁盒下跌认输，讨论卖出时机。",
+    "sentiment": "negative",
+    "key_opinions": ["半岛铁盒认输", "任何时候卖出都正确", "可能跌破0.8"],
+    "mentioned_stocks": ["半岛铁盒"]
+  },
+  {
+    "index": 26,
+    "summary": "市场普跌，从科技切到红利仍亏。",
+    "sentiment": "negative",
+    "key_opinions": ["科技和红利都跌", "市场预判预判", "日韩关门后独立下跌"],
+    "mentioned_stocks": ["半导体", "消费", "汽车", "有色"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论中钨高新股票，关注低价买入策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["中钨高新可能到100", "-8上车策略", "等低价买入"],
+    "mentioned_stocks": ["中钨高新", "章源钨业", "江钨装备"]
+  },
+  {
+    "index": 28,
+    "summary": "猜测市场下跌因白宫事件（特朗普）。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场可能交易白宫出事", "特朗普没死则周一反转"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "批评市场不要脸，讨论港股投资限制。",
+    "sentiment": "negative",
+    "key_opinions": ["市场不要脸", "不允许去HK投资圈起来割", "港股通可买"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "对时代和市场失望，引用歌曲表达情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["教你把时代看清楚", "A股熊市长"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "A股可能预判美国非农数据。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股预判非农", "每天都有数据可预判", "裁判撤资阴跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "从科技转向红利股投降，但可能后悔。",
+    "sentiment": "mixed",
+    "key_opinions": ["投降红利股", "多发帖子可能奶崩板块", "红利股清仓"],
+    "mentioned_stocks": ["红利股", "银行", "保险", "消费", "公用事业", "人工智能", "光模块", "PCB"]
+  },
+  {
+    "index": 33,
+    "summary": "外围科技没跌，A股科技大跌，批评市场。",
+    "sentiment": "negative",
+    "key_opinions": ["A股科技大跌但外围没跌", "畜生市场", "不能做空筹码沉淀久"],
+    "mentioned_stocks": ["纳指", "半导体"]
+  },
+  {
+    "index": 34,
+    "summary": "反人性加仓策略，但资金已套在半山腰。",
+    "sentiment": "mixed",
+    "key_opinions": ["反人性定理建议加仓", "资金已套在半山腰", "看非农数据"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "预测尾盘可能暴跌。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘可能瀑布式下跌", "市场操控不给痛快"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "所有操作如短线、长线、做T都亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["短线、长线、做T都亏", "市场抱团一日游"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "推荐江钨装备，讨论资产注入和低价买入。",
+    "sentiment": "mixed",
+    "key_opinions": ["江钨装备资产注入", "-8上车策略", "等低价"],
+    "mentioned_stocks": ["江钨装备", "钨钽铌"]
+  },
+  {
+    "index": 38,
+    "summary": "船舶股大涨，资金从科技流向深度价值。",
+    "sentiment": "positive",
+    "key_opinions": ["船舶股涨停", "资金从科技流向深度价值", "航母消息可能影响"],
+    "mentioned_stocks": ["中船", "世纪华通"]
+  },
+  {
+    "index": 39,
+    "summary": "中毅达股票大涨大跌，看不懂。",
+    "sentiment": "mixed",
+    "key_opinions": ["中毅达大涨大跌看不懂"],
+    "mentioned_stocks": ["中毅达"]
+  },
+  {
+    "index": 40,
+    "summary": "开专楼讨论汉钟股票基本面。",
+    "sentiment": "mixed",
+    "key_opinions": ["汉钟是真空泵公司", "业务涉及光伏和半导体", "机构关注"],
+    "mentioned_stocks": ["汉钟", "京仪"]
+  },
+  {
+    "index": 41,
+    "summary": "询问浙江龙盛股票机会，染料价格大涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["染料价格大涨", "卖飞股票", "今天没咋涨"],
+    "mentioned_stocks": ["浙江龙盛"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论周末风险，如纳指期货和周末本身。",
+    "sentiment": "negative",
+    "key_opinions": ["纳指期货向上排除非农", "周末本身就是风险"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 43,
+    "summary": "鼓励把每一跌当最后一跌，不怕亏钱。",
+    "sentiment": "mixed",
+    "key_opinions": ["把每一跌当最后一跌", "没事亏三年", "科技股菜"],
+    "mentioned_stocks": ["大光"]
+  },
+  {
+    "index": 44,
+    "summary": "分享量窒息法抄底选股策略。",
+    "sentiment": "positive",
+    "key_opinions": ["量窒息法用于抄底", "低换手因子", "适用于短期"],
+    "mentioned_stocks": ["京东方", "昊华", "大唐发电"]
+  }
+]
