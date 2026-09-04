@@ -1,0 +1,498 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论中钨高新股票，关注价格目标和买入时机，提到-8买入策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "泥潭大哥说能到100，引发讨论。",
+      "用户计划在-8时上车买入。",
+      "有人建议关注章源钨业。"
+    ],
+    "mentioned_stocks": ["中钨高新", "章源钨业"]
+  },
+  {
+    "index": 2,
+    "summary": "抱怨锂矿股票持续亏损，表达不满和悲观情绪。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "锂矿天天跌，进一次亏一次。",
+      "可能有大手不想让碳酸锂暴涨，影响产业发展。",
+      "避免碰国内有定价权的东西。"
+    ],
+    "mentioned_stocks": ["锂矿"]
+  },
+  {
+    "index": 3,
+    "summary": "抱怨A股频繁高开低走，讨论追高风险和抄底策略。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大A只有高开低走、平开低走、低开低走。",
+      "T+1和量化比重导致高开无好下场。",
+      "高开高走需放量，否则易回落。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "用户抱怨睡觉后股票由涨转跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "睡一觉绿了，表达失望。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "感叹近期股市连绿，类似7月行情，讨论科技股表现。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高手不赢前四天，暗示市场难赚钱。",
+      "科技股套牢不少人。",
+      "有用户清仓科技股，感觉空气香甜。"
+    ],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 6,
+    "summary": "认为九月股市更糟，每天亏损，讨论行情。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "除了埋伏碰运气，没赚钱点。",
+      "买了科技股容易亏。",
+      "缩量轮动行情，需躺平或跑得快。"
+    ],
+    "mentioned_stocks": ["科技", "半导体ETF"]
+  },
+  {
+    "index": 7,
+    "summary": "怀疑AI硬件故事破灭，基民撤离，硬科技兑现。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "基民开始大量跑路。",
+      "中信称硬科技已兑现。",
+      "德明利一年十倍，暗示机会已过。"
+    ],
+    "mentioned_stocks": ["AI硬件", "德明利"]
+  },
+  {
+    "index": 8,
+    "summary": "指责市场割韭菜，讨论港股通和投资限制。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场不允许去HK投资，圈起来割。",
+      "港股通不是随便买吗，引发讨论。",
+      "HK比大A难赚。"
+    ],
+    "mentioned_stocks": ["港股"]
+  },
+  {
+    "index": 9,
+    "summary": "观察韩国股市波动减小，杠杆降低。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国股市好久没熔断，杠杆降了。",
+      "外资撤离成功。",
+      "股市总量小，护盘容易。"
+    ],
+    "mentioned_stocks": ["韩国股市", "海力士", "三星"]
+  },
+  {
+    "index": 10,
+    "summary": "建议房地产板块可建仓，基于利好和底部形态。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "底部出利好，高开低走符合底部特征。",
+      "套牢盘已走，向下空间小。",
+      "政策放开融资和并购重组是关键。"
+    ],
+    "mentioned_stocks": ["房地产", "农业"]
+  },
+  {
+    "index": 11,
+    "summary": "分析主力为何不拉升科技股，怀疑画图卖货。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "主力可能没卖出货，画震荡行情骗人。",
+      "硬拉科技需大量资金，谁有钱？",
+      "科技股买盘枯竭。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 12,
+    "summary": "海皇死多头催促买入海运股，讨论目标价。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "欧线起飞，苏伊士不能走，利好海运。",
+      "目标价20、33甚至40。",
+      "海狗送转过，实际最高涨40多。"
+    ],
+    "mentioned_stocks": ["海皇", "海运股"]
+  },
+  {
+    "index": 13,
+    "summary": "关注猪肉股，问哪个标的好，分享投资思路。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技半死不活，猪猪侠可以的。",
+      "确定性牧原，弹性天邦。",
+      "大北农有猪有种业有饲料，但管理层不确定。"
+    ],
+    "mentioned_stocks": ["牧原", "天邦", "大北农", "猪肉股"]
+  },
+  {
+    "index": 14,
+    "summary": "认为猪肉股有多个利好，猪周期将反弹。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "厄尔尼诺导致成本上升，加速去化。",
+      "猪价低位，只有巨头能抗，加速去化。",
+      "场外资金进猪猪，明年有确定性业绩。"
+    ],
+    "mentioned_stocks": ["猪肉股", "牧原"]
+  },
+  {
+    "index": 15,
+    "summary": "看好液冷板块，认为预期高增，技术迭代。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "液冷预期高增，有技术迭代未来。",
+      "今天大回撤，有人跑路。",
+      "资金还能骗吗？暗示资金选择。"
+    ],
+    "mentioned_stocks": ["液冷板块"]
+  },
+  {
+    "index": 16,
+    "summary": "以证券为例，分析A股在缩量下走主升，质疑市场机制。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "成交额缩量，证券反而走主升。",
+      "市场大好证券破4000，市场烂了拉证券破3000。",
+      "大资金高抛低吸，抽水负和。"
+    ],
+    "mentioned_stocks": ["证券"]
+  },
+  {
+    "index": 17,
+    "summary": "分享一种抄底选股方法，基于成交量萎缩。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "方法适用于抄底，判断何时是底。",
+      "短期下跌时使用，赚一票就跑。",
+      "低换手因子，低频量化常用。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "认为黄金投资简单，跌买涨卖即可赚钱。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "无杠杆跌了买涨了卖，脑瘫都能收钱。",
+      "但提醒参考非农和议息。",
+      "有人反驳说买了就跌卖了就涨。"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论江波龙港股定价236港元，对比A股价差。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "港股定价236港元，折合人民币约203。",
+      "A股现价350，价差大。"
+    ],
+    "mentioned_stocks": ["江波龙"]
+  },
+  {
+    "index": 20,
+    "summary": "问海皇利空，讨论买入时机和价格。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "海皇跌这么多，有利空吗？",
+      "15的海狗来了，等14开头。",
+      "委瑞内拉的油开发权被美国拿了，可能利空。"
+    ],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 21,
+    "summary": "观察内需消费板块上涨，认为可能政策利好。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "零食饮料、商场百货等内需板块涨。",
+      "硬科技套牢多，无新故事。",
+      "可能出拉内需的政策。"
+    ],
+    "mentioned_stocks": ["内需消费板块", "白酒", "地产"]
+  },
+  {
+    "index": 22,
+    "summary": "记录实盘，资金亏损后加钱，分享交易思路。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "2W本金脚踝斩剩4k，融资2.5W。",
+      "写下交易思路避免模糊。",
+      "尝试做T，但怕卖飞。"
+    ],
+    "mentioned_stocks": ["神奇制药", "康冠", "中国银行"]
+  },
+  {
+    "index": 23,
+    "summary": "持有南方航空，做T赚油钱，讨论行情。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "成交量缩，成长股无机会，航司做T。",
+      "成本5.01，等油价taco。",
+      "涨几分就卖，慢慢磨。"
+    ],
+    "mentioned_stocks": ["南方航空", "华夏"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论板块轮动，农业热门，问下一个板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "小板块轮动，等科技老登割肉。",
+      "想提前布局未轮动板块。"
+    ],
+    "mentioned_stocks": ["农业", "影视", "军工"]
+  },
+  {
+    "index": 25,
+    "summary": "科技股亏损，止损后情绪低落，讨论科技死。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技止损，亏损本金。",
+      "科技大抵真死了。",
+      "手里只剩德明利和剑桥底仓。"
+    ],
+    "mentioned_stocks": ["德明利", "剑桥", "科技股"]
+  },
+  {
+    "index": 26,
+    "summary": "描述一天股市情绪，从激动到气愤。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "21:30激动，9:30气愤，心情与预期一致。",
+      "高开低走，永远这个走势。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "用文学语言描述科技股死亡，融资盘爆仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "融资盘爆了，杠杆没了。",
+      "哀莫大于心死。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 28,
+    "summary": "记录兴业银行投资，股息高，适合波段。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "兴业银行股息6%，适合17入手19卖出。",
+      "眼光不错，加仓了。",
+      "买红利不需要每天看。"
+    ],
+    "mentioned_stocks": ["兴业银行"]
+  },
+  {
+    "index": 29,
+    "summary": "抱怨半导体板块亏钱，做T也亏。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "半导体但凡抓住一次机会都是亏钱。",
+      "赵姨资金流入流出猫一天狗一天。",
+      "半导体完蛋了。"
+    ],
+    "mentioned_stocks": ["半导体", "兆易创新", "赵姨"]
+  },
+  {
+    "index": 30,
+    "summary": "惊讶买盘弱，尽管外围涨，A股跳水。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳指涨，A股却跳水。",
+      "割怕了，没正经买盘。",
+      "高开基本上跳水，全是T王。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "怀疑反弹是鱼钩，午后跳水。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "一支穿云箭，但可能是鱼钩。",
+      "次次都一样，做T好。",
+      "午后离别钩，直接跳。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "问浪潮股票大跌原因，疑爆雷。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "浪潮放量大跌，买入就亏。",
+      "液冷退潮，量化砸盘。",
+      "科技线不强势。"
+    ],
+    "mentioned_stocks": ["浪潮", "紫光"]
+  },
+  {
+    "index": 33,
+    "summary": "满仓科技股，高开低走，从涨到亏。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "早上涨3%，回来亏2%。",
+      "科技一败涂地。",
+      "高开卖，跌下来买，不T怎么回本。"
+    ],
+    "mentioned_stocks": ["科技", "PCB"]
+  },
+  {
+    "index": 34,
+    "summary": "警告欧洲战争风险，建议关注避险资产。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "俄罗斯总动员在即，欧洲大战避无可避。",
+      "关注黄金和军工机会。",
+      "类似三战，但不确定。"
+    ],
+    "mentioned_stocks": ["黄金", "军工"]
+  },
+  {
+    "index": 35,
+    "summary": "建议关注游戏板块，短剧可能带动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "短剧波带动游戏，可小仓位埋伏。",
+      "游戏ETF亏过钱，不想再去。",
+      "从未见过炒游戏板块。"
+    ],
+    "mentioned_stocks": ["游戏板块", "游戏ETF"]
+  },
+  {
+    "index": 36,
+    "summary": "亏损，讨论光模块和算力，建议持有或割。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "不是不想跑，而是该去哪。",
+      "时间会证明光模块和算力。",
+      "缩量行情，切忌反复横跳。"
+    ],
+    "mentioned_stocks": ["光模块", "算力", "国链"]
+  },
+  {
+    "index": 37,
+    "summary": "看好牧原股份，基于成本和增持，目标价。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "牧原成本最低，秦总增持。",
+      "猪价回到14-15/kg，牧原大赚。",
+      "目标价120，剑指。"
+    ],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 38,
+    "summary": "抱怨午盘跳水，不走流程。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "好的那就不走流程了，直接跳。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论上证指数4000点，市场信心。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "如果大家不信能上4000，可能就要上了。",
+      "上4000重要吗？脸都不要了。",
+      "缩量站上4000无意义。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论兆易创新股价，支持位和盘口。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "散吧，拜拜喽？",
+      "下面支撑350，可能继续跌。",
+      "竞价干出来的，盘口语言。"
+    ],
+    "mentioned_stocks": ["兆易创新", "德百鱼龙普"]
+  },
+  {
+    "index": 41,
+    "summary": "观察消费板块涨，7月切科技的套牢。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "消费全面起飞。",
+      "很多人7月消费切科技接盘。"
+    ],
+    "mentioned_stocks": ["消费", "科技"]
+  },
+  {
+    "index": 42,
+    "summary": "抱怨做T卖飞股票。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "一T就卖飞完美酱。",
+      "建议T仓做，别全仓。"
+    ],
+    "mentioned_stocks": ["完美酱"]
+  },
+  {
+    "index": 43,
+    "summary": "抱怨股市开砸，个股跑路。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "个股开始跑路。",
+      "拉的都是没人买的，周一平开低走。",
+      "恒变的X开低走。"
+    ],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 44,
+    "summary": "观察白酒板块上涨，讨论逻辑。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "白酒板块快3个点涨幅。",
+      "自动驾驶，人可以喝酒。",
+      "AI液冷需要白酒降温。"
+    ],
+    "mentioned_stocks": ["白酒", "茅台"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论周一可能上涨的板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技和黄金要砸时，这些总能站出来。",
+      "预期太一致，可能反着来。",
+      "电力呢？"
+    ],
+    "mentioned_stocks": ["房地产", "农业", "消费", "银行", "电力"]
+  },
+  {
+    "index": 46,
+    "summary": "提醒中钨高新下跌，讨论买入时机。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "L大买入后-8了，严肃杀入。",
+      "-8接-8，-16上车。",
+      "论坛一致性高时老庄砸盘。"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  }
+]
