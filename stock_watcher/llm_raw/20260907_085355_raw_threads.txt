@@ -1,0 +1,549 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论科技股是否高开低走，引用A股‘祖训’高开低走常见。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技大概率高开。",
+      "祖训：高开低走常见。",
+      "高开我就跑，避免PTSD。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "争论分红是抽水还是注水，对比天价IPO和高位套现。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "分红是公司利润分享，不是抽水。",
+      "天价IPO和高位套现才是抽水主因。",
+      "分红后股价调整，但长期看是注水。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "投资记录贴，分享中长线投资经历，科技牛市亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技牛市赚了又亏回去。",
+      "被老登股套住更安心。",
+      "收益率与帖子更新频率正相关。"
+    ],
+    "mentioned_stocks": ["老登股"]
+  },
+  {
+    "index": 4,
+    "summary": "分享投资认知视频，讨论经济周期和投资机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "视频讲解300年40次经济崩盘。",
+      "质疑视频作者是否真看懂。",
+      "财经UP主类似神棍。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "日韩高开，讨论A股是否会跟随或跳水。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "外盘影响A股有限。",
+      "上周五A股已表现不佳。",
+      "高开不走会后悔。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "历史题材帖子提到主角开股票市场，调侃来钱快。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "银行生意不够，股票市场来钱快。",
+      "主角可能成立东印度公司。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论李大霄发视频，暗示买金融股，但视频已删。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "视频暗示短期风险，长期看多。",
+      "银行定增对散户利空。",
+      "视频可能提醒承压。"
+    ],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论浪潮信息，质疑其为下一个利通电子。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "浪潮信息是组装厂，缺乏技术。",
+      "小作文导致跌停。",
+      "纽约时报报道。"
+    ],
+    "mentioned_stocks": ["浪潮信息", "利通电子", "中科紫光", "新华三"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论老美CPI的重要性，质疑数据可能被操纵。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "CPI统计多人经手，可能事先埋伏。",
+      "数据偏差大，可能自己填。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论8家中央金融企业增资3600亿元。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股票化债，直接注资。",
+      "财政部定向打钱，不是公开募资。",
+      "应对金融风险，可能降息。"
+    ],
+    "mentioned_stocks": ["工商银行"]
+  },
+  {
+    "index": 11,
+    "summary": "存储股暗盘暴涨，预期下周小升浪。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "暗盘上涨可能预示存储股升浪。",
+      "上周末也涨，但A股跌。",
+      "美是美，大A是大A，行情不同。"
+    ],
+    "mentioned_stocks": ["闪迪", "美光", "SK海力士", "德明利"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论棒子鬼子高开，A股是否遵循祖训高开低走。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股补跌概率高。",
+      "高开低走是祖训。",
+      "外盘影响有限。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论牛市是否由大金融收尾。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大金融可能开头，科技收尾。",
+      "牛市可能已结束或未开始。",
+      "银行涨一周不代表大金融。"
+    ],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论分配问题，教育医疗养老等。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "分配改革难以满足所有人。",
+      "资本外流和家族沉淀问题。",
+      "央国企分红和利润上缴是保护费。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论光伏产业叙事，产能过剩内卷。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "光伏没技术门槛，产能过剩。",
+      "国内科技股最终归宿是光伏化。",
+      "储能也光伏化。"
+    ],
+    "mentioned_stocks": ["光伏", "储能"]
+  },
+  {
+    "index": 16,
+    "summary": "小米和理想扶持欣旺达，提高议价权。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "考虑买入欣旺达。",
+      "看周一集合竞价。",
+      "迪子自供不足，担心竞争。"
+    ],
+    "mentioned_stocks": ["欣旺达", "小米", "理想", "宁德时代", "比亚迪", "中航锂电"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论股票跌80%如何持有，分享朋友经历。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跌80%时卖不卖区别不大。",
+      "别上杠杆，精神折磨。",
+      "信念足可能坚持到底。"
+    ],
+    "mentioned_stocks": ["小米", "诺德股份"]
+  },
+  {
+    "index": 18,
+    "summary": "分红是抽水还是注水的进一步讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "分红是注水，复投类似回购注销。",
+      "稳定分红是注水，某些分红是套利。",
+      "分红后公司有价值，股价会涨回。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论G20中期利好，可能刺激政策。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "G20可能促使国内降息刺激。",
+      "收入改革必要，但可能无改变。",
+      "消费受安全因素制约。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "亏钱后悟出投资道理，需要自己的逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "买入股票要有自己的逻辑并坚持。",
+      "逻辑要对，市场要认。",
+      "产业逻辑和交易逻辑都重要。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "询问经济危机经历，回忆08年。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "08年经济危机对国内影响不大。",
+      "国内靠基建和房地产快速恢复。",
+      "当前可能无类似危机。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论股票里的钱是否算现金。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "流动性好的股票算现金。",
+      "股票是股权投资，非货币资金。",
+      "T+1和波动性影响流动性。"
+    ],
+    "mentioned_stocks": ["沪深300ETF", "可口可乐", "长江电力"]
+  },
+  {
+    "index": 23,
+    "summary": "分析钟才文文章，国内下半年扩大投资。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国库充足，项目投资可能增加。",
+      "地方化债积极性不高。",
+      "投资拉动有边际递减。"
+    ],
+    "mentioned_stocks": ["中芯国际"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论牧原股份，看好其成本优势。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "牧原成本最低，增持价高。",
+      "猪价回升时牧原大赚。",
+      "看好年底到50。"
+    ],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 25,
+    "summary": "预测今天高开低走，因外部高开和预判。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "现在不是大涨潮。",
+      "别总想预判。",
+      "别被逼空。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论货币政策转向宽松。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "货币政策可能宽松。",
+      "蓄水池可能在A股或房地产。",
+      "水可能放不到居民端。"
+    ],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 27,
+    "summary": "紫金矿业风险提示，因公告错误。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "公告有错别字‘新熊源’。",
+      "可能AI生成或临时工错误。",
+      "五笔输入法可能。"
+    ],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论堂哥心法，应用博云新材。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "按心法选择博云新材。",
+      "公司壁垒高但市场不明。",
+      "连板接力是接盘战法。"
+    ],
+    "mentioned_stocks": ["博云新材"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论长飞光纤，破20日线。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "长飞破20日线，下跌趋势。",
+      "行情整体问题，非个股。",
+      "业绩对得起市值，安全。"
+    ],
+    "mentioned_stocks": ["长飞光纤"]
+  },
+  {
+    "index": 30,
+    "summary": "询问量化基础技术论坛。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "量化核心是看全市场持仓。",
+      "建议学AI和数学基础。",
+      "知乎是好的量化社区。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论楼市是否起飞。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股市不行，楼市在低位。",
+      "人口结构制约楼市。",
+      "水放不到居民端，楼市难起。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "讨论7月科技最强股，如胜宏。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "胜宏不配做PCB龙头。",
+      "胜宏一年没涨，价格稳定。",
+      "可能炒光模块。"
+    ],
+    "mentioned_stocks": ["胜宏科技", "PCB"]
+  },
+  {
+    "index": 33,
+    "summary": "分享锤哥堂哥心法蒸馏版总结。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "心法总结为四大维度。",
+      "做确定性，不做赌徒。",
+      "短线抓0-1确定性。"
+    ],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 34,
+    "summary": "DeepSeek向华为订昇腾芯片。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大批量订芯片，利好华为链。",
+      "产能可能跟不上。",
+      "价格可能涨价。"
+    ],
+    "mentioned_stocks": ["华为", "DeepSeek", "昇腾950DT", "中芯国际"]
+  },
+  {
+    "index": 35,
+    "summary": "国产替代相关，某大厂用国产EDA和人工。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "安全原因无法用AI写代码。",
+      "人才过剩，人海战术。",
+      "国产EDA问题多。"
+    ],
+    "mentioned_stocks": ["华为"]
+  },
+  {
+    "index": 36,
+    "summary": "狂暴牛是否要来，可能利好券商。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "网传利好可能假。",
+      "利好券商但可能AI生成。",
+      "浮亏不算亏。"
+    ],
+    "mentioned_stocks": ["券商"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论银行注资对市场的影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银行注资可能放贷，利好消费。",
+      "利好券商保险。",
+      "周一科技高开先跑。"
+    ],
+    "mentioned_stocks": ["银行", "券商", "保险"]
+  },
+  {
+    "index": 38,
+    "summary": "昆仑万维热度高，雪球热搜。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "雪球热搜可能次日跌。",
+      "缩量导致活跃度集中。",
+      "可能因字节入股传闻。"
+    ],
+    "mentioned_stocks": ["昆仑万维", "亚盛集团", "龙版传媒", "天龙集团"]
+  },
+  {
+    "index": 39,
+    "summary": "比较科技股与老登股持有。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股死守类似老登股。",
+      "老登股后有修复，科技股腰斩。",
+      "对科技信仰不如老登信仰。"
+    ],
+    "mentioned_stocks": ["科技股", "老登股", "中材科技"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论增量资金和存款搬家。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "存款可能搬给大户或化债。",
+      "存款多为中老年人，不来股市。",
+      "没赚钱效应，无人抬轿。"
+    ],
+    "mentioned_stocks": ["纳指标普ETF", "A股"]
+  },
+  {
+    "index": 41,
+    "summary": "又要跑路，转向黄金。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "准备从大金融跑路。",
+      "美元人民币虚，黄金真。",
+      "实物黄金才是真的。"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 42,
+    "summary": "银行增资为了抵御风险，经济危机近。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "全球股市年K显示危机近。",
+      "降息可能加剧风险。",
+      "房地产不良资产需补资本。"
+    ],
+    "mentioned_stocks": ["纳斯达克", "银行"]
+  },
+  {
+    "index": 43,
+    "summary": "集团子公司被控股公司打钱的讨论。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "子公司可能有烂账需补流动性。",
+      "定向增发多种目的。",
+      "上一次大规模注资是07年。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "讨论算力ETF是否建仓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "算力ETF正在募资。",
+      "有0-1确定性再买。",
+      "刚兑现一波，等缩量。"
+    ],
+    "mentioned_stocks": ["算力ETF", "创业板ETF"]
+  },
+  {
+    "index": 45,
+    "summary": "利好多但成交量少，困惑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "为什么没人玩时才发利好。",
+      "周末利好，周一调整。",
+      "可能骗人进来放量。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "一个幽默帖子，个人起飞。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "个人先起飞（双关）。",
+      "战法幽默。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "降准降息对黄金红利的影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金红利可以。",
+      "科技博反弹。",
+      "套牢盘不敢去。"
+    ],
+    "mentioned_stocks": ["黄金", "红利", "科技股"]
+  },
+  {
+    "index": 48,
+    "summary": "对注资事件预测无事发生。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "注资6月已规划好。",
+      "无事发生才是好事。",
+      "A股可能高开低走。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "下周起飞，乐观预期。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "中国人喜欢起飞。",
+      "可能普涨。",
+      "空中飞人也是飞。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "分析四大行注资，变相放水。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "变相放水，增加流动性。",
+      "银行必须放贷。",
+      "可能促进消费投资。"
+    ],
+    "mentioned_stocks": ["四大行", "银行"]
+  }
+]
