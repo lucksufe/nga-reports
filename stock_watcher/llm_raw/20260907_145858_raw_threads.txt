@@ -1,0 +1,501 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论新股“N天博”是否最差新股，担心五天后破发，股价高但后续新股更低价。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "新股可能五天后破发。",
+      "股价高，但后续新股更低价，比较后更惨。"
+    ],
+    "mentioned_stocks": ["N天博"]
+  },
+  {
+    "index": 2,
+    "summary": "质疑资本炒作农业但监管无反应，讨论农业粮食底线，实价与股价区别。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "农业粮食是底线，不应炒作。",
+      "实价和股价不同。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "询问科技股明天是否回调，讨论今天大涨后走势，需预判纳指。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "今天涨得厉害，但可能一步到位。",
+      "没有量涨不了几天。",
+      "需要预判纳指。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "用户寻找股息股推荐，讨论高股息股票如伊利、美的等，股息算法和稳定性。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "推荐伊利、美的、工行、长江电力等。",
+      "股息率低不如做T。",
+      "股息算法和稳定性讨论。"
+    ],
+    "mentioned_stocks": ["伊利", "美的", "工行", "长江电力", "1919", "平安银行", "中国神华", "兖矿能源", "中国移动", "中国石油", "中海油"]
+  },
+  {
+    "index": 5,
+    "summary": "科技股今天表现好但担心明天回调，讨论是否尾盘卖出，参考日韩市场。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股今天涨了，但明天可能回调。",
+      "参考日韩市场和特朗普政策。",
+      "建议尾盘卖出或持有。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论旅游板块是否适合介入，基于资金异动和季节因素，计划国庆前后介入。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "零售和酒店股上涨，旅游股资金异动。",
+      "计划在国庆前后介入大连圣亚。",
+      "观察旅游板块老龙头如西安饮食。"
+    ],
+    "mentioned_stocks": ["大连圣亚", "西安饮食"]
+  },
+  {
+    "index": 7,
+    "summary": "抱怨粮食板块亏损股如金健米业上涨，而科技股受监管，A股偏好炒小炒差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损股如金健米业涨，科技股却受压。",
+      "A股偏好炒小炒差。",
+      "科技股如中际旭创表现尚可。"
+    ],
+    "mentioned_stocks": ["金健米业", "中际旭创"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论市场缩量是否因长假临近，预测后续走势，等待政策信号。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "缩量可能因长假，需等10月8日后放量。",
+      "市场等待政策信号，如降准降息。",
+      "受美国加息影响，降息空间小。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "呼吁回归低价股如海狗、长电、工行，计划全仓买入。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "期待13元的海狗、25元的长电、7元的工行。",
+      "计划全仓买入。"
+    ],
+    "mentioned_stocks": ["海狗", "长江电力", "工行"]
+  },
+  {
+    "index": 10,
+    "summary": "用户兆易创新被套，讨论其股票形态如A字形，询问解套时间，表达悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "兆易创新头尖像A字，可能难解套。",
+      "教科书般山峰形态。",
+      "抱怨彩礼和腰斩。"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 11,
+    "summary": "用户持有证券股一年心气全无，讨论证券板块表现，接受现实回本清仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "接受现实，回本就清仓。",
+      "证券板块需等风来，少看少动。",
+      "证券只能做破位后收益最大化。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "预测美联储利率不变，中国9月20日降息，基于经济数据，可能降准但降息难。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美联储按兵不动，中国可能降息25基点。",
+      "国内CPI低，需降息促消费。",
+      "可能降准但降息难。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论韩国市场趁A股中午休盘时上涨的原因，包括空头平仓和港股监管。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国市场在A股休盘时上涨。",
+      "原因包括空头平仓和港股监管。",
+      "希望A股不跳水。"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 14,
+    "summary": "抱怨东山精密表现弱，尽管沾边光芯片等概念，资金没选择它。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "东山精密三重共振但跑不赢同行。",
+      "资金没选择它。",
+      "涨跌时都不是最强的。"
+    ],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 15,
+    "summary": "假设今天创业板小反弹一步到位，追高者可能被套，成交量不足。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "成交量不足，不可能一步到位。",
+      "追进去的坐等被套。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论情绪指标在A股中的作用，上周五情绪底后反弹，情绪和资金是主旋律。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "周五情绪破防后，是进场机会。",
+      "情绪和资金是主旋律。",
+      "量化bot玩弄情绪指标。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "推荐注重消费旅游板块，基于国庆出行热度，观察丽江股份、大连圣亚等。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "旅游景点未起来，叠加国庆中秋。",
+      "丽江股份、大连圣亚等股票观察。",
+      "买预期卖现实。"
+    ],
+    "mentioned_stocks": ["丽江股份", "大连圣亚"]
+  },
+  {
+    "index": 18,
+    "summary": "询问摩尔股票情况，讨论大额解禁导致股价下跌，建议科创板涨跌幅限制。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "摩尔直接干跌停20%，沐曦表现差。",
+      "大额解禁导致股价下跌。",
+      "科创板涨跌幅限制建议。"
+    ],
+    "mentioned_stocks": ["摩尔", "沐曦"]
+  },
+  {
+    "index": 19,
+    "summary": "高盛给光大哥定价3267元，质疑合理性，怀疑研究员意淫。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高盛定价3267元不合理。",
+      "可能是研究员意淫。",
+      "参考以前类似情况。"
+    ],
+    "mentioned_stocks": ["光大哥"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论科技股下跌可能导致其他股如长江电力、神华等跌到低价，计划等黄金坑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股下跌可能让长江电力等跌到低价。",
+      "计划等黄金坑越跌越买。",
+      "列举多个股票低价目标。"
+    ],
+    "mentioned_stocks": ["长江电力", "中国神华", "工行", "海狗", "美的", "平安", "移动"]
+  },
+  {
+    "index": 21,
+    "summary": "美股休市，A股失去预判参考，讨论明天走势，看好或担忧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "看好明天继续涨。",
+      "美股休市，A股可能下跌。",
+      "韩国市场影响。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "比喻A股和港股像一条裤子两人穿，流动性不足，板块轮流表现。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场流动性差，只能有一条裤子。",
+      "金融和科技板块轮流表现。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "用户减少投资，锁住利润，只留小钱玩，资金锁进逆回购。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "只剩下十万随便玩。",
+      "其他资金锁进逆回购。",
+      "锁住利润当务之急。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "推荐江淮和合百股票，讨论其逻辑和风险，博一个死猫跳。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "拿了十几天，感觉快启动。",
+      "江淮业务亏损，估值高。",
+      "博一个死猫跳。"
+    ],
+    "mentioned_stocks": ["江淮", "合百"]
+  },
+  {
+    "index": 25,
+    "summary": "询问是否有人遵循“祖训”高开卖出等策略，讨论今天操作，祖训战法胜率一般。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "开盘把科技清了，现在难受。",
+      "周五抄底后卖出。",
+      "祖训战法胜率一般。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "询问国芳股票直线拉升原因，讨论短线心理，百大集团超预期带动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国芳直线拉升，原因不明。",
+      "短线交易心理：要么一起冲，要么一起死。",
+      "百大集团超预期带动。"
+    ],
+    "mentioned_stocks": ["国芳", "百大集团", "金健", "亚盛"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论中际旭创从山顶下来后振幅大，是否底部反转，套牢盘多港股可能更好。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中际旭创第三次日内振幅+10，可能底部。",
+      "套牢盘多，港股可能更好。",
+      "期待FCC结论。"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 28,
+    "summary": "用户科技股部分解套只剩半导体亏8%，询问是否该跑，建议回本跑或换股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股大部分解套，半导体还亏。",
+      "建议回本就跑，半导体可换到港美。",
+      "未放量没必要跑。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "抱怨有研新材涨三个点太弱，疑问是否是龙头。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "有研新材才涨三个点，太弱。",
+      "疑问是否是龙头。"
+    ],
+    "mentioned_stocks": ["有研新材"]
+  },
+  {
+    "index": 30,
+    "summary": "批评机构在科技股反弹时高抛，行为恶心，机构少的票走势流畅。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技普反，机构少的票流畅。",
+      "机构重仓票高抛，排名战法。",
+      "机构恶心，只想着高抛。"
+    ],
+    "mentioned_stocks": ["光123", "普冉", "寒武纪"]
+  },
+  {
+    "index": 31,
+    "summary": "用户发实盘帖，分享投资思路和操作，脚踝斩后融资继续玩。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "老豆给的2W脚踝斩，融资2.5W。",
+      "不写交易思路感觉模糊。",
+      "抱怨考试和老师不让玩手机。"
+    ],
+    "mentioned_stocks": ["神奇制药", "康冠", "中国银行"]
+  },
+  {
+    "index": 32,
+    "summary": "反弹看到3400点（创业板），讨论走势，上午还可以但高难度做不动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "反弹看到3400差不多。",
+      "上午还可以，但高难度做不动。",
+      "确认是创业板。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "询问是否有人科技开盘就跑，讨论卖出时机，反弹三天起步。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "主力感谢提供便宜筹码。",
+      "设定价格逐渐跑。",
+      "反弹三天起步，不吃完肉不跑。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "开设专楼回答汉钟精机疑问，讨论基本面，真空泵和半导体需求。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "回答公司基本面、产品、行业问题。",
+      "汉钟精机横盘熬人。",
+      "真空泵和半导体需求。"
+    ],
+    "mentioned_stocks": ["汉钟精机", "京仪"]
+  },
+  {
+    "index": 35,
+    "summary": "玩梗表达科技股的统治力，引用耶格尔梗，幽默夸张。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "人类想起被科技支配的恐惧。",
+      "不是开香槟，是玩梗。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "讨论科技股下午走势，参考韩国市场，问题在能否稳住。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股下午可能没问题，但看后几天。",
+      "韩国起飞，但A股可能不跟。",
+      "问题在能否稳住。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "讨论纳指ETF投资，是否足够普通人用，提醒纳指不是防守资产。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "纳指一天搞2000多，够用。",
+      "主要是位置是否要买。",
+      "提醒纳指不是防守资产，不要all in。"
+    ],
+    "mentioned_stocks": ["纳指ETF", "标普ETF"]
+  },
+  {
+    "index": 38,
+    "summary": "缩量上涨没人跟，讨论市场情绪，被套不敢进或抛压小。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "缩量上涨，没人跟，被套不敢进。",
+      "没量都能拉，证明抛压小。",
+      "今天进明天挨打。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "金融股表现弱讨论是否回调或轮动，主线是科技，金融提供流动性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "金融股有点4（可能指回调）。",
+      "主线是科技，金融提供流动性。",
+      "回合制游戏，轮动行情。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "星宇股份处罚高管，讨论公司治理和股价，承认错误但明年继续。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "总经理扣薪，人力总监免职。",
+      "承认错误但明年继续。",
+      "告洋状有用。"
+    ],
+    "mentioned_stocks": ["星宇股份"]
+  },
+  {
+    "index": 41,
+    "summary": "银行再融资问题讨论银行经营和风险，减仓金融股超配黄金现金。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "银行经营健康应不需再融资。",
+      "银行增资是为风险准备。",
+      "减仓金融股，超配黄金和现金。"
+    ],
+    "mentioned_stocks": ["招行"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论博云新材基于“堂哥心法”的投资逻辑，壁垒高但市场大小不清。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "博云新材符合心法：换手充分、筹码峰、板块上涨。",
+      "公司壁垒高，但市场大小不清。",
+      "不推荐股票，谈谈想法。"
+    ],
+    "mentioned_stocks": ["博云新材"]
+  },
+  {
+    "index": 43,
+    "summary": "银行增资是国家队吃股息别多想，国家队带头加杠杆有想象空间。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银行增资是国家资金吃股息。",
+      "国家队带头加杠杆，有想象空间。",
+      "可能为了降低风险。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "科技股坚挺讨论是否这次不一样，看明后天持续性，可能下午抱摔。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股坚挺这么久，太意外。",
+      "主要看明后天持续性。",
+      "可能下午抱摔。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "讨论钟才文文章国内下半年扩大投资，8000亿预算可能撬动两万亿投资。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国库充足，要报项目。",
+      "8000亿预算未花，可能撬动两万亿投资。",
+      "地方积极性不高，需要项目。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "中韩半导体ETF溢价跌，讨论买入机会，已建仓或计划建仓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中韩半导体溢价跌到低水平，感觉到买点。",
+      "已建仓或计划建仓。",
+      "含韩量多少，申购额度变化。"
+    ],
+    "mentioned_stocks": ["中韩半导体ETF", "南方港韩科技"]
+  }
+]
