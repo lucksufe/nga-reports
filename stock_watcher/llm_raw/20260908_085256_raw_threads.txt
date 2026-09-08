@@ -1,0 +1,275 @@
+[
+  {
+    "index": 1,
+    "summary": "质疑ETF做T数据来源与影响，讨论汪汪队操作及市场流动性。",
+    "sentiment": "negative",
+    "key_opinions": ["数据源真实性存疑，官网难找具体披露", "持仓比例上下限与精确度矛盾", "汪汪队做T对当前市场象征意义大于实际作用"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 2,
+    "summary": "警告美股风险，讨论华尔街操作与QDII基金表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["华尔街割韭菜狠", "中期选举前美股可能稳定", "QDII基金表现不佳，尤其AI产业链"],
+    "mentioned_stocks": ["QDII基金"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论摩尔公司解禁与股价下跌，认为其本质是投机卖公司。",
+    "sentiment": "negative",
+    "key_opinions": ["解禁股量大，大股东可能已抛售", "公司缺乏核心技术，靠炒作", "股价将阴跌，吃相难看"],
+    "mentioned_stocks": ["摩尔"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论模型先生预测科技见底，认为其言论模糊如谜语人。",
+    "sentiment": "mixed",
+    "key_opinions": ["预测可能准确，但时机有争议", "粉丝多导致博主言论模糊", "不同大V观点分歧"],
+    "mentioned_stocks": ["科技板块"]
+  },
+  {
+    "index": 5,
+    "summary": "韩国指数上涨对比A股表现，表达对A股失望。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国指数涨，A股创业板跌", "A股自身原因导致下跌", "半导体实际涨幅更高"],
+    "mentioned_stocks": ["创业板", "半导体"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论美股不开盘时日韩股市上涨，质疑美股是否为最大空头。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股可能被冤枉", "北向资金影响大", "A股长期弱势"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 7,
+    "summary": "华为小米发布会刷屏，讨论是否构成股市利好。",
+    "sentiment": "mixed",
+    "key_opinions": ["利好中国移动、长江电力（电力通信需求）", "果链公司（歌尔、立讯）表现不佳", "利好广告消费业务"],
+    "mentioned_stocks": ["中国移动", "长江电力", "歌尔股份", "立讯精密"]
+  },
+  {
+    "index": 8,
+    "summary": "预测有色金属板块将高开低走。",
+    "sentiment": "negative",
+    "key_opinions": ["剧本熟悉，常高开低走", "怀疑是否真有高开"],
+    "mentioned_stocks": ["有色"]
+  },
+  {
+    "index": 9,
+    "summary": "沪铜伦铜价格创新高，但有色股票表现滞后，投资者失望。",
+    "sentiment": "negative",
+    "key_opinions": ["铜价新高但有色股不涨", "有色ETF也新高，含铜量高", "铝股尚未轮动"],
+    "mentioned_stocks": ["沪铜", "伦铜", "有色ETF", "西部矿业", "藏格矿业"]
+  },
+  {
+    "index": 10,
+    "summary": "新车发布冲击蔚小理，讨论汽车行业价格战与利润困境。",
+    "sentiment": "negative",
+    "key_opinions": ["新车型性价比高，冲击现有格局", "理想等品牌面临重压", "行业价格战激烈，利润低"],
+    "mentioned_stocks": ["蔚来", "小鹏", "理想", "零跑"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论世纪华通的持仓与走势，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["有量可看涨至18-20元", "300日线是压力位", "已清仓等待突破"],
+    "mentioned_stocks": ["世纪华通"]
+  },
+  {
+    "index": 12,
+    "summary": "抱怨利通电子表现差，讨论情绪龙头更换。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘抛压大，112元不稳", "换庄后缺乏激情", "情绪龙头会轮换"],
+    "mentioned_stocks": ["利通电子", "协创数据"]
+  },
+  {
+    "index": 13,
+    "summary": "吐槽汽车零部件新股表现差，对比港股新股破发。",
+    "sentiment": "negative",
+    "key_opinions": ["汽车零部件新股表现最差", "港股新股更易破发", "A股新股或有肉"],
+    "mentioned_stocks": ["新股"]
+  },
+  {
+    "index": 14,
+    "summary": "分享辞职炒股心路历程，建议避免全职炒股。",
+    "sentiment": "mixed",
+    "key_opinions": ["不建议辞职、全职、盯盘炒股", "工行长期持有收益好", "自选股收益已不错"],
+    "mentioned_stocks": ["工商银行", "红利低波ETF"]
+  },
+  {
+    "index": 15,
+    "summary": "自嘲曾预测利空却实际大涨，讨论回本难易。",
+    "sentiment": "mixed",
+    "key_opinions": ["这次可能不一样", "回本遥遥无期", "涨幅快但仍有距离"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "推荐乖宝宠物股，看好宠物食品涨价逻辑。",
+    "sentiment": "positive",
+    "key_opinions": ["宠物食品原材料涨价", "乖宝宠物旗下品牌市占率高", "需长期持有"],
+    "mentioned_stocks": ["乖宝宠物", "麦富迪", "弗列加特", "中宠股份"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论算力板块弱势，认为因中美算力差距大。",
+    "sentiment": "negative",
+    "key_opinions": ["算力差距是AI发展卡脖子", "板块轮动，GPU公司或可建仓", "国产算力依赖华为信仰"],
+    "mentioned_stocks": ["寒武纪", "海光信息", "浪潮信息"]
+  },
+  {
+    "index": 18,
+    "summary": "开专楼讨论汉钟精机基本面，解答投资者疑问。",
+    "sentiment": "positive",
+    "key_opinions": ["公司业绩表述保守，液冷等收入未细分", "真空泵业务前景好", "半导体零部件订单有长期想象力"],
+    "mentioned_stocks": ["汉钟精机", "京仪装备", "中科仪"]
+  },
+  {
+    "index": 19,
+    "summary": "引用高盛看多A股科技言论，但网友质疑其动机。",
+    "sentiment": "negative",
+    "key_opinions": ["高盛常唱多A股科技", "高盛是承销商，利益相关", "高盛观点被视作找接盘"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论科技股开盘后是否该卖出，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["主力感谢廉价筹码", "反弹可能持续三天", "部分投资者选择做T卖出"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "询问高股息股推荐，列出工行、长江电力等。",
+    "sentiment": "positive",
+    "key_opinions": ["工行、长江电力稳健", "平安银行适合打新", "神华、中石油等可关注"],
+    "mentioned_stocks": ["工商银行", "长江电力", "平安银行", "中国神华", "中国石油", "中海油"]
+  },
+  {
+    "index": 22,
+    "summary": "询问小商品城是否可买，讨论其走势与潜在风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["走势不错，但有高价拿地利空", "经历过机构减持", "建议等回踩再介入"],
+    "mentioned_stocks": ["小商品城"]
+  },
+  {
+    "index": 23,
+    "summary": "询问中国神华建仓价位，讨论煤炭行业周期性。",
+    "sentiment": "mixed",
+    "key_opinions": ["40-45元区间考虑建仓", "冷冬预期或提振需求", "煤炭行业周期性强"],
+    "mentioned_stocks": ["中国神华"]
+  },
+  {
+    "index": 24,
+    "summary": "分享将兆易创新换仓至大光科技，讨论科技股强弱。",
+    "sentiment": "mixed",
+    "key_opinions": ["大光比兆易创新走势强", "兆易创新拖累感强", "源杰科技本轮涨幅最大"],
+    "mentioned_stocks": ["兆易创新", "大光科技", "源杰科技", "中石科技"]
+  },
+  {
+    "index": 25,
+    "summary": "记录2026年中长线持仓，自嘲收益与发帖频率相关。",
+    "sentiment": "mixed",
+    "key_opinions": ["持仓中缺乏稳健股", "收益率与发帖勤快程度相关", "科技牛市收益回吐"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "指出农业与大消费板块今日坚挺，可能成为新主线。",
+    "sentiment": "positive",
+    "key_opinions": ["农业板块坚挺，或成新主线", "粮食需求长期存在", "农业行情可能持续至2027年"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "庆祝中签燧原科技，乐观预期上市后大涨。",
+    "sentiment": "positive",
+    "key_opinions": ["预计大涨，为大肉签", "GPU芯片标的稀缺", "市场预期乐观"],
+    "mentioned_stocks": ["燧原科技"]
+  },
+  {
+    "index": 28,
+    "summary": "比较个人收益与创业板指数，自嘲折腾一年不如指数。",
+    "sentiment": "mixed",
+    "key_opinions": ["个人收益跑赢创业板", "自嘲折腾不如持有指数", "对比纳斯达克更甚"],
+    "mentioned_stocks": ["创业板", "纳斯达克"]
+  },
+  {
+    "index": 29,
+    "summary": "指出中韩半导体ETF溢价降低，认为或出现买点。",
+    "sentiment": "mixed",
+    "key_opinions": ["溢价降低至可买水平", "已开始建仓", "含韩量及额度变化影响溢价"],
+    "mentioned_stocks": ["中韩半导体ETF", "南方港韩科技ETF"]
+  },
+  {
+    "index": 30,
+    "summary": "询问本轮科技反弹能持续几天，普遍预期较短。",
+    "sentiment": "mixed",
+    "key_opinions": ["反弹可能仅一天", "CPI数据发布前市场或避险", "需要放量才能持续"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论工商银行分红比例提升后的建仓价位。",
+    "sentiment": "mixed",
+    "key_opinions": ["分红比例提升至31%", "当前股息率约4%", "7.5元附近可能为合适价位"],
+    "mentioned_stocks": ["工商银行"]
+  },
+  {
+    "index": 32,
+    "summary": "咨询纳指相关场外基金推荐，讨论额度与平台选择。",
+    "sentiment": "mixed",
+    "key_opinions": ["一键打包功能可行", "基金额度紧张", "建议在基金App购买额度更高"],
+    "mentioned_stocks": ["纳指", "汇添富"]
+  },
+  {
+    "index": 33,
+    "summary": "询问赛微电子上涨后停滞原因，被指出已卖掉核心业务。",
+    "sentiment": "negative",
+    "key_opinions": ["公司卖掉了下蛋的鸡", "业绩靠卖资产而非经营", "扣非净利润差"],
+    "mentioned_stocks": ["赛微电子"]
+  },
+  {
+    "index": 34",
+    "summary": "讨论如何预知今日科技股大涨，认为是幸存者偏差。",
+    "sentiment": "mixed",
+    "key_opinions": ["幸存者偏差，昨日多看空", "外围市场带动", "超跌反弹技术需求"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "观察联讯仪器反弹强劲，疑似机构抱团。",
+    "sentiment": "mixed",
+    "key_opinions": ["机构资金对轰拉升", "临近解禁，风险增加", "一手价格高，散户难参与"],
+    "mentioned_stocks": ["联讯仪器"]
+  },
+  {
+    "index": 36,
+    "summary": "感慨美股不开盘时周边市场形势大好。",
+    "sentiment": "mixed",
+    "key_opinions": ["形势看似一片大好", "A股开盘后预判更难", "市场跌久应反弹"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "指出兆易创新K线呈A字顶，讨论解套难度大。",
+    "sentiment": "negative",
+    "key_opinions": ["K线呈教科书式山峰", "解套遥遥无期", "被戏称为山顶资本"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论如何判断上涨行情中第一根红K的意义。",
+    "sentiment": "mixed",
+    "key_opinions": ["跑了的就是第一根，没跑可能是最后一根", "低位缩量涨偏利好", "股吧情绪高涨常是见顶信号"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "记录梭哈买入青岛金王，讨论其走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["短期走势良好", "PE估值略高", "可持股等待上涨"],
+    "mentioned_stocks": ["青岛金王"]
+  }
+]
