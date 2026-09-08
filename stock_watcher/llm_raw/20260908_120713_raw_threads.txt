@@ -1,0 +1,419 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论农业板块是处于行情高潮还是刚刚开始，观点存在分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "认为刚开始，很多人还未关注",
+      "农业板块已上涨较多，认为已是短期题材",
+      "受国际事件和资金博弈驱动，但监管风险大"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论纳斯达克指数基金高溢价率问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "认为溢价率过高",
+      "QDII基金额度放开时间太短"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 3,
+    "summary": "询问海康威视股价异常下跌的原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "无明显原因的大跌被视为上车机会",
+      "原因可能是美国制裁"
+    ],
+    "mentioned_stocks": ["海康威视"]
+  },
+  {
+    "index": 4,
+    "summary": "农业板块继续领涨，讨论其投资价值和逻辑。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "农业是今年市场主线",
+      "鼓励效忠农业板块",
+      "农业现代化是长期主题"
+    ],
+    "mentioned_stocks": ["瑞尔特"]
+  },
+  {
+    "index": 5,
+    "summary": "用户对欣旺达给出估值报告，引发对其估值逻辑的争论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "认为欣旺达严重低估值，是做空宁德的标的",
+      "质疑其动力电池业务口碑差，缺乏增长逻辑",
+      "储能赛道被看衰"
+    ],
+    "mentioned_stocks": ["欣旺达", "宁德时代"]
+  },
+  {
+    "index": 6,
+    "summary": "比较半导体设备与通信板块近期表现，讨论半导体下跌原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "半导体板块前期涨幅过大，正在还债",
+      "近期缺乏业绩支撑",
+      "受科创板解禁和情绪影响"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "收盘后日韩股市上涨，A股表现落后，引发不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "抱怨A股在全球市场中的疲弱表现",
+      "资金未流向农业、科技板块",
+      "投资者感到无奈和沮丧"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "用户分享自己的短线操作，清仓并买入新股票。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "分享清仓金瑞矿业，买入荣信文化和青山纸业",
+      "提及超声电子底部筑底，适合长线",
+      "跟帖用户表示跟随操作"
+    ],
+    "mentioned_stocks": ["金瑞矿业", "荣信文化", "青山纸业", "超声电子"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论A股闭市后周边市场上涨的奇怪现象。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "调侃A股为“全球总熊头”，拖累全球",
+      "戏称中国发展农业而非AI",
+      "自嘲为市场中的逆行者"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论澜起科技股价是否已见底，是否值得抄底。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "认为股价在历史支撑位，有抄底价值",
+      "反对买入，认为个股疲软",
+      "部分用户已尝试小仓位抄底并做T"
+    ],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论宁德时代股价持续下跌的原因和前景。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价下跌，有小作文传言",
+      "管理层回购不力被质疑",
+      "主机厂寻求电池自研以降低对宁德依赖"
+    ],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 12,
+    "summary": "认为游戏板块正悄然走强，讨论其上涨逻辑和时机。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "AI短剧等概念带动游戏板块",
+      "筹码结构改善，可能接近启动点",
+      "部分投资者已提前卖出感到后悔"
+    ],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论“堂哥心法”中的短线交易逻辑，并分析博云新材。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用换手、筹码峰等条件分析博云新材",
+      "提醒连板战法风险极高",
+      "对“堂哥心法”的完整性有疑问"
+    ],
+    "mentioned_stocks": ["博云新材"]
+  },
+  {
+    "index": 14,
+    "summary": "嘲讽A股对韩国市场下跌的过度反应。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "调侃A股跟跌不跟涨",
+      "批评A股缺乏独立性，性格“敏感”",
+      "希望A股能“大方地跌”"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论保龄宝股票及糖业涨价的板块行情。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "糖价上涨消息刺激糖业股上涨",
+      "保龄宝等股票涨停",
+      "提及该股曾有过热度"
+    ],
+    "mentioned_stocks": ["保龄宝"]
+  },
+  {
+    "index": 16,
+    "summary": "发现韩国股市经常在A股午休期间上涨的现象。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "指出韩国市场在A股午休时拉升",
+      "解释可能是避免被A股午盘开盘跳水带崩",
+      "再次调侃A股为“全球总熊头”"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "抱怨自己炒股两个月，收益堪比给券商打工。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "投资者感到亏损，收益仅够覆盖交易成本"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "询问某只基金018921是否值得投资。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "认为基金编制规则合理，刚经历回撤",
+      "推荐东证优势成长，长期超额收益明显"
+    ],
+    "mentioned_stocks": ["018921", "东证优势成长"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论A股市场成分是否已剔除“韩国因子”，转向农业。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "调侃A股成分变成“鸡鸭鱼肉大米”",
+      "批评市场开倒车，重回农业",
+      "指责市场交易机制不公"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "分享周期股安迪苏（蛋氨酸龙头）的投资逻辑和长线目标。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "认为安迪苏是周期股，持有期可能长达1-3年",
+      "看好其作为细分化工龙头的技术壁垒",
+      "用户普遍将其加入自选观察"
+    ],
+    "mentioned_stocks": ["安迪苏"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论中国移动和长江电力的股息率变化及投资价值。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "澄清中国移动股息计算需包含中报和年报",
+      "认为长江电力确定性溢价过高，类似债券",
+      "探讨高股息股的性价比选择"
+    ],
+    "mentioned_stocks": ["中国移动", "长江电力", "国投电力"]
+  },
+  {
+    "index": 22,
+    "summary": "认为科创板是市场“总熊头”，讨论其疲软原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科创板跌幅巨大，解禁压力持续",
+      "摩尔等公司减持和情绪影响大",
+      "科技类科创板公司利润率受限，难成主线"
+    ],
+    "mentioned_stocks": ["摩尔线程"]
+  },
+  {
+    "index": 23,
+    "summary": "分享用2.5万元本金追求100万的实盘记录。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "主要模式是打首板，分散持仓",
+      "用户对其目标表示佩服或质疑",
+      "询问首板选股逻辑"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "情绪化地表达对科技板块的期待。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "强烈看好科技股",
+      "认为板块即将选择方向",
+      "被其他用户提醒情绪不稳定"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "描述当日账户盈亏剧烈波动，盘面震荡强烈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "账户日内从亏4%到盈4%再归零",
+      "认为市场多空分歧严重",
+      "感觉像是诱多行情"
+    ],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 26,
+    "summary": "对比摩尔、寒武纪、沐曦等AI芯片公司的市场表现。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "摩尔大跌主因是限售股解禁",
+      "质疑摩尔技术和产品落地能力",
+      "寒武纪相对更受认可"
+    ],
+    "mentioned_stocks": ["摩尔线程", "寒武纪", "沐曦"]
+  },
+  {
+    "index": 27,
+    "summary": "重复呼喊“科技”，表达对科技板块的期待与失望。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "对科技股上涨感到兴奋",
+      "认为涨幅有限，未放量",
+      "觉得科技股前期跌得多，当前反弹微不足道"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "预测宁德时代股价可能下跌的目标位。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "有用户认为可能跌到180或200元",
+      "认为250元是合理估值",
+      "批评宁德时代对上下游的强势"
+    ],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 29,
+    "summary": "询问海康威视股价当日异动的原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "猜测可能再次遭遇美国制裁",
+      "怀疑是公司或地方政府行为",
+      "等待盘后消息确认"
+    ],
+    "mentioned_stocks": ["海康威视"]
+  },
+  {
+    "index": 30,
+    "summary": "担心机器人公司宇树上市后股价会像摩尔线程一样大跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "认为“上市即巅峰”是此类公司常态",
+      "认为宇树比摩尔线程技术含量更低",
+      "劝诫远离此类高风险股票"
+    ],
+    "mentioned_stocks": ["宇树", "摩尔线程"]
+  },
+  {
+    "index": 31,
+    "summary": "因听从AI分析建议，未买海康威视而买入紫金矿业。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "庆幸没有盲目相信AI分析",
+      "选择了紫金矿业"
+    ],
+    "mentioned_stocks": ["海康威视", "紫金矿业"]
+  },
+  {
+    "index": 32,
+    "summary": "分享因心态失衡导致的错误交易操作。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "在板块间追涨杀跌，操作失误",
+      "反思短线操作应预先计划，避免临时决定",
+      "频繁交易被质疑"
+    ],
+    "mentioned_stocks": ["航电股份"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论日元走势及其对美元的影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "认为日元升值（偷袭美元）幅度太大",
+      "指出这是日本加息预期所致",
+      "认为这可能是双赢结果"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "提醒关注的大V已清仓中钨高新，引发持有者讨论。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "技术图形走坏，建议减仓或离场",
+      "部分用户选择死扛或加仓",
+      "认为科技关联股近期难做"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 35,
+    "summary": "遗憾未在低价买入某农业股（米业）。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "挂单未成交感到后悔",
+      "认为农业行情可能持续到明年年初"
+    ],
+    "mentioned_stocks": ["米业"]
+  },
+  {
+    "index": 36,
+    "summary": "质疑指数与银行股绑定而非与科技股绑定的合理性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "认为科技股成了指数的反向指标"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "由小说情节联想到股市的赚钱效应。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "调侃股市来钱快"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "称赞剑桥科技股价强势，上涨原因明确。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "股价走势非常强",
+      "上涨原因是业绩超预期，基本面改善"
+    ],
+    "mentioned_stocks": ["剑桥科技"]
+  },
+  {
+    "index": 39,
+    "summary": "观察到13点拉科技，14点拉银行的板块轮动现象。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市场呈现快速轮动特征",
+      "认为科技主线可能回归",
+      "抱怨主力资金操盘痕迹明显"
+    ],
+    "mentioned_stocks": []
+  }
+]
