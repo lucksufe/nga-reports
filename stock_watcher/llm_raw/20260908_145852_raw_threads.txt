@@ -1,0 +1,472 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论紫光股份持续下跌，用户感到焦虑，并讨论其未来走势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价持续下跌，感觉像七月份的暴跌。",
+      "有人认为是三重底并选择加仓。",
+      "提及浪潮的利空消息可能影响紫光。"
+    ],
+    "mentioned_stocks": ["紫光股份", "浪潮"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论小米、理想等车企自研电池摆脱宁德时代，以及对宁德时代逻辑的影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "主机厂在减少对宁德时代的依赖。",
+      "宁德时代的技术被认为不够领先。",
+      "华为的鸿蒙系统也可能跟随这一趋势。"
+    ],
+    "mentioned_stocks": ["宁德时代", "比亚迪", "小鹏汽车", "小米集团"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论沙特阿拉伯军事能力弱，难以应对胡塞武装，导致油价上涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "沙特军事实力差，无法有效打击胡塞武装。",
+      "胡塞武装难以彻底剿灭。",
+      "袭击导致能源设施受损，推高原油期货价格。"
+    ],
+    "mentioned_stocks": ["布伦特原油"]
+  },
+  {
+    "index": 4,
+    "summary": "用‘田’与‘光’隐喻农业与科技板块，讨论当前市场选择。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "农业板块近期表现强势。",
+      "有人认为当前买入农业股是接盘行为。",
+      "有用户表示已严肃买入。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论小说《铁血残明》中主角开股票市场的情节。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "认为股票市场比银行业务更赚钱。",
+      "调侃主角下一步可能成立东印度公司。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "用户询问农业股推荐，回复集中在金健米业，但存在接盘担忧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "金健米业被多人推荐为农业龙头。",
+      "有人质疑此时买入已是接盘。",
+      "讨论农业板块近期涨幅已大。"
+    ],
+    "mentioned_stocks": ["金健米业", "东方铁塔"]
+  },
+  {
+    "index": 7,
+    "summary": "胡塞武装袭击沙特导致油价上涨，讨论沙特军事能力。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "胡塞武装袭击导致布伦特原油期货上涨。",
+      "沙特军事能力被广泛批评。",
+      "有极端言论建议暴力解决胡塞问题。"
+    ],
+    "mentioned_stocks": ["布伦特原油"]
+  },
+  {
+    "index": 8,
+    "summary": "抱怨A股大盘跟随韩国股市下跌，缺乏独立性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股跟跌不跟涨，像韩国的“孝子”。",
+      "市场软弱，建议大大方方下跌。",
+      "有用户认为是科技板块炒作尾声。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "用户发布对欣旺达的估值报告，但遭到其他用户对增长逻辑的质疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "作者用分部估值法给予800亿估值。",
+      "质疑者认为欣旺达是电池厂中口碑最差的。",
+      "储能赛道被部分人看衰，认为类似光伏。"
+    ],
+    "mentioned_stocks": ["欣旺达", "宁德时代"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论科技股投资者情绪低迷，已接近绝望，可能接近市场反转点。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股投资者心灰意冷，但尚未割肉。",
+      "认为可能还需要一次大跌才能见到反转。",
+      "有人认为成交量还未缩到极致，仍有下跌空间。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "神剑股份高管因内幕交易被立案，引发对商业航天板块监管的讨论。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "公司高管涉嫌内幕交易被立案调查。",
+      "商业航天概念的“妖股”正受到严格监管。",
+      "该消息导致股价下跌。"
+    ],
+    "mentioned_stocks": ["神剑股份"]
+  },
+  {
+    "index": 12,
+    "summary": "用户建议短线操作粮食股，但遭其他人提醒农业板块已涨较多，追高风险大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用户建议短线投资种业、猪肉、白糖。",
+      "回复指出农业板块已上涨多时，现在进入可能是接盘。",
+      "有人认为农业股是当前主线。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论涨停板封板失败后的常见走势，多数认为后续大概率下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "封板失败后，九成概率次日下跌。",
+      "一成可能竞价弱转强。",
+      "最终走势看主力心情。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "抱怨A股市场完全跟随韩国股市（泡菜）波动，毫无独立性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股被称为“韩一儿”，跟跌不跟涨。",
+      "批评A股市场缺乏独立思考。",
+      "有人认为这源于国内习惯抄袭。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "抱怨A股市场下跌幅度远超外围上涨幅度，市场表现极差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股下跌时是加倍的，上涨时不跟。",
+      "市场脆弱，流失大量投资者。",
+      "认为A股是全球最差市场之一。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "用户询问存储板块某知名用户的帖子为何消失。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "相关帖子莫名消失。",
+      "可能与平台内容审核有关。",
+      "发帖者本人对此也感到疑惑。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "用户认为AI应用利好华为鸿蒙系统，但找不到明确的投资标的。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "认为AI应用利好华为鸿蒙。",
+      "找不到明确的受益股票标的。",
+      "回复指出华为概念股通常利润稀薄。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "描述市场日内大幅波动，从大跌到大涨再归零。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场波动剧烈，日内振幅巨大。",
+      "认为多空分歧严重，散户在出逃。",
+      "有用户认为机构在吸筹。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "用户担忧创业板将启动C浪下跌，称本周是逃命机会。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "认为创业板即将大跌。",
+      "有用户已清仓并表示严肃清仓。",
+      "认为下跌比预期来得早。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "韩国股市下跌引发对A股科技板块的担忧，但有人认为农业板块仍有行情。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "担心韩国股市跳水会拖垮A股科技股。",
+      "认为农业板块可能继续炒作。",
+      "有用户觉得A股跌幅会放大韩国的跌幅。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "再次抱怨韩国股市下跌，用户反映自身持仓由盈转亏。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国股市（思密达）频繁跳水。",
+      "用户持仓从盈利变为亏损。",
+      "认为市场波动令人烦躁。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "假设农业成为主线，讨论其可能向上下游产业链发散的逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "若农业是主线，会向上游农资、下游食品等延伸。",
+      "有人认为农业ETF涨停是短期见顶信号。",
+      "对农业能否成为真正主线存疑。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "分析周期股安迪苏，认为其处于周期反转中，给予目标价12+。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "安迪苏是蛋氨酸细分龙头，典型周期股。",
+      "作者认为周期即将反转，目标价12元以上。",
+      "提醒周期股投资需耐心，可能持股1-3年。"
+    ],
+    "mentioned_stocks": ["安迪苏"]
+  },
+  {
+    "index": 24,
+    "summary": "认为美股市场已到人声鼎沸时，有见顶危险，建议卖出。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "警告美股可能见顶，华尔街会“割韭菜”。",
+      "建议卖出QDII基金。",
+      "指出美股相关基金近半年收益可能为负。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "将当前科技股走势与7月相比，认为一日反弹后可能继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股走势似曾相识，像7月的“一日游”。",
+      "成交量萎缩，市场不乐观。",
+      "认为只要高位套牢盘不割肉，科技股难有资金。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论日本金融动作对美元的影响，以及日元加息预期。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "日元相关交易引发市场波动。",
+      "市场正在交易日元加息预期。",
+      "认为本月日元加息已成定局。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "询问陕西旅游等旅游股是否还有机会。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "认为旅游板块可能已炒完。",
+      "注意到陕西旅游近期换手率高。"
+    ],
+    "mentioned_stocks": ["陕西旅游"]
+  },
+  {
+    "index": 28,
+    "summary": "发现农业股上涨带动了林业（种树）板块也大幅上涨。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "种树板块跟随农业板块上涨约50%。",
+      "有人指出其走势跟微盘股指数相关。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "以厄尔尼诺现象为由，强力推荐农业及相关大宗商品投资链。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "宣称此次厄尔尼诺为150年最强，影响深远。",
+      "认为农业是当前首要投资链条。",
+      "提及原油紧缺影响化肥，进一步利好农业。"
+    ],
+    "mentioned_stocks": ["金健米业"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论西部矿业股价上涨，认为是市场终于反应过来其拥有铜矿资源。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "西部矿业因铜价上涨而上涨。",
+      "之前跌幅较大，此次上涨被视为价值回归。",
+      "有用户对比其他铜矿公司涨幅。"
+    ],
+    "mentioned_stocks": ["西部矿业", "紫金矿业", "洛阳钼业"]
+  },
+  {
+    "index": 31,
+    "summary": "担忧晚上美股表现将决定A股科技板块走势，怕出现大跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "预期如果美股下跌，A股科技将大跌。",
+      "有用户称已提前卖出。",
+      "有人认为科技板块今天走势已跟随韩国下跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "记录基于技术图表的轻仓短线实盘操作。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "进行5%-10%仓位的短线交易。",
+      "依据K线均线等技术指标选择标的。",
+      "首笔记录为买入易点天下。"
+    ],
+    "mentioned_stocks": ["易点天下"]
+  },
+  {
+    "index": 33,
+    "summary": "比较半导体设备与通信板块表现，认为半导体近期弱于通信。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "半导体设备板块持续下跌，通信板块震荡。",
+      "认为半导体前期涨幅过大，正在还债。",
+      "半导体板块估值被认为较贵。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论短线交易时机的重要性，方向正确但慢一天可能全错。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "强调交易时机至关重要。",
+      "分享了对特发信息、旅游股等的短线操作。",
+      "当前盘面被比6月份更容易操作。"
+    ],
+    "mentioned_stocks": ["特发信息"]
+  },
+  {
+    "index": 35,
+    "summary": "强调农业作为生活刚需，应上涨，科技则是伪需求。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "认为农业是刚需，应该上涨。",
+      "有用户调侃其他刚需行业如服装、殡葬。",
+      "提醒不要因短期涨幅高而盲目追入。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "讨论宁德时代股价下跌，用户质疑其管理层行为及面临主机厂自研电池的挑战。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "管理层承诺回购但无进展，被解读为认为股价仍贵。",
+      "主机厂为避免受制于宁德，正加速自研电池。",
+      "有用户认为存在利空小作文。"
+    ],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 37,
+    "summary": "抱怨市场因缺乏美股等外围市场指引而不敢动。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "认为市场在等待美股方向。",
+      "讨论美股期货指数的暗盘、夜盘数据。",
+      "这些数据因成交量小而被看作“野榜”。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "指出农业板块持续领涨，是当前市场龙头。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "农业板块领涨市场。",
+      "有用户认为农业是今年主线。",
+      "用“站在田里”表达看多农业的观点。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论恒生科技指数（恒科）是否接近底部。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "用户认为恒科即将见底，可关注。",
+      "反驳者指出恒科今年一直表现很差。",
+      "认为恒科已从低点反弹，底部可能已过。"
+    ],
+    "mentioned_stocks": ["恒生科技指数"]
+  },
+  {
+    "index": 40,
+    "summary": "抱怨A股收盘后，美股、日股、韩股等外围指数集体上涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股收盘后外围市场大涨，感觉像“关门打狗”。",
+      "用户感到沮丧，认为赚钱太难。",
+      "调侃外围上涨，A股却下跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "戏称量化交易加入了“韩国因子”，导致A股跟随韩国股市波动。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "量化策略加入韩国股市波动因子。",
+      "导致A股跟跌不跟涨。",
+      "批评量化策略只比亏多少，对市场起负面作用。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "用户询问楚天龙股票能否继续持有，仓位较重。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "用户仓位重，询问持有建议。",
+      "回复建议通过减仓来降低风险。",
+      "提及比特币价格可能影响该股。"
+    ],
+    "mentioned_stocks": ["楚天龙"]
+  },
+  {
+    "index": 43,
+    "summary": "分享光谷马拉松活动信息，并讨论相关光通信公司。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "分享光谷马拉松活动。",
+      "提醒远离人群，防范风险。",
+      "提及长飞光纤、烽火通信、光迅科技等公司。"
+    ],
+    "mentioned_stocks": ["长飞光纤", "烽火通信", "光迅科技"]
+  }
+]
