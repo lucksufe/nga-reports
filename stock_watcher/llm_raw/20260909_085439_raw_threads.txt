@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论三只股票被监管的原因，普遍认为没有明确规则，主要看监管态度和心情。",
+    "sentiment": "negative",
+    "key_opinions": ["监管规则不明确，主要看心情和态度", "短线炒作过热招致打压，监管想压制投机", "监管续杯现象让人困惑，缺乏透明度"],
+    "mentioned_stocks": ["高争民爆", "中石科技", "五洲医疗", "航天动力", "龙版传媒"]
+  },
+  {
+    "index": 2,
+    "summary": "用户描述炒股成瘾，严重影响生活和工作，寻求帮助。",
+    "sentiment": "negative",
+    "key_opinions": ["成瘾表现类似赌博，影响生活工作", "沉迷股市导致对其他事物失去兴趣", "需要寻求平衡或戒断方法"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论油价上涨对CPI和美联储加息决策的影响，分析宏观政策两难。",
+    "sentiment": "mixed",
+    "key_opinions": ["油价上涨推高通胀，加息预期升温", "美联储政策面临经济与选情的两难", "维持现状可能性大，短期不会大幅变动"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 4,
+    "summary": "社会新闻误发股市版块，用户玩笑式地关联股市，提及“张小泉”。",
+    "sentiment": "mixed",
+    "key_opinions": ["内容与股市无关，属于误发", "玩笑式地联系刀具上市公司", "讨论偏娱乐化，无实质分析"],
+    "mentioned_stocks": ["张小泉"]
+  },
+  {
+    "index": 5,
+    "summary": "认为AI硬件正从风险资产转向避险资产，在加息风险下更抗跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI硬件确定性高，成为资金避险选择", "国内与国外避险逻辑不同（科技 vs 农业）", "高成长才能跑赢高利率"],
+    "mentioned_stocks": ["AI硬件", "半导体", "农业"]
+  },
+  {
+    "index": 6,
+    "summary": "美国财长贝森特自称掌握内幕信息，挑战做空日元的交易员。",
+    "sentiment": "negative",
+    "key_opinions": ["官方角色直接下场干预汇市", "利用不对称信息进行市场操作", "讽刺“当庄家很爽”"],
+    "mentioned_stocks": ["日元", "美股"]
+  },
+  {
+    "index": 7,
+    "summary": "看好牧原股份的低成本优势和猪周期机会，讨论其投资价值。",
+    "sentiment": "mixed",
+    "key_opinions": ["成本全行业最低，周期反转时盈利弹性大", "有管理层增持信号，增加信心", "存在财务质疑声音，需关注风险"],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 8,
+    "summary": "OpenAI宣布突破数学难题，用户询问对A股的利好影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI在基础科学领域取得重大进展", "利好可能已提前反应，落地易成利空", "关注AI硬件及美股相关表现"],
+    "mentioned_stocks": ["AI", "美股"]
+  },
+  {
+    "index": 9,
+    "summary": "用“香港人”俚语形容市场大跌导致散户亏损严重，情绪绝望。",
+    "sentiment": "negative",
+    "key_opinions": ["市场波动剧烈，散户亏损严重", "用“天台”梗表达绝望情绪", "反映当前市场环境对散户不友好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论标普纳指是否横盘等待议息会议，分析加息后的可能走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["横盘可能是等待议息会议结果", "加息或被视为利空出尽，可能引发上涨", "市场在进行复杂的预期管理"],
+    "mentioned_stocks": ["标普", "纳指"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论养殖业板块短期调整后是否还能继续上涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["养殖业有自身周期，走趋势更健康", "受农业大主线带动，但需关注回调", "小票风险较大，大票相对理性"],
+    "mentioned_stocks": ["养殖业", "农业"]
+  },
+  {
+    "index": 12,
+    "summary": "回顾中房、美股、日债三大资产泡沫，讨论哪个已破裂。",
+    "sentiment": "negative",
+    "key_opinions": ["中房泡沫已被认为破裂，但仍有下跌空间", "美股泡沫之说存疑", "对全球资产价格高企表示担忧"],
+    "mentioned_stocks": ["中房", "美股"]
+  },
+  {
+    "index": 13,
+    "summary": "用户困惑为何美股上涨但A股科技板块却回落。",
+    "sentiment": "negative",
+    "key_opinions": ["A股科技与美股科技逻辑不同", "A股常出现“跟跌不跟涨”", "市场信心不足，独立性弱"],
+    "mentioned_stocks": ["美股", "A股科技"]
+  },
+  {
+    "index": 14,
+    "summary": "用户分享个人短线操作，清仓并买入其他股票，有跟风者。",
+    "sentiment": "positive",
+    "key_opinions": ["短线操作频繁，寻求快速收益", "有其他用户表示跟车学习", "提及的个股被认为有潜力（如超声电子）"],
+    "mentioned_stocks": ["金瑞矿业", "荣信文化", "青山纸业", "超声电子"]
+  },
+  {
+    "index": 15,
+    "summary": "咨询新发ETF的申购价格和手续费问题，建议等上市再买。",
+    "sentiment": "negative",
+    "key_opinions": ["新发ETF申购可能成为接盘侠", "申购手续费较高且锁定资金", "建议等ETF上市后直接买入更划算"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "油价逼近100美元引发担忧，讨论其对通胀、新能源及加息的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["油价飙升加剧通胀担忧", "利好新能源、电池等替代能源", "进一步推升美联储加息预期"],
+    "mentioned_stocks": ["新能源", "电池", "电车"]
+  },
+  {
+    "index": 17,
+    "summary": "用户因持仓盈利数字不吉利而纠结是否卖出，市场波动小。",
+    "sentiment": "mixed",
+    "key_opinions": ["数字迷信影响投资决策", "微小盈利甚至覆盖不了交易成本", "反映当前市场波动小，赚钱效应差"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "用户在两只化工股之间做选择咨询，无回复内容。",
+    "sentiment": "mixed",
+    "key_opinions": [],
+    "mentioned_stocks": ["三孚", "新安"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论军工板块的龙头股会是谁，各有猜测。",
+    "sentiment": "mixed",
+    "key_opinions": ["内蒙一机被多人看好成为龙头", "长城军工因历史表现辨识度高", "飞机和材料相关个股也受关注"],
+    "mentioned_stocks": ["内蒙一机", "长城军工", "中航成飞"]
+  },
+  {
+    "index": 20,
+    "summary": "担心韩股上涨A股不跟，并讨论海力士相关产品表现。",
+    "sentiment": "negative",
+    "key_opinions": ["A股经常“跟跌不跟涨”", "韩股上涨可能已提前消化", "光模块等板块联动性弱"],
+    "mentioned_stocks": ["海力士", "韩股", "美股"]
+  },
+  {
+    "index": 21,
+    "summary": "警示美股风险，认为已在高位，华尔街可能收割。",
+    "sentiment": "negative",
+    "key_opinions": ["美股处于高位，有见顶风险", "华尔街收割手法凶狠", "QDII基金近期收益不佳"],
+    "mentioned_stocks": ["美股", "QDII"]
+  },
+  {
+    "index": 22,
+    "summary": "预测次日市场高开或低开，讨论是否该跑路。",
+    "sentiment": "mixed",
+    "key_opinions": ["预测明天可能低开", "光模块板块可能高开", "当前是震荡洗筹行情，不宜追涨杀跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "分析今日科技股表现，认为只有追高和重仓半导体者难受。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股内部严重分化", "半导体、国算等板块回调明显", "若持仓分散或对冲则影响不大"],
+    "mentioned_stocks": ["中际", "兆易", "剑桥", "杭电", "长飞", "德明利", "沪电"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论澜起科技股价触及186元是否构成抄底机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["多次在180多元探底，有支撑位意识", "但下跌趋势未止，抄底风险高", "有投资者选择买入并计划做T"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 25,
+    "summary": "用户重仓追高科技股后遭遇大跌，分享被套经历。",
+    "sentiment": "negative",
+    "key_opinions": ["追高热门板块风险极大", "突发消息（如中东局势）加剧波动", "科技股赚钱难度大，考验心态"],
+    "mentioned_stocks": ["旭创", "天孚", "胜宏"]
+  },
+  {
+    "index": 26,
+    "summary": "惊叹于铜价加速上涨，讨论相关投资标的。",
+    "sentiment": "positive",
+    "key_opinions": ["铜价上涨趋势强劲", "铜是AI等新兴产业的基础金属", "推荐关注紫金矿业、江西铜业等龙头"],
+    "mentioned_stocks": ["紫金矿业", "江西铜业"]
+  },
+  {
+    "index": 27,
+    "summary": "用“三个香港人”等俚语描述市场波动导致散户亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["用网络梗图表达市场大跌的惨状", "反映散户亏损后的绝望情绪", "是市场情绪的极端化表达"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "比较农业炒作（如代糖）与此前科技上游炒作的异同。",
+    "sentiment": "mixed",
+    "key_opinions": ["农业炒作可能更偏向业绩和基本面", "科技上游炒作多为题材，缺乏业绩支撑", "都是主线板块的外溢炒作现象"],
+    "mentioned_stocks": ["农业", "代糖", "科技"]
+  },
+  {
+    "index": 29,
+    "summary": "关注海力士股价面临技术突破关口，讨论杠杆产品风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["海力士正面临关键技术位突破", "两倍杠杆产品磨损严重，风险极高", "韩股与美股存在较大溢价"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 30,
+    "summary": "感慨早期推荐农业无人信，如今板块大涨后众人追高。",
+    "sentiment": "negative",
+    "key_opinions": ["投资中常出现“涨了才信”的现象", "在低位因怀疑不敢买，高位却追涨", "追涨后可能成为最后一棒接盘者"],
+    "mentioned_stocks": ["农业", "粮食", "糖"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论场外纳指基金投资北交所股票是否合规，存在争议。",
+    "sentiment": "mixed",
+    "key_opinions": ["是否合规需看基金合同具体规定", "利用闲置资金打新可增强收益", "存在“原则性问题”的争议"],
+    "mentioned_stocks": ["华夏纳指基金"]
+  },
+  {
+    "index": 32,
+    "summary": "用户推荐并询问基金018921，回复表示认可。",
+    "sentiment": "positive",
+    "key_opinions": ["认为该基金编制规则合理", "东证优势成长指数长期表现强", "具有长期超额收益能力"],
+    "mentioned_stocks": ["018921"]
+  },
+  {
+    "index": 33,
+    "summary": "用户开帖记录中长线投资，分享持仓和抄作业经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["持仓标的来自多平台“抄作业”", "科技牛市收益已回吐", "发现收益率与发帖活跃度相关"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "用户询问创新药板块推荐个股，回复多表示板块表现不佳。",
+    "sentiment": "negative",
+    "key_opinions": ["创新药板块近期表现疲软", "ETF长期横盘，波动小", "港股或有个股机会，但整体谨慎"],
+    "mentioned_stocks": ["复星", "创新药ETF", "康龙化成", "药明"]
+  },
+  {
+    "index": 35,
+    "summary": "比较摩尔、寒武纪、沐曦等AI芯片公司股价，认为解禁是主因。",
+    "sentiment": "negative",
+    "key_opinions": ["摩尔大跌主要因限售股解禁", "沐曦也将面临解禁压力", "寒武纪在技术和出货上相对更被看好"],
+    "mentioned_stocks": ["摩尔", "寒武纪", "沐曦"]
+  },
+  {
+    "index": 36,
+    "summary": "讽刺A股科技股纳入指数后即下跌，对比SpaceX纳入纳指后表现。",
+    "sentiment": "negative",
+    "key_opinions": ["A股“见光死”现象明显，利好出尽是利空", "SpaceX此前也有过破发和下跌", "抱怨其纳入影响纳指表现"],
+    "mentioned_stocks": ["SpaceX", "纳指"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论航空股是否已利空出尽，但普遍认为油价和需求是更大问题。",
+    "sentiment": "negative",
+    "key_opinions": ["油价高企是航空股持续的利空", "可能存在战争导致航线中断的风险", "形成成本上升、需求下降的戴维斯双杀"],
+    "mentioned_stocks": ["航空股"]
+  },
+  {
+    "index": 38,
+    "summary": "用户预测“细胞逆转衰老”将成为下一个医药情绪爆点，遭部分质疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["概念新颖，故事吸引人", "创始人信誉存疑，有炒作历史", "临床转化遥远，目前更像是概念炒作"],
+    "mentioned_stocks": ["Sinclair", "Life Biosciences"]
+  },
+  {
+    "index": 39,
+    "summary": "用户请求分析港股小盘股财报，回复警告其可能面临退通风险。",
+    "sentiment": "negative",
+    "key_opinions": ["公司可能面临“退通”（退出港股通）风险", "小盘股流动性差，风险极高", "谨慎投资此类“仙股”边缘标的"],
+    "mentioned_stocks": ["06681HK"]
+  },
+  {
+    "index": 40,
+    "summary": "关注美股海力士股价即将重回新高，提及公司回购计划。",
+    "sentiment": "positive",
+    "key_opinions": ["海力士美股表现强劲", "四季度大规模回购计划或提振股价", "投资者感叹卖早了"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 41,
+    "summary": "对比美股海力士与韩股海力士表现，讨论溢价和杠杆磨损。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股海力士接近新高，韩股仍差很多", "两地存在巨大溢价（约41%）", "杠杆产品因磨损已损失大量价值"],
+    "mentioned_stocks": ["海力士", "韩股"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论短线交易是否迎来好时机，并询问学习方法。",
+    "sentiment": "mixed",
+    "key_opinions": ["近期存在短线行情，但监管严格", "需要磨掉情绪，不能盲目追热点", "短线是流动性博弈，需跟随热点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "根据美股盘前上涨预测A股次日走势，讨论能否“麻袋装钱”。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股盘前涨可能带动A股补涨", "但A股独立性弱，常不跟涨", "科技股赚钱难度大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "用户分享清仓后股票意外涨停的经历，感叹A股市场的不可预测。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股市场经常有出乎意料的炒作", "强调“要信早信”的炒作逻辑", "炒股需要丰富的想象力"],
+    "mentioned_stocks": ["佳禾食品"]
+  },
+  {
+    "index": 45,
+    "summary": "用户询问某位用户帖子消失的原因，疑似被审核。",
+    "sentiment": "mixed",
+    "key_opinions": ["论坛内容审核可能较严格", "用户帖子时常无故消失", "对信息发布的不确定性感到困惑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "用户开专楼解答关于汉钟精机的基本面问题，讨论其产品前景。",
+    "sentiment": "mixed",
+    "key_opinions": ["公司产品和技术理解门槛较高", "液冷和半导体真空泵是未来增长点", "主业目前仍以光伏为主"],
+    "mentioned_stocks": ["汉钟精机", "京仪"]
+  },
+  {
+    "index": 47,
+    "summary": "关注英伟达股价能否创新高，并讨论A股相关板块是否会跟涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["英伟达多次冲击新高未果", "A股相关板块（戏称“农伟达”）联动性弱", "市场情绪受CPI和议息会议压制"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 48,
+    "summary": "用户询问农业板块应买什么股票，回复多推荐龙头金健米业。",
+    "sentiment": "positive",
+    "key_opinions": ["金健米业被多人推荐为龙头", "板块炒作可能已至后期，追高风险大", "也有推荐中粮糖业等"],
+    "mentioned_stocks": ["金健米业", "中粮糖业"]
+  },
+  {
+    "index": 49,
+    "summary": "用户寻求未来四个月每月稳赚1%的策略，被认为不切实际。",
+    "sentiment": "negative",
+    "key_opinions": ["每月稳定1%的目标极高，难以实现", "即使是巴菲特也难做到如此稳定", "现实世界中不存在此类稳赚标的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "用户关注高股息股票并请求推荐，得到多家公司建议。",
+    "sentiment": "positive",
+    "key_opinions": ["推荐工行、长江电力等防御性股票", "股息率计算方式和稳定性受关注", "也有观点认为股息率不如短线做T"],
+    "mentioned_stocks": ["伊利", "美的", "工行", "长江电力", "平安银行", "中国神华", "兖矿能源", "中国移动", "中国石油", "中海油"]
+  }
+]
