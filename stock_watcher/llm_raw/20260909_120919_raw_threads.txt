@@ -1,0 +1,475 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论宁德时代护城河减弱，与英伟达对比，车企议价能力增强。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "宁德时代技术优势被追赶，护城河不牢。",
+      "英伟达高毛利率无人质疑，形成对比。",
+      "车企正寻求替代供应商以增加议价能力。"
+    ],
+    "mentioned_stocks": ["宁德时代", "英伟达", "欣旺达"]
+  },
+  {
+    "index": 2,
+    "summary": "原油价格上涨引发通胀担忧，可能影响A股和美国加息预期。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "油价上涨加剧通胀，美国普通民众受害。",
+      "美国加息可能引发经济危机，A股类似2022年疲软。",
+      "国债问题可能限制政策空间。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "A股早盘波动，科技高开低走，整车板块反弹。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大消费龙头稳定，但后排分歧。",
+      "整车板块下跌后反弹，可能见底。",
+      "科技股跟随外围但表现疲软。"
+    ],
+    "mentioned_stocks": ["比亚迪", "小米"]
+  },
+  {
+    "index": 4,
+    "summary": "A股下跌原因探讨，归因于缩量、外围市场和油价上涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "缩量拉升后冲高回落，市场乏力。",
+      "等待议息会议，油价上涨是主因。",
+      "A股总是跟跌不跟涨，令人失望。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "市场缺乏方向，板块轮动混乱，涨停股涉及多个行业。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "涨停股跨度大，显示无主线。",
+      "光刻胶板块高开后回落，机会不持续。",
+      "市场在寻找成本方向，但无明确趋势。"
+    ],
+    "mentioned_stocks": ["彤程新材", "南大光电", "晶瑞电材"]
+  },
+  {
+    "index": 6,
+    "summary": "A股是否受韩国股市影响，跌时跟跌，涨时不跟。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "量化策略可能放大韩国因子，导致跟跌不跟涨。",
+      "A股表现常被调侃为‘无能的丈夫’。",
+      "市场情绪对韩国指数敏感。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "等待美国经济数据如CPI，对A股影响悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美国数据疑似操控，市场被迫跟随。",
+      "加息预期压制科技股，A股高开低走。",
+      "外围市场主导，A股缺乏自主性。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "美国财长评论日元干预，显示市场操纵。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美国利用信息优势干预日元市场。",
+      "回顾日元干预事件，涨幅后回吐。",
+      "财长言论引发对市场公平性的质疑。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "寻找军工板块龙头股，内蒙一机和长城军工被看好。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "内蒙一机和长城军工是潜在龙头。",
+      "投资者尝试不同股票以避免错误。",
+      "军工板块有连板和梯队机会。"
+    ],
+    "mentioned_stocks": ["内蒙一机", "长城军工", "中航成飞", "博云新材"]
+  },
+  {
+    "index": 10,
+    "summary": "龙版传媒停牌导致板块下跌，监管问题引发不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "监管不透明损害市场信心，规则不统一。",
+      "投机炒作如龙版风险高，愿赌服输。",
+      "板块轮动快，粮食等替代板块受关注。"
+    ],
+    "mentioned_stocks": ["龙版传媒", "巨力索具"]
+  },
+  {
+    "index": 11,
+    "summary": "科技股表现不佳，是否值得投资引发质疑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股成为‘老登股’，需长线持有。",
+      "短线题材更活跃，科技股无量下跌。",
+      "市场轮动快，科技股缺乏新催化。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "宁德时代股价下跌，原因包括回购延迟和车企自研。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "管理层回购不积极，股价持续下跌。",
+      "车企正减少对宁德时代依赖，如理想自研电池。",
+      "小作文影响情绪，市场谨慎。"
+    ],
+    "mentioned_stocks": ["宁德时代", "理想汽车"]
+  },
+  {
+    "index": 13,
+    "summary": "科技股投资成为心理负担，建议放弃并转向其他板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股如井中捞月，痴迷风险高。",
+      "市场轮动快，应放下执念寻找机会。",
+      "低位板块有更多利好催化。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "科技股今日表现相对坚挺，但缩量下跟跌不跟涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "缩量下科技股勉强维持，但外围回调风险大。",
+      "A股跟跌不跟涨，常被调侃。",
+      "韩国股市恢复快，A股表现差。"
+    ],
+    "mentioned_stocks": ["三星", "海力士"]
+  },
+  {
+    "index": 15,
+    "summary": "德国与俄罗斯可能冲突，军工股上涨，但真实性存疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "地缘政治推高军工板块，黄金可能上涨。",
+      "冲突可能性低，双方人口不支持开战。",
+      "市场提前预判，但消息来源可疑。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "铜价高涨，铝作为替代品前景看好。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "铝价可能稳定上涨，电解铝股适合投资。",
+      "沪铝需站稳24000，看去库存情况。",
+      "小金属如锡波动大，需谨慎参与。"
+    ],
+    "mentioned_stocks": ["中国宏桥", "宏桥控股", "云铝股份", "神火股份"]
+  },
+  {
+    "index": 17,
+    "summary": "科技股波动小，在等待催化如CPI数据。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场缩量，资金互搏无方向。",
+      "等待外部事件如议息会议。",
+      "科技股像‘老登股’，需时间回暖。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "猜测下一个轮动板块，核电、煤炭等被提及。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "核电可能轮动，但量能不足。",
+      "农业板块当前强势，需谨慎高位风险。",
+      "煤炭、电力等也可能有机会。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "科技股缓慢下跌，比喻为老太太下楼梯。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股表现疲软，下跌趋势持续。",
+      "经验（祖训）仍有效，避免追高。",
+      "市场情绪悲观。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "科技板块向农业板块认输，市场风格反转。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股神话破灭，农业等低位板块崛起。",
+      "投资者应放弃科技执念，转向传统板块。",
+      "市场基本面被忽视，情绪主导。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "想追科技股时犹豫，转向更稳定的‘老登股’。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股风险高，投资心理影响决策。",
+      "老登股如银行保险更稳定。",
+      "避免接盘高位股。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "A股冲高回落原因，量能不足和玄学因素。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "冲高回落因缩量，幅度小但‘很可爱’。",
+      "农历日期等玄学因素被讨论。",
+      "外围涨时A股不跟，跌时跟跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "调仓操作，从荣信文化到中水渔业，农业板块强势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "传媒板块崩盘，转向农业如中水渔业。",
+      "中水渔业涨停，但风险高。",
+      "农业股已涨多，需谨慎追高。"
+    ],
+    "mentioned_stocks": ["荣信文化", "中水渔业", "青山纸业", "红太阳"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论只做一只股票的策略，有支持有反对。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "专注一只股可摸清股性，提高胜率。",
+      "但轮动快时单调一只风险高，易被闷杀。",
+      "适合震荡市，但趋势市易卖飞。"
+    ],
+    "mentioned_stocks": ["紫金矿业", "京东方", "宝丰能源"]
+  },
+  {
+    "index": 25,
+    "summary": "有色金属板块投资机会，看好周期反转。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "铜、铝、锡等有色股进入景气阶段。",
+      "电解铝股适合价值投资，但波动大。",
+      "小金属如锡可做波段，注意仓位。"
+    ],
+    "mentioned_stocks": ["紫金矿业", "西部矿业", "江西铜业", "铜陵有色", "中国宏桥", "云铝股份", "神火股份", "锡业股份"]
+  },
+  {
+    "index": 26,
+    "summary": "传媒游戏板块是否有投资机会，观察W底。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "传媒游戏板块走出W底，机构仓位低。",
+      "但游戏刚暴跌，持股体验差。",
+      "板块联动弱，机会不确定。"
+    ],
+    "mentioned_stocks": ["分众传媒"]
+  },
+  {
+    "index": 27,
+    "summary": "投资亏损心理建议，鼓励理性看待止损。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "亏损应视为学习，止损是正常操作。",
+      "看好股票时短期亏损不必痛苦。",
+      "避免情绪化，专注长期价值。"
+    ],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 28,
+    "summary": "GPU上线对AI影响，可能指OpenAI项目。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "400K台GPU上线可能指OpenAI Stargate中心。",
+      "GPU供应增加利好AI产业。",
+      "信息性讨论，无明确股票提及。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "市场表现恶心，开门红后阴跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场走势令人反胃，多看一眼污染眼睛。",
+      "开盘红后持续下跌，情绪悲观。",
+      "无具体方向，但负面情绪主导。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "游戏板块可能悄然上涨，庄家吸筹。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "游戏板块轮动可能，AI短剧带动。",
+      "庄家吸筹迹象，可考虑底仓。",
+      "但需突破前高确认趋势。"
+    ],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 31,
+    "summary": "市场下跌缓慢，期待快速调整。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场磨蹭下跌，不耐烦情绪。",
+      "希望直接跳水，结束煎熬。",
+      "缺乏具体股票提及。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "ETF溢价高，寻求全球硬科技投资替代。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "159509溢价24%不敢买，风险高。",
+      "寻找全球硬科技ETF，但无具体推荐。",
+      "拒绝‘缅国杂牌’，偏好主流。"
+    ],
+    "mentioned_stocks": ["159509"]
+  },
+  {
+    "index": 33,
+    "summary": "糖类股票是否值得买入，农业发散带动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "代糖如保龄宝已涨20%，机会早。",
+      "农业板块发散拉起糖股，但高位风险。",
+      "需早信，晚信可能接最后一棒。"
+    ],
+    "mentioned_stocks": ["保龄宝"]
+  },
+  {
+    "index": 34,
+    "summary": "油价上涨对新能源等板块影响，利好与风险并存。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "油价高利好新能源如电池、电车。",
+      "但加剧通胀，加息预期上升。",
+      "油价涨到天上新能源才有救。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "美的和比亚迪股价是否低估，引发讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股价有吸引力，一周可能吃3点。",
+      "但趋势下降，缺乏催化因素。",
+      "制造业狗都不买，欧洲空调利润差。"
+    ],
+    "mentioned_stocks": ["美的集团", "比亚迪"]
+  },
+  {
+    "index": 36,
+    "summary": "计算海狗（中远海控）股息率。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "股息率计算约5%。",
+      "信息性帖子，无具体观点。",
+      "可能指中远海控。"
+    ],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 37,
+    "summary": "科技股龙头表现不佳，兆易创新等下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "兆易创新等科技股高开低走，表现丑陋。",
+      "市场没量，需等待均线整理。",
+      "量化影响，创业板下跌。"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 38,
+    "summary": "远东股份走势困惑，有光纤液冷属性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "远东股份有光纤液冷双属性，跟随板块波动。",
+      "小道消息可能影响股价。",
+      "华盛昌反弹强，远东需观察。"
+    ],
+    "mentioned_stocks": ["远东股份", "华盛昌", "平潭发展"]
+  },
+  {
+    "index": 39,
+    "summary": "黄酒作为白酒替代的投资机会，但消费习惯存疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "年轻人饮酒习惯变化，黄酒可能受益。",
+      "但实际消费低，黄酒伤胃。",
+      "会稽山等黄酒股被关注，但需谨慎。"
+    ],
+    "mentioned_stocks": ["会稽山"]
+  },
+  {
+    "index": 40,
+    "summary": "粮食板块短线机会，农业已涨多需谨慎。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "种业、猪肉、白糖波段操作建议。",
+      "科技股暂无行情，转向粮食。",
+      "农业已涨两月，追高风险大。"
+    ],
+    "mentioned_stocks": ["兴森科技"]
+  },
+  {
+    "index": 41,
+    "summary": "百润股份价值投资评估，果酒有未来但竞争大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "百润股份有未来，果酒是趋势。",
+      "但不如啤酒或料酒受欢迎。",
+      "非白酒中较少有潜力的公司。"
+    ],
+    "mentioned_stocks": ["百润股份"]
+  },
+  {
+    "index": 42,
+    "summary": "安迪苏作为周期股的投资机会，目标价12+。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "安迪苏是蛋氨酸龙头，周期反转中。",
+      "周期股持股时间长，1-3年可能达目标价。",
+      "目标价12+，逻辑方向正确。"
+    ],
+    "mentioned_stocks": ["安迪苏"]
+  },
+  {
+    "index": 43,
+    "summary": "煤炭股上涨，华阳股份大涨，但可能力竭。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "煤炭股回踩平台后上涨。",
+      "华阳股份大涨7点，但卖早后悔。",
+      "上涨可能力竭，需谨慎。"
+    ],
+    "mentioned_stocks": ["华阳股份"]
+  }
+]
