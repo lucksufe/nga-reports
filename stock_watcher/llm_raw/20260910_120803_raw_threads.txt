@@ -1,0 +1,497 @@
+[
+  {
+    "index": 1,
+    "summary": "散户盈利依赖市场流动性，流动性差时易被套，强调空仓重要性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "散户赚钱看市场流动性和赚钱效应。",
+      "流动性差时买啥都被套。",
+      "空仓很重要。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论中国粮食和白糖净进口，但股价与产业可能脱节，涉及农业炒作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中国粮食净进口，主要进口大豆。",
+      "白糖进口依赖高。",
+      "股价与产业混为一谈。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "银行今年涨幅有限，只有3-4个点，但坑里买入可能大赚。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银行涨幅看起来多，实际只有3-4个点。",
+      "从2022年开始涨，坑里买的话大赚。",
+      "用ETF投资银行，收益保守。"
+    ],
+    "mentioned_stocks": ["银行板块", "ETF", "中信银行", "南京银行"]
+  },
+  {
+    "index": 4,
+    "summary": "银行走强而其他股票跌，讨论原因可能为拉大盘、保指数。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "银行走强是为了拉大盘、保指数。",
+      "其他股票跌，持仓一片绿。",
+      "可能为了面子或政策原因。"
+    ],
+    "mentioned_stocks": ["银行", "南京银行"]
+  },
+  {
+    "index": 5,
+    "summary": "使用AI选股，聚焦强势板块，底部抬升均线粘合，选出明阳电路。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "AI选股适合胆子大的，追涨杀跌。",
+      "市值要小，超过800亿pass。",
+      "选出明阳电路，今天涨得不错。"
+    ],
+    "mentioned_stocks": ["明阳电路"]
+  },
+  {
+    "index": 6,
+    "summary": "青龙管业主力行为搞笑，反复拉砸，期待厄尔尼诺行情。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "主力筹码还没吸够，天天上串下跳。",
+      "厄尔尼诺和六张网消息面硬，短期炒厄尔尼诺。",
+      "等翻倍，跨年行情。"
+    ],
+    "mentioned_stocks": ["青龙管业"]
+  },
+  {
+    "index": 7,
+    "summary": "批评苹果产品设计，失去引领潮流感，折叠屏设计丑陋。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "苹果失去引领潮流的感觉。",
+      "折叠屏设计丑。",
+      "苹果在软硬件上丧失领先，只剩UI设计。"
+    ],
+    "mentioned_stocks": ["苹果"]
+  },
+  {
+    "index": 8,
+    "summary": "收益归零但跑赢98%投资者，解释收益计算基于前一日。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "收益归零，但跑赢98%。",
+      "华泰的乐友计算基于t-1日收益率。",
+      "本月收益低但跑赢大盘。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论是否割科技转农业或银行，科技板块跌，农业可能买点。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技板块跌，农业板块可能买点。",
+      "互相嘲讽，但科技也不怎么样。",
+      "昨天割科技去银行。"
+    ],
+    "mentioned_stocks": ["科技板块", "农业板块", "银行"]
+  },
+  {
+    "index": 10,
+    "summary": "AI分析龙头股头头是道，量化已研究透龙头战法。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI分析龙头股头头是道。",
+      "量化已经研究透龙头战法。",
+      "AI短线策略在做平铺。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "存储板块横盘震荡，期待美光上涨，前排哀嚎。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "存储板块横盘震荡。",
+      "期待美光发起进攻。",
+      "前排哀嚎。"
+    ],
+    "mentioned_stocks": ["存储板块", "美光"]
+  },
+  {
+    "index": 12,
+    "summary": "重仓果链折叠屏概念但暴跌，利好落地后下跌正常。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "果链暴跌，利好落地跌正常。",
+      "买了宜安科技。",
+      "歌尔等苹果概念股下跌。"
+    ],
+    "mentioned_stocks": ["果链", "宜安科技", "歌尔股份"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论东鹏饮料投资价值，PE低股息率高，但机构看空增长。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "东鹏PE低，股息率高。",
+      "机构看空，增长可能放缓。",
+      "买点可能在120以下。"
+    ],
+    "mentioned_stocks": ["东鹏饮料", "泉阳泉", "伊利"]
+  },
+  {
+    "index": 14,
+    "summary": "早上鹏鼎和赵姨拉高没跑，贪心导致战败。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "鹏鼎和赵姨拉高没跑。",
+      "贪心导致战败。",
+      "希望下午再拉。"
+    ],
+    "mentioned_stocks": ["鹏鼎", "赵姨"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论完美世界投资机会，套牢盘多，适合做T或观察。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "完美世界有吸引力但需谨慎。",
+      "套牢盘多，难上去。",
+      "做T神股，观察或小仓位。"
+    ],
+    "mentioned_stocks": ["完美世界", "巨人网络"]
+  },
+  {
+    "index": 16,
+    "summary": "想买有色板块，看油和黄金，等CPI结果再决定。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "有色看油和黄金。",
+      "紫金矿业等。",
+      "等CPI结果再决定。"
+    ],
+    "mentioned_stocks": ["有色板块", "紫金矿业", "ETF"]
+  },
+  {
+    "index": 17,
+    "summary": "亏得比昨天少但本金变少，自嘲亏得越多亏得越少。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏得少是因为本金少了。",
+      "亏得越多，亏得越少。",
+      "坏消息是本金变少。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "否认韩国因子存在，坚持逻辑，呼吁牛回速归。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "没有韩国因子，逻辑坚持。",
+      "呼吁牛回速归。",
+      "来回切换亏得多。"
+    ],
+    "mentioned_stocks": ["龙版传媒"]
+  },
+  {
+    "index": 19,
+    "summary": "通过医药和农业填坑成功，强调跟随赚钱效应。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "转换板块到农业医药填坑。",
+      "哪里有赚钱效应去哪里。",
+      "不死磕科技。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "抱怨银行频繁拉升而证券不涨，银行分红有收益。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "银行频繁拉升，证券不涨。",
+      "埋伏证券的人多。",
+      "银行分红有收益。"
+    ],
+    "mentioned_stocks": ["银行", "证券", "中信证券"]
+  },
+  {
+    "index": 21,
+    "summary": "科技涨但其他跌，银行拉指数，量化在做波段。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技红了，其他绿了。",
+      "银行拉，科技吸血。",
+      "量化在做波段。"
+    ],
+    "mentioned_stocks": ["科技板块", "银行板块"]
+  },
+  {
+    "index": 22,
+    "summary": "紫光国微持续下跌，发增发公告，投资者痛苦但有人抄底。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "紫光国微在跌，发增发公告。",
+      "有抄底的，但风险大。",
+      "逻辑没问题，等定增落地。"
+    ],
+    "mentioned_stocks": ["紫光国微"]
+  },
+  {
+    "index": 23,
+    "summary": "盘面恶心，开门红后阴跌，多看反胃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "今天要跌，但方式恶心。",
+      "开门红后阴跌。",
+      "多看反胃。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "用AI设计末日时钟指标预警AI泡沫，但质疑AI预测能力。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用AI设计末日时钟指标。",
+      "AI可能无法预测混沌系统。",
+      "好奇成本和结果。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "科技普跌时跌最少，但海外科技强于国产。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技跌最少，坚持科技。",
+      "海外链真科技，国产链路边一条。",
+      "7月跌多，可能再跌。"
+    ],
+    "mentioned_stocks": ["科技板块", "半导体"]
+  },
+  {
+    "index": 26,
+    "summary": "宝鼎科技涨停，中钨回本，但走势类似。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "宝鼎科技涨停或回封。",
+      "纪念发车，但不建议B。",
+      "走势像中钨。"
+    ],
+    "mentioned_stocks": ["宝鼎科技", "中钨"]
+  },
+  {
+    "index": 27,
+    "summary": "询问航运港口板块哪个更好，南京港两板，上港长期持有。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "南京港两板，哪个更好。",
+      "上港集团长期持有。",
+      "601919（招商港口？）。"
+    ],
+    "mentioned_stocks": ["航运港口板块", "南京港", "上港集团", "601919"]
+  },
+  {
+    "index": 28,
+    "summary": "农业粮食从不信到追涨，提醒高位追易成韭菜。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "低位不信，高位追是韭菜行为。",
+      "农业是主线，看天老爷脸色。",
+      "炒作没业绩支撑，易套牢。"
+    ],
+    "mentioned_stocks": ["农业粮食板块", "米业"]
+  },
+  {
+    "index": 29,
+    "summary": "社保基金年化收益率7.64%，散户难达到，因资金和信息优势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "社保基金年化7.64%，优势在资金和内幕。",
+      "散户难做到。",
+      "巴菲特更厉害。"
+    ],
+    "mentioned_stocks": ["社保基金", "社保重仓股"]
+  },
+  {
+    "index": 30,
+    "summary": "紫金矿业未回本，转投中国船舶后回本，建议不忠诚于单一股票。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "紫金矿业忠诚但没回本。",
+      "中国船舶造船订单爆了，变盘在即。",
+      "不要太忠诚，换个股票回本。"
+    ],
+    "mentioned_stocks": ["紫金矿业", "中国船舶"]
+  },
+  {
+    "index": 31,
+    "summary": "抱怨大A科技股弱于海外，国产链像电子厂。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大A科技股弱于海外。",
+      "国产链是电子厂。",
+      "海外反复新高，国内高开低走。"
+    ],
+    "mentioned_stocks": ["闪迪", "海力士", "国产科技股"]
+  },
+  {
+    "index": 32,
+    "summary": "完美世界领跌，可能有利空，董事长减持。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "完美世界领跌，可能有利空。",
+      "董事长减持，散户不买。",
+      "游戏板块回调。"
+    ],
+    "mentioned_stocks": ["完美世界", "游戏板块"]
+  },
+  {
+    "index": 33,
+    "summary": "恒生科技ETF快前低，位置低但PE可能更贵。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "恒生科技ETF快前低了。",
+      "位置低，下跌空间不大。",
+      "但PE可能更贵。"
+    ],
+    "mentioned_stocks": ["恒生科技指数ETF"]
+  },
+  {
+    "index": 34,
+    "summary": "上汽集团PE低PB破净，央国企折价严重，整车行业差。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上汽PE12，PB破0.4。",
+      "央国企折价严重。",
+      "整车是大粪坑。"
+    ],
+    "mentioned_stocks": ["上汽集团", "长安汽车"]
+  },
+  {
+    "index": 35,
+    "summary": "首次覆盖欣旺达估值800亿，但质疑动力电池口碑和储能前景。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "欣旺达市销率低，低估。",
+      "动力电池口碑差，估值逻辑弱。",
+      "储能可能像光伏。"
+    ],
+    "mentioned_stocks": ["欣旺达", "宁德时代"]
+  },
+  {
+    "index": 36,
+    "summary": "今天大A比日韩硬，但银行拉指数掩盖多数股票跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上证硬，但4000+跌。",
+      "银行拉指数。",
+      "前几天没涨。"
+    ],
+    "mentioned_stocks": ["大A指数", "日韩指数"]
+  },
+  {
+    "index": 37,
+    "summary": "玩笑式找到盘面差原因是克明食品。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "找到盘面差的原因。",
+      "指克明食品。",
+      "笑话性质。"
+    ],
+    "mentioned_stocks": ["克明食品"]
+  },
+  {
+    "index": 38,
+    "summary": "操作分享，买了香农芯创和大港股份，错失机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "错失跑路机会。",
+      "买了香农芯创和大港股份。",
+      "谨慎跟车。"
+    ],
+    "mentioned_stocks": ["香农芯创", "大港股份", "中水渔业", "红太阳"]
+  },
+  {
+    "index": 39,
+    "summary": "质疑宇树股价越买越低，基金买入坑穷基民。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "宇树股价越买越低。",
+      "基金在买，坑穷基民。",
+      "找不到买点。"
+    ],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 40,
+    "summary": "春晖智控大额卖单瞬间跌停，质疑价格笼子和量化操作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大额卖单瞬间跌停。",
+      "质疑价格笼子。",
+      "量化程序可能绕过限制。"
+    ],
+    "mentioned_stocks": ["春晖智控"]
+  },
+  {
+    "index": 41,
+    "summary": "分享经验，科技股高开是降低成本机会，低开才是好科技。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股高开是降低成本的机会。",
+      "低开的科技才是好科技。",
+      "震荡期难预判。"
+    ],
+    "mentioned_stocks": ["科技板块", "半导体"]
+  },
+  {
+    "index": 42,
+    "summary": "没啥好买，有色煤炭已涨，科技不敢进，只能逆回购。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "有色煤炭拉上来，科技不敢进。",
+      "只能逆回购。",
+      "活跃资金抱团，散户玩不过。"
+    ],
+    "mentioned_stocks": ["有色煤炭板块", "中概股"]
+  },
+  {
+    "index": 43,
+    "summary": "推荐安迪苏作为周期反转股，蛋氨酸细分龙头，目标价12+。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "安迪苏是周期股，持股时间长。",
+      "蛋氨酸细分龙头，有技术壁垒。",
+      "周期反转，目标价12+。"
+    ],
+    "mentioned_stocks": ["安迪苏"]
+  },
+  {
+    "index": 44,
+    "summary": "PCB中游制造可能因拉货起飞，但部分业绩MISS。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "PCB需要提前拉货，三季报业绩体现。",
+      "PCB硬，但有的业绩MISS。",
+      "加息或是建仓时机。"
+    ],
+    "mentioned_stocks": ["PCB板块", "沪电股份", "护垫"]
+  },
+  {
+    "index": 45,
+    "summary": "海南橡胶弱转强，农业行情主线，有人讨论卖出时机。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "海南橡胶从-7干到+3，弱转强。",
+      "农业行情主线。",
+      "有帖子知道明天卖不卖。"
+    ],
+    "mentioned_stocks": ["海南橡胶", "中粮糖业"]
+  }
+]
