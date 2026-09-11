@@ -1,0 +1,345 @@
+[
+    {
+        "index": 1,
+        "summary": "FCC规则落地引发对光模块板块的讨论，焦点是规则是否利好以及对相关公司的具体影响。",
+        "sentiment": "mixed",
+        "key_opinions": ["利好已交易，落地无新利空", "名单中无‘易中天’是利好信号", "华为中兴本就被禁，新规影响有限"],
+        "mentioned_stocks": ["易中天（新易盛、中际旭创等）", "中兴通讯", "华为", "老馒头（美股相关公司）"]
+    },
+    {
+        "index": 2,
+        "summary": "讨论两年期美债收益率创历史新高（4.5982%），质疑其偏离程度是否罕见。",
+        "sentiment": "negative",
+        "key_opinions": ["美债收益率达到历史高位", "询问历史上是否有类似高偏离情况"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 3,
+        "summary": "农业股‘中糖’跌停，讨论前期热门板块的快速回调与情绪博弈。",
+        "sentiment": "negative",
+        "key_opinions": ["‘大热必死’，情绪资金博弈", "‘龙头首阴’，但跌幅过深", "监管或政策干预导致回调"],
+        "mentioned_stocks": ["中糖"]
+    },
+    {
+        "index": 4,
+        "summary": "讨论美国对伊朗行动带来的通胀风险及对中期选举的潜在影响，观点聚焦于个人得失。",
+        "sentiment": "negative",
+        "key_opinions": ["通胀上升，共和党可能失去国会控制权", "川普个人及其家族可能获利", "其自大性格不会后悔，只会怪他人"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 5,
+        "summary": "日本和韩国股市大幅低开，引发对A股开盘及后续走势的悲观预期。",
+        "sentiment": "negative",
+        "key_opinions": ["日韩股市跌幅大，担忧A股跟跌", "科创50可能大幅低开", "期望低开高走或汪汪队救场"],
+        "mentioned_stocks": ["科创50"]
+    },
+    {
+        "index": 6,
+        "summary": "展望巴西ETF投资机会，基于其大选民调变化及政策预期。",
+        "sentiment": "positive",
+        "key_opinions": ["小博尔索纳罗民调反超，可能当选", "其政策更利好投资与税收优惠", "已加入自选，准备随时买入"],
+        "mentioned_stocks": ["巴西ETF"]
+    },
+    {
+        "index": 7,
+        "summary": "调侃一则关于投资亏损的图片，幽默地认为亏损可能伴随投资者终生。",
+        "sentiment": "mixed",
+        "key_opinions": ["‘这辈子可能解套无望’", "‘投资大师也被套’", "‘传家’式套牢的自嘲"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 8,
+        "summary": "用户分享个人深套经历，通过图片展示极端亏损，并讨论小盘股风险。",
+        "sentiment": "negative",
+        "key_opinions": ["经历‘极限’亏损", "小盘股风险巨大，‘一脚踢死’", "创新药行情与个股无关"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 9,
+        "summary": "探讨中概互联/恒科指数持续下跌的原因，观点多元包括未抓住AI、外资撤离等。",
+        "sentiment": "negative",
+        "key_opinions": ["未踩中AI硬件风口，沦为‘掏钱方’", "硬件对手盘（三星等）强大", "核心是外资撤离，‘金融遗址’"],
+        "mentioned_stocks": ["中概互联", "恒科互联", "阿里巴巴"]
+    },
+    {
+        "index": 10,
+        "summary": "微软计划将数据中心算力扩大两倍，被视为利好信号。",
+        "sentiment": "positive",
+        "key_opinions": ["微软扩大算力投资", "投资者回应‘加仓猛干’"],
+        "mentioned_stocks": ["微软"]
+    },
+    {
+        "index": 11,
+        "summary": "布油价格上涨至105美元，但国内石油股未跟随炒作，引发讨论。",
+        "sentiment": "negative",
+        "key_opinions": ["油价上涨但A股石油股不跟", "担心‘taco交易’（特朗普干预）导致油价暴跌", "大A有‘预判特性’，不敢追涨"],
+        "mentioned_stocks": ["石油股", "金牛化工", "原油LOF"]
+    },
+    {
+        "index": 12,
+        "summary": "以小说比喻韩国股市（KOSPI），讨论其受美债、油价等外部因素压制。",
+        "sentiment": "negative",
+        "key_opinions": ["韩国市场被外部因素（华尔街）击溃", "量化策略可能加入韩日美下跌因子"],
+        "mentioned_stocks": ["KOSPI"]
+    },
+    {
+        "index": 13,
+        "summary": "投资者在决定清仓前占卜，得到‘小畜’卦，意为‘密云不雨’，决定暂不清仓。",
+        "sentiment": "mixed",
+        "key_opinions": ["玄学（占卜）影响投资决策", "卦象解读为流动性补充迟迟未至", "调侃‘炒股还有玄学流派’"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 14,
+        "summary": "用户分享投资经历，长期持有紫金矿业亏损，转投中国船舶后迅速回本。",
+        "sentiment": "positive",
+        "key_opinions": ["对‘紫金大小姐’忠诚但亏损", "无意中买入‘野花’中国船舶后盈利", "感慨市场资金锚定逻辑奇怪"],
+        "mentioned_stocks": ["紫金矿业", "中国船舶"]
+    },
+    {
+        "index": 15,
+        "summary": "存储股投资者的日常哀嚎与等待，内容多为情绪抒发。",
+        "sentiment": "negative",
+        "key_opinions": ["存储股（国存）仍在横盘震荡", "‘前排哀嚎’，市场情绪低迷", "寄希望于美光海力士股价走强"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 16,
+        "summary": "讨论石油股上涨背景下，哪些板块可能相对抗跌或受益。",
+        "sentiment": "negative",
+        "key_opinions": ["银行板块可能护盘", "油化煤、电力煤炭板块可能受益", "‘救救石油’，期待轮动"],
+        "mentioned_stocks": ["银行股", "大唐发电"]
+    },
+    {
+        "index": 17,
+        "summary": "讨论股市低迷与消费疲软的关系，引用教授观点认为股市财富效应影响消费。",
+        "sentiment": "negative",
+        "key_opinions": ["股市财富效应影响消费能力", "投资A股本身成为一种‘消费’行为", "对改善现状的呼声感到无力"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 18,
+        "summary": "日本股市跌幅大于韩国股市，讨论原因可能与加息预期和行业结构有关。",
+        "sentiment": "negative",
+        "key_opinions": ["日经指数下跌可能与加息预期有关", "‘小日子被捏着蛋呢’（受制于人）", "韩国半导体对油价不敏感，故跌幅较小"],
+        "mentioned_stocks": ["日经指数", "韩指"]
+    },
+    {
+        "index": 19,
+        "summary": "对未来五年市场的预感，认为将奠定后续二十年的格局，讨论较为悲观。",
+        "sentiment": "negative",
+        "key_opinions": ["A股本质是融资市场，别抱幻想", "产业发展与二级市场股价是两码事", "IPO和解禁压力让股民‘苦一苦’"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 20,
+        "summary": "询问是否有投资者在A股坚持价值投资，讨论结果普遍悲观。",
+        "sentiment": "negative",
+        "key_opinions": ["A股没有真正的价值投资", "‘万年三千点’不如存银行", "银行股吃息是相对可行的策略"],
+        "mentioned_stocks": ["标普500", "A股银行"]
+    },
+    {
+        "index": 21,
+        "summary": "质疑A股小盘科技股估值普遍过高，即使熊市也难以出现便宜价格。",
+        "sentiment": "negative",
+        "key_opinions": ["大A小盘科技股普遍高估", "‘大熊市也杀不出捡漏的价格’", "板块上涨靠龙头，但涨得最好的常是跟风小盘股"],
+        "mentioned_stocks": ["沪硅", "南大光电", "中芯", "长鑫", "长江"]
+    },
+    {
+        "index": 22,
+        "summary": "分析美联储加息对海外AI板块的影响，认为一次加息不会摧毁行业基本面，反是抄底机会。",
+        "sentiment": "mixed",
+        "key_opinions": ["2026年极大概率只加一次息", "一次25bp加息不影响高景气行业基本面", "计划在9月加息后加仓创新药、AI硬件、黄金"],
+        "mentioned_stocks": ["创新药", "AI硬件", "黄金", "JNJ", "LLY", "科磊", "SOX", "海力士", "光模块"]
+    },
+    {
+        "index": 23,
+        "summary": "提示危机信号，美债收益率飙升逼近5%，布油突破109美元。",
+        "sentiment": "negative",
+        "key_opinions": ["美国十年期美债收益率飙升至4.967%", "布油突破109美元", "突破5%可能是全球性危机的开端"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 24,
+        "summary": "垃圾广告帖，内容为低俗约炮信息，与股市无关。",
+        "sentiment": "neutral",
+        "key_opinions": ["约完会说分手的低俗广告"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 25,
+        "summary": "讨论美股可能V型反转，特别是光模块相关个股表现强势。",
+        "sentiment": "mixed",
+        "key_opinions": ["希望美股‘振作起来’", "光模块美股表现强势", "大跌后出现恐慌盘才是好机会"],
+        "mentioned_stocks": ["光模块", "老馒头（疑似美股公司）", "英伟达"]
+    },
+    {
+        "index": 26,
+        "summary": "描述A股市场危如累卵的现状，行情死水一潭，全依赖外部数据驱动。",
+        "sentiment": "negative",
+        "key_opinions": ["行情无聊，都在等美国数据", "全靠日韩美市场带动，‘量化多头都死光了’", "市场陷入‘炒小炒差’的击鼓传花"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 27,
+        "summary": "讨论紫金矿业股价下跌时的‘接盘’策略，认为可反复做T。",
+        "sentiment": "neutral",
+        "key_opinions": ["股价下跌时可分批‘接盘’", "30、28、25元阶梯式接盘", "在紫金身上做T成功率较高"],
+        "mentioned_stocks": ["紫金矿业"]
+    },
+    {
+        "index": 28,
+        "summary": "认为当前美股下跌相比7月只是小场面，但期待出现更剧烈的恐慌盘以创造机会。",
+        "sentiment": "mixed",
+        "key_opinions": ["当前下跌只是‘小分歧’", "希望出现‘暴力的恐慌盘’", "‘缩量是最难玩的’"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 29,
+        "summary": "抱怨科技股持有体验差，涨时没跟跌时加倍，考虑换仓到农业股避风头。",
+        "sentiment": "negative",
+        "key_opinions": ["科技股‘涨没跟，跌双倍’", "市场体验‘真难受’", "计划去‘猪猪’（农业股）里避风头"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 30,
+        "summary": "讨论美联储加息对中国经济实际影响可能不大，但对A股情绪冲击巨大。",
+        "sentiment": "mixed",
+        "key_opinions": ["对实体经济影响可能有限", "但A股‘敏感肌’会‘吓尿’", "连续加息可能导致资本外流和输入性通胀"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 31,
+        "summary": "知名投资者‘Sai’分享近期操作与持仓，感叹市场难做，清仓部分股票并调仓。",
+        "sentiment": "mixed",
+        "key_opinions": ["市场‘让人生无可恋’", "清仓‘蛆’（某股票），追高‘新易盛’", "科创板弱势与‘沐曦、摩尔、宇树’三家公司下跌有关"],
+        "mentioned_stocks": ["大哥", "三弟", "蛆", "新易盛", "源杰", "中国巨石", "沐曦", "摩尔", "宇树", "科创50", "通信ETF"]
+    },
+    {
+        "index": 32,
+        "summary": "解读FCC新规，认为其旨在封堵‘组件规避’漏洞，但光模块公司未被直接针对。",
+        "sentiment": "mixed",
+        "key_opinions": ["新规封堵‘组件规避’漏洞", "光模块（如易中天）目前未被直接制裁", "本意是迫使使用美国部件，禁用自研"],
+        "mentioned_stocks": ["光模块", "易中（新易盛、中际旭创）"]
+    },
+    {
+        "index": 33,
+        "summary": "系统性讨论有色金属板块，认为已进入景气阶段，列出关注子板块和个股。",
+        "sentiment": "positive",
+        "key_opinions": ["有色金属处于周期景气阶段，有价值投资机会", "个人关注铜、铝、锡等品种", "锡业股份适合做波段，短期看40元"],
+        "mentioned_stocks": ["紫金矿业", "西部矿业", "江西铜业", "铜陵有色", "中国宏桥", "宏桥控股", "云铝股份", "神火股份", "锡业股份", "华锡有色", "宝武镁业", "湖南黄金", "贵研铂业", "金瑞矿业", "中矿资源"]
+    },
+    {
+        "index": 34,
+        "summary": "对第二天市场开盘表示极度悲观，预期会有大跌，用‘麻袋装人/尸体’形容。",
+        "sentiment": "negative",
+        "key_opinions": ["‘有色人先死一个’", "科技股已清仓，期待‘爆的’机会接回", "盘前‘没活口’，预期极度悲观"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 35,
+        "summary": "确认FCC新规正式落地，明确禁用名单是华为和中兴，对光模块公司是利好。",
+        "sentiment": "positive",
+        "key_opinions": ["新规落地，禁用名单是华为中兴", "光模块公司（新易盛等）作为替代品‘逃过一劫’", "中兴华为本就被禁，新规影响为零"],
+        "mentioned_stocks": ["华为", "中兴", "新易盛", "中际旭创"]
+    },
+    {
+        "index": 36,
+        "summary": "探讨用GPT-6研究AI泡沫预测，设计‘末日时钟’指标，实验正在进行中。",
+        "sentiment": "neutral",
+        "key_opinions": ["用AI研究历史上泡沫并设计崩盘概率指标", "AI计算混沌系统是巨大挑战", "实验耗时耗资，被调侃‘有钱任性’"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 37,
+        "summary": "机器人概念股‘宇树科技’股价跌至400多元，讨论其合理估值，普遍认为远未到底。",
+        "sentiment": "negative",
+        "key_opinions": ["股价‘就值40多’", "跌到100元才考虑买2手", "这类股票‘估值没锚点’，不能‘拿盆接’"],
+        "mentioned_stocks": ["宇树科技"]
+    },
+    {
+        "index": 38,
+        "summary": "通过实地调研讨论啤酒股现状，发现临期产品多、销售困难，看淡行业前景。",
+        "sentiment": "negative",
+        "key_opinions": ["实地调研发现啤酒不好卖，临期产品多", "行业整体‘消费不温不火’", "没有增长空间和提价能力，竞争激烈"],
+        "mentioned_stocks": ["燕京啤酒", "重庆啤酒", "青岛啤酒", "百威"]
+    },
+    {
+        "index": 39,
+        "summary": "布油涨至105美元，呼吁‘taco交易’（特朗普干预）来抑制油价，担忧通胀爆炸。",
+        "sentiment": "negative",
+        "key_opinions": ["布油105美元，通胀面临爆炸风险", "‘taco也变不出原油’，干预可能无效", "月末可能加息"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 40,
+        "summary": "发布FCC新规文件编号及简要说明，重申其核心是强制使用美国部件。",
+        "sentiment": "neutral",
+        "key_opinions": ["新规文件编号为FCC 26-50", "本意是必须使用美国部件，禁用自研"],
+        "mentioned_stocks": ["FCC 26-50"]
+    },
+    {
+        "index": 41,
+        "summary": "猜测‘中能电气’可能上涨，基于铜价、电力板块轮动及福建板块活跃等逻辑。",
+        "sentiment": "positive",
+        "key_opinions": ["铜价大跌可能降低其成本", "历史上紧跟华银电力涨停节奏", "福建板块有启动迹象"],
+        "mentioned_stocks": ["中能电气", "华银电力", "闽东电力"]
+    },
+    {
+        "index": 42,
+        "summary": "指出市场自4月以来持续处于‘加息叙事’中，散户难以跟随资金情绪变化。",
+        "sentiment": "negative",
+        "key_opinions": ["市场长期处于加息预期叙事中", "资金完全跟着情绪走，难以预判", "有色板块典型，到高点就因加息预期血崩"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 43,
+        "summary": "公布美国PPI数据符合预期，市场解读为美联储可能推迟至10月加息。",
+        "sentiment": "negative",
+        "key_opinions": ["美国8月PPI数据符合预期", "市场预计美联储10月加息", "预示‘明天银行保指数，4000+跌’"],
+        "mentioned_stocks": ["银行股", "石油股"]
+    },
+    {
+        "index": 44,
+        "summary": "比较美股海力士与美光、闪迪的走势差异，探讨可能原因。",
+        "sentiment": "negative",
+        "key_opinions": ["海力士走势强于美光、闪迪", "原因可能是流动性问题或空单压力", "韩国股市流动性不足，杠杆被磨损"],
+        "mentioned_stocks": ["海力士", "美光", "闪迪"]
+    },
+    {
+        "index": 45,
+        "summary": "提出反直觉观点：美股科技股在加息预期下反而成为防御板块，资金抱团。",
+        "sentiment": "mixed",
+        "key_opinions": ["加息预期下，AI硬科技成为‘防御板块’资金抱团", "但真加息当天仍是‘大逃杀’", "A股科技股并无此‘避险属性’"],
+        "mentioned_stocks": ["美股科技", "老馒头", "海力士"]
+    },
+    {
+        "index": 46,
+        "summary": "抱怨持有‘紫光集团’体验差，股价持续下跌，面临增发和利空压力。",
+        "sentiment": "negative",
+        "key_opinions": ["紫光股价持续下跌，‘疯狂挨打’", "公司发布增发公告", "感觉像‘三重底’，但有人继续加仓"],
+        "mentioned_stocks": ["紫光", "浪潮"]
+    },
+    {
+        "index": 47,
+        "summary": "讨论中东冲突持续背景下，是否可投资航运股（‘海狗’），看法谨慎。",
+        "sentiment": "neutral",
+        "key_opinions": ["中东冲突短时间难结束", "‘海狗’（航运股）虽套不死人，但当前进入时机需谨慎", "考虑能源化工ETF等替代选项"],
+        "mentioned_stocks": ["海狗（航运股）", "金牛化工", "能源化工ETF"]
+    },
+    {
+        "index": 48,
+        "summary": "观察到电力板块启动上涨，讨论调整是否结束及操作策略。",
+        "sentiment": "positive",
+        "key_opinions": ["电力板块终于‘磨完了’开始上涨", "‘股东牛逼’（提前预判）", "部分投资者选择先减仓止盈"],
+        "mentioned_stocks": ["大唐发电", "电力股", "思源"]
+    },
+    {
+        "index": 49,
+        "summary": "抱怨A股‘跟跌不跟涨’的顽疾，外围市场涨跌都会对A股产生负面影响。",
+        "sentiment": "negative",
+        "key_opinions": ["外围涨不带我们，外围跌却带我们", "‘跟跌不跟涨，十年来向来如此’", "正规市场（美股）已涨回来，A股未必"],
+        "mentioned_stocks": []
+    }
+]
