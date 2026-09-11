@@ -1,0 +1,338 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论下午是否可能V型反转，多数回复悲观，认为下跌可能继续。",
+    "sentiment": "negative",
+    "key_opinions": ["可能等待周末数据", "短期看CPI情绪", "V型反转可能性小"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "探讨避险市场跌得更狠的原因，批评A股表现差、利润低。",
+    "sentiment": "negative",
+    "key_opinions": ["A股利润低估值高", "龙头在海外市场", "避险市场反而更弱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论内蒙一机股票操作，抱怨庄家挂单撤单和持股体验差。",
+    "sentiment": "mixed",
+    "key_opinions": ["庄家恶心挂单撤单", "持股体验差费尿不湿", "有人吃涨停炫耀"],
+    "mentioned_stocks": ["内蒙一机"]
+  },
+  {
+    "index": 4,
+    "summary": "京东方是否该移出自选股，讨论其作为散户大本营和投资价值。",
+    "sentiment": "mixed",
+    "key_opinions": ["著名的散户大本营", "适合波段操作", "基本面过硬可长期投资"],
+    "mentioned_stocks": ["京东方"]
+  },
+  {
+    "index": 5,
+    "summary": "588170基金下跌情况，表达下跌痛苦并寻找市场底部。",
+    "sentiment": "negative",
+    "key_opinions": ["下跌严重求别打", "跌5个点不算多", "寻找市场底"],
+    "mentioned_stocks": ["588170"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论市场下跌极限位置，猜测底部如3000、3300、3500点。",
+    "sentiment": "negative",
+    "key_opinions": ["极限可能3000点", "受加息影响可能3500", "历史支撑位连线"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "中国大模型营收低的原因，对比中美模式，指出缺乏生态循环。",
+    "sentiment": "negative",
+    "key_opinions": ["美国生态循环完整", "中国只做C端B端难", "缺乏本土硬件支持"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "抱怨会议太多影响市场波动，像住在华尔街。",
+    "sentiment": "negative",
+    "key_opinions": ["会议频繁", "市场波动大", "像住在华尔街"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "A股今天下跌原因，讨论资金预判、筹码交换和风险释放。",
+    "sentiment": "negative",
+    "key_opinions": ["聪明资金预判风险", "筹码交换", "无增量资金性价比低"],
+    "mentioned_stocks": ["小纳", "棒子"]
+  },
+  {
+    "index": 10,
+    "summary": "提醒关注次新股机会，预测负面效应后可能出现炒次新热潮。",
+    "sentiment": "positive",
+    "key_opinions": ["负面效应后炒次新", "持续5-7天", "标记等待抄作业"],
+    "mentioned_stocks": ["沐熙"]
+  },
+  {
+    "index": 11,
+    "summary": "亏损退市当玩游戏，分享亏损经历并调侃。",
+    "sentiment": "mixed",
+    "key_opinions": ["亏损几千当手游", "炒股如游戏刺激", "知行合一"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "讨论特朗普打伊朗的政治经济影响，如通胀上升和选举风险。",
+    "sentiment": "negative",
+    "key_opinions": ["通胀上升选举受影响", "特朗普赚钱", "不会后悔自大狂"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "市场下跌言论谨慎，担心论坛可能被封或ST。",
+    "sentiment": "negative",
+    "key_opinions": ["害怕论坛被ST", "市场下跌无人维护", "言论需谨慎"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "下午走势对周一影响，表达决策困难和悲观情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["下午不收回周一低开", "左右为难不知跑不跑", "短期情绪悲观"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "中百集团股票操作，讨论利润42%后考虑减仓和关注国芳集团。",
+    "sentiment": "mixed",
+    "key_opinions": ["利润42%考虑减仓", "关注国芳集团走势", "板砸后找机会出"],
+    "mentioned_stocks": ["中百集团", "国芳集团"]
+  },
+  {
+    "index": 16,
+    "summary": "分享3个月40点收益，调侃科技亏损但运气好。",
+    "sentiment": "positive",
+    "key_opinions": ["40点收益", "科技亏损运气好", "晒收益有危险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "存储板块讨论，期待和哀嚎并存，依赖外部因素。",
+    "sentiment": "mixed",
+    "key_opinions": ["横盘震荡", "前排哀嚎占座", "依赖美国存储公司"],
+    "mentioned_stocks": ["国存", "美海蛎子"]
+  },
+  {
+    "index": 18,
+    "summary": "某队不救市，猜测下跌目标如3800或3700点。",
+    "sentiment": "negative",
+    "key_opinions": ["某队态度明确不救", "银行涨证券跌", "底部猜测3800或3700"],
+    "mentioned_stocks": ["银行", "证券"]
+  },
+  {
+    "index": 19,
+    "summary": "推荐安迪苏股票，周期股投资逻辑，目标价12+。",
+    "sentiment": "positive",
+    "key_opinions": ["周期股持股时间长", "蛋氨酸龙头", "目标价12+等8.5"],
+    "mentioned_stocks": ["安迪苏"]
+  },
+  {
+    "index": 20,
+    "summary": "抱怨一周市场难熬，9月比7月还惨。",
+    "sentiment": "negative",
+    "key_opinions": ["一周太难", "9月比7月惨", "情绪低落"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讽刺稳定力量只防涨不防跌，开会就跌。",
+    "sentiment": "negative",
+    "key_opinions": ["稳定下跌", "某队不托底", "开会就跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论有色金属板块投资机会，处于景气阶段。",
+    "sentiment": "positive",
+    "key_opinions": ["有色金属周期股", "景气阶段价值投资", "关注铜铝锡等"],
+    "mentioned_stocks": ["紫金矿业", "西部矿业", "江西铜业", "铜陵有色", "中国宏桥", "宏桥控股", "云铝股份", "神火股份", "锡业股份", "华锡有色", "宝武镁业", "湖南黄金", "贵研铂业", "中矿资源"]
+  },
+  {
+    "index": 23,
+    "summary": "抱怨市场只防涨不救跌，散户被收割。",
+    "sentiment": "negative",
+    "key_opinions": ["打压上涨不管下跌", "机构等机会砸盘", "散户是叛忍"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论SpaceX逆势上涨，质疑其高估值和市梦率。",
+    "sentiment": "mixed",
+    "key_opinions": ["SpaceX高估值市梦率", "马斯克效应", "加息应砸高估值"],
+    "mentioned_stocks": ["SpaceX"]
+  },
+  {
+    "index": 25,
+    "summary": "有色金属大跌，分享亏损并接回铝股。",
+    "sentiment": "negative",
+    "key_opinions": ["满仓亏损-8.5%", "白银跌狠", "接回铝股希望"],
+    "mentioned_stocks": ["白银", "紫金矿业", "铝股"]
+  },
+  {
+    "index": 26,
+    "summary": "回顾纳指基金关门事件，批评关门割韭菜。",
+    "sentiment": "negative",
+    "key_opinions": ["关门割散户", "额度相关", "正规市场更好"],
+    "mentioned_stocks": ["纳指基金"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论半导体板块前景悲观，业绩增速跟不上。",
+    "sentiment": "negative",
+    "key_opinions": ["半导体泡沫大", "业绩增速跟不上", "建议放弃半导体"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 28,
+    "summary": "询问标普油气ETF情况，支持T+0交易。",
+    "sentiment": "mixed",
+    "key_opinions": ["T+0交易", "中性询问"],
+    "mentioned_stocks": ["标普油气"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论是否有救市资金，放量可能是信号但量不够。",
+    "sentiment": "mixed",
+    "key_opinions": ["放量可能是救市", "量不够疑狗队", "短线操作"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "提醒风险因素如油价上涨，建议防御或空仓。",
+    "sentiment": "negative",
+    "key_opinions": ["油价上涨影响能源", "风险需防御", "空仓更好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "分享投资大师被套图片，调侃深套无法解套。",
+    "sentiment": "negative",
+    "key_opinions": ["深套无法解套", "传家", "投资大师也套"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "讨论韩国股市拉升，讽刺印度股市做空全球。",
+    "sentiment": "negative",
+    "key_opinions": ["思密达定时拉升", "印度股市做空全球", "市场异常"],
+    "mentioned_stocks": ["思密达"]
+  },
+  {
+    "index": 33,
+    "summary": "回忆924行情，认为是真金白银买出的政策底。",
+    "sentiment": "mixed",
+    "key_opinions": ["真金白银放水", "政策底", "人造牛市"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论美债和油价风险，准备应对全球危机。",
+    "sentiment": "negative",
+    "key_opinions": ["美债收益率飙升", "油价上涨", "全球危机开端"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "号召抄底跌停票，推荐紫金矿业跌7%机会。",
+    "sentiment": "positive",
+    "key_opinions": ["跌停好票抄底", "紫金矿业跌7%", "机会来了"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 36,
+    "summary": "询问中石油走势，抱怨横盘与石油期货涨势不符。",
+    "sentiment": "negative",
+    "key_opinions": ["中石油横盘一个月", "石油期货涨它不涨", "需上涨"],
+    "mentioned_stocks": ["中石油"]
+  },
+  {
+    "index": 37,
+    "summary": "分享红利股浙江沪杭甬，讨论分红逻辑和风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["高速公路股承诺分红", "股息率高", "需注意风险"],
+    "mentioned_stocks": ["浙江沪杭甬", "镇洋发展", "浙商证券"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论成交量放大，认为可能变盘向上，是抄底机会。",
+    "sentiment": "positive",
+    "key_opinions": ["量杀出来", "下周变盘向上", "抄底机会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "两天大跌后不知所措，选股困难。",
+    "sentiment": "negative",
+    "key_opinions": ["两天跌惨", "选股困难", "极左份子"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论7月科技强股，涉及胜宏科技和PCB龙头。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股泡沫", "胜宏科技表现", "光模块炒作"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 41,
+    "summary": "讽刺官方讲话无人信，市场下跌，基金新规出台。",
+    "sentiment": "negative",
+    "key_opinions": ["官方讲话表演", "基金新规", "市场不信"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "小时代板块可能被ST，调侃时代更替如微时代启动。",
+    "sentiment": "negative",
+    "key_opinions": ["小时代可能ST", "微时代启动", "流浪时代"],
+    "mentioned_stocks": ["小时代"]
+  },
+  {
+    "index": 43,
+    "summary": "将A股大跌比作911，引发争议性言论。",
+    "sentiment": "negative",
+    "key_opinions": ["A股大跌如911", "招魂美跌", "飞机撞三件套"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "质疑3850点是铁底，预测继续下跌受加息影响。",
+    "sentiment": "negative",
+    "key_opinions": ["铁底被击穿", "后面有加息", "银行拉盘骗炮"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "引用诗句讨论指数会涨但人生短暂，诗意悲观。",
+    "sentiment": "mixed",
+    "key_opinions": ["指数会涨上去", "人无再少年", "喝酒不管投资"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "讨论牛市风险忽略，指数在山顶，经济基础不支持牛。",
+    "sentiment": "negative",
+    "key_opinions": ["指数在山顶风险大", "经济基础不支持牛", "空仓赢多数"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "号召抄底，讨论分批操作和板块选择如证券被砸。",
+    "sentiment": "positive",
+    "key_opinions": ["最好筹码今天", "分批抄底", "证券被砸"],
+    "mentioned_stocks": ["证券"]
+  },
+  {
+    "index": 48,
+    "summary": "讨论谁在砸盘，油价飞涨和机构因素导致证券跌。",
+    "sentiment": "negative",
+    "key_opinions": ["油价飞涨影响", "机构砸盘", "证券跌"],
+    "mentioned_stocks": ["光", "证券"]
+  }
+]
