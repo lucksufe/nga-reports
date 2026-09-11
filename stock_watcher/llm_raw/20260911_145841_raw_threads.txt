@@ -1,0 +1,541 @@
+[
+  {
+    "index": 1,
+    "summary": "用户已买入通信ETF，放弃半导体国产替代，回复中提及半导体亏损割肉。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "半导体国产替代被质疑为吹牛。",
+      "转向投资通信ETF。",
+      "半导体投资亏损严重，达30-40%。"
+    ],
+    "mentioned_stocks": ["通信ETF", "半导体"]
+  },
+  {
+    "index": 2,
+    "summary": "市场意外V型反弹引发讨论，涉及CPI博弈和外部资金行为。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市场V型反弹令人惊讶。",
+      "CPI数据影响市场博弈。",
+      "外部资金（如韩爹）砸盘影响市场。"
+    ],
+    "mentioned_stocks": ["证券"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论科技股是否是绝对主线，多数回复认为牛市已结束。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技死=牛市结束。",
+      "牛市早已结束，市场下跌。",
+      "科技股走下跌趋势。"
+    ],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 4,
+    "summary": "腾讯理财通黄金价格异常插针，用户吓到，回复讨论故障或小盘子易波动。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黄金价格插针异常吓人。",
+      "可能是平台故障。",
+      "小盘子容易插针。"
+    ],
+    "mentioned_stocks": ["腾讯理财通黄金"]
+  },
+  {
+    "index": 5,
+    "summary": "大金重工技术分析建议上车，但回复中有等待回调或谨慎观点。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "技术形态建议上车。",
+      "等回调到-8%再入场。",
+      "谨慎入场，可能未跌完。"
+    ],
+    "mentioned_stocks": ["大金重工"]
+  },
+  {
+    "index": 6,
+    "summary": "宝丰能源下跌，讨论是否预判中东缓和和油价下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "可能预判油价下跌。",
+      "缺乏资金做多，市场缺资金。",
+      "建议避免该股票。"
+    ],
+    "mentioned_stocks": ["宝丰能源"]
+  },
+  {
+    "index": 7,
+    "summary": "存储股讨论，内容空泛，以占座和哀嚎为主。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "存储股横盘震荡。",
+      "等待新高机会。",
+      "回复多为占座，情绪低落。"
+    ],
+    "mentioned_stocks": ["存储"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论股市亏钱去向，认为被蒸发、化债或少数人提走。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "钱被蒸发或化债。",
+      "被大股东、汪汪队、外资提走。",
+      "散户被抽血。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "用户认为下周跌是机会，回复讨论加息预期和市场定价。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "下周跌是买入机会。",
+      "加息影响市场定价。",
+      "市场可能已部分定价加息。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "欣旺达逆大盘上涨，用户认为可买点，回复有买入和浮盈。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "连续拉起，可考虑买入。",
+      "主力进场信号明显。",
+      "浮盈情况良好。"
+    ],
+    "mentioned_stocks": ["欣旺达"]
+  },
+  {
+    "index": 11,
+    "summary": "招商黄金手续费高，回复建议用场内ETF或比较其他平台。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "手续费5元/克可能偏高。",
+      "频繁交易建议用场内ETF。",
+      "积存金手续费高。"
+    ],
+    "mentioned_stocks": ["招商黄金", "黄金ETF"]
+  },
+  {
+    "index": 12,
+    "summary": "用户觉得买什么都下不去手，市场像赌博，回复表达被套和恐惧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "买什么都觉得贵。",
+      "市场像赌博，买大买小。",
+      "建议空仓或等待。"
+    ],
+    "mentioned_stocks": ["黄金ETF", "比亚迪", "紫金", "科创50ETF", "平安"]
+  },
+  {
+    "index": 13,
+    "summary": "用户预测市场走势，回复中讨论日本加息影响方向。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "预测指数走势为3850附近。",
+      "等待日本加息决定方向。",
+      "日本加息影响全球市场。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "海外链科技股反弹强劲，回复讨论资金抱团和确定收益。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "海外链科技股反弹。",
+      "资金可能抱团科技。",
+      "海外链有确定订单和收益。"
+    ],
+    "mentioned_stocks": ["海外链科技股", "国产链"]
+  },
+  {
+    "index": 15,
+    "summary": "宝鼎科技涨停可能回封，但回复提示风险并对比中钨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "可能回封涨停。",
+      "不建议盲目跟车。",
+      "走势与中钨相似。"
+    ],
+    "mentioned_stocks": ["宝鼎科技", "中钨"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论国家队是否兜底市场下跌，回复认为可能不兜底。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国家队可能不兜底。",
+      "历史兜底在3800点。",
+      "资金只出货不买入。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "用户想出手黄金股，回复讨论加息影响并建议买黄金ETF。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "加息可能利空黄金。",
+      "预期不加息则买入黄金股。",
+      "建议买黄金ETF而非黄金股。"
+    ],
+    "mentioned_stocks": ["黄金股", "黄金ETF", "紫金黄金国际"]
+  },
+  {
+    "index": 18,
+    "summary": "用户减仓后市场反弹，想追回，回复建议冷静避免吃亏。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "减仓后反弹，想追回。",
+      "建议不要追，避免吃两次亏。",
+      "下周可能有机会。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "用户低点加仓ETF和股票，担心下周一走势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "加仓了588170等资产。",
+      "成本已做到0.92。",
+      "担心下周一继续下跌。"
+    ],
+    "mentioned_stocks": ["588170", "大唐", "光模块"]
+  },
+  {
+    "index": 20,
+    "summary": "有色金属板块投资机会讨论，列出多个关注股票。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "有色金属是周期股，有投资价值。",
+      "具体列出铜、铝、锡等股票。",
+      "黄金股难玩，更关注黄金本身。"
+    ],
+    "mentioned_stocks": ["紫金矿业", "西部矿业", "江西铜业", "铜陵有色", "中国宏桥", "宏桥控股", "云铝股份", "神火股份", "锡业股份", "华锡有色", "宝武镁业", "湖南黄金", "贵研铂业"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论上海微电子作为卡脖子核心的上市可能。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上海微电子是卡脖子核心。",
+      "可能快上市了。",
+      "如果光刻机做出来不缺钱。"
+    ],
+    "mentioned_stocks": ["上海微电子"]
+  },
+  {
+    "index": 22,
+    "summary": "用家暴比喻市场下跌，讨论应对方式如清仓或忍受。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "比喻市场下跌如家暴。",
+      "选择离婚（清仓）或忍受。",
+      "市场可能继续下跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "用户担心指数收3888.88点，回复讨论可能收3900点。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能收3888.88点。",
+      "可能收3900点。",
+      "消息推送影响收盘。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "证券板块表现低迷死寂，回复讨论出货和抄底机会。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "证券板块死寂无波澜。",
+      "可能出货，没有买入。",
+      "等待反攻时机抄底。"
+    ],
+    "mentioned_stocks": ["证券", "中信"]
+  },
+  {
+    "index": 25,
+    "summary": "MLCC行业动态，涨价趋势和龙头股受益。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "MLCC涨价趋势。",
+      "三环集团受惠。",
+      "趋势抬头，可关注反弹。"
+    ],
+    "mentioned_stocks": ["三环集团", "风华高科"]
+  },
+  {
+    "index": 26,
+    "summary": "市场下跌后捡筹码机会，但回复提醒风险需谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "下跌后捡筹码好机会。",
+      "需小心下周一风险。",
+      "建议先进底仓，慢慢捡。"
+    ],
+    "mentioned_stocks": ["绊倒体", "银行"]
+  },
+  {
+    "index": 27,
+    "summary": "赤峰黄金老庄预判行为异常，回复讨论黄金股表现。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "赤峰黄金老庄预判。",
+      "今年黄金股涨得好。",
+      "黄金重回4400点。"
+    ],
+    "mentioned_stocks": ["赤峰黄金"]
+  },
+  {
+    "index": 28,
+    "summary": "用户操作失误卖科技买银行，感觉侮辱性强，回复建议不要水下卖。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "上午卖科技买银行，下午反弹。",
+      "永远不要水下卖股票。",
+      "银行股涨幅小。"
+    ],
+    "mentioned_stocks": ["科技", "银行", "生益"]
+  },
+  {
+    "index": 29,
+    "summary": "紫光集团持续下跌，用户担忧，回复讨论利空和抄底风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "紫光集团持续下跌。",
+      "有利空消息影响。",
+      "有人抄底但风险高。"
+    ],
+    "mentioned_stocks": ["紫光集团"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论美股科技不怕加息，但大A科技无避险属性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股科技成防御板块。",
+      "加息可能大利空。",
+      "大A科技无避险属性。"
+    ],
+    "mentioned_stocks": ["美股科技", "老馒头"]
+  },
+  {
+    "index": 31,
+    "summary": "用户减仓止损，感谢主力机会，回复暗示卖出后市场会涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "用户减仓止损。",
+      "主力给机会减仓。",
+      "回复暗示用户卖了市场就会涨。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "同花顺评论区氛围像过去牛市，用户感觉怀旧或讽刺。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "评论区像过去牛市氛围。",
+      "可能暗示市场情绪变化。",
+      "梦回二季度时代感。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "日韩交易员行为讨论，可能拿到内部信息，回复调侃。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "日韩交易员可能拿到内部信息。",
+      "跟风行为普遍。",
+      "赤峰黄金被拉红。"
+    ],
+    "mentioned_stocks": ["赤峰黄金"]
+  },
+  {
+    "index": 34,
+    "summary": "广发纳斯达克100基金限额2元，用户愤怒，建议买场内或其他。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "基金限额2元太低恶心人。",
+      "额度可能分到其他基金。",
+      "建议买场内或一揽子基金。"
+    ],
+    "mentioned_stocks": ["广发纳斯达克100", "广发全球精选"]
+  },
+  {
+    "index": 35,
+    "summary": "用户不卖广发纳斯达克基金，寻求其他推荐。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "不卖广发纳斯达克基金。",
+      "寻求其他基金推荐。",
+      "建议买场内基金。"
+    ],
+    "mentioned_stocks": ["广发纳斯达克"]
+  },
+  {
+    "index": 36,
+    "summary": "市场下午V型反弹，股票如生益、东山拉红。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "市场V型反弹。",
+      "生益、东山股票拉红。",
+      "反转惊喜。"
+    ],
+    "mentioned_stocks": ["生益", "东山"]
+  },
+  {
+    "index": 37,
+    "summary": "指数上涨但个股下跌多，回复中有色反弹但整体疲软。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "指数上涨但4500家下跌。",
+      "有色板块V型反弹。",
+      "无量干拉可能不可持续。"
+    ],
+    "mentioned_stocks": ["紫金", "有色"]
+  },
+  {
+    "index": 38,
+    "summary": "用户看不懂港股通成本，回复解释汇率保证金机制。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "港股通成本高因汇率保证金。",
+      "预扣部分，收盘退回。",
+      "日内T会成本变高。"
+    ],
+    "mentioned_stocks": ["剑桥H"]
+  },
+  {
+    "index": 39,
+    "summary": "推荐安迪苏周期反转，目标价12+，但持股时间长。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "安迪苏是周期股，目标价12+。",
+      "蛋氨酸业务有技术壁垒。",
+      "持股时间可能长达1-3年。"
+    ],
+    "mentioned_stocks": ["安迪苏"]
+  },
+  {
+    "index": 40,
+    "summary": "用户预测下午V起来后急转直下，市场表现差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "预测V起来后急转直下。",
+      "市场垃圾，参与难度高。",
+      "九月高端局，菜鸡难参与。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "讨论川子打伊朗对通胀和选举的影响，回复认为可能不后悔。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "打伊朗导致通胀上升。",
+      "川子可能不后悔，自大狂。",
+      "影响中期选举和媒体控制。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "用户推荐85的美的和86.5的比亚迪，但多数认为不便宜或下跌趋势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美的和比亚迪价格不错。",
+      "但多数认为不便宜，下跌趋势。",
+      "比亚迪下跌趋势更不用考虑。"
+    ],
+    "mentioned_stocks": ["美的", "比亚迪"]
+  },
+  {
+    "index": 43,
+    "summary": "用户退市亏几千，回复羡慕只亏这么多，股市像手游。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏几千退市。",
+      "羡慕只亏这么多。",
+      "股市像手游，刺激。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "用户问下午还有V的可能么，回复多数悲观，等下周数据。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "惨爆，幻想V。",
+      "可能性小，等下周数据。",
+      "今晚CPI风险大。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "用户抱怨股市相关会议太多，像华尔街。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "会议太多像华尔街。",
+      "刚消停两天又有会议。",
+      "用户厌烦。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "用户坚定看好AI产业，不怕高利率，类比中国房地产。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "AI火热，不怕高利率。",
+      "类比中国房地产增长。",
+      "增长快抵消融资成本。"
+    ],
+    "mentioned_stocks": ["AI产业"]
+  },
+  {
+    "index": 47,
+    "summary": "用户退市赚六千，换手机下波牛市再见。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "赚六千退市。",
+      "换手机接着舞。",
+      "下波牛市再见。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "用户说大盘放量，回复提醒风险如今晚CPI。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大盘放量反弹。",
+      "风浪越大鱼越贵。",
+      "今晚CPI风险，资金谨慎。"
+    ],
+    "mentioned_stocks": ["恒科"]
+  },
+  {
+    "index": 49,
+    "summary": "用户抄底没打满想加仓，纠结是否追涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "抄底后想加仓。",
+      "纠结是否追涨。",
+      "回复有图片暗示决策。"
+    ],
+    "mentioned_stocks": []
+  }
+]
