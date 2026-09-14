@@ -1,0 +1,552 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论全职炒股面临的强大对手，质疑其与赌博的区别，并分享因亏损回归工作的案例。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "全职炒股对手强大，包括经验丰富的退休者、量化机构等",
+      "全职炒股风险高，类似赌博",
+      "因亏损可能被迫回归旧业"
+    ],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 2,
+    "summary": "关于北京低空经济政策变动的讨论，认为对相关板块是利空。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "新规定可能利空低空经济板块",
+      "低空经济相关股价已提前反应",
+      "政策变动影响市场情绪"
+    ],
+    "mentioned_stocks": ["中信证券", "东时"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论月入一万定投纳斯达克100指数80%是否合理，引发对投资比例和心态的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "将大部分工资用于定投比例过高，风险大",
+      "应使用闲钱投资，保证生活",
+      "可能面临额度限制或市场回调风险"
+    ],
+    "mentioned_stocks": ["纳斯达克100"]
+  },
+  {
+    "index": 4,
+    "summary": "对比中美最赚钱公司的上市地，指出中国优秀科技公司多未在A股上市。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中国对标美股的优质公司多在港股或美股上市",
+      "A股市场机制可能存在问题",
+      "部分公司如比亚迪在A股可能被低估"
+    ],
+    "mentioned_stocks": ["阿里云", "腾讯", "百度", "寒武纪", "泡泡玛特", "瑞幸", "农夫山泉", "比亚迪"]
+  },
+  {
+    "index": 5,
+    "summary": "存储行业讨论帖，标题有鼓励意味，但回复多为简短占座或观望。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "存储行业可能仍需横盘震荡",
+      "部分投资者在等待突破信号",
+      "行业前景需要耐心观察"
+    ],
+    "mentioned_stocks": ["国存", "美海蛎子"]
+  },
+  {
+    "index": 6,
+    "summary": "听信抖音博主建议，全仓杠杆买入某股票后大跌，发帖求助并表达懊悔。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "听信“野鸡”博主炒股风险极高",
+      "杠杆操作放大亏损风险",
+      "这是需要交的“学费”"
+    ],
+    "mentioned_stocks": ["中百"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论某AI公司“经调整”后实现盈利，但对利润真实性存疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "“经调整”盈利可能与实际情况有出入",
+      "AI模型训练成本是主要开支",
+      "算力租赁业务毛利率高"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "胜宏科技宣布涨薪，分析其对三季度利润及股价的可能影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "涨薪可能影响公司利润，对股价形成压力",
+      "涨薪可能与当地最低工资标准上调有关",
+      "部分观点认为涨薪可能是订单充足的信号"
+    ],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 9,
+    "summary": "关注韩国股市表现，并讨论其对A股（“小A”）开盘的潜在影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国股市下跌可能带动A股低开",
+      "部分投资者计划在低开时抄底",
+      "市场情绪偏向悲观"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "比较A股（创业板、科创50）与日韩股市年涨幅，表达对A股表现的不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股主要指数年涨幅远低于日韩股市",
+      "“东升西落”的说法受到质疑",
+      "科创50等指数可能需要进一步调整"
+    ],
+    "mentioned_stocks": ["创业板", "科创50"]
+  },
+  {
+    "index": 11,
+    "summary": "新手询问是否应该学习并练习日内做T操作，观点存在分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "做T风险高，可能导致卖飞或成本增加",
+      "建议用模拟盘先练习",
+      "是否做T需根据行情和个人能力判断"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "认为美联储加息预期是压制市场的主要因素，加息落地后行情才能开启。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美联储加息预期导致市场震荡",
+      "加息落地可能被视为利空出尽",
+      "建议在加息引发的下跌中加仓"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论油价趋势，认为受政治等因素影响，短期难以大幅下降。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "油价高企，难以回落",
+      "特朗普的政治操作可能影响油价",
+      "油价问题给经济带来压力"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "赞扬长期持有“老登股”（如牧原股份）的股民心态稳定，以长期存款心态投资。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "长期持有心态稳定，不看短期波动",
+      "用余钱投资好股是理财方式",
+      "避免了频繁操作的风险"
+    ],
+    "mentioned_stocks": ["牧原"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论被科技股（如兆易创新）套牢后如何解套，观点存在分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可以通过加仓做波段尝试解套",
+      "死拿可能需要较长时间，参考中芯国际",
+      "科技股解套难度大，需谨慎"
+    ],
+    "mentioned_stocks": ["兆易", "中芯国际"]
+  },
+  {
+    "index": 16,
+    "summary": "担心量化交易在集合竞价及开盘时可能加剧市场踩踏，情绪悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "量化策略可能在开盘时放大抛压",
+      "外盘大跌对A股情绪影响负面",
+      "油价高企等利空因素压制市场"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "引用中金研报，认为从维护美联储信誉角度，9月最好选择加息。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美联储可能因信誉问题被迫加息",
+      "市场预期陷入混乱",
+      "关键经济数据推动加息决策"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "上市公司扎堆投资算力中心，讨论可能形成类似光伏的产能泡沫。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "算力租赁行业可能重蹈光伏覆辙",
+      "算力卡（GPU）的供应是关键瓶颈",
+      "部分公司通过定增扩张，风险转移给股民"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "询问殡葬业相关股票，并讨论行业前景及“消费降级”影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "殡葬行业此前经历整治，影响上行",
+      "“消费降级”可能影响殡葬消费",
+      "福寿园是主要相关标的"
+    ],
+    "mentioned_stocks": ["福寿园", "福成"]
+  },
+  {
+    "index": 20,
+    "summary": "询问周末有哪些利空“鬼故事”可能影响下周开盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "AI领域放缓传闻是主要担忧",
+      "存储行业出现利空消息",
+      "油价维持高位压制市场情绪"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "评论内资机构集体学习后观点一致看向3750点，情绪不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "内资机构观点一致性高，偏向看空",
+      "3750点是较悲观的预期位置",
+      "对内资机构水平表示不满"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论美国AI巨头呼吁放缓是否为大利空，观点存在分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "放缓可能被视为利好国产AI替代",
+      "部分投资者不相信会真正放缓",
+      "科技股股价可能已提前反应利空"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "探讨科技股（如PCB、光模块）能否在9-10月迎来反转，逻辑复杂。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股套牢盘出清，存在短线反转机会",
+      "关注PCB、MLCC等细分板块的补涨",
+      "市场鬼故事多，上涨阻力大"
+    ],
+    "mentioned_stocks": ["中际旭创", "新易盛", "巨石"]
+  },
+  {
+    "index": 24,
+    "summary": "认为美国中期选举若民主党横扫，对市场影响尚未被完全定价。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "选举结果对市场影响重大",
+      "油价问题是特朗普的麻烦",
+      "政治不确定性增加"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "质疑股票交易异常波动公告规则，抱怨下跌时无公告而上涨时有。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "规则执行似乎不公，只对上涨敏感",
+      "股价腰斩时无异常波动公告",
+      "公司发布重复的模板化公告"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "分享误买相似名称股票（深南电）的经历，幸好未亏且技术面看涨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "买错股票也可能获得收益",
+      "误买的股票技术图形呈现看涨信号",
+      "股价在调整后企稳，可能有戏"
+    ],
+    "mentioned_stocks": ["深南电路", "深南电"]
+  },
+  {
+    "index": 27,
+    "summary": "以讽刺口吻庆祝“持仓全红”，实则调侃市场下跌中难得的好运。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场整体表现差，全红是极小概率事件",
+      "图片可能显示持仓盈利，但带有反讽",
+      "反映了投资者在下跌市中的无奈"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "记录个人投资亏损经历（“韭菜”），并重新开始实盘，目标回本。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "新投资者亏损严重，经历腰斩",
+      "采取短线单吊策略，风险极高",
+      "决心重新实盘，尝试回本"
+    ],
+    "mentioned_stocks": ["新希望"]
+  },
+  {
+    "index": 29,
+    "summary": "观察牧原股份，认为其散户共识强，恐慌盘少，可能形成底部。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "牧原散户共识强，持仓稳定",
+      "恐慌情绪难以洗出筹码",
+      "可能正在构筑新底部"
+    ],
+    "mentioned_stocks": ["牧原"]
+  },
+  {
+    "index": 30,
+    "summary": "报道特朗普淡化AI放缓呼吁，强调美国必须保持AI领先优势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "特朗普支持AI持续发展",
+      "其言论可能旨在稳定AI相关投资",
+      "政治因素影响科技股叙事"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "分享个人红利股持仓组合，讨论长持与加仓策略。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "红利股适合长拿，操作少",
+      "持仓需分散，包含不同行业龙头",
+      "中国移动等个股成本较低"
+    ],
+    "mentioned_stocks": ["神火", "腾讯", "中国海油", "兖矿能源", "中国移动", "平安银行"]
+  },
+  {
+    "index": 32,
+    "summary": "深度讨论AI放缓提议，分析其背后可能为资本运作、瓶颈期或造势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "放缓可能为特定公司（如Anthropic）资本运作服务",
+      "AI发展可能遇到瓶颈期",
+      "达里奥可能借此塑造行业领袖形象"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "担心周一市场受周末利空影响，尤其是科技股暗盘大跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股暗盘交易大幅下跌",
+      "原因是美国AI巨头呼吁放缓发展",
+      "市场可能面临较大抛压"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "分享英国可能面临分裂的新闻，与股市关联度低，但反映全球不确定性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "英国政治不稳定，可能分裂",
+      "地缘政治风险增加",
+      "可能影响全球市场情绪"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "比较亨通光电与长飞光纤的股价表现，分析前者较弱的原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亨通光电AI光纤业务占比低",
+      "散户较多，筹码结构不佳",
+      "业务毛利率相对较低"
+    ],
+    "mentioned_stocks": ["亨通光电", "长飞光纤"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论电子布板块（如巨石、中材、宏和）的标的如何选择。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "巨石、中材、宏和是主要标的",
+      "宏和近期走势较弱",
+      "需关注板块内联动个股的强度"
+    ],
+    "mentioned_stocks": ["巨石", "中材", "宏和"]
+  },
+  {
+    "index": 37,
+    "summary": "以玄学逻辑（封神榜）构建一套概念股炒作图谱，建议“要信早信”。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "A股存在基于神话的玄学炒作传统",
+      "“封神榜”概念股可能形成新主线",
+      "玄学炒作需尽早参与，风险高"
+    ],
+    "mentioned_stocks": ["山子高科", "莲花控股", "太极实业", "合众思壮", "风神股份", "光线传媒", "大唐", "万通发展", "天通股份"]
+  },
+  {
+    "index": 38,
+    "summary": "引用特朗普言论支持AI发展，但市场反应消极，科技股暗盘大跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "特朗普言论未扭转市场悲观情绪",
+      "科技股在暗盘交易中大跌",
+      "市场关注AI安全及发展速度问题"
+    ],
+    "mentioned_stocks": ["深信服", "360"]
+  },
+  {
+    "index": 39,
+    "summary": "特朗普表示美国应拥有全球最低利率，引发对美联储加息的讨论。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "特朗普重申低利率立场",
+      "被解读为美联储9月加息的信号",
+      "油价高企仍是核心问题"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "警示科创50指数未来将面临巨额限售股解禁，尤其是长鑫存储。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科创50明年将面临万亿级别解禁",
+      "长鑫存储是解禁的主要来源",
+      "解禁压力可能严重压制指数表现"
+    ],
+    "mentioned_stocks": ["科创50", "长鑫"]
+  },
+  {
+    "index": 41,
+    "summary": "韩国主要证券交易所延长交易时间至晚上8点，讨论对A股交易的影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "延长交易时间增加投资者灵活性",
+      "可能影响A股收盘后的独立行情",
+      "增加了跨市场套利和联动的复杂性"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "对比中信证券看多和李大霄看空两种观点，投资者不知该信谁。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中信证券观点被部分投资者视为空头信号",
+      "李大霄看空较为直接",
+      "投资者对券商观点持怀疑态度"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "假设使用GPT-6预测AI泡沫破裂时间，是一个有趣的实验。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用AI预测金融泡沫破裂是新颖的尝试",
+      "金融市场是复杂混沌系统，预测难度极大",
+      "实验可能消耗大量计算资源"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "预测布伦特原油开盘价格可能突破110美元，讨论供应风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "油价开盘可能直接上涨",
+      "沙特输油管道运输量减少是潜在利多",
+      "市场供应面临紧张风险"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "探讨AI发展放缓的可能原因，包括资本运作、反AI浪潮或遇到瓶颈。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "放缓可能是为了资本运作（如上市）",
+      "国外反AI情绪高涨是外因",
+      "AI发展本身可能遇到技术瓶颈"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "中新赛克两涨停，结合周末AI安全新闻，预期可能连板。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "AI安全相关消息是利好",
+      "个股表现强势，可能开启连板",
+      "市场情绪偏向积极炒作"
+    ],
+    "mentioned_stocks": ["中新赛克"]
+  },
+  {
+    "index": 47,
+    "summary": "询问杰瑞股份（业务含油气和AI电源）是否还有救，因股价持续下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "公司“油气+AI”双线逻辑未能兑现",
+      "股价与油价、AI走势背离，持续下跌",
+      "技术形态上可能已形成双头"
+    ],
+    "mentioned_stocks": ["杰瑞股份"]
+  },
+  {
+    "index": 48,
+    "summary": "讨论人形机器人行业，认为真正的拐点不在于价格，而在于技术。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "人形机器人价格下探是长期趋势",
+      "产能已进入标准化量产阶段",
+      "行业真正的突破在于与物理世界交互的能力（世界模型）"
+    ],
+    "mentioned_stocks": ["优必选"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论“东郊到家”上门按摩平台计划上市，引发对商业模式和风险的争议。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上门按摩服务市场快速扩张",
+      "平台存在涉黄、合规性等风险",
+      "上市面临人员管理、盈利模式等挑战"
+    ],
+    "mentioned_stocks": ["东郊到家"]
+  },
+  {
+    "index": 50,
+    "summary": "白宫AI事务负责人回应放缓提议，态度强硬，反对共同放缓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美国政府反对通过放缓来主导AI发展",
+      "认为放缓是拖后腿行为",
+      "AI公司（如Anthropic）可能面临资金压力"
+    ],
+    "mentioned_stocks": []
+  }
+]
