@@ -1,0 +1,489 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论A股石油石化板块难做，与原油期货对比，预判夸张。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股油股确定性不如原油期货。",
+      "石化板块预判最夸张。",
+      "国内限制成品油涨价影响传导。"
+    ],
+    "mentioned_stocks": ["石油石化板块", "中海油", "中石油", "中石化"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论海皇（可能指中海油）分红前后股价路径依赖。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "分红前股价会跌，形成低点。",
+      "红利股环境下低点可能不深。",
+      "海皇一年分红两次。"
+    ],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 3,
+    "summary": "三大航集体12年新低，讨论高铁冲击、油价、航线问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "基本面因素如高铁冲击和油价。",
+      "非市场因素如航线政策变化。",
+      "燃油附加费过高。"
+    ],
+    "mentioned_stocks": ["南航", "国航", "东航"]
+  },
+  {
+    "index": 4,
+    "summary": "比亚迪问题，涉及充电、APP购物等负面体验。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "产品体验差，如充电慢、客服问题。",
+      "可能利空股价。",
+      "行业普遍问题。"
+    ],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 5,
+    "summary": "A股缩量微红，等待美联储议息会议。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "极致缩量微红。",
+      "等待美联储加息决定。",
+      "位置可能破前低。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论A股涨不动但也不想跌，底部信号。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跌不动可能是底部信号。",
+      "外围利空但稳定。",
+      "等待美联储消息。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论加息前的对冲策略，二八分配。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "加息预期高，配红利对冲。",
+      "加息可能利好银行。",
+      "加息板上钉钉。"
+    ],
+    "mentioned_stocks": ["红利股", "银行股"]
+  },
+  {
+    "index": 8,
+    "summary": "进入金安国际，讨论PCB和MLCC异动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "PCB和MLCC异动可能有消息。",
+      "金安国际有业绩支撑。",
+      "跟风风险。"
+    ],
+    "mentioned_stocks": ["金安国际", "风华", "国风", "博敏电子"]
+  },
+  {
+    "index": 9,
+    "summary": "买错股票，深南电路误买成深南电。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "买错但技术面好看。",
+      "可能启动。",
+      "释放分歧。"
+    ],
+    "mentioned_stocks": ["深南电路", "深南电"]
+  },
+  {
+    "index": 10,
+    "summary": "宝鼎科技讨论，涨停后走势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "宝鼎科技涨停。",
+      "风险高，不建议买入。",
+      "走势类似中钨。"
+    ],
+    "mentioned_stocks": ["宝鼎科技", "中钨"]
+  },
+  {
+    "index": 11,
+    "summary": "中信建投研报，黄金有望触底回升。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "加息预期充分定价。",
+      "黄金触底回升。"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 12,
+    "summary": "中金研报，美联储9月最好加息维护信誉。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "加息维护美联储信誉。",
+      "数据超预期逼美联储。",
+      "短期指标有局限。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "港股创新药调整完毕，讨论走势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "港股创新药可能调整完毕。",
+      "中概还在跌。",
+      "机构出货可能。"
+    ],
+    "mentioned_stocks": ["港股创新药", "中概股", "药明"]
+  },
+  {
+    "index": 14,
+    "summary": "国产MLCC概念是否炒作。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国产MLCC主要是低端产能。",
+      "一流在日本，二流在台湾。",
+      "机构锁仓抱团拉股价。"
+    ],
+    "mentioned_stocks": ["国瓷", "风华", "三环"]
+  },
+  {
+    "index": 15,
+    "summary": "量能不足，资金从老登抽血救科技。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "资金跷跷板效应。",
+      "科技和老登板块互相抽血。",
+      "缩量下操作难。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "狗庄开水浇蚂蚁窝，早盘冲进被套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "早盘追高被套。",
+      "缩量追高风险大。",
+      "可能买了瑞尔特。"
+    ],
+    "mentioned_stocks": ["瑞尔特"]
+  },
+  {
+    "index": 17,
+    "summary": "存储人讨论，横盘震荡。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "存储股横盘震荡。",
+      "等待信号。",
+      "哀嚎情绪。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "纳指长牛结束，定投风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳指长牛明年极可能结束。",
+      "定投可能负收益。",
+      "美国经济由债务驱动。"
+    ],
+    "mentioned_stocks": ["纳指", "标普500", "SCHD", "KO"]
+  },
+  {
+    "index": 19,
+    "summary": "长飞太高不敢买，问亨通是否补涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长飞和亨通不是一个等级。",
+      "量缩补涨难。",
+      "可以看中天。"
+    ],
+    "mentioned_stocks": ["长飞", "亨通", "中天"]
+  },
+  {
+    "index": 20,
+    "summary": "大金重工发车，讨论上车点位。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "技术面显示上车点。",
+      "等-8再买。",
+      "可能还没跌完。"
+    ],
+    "mentioned_stocks": ["大金重工"]
+  },
+  {
+    "index": 21,
+    "summary": "PCB板块走势担忧，小票涨大票不动。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "小票补涨大票不动。",
+      "量不够只能拉小票。",
+      "可能形成双头。"
+    ],
+    "mentioned_stocks": ["生益科技", "深南电路", "东山精密", "沪电股份", "胜宏"]
+  },
+  {
+    "index": 22,
+    "summary": "殡葬业讨论，哪个票。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "殡葬行业被整治。",
+      "消费降级影响。",
+      "福寿园复牌。"
+    ],
+    "mentioned_stocks": ["福寿园", "福成"]
+  },
+  {
+    "index": 23,
+    "summary": "化工股难做，持股体验差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "万华化学持股体验差。",
+      "预判多。",
+      "卫星化学好些。"
+    ],
+    "mentioned_stocks": ["万华化学", "卫星化学", "宝丰", "江天化学", "百合花"]
+  },
+  {
+    "index": 24,
+    "summary": "雅戈尔讨论，股息稳但利润下滑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "雅戈尔收入多元。",
+      "利润连续下滑。",
+      "股息佬看不上。"
+    ],
+    "mentioned_stocks": ["雅戈尔", "宁波银行"]
+  },
+  {
+    "index": 25,
+    "summary": "特朗普言论，问利好什么。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利好统一股份。",
+      "爱尔眼科。"
+    ],
+    "mentioned_stocks": ["统一股份", "爱尔眼科"]
+  },
+  {
+    "index": 26,
+    "summary": "缩量讨论，垃圾时间。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "缩量拉就不错了。",
+      "议息会议前不敢动。",
+      "外围利空。"
+    ],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 27,
+    "summary": "桂林旅游6天5板，讨论原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能和平陆运河有关。",
+      "短线爆炒无长期逻辑。",
+      "炒的AI+旅游。"
+    ],
+    "mentioned_stocks": ["桂林旅游", "张家界", "国芳"]
+  },
+  {
+    "index": 28,
+    "summary": "1分钟拉涨停1分钟砸到+4，操纵明显。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "庄家操纵。",
+      "散户难战斗。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "有色金属讨论，关注多个金属股。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "有色板块空间大。",
+      "周期股价值投资。",
+      "关注铜、铝、锡等。"
+    ],
+    "mentioned_stocks": ["紫金矿业", "西部矿业", "江西铜业", "铜陵有色", "中国宏桥", "宏桥控股", "云铝股份", "神火股份", "锡业股份", "华锡有色", "宝武镁业", "湖南黄金", "贵研铂业", "中矿资源"]
+  },
+  {
+    "index": 30,
+    "summary": "树先生（宇树科技）跌到何时。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "宇树科技高估。",
+      "可能破1000亿市值。",
+      "人形机器人不成熟。"
+    ],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 31,
+    "summary": "孤独无助，大A低开。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "低开可能黄金坑。",
+      "加息担忧。",
+      "科技难。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "听信抖音野人全仓杠杆中百亏15点。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "听信野鸡博主亏钱。",
+      "杠杆风险高。",
+      "学费教训。"
+    ],
+    "mentioned_stocks": ["中百"]
+  },
+  {
+    "index": 33,
+    "summary": "轻仓短线实盘记录。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "5%到10%仓位短线。",
+      "热门板块+K线图。"
+    ],
+    "mentioned_stocks": ["易点天下"]
+  },
+  {
+    "index": 34,
+    "summary": "今天大A全球最硬，反驳。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "可能是量化没上班。",
+      "参考历史。",
+      "外围利空。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "A÷（AI公司）稳定盈利，但质疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "经调整利润可能。",
+      "成本大头是训练。",
+      "折旧不敢算。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "科技佬割肉，糊了。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科创跌。",
+      "可能破前低。",
+      "死扛。"
+    ],
+    "mentioned_stocks": ["兆易"]
+  },
+  {
+    "index": 37,
+    "summary": "今天硬但怕下午打回。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "被家暴习惯了。",
+      "可能放松警惕后挨打。",
+      "周期性挨打。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "韩国市场看大A脸色。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "全球可能谢谢A公子。",
+      "韩国和大A共振。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "量太小，电风扇吹不起来。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "量太小无行情。",
+      "又回到亏本线。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "普涨，星期五抄都赚。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "三千多家红。",
+      "周一可能独立行情。",
+      "缩量涨难信。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "出完了？准备开杀。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "飞流直下。",
+      "红利红了可能轮动。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "加息一次不崩盘，抄底海外AI机会。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "一次加息不影响景气行业。",
+      "9月加息可能抄底。",
+      "火中取粟。"
+    ],
+    "mentioned_stocks": ["创新药", "AI硬件", "黄金", "海外AI"]
+  },
+  {
+    "index": 43,
+    "summary": "国产算力寻龙，讨论谁是真龙。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "周四利率决议叠加华为大会。",
+      "MLCC和PCB先观察。",
+      "关注风华、太极、有研。"
+    ],
+    "mentioned_stocks": ["星网锐捷", "华丰", "风华", "太极", "有研", "紫光"]
+  },
+  {
+    "index": 44,
+    "summary": "今天硬因韩国开盘。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国开盘影响。",
+      "基因塞入。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "电力杀人，跳水被套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "电力跳水被套。",
+      "科技对手盘。",
+      "左右手倒。"
+    ],
+    "mentioned_stocks": ["电力股", "闽东", "豫能"]
+  }
+]
