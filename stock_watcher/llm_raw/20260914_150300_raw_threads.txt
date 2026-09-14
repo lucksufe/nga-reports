@@ -1,0 +1,494 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论大金重工技术分析，回踩均线是上车点位。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "回踩MA5/10不破是较好上车点位",
+      "等-8%抄底",
+      "认为还没跌完，谨慎入场"
+    ],
+    "mentioned_stocks": ["大金重工"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论科创50指数下方缺口，担心继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科创50下方有两个缺口",
+      "担心明天可能补第一个缺口",
+      "担心还要补再下方的缺口"
+    ],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 3,
+    "summary": "股市成交量大幅缩减，暗示市场冷清。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "缩量严重，不能抄底",
+      "3888点可能是底",
+      "等待924重现或向下突破"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "存储股讨论楼，用户交流存储股看法。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国存可能横盘震荡",
+      "有用户等待存储股新高",
+      "前排哀嚎，表示套牢"
+    ],
+    "mentioned_stocks": ["存储股"]
+  },
+  {
+    "index": 5,
+    "summary": "批评下降趋势中买入策略，用户后悔加仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "下降趋势中每个买入点都是高点",
+      "上周加仓科创50后悔",
+      "科技股小作文多，不能久留"
+    ],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论用AI预测股市泡沫破裂的可能性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "设计“末日时钟”指标预测崩盘概率",
+      "AI可能无法计算混沌系统",
+      "花费大量计算资源"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论有色金属板块投资，列出关注股票。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "有色金属处于景气阶段，适合价值投资",
+      "列出铜、铝、锡等细分龙头股",
+      "锡业股份适合做波段"
+    ],
+    "mentioned_stocks": ["紫金矿业", "西部矿业", "江西铜业", "铜陵有色", "中国宏桥", "宏桥控股", "云铝股份", "神火股份", "锡业股份", "华锡有色", "宝武镁业", "湖南黄金", "贵研铂业", "金瑞矿业", "中矿资源"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论国产算力概念股，猜测真龙股票。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "周四利率决议叠加华为大会，国算起爆点",
+      "猜测星网锐捷为真龙",
+      "观测风华、太极、有研等"
+    ],
+    "mentioned_stocks": ["星网锐捷", "华丰", "风华", "太极", "有研", "紫光"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论OpenAI黑数据库事件，质疑AI智能。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "AI用改文件名沟通，看似吓人",
+      "认为是炒作",
+      "担心行业安全标准巩固垄断"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "股市缩量冷清，投资者沉默。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "套牢严重，不想说话",
+      "行情差，动就亏钱",
+      "纳指高位，调整可能影响A股"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 11,
+    "summary": "电力股波动大，用户被套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "电力股盘中跳水，用户上当",
+      "科技股对手盘，资金流动",
+      "回封危险，不适合打板"
+    ],
+    "mentioned_stocks": ["电力股"]
+  },
+  {
+    "index": 12,
+    "summary": "批评收盘微红，讽刺股市稳定假象。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "收盘微红，多次出现",
+      "体现股市稳中有进假象"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "看跌大A，认为随时暴跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "盘面摇摇欲坠，随时暴跌",
+      "已经清仓",
+      "可能跌不动，等反弹"
+    ],
+    "mentioned_stocks": ["大A"]
+  },
+  {
+    "index": 14,
+    "summary": "某股走势大起大落，投资者心态受损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "早上拉涨停迅速撤单，中午砸绿",
+      "太搞心态，不玩了",
+      "量化拉板但板块不跟"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "建议节前买入指数ETF，基于历史数据。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "国庆节后第一天胜率高",
+      "刻舟求剑参考历史",
+      "但担心假期风险"
+    ],
+    "mentioned_stocks": ["指数ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "市场交易冷清，缺乏活跃度。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "一片死寂，没活人交易",
+      "缩量低位不敢进，怕瀑布杀",
+      "持仓者躺平，无法动弹"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "分析海皇股票分红前的走势规律。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "海皇下个月分红，可能按历史路径下跌到13块",
+      "红利股现在有风口，低点难跌深",
+      "背刺后考虑接回"
+    ],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 18,
+    "summary": "警告节前资金流出效应，需控制仓位。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中秋国庆假期叠加美联储会议，市场压力大",
+      "中秋前可空仓或控制仓位",
+      "解禁压力数据"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论韩国延长交易时间对A股的影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国交易时间延长，可能影响A股",
+      "A股收盘后韩股可能暴涨",
+      "可能遏制ADR套利"
+    ],
+    "mentioned_stocks": ["韩股"]
+  },
+  {
+    "index": 20,
+    "summary": "抱怨市场控量，希望放量。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "做T队控量，熬不住",
+      "放量可能暴跌",
+      "跌时放大量，涨时缩量"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "质疑量化资金已撤出市场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "量化公司上个月跑光了",
+      "量化不可能空仓，有牌照要求",
+      "当前成交量仍有1.39万亿，矛盾"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论完美世界股价下跌原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "完美世界领跌传媒游戏板块",
+      "董事长减持，不信任公司",
+      "等低位接盘"
+    ],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 23,
+    "summary": "市场横盘，投资者无奈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场横盘，涨跌不动",
+      "大资金想跑也跑不出来",
+      "投资者躺平，敢拉就T"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "分享亏损经历，寻求共鸣。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "只红一天，亏损严重",
+      "7月腰斩，9月更惨",
+      "考虑玩模拟盘"
+    ],
+    "mentioned_stocks": ["海光", "中际"]
+  },
+  {
+    "index": 25,
+    "summary": "缩量行情，判断为垃圾时间。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "缩量无大行情，垃圾时间",
+      "给药明康德磕头，等200",
+      "外围死样，能缩量拉就不错"
+    ],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 26,
+    "summary": "质疑缩量下科技股被拉起。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股科技明牌跌，A股不预判",
+      "本质电风扇，资金轮动",
+      "科技股实际绿盘，没拉"
+    ],
+    "mentioned_stocks": ["科技股", "半导体", "CPO", "PCB"]
+  },
+  {
+    "index": 27,
+    "summary": "看好港股创新药调整完毕。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "港股创新药调整完毕",
+      "港股创新药公司打爆A股创新药",
+      "药明回血，看明天走势"
+    ],
+    "mentioned_stocks": ["港股创新药", "药明"]
+  },
+  {
+    "index": 28,
+    "summary": "分析雅戈尔股票，质疑其价值。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "雅戈尔股息稳，但利润连续下滑",
+      "收入来自地产和炒股",
+      "收息佬不在意"
+    ],
+    "mentioned_stocks": ["雅戈尔"]
+  },
+  {
+    "index": 29,
+    "summary": "抱怨市场横盘，等待议息会议。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场横盘，恶心",
+      "等议息会议",
+      "空头看到3750"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "预计垃圾时间，等美联储利率决议。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "周三前垃圾时间，等美联储决议",
+      "之后可能大跌",
+      "国庆前都是垃圾时间"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "原油期货暴涨，创历史新高。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "原油期货暴涨超11%，站上900元",
+      "国内引领原油价格",
+      "信自己妈妈（国内政策）"
+    ],
+    "mentioned_stocks": ["原油期货", "多晶硅期货"]
+  },
+  {
+    "index": 32,
+    "summary": "中金建议美联储加息维护信誉。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "从维护信誉角度，9月最好加息",
+      "市场预期混乱",
+      "数据走弱，美联储被逼墙角"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "质疑国产MLCC是炒作。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国产MLCC是炒作，公司不入流",
+      "国瓷逻辑硬，材料绕不开",
+      "机构抱团，容易拉涨"
+    ],
+    "mentioned_stocks": ["MLCC", "国瓷", "三环", "风华", "铂科"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论长鑫存储股价位置。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫位置高，不敢进",
+      "等解禁完再看",
+      "40以下可考虑"
+    ],
+    "mentioned_stocks": ["长鑫", "长飞"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论南方航空抄底机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "外国航空涨，国内航司可能跟涨",
+      "但国内有高铁竞争",
+      "航司回报周期长，像坐牢"
+    ],
+    "mentioned_stocks": ["南航", "航空股"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论厄尔尼诺与铜价关系，关注精艺股份。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "厄尔尼诺可能炒铜金属",
+      "精艺股份缩量两跌停，考虑买",
+      "铜大跌是特朗普影响"
+    ],
+    "mentioned_stocks": ["铜", "精艺股份"]
+  },
+  {
+    "index": 37,
+    "summary": "询问完美世界买入机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "完美世界像魅魔，想买但理智",
+      "套牢盘多，不推荐短线",
+      "做T神股，波动大"
+    ],
+    "mentioned_stocks": ["完美世界", "巨人网络"]
+  },
+  {
+    "index": 38,
+    "summary": "无量行情，感觉要变盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "双创、恒科到关键支撑位",
+      "快要拉坨大的（可能暴跌）"
+    ],
+    "mentioned_stocks": ["双创", "恒科"]
+  },
+  {
+    "index": 39,
+    "summary": "自嘲做空天才，买啥跌啥。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "买什么什么跌",
+      "下行阶段出手就挨套",
+      "做空闭眼捡钱"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "批评A股过度炒作预期，以赛力斯为例。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "赛力斯股价基于计算器按冒烟",
+      "业绩不持续，炒预期",
+      "港股上市原形毕露"
+    ],
+    "mentioned_stocks": ["赛力斯", "问界", "宇树"]
+  },
+  {
+    "index": 41,
+    "summary": "对大盘下跌表示疑问。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大盘又下跌",
+      "韩国股市下跌影响",
+      "低开高走后又砸"
+    ],
+    "mentioned_stocks": ["大盘", "韩股"]
+  },
+  {
+    "index": 42,
+    "summary": "缩量严重，担忧A股未来。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "缩量厉害，大伙不想玩了",
+      "期待下一个924",
+      "回到银行牛市时代成交量萎靡"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "个股跌幅大于指数，担忧继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "指数未到3800，个股已跌",
+      "保险股PE低，还能跌多少"
+    ],
+    "mentioned_stocks": ["保险股"]
+  },
+  {
+    "index": 44,
+    "summary": "列举全职炒股对手，质疑胜算。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "对手包括退休大爷、程序员、游资、量化等",
+      "炒股像赌博",
+      "有朋友亏钱后重操旧业"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "看跌纳指，认为定投纳指等于送死。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳指长牛明年极大概率结束",
+      "继续定投做好10年负收益准备",
+      "美联储债务驱动增长失速"
+    ],
+    "mentioned_stocks": ["纳指", "纳斯达克ETF", "标普500", "SCHD", "KO"]
+  }
+]

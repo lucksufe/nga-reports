@@ -1,0 +1,317 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论大金重工的走势，用户在等待合适的上车时机，有人认为调整尚未结束。",
+    "sentiment": "mixed",
+    "key_opinions": ["等回踩关键均线（MA5/10）后再介入。", "有人认为股价还未跌到位，建议谨慎。", "部分用户因操作失误感到后悔和痛苦。"],
+    "mentioned_stocks": ["大金重工"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论科创50指数下方存在两个缺口，担忧会继续向下回补。",
+    "sentiment": "negative",
+    "key_opinions": ["认为第一个缺口可能很快回补。", "担忧指数会进一步下探以填补更下方的缺口。"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 3,
+    "summary": "吐槽市场成交量严重萎缩，多数人认为不是抄底时机。",
+    "sentiment": "negative",
+    "key_opinions": ["缩量下跌，进场容易“被厚葬”。", "讨论3888点是否是底部。", "讽刺指数“向下突破”。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "存储板块的讨论楼，以情感宣泄和灌水为主，缺乏深度分析。",
+    "sentiment": "negative",
+    "key_opinions": ["认为“国存”（国产存储）还将横盘震荡。", "部分用户表达对持仓的无奈和痛苦。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "认为上周五的反弹是陷阱，在下降趋势中任何买入点都可能成为高点。",
+    "sentiment": "negative",
+    "key_opinions": ["下降趋势中的反弹是卖出而非买入信号。", "用户反思加仓科创50是错误。", "认为长下影线是诱多。"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论用AI预测市场泡沫，有用户耗资让GPT进行大规模运算研究。",
+    "sentiment": "mixed",
+    "key_opinions": ["尝试让AI建立“末日时钟”预测崩盘概率。", "有用户质疑AI预测混沌系统的可行性。", "对高额算力成本表示惊叹。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "系统讨论有色金属板块，包括铜、铝、锡、黄金等子板块及具体个股。",
+    "sentiment": "positive",
+    "key_opinions": ["有色板块已进入周期反转后的景气阶段，适合价值投资。", "看好铜、铝、锡等品种及具体公司。", "提醒小金属（如锡）波动大，需谨慎。"],
+    "mentioned_stocks": ["紫金矿业", "西部矿业", "江西铜业", "铜陵有色", "中国宏桥", "云铝股份", "神火股份", "锡业股份", "华锡有色", "宝武镁业", "湖南黄金", "贵研铂业", "金瑞矿业", "中矿资源"]
+  },
+  {
+    "index": 8,
+    "summary": "预测国产算力板块可能起爆，讨论可能的龙头股，并分析相关个股。",
+    "sentiment": "mixed",
+    "key_opinions": ["期待周四（利率决议叠加华为大会）成为起爆点。", "先观察MLCC和PCB板块能否抗住分歧。", "认为超过500亿市值的大盘股缺乏弹性。"],
+    "mentioned_stocks": ["星网锐捷", "华丰", "风华", "太极", "有研", "紫光"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论OpenAI曝光的AI用文件沟通等细节，部分用户认为有炒作嫌疑。",
+    "sentiment": "negative",
+    "key_opinions": ["认为AI行为“吓人”可能是为了炒作安全问题。", "质疑现有模型达不到描述的智能水平。", "推测可能是巨头建立行业安全标准以巩固垄断。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "反映市场低迷，交易清淡，用户普遍亏损严重且不愿交流。",
+    "sentiment": "negative",
+    "key_opinions": ["“套麻了”、“亏的不想说话”。", "“这行情只要动就亏钱”。", "担忧纳指下跌会拖累A股。"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 11,
+    "summary": "抱怨电力板块盘中突然跳水，上演“左右手互搏”，科技股反弹吸走资金。",
+    "sentiment": "negative",
+    "key_opinions": ["科技与电力等板块形成“对手盘”。", "市场钱少，板块轮动快，操作难度大。", "部分用户对电力股失去信心。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "讽刺市场尾盘微红制造“稳中有进”假象，实为恶心人。",
+    "sentiment": "negative",
+    "key_opinions": ["认为尾盘微红是常见套路，非常恶心。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "认为大A盘面摇摇欲坠，随时可能暴跌，部分用户已清仓。",
+    "sentiment": "negative",
+    "key_opinions": ["盘面看起来极度脆弱，有用户已清仓。", "也有人认为跌不动了，等待利好反弹。", "有用户空仓等待成交量进一步萎缩。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "描述一只股票走势极端，涨停秒撤、日内大幅波动，令投资者心态崩溃。",
+    "sentiment": "negative",
+    "key_opinions": ["走势大起大落，严重考验心态。", "可能是量化资金主导，缺乏跟风盘导致。", "提醒“急拉缓跌是出货”特征。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论节前最后一天尾盘全仓买入指数ETF的策略，基于历史高胜率。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为国庆后第一天上涨历史胜率高，可“刻舟求剑”。", "但对今年假期期间可能出现的不确定性（“黄毛作妖”）表示担忧。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "感叹市场交易死寂，存量资金博弈，多空双方都处于僵持状态。",
+    "sentiment": "negative",
+    "key_opinions": ["市场缩量，一片死寂，缺乏增量资金。", "持仓者深度套牢，不愿割肉，“躺着了”。", "与过去不同，下跌也无量，显示买卖双方都无力。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论海皇（可能指招商南油）分红前的股价走势规律，用户们分析其分红策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["观察到分红前股价通常会下跌，形成一个低点。", "分析认为今年由于红利股受捧，低点可能不会太低。", "部分用户讨论股息复投策略。"],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 18,
+    "summary": "提醒中秋国庆长假临近，存在“吸金效应”，叠加美联储会议，市场风险加大。",
+    "sentiment": "negative",
+    "key_opinions": ["长假前资金可能流出，叠加美联储会议不确定性。", "建议控制仓位，甚至空仓。", "提及今年9-12月解禁压力较大。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论韩国交易所延长交易时间至晚8点对A股及全球市场的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为A股收盘后韩股走势会影响次日A股。", "有人认为利好A股，减少A股预判难度。", "调侃韩国交易员工作时间变长。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "抱怨主力资金（“做T队”）控盘，成交量低迷，市场毫无生气。",
+    "sentiment": "negative",
+    "key_opinions": ["主力控制成交量，不给市场活力。", "认为只有放量暴跌才能打破僵局。", "怀疑市场已无活跃交易者。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "有用户声称量化资金已撤离，但遭到其他用户反驳和质疑。",
+    "sentiment": "negative",
+    "key_opinions": ["有传言称量化机构已跑光，不吃最后一口。", "反对者认为机构有仓位要求，不可能空仓。", "指出当前成交量仍大，量化不可能全跑。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "询问完美世界股价大跌原因，讨论其基本面和股东行为。",
+    "sentiment": "negative",
+    "key_opinions": ["在游戏板块回调中领跌，引发疑问。", "有人指出董事长减持等利空。", "认为公司缺乏核心竞争力。"],
+    "mentioned_stocks": ["完美世界", "巨人网络"]
+  },
+  {
+    "index": 23,
+    "summary": "形容市场涨跌两难，如同“铁锁横大江”，大资金和散户均陷入僵局。",
+    "sentiment": "negative",
+    "key_opinions": ["大资金难以出货，一卖就砸盘。", "散户被套牢不愿割肉，市场死气沉沉。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "用户晒出亏损单，感叹行情艰难，部分人已清仓或转向模拟盘。",
+    "sentiment": "negative",
+    "key_opinions": ["多数用户本月亏损严重，超过7月。", "行情方向不明，持有者痛苦。", "有用户已彻底清仓，或只玩模拟盘。"],
+    "mentioned_stocks": ["海光信息", "中际旭创"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论市场缩量是常态，受外围环境和美联储会议影响，无大行情。",
+    "sentiment": "negative",
+    "key_opinions": ["外围市场不好，A股缩量已属不易。", "议息会议前大资金不敢轻易行动。", "认为又是“垃圾时间”。"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 26",
+    "summary": "质疑“缩量拉科技”的说法，指出多数科技板块实际是下跌的。",
+    "sentiment": "negative",
+    "key_opinions": ["反驳缩量市场在拉升科技股的观点。", "指出半导体、存储、PCB等板块当日普跌。", "认为可能是小幅买盘造成“拉科技”假象。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "认为港股创新药调整完毕，看好其表现，并讨论了相关个股。",
+    "sentiment": "positive",
+    "key_opinions": ["观测到港股创新药板块调整结束。", "认为港股创新药公司比A股更强。", "有用户持有药明等股票等待反弹。"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 28,
+    "summary": "询问为何无人讨论雅戈尔，并分析其业务构成和分红情况。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为雅戈尔股息稳定，有投资价值。", "指出其业务包含服装、地产和炒股（宁波银行）。", "揭示其利润已连续五年下滑。"],
+    "mentioned_stocks": ["雅戈尔", "宁波银行"]
+  },
+  {
+    "index": 29,
+    "summary": "抱怨市场在3900点附近上下两难，预计将继续横盘，等待美联储会议。",
+    "sentiment": "negative",
+    "key_opinions": ["认为市场将进入横盘震荡阶段。", "建议等待美联储议息会议结果。", "有多头止盈和空头看向3750的讨论。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "认为本周因美联储会议等因素都是“垃圾时间”，市场缺乏方向。",
+    "sentiment": "negative",
+    "key_opinions": ["认为在美联储决议前市场只有小跌或大跌。", "批评市场总是在等待下一个数据，永远在预判。", "有用户认为国庆前市场都不会有起色。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "报道上期所原油期货价格暴涨创新高，用户讨论内盘油价与外盘的差异。",
+    "sentiment": "mixed",
+    "key_opinions": ["国内原油期货价格暴涨，首次站上900元。", "认为是中国主导了油价上涨。", "提醒注意“原油宝”式的风险事件。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "引用中金观点，认为从维护信誉角度，美联储9月应加息。",
+    "sentiment": "negative",
+    "key_opinions": ["中金研报建议美联储9月加息以维护信誉。", "指出美联储已被超预期的数据“逼到墙角”。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "讨论国产MLCC（片式多层陶瓷电容器）板块是否是炒作。",
+    "sentiment": "negative",
+    "key_opinions": ["主流观点认为本质是炒作，并非真正的国产替代。", "解释国内公司接盘的是日、台企业放弃的低端产能。", "有用户认为龙头企业（如国瓷）材料端逻辑更硬。"],
+    "mentioned_stocks": ["国瓷材料", "三环集团", "风华高科"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论长鑫存储（可能指长鑫科技）的股价位置，用户对其估值和解禁有分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为长鑫位置较高，价格太贵。", "有人给出具体价位（如40元）作为接盘参考。", "提醒注意未来解禁压力，解禁股成本极低。"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论南方航空是否到了抄底时机，多数回复提示风险，不建议进入。",
+    "sentiment": "negative",
+    "key_opinions": ["认为国内外航空股逻辑不同，不能简单类比。", "指出航空股回报周期长，被套可能成为“狱友”。", "提醒国内航司砍掉赴日航线，份额被日航抢占。"],
+    "mentioned_stocks": ["南方航空"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论厄尔尼诺现象是否利好铜价，并关联到缩量三跌停个股的筹码博弈。",
+    "sentiment": "negative",
+    "key_opinions": ["将厄尔尼诺作为买入精艺股份的理由。", "用户自嘲这是为接盘找的借口，实际是赌博。"],
+    "mentioned_stocks": ["精艺股份"]
+  },
+  {
+    "index": 37,
+    "summary": "询问完美世界是否可买，讨论其股价位置和操作难度。",
+    "sentiment": "negative",
+    "key_opinions": ["被戏称为“魅股”，吸引人但风险大。", "认为上方套牢盘极重，短线不推荐。", "适合做T，但不适合长期持有。"],
+    "mentioned_stocks": ["完美世界", "华通"]
+  },
+  {
+    "index": 38,
+    "summary": "认为市场缩量严重，即将做出方向选择（“憋不住了”）。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板指、恒生科技指数等关键指数逼近支撑位。", "认为即将有大波动（“拉坨大的”）。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "用户自嘲是“做空天才”，买什么跌什么，反映市场普遍下跌现状。",
+    "sentiment": "negative",
+    "key_opinions": ["在下行市场中，买入即被套是常态。", "指出上周五市场出现5000+个股下跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "以赛力斯股价为例，批评A股“按计算器”式的过度炒作预期。",
+    "sentiment": "negative",
+    "key_opinions": ["股价在车型上市前就已按预期炒至高位。", "A股不能做空，导致估值泡沫难以及时破裂。", "缺乏出海预期，新能源故事难以延续。"],
+    "mentioned_stocks": ["赛力斯"]
+  },
+  {
+    "index": 41,
+    "summary": "对大盘再次下跌感到不满和无奈，归因于韩国市场下跌等因素。",
+    "sentiment": "negative",
+    "key_opinions": ["对市场持续下跌表示愤怒。", "认为A股走势跟随韩国市场（“韩爹”）。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "感叹市场缩量严重，投资者离场，讨论A股未来可能更低迷。",
+    "sentiment": "negative",
+    "key_opinions": ["成交量大幅萎缩，玩家大量离场。", "担心日成交量可能回到5000亿。", "认为长期预期收益为零导致资金离场。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "担忧个股跌幅已深，指数若继续下跌将形成破位，询问底在哪里。",
+    "sentiment": "negative",
+    "key_opinions": ["许多个股价格已接近前期低点。", "对指数是否会继续下跌表示担忧。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "列举全职炒股的强大对手，警示散户难以在市场中长期盈利。",
+    "sentiment": "negative",
+    "key_opinions": ["散户对手包括经验丰富的退休族、程序员、专业生等。", "有朋友因巨亏放弃全职炒股。", "认为炒股心态比智商更重要。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "有用户断言纳斯达克长牛即将结束，建议停止定投，但多数人表示怀疑。",
+    "sentiment": "negative",
+    "key_opinions": ["认为美联储债务驱动经济增长的模式已失速。", "建议远离纳指，保留现金和黄金。", "反驳观点众多，认为此说法已流传多年。"],
+    "mentioned_stocks": ["纳指", "纳斯达克ETF"]
+  }
+]
