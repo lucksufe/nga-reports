@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "用户讨论科技和石油的风险对冲策略，但回复显示策略失败，情绪沮丧。",
+    "sentiment": "negative",
+    "key_opinions": ["风险对冲策略可能无效。", "市场反应令人失望。", "用户坚持‘冲冲冲，永不为奴’。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "市场无反弹，创业板被宁德时代拖累，用户抱怨任何机会都亏钱。",
+    "sentiment": "negative",
+    "key_opinions": ["市场无反弹机会。", "创业板被宁德时代带跌。", "垃圾市场。"],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 3,
+    "summary": "A股油气板块不跟涨外围，反而大跌，用户困惑原因。",
+    "sentiment": "negative",
+    "key_opinions": ["A股油气板块脱离外围走势。", "预判油价下跌。", "可能为人民做贡献而跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "用户问周日是否开市，回复揭示新人多，市场情绪差。",
+    "sentiment": "mixed",
+    "key_opinions": ["股市节假日不开。", "增量资金源源不断但无效。", "新人经历地狱开局。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "用户投资黄金和平安避险，但反而亏损，避险策略失败。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金股预期过高。", "平安股票表现不佳。", "避险策略失败。"],
+    "mentioned_stocks": ["黄金股", "平安"]
+  },
+  {
+    "index": 6,
+    "summary": "钨股突然涨停，用户讨论是启动还是出货，涉及消息面。",
+    "sentiment": "mixed",
+    "key_opinions": ["钨价上涨消息驱动。", "可能是拉高出货。", "观察后续走势。"],
+    "mentioned_stocks": ["翔钨", "The Elmet Group"]
+  },
+  {
+    "index": 7,
+    "summary": "今天市场表现比预期好，用户感恩一点小红，但情绪仍负面。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场今天没大跌。", "用户感恩一点小红。", "被市场调教坏了。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "电力板块资金被科技板块吸走，用户抄底大唐电力。",
+    "sentiment": "mixed",
+    "key_opinions": ["电力板块被科技吸资金。", "用户抄底大唐电力。"],
+    "mentioned_stocks": ["大唐"]
+  },
+  {
+    "index": 9,
+    "summary": "用户讨论F大的帖子被删，希望恢复，感到失望。",
+    "sentiment": "negative",
+    "key_opinions": ["帖子被删令人失望。", "需要备份内容。", "F大可能旅游了。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "用户询问瑞芯微股票是否会有回弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["关注瑞芯微回弹可能。"],
+    "mentioned_stocks": ["瑞芯微"]
+  },
+  {
+    "index": 11,
+    "summary": "用户质疑中国大模型公司营收低，不赚钱。",
+    "sentiment": "negative",
+    "key_opinions": ["大模型公司营收几亿。", "开源难赚钱。", "C端用户习惯免费。"],
+    "mentioned_stocks": ["宇树", "SD"]
+  },
+  {
+    "index": 12,
+    "summary": "用户想买亨通做长飞补涨，但回复不建议，两者不是同一等级。",
+    "sentiment": "negative",
+    "key_opinions": ["长飞和亨通不是一个等级。", "不要因跌多买。", "可以看其他如中天。"],
+    "mentioned_stocks": ["长飞", "亨通", "中天", "永鼎", "长盈"]
+  },
+  {
+    "index": 13,
+    "summary": "用户讨论有色金属板块，列出关注股票如铜、铝、锡等。",
+    "sentiment": "positive",
+    "key_opinions": ["有色金属有空间，周期反转后景气。", "关注铜、铝、锡等。", "锡业股份适合波段。"],
+    "mentioned_stocks": ["紫金矿业", "西部矿业", "江西铜业", "铜陵有色", "中国宏桥", "宏桥控股", "云铝股份", "神火股份", "锡业股份", "华锡有色", "宝武镁业", "湖南黄金", "贵研铂业", "金瑞矿业", "中矿资源"]
+  },
+  {
+    "index": 14,
+    "summary": "市场涨的股票散户少，散户多的不涨，用户抱怨。",
+    "sentiment": "negative",
+    "key_opinions": ["散户有筹码的不涨。", "主力洗散户。", "资金少，赚蚊子腿。"],
+    "mentioned_stocks": ["诺德"]
+  },
+  {
+    "index": 15,
+    "summary": "市场量缩深套，风评不如澳门，用户悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["市场深套无人解救。", "A股风评不如澳门。", "用户持有药明康德不涨。"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 16,
+    "summary": "指数普涨，但实际3000家待涨，缩量，用户提醒勿追。",
+    "sentiment": "mixed",
+    "key_opinions": ["指数全红但个股待涨。", "缩量不能追。", "羡慕抄底的人。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "市场全崩，半导体反弹，但可能只是小反弹，宁德时代拖累。",
+    "sentiment": "negative",
+    "key_opinions": ["市场全崩。", "半导体反弹但跌多了。", "宁德时代拖累创业板。"],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 18,
+    "summary": "用户感觉熊市回归，每天待涨缩量，炒小炒差。",
+    "sentiment": "negative",
+    "key_opinions": ["每天4000+待涨。", "缩量严重。", "炒小炒差现象。"],
+    "mentioned_stocks": ["常山北明", "海能达", "双城药业", "C无线", "日出东方"]
+  },
+  {
+    "index": 19,
+    "summary": "银行等避险板块退潮，可能恐慌盘来，用户建议买入科技。",
+    "sentiment": "negative",
+    "key_opinions": ["避险板块全跌。", "买入科技股避险。", "加息周叠加假期。"],
+    "mentioned_stocks": ["紫金", "通信ETF", "科创50ETF", "半导体ETF"]
+  },
+  {
+    "index": 20,
+    "summary": "用户开嚎，预计恐慌盘释放，没人抄底。",
+    "sentiment": "negative",
+    "key_opinions": ["恐慌盘释放。", "没人抄底。", "用户抱怨。"],
+    "mentioned_stocks": ["南航"]
+  },
+  {
+    "index": 21,
+    "summary": "用户猜测内资知道不加息，拉涨科技，但不确定。",
+    "sentiment": "mixed",
+    "key_opinions": ["内资提前知道消息。", "加息预期高。", "科创50涨。"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论美国易出龙头，中国多竞争卷，批评环境。",
+    "sentiment": "negative",
+    "key_opinions": ["美国易出龙头。", "中国多竞争卷。", "国内创新少。"],
+    "mentioned_stocks": ["openai", "智普", "kimi", "deepseek", "mini", "Anthropic"]
+  },
+  {
+    "index": 23,
+    "summary": "用户问养元饮品横盘半月情况。",
+    "sentiment": "mixed",
+    "key_opinions": ["养元饮品横盘半月。"],
+    "mentioned_stocks": ["养元饮品"]
+  },
+  {
+    "index": 24,
+    "summary": "用户讨论避险策略，外围利空，准备冲电力和创新药。",
+    "sentiment": "negative",
+    "key_opinions": ["外围利空。", "空仓最好避险。", "准备冲电力和创新药。"],
+    "mentioned_stocks": ["农斯达克", "电力", "创新药"]
+  },
+  {
+    "index": 25,
+    "summary": "用户基于恐贪指数全仓沪深300，但反弹不及预期恐慌。",
+    "sentiment": "mixed",
+    "key_opinions": ["恐贪指数触发买入。", "全仓沪深300。", "反弹不及预期。"],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 26,
+    "summary": "用户开嚎，市场如死水，每天下跌，生益跳水。",
+    "sentiment": "negative",
+    "key_opinions": ["市场无活人。", "每天4000多下跌。", "生益跳水。"],
+    "mentioned_stocks": ["生益"]
+  },
+  {
+    "index": 27,
+    "summary": "PCB板块逆势强，用户讨论股票如沪电、巨石等。",
+    "sentiment": "positive",
+    "key_opinions": ["PCB逆势而行。", "用户做T。", "可能是下一个光模块。"],
+    "mentioned_stocks": ["沪电", "巨石", "生益", "深南", "中瓷", "宝鼎", "超声"]
+  },
+  {
+    "index": 28,
+    "summary": "用户问缩量终点，市场没信心，可能回到低点。",
+    "sentiment": "negative",
+    "key_opinions": ["缩量严重。", "没信心。", "可能回到五六千点时代。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "生益股票冲高回落，用户讨论是出货或无量硬拉。",
+    "sentiment": "negative",
+    "key_opinions": ["生益每天上影线。", "无量硬拉出货。", "用户做T差。"],
+    "mentioned_stocks": ["生益"]
+  },
+  {
+    "index": 30,
+    "summary": "宁德时代套牢外资，回购计划坑人，锂电板块差。",
+    "sentiment": "negative",
+    "key_opinions": ["外资套牢。", "回购计划坑。", "锂电板块鬼。"],
+    "mentioned_stocks": ["宁德时代", "摩根士丹利", "摩根大通", "贝莱德", "花旗"]
+  },
+  {
+    "index": 31,
+    "summary": "用户回忆七号家人帖子，事后诸葛亮，新低是机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["事后诸葛亮。", "新低是机会。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "美十债收益率高，市场给加息，用户感觉难。",
+    "sentiment": "negative",
+    "key_opinions": ["美债收益率高。", "市场给加息。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "想象20年后孩子开户，调侃A股可能不在，梭哈同花顺。",
+    "sentiment": "mixed",
+    "key_opinions": ["20年后A股可能不在。", "梭哈同花顺。", "牧原股份成茅台。"],
+    "mentioned_stocks": ["同花顺", "中际旭创", "牧原股份"]
+  },
+  {
+    "index": 34,
+    "summary": "PCB中游制造可能起飞，基于三季度业绩，用户清仓后悔。",
+    "sentiment": "positive",
+    "key_opinions": ["PCB三季度业绩体现。", "短期加息是建仓时机。", "用户清仓后悔。"],
+    "mentioned_stocks": ["沪电", "生益", "护垫"]
+  },
+  {
+    "index": 35,
+    "summary": "战狼链（国产链）强，不受外围影响，用户觉得奇怪。",
+    "sentiment": "mixed",
+    "key_opinions": ["战狼链独立行情。", "与美股是对手盘。", "A股是吕布链。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "用户问港股通资金是否影响科创买入，有疑问。",
+    "sentiment": "mixed",
+    "key_opinions": ["港股通卖出资金不能买科创。", "疑问。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "中概互联跌到五年前，用户问原因，外资撤离。",
+    "sentiment": "negative",
+    "key_opinions": ["中概互联跌。", "可能未踩中AI。", "外资撤离。"],
+    "mentioned_stocks": ["中概互联", "恒生科技指数", "阿里", "长鑫", "兆易", "中际旭创", "三星", "海力士", "美光", "闪迪", "铠侠"]
+  },
+  {
+    "index": 38,
+    "summary": "陕西黑猫老庄杀，用户提示不如看黑猫股份。",
+    "sentiment": "negative",
+    "key_opinions": ["陕西黑猫被杀。", "不如看黑猫股份。"],
+    "mentioned_stocks": ["陕西黑猫", "黑猫股份"]
+  },
+  {
+    "index": 39,
+    "summary": "用户讨论内裤股票玄学，如浪莎和海澜之家。",
+    "sentiment": "mixed",
+    "key_opinions": ["穿红内裤影响股市。", "浪莎和海澜之家做内裤。"],
+    "mentioned_stocks": ["浪莎", "海澜之家"]
+  },
+  {
+    "index": 40,
+    "summary": "存楼帖子反复被删，用户抱怨，需要协同。",
+    "sentiment": "negative",
+    "key_opinions": ["存楼反复去世。", "需要左光右算协同。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "锂电储能不跟油价涨，反而跌，流动性被科技抽光。",
+    "sentiment": "negative",
+    "key_opinions": ["锂电储能不跟涨。", "流动性被科技抽光。", "机构不看好。"],
+    "mentioned_stocks": ["阳光", "亿纬锂能", "鹏辉能源", "宁德时代"]
+  },
+  {
+    "index": 42,
+    "summary": "用户说主力诱多出货，但回复反驳缩量出不了货。",
+    "sentiment": "mixed",
+    "key_opinions": ["主力诱多出货。", "缩量出不了货。", "无量硬拉。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "用户问国航跌到3块条件，回复开玩笑需极端事件。",
+    "sentiment": "mixed",
+    "key_opinions": ["国航难跌到3块。", "需要极端事件。", "用户梭哈。"],
+    "mentioned_stocks": ["国航"]
+  },
+  {
+    "index": 44,
+    "summary": "用户实盘恒生科技指数ETF，讨论位置创新低。",
+    "sentiment": "mixed",
+    "key_opinions": ["恒生科技指数ETF创新低。", "PE更贵。", "不该买。"],
+    "mentioned_stocks": ["恒生科技指数ETF"]
+  },
+  {
+    "index": 45,
+    "summary": "用户发天哥图片，调侃抄底机会多但套牢。",
+    "sentiment": "negative",
+    "key_opinions": ["抄底机会多但套牢。", "天哥名场面。", "用户抄底。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "用户问完美世界能否买，回复多不看好，套牢盘多。",
+    "sentiment": "negative",
+    "key_opinions": ["完美世界想买但理智说不。", "套牢盘多。", "做T神股。"],
+    "mentioned_stocks": ["完美世界", "海狗", "紫金", "巨人网络", "华通"]
+  },
+  {
+    "index": 47,
+    "summary": "市场成交额创新低，没人玩，用户悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["成交额创新低。", "市场没人玩。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "用户建议先出来等利空落地，外围暴跌风险。",
+    "sentiment": "negative",
+    "key_opinions": ["明天利空落地。", "先出来避险。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "用户说比亚迪不发年终奖省成本，但行业不赚钱。",
+    "sentiment": "mixed",
+    "key_opinions": ["不发年终奖省成本。", "电车行业不赚钱。", "等困境反转。"],
+    "mentioned_stocks": ["比亚迪", "万科"]
+  },
+  {
+    "index": 50,
+    "summary": "用户讨论尊界可能被重视，但新能源汽车行业难。",
+    "sentiment": "mixed",
+    "key_opinions": ["尊界可能涨停。", "华为高端车不错。", "新能源汽车行业难。"],
+    "mentioned_stocks": ["尊界", "华为", "问界"]
+  }
+]
