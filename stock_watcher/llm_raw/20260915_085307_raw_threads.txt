@@ -1,0 +1,528 @@
+[
+  {
+    "index": 1,
+    "summary": "用户猜测科创50和创业板今天跌幅，讨论日韩市场影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "猜测科创50跌4点左右，创业板跌5点左右",
+      "关注日韩市场表现，预测跌幅",
+      "认为A股可能走独立行情，但回复悲观"
+    ],
+    "mentioned_stocks": ["科创50", "创业板"]
+  },
+  {
+    "index": 2,
+    "summary": "用户预感大A今天会出乎预料的硬，但回复多持怀疑态度。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "预感大A今天会硬",
+      "a公子在令人失望方面从不让人失望",
+      "主要看韩国市场影响"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "个人约会事件帖子，回复涉及股市亏损和黄图。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "发糊涂帖，大家裤衩子都亏没了",
+      "黄图哥来了，大A有救了",
+      "胜率变低了"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "古尔曼预测折叠屏手机十年内成主流，基于苹果iPhone Duo。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "折叠屏手机将在十年内成为主流",
+      "苹果iPhone Duo带来类似初代iPhone的感觉",
+      "软件优化和耐用性推升品类认可"
+    ],
+    "mentioned_stocks": ["苹果"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论韩国股市开盘超预期，但亚洲投资人不买账AO减速论。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "欧巴开盘超预期",
+      "亚洲投资人对AO减速论不买账",
+      "大A开盘可能倒车"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "存储行业讨论，回复多为个人情绪表达，如哀嚎和期待。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "存储人长路尽头有烟火",
+      "国存感觉还要横盘震荡一段时间",
+      "前排哀嚎"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "质疑加息预期下科技股表现强劲，解释MLCC和AI安全上涨原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "元件、MLCC、AI安全板块强势",
+      "科技做多资金抱团，筹码游戏",
+      "加息预期利好确定性行业如AI基建"
+    ],
+    "mentioned_stocks": ["MLCC", "中新赛克", "超声电子", "凯盛", "天融信", "莲花", "豫能"]
+  },
+  {
+    "index": 8,
+    "summary": "感觉股市全面下跌，只有银行可能幸存。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "无人生还，只有银行了",
+      "有色、科技先死",
+      "日韩顽强但A股可能惨"
+    ],
+    "mentioned_stocks": ["银行", "有色", "科技"]
+  },
+  {
+    "index": 9,
+    "summary": "比较中美行业结构，中国行业竞争激烈导致内卷。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美国行业有超级大龙头如OpenAI",
+      "中国行业竞争激烈如智普、kimi等",
+      "营商环境和投资水平差异"
+    ],
+    "mentioned_stocks": ["OpenAI", "智普", "kimi", "deepseek", "mini"]
+  },
+  {
+    "index": 10,
+    "summary": "感觉股市涨不动但也不想跌，可能等待下跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "涨不动，但也不想跌",
+      "消息面差，临近长假无行情",
+      "机构锁仓不卖，等待死亡到来"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "询问石油资产是否也能历史新高，但回复悲观。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "各类资产历史新高，石油是否跟上",
+      "中国石油历史高点48多，中报表现差",
+      "国内油气股被大手调控"
+    ],
+    "mentioned_stocks": ["中国石油", "宝丰", "海油", "兖矿"]
+  },
+  {
+    "index": 12,
+    "summary": "用户最高点入通信ETF亏25点，询问回本机会，回复多建议止损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "最高点入通信ETF亏25点",
+      "创业板可能破前低",
+      "找机会做T或换股，红利基更稳"
+    ],
+    "mentioned_stocks": ["通信ETF"]
+  },
+  {
+    "index": 13,
+    "summary": "询问恒科走势，基于期货和韩国市场表现。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "期货已涨1%",
+      "韩国没大跌",
+      "韩国死透恒科大涨，韩国翻红恒科潜水"
+    ],
+    "mentioned_stocks": ["恒科"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论全职炒股的困难，对手强大如退休大爷和量化机构。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "全职炒股对手强大",
+      "心性比智商重要",
+      "买红利更稳定，但收益低"
+    ],
+    "mentioned_stocks": ["红利基", "长江电力", "银行", "电信"]
+  },
+  {
+    "index": 15,
+    "summary": "日韩提前下跌今天跌幅小，A股可能不同。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "日韩预判准，提前跌了今天不咋跌",
+      "大A那叫预判吗，只是想砸盘",
+      "日韩甚至翻红"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "预测明天股市大跌，科技血流成河，议息会议影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "明天直接开跌",
+      "科技血流成河",
+      "周三议息会议铁定加息，创新低"
+    ],
+    "mentioned_stocks": ["科技股", "长飞"]
+  },
+  {
+    "index": 17,
+    "summary": "期待美股拉红，但回复多认为不可能。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股可能暴力拉红",
+      "老美不会也学会A股",
+      "跌了再加倍仓，明天抄底"
+    ],
+    "mentioned_stocks": ["美股", "纳指"]
+  },
+  {
+    "index": 18,
+    "summary": "回顾之前帖子，讨论卖出时机和新低机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "不要卖在第一根红K",
+      "事后诸葛亮",
+      "每次新低都是机会"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "询问红利投资好处，回复解释偏好高风险的原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "红利稳定盈利穿越牛熊",
+      "大家偏好高风险高收益",
+      "低认知群体多，股神幻想"
+    ],
+    "mentioned_stocks": ["红利低波", "中证红利", "港股红利", "标普", "长江电力", "银行", "电信"]
+  },
+  {
+    "index": 20,
+    "summary": "本月盈利，但幅度小，跑赢80%。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "本月盈利",
+      "跑赢80%",
+      "0.5个点超过80%"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论美联储会议结果，加息加放鸽的可能性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "加息加放鸽可能是最好结果",
+      "Fed信用欠费",
+      "加息一次看市场数据"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "对比油价上涨时锂电储能表现，询问不跟涨原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "锂电储能不跟油价涨",
+      "流动性被科技抽光",
+      "机构觉得新能源行业内卷"
+    ],
+    "mentioned_stocks": ["锂电", "储能", "阳光", "亿纬锂能", "鹏辉能源"]
+  },
+  {
+    "index": 23,
+    "summary": "建议不打开账户，因亏损压力大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "不打开账户比较好",
+      "最近有点高血压"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "工信部引导龙头企业及时付款，但回复指出实际拖欠问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "工信部引导龙头企业及时付款",
+      "城投带头不还钱",
+      "央企国企拖欠工程款"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "股市亏损哀嚎，分享个人痛苦。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "腰斩了",
+      "膝盖斩了",
+      "熬不动了"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "反直觉观点，美股科技可能受益加息，成防御板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股科技巴不得打战加息",
+      "科技成防御板块",
+      "真加息了是大逃杀"
+    ],
+    "mentioned_stocks": ["美股科技", "老馒头海力士"]
+  },
+  {
+    "index": 27,
+    "summary": "预判短线打妖行情，建议空仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "接下来短线打妖行情",
+      "科技牛结束",
+      "建议空仓"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "预测明天成交量可能大跌，开盘抢跑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "明天预期开盘抢跑，杀出2万亿筹码",
+      "没人接就缩量跌",
+      "创业板可能破前低"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "认为港股创新药调整完毕，可能上涨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "港股创新药调整完毕",
+      "港股创新药公司全面打爆A股",
+      "药明小回血"
+    ],
+    "mentioned_stocks": ["港股创新药", "药明"]
+  },
+  {
+    "index": 30,
+    "summary": "询问大消费走势，满仓中百，回复悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大消费明天可能没戏",
+      "中百是给国芳续命的工具人",
+      "短线只有金健和国芳"
+    ],
+    "mentioned_stocks": ["中百", "国芳", "欧亚"]
+  },
+  {
+    "index": 31,
+    "summary": "指出纳指和费城半导体不同步，国内科技跟跌不跟涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳指V了不等于费城半导体V了",
+      "国内科技跟费城半导体",
+      "跟跌不跟涨"
+    ],
+    "mentioned_stocks": ["纳指", "费城半导体", "科创"]
+  },
+  {
+    "index": 32,
+    "summary": "期待纳指带动半导体V回，但不确定。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指想给半导体V回去",
+      "半导体也在狂V",
+      "费城半导体几乎没动"
+    ],
+    "mentioned_stocks": ["纳指", "半导体", "费城半导体", "英伟达"]
+  },
+  {
+    "index": 33,
+    "summary": "质疑大A是否有独立行情，与美股关系。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大A是否有独立行情",
+      "美联储加息美股暴跌跟A股关系",
+      "大A在令人失望方面从不令人失望"
+    ],
+    "mentioned_stocks": ["大A", "美股"]
+  },
+  {
+    "index": 34,
+    "summary": "表达下跌情绪，期待砸盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "给砸",
+      "抄了老登股",
+      "文峰明天能放开手砸"
+    ],
+    "mentioned_stocks": ["老登股", "医疗", "白酒", "渣券"]
+  },
+  {
+    "index": 35,
+    "summary": "介绍55日线和233日线战法，技术分析策略。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "55日线233日线战法",
+      "5、10、20日线多头排列上车点",
+      "用AI选股"
+    ],
+    "mentioned_stocks": ["山东玻纤", "长飞光纤", "大金重工", "国安股份"]
+  },
+  {
+    "index": 36,
+    "summary": "期待美股V回，特朗普护盘。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "求大美子带带",
+      "川子今天铁了心护盘",
+      "为国护盘"
+    ],
+    "mentioned_stocks": ["美股", "特朗普"]
+  },
+  {
+    "index": 37,
+    "summary": "村田扩产MLCC，讨论对国产影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "村田计划MLCC扩产两成",
+      "说好的卡脖子在哪",
+      "明天MLCC大跌有理由了"
+    ],
+    "mentioned_stocks": ["MLCC", "村田", "国瓷材料"]
+  },
+  {
+    "index": 38,
+    "summary": "欧洲接力AI发展，但回复悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "欧洲接力AI",
+      "本质AI基建还是供不应求",
+      "欧洲内部心不齐"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "黄金跳水，询问紫金矿业抄底点。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金跳水",
+      "多少的紫金拿盆接",
+      "央行4000无限托底"
+    ],
+    "mentioned_stocks": ["紫金矿业", "黄金"]
+  },
+  {
+    "index": 40,
+    "summary": "海力士新高但德明利不跟，询问跟跌不跟涨原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "海力士新高德明利没跟",
+      "跟跌不跟涨",
+      "模组厂碰瓷HBM"
+    ],
+    "mentioned_stocks": ["海力士", "德明利", "HBM"]
+  },
+  {
+    "index": 41,
+    "summary": "META吸干全场，类似上次。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "META吸干全场",
+      "都学金毛画K线了吗"
+    ],
+    "mentioned_stocks": ["META"]
+  },
+  {
+    "index": 42,
+    "summary": "看图，涉及特朗普和AI公司矛盾。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A÷惹众怒",
+      "elon跟团",
+      "川总亏钱怒了"
+    ],
+    "mentioned_stocks": ["A÷", "特朗普", "elon"]
+  },
+  {
+    "index": 43,
+    "summary": "询问南航是否值得抄底，回复多悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "南航可以进去坐牢",
+      "国内航司砍航线",
+      "航空股回报周期长"
+    ],
+    "mentioned_stocks": ["南航", "海狗"]
+  },
+  {
+    "index": 44,
+    "summary": "AI公司烧钱放缓，没钱了。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "2025烧一年现金流烧完",
+      "没钱了不放缓",
+      "苹果不咋烧钱"
+    ],
+    "mentioned_stocks": ["苹果", "AI公司"]
+  },
+  {
+    "index": 45,
+    "summary": "科技股V起来需中东停火，但难停火。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技V起来需中东停火",
+      "朗子不想停",
+      "沙特管道被炸油价下不来"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 46,
+    "summary": "推演美国加息风险，应对策略如定投。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美债规模40万亿",
+      "加息风险分析",
+      "定投纳指标普"
+    ],
+    "mentioned_stocks": ["纳指", "标普"]
+  },
+  {
+    "index": 47,
+    "summary": "要求放量，控量熬不住。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "做T队放量",
+      "控量熬不住",
+      "放量只能暴跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "谷歌冷笑话说放缓AI发展，但实际可能没钱。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "谷歌冷笑话说放缓AI发展",
+      "没钱烧了说的冠冕堂皇",
+      "谷歌好歹推动了AI发展"
+    ],
+    "mentioned_stocks": ["谷歌"]
+  }
+]
