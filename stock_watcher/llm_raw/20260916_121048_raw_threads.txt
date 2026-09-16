@@ -1,0 +1,338 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论炒股与德州扑克相似性，核心是仓位管理和盈亏比，但存在零和游戏与人性挑战的争论。",
+    "sentiment": "mixed",
+    "key_opinions": ["做好仓位管理和盈亏比几乎不可能亏钱", "股票市场是零和游戏，赚钱需他人亏损", "克服人性、研究复盘是关键"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户对当日市场上涨原因感到困惑，引发关于反弹持续性、是否是诱多及资金轮动的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场变幻莫测看不懂", "担心是“拉一天跌四天”的重复", "可能是诱多，需谨慎"],
+    "mentioned_stocks": ["半导体设备ETF"]
+  },
+  {
+    "index": 3,
+    "summary": "认为当日上涨表明国家队态度独立于美联储加息，引发对国家队意图和市场规律的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股应独立于美国加息预期", "怀疑国家队借平衡市场做T", "上涨可能是对前期恐慌割肉筹码的兑现"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "用户询问上午满仓操作是否正确，引发对满仓半导体等高风险行为的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["满仓半导体如同加老鼠药", "操作正确与否需次日验证", "因害怕可考虑明日减仓"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论徐工等工程机械股大跌，用户困惑原因，引发对行业利空和加仓风险的讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["工程机械板块集体杀跌原因不明", "可能有未知利空，不敢乱加仓", "资金从传统行业流向科技板块"],
+    "mentioned_stocks": ["徐工", "柳工", "山推股份", "三一重工", "工程机械"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论论坛发帖量（小时代）与市场情绪的关系，认为可作为情绪传导器和反向指标。",
+    "sentiment": "mixed",
+    "key_opinions": ["发帖量是散户情绪的传导器", "放量发帖且看多时可能是卖出信号", "需结合市场偏好面综合判断"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "用户基于科创板块负反馈预期和资金提前量操作，选择清仓。",
+    "sentiment": "negative",
+    "key_opinions": ["科创板块涨后负反馈大", "资金习惯打提前量", "不贪图明日可能的上涨"],
+    "mentioned_stocks": ["科创"]
+  },
+  {
+    "index": 8,
+    "summary": "严厉批评沃尔核材为“屌票恶庄”，描述其利用压单和砸盘进行洗盘的恶劣行为。",
+    "sentiment": "negative",
+    "key_opinions": ["恶庄利用压单和砸盘进行洗盘", "企业风评差，有减持和业绩不兑现问题", "被称为诈骗公司"],
+    "mentioned_stocks": ["沃尔核材"]
+  },
+  {
+    "index": 9,
+    "summary": "用户F大的帖子被删除，引发其他用户对备份内容和原因的讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["重要帖子应备份", "发个股截图可能导致帖子被删", "作者可能在外出游"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "用户分享用AI研究航司的成果，聚焦油价影响，引发对航空股投资逻辑和标的的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["油价是航空行情的总闸门", "投资航空股是捡垃圾博反弹心态", "航空运输不是好生意"],
+    "mentioned_stocks": ["中国航司", "南航", "春秋航空"]
+  },
+  {
+    "index": 11,
+    "summary": "用户因听信博主推荐在高点买入九阳股份，导致亏损，表达后悔情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["盲目听信博主导致高位套牢", "博主不可靠", "九阳股份名称易产生误解"],
+    "mentioned_stocks": ["九阳股份"]
+  },
+  {
+    "index": 12,
+    "summary": "用户感觉当前市场行情与过去某段时期相似，对能否解套抱有希望但也有疑虑。",
+    "sentiment": "mixed",
+    "key_opinions": ["行情有似曾相识的感觉", "对解套抱有希望但需谨慎", "当前套牢盘情况与以往不同"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "分析科技股上涨可能很危险，是资金在提前博弈美联储加息利空落地。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场在预判美联储加息结果", "上涨是资金抢跑加息落地后的反弹", "反弹可能是必要的"],
+    "mentioned_stocks": ["电子", "通信"]
+  },
+  {
+    "index": 14,
+    "summary": "用户预期美联储加息落地后市场将强势反弹，并认为现在割肉是倒在黎明前。",
+    "sentiment": "positive",
+    "key_opinions": ["加息预期落地将引发强势反弹", "当前割肉是倒在黎明前", "但长期来看下半年可能没戏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "用户询问本月是否回本，回复显示散户盈亏情况差异巨大。",
+    "sentiment": "mixed",
+    "key_opinions": ["普涨一天难以回本", "不同持仓回本距离差异大", "板块分化严重"],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 16,
+    "summary": "用户回论坛晒持仓，认为科创弱势，光通信强，并表达对市场的失望。",
+    "sentiment": "negative",
+    "key_opinions": ["科创板块非常弱，受三只熊股拖累", "光通信近期强势，映射美股", "后悔没定投美股"],
+    "mentioned_stocks": ["沐曦", "摩尔", "宇树", "新易盛", "源杰", "中国巨石", "科创ETF", "通信ETF"]
+  },
+  {
+    "index": 17,
+    "summary": "用户后悔在周一基本清仓，导致踏空科技股上涨，感到悔恨。",
+    "sentiment": "negative",
+    "key_opinions": ["精准清仓后踏空上涨行情", "上涨常类比六月行情", "建议等待回调或外部信息确认"],
+    "mentioned_stocks": ["光导"]
+  },
+  {
+    "index": 18,
+    "summary": "用户空仓四天但因逆回购未到期无法买入，错过上涨行情感到遗憾。",
+    "sentiment": "negative",
+    "key_opinions": ["市场拉升但无法参与", "逆回购限制了及时操作", "建议逐日进行逆回购以保持灵活性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论鼎盛新材股价持续下跌，可能成为近三个月最“蛆”的股票。",
+    "sentiment": "negative",
+    "key_opinions": ["鼎盛新材股价表现极差", "用户因无法忍受而割肉", "可与其他下跌股对比"],
+    "mentioned_stocks": ["鼎盛新材"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论今天是否适合买入科技股，观点分歧，涉及追高风险与抢跑逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["预判加息兑现后可能再次下跌", "资金在抢跑加息落地的先手", "要信早信，否则容易追高"],
+    "mentioned_stocks": ["科技", "通鼎"]
+  },
+  {
+    "index": 21,
+    "summary": "介绍景顺纳指科技基金明天开放额度，并讨论其高溢价原因及是否值得购买。",
+    "sentiment": "mixed",
+    "key_opinions": ["基金开放每日申购额度", "溢价率高因它是纳指科技而非纳指100", "当前时间点可能不合适"],
+    "mentioned_stocks": ["景顺纳指科技"]
+  },
+  {
+    "index": 22,
+    "summary": "分析美联储加息的最佳结果是仅加息一次25BP，重点在于后续表态。",
+    "sentiment": "mixed",
+    "key_opinions": ["不加息会损害美联储独立性", "仅加息一次且不进入周期是利空落地", "沃什的后续表态是关键"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "用户宣告新一轮攻势开启，并询问“易中天”组合能涨到多少。",
+    "sentiment": "positive",
+    "key_opinions": ["再次开启“易中天”组合投资", "相信行情启动"],
+    "mentioned_stocks": ["易中天"]
+  },
+  {
+    "index": 24,
+    "summary": "观察到纳指期货和黄金同时拉升，用户猜测可能是不加息了。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指期货与黄金同涨令人费解", "可能暗示不加息消息", "市场可能走利空落地逻辑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "用户对当日科技股和小金属的上涨表示完全看不懂。",
+    "sentiment": "negative",
+    "key_opinions": ["完全看不懂上涨逻辑", "可能是拉高出货", "仅对明日一天而言，加息是利空落地"],
+    "mentioned_stocks": ["科技", "小金属"]
+  },
+  {
+    "index": 26,
+    "summary": "用户因前期被套太深，减仓了40%的半导体ETF，保留剩余仓位博未来。",
+    "sentiment": "negative",
+    "key_opinions": ["因套牢痛苦选择减仓解套", "保留部分仓位期待未来", "对半导体ETF仍有信心"],
+    "mentioned_stocks": ["半导体ETF 588170"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论海皇（航运股）在公司回购利好下是否还能买入，存在追高与长线投资的争论。",
+    "sentiment": "mixed",
+    "key_opinions": ["公司回购提供股价支撑", "当前追高有挂山顶风险", "可长期持有靠分红降低成本"],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 28,
+    "summary": "用户对市场V型反弹不理解，因前一日清仓科技转投黄金而后悔。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股强势拉升令人不解", "换仓至黄金导致收益不佳", "操作需避免后视镜思维"],
+    "mentioned_stocks": ["黄金", "芯片", "科创50"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论市场拉升是否预示当晚不加息，观点认为大资金可能提前行动。",
+    "sentiment": "mixed",
+    "key_opinions": ["大资金可能在提前博弈", "市场已定价一次加息，赌不进入加息周期", "拉升也可能是诱多"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "用户感叹科技股行情刺激，两天拉回了本月20%的亏损。",
+    "sentiment": "positive",
+    "key_opinions": ["科技股行情波动剧烈", "快速回本带来刺激感", "怀疑拉升是因散户已割肉"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "用户对当日上涨持怀疑态度，认为是抢跑预期，担心后续追高被套。",
+    "sentiment": "negative",
+    "key_opinions": ["上涨是资金抢跑加息落地预期", "明天可能卖给今天不信的人", "有诱多嫌疑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "用户因化工股和工程机械股大跌导致心态崩溃，并反思行业选择。",
+    "sentiment": "negative",
+    "key_opinions": ["化工和工程机械板块暴跌", "怀疑有行业未知利空", "科技板块上涨可能对传统行业形成“吸血”效应"],
+    "mentioned_stocks": ["化工", "工程机械", "三一重工", "万华"]
+  },
+  {
+    "index": 34,
+    "summary": "用户询问科技股高开是否应该跑，引发短线纪律与长线逻辑的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["短线操作应遵守纪律落袋为安", "中长线看好AI可持有不动", "今晚美联储发言是最大不确定性"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 35,
+    "summary": "用户询问三一重工跌停原因，讨论指向科技板块吸血或行业利空。",
+    "sentiment": "negative",
+    "key_opinions": ["可能是科技板块“吸血”导致", "也可能存在流动性或业绩问题", "整个工程机械行业可能有大利空"],
+    "mentioned_stocks": ["三一重工"]
+  },
+  {
+    "index": 36,
+    "summary": "用户对市场突然拉升感到疑惑。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场走势令人意外", "可能与日经指数休息时段外围波动有关"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "用户认为市场仍是“拉一天跌四天”的模式，是“老乡别走”的诱多。",
+    "sentiment": "negative",
+    "key_opinions": ["上涨模式可能是“拉一天跌四天”", "有“老乡别走”诱多嫌疑", "可能是骗人进场再杀跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "讨论一个反直觉观点：美股科技在加息背景下可能成为防御板块，但认为A股不适用。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股硬件科技可能成为加息下的防御板块", "加息对缺钱融资的科技公司是利空", "A股科技股不具备美股的避险属性"],
+    "mentioned_stocks": ["老馒头", "海力士"]
+  },
+  {
+    "index": 39,
+    "summary": "用户以“村里发金条”比喻市场上涨，并提及日经表现更强。",
+    "sentiment": "positive",
+    "key_opinions": ["市场上涨如发金条", "空头力量消失", "日经指数表现更为强劲"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "用户开盘时哀嚎市场下跌，但随后市场转为普涨，感到意外。",
+    "sentiment": "mixed",
+    "key_opinions": ["开盘下跌引发悲观情绪", "随后市场转为普涨", "板块表现分化，整车V型反弹"],
+    "mentioned_stocks": ["整车", "中新赛克"]
+  },
+  {
+    "index": 41,
+    "summary": "用户询问市场普遍下跌、仅半导体上涨的原因，认为可能是资金为避险而切换。",
+    "sentiment": "negative",
+    "key_opinions": ["半导体“吸干”全场资金", "可能与避开国庆长假风险有关", "宁德时代下跌拖累创业板"],
+    "mentioned_stocks": ["宁德时代", "半导体"]
+  },
+  {
+    "index": 42,
+    "summary": "用户因市场大涨而高呼“牛回”，情绪激动。",
+    "sentiment": "positive",
+    "key_opinions": ["放量大涨，牛市归来", "积极看涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "用户调侃韩国股市表现，附上对比图片。",
+    "sentiment": "positive",
+    "key_opinions": ["调侃韩国市场表现", "暗示A股相对更强"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "用户询问持续阴跌的“老奶奶下楼梯”行情何时结束。",
+    "sentiment": "negative",
+    "key_opinions": ["行情如老奶奶下楼梯般缓慢下跌", "可能持续到国庆后甚至更久", "若加息则影响更深远"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "用户从技术面讨论周一缺口是否回补，多数看好向上修复。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术面看好缺口向上回补", "创业板周线形态较好，可能先修复", "半导体板块当日表现强劲"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 46,
+    "summary": "用户对某只股票（半岛铁盒）突然启动感到惊讶，讨论可能原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["股票突然暴力拉升，原因不明", "可能有内部消息或主力砸到位", "属于板块轮动，算力基建有政策支持"],
+    "mentioned_stocks": ["半岛铁盒", "光", "PCB", "MLCC"]
+  },
+  {
+    "index": 47,
+    "summary": "用户称赞赤峰黄金股性强，下跌少且拉升猛。",
+    "sentiment": "positive",
+    "key_opinions": ["赤峰黄金股价抗跌", "上涨时拉升凶猛"],
+    "mentioned_stocks": ["赤峰黄金"]
+  },
+  {
+    "index": 48,
+    "summary": "用户认同只有科技板块上涨才能带来市场成交量。",
+    "sentiment": "positive",
+    "key_opinions": ["科技板块上涨是成交量的关键", "科技上涨能有效激活市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "分析东山精密技术面位于支撑位附近，有反弹迹象，可考虑介入。",
+    "sentiment": "positive",
+    "key_opinions": ["股价在支撑线附近有反弹迹象", "适合通过做T降低成本", "是光模块板块的情绪标的"],
+    "mentioned_stocks": ["东山精密"]
+  }
+]
