@@ -1,0 +1,310 @@
+[
+  {
+    "index": 1,
+    "summary": "用户乐观预期明天赚钱，但回复有风险警告，提到周四可能有问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["明天可能赚钱（麻袋装钱）；", "风险大，可能麻袋装人；", "周四被提及为潜在问题日。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论今天是否是主力给机会逃跑，回复分歧，有人卖出有人持有。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天是跑的机会；", "明天可能上涨别追高；", "担心加息影响。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论中国神华涨幅和收益计算，回复澄清分红和复权方式。",
+    "sentiment": "mixed",
+    "key_opinions": ["前复权显示涨2600%，但需谨慎；", "分红不复投收益26倍；", "后复权更接近真实收益。"],
+    "mentioned_stocks": ["中国神华"]
+  },
+  {
+    "index": 4,
+    "summary": "存储相关讨论，用户分享二次元内容并提及存储股票。",
+    "sentiment": "positive",
+    "key_opinions": ["存储人集合讨论；", "德子（存储股）吃饱了；", "紫光股份等被提及。"],
+    "mentioned_stocks": ["德子", "紫光股份", "太极实业", "深科技"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论国家队对美股加息的态度，认为A股独立，但有怀疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股不受美股加息影响；", "但可能只是表面现象；", "汪汪队（国家队）做T。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "询问尾盘仓位，回复有跑路、被套、不动等悲观情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘有跑路迹象；", "被套者不动；", "建议清仓不要赌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论紫光股份走势，担心庄家和下跌，等待抄底。",
+    "sentiment": "negative",
+    "key_opinions": ["紫光股份有v型反弹可能；", "庄家恶心，可能再跌；", "等待31块抄底。"],
+    "mentioned_stocks": ["紫光股份", "中天科技"]
+  },
+  {
+    "index": 8,
+    "summary": "大金重工技术分析，讨论上车点位，有乐观也有谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术分析显示可能上车；", "等-8抄底；", "谨慎入场，还没跌完。"],
+    "mentioned_stocks": ["大金重工"]
+  },
+  {
+    "index": 9,
+    "summary": "询问大资金配置偏好，回复以吃股息为主，部分配置科技。",
+    "sentiment": "positive",
+    "key_opinions": ["大部分资金吃股息；", "部分配置科技或美股；", "讲究配置分散风险。"],
+    "mentioned_stocks": ["药明康德", "四大行", "美股", "黄金"]
+  },
+  {
+    "index": 10,
+    "summary": "F大帖子被删，用户希望恢复，讨论原因和备份重要性。",
+    "sentiment": "negative",
+    "key_opinions": ["帖子被删需备份；", "F大可能出差；", "可能因个股截图被删。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "景顺纳指科技基金开放，讨论溢价和区别。",
+    "sentiment": "mixed",
+    "key_opinions": ["基金开放额度；", "溢价高需注意；", "是纳指科技而非纳指100。"],
+    "mentioned_stocks": ["景顺纳指科技", "纳指100", "纳指科技"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论回本后是否可持续上涨，有希望也有怀疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["刚回本担心再次下跌；", "回本需时间；", "全力加仓言退者斩。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "A股科技股引领全球，有自嘲和自豪，但可能跳水。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股市场技术含量高；", "科技上涨是真正该涨；", "可能下午跳水。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论红利股下午上涨原因，认为有增量资金入场。",
+    "sentiment": "positive",
+    "key_opinions": ["放量资金拉红利；", "有增量资金入场；", "可能是北向资金。"],
+    "mentioned_stocks": ["红利股", "银行股"]
+  },
+  {
+    "index": 15,
+    "summary": "阿里股价波动小，像银行股，讨论缩量和等联储会议。",
+    "sentiment": "negative",
+    "key_opinions": ["阿里极致缩量；", "没有炒作点；", "等联储会议结果。"],
+    "mentioned_stocks": ["阿里巴巴", "银行股"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论是否反弹牛市来了，有希望但也怀疑是骗局。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天下午没低走；", "博弈加息胜率高；", "可能再骗一波。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论下行周期定投策略，建议空仓或定投避险资产。",
+    "sentiment": "negative",
+    "key_opinions": ["下行周期应空仓；", "定投黄金、纳指等；", "等危机爆发抄底。"],
+    "mentioned_stocks": ["黄金", "纳指", "豆粕ETF", "A股银行保险煤油电"]
+  },
+  {
+    "index": 18,
+    "summary": "东山精密技术分析，讨论买入时机和做T机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["在支撑线附近有反弹；", "可以做T；", "等回落买。"],
+    "mentioned_stocks": ["东山精密", "光模块"]
+  },
+  {
+    "index": 19,
+    "summary": "避开科技股风险，选择美的集团，讨论稳定上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["科技风险大；", "美的稳定上涨；", "等60日线买。"],
+    "mentioned_stocks": ["美的集团"]
+  },
+  {
+    "index": 20,
+    "summary": "分析加息对海外AI股影响，认为抄底机会，计划加仓。",
+    "sentiment": "positive",
+    "key_opinions": ["加息不影响高景气产业；", "加息落地利好股价；", "加仓创新药、AI硬件、黄金。"],
+    "mentioned_stocks": ["海外AI股", "创新药", "AI硬件", "黄金", "JNJ", "Lly", "科磊", "SOX", "海力士"]
+  },
+  {
+    "index": 21,
+    "summary": "寻找国产算力龙头，讨论华为大会可能引爆，观测多只股票。",
+    "sentiment": "positive",
+    "key_opinions": ["华为大会可能引爆国算；", "观测风华、太极、有研；", "MLCC和PCB先看。"],
+    "mentioned_stocks": ["星网锐捷", "华丰", "风华", "太极实业", "有研新材", "紫光股份"]
+  },
+  {
+    "index": 22,
+    "summary": "因清仓科技股踏空而后悔，讨论后续策略。",
+    "sentiment": "negative",
+    "key_opinions": ["踏空科技股上涨；", "清仓后等回调；", "明天可能大跌庆幸。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "市场存量资金博弈，资金轮动板块，无增量资金。",
+    "sentiment": "negative",
+    "key_opinions": ["场内套牢不动；", "资金轮动A、B、C板块；", "无增量资金。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "上午满仓半导体是否正确，有冲动乐观也有风险担忧。",
+    "sentiment": "mixed",
+    "key_opinions": ["满仓半导体加老鼠药；", "晚上可能穷；", "明天减半。"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 25,
+    "summary": "徐工股价下跌讨论抄底，工程机械板块杀跌，谨慎加仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["徐工可能跌到7块；", "工程机械板块杀跌；", "谨慎加仓。"],
+    "mentioned_stocks": ["徐工", "柳工", "山推股份", "三一重工", "中天科技"]
+  },
+  {
+    "index": 26,
+    "summary": "易中天股票新攻势，尾盘接货，乐观预期上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["尾盘接货；", "开启新攻势；", "问能冲多少。"],
+    "mentioned_stocks": ["易中天"]
+  },
+  {
+    "index": 27,
+    "summary": "科技股突然爆发，分析原因，有惊喜也有怀疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["跌多了回调；", "加息落地变利好；", "预判加息利空。"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 28,
+    "summary": "科技股波动大，亏损后快速反弹，讨论格局。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股波动刺激；", "两天拉回亏损；", "格局一下。"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论特朗普对美联储施压的影响，好奇但也悲观。",
+    "sentiment": "mixed",
+    "key_opinions": ["美国财政压力大；", "懂王施压可能无效；", "美国政策激进。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "一根阳线改变市场观点，但有跳水，涨了也不敢进。",
+    "sentiment": "mixed",
+    "key_opinions": ["一阳改三观；", "跳水了不想了；", "涨了也不敢进。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "担心明天被套，踏空后进场，建议做存储股。",
+    "sentiment": "negative",
+    "key_opinions": ["踏空后进场；", "担心明天下跌；", "建议做存储股。"],
+    "mentioned_stocks": ["紫金矿业", "封测", "太极实业", "深科技", "CPO", "PCB"]
+  },
+  {
+    "index": 32,
+    "summary": "卖飞多只股票后悔，讨论一生如履薄冰。",
+    "sentiment": "negative",
+    "key_opinions": ["卖飞麦格米特、江南新材、有研新材；", "一生如履薄冰；", "买点不对努力白费。"],
+    "mentioned_stocks": ["麦格米特", "江南新材", "有研新材"]
+  },
+  {
+    "index": 33,
+    "summary": "油运行业大周期讨论，期待石油上涨，但目前表现不佳。",
+    "sentiment": "positive",
+    "key_opinions": ["油运进入大周期；", "石油可能上涨；", "但目前表现不佳。"],
+    "mentioned_stocks": ["中石油", "海油", "油ETF", "LOF"]
+  },
+  {
+    "index": 34,
+    "summary": "收集股票梗制作游戏，提及经典标的和梗。",
+    "sentiment": "positive",
+    "key_opinions": ["制作股票主题游戏；", "经典梗如中远海运、润和软件；", "收集标的和梗。"],
+    "mentioned_stocks": ["中远海运", "润和软件", "紫金矿业", "胜利巨人", "锋龙", "利通电子"]
+  },
+  {
+    "index": 35,
+    "summary": "论坛放量发帖作为卖出信号，看多情绪时跑。",
+    "sentiment": "mixed",
+    "key_opinions": ["论坛放量发帖是情绪指标；", "看多情绪时跑；", "1分钟10个贴时卖。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "完美酱股价跌破10块，讨论下跌目标和抄底。",
+    "sentiment": "negative",
+    "key_opinions": ["股价低于10块；", "可能跌到8块；", "等6开头。"],
+    "mentioned_stocks": ["完美酱"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论美联储加息最佳情况，只加一次25BP最好。",
+    "sentiment": "mixed",
+    "key_opinions": ["只加一次25BP最好；", "不加息混乱；", "沃什表态关键。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "贵金属涨幅超过农业，讨论人声鼎沸需跑路。",
+    "sentiment": "mixed",
+    "key_opinions": ["贵金属人声鼎沸需跑；", "顶着加息涨；", "高有赚就走。"],
+    "mentioned_stocks": ["贵金属", "农业", "黄金"]
+  },
+  {
+    "index": 39,
+    "summary": "开盘下跌但后来上涨，狗队干活维持市场。",
+    "sentiment": "mixed",
+    "key_opinions": ["开盘哀嚎；", "后来红3000多家；", "狗队干活维持。"],
+    "mentioned_stocks": ["中新赛克", "整车"]
+  },
+  {
+    "index": 40,
+    "summary": "鼎盛新材表现差，讨论割肉和抱怨。",
+    "sentiment": "negative",
+    "key_opinions": ["鼎盛新材最蛆；", "割了受不了；", "看赵姨（可能指某股）。"],
+    "mentioned_stocks": ["鼎盛新材"]
+  },
+  {
+    "index": 41,
+    "summary": "宁德时代下跌原因分析，新能源汽车市场存量和电池技术问题。",
+    "sentiment": "negative",
+    "key_opinions": ["新能源汽车市场存量；", "电池技术不敏感；", "宁德时代回购问题。"],
+    "mentioned_stocks": ["宁德时代", "英伟达", "比亚迪", "阳光电源"]
+  },
+  {
+    "index": 42,
+    "summary": "杰瑞股份下跌原因分析，油气AI双线但下跌，未来悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["杰瑞股份油气AI双线但下跌；", "双头后下跌；", "未来不好过。"],
+    "mentioned_stocks": ["杰瑞股份", "汤姆猫", "游族网络"]
+  },
+  {
+    "index": 43,
+    "summary": "周四可能下跌的预期，全仓套牢跑不了。",
+    "sentiment": "negative",
+    "key_opinions": ["今天拉可能为明天跌；", "全仓套牢跑不了；", "操作没跑赢。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "讨论今天是否该进科技股，谨慎观望，加息落地影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["加息兑现后可能跌；", "玩时间差；", "要信早信。"],
+    "mentioned_stocks": ["科技股", "通鼎"]
+  }
+]
