@@ -1,0 +1,500 @@
+[
+  {
+    "index": 1,
+    "summary": "用户讨论将炒股视为游戏，有正反观点，涉及心态和目的。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "炒股如游戏可能害人不浅，目的为回本。",
+      "股市是博弈游戏，追求激素分泌。",
+      "有用户享受游戏化体验，如多人在线PVP。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户用黄历指导交易，讨论其有效性和幽默，涉及加息等事件。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用黄历预测交易日，但持怀疑态度。",
+      "部分用户尝试黄历，调侃其效果。",
+      "加息等事件影响市场。"
+    ],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 3,
+    "summary": "分析大金重工技术面，讨论买入时机，有期待和谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "技术分析建议等回踩后上车。",
+      "有用户等待下跌后抄底。",
+      "部分认为还没跌完，需谨慎入场。"
+    ],
+    "mentioned_stocks": ["大金重工"]
+  },
+  {
+    "index": 4,
+    "summary": "预测明天9.18可能因历史和日本加息导致下跌，悲观预期。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "叠加日本加息，明天可能大跌。",
+      "历史日期9.18引发负面联想。",
+      "大资金可能利用日期影响市场。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "帖子被删除，用户请求恢复，讨论原因和备份。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "帖子因股截图内容被删。",
+      "建议备份内容。",
+      "F大赚钱旅游，心态好。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "空仓或低收益却战胜多数投资者，显示市场普遍亏损。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "空仓战胜60%玩家，市场多数亏钱。",
+      "市场遵循721法则。",
+      "有用户8%收益战胜86%人。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论存储板块，但回复涉及其他话题，如特定股票和交易经验。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "存储板块有牛鬼蛇神。",
+      "用户讨论德子、太极等股票。",
+      "有用户分享交易经验。"
+    ],
+    "mentioned_stocks": ["德子", "太极"]
+  },
+  {
+    "index": 8,
+    "summary": "决定梭哈猪肉股，讨论逻辑和前景，乐观预期。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "梭哈猪肉板块。",
+      "逻辑是明年赚钱。",
+      "用户询问具体逻辑。"
+    ],
+    "mentioned_stocks": ["猪肉板块"]
+  },
+  {
+    "index": 9,
+    "summary": "市场对利空反应过度，不管预期还是落地都跌，悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利空预期和落地都导致下跌。",
+      "有用户质疑拉高套人。",
+      "美股未跌，A股独立下跌。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 10,
+    "summary": "买入存储股后导致负面情绪，讨论成本和长期持有。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "买存储股后没有笑容。",
+      "成本高低影响心态。",
+      "用户与兆易长期持有。"
+    ],
+    "mentioned_stocks": ["存储股", "兆易"]
+  },
+  {
+    "index": 11,
+    "summary": "分析宿迁联盛技术面和交易策略，有期待和反思。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "技术分析显示底部区间，容错高。",
+      "用户加入自选或买入。",
+      "有用户讨论交易心理。"
+    ],
+    "mentioned_stocks": ["宿迁联盛"]
+  },
+  {
+    "index": 12,
+    "summary": "华为芯片提前发布，讨论其对市场影响，有质疑和期待。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "芯片发布，但出货和盈利不确定。",
+      "产能不足是问题。",
+      "有用户建议做空。"
+    ],
+    "mentioned_stocks": ["华为相关", "华丰"]
+  },
+  {
+    "index": 13,
+    "summary": "空仓投资者分享恐惧因素，如加息、油价、电力短缺。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "担心加息周期、油价高位、电力短缺。",
+      "担心美股大跌影响A股。",
+      "有用户鼓励大胆投资。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "比亚迪股价异常波动，猜测是否庄家做局。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能因领导人会面特朗普引发。",
+      "质疑是否庄家做局。"
+    ],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 15,
+    "summary": "讽刺等待更好买点的投资者，鼓励果断行动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "观望者总在等待，错过机会。",
+      "用户分享类似经历。",
+      "鼓励果断行动。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "用户减仓，讨论比亚迪下午拉升。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "用户减仓下车。",
+      "比亚迪突然拉升。"
+    ],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 17,
+    "summary": "分析培育钻石股，买入四方达，有建议和风险提示。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "推荐四方达等股票。",
+      "用户手滑买多。",
+      "质疑为什么不买旋风。"
+    ],
+    "mentioned_stocks": ["四方达", "国机精工", "力量钻石"]
+  },
+  {
+    "index": 18,
+    "summary": "分析闽东电力下跌原因，妖股风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "妖股随时可能爆炸。",
+      "可能有公告影响。",
+      "用户责备昨天买家。"
+    ],
+    "mentioned_stocks": ["闽东电力"]
+  },
+  {
+    "index": 19,
+    "summary": "满仓海控，讨论买入点位和风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "满仓海控。",
+      "用户讨论买入点位。",
+      "有用户警告风险。"
+    ],
+    "mentioned_stocks": ["海控", "招商轮船"]
+  },
+  {
+    "index": 20,
+    "summary": "回顾银行加息预测，讨论当前情况。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美银预测加息三次。",
+      "当前第一次落地。",
+      "批评政治人物。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "科技股下跌时，有投资者越跌越买，讨论心态。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跌得越狠，越能捡便宜。",
+      "质疑下跌股票的价值。",
+      "讨论心态问题。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 22,
+    "summary": "沐曦股份换手率高，股价异常，解禁后上涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "解禁后股价上涨，出乎意料。",
+      "提前跌过，解禁反涨。"
+    ],
+    "mentioned_stocks": ["沐曦股份"]
+  },
+  {
+    "index": 23,
+    "summary": "宣布清仓，留小码玩妖股，加息周期悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "点阵图显示加息通道。",
+      "决定清仓。",
+      "加息可能持续到2029年。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "分析冰雪经济股票的历史表现和逻辑，有期待和质疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长白山和大连圣亚有季节性行情。",
+      "深层逻辑硬，但价格可能已计提。",
+      "有用户被套。"
+    ],
+    "mentioned_stocks": ["长白山", "大连圣亚", "雪人"]
+  },
+  {
+    "index": 25,
+    "summary": "庆祝招商轮船涨停，讨论油运逻辑。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "油运强势，涨停。",
+      "用户感谢特朗普。",
+      "有用户洗盘时坚持。"
+    ],
+    "mentioned_stocks": ["招商轮船", "药明康德"]
+  },
+  {
+    "index": 26,
+    "summary": "担心明天可能像4.7那样大跌，明天是四巫日。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "明天可能大跌。",
+      "明天是四巫日。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "加息周期但黄金未大跌，讨论原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "加息预期，但金价未崩。",
+      "有色跌了。",
+      "通胀压不下去。"
+    ],
+    "mentioned_stocks": ["有色板块"]
+  },
+  {
+    "index": 28,
+    "summary": "电力股下跌，用户被套，蓝筹轮动。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "电力股下跌，如陕西能源、华电国际、大唐电力。",
+      "用户被套一个月。",
+      "蓝筹轮动下跌。"
+    ],
+    "mentioned_stocks": ["陕西能源", "华电国际", "大唐电力", "辽能"]
+  },
+  {
+    "index": 29,
+    "summary": "加息后股市反应平静，质疑市场预期。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "加息后股市波澜不惊。",
+      "真正暴风雨可能还没来。",
+      "有色崩了。"
+    ],
+    "mentioned_stocks": ["有色板块"]
+  },
+  {
+    "index": 30,
+    "summary": "924时期入市的股民被套，批评市场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "924入市的股民被套。",
+      "牛市结束，萌新损失。",
+      "924意义不大。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "紫金矿业股价下跌，用户准备接盘。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "紫金要破30，准备接盘。",
+      "用户信誓旦旦不破30，但破了。",
+      "等更低点接盘。"
+    ],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 32,
+    "summary": "股、债、油、金、美元都跌，询问什么涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "多种资产下跌。",
+      "金没跌。",
+      "中国巨石和航运涨。"
+    ],
+    "mentioned_stocks": ["中国巨石"]
+  },
+  {
+    "index": 33,
+    "summary": "跟随韩国股市走势，讨论预判。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跟韩爹。",
+      "熊大预判。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "上午放量拉高，下午缩量，讨论接盘者。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上午放量，下午缩量。",
+      "质疑谁在接盘。",
+      "散户或机构操作。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "科技股开始阴跌，用户想减仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股阴跌。",
+      "昨天进的资金死了。",
+      "国庆前避险。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 36,
+    "summary": "认为一次加息不会崩盘，九月加息是抄底机会。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "一次加息不摧毁基本面。",
+      "九月加息是加仓机会。",
+      "有用户建议议息会议前加仓。"
+    ],
+    "mentioned_stocks": ["海外AI", "创新药", "黄金"]
+  },
+  {
+    "index": 37,
+    "summary": "分析紫光股份股价走势，等待买入点。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "V型走势，但上方密集。",
+      "等32块接盘。",
+      "用户清了，赚了肯德基。"
+    ],
+    "mentioned_stocks": ["紫光股份", "中天科技"]
+  },
+  {
+    "index": 38,
+    "summary": "认为招商轮船好做，基于技术分析。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "在布尔中轨接，上轨卖。",
+      "沿着20日上行，但资金脏。"
+    ],
+    "mentioned_stocks": ["轮船", "招商轮船"]
+  },
+  {
+    "index": 39,
+    "summary": "加息周期来临，考虑远离市场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "加息周期来了，科技有预期但热钱不来。",
+      "散户可暂时离场。",
+      "可以做周期股。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 40,
+    "summary": "油运可能进入超级大周期，但用户被套。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "油运有超级大周期。",
+      "用户被套，如中石油。",
+      "石油ETF有阻力。"
+    ],
+    "mentioned_stocks": ["油运", "中石油", "海油"]
+  },
+  {
+    "index": 41,
+    "summary": "分享交易经验，感谢大佬，有反思和感恩。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "知行合一难，优化策略。",
+      "有用户去电子厂上班。",
+      "借楼感恩大佬。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "美股在A股收盘后拉盘，开盘跌回，抱怨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "每天趁A股收盘拉盘。",
+      "可能逗散户玩。",
+      "骗韩国韭菜。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "重仓兖矿，质疑是否看空油价。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "兖矿弹性与油价相关。",
+      "美国可能不接受高油价。",
+      "兖矿跟高油价走。"
+    ],
+    "mentioned_stocks": ["兖矿"]
+  },
+  {
+    "index": 44,
+    "summary": "东山精密突然拉升，询问小作文。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "突然爆拉。",
+      "跟源杰小作文。"
+    ],
+    "mentioned_stocks": ["东山精密", "源杰"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论买入点位，提到狗哥。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "破16可以买。",
+      "等13拿盆接。",
+      "用户已上船。"
+    ],
+    "mentioned_stocks": ["狗哥"]
+  },
+  {
+    "index": 46,
+    "summary": "用户选股总是错，建议平铺战法。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "选股失败率高。",
+      "建议平铺战法。"
+    ],
+    "mentioned_stocks": []
+  }
+]
