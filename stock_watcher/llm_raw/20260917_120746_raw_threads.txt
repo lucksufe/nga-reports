@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论大金重工短线走势，用户在等待可能的回调入场机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["若回踩均线不破是上车点位", "有人在等-8%跌幅抄底", "有观点认为下跌可能还未结束"],
+    "mentioned_stocks": ["大金重工"]
+  },
+  {
+    "index": 2,
+    "summary": "针对美联储10月可能再次加息的消息进行讨论，情绪以悲观和调侃为主。",
+    "sentiment": "negative",
+    "key_opinions": ["认为继续加息会导致经济危机", "认为可能进入加息周期，建议撤离", "有观点认为加完可以开始炒作降息预期"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "用户分享对科技股越跌越兴奋的心态，引发关于抄底价值和心态的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为跌得多能捡便宜筹码", "质疑没人要的股票为何要买", "认为科技股仍有价值"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "用户猜测A股下跌是否与国内资金抽走去美股有关，但遭到否定。",
+    "sentiment": "negative",
+    "key_opinions": ["国内热钱难以流出", "美股并未大跌", "建议吃无风险利息而非冒险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论在混沌市场中与“产业链”（游资、庄家）博弈的策略和个股机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["需设好止损，保持敏感", "有用户因卖飞股票而后悔", "有用户提及某股评人很会吹"],
+    "mentioned_stocks": ["会稽山"]
+  },
+  {
+    "index": 6,
+    "summary": "基于加息周期预期，讨论散户是否应暂时远离市场。",
+    "sentiment": "negative",
+    "key_opinions": ["认为结构牛没了，市场缺乏热钱", "建议不一定买科技，可做周期", "认为散户离场等于悟道"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "分享对股票宿迁联盛的短线分析，认为其走势独立且处于底部区间，风险可控。",
+    "sentiment": "positive",
+    "key_opinions": ["个股量价与板块背离，走势独立", "价格处于底部区间，容错率高", "用户表达对交易心态的思考"],
+    "mentioned_stocks": ["宿迁联盛"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论美国政治变化对AI产业投资的潜在影响，如民主党可能放缓AI基建。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场开始博弈民主党上台后的政策", "AI硬件厂商利润过高不健康", "若放缓可能影响美国AI领先优势"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论“冰雪经济”概念板块（如长白山、大连圣亚）的季节性投资机会及当前状态。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为该板块有日历效应，下半年是主场", "有用户前期埋伏被套", "认为现在价格可能已提前反映预期"],
+    "mentioned_stocks": ["长白山", "大连圣亚", "雪人股份"]
+  },
+  {
+    "index": 10,
+    "summary": "对汽车板块异动拉升的调侃和讨论，关注并购重组预期。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为板块轮动过快不是好事", "汽车并购重组题材被反复炒作", "有用户认为汽车是少数优势产业"],
+    "mentioned_stocks": ["众泰汽车", "广汽集团"]
+  },
+  {
+    "index": 11,
+    "summary": "用户困惑碳酸锂板块的博弈逻辑，回复普遍悲观并警告风险。",
+    "sentiment": "negative",
+    "key_opinions": ["该板块消息面杂乱无章", "被形容为博弈散户的板块", "有用户直言“不懂就不要进”"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "讨论某知名用户F的帖子被删除，其他用户在询问原因并寻找备份。",
+    "sentiment": "negative",
+    "key_opinions": ["经常截图是好习惯", "帖子可能因个股截图被删", "F用户正在旅游"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "用户抱怨市场波动，尤其是受美联储消息影响，情绪宣泄明显。",
+    "sentiment": "negative",
+    "key_opinions": ["抱怨“昨天给枣，今天拿走荔枝”", "认为现阶段散户难以驾驭市场", "有用户指出早上给了跑路机会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "以文学化笔触描述A股“持币观望者”在下跌后仍不敢入场的心理。",
+    "sentiment": "mixed",
+    "key_opinions": ["刻画了等待完美买点的投资者心理", "有观点认为“不赌就是在赌自己输”", "鼓励“先套住再研究”"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论“924”行情（可能指2024年9月24日行情）对新入市股民的影响，认为套牢者众多。",
+    "sentiment": "negative",
+    "key_opinions": ["有观点认为2年牛市让萌新3年白打工", "提及“924”是顶级消息刺激的结果", "感叹现在没人过节"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "用户询问上午满仓操作是否正确，展示仓位截图，引发各种回应。",
+    "sentiment": "mixed",
+    "key_opinions": ["有用户调侃“不是逆回购就好”", "有用户自称满仓半导体并开玩笑", "多数回复认为对错需等次日验证"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 17,
+    "summary": "用户询问某历史时期的股市老帖子是否可能恢复可见。",
+    "sentiment": "negative",
+    "key_opinions": ["想补基本功但无法查看历史资料"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论国产算力（国算）板块，猜测可能因华为大会等事件启动，并提及潜在个股。",
+    "sentiment": "positive",
+    "key_opinions": ["认为周四可能是国算起爆点", "用户提名星网锐捷等为观察标的", "有观点认为需先看MLCC和PCB板块情绪"],
+    "mentioned_stocks": ["星网锐捷", "华丰股份", "风华高科", "太极实业", "有研新材", "紫光股份"]
+  },
+  {
+    "index": 19,
+    "summary": "用户以“利空”标题反向吸引关注，自嘲每次发言后市场下跌，并展示充值记录。",
+    "sentiment": "mixed",
+    "key_opinions": ["用“巨大利空”反讽吸引眼球", "有用户担忧明天会下跌兑现", "讨论回本需要不断充值"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论紫金矿业股价可能跌破30元，用户表达了在不同价位接盘的计划。",
+    "sentiment": "negative",
+    "key_opinions": ["认为破30是大概率事件", "用户在30+已开始接盘，并计划在更低位置接", "有用户以“卖房接”表达抄底决心"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 21,
+    "summary": "用户展示自己小号空仓跑赢60%投资者的数据，感叹市场赚钱效应差。",
+    "sentiment": "negative",
+    "key_opinions": ["空仓数据显示大部分投资者今年亏损", "符合股市“721”定律", "有用户反驳空仓应跑赢更多"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论中国开征资本利得税的可能性，普遍认为短期内不会开征。",
+    "sentiment": "negative",
+    "key_opinions": ["认为可能永远不会征收", "指出当前是“暂缓征收”", "调侃“亏了也得交税才符合国情”"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "询问冰雪经济概念相关股票，回复提及具体标的。",
+    "sentiment": "positive",
+    "key_opinions": ["用户询问除长白山、大连圣亚外的标的", "回复提及雪人股份", "提醒需关注天气因素"],
+    "mentioned_stocks": ["峨眉山A", "雪人股份", "天府文旅"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论紫光股份股价走势，担心美联储会议影响，并提及“-8%上车”的梗。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术形态上像V型反转但上方压力大", "有用户坚持“-8%上车”策略", "有用户认为庄家操盘凶悍"],
+    "mentioned_stocks": ["紫光股份", "中天科技"]
+  },
+  {
+    "index": 25,
+    "summary": "用户分析认为单次加息不改AI等景气行业基本面，计划在加息落地后加仓相关资产。",
+    "sentiment": "positive",
+    "key_opinions": ["认为一次加息不会摧毁高景气行业", "计划在9月加息后加仓AI硬件等", "有观点认为加息落地可能是利好股价"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "观察PCB板块个股巨石集团走势难看，认为科技板块短期无望，部分用户选择卖出。",
+    "sentiment": "negative",
+    "key_opinions": ["走势难看导致用户纠结是否卖出", "认为加息周期下科技股短期不能碰", "有用户已清仓PCB相关股票"],
+    "mentioned_stocks": ["巨石集团", "生益电子"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论某投资策略楼（左光右存）的帖子消失，用户在互相确认并继续讨论策略。",
+    "sentiment": "negative",
+    "key_opinions": ["帖子莫名消失引起困惑", "用户提醒“谨言慎行”", "有用户趁分歧观察逆势走强个股"],
+    "mentioned_stocks": ["博敏电子", "中京电子"]
+  },
+  {
+    "index": 28,
+    "summary": "观察农业板块重新成为涨幅榜首，认为是资金在加息预期下从科技股回流防御板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["农业板块被视为新主线", "资金从科技股回流无分歧板块", "有用户抱怨自己持有的相关股票下跌"],
+    "mentioned_stocks": ["万向钱潮", "云天化"]
+  },
+  {
+    "index": 29,
+    "summary": "询问某股票（狗哥）是否跌到16元就可以买入，有用户已建仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为股价在16元附近震荡", "有更保守的用户等待13元", "有用户已买入三成仓位"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "以讽刺口吻评价现代经济和战争，暗示官方数据与民众感受存在差距。",
+    "sentiment": "negative",
+    "key_opinions": ["讽刺“现代经济没有不好的”", "暗示“战报”与“战线”不符"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "用户抱怨自己一买就买在山顶，询问是否有人需要“打压”股票以便自己买入“施法”。",
+    "sentiment": "negative",
+    "key_opinions": ["自嘲是“山顶动人”", "有用户调侃交易如同游戏“读指令”", "建议不要一次性全仓买入"],
+    "mentioned_stocks": ["宝丰能源", "京东方A"]
+  },
+  {
+    "index": 32,
+    "summary": "比较中远海控和中国神华两只股票的买入价位，讨论其安全性。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为中国神华可等待20周线", "中远海控（海狗）低价筹码可能被公司自己抢走", "认为中远海控15元可能比较极限"],
+    "mentioned_stocks": ["中远海控", "中国神华"]
+  },
+  {
+    "index": 33,
+    "summary": "分享买入培育钻石概念股四方达，并讨论其他相关标的。",
+    "sentiment": "positive",
+    "key_opinions": ["提及国机精工和力量钻石也可选", "有用户因手滑多买了股票", "有用户质疑现在追高是否太晚"],
+    "mentioned_stocks": ["四方达", "国机精工", "力量钻石"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论“中某汇金”（可能指中央汇金）疑似割肉卖出ETF，引发对大资金动向的猜测。",
+    "sentiment": "negative",
+    "key_opinions": ["观察到该机构昨日买今日卖", "猜测可能是赌美联储加息预期落空", "质疑散户如何追踪大资金动向"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论美联储议息会议前资金行为，用户提前调仓，并猜测“勾兑”可能有内部消息。",
+    "sentiment": "mixed",
+    "key_opinions": ["有用户清仓MLCC并买入中船特气", "猜测有资金提前获得消息", "有用户认为落地后无论好坏都有方向"],
+    "mentioned_stocks": ["MLCC", "中船特气"]
+  },
+  {
+    "index": 36,
+    "summary": "询问黄金股早盘下跌原因，回复普遍指向美联储加息预期对黄金的利空。",
+    "sentiment": "negative",
+    "key_opinions": ["认为美联储放鹰是下跌原因", "加息周期下黄金阴跌概率高", "有用户惊讶于提问者不看新闻"],
+    "mentioned_stocks": ["黄金股"]
+  },
+  {
+    "index": 37,
+    "summary": "用户担心昨日上涨已提前透支今日预期，导致今日可能下跌，情绪焦虑。",
+    "sentiment": "negative",
+    "key_opinions": ["担心“昨天预判的预判”已走完", "认为高开必砸，低开可能不是坏事", "有用户以“麻袋”（准备接盘）调侃"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "讨论A股“垃圾时间”占比过高的问题，并与美股进行对比。",
+    "sentiment": "negative",
+    "key_opinions": ["认为A股一年有效交易时间很短", "有用户反驳美股也类似", "有用户以纳指涨幅对比A股，认为A股更差"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "对某媒体称要将A股打造成上市首选地的报道进行讽刺性评论。",
+    "sentiment": "negative",
+    "key_opinions": ["讽刺“狠狠的融资”", "认为报道像“清仓大甩卖”", "呼吁市场从“融资市”转向“投资市”"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "询问泰晶科技是否还有机会，回复认为题材太小不被市场认可。",
+    "sentiment": "negative",
+    "key_opinions": ["市场不认可该题材", "相比MLCC涨幅太弱"],
+    "mentioned_stocks": ["泰晶科技", "MLCC"]
+  },
+  {
+    "index": 41,
+    "summary": "分享一种“超跌反弹套利”策略，强调买点和成交量的重要性，并讨论了具体标的。",
+    "sentiment": "mixed",
+    "key_opinions": ["策略核心是买底部磨底区间放量个股", "大逻辑不对的板块（如消费）可排除", "需要警惕半山腰被套的风险"],
+    "mentioned_stocks": ["富祥药业", "新宙邦", "海科新源", "德福科技", "铜冠铜箔", "胜宏科技"]
+  },
+  {
+    "index": 42,
+    "summary": "以动漫图片开楼，聚集存储板块投资者，进行轻松交流。",
+    "sentiment": "positive",
+    "key_opinions": ["以二次元风格吸引同好", "用户分享买入某股票获利", "讨论是否还能上车其他存储股"],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 43,
+    "summary": "用户因手机误操作，将卖出点成全仓买入澜起科技，分享此经历并提醒他人注意。",
+    "sentiment": "negative",
+    "key_opinions": ["详细描述了误操作过程", "有用户安慰这不算“买错概念股”", "建议使用按金额买入功能避免错误"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 44,
+    "summary": "询问恒生科技指数是否还有下跌空间，回复普遍非常悲观并劝阻买入港股。",
+    "sentiment": "negative",
+    "key_opinions": ["直接建议“别买港股”", "认为其对手（如字节）太强", "有用户总结出“看到吹帖就别买”的反向指标"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "用户观察某股票持续上涨，并表达了想干预其走势的冲动。",
+    "sentiment": "positive",
+    "key_opinions": ["感叹股票“上天”", "有用户建议“买一手弄他”", "提醒小仓位玩"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "用户在中远海控（海狗/海皇）股价回调时表达想上车的急切心情。",
+    "sentiment": "mixed",
+    "key_opinions": ["用户称未上船很焦虑", "其他用户以“倒车接人”鼓励", "有用户建议等待更低位置如14元"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 47,
+    "summary": "用户询问电网设备板块是否没救了，并抱怨自己抄底被套。",
+    "sentiment": "negative",
+    "key_opinions": ["认为抄底后股价仍创新低", "认为铜价影响板块走势", "有用户抱怨个股走势反复诱多"],
+    "mentioned_stocks": ["中国西电", "东方电气"]
+  },
+  {
+    "index": 48,
+    "summary": "用户询问今日满仓买入中远海控是否正确，引发关于买入价位的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["有用户以“藤壶”比喻持仓者", "其他用户给出了从12元到15元不等的安全价位", "有用户指出今天股价并未冲那么高"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 49,
+    "summary": "抱怨市场在利空预期阶段和利空落地后均下跌，感到无奈。",
+    "sentiment": "negative",
+    "key_opinions": ["认为不管怎样市场都要跌", "怀疑昨天拉高是为了套人", "有用户指出美股期货未跌，A股下跌显得更弱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "用户早盘追高买入菲利华，担心明天会被深套，询问是否还有救。",
+    "sentiment": "negative",
+    "key_opinions": ["用户追高半仓后感到后悔", "担心明天需要“军事化割肉”"],
+    "mentioned_stocks": ["菲利华"]
+  }
+]
