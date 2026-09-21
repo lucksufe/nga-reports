@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "用户分享选股框架，希望得到反馈和web版本。",
+    "sentiment": "mixed",
+    "key_opinions": ["分享选股框架用于模拟仓和真实仓", "请求web在线版本", "技术讨论AI模型分析"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论诺德股份筹码结构，上方套牢盘为0，走势不错。",
+    "sentiment": "mixed",
+    "key_opinions": ["套牢盘为0可能是算法结果", "短期走势看好", "铜箔行业上涨周期"],
+    "mentioned_stocks": ["诺德股份"]
+  },
+  {
+    "index": 3,
+    "summary": "分享地月激光通信新闻，关联烽火通信。",
+    "sentiment": "mixed",
+    "key_opinions": ["激光通信技术突破", "关联商业航天", "技术讨论"],
+    "mentioned_stocks": ["烽火通信"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论某神股明天预期，风险高且投机性强。",
+    "sentiment": "mixed",
+    "key_opinions": ["上天入地皆有可能", "涨跌预测分化", "高风险投机"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "论坛内容被删，用户希望恢复并备份。",
+    "sentiment": "negative",
+    "key_opinions": ["内容被删需恢复", "备份重要", "用户期待F大回归"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "用户对开盘既期待又害怕，情绪化讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["怕开盘下跌", "希望国庆前连红", "情绪焦虑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论宇树科技负面舆论，因开盘价高和营销问题。",
+    "sentiment": "negative",
+    "key_opinions": ["开盘价过高散户亏损", "营销过度引起反感", "产品投入不足"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论MLCC价格飙涨，可能影响相关股票。",
+    "sentiment": "positive",
+    "key_opinions": ["MLCC价格暴涨", "量化可能反应", "关注相关票机会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论数据中心小型化趋势，但认为短期难实现。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术可能发展", "成本问题限制", "长期展望乐观"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论造谣宁德时代事件，男子被行拘。",
+    "sentiment": "negative",
+    "key_opinions": ["辟谣造谣信息", "企业声誉受损", "法律后果严重"],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论沈鼓集团股票预期，有投机和风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["谐音神股引发关注", "机构离场散户接盘", "高风险投资"],
+    "mentioned_stocks": ["沈鼓集团"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论科技股轮动，是否调仓到强势股。",
+    "sentiment": "mixed",
+    "key_opinions": ["去弱留强策略", "市场喜新厌旧", "轮动操作建议"],
+    "mentioned_stocks": ["太极", "德明利", "东山", "剑桥", "巨石", "杭电"]
+  },
+  {
+    "index": 13,
+    "summary": "新手买汽车股全亏，分享投资体验。",
+    "sentiment": "negative",
+    "key_opinions": ["新手投资汽车股亏损", "汽车行业不景气", "小炒怡情心态"],
+    "mentioned_stocks": ["比亚迪", "长安", "众泰", "山子高科"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论纳指期货上涨，期待A股跟涨。",
+    "sentiment": "positive",
+    "key_opinions": ["纳指AI行情走强", "A股何时启动", "IPO发行多"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论华字头股票龙头，玄学投机炒作。",
+    "sentiment": "mixed",
+    "key_opinions": ["玄学炒华字股", "市场变化快", "华字头股票分化"],
+    "mentioned_stocks": ["华天", "华纺", "新华传媒", "华胜天成", "华瓷"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论AI生成基金组合定投，质疑能否跑赢通胀。",
+    "sentiment": "mixed",
+    "key_opinions": ["基金组合可能跑赢通胀", "不如ETF稳定", "推荐黄金纳指"],
+    "mentioned_stocks": ["A500", "标普500", "黄金"]
+  },
+  {
+    "index": 17,
+    "summary": "分析AI制药卖铲逻辑，认为实验材料需求增。",
+    "sentiment": "mixed",
+    "key_opinions": ["干湿闭环提升材料需求", "细分可能爆发", "药物上市前难判断"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "回顾余额宝历史高收益，感叹时代变化。",
+    "sentiment": "mixed",
+    "key_opinions": ["余额宝收益曾高", "利率下降趋势", "无风险套利往事"],
+    "mentioned_stocks": ["余额宝", "天弘基金"]
+  },
+  {
+    "index": 19,
+    "summary": "股票推荐和分析帖，给出入场止损价。",
+    "sentiment": "mixed",
+    "key_opinions": ["大盘回调到位", "推荐个股并给出价位", "止盈需自己判断"],
+    "mentioned_stocks": ["国瓷材料", "招金黄金", "宝丰能源", "中钨高新", "盛和资源", "智立方", "士兰微", "太极实业", "中兵红箭"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论技术分析在当前市场的作用。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术流可能有用", "外围因素影响", "市场看资金情绪"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "分享选股列表，根据走势决定是否买入。",
+    "sentiment": "mixed",
+    "key_opinions": ["选股标准包括走势和承接", "第二天走势符合才买", "仓位管理重要"],
+    "mentioned_stocks": ["安井食品", "阳光照明", "宝信软件", "精达股份", "锡装股份", "华金证券"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论招商轮船财报中骂机构，引发关注。",
+    "sentiment": "mixed",
+    "key_opinions": ["董秘在财报中批评机构", "周期股行业大周期", "股价波动大"],
+    "mentioned_stocks": ["招商轮船", "海能"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论jev技术，质疑其影响力和能力。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能利好AI应用", "能力不足难实用", "接入游戏有潜力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论宁德时代股价下跌是否可抄底。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价从400跌到300", "公司回购中", "值博率高但风险大"],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论猪企爆雷，可能利好减产。",
+    "sentiment": "mixed",
+    "key_opinions": ["猪企爆雷可能减产", "利好落地买入", "猪周期困境"],
+    "mentioned_stocks": ["牧原", "温氏"]
+  },
+  {
+    "index": 26,
+    "summary": "调侃AI产业链下游是会所，毛利高。",
+    "sentiment": "mixed",
+    "key_opinions": ["会所作为AI下游", "毛利高需保护", "商务会所板块"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论中钨高新，信息导致价格波动。",
+    "sentiment": "mixed",
+    "key_opinions": ["信息真实性存疑", "国内外价格差大", "抄底机会可能"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论中国稀土洽购盛和资源传闻。",
+    "sentiment": "mixed",
+    "key_opinions": ["收购传闻待验证", "可能利好或利空", "股权结构变化"],
+    "mentioned_stocks": ["盛和资源", "中国稀土"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论厄尔尼诺和羊年概念，结合基本面。",
+    "sentiment": "mixed",
+    "key_opinions": ["生肖概念炒华字股", "厄尔尼诺影响鱼粉", "妖股启动分析"],
+    "mentioned_stocks": ["海洋王", "天洋新材", "澳洋健康", "百洋医药", "七匹狼"]
+  },
+  {
+    "index": 30,
+    "summary": "美银调查河南白酒市场，显示下跌趋势。",
+    "sentiment": "negative",
+    "key_opinions": ["白酒市场大幅下滑", "年轻人不喝白酒", "消费趋势变化"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "中钨高新分公司高管被查，影响股价。",
+    "sentiment": "negative",
+    "key_opinions": ["高管被查可能利空", "股价面临下跌", "避险建议"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 32,
+    "summary": "分享免费A股研究工具，希望更新。",
+    "sentiment": "positive",
+    "key_opinions": ["工具免费用于复盘", "数据来自同花顺", "需要好策略"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "讨论长鑫科技第五代技术水平。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术水平世界领先", "产能提升利好", "利好可能出货"],
+    "mentioned_stocks": ["长鑫科技"]
+  },
+  {
+    "index": 34,
+    "summary": "询问周末消息，用户回复多为利好。",
+    "sentiment": "positive",
+    "key_opinions": ["周末消息多利好", "中钨高新事件", "情绪乐观"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论金健米业作为情绪票的可能性。",
+    "sentiment": "mixed",
+    "key_opinions": ["情绪票炒作周期", "妖股可能再次启动", "科技萎靡投机活跃"],
+    "mentioned_stocks": ["金健米业", "万向德农", "国芳集团", "闽东电力", "沈鼓集团"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论假期投资恒生互联网ETF的胜率。",
+    "sentiment": "mixed",
+    "key_opinions": ["假期投资风险高", "港股可能冲高回落", "胜率低不推荐"],
+    "mentioned_stocks": ["恒生互联网ETF"]
+  },
+  {
+    "index": 37,
+    "summary": "科创综指基金清盘，显示市场环境。",
+    "sentiment": "negative",
+    "key_opinions": ["基金被动清盘", "多头出清信号", "市场募资困难"],
+    "mentioned_stocks": ["科创综指基金"]
+  },
+  {
+    "index": 38,
+    "summary": "LPR保持不变，用户失望可能跑路。",
+    "sentiment": "negative",
+    "key_opinions": ["LPR不变预期落空", "短期影响情绪", "中期看会谈结果"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "新手提问股市术语，建议谨慎操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["解释首板等术语", "新手建议玩ETF", "短线风险高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论耐克股价下跌，因国货竞争和政策。",
+    "sentiment": "negative",
+    "key_opinions": ["大中华区销售下滑", "国货竞争激烈", "政治正确影响"],
+    "mentioned_stocks": ["耐克"]
+  },
+  {
+    "index": 41,
+    "summary": "上交所暂停沈鼓异常交易，引发监管讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["监管干预交易", "散户保护争议", "市场公平性质疑"],
+    "mentioned_stocks": ["沈鼓集团"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论沈鼓集团，市值超宇树科技。",
+    "sentiment": "mixed",
+    "key_opinions": ["市值超过宇树", "谐音神股玄学", "地方调侃"],
+    "mentioned_stocks": ["沈鼓集团", "宇树科技"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论枧下窝项目重启环评，不确定性高。",
+    "sentiment": "negative",
+    "key_opinions": ["项目反复重启环评", "锂电项目不稳定", "投资风险大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "讨论赵姨股票，希望跟涨美光财报。",
+    "sentiment": "mixed",
+    "key_opinions": ["依赖美光财报映射", "值博率高风险", "量化交易影响"],
+    "mentioned_stocks": ["赵姨", "兆易创新", "美光"]
+  },
+  {
+    "index": 45,
+    "summary": "分享亏损经历，反思投资心理和纪律。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损50%痛苦反思", "心理因素导致失误", "纪律执行问题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "长鑫科技第五代技术量产，利好消息。",
+    "sentiment": "positive",
+    "key_opinions": ["技术正式量产", "产能提升50%", "产品进入市场"],
+    "mentioned_stocks": ["长鑫科技"]
+  },
+  {
+    "index": 47,
+    "summary": "智谱数据泄露，用户隐私受威胁。",
+    "sentiment": "negative",
+    "key_opinions": ["数据泄露丑闻", "用户抵制使用", "股价可能利空"],
+    "mentioned_stocks": ["智谱"]
+  },
+  {
+    "index": 48,
+    "summary": "讨论Meta公司名是否应该更改。",
+    "sentiment": "mixed",
+    "key_opinions": ["改名元宇宙风格", "品牌认知问题", "AI趋势影响"],
+    "mentioned_stocks": ["Meta"]
+  },
+  {
+    "index": 49,
+    "summary": "中钨高新高管走私，可能利空或利好。",
+    "sentiment": "mixed",
+    "key_opinions": ["高管走私丑闻", "股价面临压力", "抄底机会可能"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 50,
+    "summary": "特朗普推动AI改名，引发搞笑投票。",
+    "sentiment": "mixed",
+    "key_opinions": ["特朗普整活改名AI", "投票结果搞笑", "AI术语调侃"],
+    "mentioned_stocks": []
+  }
+]
