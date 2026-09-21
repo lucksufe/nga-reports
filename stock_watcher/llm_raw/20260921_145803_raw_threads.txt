@@ -1,0 +1,475 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论用户F大的帖子被删除，请求恢复，涉及备份和旅游情况。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "帖子被删，建议备份内容。",
+      "F佬在旅游，无暇顾及。",
+      "审核问题可能需要修正内容。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论海皇股票从兴奋到低调，有人卖飞，抛压大但仍涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "海皇以前涨一点就庆祝，现在安静。",
+      "有人T飞（卖飞）后悔。",
+      "抛压大但股价仍上涨。"
+    ],
+    "mentioned_stocks": ["海皇", "海狗"]
+  },
+  {
+    "index": 3,
+    "summary": "抱怨东山精密股票表现差，讨论创业板低迷和资金复杂性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "东山精密表现恶心，用户不满。",
+      "创业板整体市场差。",
+      "股票内部资金复杂，需等量起来补涨。"
+    ],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 4,
+    "summary": "询问厦门钨业横盘情况，讨论龙头情绪利空和埋伏策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "厦门钨业横盘，形态有变化。",
+      "龙头情绪利空，等中钨情绪消化。",
+      "已埋伏等待上涨。"
+    ],
+    "mentioned_stocks": ["厦门钨业", "中钨"]
+  },
+  {
+    "index": 5,
+    "summary": "建议短线资金及时退出，长线持有，提及假期旅游。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "短线资金该走就走。",
+      "长线稳坐钓鱼台。",
+      "中秋国庆假期将至。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论胜宏科技表现，有支持者看好，也有质疑其业绩。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "胜宏科技被看好能行。",
+      "质疑可能miss业绩。",
+      "三季度机构未捞，继续miss。"
+    ],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 7,
+    "summary": "询问大盘冲4000点是否有活动，回复多为调侃和猜测。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能冲4000点有减200活动。",
+      "机构拉银行保险等指数。",
+      "调侃活动不现实。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "科技股下跌，用户后悔早盘没卖出，讨论日内洗盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股早盘涨后跌，用户后悔。",
+      "日内加速洗盘，可能变盘前兆。",
+      "大盘涨但科技股翻绿。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "大盘涨但个人有色股不涨，分享痛苦和轮动行情。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "有色股表现差，用户痛苦。",
+      "行情轮动，昨天农业今天有色。",
+      "大盘涨但个股不涨。"
+    ],
+    "mentioned_stocks": ["有色", "平潭", "海峡", "宏桥", "美的"]
+  },
+  {
+    "index": 10,
+    "summary": "分享股票筛选框架，使用AI辅助，获得社区支持。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "筛选框架有用，模拟仓收益好。",
+      "AI辅助盘中分析。",
+      "希望有web在线版本。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "讨论55日线战法，寻求高胜率条件，当前条件不够准。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "55日线战法需讨论胜率条件。",
+      "条件包括均线多头排列、上穿55日线。",
+      "当前感觉不太准。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "科技大票表现软，上涨阻力大，因套牢盘多。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技大票走势软，像蛆。",
+      "7月套牢盘太多，ETF赎回。",
+      "需慢慢磨，洗出套牢盘。"
+    ],
+    "mentioned_stocks": ["科技大票", "科创大盘"]
+  },
+  {
+    "index": 13,
+    "summary": "美的股票突然下跌，讨论可能原因如房地产相关。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美的突然下跌，原因不明。",
+      "可能跟房地产概念或补跌有关。",
+      "用户考虑接飞刀。"
+    ],
+    "mentioned_stocks": ["美的", "海尔", "格力"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论科技板块轮动，从光纤转向PCB，调侃股性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "光纤板块走完，PCB板块轮动。",
+      "股性如蛆，买就跌卖就涨。",
+      "可能拿大客户订单。"
+    ],
+    "mentioned_stocks": ["败绿科技", "PCB"]
+  },
+  {
+    "index": 15,
+    "summary": "玄学解释美的下跌因华字概念对手盘。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美的跌因华字概念对手盘。",
+      "玄学解释获认可。",
+      "天才解释市场行为。"
+    ],
+    "mentioned_stocks": ["美的"]
+  },
+  {
+    "index": 16,
+    "summary": "美股存储涨但A股没跟，讨论高开低走。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "周五美股存储涨，A股没跟。",
+      "A股高开低走，失望。",
+      "韩股存储也弱。"
+    ],
+    "mentioned_stocks": ["存储股", "韩力士"]
+  },
+  {
+    "index": 17,
+    "summary": "分享选股列表如安井食品、阳光照明，用户跟车。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "分享多个选股供参考。",
+      "包括安井食品、阳光照明等。",
+      "用户严肃跟车。"
+    ],
+    "mentioned_stocks": ["安井食品", "阳光照明", "宝信软件", "精达股份", "锡装股份"]
+  },
+  {
+    "index": 18,
+    "summary": "期望国庆前大盘回到4000点，但有怀疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "希望国庆前大盘4000点。",
+      "可能困难，需银行保险等拉。",
+      "怀疑复刻去年行情。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "用户连红三天但实际亏损，表达不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "连红三天但账户亏损。",
+      "红了就行，但实际不满。",
+      "分享截图显示亏损。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "新人提问买入价和成本差异，解释含手续费。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "成本算入手续费，导致差异。",
+      "手续费较高，新人注意。",
+      "建议谈手续费或免5。"
+    ],
+    "mentioned_stocks": ["京东方"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论厄尔尼诺和羊年概念炒作，如洋字辈股票。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "羊年生肖概念，挖掘洋字辈。",
+      "厄尔尼诺影响鱼粉供给。",
+      "加入观察，有潜力。"
+    ],
+    "mentioned_stocks": ["海洋王", "天洋新材", "澳洋健康", "百洋医药", "七匹狼"]
+  },
+  {
+    "index": 22,
+    "summary": "特高压板块表现差，吐槽个股难玩。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "特高压板块表现差。",
+      "平高电气大单流入为0。",
+      "ETF替代更简单。"
+    ],
+    "mentioned_stocks": ["平高电气", "国电南瑞", "电网设备ETF"]
+  },
+  {
+    "index": 23,
+    "summary": "周五买入美的后下跌，-2跑出，调侃操作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "周五追高买美的亏了。",
+      "-2点跑出，少亏。",
+      "美的跟华字概念对手盘。"
+    ],
+    "mentioned_stocks": ["美的"]
+  },
+  {
+    "index": 24,
+    "summary": "药明康德大涨，希望到200，提及峰哥重仓。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "药明康德大涨，剑指200。",
+      "峰哥可能重仓，回本赚。",
+      "期待持续上涨。"
+    ],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论房地产股票是否可买，建议谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "房地产股票可能可买。",
+      "房子别买，股票可尝试。",
+      "买旧房改造概念如康力电梯。"
+    ],
+    "mentioned_stocks": ["房地产", "康力电梯"]
+  },
+  {
+    "index": 26,
+    "summary": "提醒中秋假期买逆回购得利息，分享操作。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "逆回购在假期前买可得额外利息。",
+      "类似定期，利率较高。",
+      "假期计息规则需注意。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "分享买入弘信电子，用户跟车，提及兰卫医学利润。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "今日买入弘信电子。",
+      "兰卫医学已有利润。",
+      "用户严肃跟车。"
+    ],
+    "mentioned_stocks": ["弘信电子", "兰卫医学", "百花医药"]
+  },
+  {
+    "index": 28,
+    "summary": "建议尾盘加仓青山纸业，但逻辑不清。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "青山纸业短期可考虑加仓。",
+      "逻辑不清楚，纯看图形。",
+      "提及梦百合作为参考。"
+    ],
+    "mentioned_stocks": ["青山纸业", "梦百合"]
+  },
+  {
+    "index": 29,
+    "summary": "希望大盘涨到国庆前，但有怀疑和调侃。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "期望大盘涨到国庆前。",
+      "可能复刻去年国庆行情。",
+      "大盘已涨但怀疑持续性。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "卖飞胜宏科技后悔，讨论PCB表现硬。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "卖飞胜宏科技后悔。",
+      "胜宏在PCB疲软时仍硬。",
+      "可能需小作文或Q3预期。"
+    ],
+    "mentioned_stocks": ["胜宏科技", "药"]
+  },
+  {
+    "index": 31,
+    "summary": "海皇股票连续涨停，讨论卖飞和CCFI上涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "海皇连续涨停，强势。",
+      "有人卖飞后悔。",
+      "CCFI（航运指数）涨推动。"
+    ],
+    "mentioned_stocks": ["海皇", "CCFI"]
+  },
+  {
+    "index": 32,
+    "summary": "科技股没量导致大盘成交量低，讨论套牢盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股没量，大盘缩量。",
+      "小票弹但大票软。",
+      "7月套牢盘多，解套难。"
+    ],
+    "mentioned_stocks": ["科技股", "源杰"]
+  },
+  {
+    "index": 33,
+    "summary": "AI硬件板块下跌，其他板块上涨，如鲸落万物生。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI硬件成鲸落。",
+      "其他板块万物生。",
+      "感慨板块轮动。"
+    ],
+    "mentioned_stocks": ["AI硬件"]
+  },
+  {
+    "index": 34,
+    "summary": "胜宏科技上涨5%，讨论是王者归来还是回光返照。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "胜宏科技涨5%，强势。",
+      "可能小作文推动。",
+      "三季度预期不确定。"
+    ],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 35,
+    "summary": "打板接力实盘分享，策略为只买龙头。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "分享打板接力交易策略。",
+      "只买龙头，控制仓位。",
+      "实盘操作示例。"
+    ],
+    "mentioned_stocks": ["华鑫", "上海凤凰"]
+  },
+  {
+    "index": 36,
+    "summary": "期货佬看股，提供入场止损价，用户分享股票。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "大盘回调到位，可能上涨。",
+      "给出入场价和止损价。",
+      "用户分享多个股票请求分析。"
+    ],
+    "mentioned_stocks": ["国瓷材料", "百合花", "臻宝科技", "有研新材", "招金黄金", "宝丰能源", "中钨高新", "盛和资源", "智立方", "士兰微", "太极实业", "中兵红箭"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论美诺华股票，概念多如华字辈和创新药。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美诺华概念多，如华字辈。",
+      "双影会晤和创新药二波。",
+      "恶庄小心点。"
+    ],
+    "mentioned_stocks": ["美诺华", "新华制药"]
+  },
+  {
+    "index": 38,
+    "summary": "分析老贝会谈对AI无利好，关键商品清单无用。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "AI突发事件通报机制无用。",
+      "关键商品清单但贸易战继续。",
+      "对AI相关无利好消息。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "沈鼓股票快速拉升，讨论做T和临停涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "沈鼓拉得快，惊讶。",
+      "可能做T的推动。",
+      "临停越涨。"
+    ],
+    "mentioned_stocks": ["沈鼓"]
+  },
+  {
+    "index": 40,
+    "summary": "被动不操作胜过多数人，讨论投资规律。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "什么都不做优于多数人。",
+      "721定律（七亏二平一赚）。",
+      "基金比主动操作收益好。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "宁德时代股价下跌，讨论回购不注销问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "宁德时代一直跌，回购不注销。",
+      "回购可能无效，类似光伏。",
+      "自掏腰包才是真看好。"
+    ],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 42,
+    "summary": "被套牢不到2点，寄希望于美股表现。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "被套牢但程度轻。",
+      "预判美股调整影响。",
+      "希望美爹给力。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "讨论冰雪经济受厄尔尼诺暖冬影响，长白山可能启动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "厄尔尼诺可能导致暖冬。",
+      "冰雪经济可能受影响。",
+      "长白山可能启动上涨。"
+    ],
+    "mentioned_stocks": ["长白山"]
+  }
+]
