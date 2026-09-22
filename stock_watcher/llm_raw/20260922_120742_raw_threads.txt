@@ -1,0 +1,471 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论A股表现弱，美股更可能回本，以及主动基金回本困难。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股表现弱",
+      "买美股可能回本",
+      "主动基金回本遥遥无期"
+    ],
+    "mentioned_stocks": ["主动基", "美股"]
+  },
+  {
+    "index": 2,
+    "summary": "科技股不暴涨的原因分析，对比A股与美股科技基本面和机构行为。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "A股科技基本面不如美股",
+      "机构上半年赚够，现不愿冒险",
+      "科技板块筹码乱，增量资金减少"
+    ],
+    "mentioned_stocks": ["科技股", "科创版", "创业板"]
+  },
+  {
+    "index": 3,
+    "summary": "用户回本后决定退出股市，风险承受能力低，赚钱就走。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "回本后选择退出",
+      "风险承受能力低",
+      "赚钱走是对的"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "分享股票筛选框架，使用AI辅助分析，寻求社区反馈。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "开发筛选框架用于A股",
+      "使用AI自动跑策略",
+      "希望社区提意见"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "对A股表现不满，羡慕美股大涨，建议投资美股或港股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股高开低走让人沮丧",
+      "美股大涨，A股不跟",
+      "建议投资纳指或港股"
+    ],
+    "mentioned_stocks": ["纳指", "美股", "港股"]
+  },
+  {
+    "index": 6,
+    "summary": "A股传统板块与科技板块对立，市场分化严重。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "板块轮动剧烈",
+      "科技股表现不稳定",
+      "市场分化导致问题"
+    ],
+    "mentioned_stocks": ["科技", "老登"]
+  },
+  {
+    "index": 7,
+    "summary": "A股经常高开低走，建议高开就卖，贪心导致损失。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高开低走是常态",
+      "建议高开就卖",
+      "贪心容易亏损"
+    ],
+    "mentioned_stocks": ["科创半导体ETF"]
+  },
+  {
+    "index": 8,
+    "summary": "散户习惯高开卖出，节前避险心态，有人持股过节。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市场担忧导致不健康",
+      "节前避险心态普遍",
+      "有人赌国庆外围行情"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "华纺股份和龙头股的卡位现象，投机行为。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股票卡位现象",
+      "华纺弱转强卡位",
+      "类似赌狗行为"
+    ],
+    "mentioned_stocks": ["华纺股份", "龙头股"]
+  },
+  {
+    "index": 10,
+    "summary": "完美世界股价表现不佳，板块涨它不涨，质疑购买原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股票像僵尸票",
+      "板块涨它不涨",
+      "基于业绩或游戏上市逻辑"
+    ],
+    "mentioned_stocks": ["完美世界", "异环"]
+  },
+  {
+    "index": 11,
+    "summary": "A股高开低走打击投资者信心，导致清仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高开低走反复发生",
+      "消磨斗志导致清仓",
+      "市场套路深"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "A股板块快速轮动，只涨特定板块如医药、农业。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "板块轮动抽象",
+      "超短策略盛行",
+      "科技股表现不佳"
+    ],
+    "mentioned_stocks": ["药", "种", "百货", "出版"]
+  },
+  {
+    "index": 13,
+    "summary": "招商轮船股价波动大，投资者情绪低落。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价波动大",
+      "真爱楼权威性",
+      "投资者想离开"
+    ],
+    "mentioned_stocks": ["招商轮船"]
+  },
+  {
+    "index": 14,
+    "summary": "用户回本时大盘可能下跌，历史模式重复警告风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "个人回本与大盘下跌相关",
+      "历史模式重复",
+      "警告大盘风险"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "A股跟跌不跟涨，表现差于美股，市场情绪悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股表现差",
+      "美股涨跌影响A股",
+      "科技高空跳水"
+    ],
+    "mentioned_stocks": ["美股", "A股"]
+  },
+  {
+    "index": 16,
+    "summary": "阿里云扩张消息，市场反应不一，重资产投资风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "阿里云扩张计划",
+      "消息利好或利空看资金脸色",
+      "重资产投资可能不被认可"
+    ],
+    "mentioned_stocks": ["阿里", "数据港", "甲骨文"]
+  },
+  {
+    "index": 17,
+    "summary": "用户分享选股列表和分析，社区互动讨论。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "选股框架分享",
+      "多个股票技术分析",
+      "预期走势判断"
+    ],
+    "mentioned_stocks": ["安井食品", "阳光照明", "宝信软件", "精达股份", "锡装股份", "华金"]
+  },
+  {
+    "index": 18,
+    "summary": "用户清仓后反思，可能卖飞，但赚钱走是正确的。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上午清仓可能卖飞",
+      "赚钱走是对的",
+      "被个股拖累"
+    ],
+    "mentioned_stocks": ["三安光电"]
+  },
+  {
+    "index": 19,
+    "summary": "A股成交量低，跟谁涨不确定，散户跑路。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "论坛缩量反映市场冷淡",
+      "A股跟跌不跟涨",
+      "野狗市场人都跑光"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "移远通信和瑞芯微股价上涨，瑞芯微涨停。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "两只股票涨势好",
+      "瑞芯微涨停"
+    ],
+    "mentioned_stocks": ["移远通信", "瑞芯微"]
+  },
+  {
+    "index": 21,
+    "summary": "用户经历多次A股下跌亏损，波动大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "多次亏损经历",
+      "波及多个板块",
+      "有复活甲资金"
+    ],
+    "mentioned_stocks": ["航天", "黄金", "科技", "橡胶"]
+  },
+  {
+    "index": 22,
+    "summary": "期货爆仓后踏空的痛苦，心态崩溃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "爆仓后股价大涨",
+      "心态崩溃抑郁",
+      "期货风险高"
+    ],
+    "mentioned_stocks": ["期货", "红枣"]
+  },
+  {
+    "index": 23,
+    "summary": "沃尔核材股价表现异常，压单现象，投资者不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "压单现象离谱",
+      "股价滞涨",
+      "投资者想离开"
+    ],
+    "mentioned_stocks": ["沃尔核材"]
+  },
+  {
+    "index": 24,
+    "summary": "寻找带“爱”字的股票，投机或炒作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股票名称带“爱”字",
+      "投机性炒作"
+    ],
+    "mentioned_stocks": ["爱华", "爱丽家居", "我爱我家"]
+  },
+  {
+    "index": 25,
+    "summary": "对明天市场的预测，可能高开低走，受美股影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能高开低走",
+      "美股主升浪影响",
+      "A股跟美股大趋势"
+    ],
+    "mentioned_stocks": ["美股", "纳指"]
+  },
+  {
+    "index": 26,
+    "summary": "中韩半导体ETF溢价率下降，资金转移。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "溢价率降低",
+      "资金转移到纳指ETF",
+      "市场变化"
+    ],
+    "mentioned_stocks": ["中韩半导体ETF", "纳指ETF"]
+  },
+  {
+    "index": 27,
+    "summary": "预测纳指回调，市场情绪紧张。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "担心纳指回调",
+      "市场情绪紧张"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论如何投资美股，可通过ETF或开户。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指ETF是便捷方式",
+      "可去香港开户",
+      "税收问题考虑"
+    ],
+    "mentioned_stocks": ["纳指ETF", "国泰纳指"]
+  },
+  {
+    "index": 29,
+    "summary": "A股可能高开低走，板块分化，科技股吸金。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股独立下跌",
+      "板块分化严重",
+      "科技股高开低走"
+    ],
+    "mentioned_stocks": ["科技", "双创"]
+  },
+  {
+    "index": 30,
+    "summary": "A股经常高开低走，开盘即巅峰，市场累人。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "开盘即巅峰",
+      "需要做T策略",
+      "市场玩得累"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "股价高开后下跌，高开低走典型例子。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高开低走典型",
+      "亏损感强"
+    ],
+    "mentioned_stocks": ["中钨"]
+  },
+  {
+    "index": 32,
+    "summary": "机构资金理性，看好美股科技，A股科技表现差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "机构看好美股科技",
+      "A股科技是下位替代",
+      "手买科技被套"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 33,
+    "summary": "国泰纳指ETF限额，投资渠道受限。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "ETF限额管理",
+      "投资渠道受限",
+      "提前告知体面"
+    ],
+    "mentioned_stocks": ["国泰纳指", "天弘纳指"]
+  },
+  {
+    "index": 34,
+    "summary": "医药板块强势，虹吸其他板块资金，可能成主线。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "医药板块强势",
+      "虹吸有色等板块资金",
+      "可能成市场主线"
+    ],
+    "mentioned_stocks": ["医药", "创新药", "港药"]
+  },
+  {
+    "index": 35,
+    "summary": "美股涨跌逻辑意外，定投纳指未回本，美股逻辑正常。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股意外上涨",
+      "定投纳指可能未回本",
+      "美股逻辑比A股正常"
+    ],
+    "mentioned_stocks": ["纳指", "美股"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论地方债问题紧迫，刺激内需，债务挑战。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "地方债比房地产更紧急",
+      "应刺激内需",
+      "债务问题需关注"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "硬科技板块拉高后回落，机构不真心相信，市场套路。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "硬科技拉高后回落",
+      "机构不真心相信科技",
+      "市场套路深"
+    ],
+    "mentioned_stocks": ["硬科技", "半导体", "液冷"]
+  },
+  {
+    "index": 38,
+    "summary": "通过洗浴中心战法避免追涨杀跌，幽默策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "锁手机避免操作",
+      "类似飞机战法",
+      "策略有趣"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "完美世界股价连续阳线但涨幅小，ETF和融资盘买入。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "五连阳但涨幅小",
+      "ETF和融资盘买入",
+      "巨人表现更差"
+    ],
+    "mentioned_stocks": ["完美世界", "巨人"]
+  },
+  {
+    "index": 40,
+    "summary": "美股在加息预期下上涨，散户认为利空但市场反涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "散户认为利空，市场反涨",
+      "主力操作拉高出货",
+      "市场有分歧"
+    ],
+    "mentioned_stocks": ["美股", "科技股"]
+  },
+  {
+    "index": 41,
+    "summary": "A股不跟美股涨，高开幅度小，芯片半导体高开。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股独立行情",
+      "高开幅度小",
+      "芯片半导体高开但可能回落"
+    ],
+    "mentioned_stocks": ["长城", "半导体"]
+  },
+  {
+    "index": 42,
+    "summary": "医药板块承接力强，可能成主线，百花换手率高。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "医药可能成主线",
+      "百花换手率高",
+      "哈药活跃"
+    ],
+    "mentioned_stocks": ["医药", "百花", "哈药"]
+  },
+  {
+    "index": 43,
+    "summary": "纳指新高，A股停滞于4000点，市场信心不足。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳指表现好，A股差",
+      "A股4000点难突破",
+      "市场信心不足"
+    ],
+    "mentioned_stocks": ["纳指", "A股"]
+  }
+]
