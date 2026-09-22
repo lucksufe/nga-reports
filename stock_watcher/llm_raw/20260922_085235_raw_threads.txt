@@ -1,0 +1,310 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论美国经济强劲的真实性，涉及通胀、加息及中美对比。",
+    "sentiment": "mixed",
+    "key_opinions": ["美国经济可能真的强劲，有能源通胀", "加息是为了抑制经济过热", "部分观点认为经济热是正常现象"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "批评证券时报对沈鼓股价评论，强调稳定长期资本的重要性。",
+    "sentiment": "negative",
+    "key_opinions": ["资本市场需要稳定长期资本而非热钱", "热钱几日游扰乱市场", "市场被短线资金操控"],
+    "mentioned_stocks": ["沈鼓"]
+  },
+  {
+    "index": 3,
+    "summary": "分享AI辅助的股市筛选框架，希望社区贡献。",
+    "sentiment": "positive",
+    "key_opinions": ["使用AI模型如luna max和DeepSeek分析盘中", "框架可本地部署运行", "开源项目希望社区提issues改进"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "科技股套牢后需美股AI新高才能解套的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["有业绩支撑的科技股可能解套", "部分山顶股票可能永久回不去", "美股科技新高影响A股科技板块"],
+    "mentioned_stocks": ["隆基绿能", "兆易创新"]
+  },
+  {
+    "index": 5,
+    "summary": "许愿股市赚钱后消费，如旅游、换电脑等。",
+    "sentiment": "positive",
+    "key_opinions": ["许愿股市回血后消费刺激", "务实许愿如大盘高开高走", "分享个人投资与消费计划"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "散户预期加息利空但市场暴涨，讨论市场反直觉行为。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场常反散户预期而动", "主力可能拉高出货", "美股科技因AI逻辑上涨"],
+    "mentioned_stocks": ["mlcc", "pcb"]
+  },
+  {
+    "index": 7,
+    "summary": "CPU股上涨因Meta AI Agent带动需求重估。",
+    "sentiment": "positive",
+    "key_opinions": ["Meta AI Agent带动CPU增量需求", "Agentic AI逻辑推动股价", "市场交易逼空行情"],
+    "mentioned_stocks": ["AMD", "Intel", "NVDA"]
+  },
+  {
+    "index": 8,
+    "summary": "纳斯达克100突破30000点，讨论影响及风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股牛市但风险积累", "ETF溢价高且停牌", "A股可能跟涨或回调释放风险"],
+    "mentioned_stocks": ["纳指100", "ETF"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论地方债比房地产更紧急，涉及内需刺激。",
+    "sentiment": "negative",
+    "key_opinions": ["地方债是紧急经济问题", "需刺激内需收缩储蓄投资差", "内债可能通过通胀消化"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "新手投资者后悔未信直觉，分享操作教训。",
+    "sentiment": "negative",
+    "key_opinions": ["直觉有时比AI分析更准", "新手需谨慎仓位配置", "分散风险避免开超市"],
+    "mentioned_stocks": ["京东方", "盈方微", "桂林旅游", "云南旅游", "西安饮食", "华天酒店"]
+  },
+  {
+    "index": 11,
+    "summary": "房地产股上涨可能主力硬拉，质疑真实性。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能因贴息政策刺激", "主力拉低位板块稳指数", "房地产股不受长期看好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "分析紫光国微历史低位，认为基本面好但股价低估。",
+    "sentiment": "positive",
+    "key_opinions": ["公司是特种芯片龙头基本面优", "PE32低估错配", "长线选手可配置"],
+    "mentioned_stocks": ["紫光国微"]
+  },
+  {
+    "index": 13,
+    "summary": "银行股在房地产下行下异常强势，讨论原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行股受财政部托底估值修复", "可能有雷但难爆", "大盘指数权重股控盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "猜测股市短期走势，可能迎来行情。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能第二个924行情", "美股主升浪A股或跟", "高开可能先跑防风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "A股总市值增长但业绩未提，讨论ETF选择。",
+    "sentiment": "mixed",
+    "key_opinions": ["总市值增长但业绩数据缺失", "可买中证500 ETF跟踪", "论坛回复质量下降"],
+    "mentioned_stocks": ["中证500"]
+  },
+  {
+    "index": 16,
+    "summary": "怀念临近收盘直线跳水，警告主力挖坑。",
+    "sentiment": "negative",
+    "key_opinions": ["主力可能挖坑制造波动", "小心一字断魂刀走势", "短线需关注异动信号"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "论坛帖子被删，用户申请恢复并备份内容。",
+    "sentiment": "negative",
+    "key_opinions": ["帖子常因内容违规被删", "建议经常截图备份", "用户期待F大回归指导"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "幽默表达炒股亏损导致生活节省。",
+    "sentiment": "negative",
+    "key_opinions": ["炒股亏损导致生活拮据", "用幽默应对投资挫折", "省钱加仓试图回本"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论宁德时代股价是否可买，期待困境反转。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价超跌可能反弹但盘子大", "回购进行中但等行业问题", "等左侧转右侧再买"],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 20,
+    "summary": "期货爆仓后心理难受，踏空更痛苦。",
+    "sentiment": "negative",
+    "key_opinions": ["期货爆仓心理冲击大", "踏空比亏损更影响心态", "小资金玩期货风险极高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "美股CPU股大涨，AI硬件表现强劲。",
+    "sentiment": "positive",
+    "key_opinions": ["美股AI硬件全天强势", "中美会晤可能利好", "中期选举前可无脑冲"],
+    "mentioned_stocks": ["AMD", "Intel"]
+  },
+  {
+    "index": 22,
+    "summary": "三安光电投资体验差，负面消息多。",
+    "sentiment": "negative",
+    "key_opinions": ["公司表现落后大盘", "负面消息和内部问题多", "建议快跑避免持有"],
+    "mentioned_stocks": ["三安光电"]
+  },
+  {
+    "index": 23,
+    "summary": "美股涨跌不按常理，讨论其逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股走势有时反直觉", "定投纳指需长期持有", "美股逻辑比A股更正常"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 24,
+    "summary": "纳斯达克新高，投资者讨论回本进度。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股基金收益好A股还亏", "用美股收益补贴A股亏损", "部分人回本进度慢"],
+    "mentioned_stocks": ["QDII", "美股基金"]
+  },
+  {
+    "index": 25,
+    "summary": "刘纪鹏建议提高散户中签率，引发讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["散户中签率低机构受益多", "改革建议难实施因利益", "新股分配制度不公平"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "AMD即将突破万亿市值，讨论股价和估值。",
+    "sentiment": "mixed",
+    "key_opinions": ["AMD股价一年翻四倍", "150倍市盈率存泡沫", "对比港股科技股差异"],
+    "mentioned_stocks": ["AMD", "NVDA", "Intel"]
+  },
+  {
+    "index": 27,
+    "summary": "美股存储跳水但半导体强，解释CPU利好。",
+    "sentiment": "mixed",
+    "key_opinions": ["CPU利好强于存储需求", "市场资金轮动分化", "A股对前沿技术反应慢"],
+    "mentioned_stocks": ["闪迪", "美光", "Intel", "AMD"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论某公司股价上涨原因，涉及道德和后台。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能因数据优势带来模型领先", "后台强硬无人管", "主力拉涨持续行情"],
+    "mentioned_stocks": ["智谱"]
+  },
+  {
+    "index": 29,
+    "summary": "结合厄尔尼诺和生肖概念炒作股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["生肖玄学概念提前炒作", "厄尔尼诺影响鱼粉基本面", "严肃观察加入自选"],
+    "mentioned_stocks": ["海洋王", "天洋新材", "澳洋健康", "百洋医药"]
+  },
+  {
+    "index": 30,
+    "summary": "投资者心理创伤，盈利就跑不敢长持。",
+    "sentiment": "negative",
+    "key_opinions": ["恐惧导致拿不住股票", "盈利一两点就跑", "可能因前期亏损造成PTSD"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "纳斯达克又快新高，讨论A股跟涨可能。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股可能跟涨美股", "流动性风险引发担忧", "美股不断新高A股滞后"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 32,
+    "summary": "长期投资标的推荐纳指、标普和红利。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指标普红利可躺平投资", "这些标的有回撤风险", "需看估值和持有期"],
+    "mentioned_stocks": ["纳指", "标普", "红利基金"]
+  },
+  {
+    "index": 33,
+    "summary": "期货佬提供股票分析，回复潜力票请求。",
+    "sentiment": "neutral",
+    "key_opinions": ["提供入场和止损价参考", "只回复有潜力有价值的票", "社区互动分析请求"],
+    "mentioned_stocks": ["国瓷材料", "百合花", "臻宝科技", "有研新材", "招金黄金", "宝丰能源", "中钨高新", "盛和资源", "智立方", "士兰微", "太极实业", "中兵红箭"]
+  },
+  {
+    "index": 34,
+    "summary": "基金持仓差跌幅大，讨论是否割肉。",
+    "sentiment": "negative",
+    "key_opinions": ["基金持仓烂如封神榜", "跌幅达30%表现差", "建议割肉避免精神污染"],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 35,
+    "summary": "担忧纳斯达克泡沫，讨论存储股分化。",
+    "sentiment": "negative",
+    "key_opinions": ["纳斯达克可能接近泡沫顶部", "A股弱且缺乏增量资金", "存储股美股涨A股可能跟"],
+    "mentioned_stocks": ["长鑫", "兆易创新"]
+  },
+  {
+    "index": 36,
+    "summary": "美的股票下跌，投资者割肉止损。",
+    "sentiment": "negative",
+    "key_opinions": ["美的股价跌破止损线", "红利股应越跌越买但未执行", "随机杀老登票现象"],
+    "mentioned_stocks": ["美的集团"]
+  },
+  {
+    "index": 37,
+    "summary": "模仿李大霄唱多买唱空卖策略讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["李大霄策略可能带来正收益", "信奉价值投资定期买入好股", "低位持有不下轿子"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "玄学解释美的下跌为华字概念对手盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["美的与华字概念对立下跌", "可能误伤形成黄金坑", "玄学解释市场现象"],
+    "mentioned_stocks": ["美的集团"]
+  },
+  {
+    "index": 39,
+    "summary": "宇树科技上市后市值蒸发，批评公司。",
+    "sentiment": "negative",
+    "key_opinions": ["市值蒸发三分之一个小米", "公司营销成功但股价差", "散户接盘亏损"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 40,
+    "summary": "分享选股票列表，第二天符合预期才买。",
+    "sentiment": "positive",
+    "key_opinions": ["选股票基于走势预期", "列举多个股票备选", "社区互动跟随步伐"],
+    "mentioned_stocks": ["安井食品", "阳光照明", "宝信软件", "精达股份", "锡装股份"]
+  },
+  {
+    "index": 41,
+    "summary": "美股存储涨，讨论A股存储股跟涨可能。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股存储股上涨", "A股存储可能跟但需看科创", "美股存储可能高开低走"],
+    "mentioned_stocks": ["长鑫", "美力士", "闪迪", "海力士"]
+  },
+  {
+    "index": 42,
+    "summary": "发现年化12%回撤小的基金，讨论策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["基金持仓银行和科技对冲", "年化12%最大回撤16%", "策略可能变需谨慎"],
+    "mentioned_stocks": ["银行基金", "科技基金"]
+  },
+  {
+    "index": 43,
+    "summary": "科技股反弹依赖英伟达新高带动。",
+    "sentiment": "mixed",
+    "key_opinions": ["英伟达新高打开科技空间", "美股科技走右侧趋势", "A股抛压重需增量资金"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 44,
+    "summary": "回顾余额宝历史高收益，感叹时代变化。",
+    "sentiment": "mixed",
+    "key_opinions": ["余额宝曾年化4%-5%高收益", "是黄金时代最后余晖", "现在收益已大幅下降"],
+    "mentioned_stocks": ["余额宝"]
+  }
+]
