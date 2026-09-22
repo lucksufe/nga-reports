@@ -1,0 +1,333 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "用户抱怨市场在收盘前被刻意拉升，回复者对此表示讽刺和无奈。",
+        "sentiment": "negative",
+        "key_opinions": ["认为尾盘拉升是假动作", "股市下跌让人觉得“护眼”", "拉升可能是做T资金所为", "即使个股普跌，只要指数红了就算赢"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 2,
+        "summary": "用户设置的止损点被精准触发，导致被洗出局，感到不满。",
+        "sentiment": "negative",
+        "key_opinions": ["止损点被精准触发让人不适", "暗示这是市场主力的洗盘行为"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 3,
+        "summary": "用户关注思源电气股价大跌，回复者讨论跳水原因、利空传闻及是否应割肉。",
+        "sentiment": "negative",
+        "key_opinions": ["思源电气股价大幅下跌", "猜测有外围法案利空", "因亏损严重考虑割肉", "询问电网设备板块前景"],
+        "mentioned_stocks": ["思源电气"]
+    },
+    {
+        "index": 4,
+        "summary": "用户在A股亏损后想转战美股，寻求投资标的和危机中的抄底方向建议。",
+        "sentiment": "mixed",
+        "key_opinions": ["A股受挫想转向美股寻求机会", "询问美股科技股及潜在抄底方向", "讨论资金如何出入以及纳指ETF", "部分人认为美股比A股更容易赚钱"],
+        "mentioned_stocks": ["NVIDIA", "Google", "pdd", "hesai科技", "SOXX"]
+    },
+    {
+        "index": 5,
+        "summary": "用户期待超跌反弹，但回复显示反弹预期落空，市场持续走弱。",
+        "sentiment": "negative",
+        "key_opinions": ["期待超跌后出现反弹", "反弹预期落空，市场持续走弱", "板块轮动混乱，如汽车涨停但相关股不涨"],
+        "mentioned_stocks": ["赛力斯", "欣旺达"]
+    },
+    {
+        "index": 6,
+        "summary": "用户抱怨A股指数停滞不前，与纳指新高形成对比，引发对市场生态的批评。",
+        "sentiment": "negative",
+        "key_opinions": ["对比纳指新高与A股指数乏力", "批评“耐心资本”说法", "认为A股成交量小、指数上涨靠金融股拉动", "科技板块表现疲软"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 7,
+        "summary": "用户自称有“回本即暴跌”的玄学规律，并警告市场风险，引发调侃和讨论。",
+        "sentiment": "mixed",
+        "key_opinions": ["用户分享个人“回本即暴跌”的玄学经验", "提醒他人注意风险", "被调侃为“利空之源”，建议其减仓或卖出破咒"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 8,
+        "summary": "用户看到K线图出现大阴线感到担忧，回复指出是主力资金在流出。",
+        "sentiment": "negative",
+        "key_opinions": ["K线图出现巨大阴线引发担忧", "认为这是大资金出逃的迹象", "调侃主力休息，让散户接盘"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 9,
+        "summary": "用户分享了一个基于分红融资比的价值投资选股框架，并讨论相关个股。",
+        "sentiment": "positive",
+        "key_opinions": ["提出用分红融资比筛选价值股的方法", "讨论化工股（如巨化）的投资逻辑", "强调分红只是参考，需结合行业周期"],
+        "mentioned_stocks": ["巨化"]
+    },
+    {
+        "index": 10,
+        "summary": "用户转载金融时报文章，认为其观点偏袒融资功能，引发散户对市场定位的不满。",
+        "sentiment": "negative",
+        "key_opinions": ["批评媒体言论弱化投资者保护", "认为市场首要功能是融资而非让散户赚钱", "讽刺散户是“金融消费者”"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 11,
+        "summary": "用户讽刺称下跌是“洗盘”，回复者普遍不认同，认为是主力出货。",
+        "sentiment": "negative",
+        "key_opinions": ["质疑“洗盘”说法，认为是纯粹出货", "批评“汪汪队”（可能指主力）不做人", "指出散户被套后反而最“坚定”"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 12,
+        "summary": "用户以反讽语气评论A股为“全世界最牛逼的市场”，附截图引发讨论。",
+        "sentiment": "negative",
+        "key_opinions": ["用反讽表达对A股市场的失望", "附图可能显示负面走势", "提及日本休市作为对比", "引出对“好人股”的调侃"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 13,
+        "summary": "用户询问今日走势后明日是否还有下跌可能，引发对次日行情的预测讨论。",
+        "sentiment": "negative",
+        "key_opinions": ["担心明日因各种资金动向继续下跌", "认为A股走势受美股影响大", "预测明日可能继续下跌"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 14,
+        "summary": "用户询问Meta是否因AI产品而股价反转，得到基于发帖时间的简短回复。",
+        "sentiment": "mixed",
+        "key_opinions": ["询问Meta股价是否反转", "提到AI产品（muse agent）可能带来积极影响", "回复暗示需结合时间点判断"],
+        "mentioned_stocks": ["Meta"]
+    },
+    {
+        "index": 15,
+        "summary": "用户抱怨“高开必砸”已成定律，引发关于T+1制度、市场信心和交易策略的讨论。",
+        "sentiment": "negative",
+        "key_opinions": ["“高开必砸”成为普遍规律", "质疑竞价高开的资金意图", "认为T+1制度导致后手资金信心不足", "讨论是否应跟随卖出或做短线"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 16,
+        "summary": "用户看到科技股高开低走但某股（润泽）逆势放量上涨，决定买入。",
+        "sentiment": "mixed",
+        "key_opinions": ["在科技股普跌时发现个别逆势股", "基于放量中阳线的技术形态决定买入"],
+        "mentioned_stocks": ["润泽"]
+    },
+    {
+        "index": 17,
+        "summary": "用户质疑当前市场难以操作，认为任何时点买入都可能亏损。",
+        "sentiment": "negative",
+        "key_opinions": ["感觉市场难以操作", "认为当前买入时机不佳", "指出银行等“老登股”可能相对稳健", "抱怨市场“垃圾”"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 18,
+        "summary": "用户分享了自己编写并开源的AI选股筛选框架，邀请大家测试和提意见。",
+        "sentiment": "positive",
+        "key_opinions": ["分享自主开发的AI选股工具", "工具可用于盘中分析辅助", "开源在Github上供他人使用和反馈"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 19,
+        "summary": "用户分享了一个“神级S点”（卖出点）截图，卖后股价上涨，引发讨论和安慰。",
+        "sentiment": "mixed",
+        "key_opinions": ["分享自己卖出后股价上涨的经历", "讨论基于技术指标（如黄线）的卖出逻辑", "自嘲或被安慰为“卖飞”"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 20,
+        "summary": "讨论A股科技股不跟涨美股的原因，涉及基本面、估值、资金博弈等多方面。",
+        "sentiment": "negative",
+        "key_opinions": ["认为A股科技基本面不如美股", "指出部分资金在上半年已获利了结", "认为上涨主要靠资金推动而非长期叙事"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 21,
+        "summary": "用户关注金枪鱼（可能是某股代号）的走势，讨论其与外资、散户及行业关联。",
+        "sentiment": "mixed",
+        "key_opinions": ["讨论个股（金枪鱼）的走势", "认为散户过多影响股价", "提及该股可能与CPU或内存行业相关"],
+        "mentioned_stocks": ["金枪鱼"]
+    },
+    {
+        "index": 22,
+        "summary": "用户提问万科涨停是否值得关注，回复多持怀疑态度，认为可能是市场阶段信号。",
+        "sentiment": "negative",
+        "key_opinions": ["万科涨停引发关注", "认为其涨停可能是市场阶段性顶或底的信号", "质疑其基本面和债务问题", "认为可能是游资炒作"],
+        "mentioned_stocks": ["万科"]
+    },
+    {
+        "index": 23,
+        "summary": "用户抱怨尾盘跳水成常态，引发对次日走势及市场玩法的讨论。",
+        "sentiment": "negative",
+        "key_opinions": ["抱怨尾盘跳水成固定模式", "担忧晚间美股若调整会加重A股次日跌幅", "指出科技股不行就只能投机新股"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 24,
+        "summary": "用户抱怨生益科技走势疲弱，回复认为这是整个科技板块的共性问题。",
+        "sentiment": "negative",
+        "key_opinions": ["抱怨个股（生益科技）走势不佳", "认为整个科技板块分时走势类似", "指出市场风格转向炒小炒差"],
+        "mentioned_stocks": ["生益科技"]
+    },
+    {
+        "index": 25,
+        "summary": "用户庆幸自己早上卖出，认同在当前市场不应有格局（长期持有心态）。",
+        "sentiment": "negative",
+        "key_opinions": ["庆幸自己及时卖出", "认同“不格局”（不做长期投资）是正确策略", "认为遵守“祖训”（操作纪律）能减少亏损"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 26,
+        "summary": "用户担忧纳斯达克指数回调后，A股会遭受更严重的冲击。",
+        "sentiment": "negative",
+        "key_opinions": ["担心美股（纳指）回调对A股产生巨大负面影响"],
+        "mentioned_stocks": ["纳指"]
+    },
+    {
+        "index": 27,
+        "summary": "用户担心国庆假期A股休市期间外围市场上涨，节后A股回调压力大。",
+        "sentiment": "negative",
+        "key_opinions": ["担心假期期间外围市场上涨", "预测A股开盘后会面临回调压力", "形成“假期外围涨，A股开市跌”的固有预期"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 28,
+        "summary": "用户观察到A股市场中“老登股”（传统行业）与“科技股”走势对立的现象。",
+        "sentiment": "negative",
+        "key_opinions": ["市场呈现“老登股”与“科技股”的跷跷板效应", "认为这种对立局面长期存在", "指出资金在不同风格板块间快速轮动"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 29,
+        "summary": "用户询问某ST股（st时代）是否今日退市，并引发对追涨科技股与投资风格的讨论。",
+        "sentiment": "negative",
+        "key_opinions": ["询问ST股退市可能性", "引发对“追涨科技”与“吃药喝酒吃大米”等投资风格的对比", "有观点认为买科技股有“原罪”"],
+        "mentioned_stocks": ["ST时代"]
+    },
+    {
+        "index": 30,
+        "summary": "用户询问上午清仓是否正确，回复多数认为获利了结是对的，但需警惕卖飞。",
+        "sentiment": "mixed",
+        "key_opinions": ["询问清仓操作的正确性", "多数认为获利卖出就是正确的", "提醒在上升趋势中卖出可能卖飞", "提及自己被个股拖累的收益"],
+        "mentioned_stocks": ["三安光电"]
+    },
+    {
+        "index": 31,
+        "summary": "用户连续遭遇科技股高开低走，表达绝望，并计划转向投资美股。",
+        "sentiment": "negative",
+        "key_opinions": ["对A股科技股连续高开低走感到绝望", "认为A股市场表现远逊于美股", "计划未来只投资纳斯达克相关标的", "提及QDII基金限购问题"],
+        "mentioned_stocks": ["纳斯达克"]
+    },
+    {
+        "index": 32,
+        "summary": "用户观察到市场回落，形成“银行股上涨+短线题材股活跃”的熟悉模式。",
+        "sentiment": "negative",
+        "key_opinions": ["市场整体回落", "呈现银行股走强、短线题材股活跃的典型模式"],
+        "mentioned_stocks": ["银行"]
+    },
+    {
+        "index": 33,
+        "summary": "用户询问思源电气股价下跌的原因及是否可抄底，得到利空消息和看跌观点。",
+        "sentiment": "negative",
+        "key_opinions": ["询问思源电气下跌原因及抄底机会", "回复提到瑞银下调目标价", "认为其下跌有“鬼故事”（利空传闻）"],
+        "mentioned_stocks": ["思源电气"]
+    },
+    {
+        "index": 34,
+        "summary": "用户用“空头狂欢”形容市场下跌，有人感到绝望，有人调侃。",
+        "sentiment": "negative",
+        "key_opinions": ["形容市场为空头狂欢", "有人感到绝望，有人进行砸盘", "认为下跌像节前资金抢跑", "同事情绪因市场下跌而变化"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 35,
+        "summary": "用户询问完美世界连涨是否值得关注，回复多持谨慎或看跌态度。",
+        "sentiment": "negative",
+        "key_opinions": ["询问连涨个股（完美世界）的逻辑", "回复认为连涨后可能下跌", "指出其前期跌幅巨大", "认为不如投资ETF"],
+        "mentioned_stocks": ["完美世界"]
+    },
+    {
+        "index": 36,
+        "summary": "用户观察到港股（韩指）走势后A股常跟跌，抱怨A股“软骨头”。",
+        "sentiment": "negative",
+        "key_opinions": ["认为A股跟随港股（韩指）下跌", "批评A股市场“万年软骨头”", "嘲讽“耐心资本”的说法"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 37,
+        "summary": "用户观察到港股（韩国）下跌后，A股指数翻绿的现象。",
+        "sentiment": "negative",
+        "key_opinions": ["港股下跌后A股指数由红转绿", "暗示A股受港股走势影响"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 38,
+        "summary": "用户抱怨外围利好常导致A股高开低走，已成为固定套路。",
+        "sentiment": "negative",
+        "key_opinions": ["抱怨“外围利好，高开低走”成为固定套路", "感叹没有新意", "自己也被迫卖出"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 39,
+        "summary": "用户（自称期货佬）提供股票走势分析和买卖点参考，并邀请其他人提问。",
+        "sentiment": "positive",
+        "key_opinions": ["自称有经验者提供技术分析参考", "给出个股入场和止损价位", "鼓励大家参与互动"],
+        "mentioned_stocks": ["国瓷材料", "百合花", "臻宝科技", "有研新材", "招金黄金", "宝丰能源", "中钨高新", "盛和资源", "智立方", "士兰微", "太极实业", "中兵红箭"]
+    },
+    {
+        "index": 40,
+        "summary": "用户认为市场下跌是“洗盘”，但多数回复者认为是在出货，对后市悲观。",
+        "sentiment": "negative",
+        "key_opinions": ["认为下跌是主力“洗盘”", "多数回复认为是“出货”而非洗盘", "认为没有量能，市场将阴跌或暴跌", "指出近期市场缺乏主线"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 41,
+        "summary": "用户展示券商分析师极低的预测胜率，批评其价值低。",
+        "sentiment": "negative",
+        "key_opinions": ["展示券商分析师预测胜率极低的截图", "批评券商养这些分析师无用", "讨论卖方研报的价值", "提及某分析师因推荐“完美世界”而闻名"],
+        "mentioned_stocks": ["完美世界"]
+    },
+    {
+        "index": 42,
+        "summary": "用户抱怨A股跟跌港股（韩指），认为A股缺乏独立性。",
+        "sentiment": "negative",
+        "key_opinions": ["抱怨A股跟随港股（韩指）下跌", "认为A股缺乏独立性", "调侃A股是港股的“儿子”", "指出美股期货也在下跌"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 43,
+        "summary": "用户描述盘中利润大幅回吐的绝望感，引发广泛共鸣和吐槽。",
+        "sentiment": "negative",
+        "key_opinions": ["描述盘中利润大幅回吐的沮丧感", "感慨无论外盘如何A股总是下跌", "讨论盘中高抛低吸的策略", "认为下跌远超预期"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 44,
+        "summary": "用户希望寻找“含美量”高的科技主动基金，以规避A股风险。",
+        "sentiment": "mixed",
+        "key_opinions": ["希望投资美股仓位高的科技基金", "反映国内主动基金可能调整持仓", "提及具体基金产品（如景顺长城纳斯达克科技）", "提示基金可能修改基准或限购风险"],
+        "mentioned_stocks": ["景顺长城纳斯达克科技", "建信基金", "华夏移动互联"]
+    },
+    {
+        "index": 45,
+        "summary": "用户推荐“发车”国风新材，但未说明逻辑，引发追问和调侃。",
+        "sentiment": "mixed",
+        "key_opinions": ["推荐买入国风新材", "未说明推荐逻辑，引发其他人追问", "被调侃为“越野”或看不懂的推荐", "部分人表示不敢追高"],
+        "mentioned_stocks": ["国风新材", "泛微网络"]
+    },
+    {
+        "index": 46,
+        "summary": "用户询问腾讯股价大涨原因，回复认为与AI产品对标有关。",
+        "sentiment": "positive",
+        "key_opinions": ["询问腾讯股价大涨原因", "认为可能与AI产品（muse）有关", "认为腾讯在AI时代有优势"],
+        "mentioned_stocks": ["腾讯"]
+    },
+    {
+        "index": 47,
+        "summary": "用户讨论华纺股份和“龙头”股之间的卡位战，结果双双下跌。",
+        "sentiment": "negative",
+        "key_opinions": ["讨论两只股票（华纺、龙头）的卡位战", "卡位结果导致股价下跌", "认为炒这类股票如同赌博", "自己因“弱转强”误判而亏损"],
+        "mentioned_stocks": ["华纺股份"]
+    }
+]
+```
