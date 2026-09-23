@@ -1,0 +1,254 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论油价上涨对A股的影响，用户对主力资金的行为和油价走势表示困惑和担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["油价波动影响股市，反应被放大", "主力预判失误，市场情绪悲观", "油价下跌可能带来短期利好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论股市板块轮动现象，从白酒到黄酒，并预测下一个可能被炒作的食品或消费板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["资金在寻找无人问津的板块炒作", "遵循‘什么没人买炒什么’的逻辑", "建议从亏损且成交额低的票中挑选"],
+    "mentioned_stocks": ["莲花味精", "古越龙山"]
+  },
+  {
+    "index": 3,
+    "summary": "用户询问宏创是否处于低点并适合建仓，寻求投资建议。",
+    "sentiment": "neutral",
+    "key_opinions": ["认为股价处于相对低点", "考虑是否适合建立仓位"],
+    "mentioned_stocks": ["宏创"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论中美关系相关传闻，商业代表团可能取消访问，引发对市场影响的担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["传闻可能预示谈判不顺利", "可能导致市场进一步下跌", "对消息真实性和细节存在疑问"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "用户表达对市场被主力操控的不满，认为调整是为了逼迫套牢盘割肉。",
+    "sentiment": "negative",
+    "key_opinions": ["认为主力在刻意打压逼散户割肉", "抱怨游戏规则对散户不公平", "散户在与主力的博弈中处于劣势"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论热点轮换，从厄尔尼诺转向房地产政策，并提及游资动向。",
+    "sentiment": "mixed",
+    "key_opinions": ["热点概念持续时间短，约一个月", "房地产板块可能迎来政策利好", "游资关注特定席位如佛山、章盟主"],
+    "mentioned_stocks": ["万科A"]
+  },
+  {
+    "index": 7,
+    "summary": "对比手机厂商和主机厂对核心供应商的态度，讨论电池与芯片的替代性差异。",
+    "sentiment": "neutral",
+    "key_opinions": ["电池技术成熟，车企更容易去单一供应商化", "芯片领域选择少且替代性弱", "情绪化讨论对投资无意义"],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 8,
+    "summary": "分析A股与外围市场（如美股）走势背离的原因，讨论科技股套牢盘压力。",
+    "sentiment": "negative",
+    "key_opinions": ["A股交易机制（T+1）导致博弈复杂", "科技股上方套牢盘重，主要套牢的是基金", "外围涨跌不必然带动A股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "用户抱怨投资锂板块多次亏损，寻求安慰，其他人建议远离该板块。",
+    "sentiment": "negative",
+    "key_opinions": ["锂板块投资体验极差，被戏称为‘地狱难度’", "多次亏损后应拉黑该板块", "同类建议远离锂电、商业航天、人形机器人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "质疑A股市场与美股科技股走势背离，为何A股上涨的是房地产和黄酒而非科技。",
+    "sentiment": "negative",
+    "key_opinions": ["A股科技股涨跌受筹码博弈影响大于基本面", "房地产和消费股上涨被视为‘酱香科技’", "对A股‘炒’现象感到无奈"],
+    "mentioned_stocks": ["兆易创新", "会稽山", "万科"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论房地产小作文的真实性及其对股价的影响，用户对楼市基本面持怀疑态度。",
+    "sentiment": "mixed",
+    "key_opinions": ["资金相信政策利好传闻，推动股价上涨", "质疑居民购买力和真实需求", "认为‘要信早信’是短期博弈逻辑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "以幽默口吻评论市场下跌，归因于韩国股市下跌带动。",
+    "sentiment": "negative",
+    "key_opinions": ["A股下跌时寻找外部‘借口’", "韩国股市先下跌影响A股情绪"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论市场成交量萎缩，预测节前可能跌破万亿，并表达对市场的失望。",
+    "sentiment": "negative",
+    "key_opinions": ["成交量大幅萎缩，市场交投清淡", "预期节前成交量可能跌破万亿", "市场表现令人失望，不如休假"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "用户困惑于市场近期上涨但情绪反而变差，其他人归因于美股对比下的落差。",
+    "sentiment": "negative",
+    "key_opinions": ["A股上涨不及预期，与美股新高形成反差", "科技股投资者期望高，容易不满", "A股跟跌不跟涨的特性令人沮丧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论空仓决策，提及市场回调风险和外围市场（纳指）新高的对比。",
+    "sentiment": "negative",
+    "key_opinions": ["认为市场累积涨幅后回调风险大", "纳指新高与A股下跌形成强烈反差", "质疑A股跟随美股上涨的逻辑"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 16,
+    "summary": "用户抱怨中石油股价表现，并以夸张方式呼吁他人买入以解套。",
+    "sentiment": "negative",
+    "key_opinions": ["对中石油股价表现极度不满", "以‘求救’口吻呼吁他人接盘", "情绪化表达套牢的痛苦"],
+    "mentioned_stocks": ["中石油"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论投资纳指基金遇到困难，如额度紧张或溢价问题。",
+    "sentiment": "neutral",
+    "key_opinions": ["投资QDII纳指基金面临额度限制", "场内ETF存在溢价但交易便捷", "建议通过场内交易应对溢价"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 18",
+    "summary": "分享投资矛盾心理：不敢买上涨股，却在下跌股上越补越亏。",
+    "sentiment": "negative",
+    "key_opinions": ["‘恐高’心理导致错过强势股", "‘抄底’补仓下跌股导致亏损扩大", "反映常见的投资心理误区"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "用户许愿股市能上涨至国庆前，其他人对此持怀疑或戏谑态度。",
+    "sentiment": "mixed",
+    "key_opinions": ["期望节前有一波上涨行情", "怀疑可能是主力拉高出货", "提到历史节假日行情但提醒后续风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论市场下跌被称为‘空头狂欢’，但实际盘面并未暴跌，多空双方均感不适。",
+    "sentiment": "negative",
+    "key_opinions": ["市场阴跌，而非暴跌，空头也难获利", "满仓者亏损，空仓者难入场，双方难受", "投资者因亏损而产生负面情绪宣泄"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论福建水泥的涨停及房地产板块的联动，提醒跟风板次日可能面临调整。",
+    "sentiment": "mixed",
+    "key_opinions": ["图形好看是短线炒作理由", "跟风房地产板块的涨停板次日可能被套利", "需观察龙头（如万科）走势以判断持续性"],
+    "mentioned_stocks": ["福建水泥", "万科"]
+  },
+  {
+    "index": 22,
+    "summary": "分享一个结合‘羊年’生肖概念和‘厄尔尼诺’现象的选股逻辑，挖掘相关标的。",
+    "sentiment": "positive",
+    "key_opinions": ["利用生肖概念进行玄学炒作", "从‘羊’谐音‘洋’挖掘个股", "厄尔尼诺对鱼粉（水产饲料）有基本面支撑"],
+    "mentioned_stocks": ["海洋王", "天洋新材", "澳洋健康", "百洋医药", "三羊马", "水羊股份", "七匹狼", "新澳股份"]
+  },
+  {
+    "index": 23,
+    "summary": "用户分享自己开发的股票筛选AI框架，并邀请社区测试。",
+    "sentiment": "positive",
+    "key_opinions": ["分享量化选股工具和思路", "结合AI模型进行盘中分析", "认为系统化筛选是个人投资者的出路"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "建议近期应以持股待涨为主，追高容易亏损。",
+    "sentiment": "neutral",
+    "key_opinions": ["当前市场适合耐心持有", "板块轮动，追涨易被套", "建议在冲高时获利了结"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "用户表达对A股市场的疲惫和失望，考虑转投纳斯达克，但顾虑溢价问题。",
+    "sentiment": "negative",
+    "key_opinions": ["认为A股独立下跌，令人失望", "考虑转向更强势的纳斯达克市场", "纳指溢价高成为投资的顾虑"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 26,
+    "summary": "抱怨市场频繁冲高回落，持股体验极差。",
+    "sentiment": "negative",
+    "key_opinions": ["市场走势反复，频繁冲高回落", "成交量不足制约行情", "节前市场观望情绪浓厚"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论黄酒板块上涨的‘预判’，以及黄酒本身的产品定位和消费场景。",
+    "sentiment": "mixed",
+    "key_opinions": ["部分‘预言’与股价上涨巧合", ["黄酒消费存在‘做菜用’的刻板印象", "个别黄酒股票被反复炒作"],
+    "mentioned_stocks": ["古越龙山", "会稽山"]
+  },
+  {
+    "index": 28,
+    "summary": "发起许愿贴，用户们许下如旅游、换电脑、买车等个人愿望，以期股市回血。",
+    "sentiment": "mixed",
+    "key_opinions": ["将个人消费愿望与股市收益挂钩", "反映投资者希望通过股市改善生活", "以许愿方式表达对回本的渴望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讨论节前国债逆回购操作，有人选择逆回购或债基来规避风险或避免手痒操作。",
+    "sentiment": "neutral",
+    "key_opinions": ["节前选择逆回购是保守策略", ["逆回购利率较高时是较好选择", "购买长周期产品可避免管不住手"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "用户本月账户收益由正转负，心态崩溃，寻求安慰。",
+    "sentiment": "negative",
+    "key_opinions": ["账户收益大幅回撤，心态失衡", "类似经历（如7月份）提供心理参照", "建议可尝试新股或新策略调节"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "用户询问是否应将资金转入港股通以购买港股中际旭创，以及交易切换的利弊。",
+    "sentiment": "neutral",
+    "key_opinions": ["在A股和港股标的间进行选择权衡", "资金跨市场切换存在交易日空窗成本"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 32,
+    "summary": "指出近期每日都有白马股闪崩，并引发关于市场是否进入熊市的争论。",
+    "sentiment": "negative",
+    "key_opinions": ["白马股轮番闪崩是熊市特征", "认为银行股上涨、科技股下跌是熊市初期表现", "对未来数年阴跌表示担忧"],
+    "mentioned_stocks": ["思源电气", "美的", "三一重工", "宁德时代"]
+  },
+  {
+    "index": 33,
+    "summary": "以‘有车有房有粮有酒’调侃A股偏好炒作传统行业，而非科技。",
+    "sentiment": "negative",
+    "key_opinions": ["A股资金偏好炒作与生活传统相关的行业", "科技股被调侃为不能‘吃住’", "反映对市场风格的不满"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "指出房地产服务等传统‘老登股’板块大涨，引发对市场风格的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["‘老登股’（如地产）今日领涨", ["这种风格被部分投资者厌恶", "可能与相关政策预期或会议有关"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "分享一个短线操作观察：开盘存储冲高卖出，转投光通信板块。",
+    "sentiment": "neutral",
+    "key_opinions": ["观察到特定板块间的日内资金轮动规律", "通过日内切换捕捉板块轮动机会", "因T+1限制无法完美跟随策略"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "描述参与赤天化竞价博弈的刺激过程，因挂单方式错误未能成交。",
+    "sentiment": "negative",
+    "key_opinions": ["小盘股竞价博弈风险高", "技术细节（如挂单方式）影响成交", "反映短线操作的刺激与失误"],
+    "mentioned_stocks": ["赤天化"]
+  }
+]
