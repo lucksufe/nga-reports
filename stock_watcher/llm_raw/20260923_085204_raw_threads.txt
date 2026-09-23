@@ -1,0 +1,438 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论中美股市与经济现状的差异，认为美国消费和企业盈利强支撑美股，而国内消费弱导致A股卖压重。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美股上涨得益于强消费与企业盈利，形成买盘循环",
+      "A股因消费信心弱、企业盈利差，导致卖盘不断",
+      "投资者对A股缺乏信心，倾向于回本离场"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "认为韩国市场因去杠杆和外资流出导致资金不足，影响指数上涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "去杠杆后流动资金减少",
+      "外资流出转向美股",
+      "指数难以上涨"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "表达对A股高开低走的失望，对比美股上涨，建议配置美股以改善心态。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股高开低走导致心情低落",
+      "美股长期表现远优于A股",
+      "建议通过港美股账户投资以避开A股"
+    ],
+    "mentioned_stocks": ["纳指", "标普500"]
+  },
+  {
+    "index": 4,
+    "summary": "质疑为何不管制炒差炒亏，批评A股市场双标，政策目标与市场表现矛盾。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损股和概念炒作未被有效管制",
+      "有业绩的股票反而下跌，市场双标",
+      "政策口号与市场实际操作存在矛盾"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "帖子内容无关股市，讨论小说推荐，无实质股市分析。",
+    "sentiment": "mixed",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "提醒注意A股高开后常走低的“祖训”，并讨论韩国市场开盘走势类似。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创业板高开后多数时间走低",
+      "韩国市场开盘也出现跳水",
+      "存在开盘做T的操作机会"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "批评A股机构因油价小幅波动而恐慌抛售，认为其操作是报团做业绩而非相信科技。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "机构对油价波动反应过度",
+      "机构抱团科技股是为了业绩而非信念",
+      "大盘因机构操作而承压"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论在香港开设正规市场（港卡、美券商）的流程与注意事项，涉及资金回流问题。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "开户需港澳通行证和身份证",
+      "资金回流需注意CRS审查",
+      "线上银行开户门槛较低"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "描述A股市场高开低走、互相博弈的“黑暗森林”状态，与美股信息透明对比。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股市场存在高开低走的博弈",
+      "投资者信心不足导致互不信任",
+      "T+1制度加剧猜疑链"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "关注特朗普在联合国大会对伊朗的言论对油价的影响，认为谈判难以达成。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "特朗普言论导致油价反弹",
+      "伊朗条件苛刻，谈判难达成",
+      "油价波动影响市场情绪"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "讨论韩国市场高开后难稳住，走势与A股类似，可能受量化因子影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国市场高开后稳不住",
+      "走势类似A股",
+      "可能已受量化因子影响"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "担忧纳斯达克指数形成“对子顶”，暗示可能见顶，引发市场担忧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳指出现“对子顶”技术形态",
+      "市场担忧可能见顶",
+      "类似A股主力操盘手法"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 13,
+    "summary": "对明天A股走势悲观，认为缺乏上涨理由，高开可能低走，市场信心不足。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "认为没有跌的理由但市场仍会跌",
+      "A股高开常导致低走",
+      "市场信心不足，难以格局"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论澜起科技的前景，认为其CPU内存互联逻辑硬，是科技寡头，但面临抛压。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "澜起科技是CPU内存互联寡头",
+      "逻辑硬但股价波动大",
+      "散户多导致上涨压力大"
+    ],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 15,
+    "summary": "期货用户发起个股分析，提供入场价和止损价参考，请求分析特定股票。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "提供个股入场与止损价位",
+      "仅回复有潜力有价值的票",
+      "鼓励互动分享持仓"
+    ],
+    "mentioned_stocks": ["国瓷材料", "百合花", "臻宝科技", "有研新材", "招金黄金", "宝丰能源", "中钨高新", "盛和资源", "智立方", "士兰微", "太极实业", "中兵红箭"]
+  },
+  {
+    "index": 16,
+    "summary": "惊讶于纳斯达克持续上涨，认为“鬼故事”在A股，美股上涨而A股可能高开低走。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳指持续上涨",
+      "“鬼故事”可能出现在A股",
+      "A股可能高开低走出货"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 17,
+    "summary": "纳斯达克创新高，但A股半导体板块反而下跌，反映A股与美股脱节。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳指创新高但A股半导体下跌",
+      "A股可能继续低走",
+      "科技股在A股表现不佳"
+    ],
+    "mentioned_stocks": ["纳斯达克", "半导体"]
+  },
+  {
+    "index": 18,
+    "summary": "询问是否有独特的量化指标判断个股底部，讨论底部判断的困难。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "寻求判断个股底部的量化指标",
+      "个股底部难以预测",
+      "建议分批建仓而非一次性买入"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "质疑原油价格下跌是否在“演戏”，认为油价变动可能针对A股，市场操纵明显。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "油价下跌可能针对A股",
+      "内资通过外盘跳空收割散户",
+      "市场存在明显的操纵行为"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论信息收集困难，小作文转手多次才看到，分享通过AI、外网等渠道获取信息的方法。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "信息获取被动，常错过一手消息",
+      "建议通过AI或特定信息源筛选",
+      "信息为资金服务，频率放低"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "建议长假前逐步买入中韩半导体ETF，以捕捉外围市场可能上涨的机会。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "长假前外围常上涨",
+      "可逐步买入中韩半导体ETF",
+      "有两种操作思路：节前获利了结或持仓过节赌"
+    ],
+    "mentioned_stocks": ["中韩半导体"]
+  },
+  {
+    "index": 22,
+    "summary": "询问美股标的推荐，已持有英伟达、谷歌等，希望寻找更多投资机会。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "希望转战美股寻找机会",
+      "已持有英伟达、谷歌等",
+      "讨论资金如何从美股回流"
+    ],
+    "mentioned_stocks": ["NVIDIA", "Google", "pdd", "hesai科技", "纳100", "标普500", "soxx"]
+  },
+  {
+    "index": 23,
+    "summary": "设立许愿贴，用户分享赚钱后想做的事情，如旅游、购物等，氛围轻松。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "许愿赚钱后实现消费愿望",
+      "如陪家人去南极旅游",
+      "氛围轻松，寄托美好期望"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "认为A股缺乏真正能“上桌”的科技公司，多为产业链中低端，而美股公司更有优势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股科技公司多在产业链中低端",
+      "美股公司掌握核心技术",
+      "国内科技公司盈利确定性较低"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "以“美股崩盘”为标题分享图片，但内容显示为上涨，实为反讽或玩笑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "标题“美股崩盘”实为上涨",
+      "可能是反讽或幽默表达",
+      "引发对A股表现的讨论"
+    ],
+    "mentioned_stocks": ["美股"]
+  },
+  {
+    "index": 26,
+    "summary": "分享自写的股票筛选框架，用于模拟和实盘交易，希望获取反馈。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "分享自研股票筛选框架",
+      "用于模拟和实盘交易",
+      "希望社区提供改进建议"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "开帖记录A股复盘，分享市场看法，目标是将千万账户做到过亿。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "记录每日市场分析",
+      "分享指数、板块、政策见解",
+      "设定高资产增长目标"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "纳指创新高，但基金公司发布风险提示，与A股表现形成对比，引发讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指创新高但基金公司提醒风险",
+      "与A股表现形成鲜明对比",
+      "投资者对正规市场和A股看法不同"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 29,
+    "summary": "用寓言故事讽刺A股长期低迷、冲高回落的走势，表达不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股长期低迷，门牌停在三千点",
+      "常出现冲高回落走势",
+      "政策“慢牛”与实际表现不符"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "讨论当日涨停股中“华字辈”占比较高，质疑是否还有参与机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "涨停股中华字辈占比较高",
+      "后排股票大量掉队",
+      "需关注传媒和医药板块"
+    ],
+    "mentioned_stocks": ["华字辈"]
+  },
+  {
+    "index": 31,
+    "summary": "引用“风险是涨出来的”名言，但在A股不适用，讨论A股与美股估值差异。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股上涨风险与美股不同",
+      "美股估值更合理",
+      "A股存在阴跌后突发风险"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "分享个人选股框架，列出候选股票及买入条件，供参考。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "分享选股框架和条件",
+      "候选股票需符合走势预期",
+      "鼓励交流选股逻辑"
+    ],
+    "mentioned_stocks": ["安井食品", "阳光照明", "宝信软件", "精达股份", "锡装股份"]
+  },
+  {
+    "index": 33,
+    "summary": "感叹美股存储股表现强劲，而A股相关公司股价疲软，质疑A股投资价值。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美股存储股表现强劲",
+      "A股存储股股价疲软",
+      "A股与基本面脱节，纯筹码博弈"
+    ],
+    "mentioned_stocks": ["存储股", "普冉", "长鑫"]
+  },
+  {
+    "index": 34,
+    "summary": "认为股市多数时间是“垃圾时间”，六七月波动剧烈，明天可能高开但格局难。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股市多数时间是“垃圾时间”",
+      "六七月波动剧烈",
+      "明天高开可能难以格局"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "建议在纳指新高时做多A股核心科技股，认为其因成交量不足处于低位，等待补涨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "A股核心科技股因成交量低处于低位",
+      "等待情绪回暖后可能补涨",
+      "不建议在纳指高位追高"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 36,
+    "summary": "分享美股投资组合，重点关注AI硬件、软件、CSP和生命科学板块，并讨论操作。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "重点关注AI及相关板块",
+      "持有英伟达、谷歌等科技股",
+      "讨论具体操作策略和杠杆使用"
+    ],
+    "mentioned_stocks": ["pltr", "fde", "crwd", "soxx", "nvda", "dell", "iren", "goog", "tem", "genes", "avgo", "smci", "nbis", "hpe"]
+  },
+  {
+    "index": 37,
+    "summary": "美股科技股直线上涨，对比A股高开低走，表达对A股的不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美股科技股表现强势",
+      "A股高开必低走",
+      "投资者对A股信心不足"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "以“麻袋”比喻被套牢，讨论A股高开跳水导致投资者被套，幽默中带无奈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股高开跳水导致投资者被套",
+      "“麻袋”比喻被套牢",
+      "市场操作困难，信心不足"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "反讽纳斯达克上涨风险大而A股下跌机会多，实际表达对A股表现的不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "反讽纳斯达克上涨风险大",
+      "反讽A股下跌机会多",
+      "实际表达对A股表现的不满"
+    ],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论Meta的Muse应用为何成功，分析AI在C端盈利的可能性，对比中美市场。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "Meta的Muse应用可能推动AI在C端盈利",
+      "国内同类应用盈利能力较弱",
+      "市场对AI投资存在焦虑"
+    ],
+    "mentioned_stocks": ["meta"]
+  }
+]
