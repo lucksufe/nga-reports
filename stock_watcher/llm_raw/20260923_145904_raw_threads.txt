@@ -1,0 +1,296 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论股市4000点三次冲击失败，有形之手压制。",
+    "sentiment": "negative",
+    "key_opinions": ["4000点有有形大手压制", "4000点像珠峰高不可攀"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论节假日前后交易状态，市场低迷，玩家准备放假。",
+    "sentiment": "negative",
+    "key_opinions": ["垃圾时间不交易", "券商经理都请年假了", "自己人砸盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论房地产救市消息，质疑可行性和资金来源。",
+    "sentiment": "mixed",
+    "key_opinions": ["具体怎么救，钱从哪儿来", "没人买房，钱都捂住了", "用嘴救吗？"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "警告不要相信房地产救市小作文，强调基本面问题。",
+    "sentiment": "negative",
+    "key_opinions": ["小作文哪个真的落地过", "内地供大于求，房子比人多", "房地产不是小作文能救的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论股票图形异常，全是上影线，主力做T。",
+    "sentiment": "negative",
+    "key_opinions": ["全是上影线", "疑似主力做T", "低了不愿卖，高了不愿买"],
+    "mentioned_stocks": ["沪电", "生益"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论股市V型反转，但情绪标杀跌，提及pcb和黄酒板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["神股已死", "pcb和黄酒才是真科技", "涨停跌到-3回零轴"],
+    "mentioned_stocks": ["会稽山", "奥鸿", "pcb"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论汽车板块可能轮动上涨，新能源车要暴涨。",
+    "sentiment": "positive",
+    "key_opinions": ["新能源车感觉要开始暴涨了", "昨天汽车带了一下"],
+    "mentioned_stocks": ["江淮"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论中国平安股息率高，是否适合建仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["平安股息率5.06%，可以买", "等50以下", "好股票好价格"],
+    "mentioned_stocks": ["中国平安", "宝丰"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论科技股是否清仓，担忧市场下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["美股科技大涨，A股都不涨", "明天大概不会涨", "没量了"],
+    "mentioned_stocks": ["亨通"]
+  },
+  {
+    "index": 10,
+    "summary": "表达对股市下跌的 frustrated，期待反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["跌多了也会涨", "今天能不能吃个涨停", "每次一好起来大盘就崩了"],
+    "mentioned_stocks": ["赛力斯", "欣旺达"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论闽东电力进监管影响短线情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["闽东进监管后短线情绪影响大", "早上七个亿打不开跌停"],
+    "mentioned_stocks": ["闽东电力", "哈药"]
+  },
+  {
+    "index": 12,
+    "summary": "分享美股投资策略，聚焦AI和相关板块。",
+    "sentiment": "positive",
+    "key_opinions": ["关注AI这块", "硬件：soxx, nvda", "软件：pltr, crwd"],
+    "mentioned_stocks": ["pltr", "crwd", "soxx", "nvda", "dell", "iren", "goog", "tem", "mrvl", "lite", "avgo", "smci", "hpe", "seagate", "mu", "skhynix"]
+  },
+  {
+    "index": 13,
+    "summary": "预测油跌金铜涨，尾盘机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["油又要跌", "金铜又直线上去", "尾盘就是买点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论电力板块下跌，因龙头闽东电力进监管。",
+    "sentiment": "negative",
+    "key_opinions": ["龙头闽东进监管被核", "今天电力必定被狠砸"],
+    "mentioned_stocks": ["华电国际", "华电辽能", "立新", "大唐", "闽东电力"]
+  },
+  {
+    "index": 15,
+    "summary": "抱怨尾盘杀跌，担心美股影响。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘爆杀", "晚上美股要调整", "光头阴"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论神股波动，最后一天大结局。",
+    "sentiment": "mixed",
+    "key_opinions": ["神股直线了", "有没有敢摸三相电的", "这种股热度只有两天"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论英维克招人可能预示业务增长。",
+    "sentiment": "positive",
+    "key_opinions": ["英维克疯狂招人", "胜宏招人招了N久了"],
+    "mentioned_stocks": ["英维克", "胜宏"]
+  },
+  {
+    "index": 18,
+    "summary": "对比建滔和中国巨石，质疑巨石表现。",
+    "sentiment": "negative",
+    "key_opinions": ["为何建滔涨巨石不涨", "流动性是双刃剑", "巨额减持"],
+    "mentioned_stocks": ["建滔基层板", "中国巨石"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论纳指ETF溢价风险。",
+    "sentiment": "negative",
+    "key_opinions": ["到30%溢价会发生什么", "管理终点就是收税"],
+    "mentioned_stocks": ["纳指科技ETF"]
+  },
+  {
+    "index": 20,
+    "summary": "分享个人经验，回本前常暴跌，提醒小心。",
+    "sentiment": "negative",
+    "key_opinions": ["回本即暴跌", "历史战绩3-0", "准备抄底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论小商品城突然跌停，原因不明。",
+    "sentiment": "negative",
+    "key_opinions": ["杀得太狠", "明天有业绩说明", "随机杀人"],
+    "mentioned_stocks": ["小商品城"]
+  },
+  {
+    "index": 22,
+    "summary": "提醒逆回购机会，节假日前理财。",
+    "sentiment": "mixed",
+    "key_opinions": ["下午记得下单逆回购", "防止手贱打满逆回购"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "讨论市场流动性问题，外资流出。",
+    "sentiment": "negative",
+    "key_opinions": ["流动资金就这点", "外资去买美力士"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论诚达药业股价剧烈波动。",
+    "sentiment": "mixed",
+    "key_opinions": ["诚达药业要天地板？", "咋回事？这么猛"],
+    "mentioned_stocks": ["诚达药业"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论高争股票涨幅受限，怕进监管。",
+    "sentiment": "negative",
+    "key_opinions": ["再涨要进监管了"],
+    "mentioned_stocks": ["高争"]
+  },
+  {
+    "index": 26,
+    "summary": "抱怨万华化学做T失败，股价反走。",
+    "sentiment": "negative",
+    "key_opinions": ["做T降了几分钱", "整这出科技股的尿性"],
+    "mentioned_stocks": ["万华化学", "化工股"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论厦门钨业横盘，等待机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["横盘好久了", "等-8%买入", "龙头情绪利空"],
+    "mentioned_stocks": ["厦门钨业", "中钨", "柏诚"]
+  },
+  {
+    "index": 28,
+    "summary": "质疑市场行为，预期节后上涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["收今天出金的过节费", "明天和节后第一天大涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "分享股票筛选框架和策略。",
+    "sentiment": "positive",
+    "key_opinions": ["写了套筛选框架", "选出来不代表会进", "明天走势符合预期才上车"],
+    "mentioned_stocks": ["安井食品", "阳光照明", "宝信软件", "精达股份", "华金", "锡装股份"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论黄酒板块投资失败，调侃销户。",
+    "sentiment": "negative",
+    "key_opinions": ["盘面看得我想死", "涨了这么多才摸三相电"],
+    "mentioned_stocks": ["黄酒"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论欣旺达股票，是否值得关注。",
+    "sentiment": "mixed",
+    "key_opinions": ["早上套住了", "听说有人要抬这个票", "测试抛压"],
+    "mentioned_stocks": ["欣旺达", "小米", "理想"]
+  },
+  {
+    "index": 32,
+    "summary": "比较三支股票，讨论哪个更合适。",
+    "sentiment": "mixed",
+    "key_opinions": ["万泽看着-3 V上来", "柯力观察机器人纠缠", "保守感觉草坪稳一点"],
+    "mentioned_stocks": ["共创草坪", "万泽股份", "柯力传感"]
+  },
+  {
+    "index": 33,
+    "summary": "对比美股科技和A股房地产黄酒，质疑市场。",
+    "sentiment": "negative",
+    "key_opinions": ["我们是没有科技吗", "黄酒涨成这样是万万没想到", "酱香科技和预售科技"],
+    "mentioned_stocks": ["房地产", "黄酒", "会稽山", "万科", "兆易创新"]
+  },
+  {
+    "index": 34,
+    "summary": "分享价格行为学技术分析理论。",
+    "sentiment": "positive",
+    "key_opinions": ["分享价格行为学理论", "包含K线、交易区间等"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "反思做T交易，分享经验教训。",
+    "sentiment": "mixed",
+    "key_opinions": ["做了3个点的T", "结果13个点跳水", "T出来的利润是拿先手换的"],
+    "mentioned_stocks": ["中石科技", "长飞"]
+  },
+  {
+    "index": 36,
+    "summary": "表达对今日科技股表现的看法，部分红盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["我红3个点", "格局了", "存储cpo半导体都是红1个点"],
+    "mentioned_stocks": ["中韩半导体"]
+  },
+  {
+    "index": 37,
+    "summary": "抱怨中石油，呼吁抄底。",
+    "sentiment": "negative",
+    "key_opinions": ["大家快来抄中石油屁股", "送中石油市值超越长鑫科技"],
+    "mentioned_stocks": ["中石油", "长鑫科技"]
+  },
+  {
+    "index": 38,
+    "summary": "抱怨美股和韩股影响A股。",
+    "sentiment": "negative",
+    "key_opinions": ["美帝为啥要涨", "棒子为啥要高开低走", "责任全在美帝"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论地产救市小作文真实性，地产股上涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["资金是信了", "30号之前真的要出台新利好", "要信早信"],
+    "mentioned_stocks": ["房地产", "万科"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论逆回购和理财选择。",
+    "sentiment": "mixed",
+    "key_opinions": ["感觉大家都在买股票", "逆回购利率挺高", "29号买逆回购还不错"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "分享个人股票筛选框架和策略。",
+    "sentiment": "positive",
+    "key_opinions": ["写了套框架", "目前模拟仓和真实仓", "希望大哥们多提issues"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "幽默表达对市场下跌的无奈。",
+    "sentiment": "negative",
+    "key_opinions": ["今天棒子也干了", "大A：棒子先动的手"],
+    "mentioned_stocks": []
+  }
+]
