@@ -1,0 +1,317 @@
+[
+  {
+    "index": 1,
+    "summary": "抱怨A股下跌，建议买银行股避险，如农行跌幅超1%是上车机会。",
+    "sentiment": "negative",
+    "key_opinions": ["A股表现不如美股，通杀下跌。", "银行股是近期行情避风港。", "农行单日跌幅超1%是买入机会。"],
+    "mentioned_stocks": ["农行"]
+  },
+  {
+    "index": 2,
+    "summary": "用户满仓买入多个板块股票，赌市场反弹，分散投资但部分被套。",
+    "sentiment": "mixed",
+    "key_opinions": ["满仓赌反弹，买入文化传媒等多板块。", "沪深300ETF套牢但留余地。", "情绪冰点或为试错机会。"],
+    "mentioned_stocks": ["文化传媒", "有色", "军工", "核电", "商业航天", "沪深300"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论今天上涨的股票如紫光股份，认为可能是传家宝，但担心明天补跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天涨的股票如传家宝，多为红利股。", "紫光股份、工商银行等今日红盘。", "有观点认为明天可能补跌。"],
+    "mentioned_stocks": ["紫光股份", "工商银行", "欣旺达", "巨力索具"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论欣旺达是否驻底完成，有分歧，提及理想汽车关联。",
+    "sentiment": "mixed",
+    "key_opinions": ["欣旺达可能驻底，但需谨慎。", "有用户吹票，但缺乏人气。", "理想汽车二股东或影响股价。"],
+    "mentioned_stocks": ["欣旺达", "理想汽车"]
+  },
+  {
+    "index": 5,
+    "summary": "用户满仓赌指数在3900点反弹，抱怨A股指数在3850-3950间波动。",
+    "sentiment": "negative",
+    "key_opinions": ["A股指数在3850-3950间像画波浪线。", "用户满仓赌3900点反弹。", "操盘精准但市场低迷。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "抱怨A股有色板块表现差于美股，年线绿，机构不买。",
+    "sentiment": "negative",
+    "key_opinions": ["A股有色年线绿，美股新高。", "有色股技术无差距但市场有问题。", "有色机构不太买，炒作难。"],
+    "mentioned_stocks": ["南方铜业", "江铜"]
+  },
+  {
+    "index": 7,
+    "summary": "用户亏损后计划转投ETF，提到个股风险大。",
+    "sentiment": "negative",
+    "key_opinions": ["半仓被鼎通干10点，亏损严重。", "计划全仓ETF避险。", "个股风险高，ETF更稳妥。"],
+    "mentioned_stocks": ["鼎通", "纳子"]
+  },
+  {
+    "index": 8,
+    "summary": "争论美股纳指是否假突破，有担忧但反驳说已涨很多。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指可能假突破，引发担忧。", "纳指已涨20%，假突破说法可笑。", "A股跟跌不跟涨。"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 9,
+    "summary": "股市下跌与政治事件关联，抱怨资金在重要日子砸盘。",
+    "sentiment": "negative",
+    "key_opinions": ["股市在重要日子常下跌。", "资金喜欢在大日子砸盘。", "A股不给面子。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论定投纳斯达克十年是否赚钱，普遍认为必赚。",
+    "sentiment": "positive",
+    "key_opinions": ["定投纳指十年只有赚多赚少。", "长期持有纳指收益确定。", "定投应忽略短期波动。"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论黄金投资，认为黄金ETF用于对冲，波动小聊得少。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金ETF配置为对冲仓位。", "黄金波动小，做超短看不上。", "央行底被砸穿，短期震荡。"],
+    "mentioned_stocks": ["黄金ETF", "紫金矿业"]
+  },
+  {
+    "index": 12,
+    "summary": "抱怨北向数据不公开，涨跌都归咎国家队，北向可能是假外资。",
+    "sentiment": "negative",
+    "key_opinions": ["北向数据不透明导致背锅国家队。", "北向不一定是真外资。", "应公开机构数据。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "平潭发展大跌8%，用户亏损，有期待继续跌或建仓。",
+    "sentiment": "negative",
+    "key_opinions": ["平潭发展大跌8%，可能继续下跌。", "用户亏损开启回本之旅。", "有建仓者等待反弹。"],
+    "mentioned_stocks": ["平潭发展"]
+  },
+  {
+    "index": 14,
+    "summary": "持仓波动但未操作，防守第三个月，炒小炒差策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["持仓从+6到-6再到+6，未动。", "防守三个月，炒小炒差。", "操作保守，依赖海底博弈。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论美联储加息概率，担心黄金崩盘。",
+    "sentiment": "negative",
+    "key_opinions": ["美联储加息概率高。", "黄金可能因加息崩盘。", "用户持有黄金担忧。"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 16,
+    "summary": "地产板块强势但今天跌，市场失去主线，有人不看好地产股。",
+    "sentiment": "mixed",
+    "key_opinions": ["地产近期强势，今天下跌。", "市场失去主线。", "看好房子但不看好地产股。"],
+    "mentioned_stocks": ["地产股", "银行"]
+  },
+  {
+    "index": 17,
+    "summary": "用诗吐槽节日股市下跌，消极情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["节日股市下跌令人羞愧。", "双节不涨反跌，消极吐槽。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "预测成交量缩量，市场新低，流动性枯竭。",
+    "sentiment": "negative",
+    "key_opinions": ["成交量创新低，市场低迷。", "新低后还有新低。", "流动性枯竭，缺乏交易。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "股市下跌导致哀嚎，用户消费和煤化工亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["股市下跌普遍痛苦。", "消费和煤化工股票亏损。", "科技股也挨打。"],
+    "mentioned_stocks": ["消费", "煤化工"]
+  },
+  {
+    "index": 20,
+    "summary": "争论做T策略，认为市场差需做T，但风气导致市场坏。",
+    "sentiment": "negative",
+    "key_opinions": ["垃圾市场需做T。", "做T风气损害市场。", "机构带头做T，散户无奈。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "抱怨A股跟跌不跟涨，原因在市场和裁判问题。",
+    "sentiment": "negative",
+    "key_opinions": ["A股涨不跟跌就跟。", "市场和裁判太垃圾。", "资金出货导致跟跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "希望指数跌到3600点，但被反驳不现实，指数被控盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["目标3600点做多。", "指数在3900点被控盘。", "看空但批评无脑。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "节前股市下跌，原因可能是资金流出或机构放假。",
+    "sentiment": "negative",
+    "key_opinions": ["节前资金流出导致下跌。", "机构准备放假减少交易。", "砸盘无意义但持续。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "A股持续令人失望，跟跌加倍，用户消极。",
+    "sentiment": "negative",
+    "key_opinions": ["A股总让人失望。", "跟跌加倍，不跟涨。", "预判无效照样跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "自选ETF全绿，银行ETF例外微红，科技ETF全跌。",
+    "sentiment": "negative",
+    "key_opinions": ["ETF全绿无活口。", "银行ETF微红，科技ETF全绿。", "市场分化明显。"],
+    "mentioned_stocks": ["银行ETF", "科技ETF"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论PCB股超声电子接近前高，板块分化，其他股票如兴森强势。",
+    "sentiment": "positive",
+    "key_opinions": ["超声电子接近前高，PCB强势。", "板块分化，强弱明显。", "其他科技股半山腰未到。"],
+    "mentioned_stocks": ["超声电子", "兴森", "富信科技", "东田微", "先导基电", "澳弘电子", "崇达技术", "紫阳"]
+  },
+  {
+    "index": 27,
+    "summary": "用户亏损大，股票业绩看不懂，回复说炒作后下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["股票亏损大，基本面看不懂。", "炒作后完成历史使命下跌。", "社保跑路，板块轮动快。"],
+    "mentioned_stocks": ["大便特工", "思源", "特变", "西电"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论市场是否交易绥靖，批评内资软骨头，绥靖应涨但实际跌。",
+    "sentiment": "negative",
+    "key_opinions": ["内资软骨头，市场问题。", "真绥靖会涨，但实际跌。", "资本圈内横外弱。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "用户加仓认为杀出量，但反驳说实际缩量。",
+    "sentiment": "mixed",
+    "key_opinions": ["杀出量可能是买点。", "实际成交量缩量。", "流动性不足，无人接盘。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "抱怨中秋节股市没红包，主力抠门。",
+    "sentiment": "negative",
+    "key_opinions": ["节日股市没红包。", "主力抠门，散户亏损。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "中秋节大跌，资金预判和避险，跟跌美股。",
+    "sentiment": "negative",
+    "key_opinions": ["大跌因预判和节前避险。", "跟跌美股，不跟涨。", "资金砸盘明显。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "猜测下午反弹，龙队取钱可能买股，银行流入。",
+    "sentiment": "mixed",
+    "key_opinions": ["下午或反杀反弹。", "龙队取钱可能投银行。", "银行板块流入第一。"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论厄尔尼诺和羊年概念炒作洋字辈股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["洋字辈股票炒作生肖概念。", "厄尔尼诺影响鱼粉供给。", "观察中，可能小行情。"],
+    "mentioned_stocks": ["海洋王", "天洋新材", "澳洋健康", "百洋医药", "三羊马", "水羊股份", "七匹狼", "新澳股份"]
+  },
+  {
+    "index": 34,
+    "summary": "券商股低迷，机会少，等分红，坐牢感强。",
+    "sentiment": "negative",
+    "key_opinions": ["券商股表现差，坐牢感。", "牛市结束都没涨。", "等分红，股价不涨业绩涨。"],
+    "mentioned_stocks": ["券商股"]
+  },
+  {
+    "index": 35,
+    "summary": "期望跌后反弹，但赛力斯等个股跌，汽车板块涨停。",
+    "sentiment": "mixed",
+    "key_opinions": ["跌多了会涨期望。", "赛力斯等个股下跌。", "汽车板块涨停。"],
+    "mentioned_stocks": ["赛力斯", "汽车板块", "欣旺达"]
+  },
+  {
+    "index": 36,
+    "summary": "预测明天低开高走，讨论炒股幸福但憋屈。",
+    "sentiment": "mixed",
+    "key_opinions": ["明天可能低开高走。", "炒股幸福但憋屈。", "反身性经验应用。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "低成交量下砸盘，因流动性枯竭，无人接盘。",
+    "sentiment": "negative",
+    "key_opinions": ["流动性枯竭导致小量能砸盘。", "无人接盘，降价出售。", "量化砸盘无意义。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "讨论日本股市表现，可能东升西落。",
+    "sentiment": "mixed",
+    "key_opinions": ["日本股市或上涨。", "对比A股表现。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "抱怨看盘浪费时间，股市令人反胃。",
+    "sentiment": "negative",
+    "key_opinions": ["看盘无意义。", "股市令人反胃。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "硬科技股操作困境，拉上去就有抛压，只能做T。",
+    "sentiment": "negative",
+    "key_opinions": ["硬科技股阴跌无解。", "做T是唯一策略。", "反弹越早下跌越早。"],
+    "mentioned_stocks": ["中大哥", "液冷", "PCB"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论科技股是否见底，有希望但可能继续跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股可能谷底。", "但可能有地下城继续跌。", "极致缩量，没人卖。"],
+    "mentioned_stocks": ["科技股", "科创50"]
+  },
+  {
+    "index": 42,
+    "summary": "期望下午大奇迹日，但实际全仓逆回购。",
+    "sentiment": "mixed",
+    "key_opinions": ["期望大奇迹日反弹。", "实际全仓逆回购避险。", "矛盾心态。"],
+    "mentioned_stocks": ["逆回购"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论消费股炒作顺序，从白酒到黄酒，下一个可能是料酒或啤酒。",
+    "sentiment": "mixed",
+    "key_opinions": ["消费股轮动炒作。", "白酒炒过，黄酒在炒。", "下一个料酒或啤酒。"],
+    "mentioned_stocks": ["白酒", "黄酒", "葡萄酒", "味精", "盐", "大米", "瓜子", "饮料", "矿泉水", "莲花", "糖", "米酒"]
+  },
+  {
+    "index": 44,
+    "summary": "认为今天是熊市起点，看空市场。",
+    "sentiment": "negative",
+    "key_opinions": ["今天是熊市起点。", "反向924也是924。", "期望百点长阴。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "讨论场内纳指ETF溢价问题，认为不会轻易杀溢价。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指溢价高，难杀下来。", "通道堵死，额度少。", "溢价可能因下跌扩大。"],
+    "mentioned_stocks": ["纳指ETF"]
+  }
+]
