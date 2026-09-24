@@ -1,0 +1,305 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "讨论伊朗内部政治矛盾、强硬派与亲美派冲突及外部事件影响。",
+        "sentiment": "negative",
+        "key_opinions": ["伊朗内部存在矛盾和‘内鬼’", "强硬派与文官集团分裂导致谈判困难", "需外部威胁事件才可能统一战线"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 2,
+        "summary": "发布美光科技的减持公告，仅一张图片无更多讨论。",
+        "sentiment": "negative",
+        "key_opinions": ["美光科技发布减持公告"],
+        "mentioned_stocks": ["美光科技"]
+    },
+    {
+        "index": 3,
+        "summary": "以古诗词形式表达对股市（特别是A股和AI板块）的迷茫、纠结与无奈。",
+        "sentiment": "mixed",
+        "key_opinions": ["对市场方向（熊牛）感到困惑", "既想逃离又被AI叙事吸引，怕被套山顶", "感叹涨跌波动剧烈，不如正规市场"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 4,
+        "summary": "调侃A股在韩国市场休市时跟随美股还是日本市场的选择，并惊讶于日本市场高开。",
+        "sentiment": "negative",
+        "key_opinions": ["A股习惯跟随海外市场走势", "日本市场休市后补涨高开令人意外", "市场存在‘跟跌不跟涨’的担忧"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 5,
+        "summary": "讽刺“东升西落”概念，指出日本市场大涨而A股（“西”）可能不升反落。",
+        "sentiment": "negative",
+        "key_opinions": ["日本股市大涨", "讽刺A股（‘A畜’）表现差，‘东升西落’不成立", "有观点认为‘东升’的‘东’未必指A股"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 6,
+        "summary": "质疑美股纳斯达克指数创新高是‘假突破’，引发关于美股走势的争论。",
+        "sentiment": "negative",
+        "key_opinions": ["质疑美股新高是假突破", "有人反驳称美股一直处于新高状态", "对比印度股市技术分析"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 7,
+        "summary": "担忧美股连续下跌会影响节后A股，询问科技股是否需要清仓。",
+        "sentiment": "negative",
+        "key_opinions": ["担忧外围市场（美股）走势影响A股", "有观点认为利空已落地，不必清仓"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 8,
+        "summary": "讨论国家队（汪队）持仓变化，认为其已底部吸筹后筹码减少，散户成为‘耐心资本’。",
+        "sentiment": "negative",
+        "key_opinions": ["国家队在底部接够了筹码", "散户被动成为‘耐心资本’", "国家队筹码减少但仍有T+0操作影响"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 9,
+        "summary": "讨论日本股市大涨，调侃A股应更换跟随对象，有人询问投资渠道。",
+        "sentiment": "mixed",
+        "key_opinions": ["日本股市大涨", "调侃A股应将‘棒子爹’换成‘鬼子爹’", "有人询问购买日本存储公司铠侠的渠道"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 10,
+        "summary": "询问麦当劳股票是否可买，讨论其股价、产品及中国业务情况。",
+        "sentiment": "mixed",
+        "key_opinions": ["麦当劳股价跌回2021年水平", "对其投资价值有疑问和调侃", "讨论其中国业务（金拱门）及产品问题"],
+        "mentioned_stocks": ["麦当劳"]
+    },
+    {
+        "index": 11,
+        "summary": "希望纳斯达克ETF的溢价能降低，讨论溢价难以降低的原因。",
+        "sentiment": "negative",
+        "key_opinions": ["场内纳指ETF溢价率高", "溢价因额度限制和资金流入难以降低", "建议等待纳指大跌或负溢价时再买入"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 12,
+        "summary": "调侃‘924两周年’及领导不在家的背景下，市场可能大跌或出现‘大奇迹日’。",
+        "sentiment": "mixed",
+        "key_opinions": ["担心在‘924两周年’时点市场下跌", "猜测国家队可能借此‘砸盘’或‘护政绩’", "希望出现‘大奇迹日’或节日红包"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 13,
+        "summary": "担忧中秋节前最后一个交易日市场收绿，并已清仓。",
+        "sentiment": "negative",
+        "key_opinions": ["担心节前市场下跌（‘绿色的中秋节’）", "认为逢年过节容易下跌", "已有用户表示已清仓"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 14,
+        "summary": "讨论台积电计划上调晶圆代工价格，并询问对中芯国际和华虹半导体的利好。",
+        "sentiment": "mixed",
+        "key_opinions": ["台积电计划2027年上调代工价格", "可能利好中芯国际和华虹半导体"],
+        "mentioned_stocks": ["台积电", "中芯国际", "华虹半导体"]
+    },
+    {
+        "index": 15,
+        "summary": "讨论电力板块走势分化，龙头股闽东电力进监管被核影响板块情绪。",
+        "sentiment": "negative",
+        "key_opinions": ["电力板块内部分化，大部分下跌", "龙头股闽东电力进监管被核，拖累板块", "量化情绪对板块影响大"],
+        "mentioned_stocks": ["华电国际", "华电辽能", "立新能源", "闽东电力", "大唐发电"]
+    },
+    {
+        "index": 16,
+        "summary": "基于比亚迪股价出现多个‘对子’数字，猜测其股价可能回归，但被质疑。",
+        "sentiment": "mixed",
+        "key_opinions": ["比亚迪股价出现多个对子数字（85.85， 86.55）", "猜测是股价回归王座的信号", "被质疑基本面未变，股价回归需时"],
+        "mentioned_stocks": ["比亚迪"]
+    },
+    {
+        "index": 17,
+        "summary": "讨论美国国债收益率飙升，认为这是重大利空，可能导致美股下跌和资金外流。",
+        "sentiment": "negative",
+        "key_opinions": ["美债收益率飙升", "认为是重大利空，可能引发美股下跌", "高收益率可能导致资金外流"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 18,
+        "summary": "询问判断个股底部的独特量化指标，但回复普遍认为没有可靠指标，更多靠经验和感觉。",
+        "sentiment": "negative",
+        "key_opinions": ["没有独特可靠的公开量化指标判断个股底部", "更多依赖经验和盘感", "底部是‘套’出来的，难以预测"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 19,
+        "summary": "讨论米哈游无上市计划但重金投AI，分析其不上市因现金流充足且不愿让渡控制权。",
+        "sentiment": "mixed",
+        "key_opinions": ["米哈游称无上市融资计划", "计划未来三年投入1000亿元于AI", "不缺钱且控制权集中，上市必要性低"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 20,
+        "summary": "基于‘反身性’经验预测明天A股可能低开高走，引发对A股特殊性的讨论。",
+        "sentiment": "mixed",
+        "key_opinions": ["预测明天A股可能低开高走", "讨论A股的‘反身性’规律", "有用户感叹A股投资体验憋屈"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 21,
+        "summary": "认为明天地量地价、悲观情绪已满，可能是接筹码的好时机，但也被质疑为接飞刀。",
+        "sentiment": "mixed",
+        "key_opinions": ["认为节前地量地价，悲观情绪已释放", "有人已提前接盘", "需警惕是接筹码还是接飞刀"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 22,
+        "summary": "希望美股纳斯达克指数不要V形反弹，以免‘打A股的脸’，并对国家队行为不满。",
+        "sentiment": "negative",
+        "key_opinions": ["希望美股不要反弹，避免衬托A股弱", "对国家队托市行为不满", "A股长期难以站上4000点"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 23,
+        "summary": "讨论美股下跌可能成为A股‘利空落地’的信号，但普遍认为A股将跟跌。",
+        "sentiment": "negative",
+        "key_opinions": ["猜测美股下跌是否算A股‘利空落地’", "普遍认为A股‘跟跌不跟涨’", "科技板块内部分化"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 24,
+        "summary": "预测明天A股可能低开高走或一起大跌，并列出影响因素。",
+        "sentiment": "mixed",
+        "key_opinions": ["预测明天A股可能低开高走", "节前资金动能不足", "美债收益率高企是基础利空"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 25,
+        "summary": "询问市场异动原因，推测与原油、美债、美元上涨有关，可能源于地缘政治消息。",
+        "sentiment": "negative",
+        "key_opinions": ["国债期货、原油、美元、美债收益率一同大涨", "可能与伊朗谈判态度、地缘冲突有关", "担忧对市场的影响"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 26,
+        "summary": "讨论长线投资制药和机器人两个方向，认为有突破迹象但质疑其落地难度。",
+        "sentiment": "mixed",
+        "key_opinions": ["看好制药和机器人两个长线方向", "认为AI制药和车企造机器人有真实进展", "但也被质疑为投机和‘白日做梦’"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 27,
+        "summary": "感叹近期原油和债券市场波动剧烈。",
+        "sentiment": "negative",
+        "key_opinions": ["原油和债券（美债）价格大幅上涨", "近几个月市场‘波涛汹涌’"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 28,
+        "summary": "对明天‘924’这个日期感到害怕，担心市场出现大跌。",
+        "sentiment": "negative",
+        "key_opinions": ["对‘924’两周年日期感到恐惧", "担心出现‘反向924’（下跌）"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 29,
+        "summary": "讨论国债逆回购操作，分享经验，部分用户选择购买债基而非逆回购。",
+        "sentiment": "mixed",
+        "key_opinions": ["讨论是否及何时购买逆回购", "当前逆回购利率较高", "部分用户选择场外债基作为替代"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 30,
+        "summary": "提及交换机相关‘小作文’，讨论对相关公司的潜在利好，但市场反应平淡。",
+        "sentiment": "mixed",
+        "key_opinions": ["有关于交换机的小作文消息", "讨论对紫光股份、锐捷网络等的利好", "市场反应平淡，被视为骗量化的消息"],
+        "mentioned_stocks": ["紫光股份", "锐捷网络", "共进股份", "万通发展"]
+    },
+    {
+        "index": 31,
+        "summary": "提及美股CrowdStrike股价新高，询问A股对标公司，但A股对标股表现不佳。",
+        "sentiment": "negative",
+        "key_opinions": ["美股CrowdStrike股价持续新高", "询问A股网络安全对标公司", "A股对标公司（中新赛克等）表现差"],
+        "mentioned_stocks": ["CrowdStrike", "中新赛克", "天融信", "绿盟科技"]
+    },
+    {
+        "index": 32,
+        "summary": "讨论先导基电近期股价强势，并提醒注意风险，可能需减仓。",
+        "sentiment": "mixed",
+        "key_opinions": ["先导基电近期股价走势很强", "有用户建议涨停后可考虑走人", "爆天量后可能需酌情减仓"],
+        "mentioned_stocks": ["先导基电"]
+    },
+    {
+        "index": 33,
+        "summary": "纠结于是否在节前清仓科技股，担心美股回调和节后开盘下跌。",
+        "sentiment": "negative",
+        "key_opinions": ["担心美股回调导致节后A股科技股下跌", "市场缩量，资金观望", "被套较深者选择‘躺平’"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 34,
+        "summary": "下午被机器人板块快速拉升吸引而跟入，后发现可能是消息刺激的短暂行为。",
+        "sentiment": "negative",
+        "key_opinions": ["下午被机器人板块快速拉升吸引跟入", "拉升可能是特斯拉消息刺激的短暂行为", "认为机器人板块‘骗炮’行为多"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 35,
+        "summary": "将纳指回调比作‘健康回调’，但担忧A股作为‘牛夫人’将因此遭殃下跌。",
+        "sentiment": "negative",
+        "key_opinions": ["纳指回调被认为是‘健康回调’", "担忧A股将‘跟跌’甚至跌幅更大", "感慨国内外市场表现差异"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 36,
+        "summary": "认为明天低开反而是加仓机会，因前几天A股未跟涨。",
+        "sentiment": "mixed",
+        "key_opinions": ["认为明天低开是加仓机会", "前几天A股未跟随外围上涨", "有用户已满仓等待"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 37,
+        "summary": "分享自己筛选的股票列表（如安井食品、阳光照明等），并邀请跟随意愿。",
+        "sentiment": "mixed",
+        "key_opinions": ["分享个人选股思路和标的", "列出多只股票并简要分析", "有用户表达跟随意愿"],
+        "mentioned_stocks": ["安井食品", "阳光照明", "宝信软件", "精达股份", "锡装股份"]
+    },
+    {
+        "index": 38,
+        "summary": "讨论节前市场缩量时是否适合炒作小市值股票，并观察到次新股上涨。",
+        "sentiment": "mixed",
+        "key_opinions": ["节前缩量，适合炒小票", "观察到次新股上涨", "提醒注意追高风险"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 39,
+        "summary": "列举明天（924、周四、节前）的多重利空因素，认为难以操作。",
+        "sentiment": "negative",
+        "key_opinions": ["明天叠加‘924’、周四、节前等多重利空因素", "操作难度极大", "建议清仓或观望"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 40,
+        "summary": "讨论高盛看多美股至标普500冲8000点，并争论美股是否存在泡沫。",
+        "sentiment": "mixed",
+        "key_opinions": ["高盛看多标普500至8000点", "认为美股半导体有利润支撑，泡沫不大", "但AI支出商业模式未完全跑通"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 41,
+        "summary": "讨论纳斯达克回调后，A股是否也会‘随份子’跟跌，普遍预期将下跌。",
+        "sentiment": "negative",
+        "key_opinions": ["纳指回调引发对A股跟跌的预期", "A股常‘随份子’且跌幅可能更大", "对节前行情悲观"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 42,
+        "summary": "用‘料酒’、‘啤酒’比喻酒类板块轮动后的下一个炒作方向，进行趣味讨论。",
+        "sentiment": "mixed",
+        "key_opinions": ["讨论酒类板块轮动（白酒->黄酒->葡萄酒）", "猜测下一个炒作品种（料酒或啤酒线）", "关联到调味品、饮料等板块"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 43,
+        "summary": "感叹原油价格在支撑位快速上涨，疑似有‘做局’，并提到影响航空股。",
+        "sentiment": "negative",
+        "key_opinions": ["原油价格在支撑位快速上涨", "疑似有资金‘做局’", "影响中国国航等航空股"],
+        "mentioned_stocks": ["中国国航"]
+    }
+]
+```
