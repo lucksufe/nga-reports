@@ -1,0 +1,430 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "讨论牛肉价格高，寻找A股相关的养牛或进口牛肉公司。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "国内养牛周期长、成本高，缺乏规模化养殖公司",
+            "牛肉价格上涨原因复杂，非单纯市场因素",
+            "提及天山生物，但认为其已失去机会"
+        ],
+        "mentioned_stocks": ["天山生物"]
+    },
+    {
+        "index": 2,
+        "summary": "用户9月利润亏光，讨论是否该反思自身操作问题。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "市场普遍下跌，非个人问题",
+            "认为在恶劣市场中亏损是常态",
+            "有回复质疑发帖是炫耀"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 3,
+        "summary": "对比中国台湾股市创新高与A股表现，引发情绪讨论。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "通过对比表达对A股的不满",
+            "有嘲讽“美国人太坏了”",
+            "提出“拥抱科技，拒绝老登”"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 4,
+        "summary": "刘纪鹏称股民应保持耐心，A股会重回4000点，引发质疑。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "质疑专家言论的可信度",
+            "认为重回4000点是诱多",
+            "指出大股东减持与言论矛盾"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 5,
+        "summary": "用户希望纳斯达克指数回调。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "讨论纳斯达克指数的走势",
+            "提及回调时机（下个月7号）",
+            "认为日内已回调完毕"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 6,
+        "summary": "千万账户用户计划分享A股复盘，目标过亿。",
+        "sentiment": "positive",
+        "key_opinions": [
+            "计划在NGA论坛持续分享市场看法",
+            "目标从千万做到过亿",
+            "引起其他用户围观和关注"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 7,
+        "summary": "讨论先导基电是否为科技股中的“妖王”。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "认为其无视大环境突破前高",
+            "可能已经“毕业照”（见顶信号）",
+            "有用户后悔错过上涨"
+        ],
+        "mentioned_stocks": ["先导基电", "蘅东光"]
+    },
+    {
+        "index": 8,
+        "summary": "询问用于股市复盘的模型或工具。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "用户寻求更准确的AI复盘工具",
+            "有回复表示仅做人工复盘",
+            "讨论交易错误而非预测模型"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 9,
+        "summary": "用户在纳指冲3万时清仓，警示AI泡沫。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "认为AI估值扩张脱离基本面",
+            "用户清仓纳指，警示泡沫风险",
+            "被其他用户质疑和嘲讽"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 10,
+        "summary": "用户分享美股投资组合，聚焦AI及相关板块。",
+        "sentiment": "positive",
+        "key_opinions": [
+            "看好AI软件、硬件、云服务及生命科学",
+            "讨论具体美股标的和操作",
+            "建议使用期权杠杆替代杠杆ETF"
+        ],
+        "mentioned_stocks": ["PLTR", "FDE", "CRWD", "SOXX", "NVDA", "DELL", "IREN", "GOOG", "TEM", "NBIS", "AVGO", "HPE", "MU", "SKHY", "MRVL", "LITE", "SMCI"]
+    },
+    {
+        "index": 11,
+        "summary": "用户为A股哭泣，表达投资痛苦。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "表达对A股投资的失望和痛苦",
+            "调侃A股“发钱”给散户",
+            "建议去“正规市场”投资"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 12,
+        "summary": "讨论大陆为何未出现类似“Muse”的AI产品。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "Muse提供高配置个人服务器，成本高",
+            "在国内缺乏生存空间，需大厂生态",
+            "有用户利用其服务器做爬虫等用途"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 13,
+        "summary": "用户表达急于在股市证明自己、想赢的心态。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "市场难度大，不亏已是不错",
+            "建议用小部分资金博弈或转向美股",
+            "市场向阻力最小方向前进"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 14,
+        "summary": "询问港股在A股休市日大跌的原因。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "缺乏南向资金导致流动性危机",
+            "被指为做空工具或筹码问题",
+            "港股机制被质疑缺乏投资价值"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 15,
+        "summary": "用户分享自制的A股本地研究工具。",
+        "sentiment": "positive",
+        "key_opinions": [
+            "工具主要用于复盘和数据统揽",
+            "引发用户关注和尝试",
+            "讨论数据API和策略需求"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 16,
+        "summary": "A股休市，港股因缺乏南向资金而暴露流动性问题。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "成交量极低，市场极度冷清",
+            "被嘲讽为“亚洲金融废墟”",
+            "流动性依赖大陆资金"
+        ],
+        "mentioned_stocks": ["兆易"]
+    },
+    {
+        "index": 17,
+        "summary": "讽刺内资（国内机构）的操作行为。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "质疑内资在害怕什么",
+            "内资被指为“千层饼”互相博弈",
+            "担心给散户解套后无人接盘"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 18,
+        "summary": "用户尾盘梭哈有色股，并受某主播观点影响。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "根据主播观点，认为洗盘结束可入场",
+            "用户买入铜陵有色，引发讨论",
+            "有回复警告加息周期不宜买金属"
+        ],
+        "mentioned_stocks": ["铜陵有色", "西部矿业", "紫金矿业"]
+    },
+    {
+        "index": 19,
+        "summary": "用户开帖记录自己选股，作为交易备选。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "分享选股逻辑和标的",
+            "部分用户表示跟随操作",
+            "讨论具体股票的技术形态"
+        ],
+        "mentioned_stocks": ["安井食品", "阳光照明", "宝信软件", "精达股份", "德邦", "华金证券", "锡装股份"]
+    },
+    {
+        "index": 20,
+        "summary": "讨论市场持续缩量后，终局是向上还是向下。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "一方认为科技已到底部，卖盘枯竭",
+            "另一方认为需恐慌性放量下跌才能见底",
+            "缺乏增量资金，下跌容易上涨难"
+        ],
+        "mentioned_stocks": ["平安银行", "北京银行"]
+    },
+    {
+        "index": 21,
+        "summary": "询问油价、债市大幅波动的原因。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "美债遭抛售，地缘政治（胡塞）推高油价",
+            "用户担心对持仓（如有色）的冲击",
+            "庆幸A股休市避免下跌"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 22,
+        "summary": "讨论“汪汪队”（国家队）操作对创业板和科创板的影响。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "认为国家队抄底后会压制反弹",
+            "市场处于“砸盘-吸筹”循环",
+            "双创板块下跌空间仍被看好"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 23,
+        "summary": "亨通光电发布定增预案，引发科技股融资担忧。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "A股科技股定增和减持不断",
+            "被批评为“空手套白狼”套散户钱",
+            "定增价格被质疑"
+        ],
+        "mentioned_stocks": ["亨通光电"]
+    },
+    {
+        "index": 24,
+        "summary": "传闻房地产将出台救市政策，引发讨论。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "质疑救市资金来源和实际效果",
+            "民众购房意愿低，政策难扭转",
+            "认为只是情绪炒作，实际意义不大"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 25,
+        "summary": "用户买入生益科技后即被套，抱怨股价下跌。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "董事长减持被指导致股价下跌",
+            "缺乏资金和板块风来推动",
+            "用户刚入场即亏损，情绪沮丧"
+        ],
+        "mentioned_stocks": ["生益科技"]
+    },
+    {
+        "index": 26,
+        "summary": "询问一个走势良好的指数（环中国指数）的含义。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "指数名字本身即答案",
+            "被戏称为“环中国崩溃式暴涨”",
+            "暗示其他市场表现好于A股"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 27,
+        "summary": "讨论胜宏科技今年的归母净利润预期。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "对业绩达成（90亿）表示怀疑",
+            "需等待三季报验证",
+            "有用户因持有而感到难受"
+        ],
+        "mentioned_stocks": ["胜宏科技"]
+    },
+    {
+        "index": 28,
+        "summary": "提出观点：如果AI硬件不行，资金可能转向医药股。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "美股莫德纳新高，内资可能效仿",
+            "但另一观点认为会普跌"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 29,
+        "summary": "讨论港股在中秋节是否开市及异常表现。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "港股中秋照常开市，但港股通关闭",
+            "趁A股关门拉涨是“传统技能”",
+            "港股与大A被一同贬为“蛆”"
+        ],
+        "mentioned_stocks": ["中际旭创"]
+    },
+    {
+        "index": 30,
+        "summary": "抱怨只有A股下跌，其他股市都在上涨。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "通过图表对比A股与外围市场走势",
+            "表达对A股“开倒车”的不满",
+            "有回复提及欧洲市场也不好"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 31,
+        "summary": "用户分享自己编写的股市筛选框架并开源。",
+        "sentiment": "positive",
+        "key_opinions": [
+            "框架结合AI模型进行盘中分析",
+            "已开源至GitHub供他人使用",
+            "用户追求技术路径获取收益"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 32,
+        "summary": "用户持仓过多如开超市，盈亏各半。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "持仓数量多（8只）",
+            "盈亏比例（4红4绿）"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 33,
+        "summary": "质疑市场下跌是为打爆某些仓位“吃尸体”。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "认为下跌有目的，针对特定资金",
+            "讨论补仓的风险和节奏",
+            "建议分批补仓并做T"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 34,
+        "summary": "A股大跌而纳斯达克上涨，用户感到不解和痛苦。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "对比A股与美股走势，表达困惑",
+            "戏称“正规市场”与A股的区别",
+            "用户“道心破碎”"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 35,
+        "summary": "感叹A股在3000点徘徊11年，担忧其融资市本质。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "股票数量翻倍但指数未涨",
+            "总市值增长靠新股，非投资回报",
+            "A股被定义为“融资市场”"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 36,
+        "summary": "中秋假期前对市场（港股跳水）感到绝望。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "对港股与日经走势分化表示无语",
+            "港股流动性问题在加息周期凸显",
+            "用户对节后行情悲观"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 37,
+        "summary": "质疑为什么A股表现与全球其他主要市场背离。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "认为A股已独立进入熊市",
+            "A股休市期间外围上涨，被戏称“关门多涨”",
+            "讨论A股与其他市场的估值差异"
+        ],
+        "mentioned_stocks": ["AMD"]
+    },
+    {
+        "index": 38,
+        "summary": "讨论金枪鱼（可能指某公司）散户被套及操作策略。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "散户数量多，主力拉升困难",
+            "大股东减持配合机构清理散户",
+            "用户在做区间（180-220）差价解套"
+        ],
+        "mentioned_stocks": ["金枪鱼（疑为某公司代号）", "源杰科技"]
+    },
+    {
+        "index": 39,
+        "summary": "询问福建概念股升温的原因。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "探讨热点上涨的驱动因素",
+            "不确定是闽东还是平潭发展带动"
+        ],
+        "mentioned_stocks": ["闽东电力", "平潭发展"]
+    }
+]
+```
