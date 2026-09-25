@@ -1,0 +1,296 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论房地产救市消息，网友普遍质疑救市效果和资金来源，情绪悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["质疑救市政策的有效性和具体措施。", "认为老百姓信心不足，不会轻易买房。", "怀疑消息真实性，认为可能只是口号。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "分析港股节日期间大跌原因，指向流动性枯竭和做空行为。",
+    "sentiment": "mixed",
+    "key_opinions": ["港股流动性主要依赖南向资金，休市时流动性灾难。", "被做空是下跌主因，机制存在问题。", "有观点认为港股已失去投资价值。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "用户尾盘梭哈有色股铜陵有色，基于主播建议，引发对投资决策的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["部分网友质疑跟单主播的风险。", "对有色金属板块（如铜）的逻辑有不同看法。", "有人建议关注ETF或具体龙头股（如紫金矿业）。"],
+    "mentioned_stocks": ["铜陵有色", "西部矿业", "紫金矿业", "有色ETF"]
+  },
+  {
+    "index": 4,
+    "summary": "指出缺乏南向资金支撑后，港股流动性极差，市场原形毕露。",
+    "sentiment": "negative",
+    "key_opinions": ["港股成交量极低，大市值股票也缺乏流动性。", "认为港股是“亚洲金融废墟”，平时靠内地资金遮丑。", "香港投资者更倾向于投资美股。"],
+    "mentioned_stocks": ["兆易创新", "联想集团"]
+  },
+  {
+    "index": 5,
+    "summary": "探讨内资机构在市场中的行为动机，多为负面猜测。",
+    "sentiment": "negative",
+    "key_opinions": ["猜测内资是害怕散户赚钱或提前跑路。", "认为大资金在互相博弈，预判对手预判。", "讽刺大资金不愿为散户解套，无人接盘。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "提出暴论：若AI硬件走弱，资金可能转向医药板块，但被反驳。",
+    "sentiment": "negative",
+    "key_opinions": ["认为内资可能效仿美股，从AI转向生物科技。", "直接反驳该观点，认为会是普跌行情。"],
+    "mentioned_stocks": ["莫德纳"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论港股在中秋期间开市情况，并对比A股表现，引发抱怨。",
+    "sentiment": "negative",
+    "key_opinions": ["解释了港股中秋交易日历。", "指出港股通暂停交易，流动性差。", "抱怨港股与A股一样表现不佳。"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 8,
+    "summary": "分享美股投资策略，聚焦AI硬件、软件、生命科学等板块的具体标的。",
+    "sentiment": "positive",
+    "key_opinions": ["看好AI全产业链，包括硬件（NVDA）、软件（PLTR）、云服务（GOOG）。", "关注能源核电、量子计算等伴生板块。", "提供了具体的操作建议，如使用期权杠杆。"],
+    "mentioned_stocks": ["PLTR", "FDE", "CRWD", "SOXX", "NVDA", "DELL", "IREN", "GOOG", "TEM", "AVGO", "SMCI", "HPE", "MRVL", "LITE", "MU", "SKHY", "西数", "希捷", "闪迪"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论生益科技股价下跌，网友抱怨董事长减持等利空因素。",
+    "sentiment": "negative",
+    "key_opinions": ["股价下跌与董事长带头减持有关。", "认为股价已跌破关键支撑位。", "吐槽公司减持不“讲规矩”，不拉高股价再减持。"],
+    "mentioned_stocks": ["生益科技"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论胜宏科技的全年业绩预期，市场看法存在分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["有人根据半年报数据乐观推测全年利润。", "更多人对业绩持续增长表示怀疑，持观望态度。", "关注大股东或机构的动向（如珍珍为何卖出）。"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 11,
+    "summary": "用图表对比显示A股下跌而其他主要市场上涨，表达不满。",
+    "sentiment": "negative",
+    "key_opinions": ["A股表现与全球市场严重脱节。", "暗示A股“开倒车”。", "有回复提到欧洲市场也表现不佳。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "讨论市场持续缩量的最终方向，观点存在分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["一方认为缩量意味着卖盘枯竭，科技股已到底部。", "另一方认为没有增量资金，下跌趋势可能延续。", "认为需要恐慌性放量下跌或外部重大利好才能扭转。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "分析双创指数前景，认为主力（汪汪队）已低价抄底，后续可能继续打压。",
+    "sentiment": "negative",
+    "key_opinions": ["主力（汪汪队）利用下跌吸筹，掌握大量低价筹码。", "认为下周拉升会面临主力的抛压。", "市场缺乏增量资金，大资金只能做T自救。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "分享自研的股票筛选AI框架和GitHub地址，寻求反馈。",
+    "sentiment": "positive",
+    "key_opinions": ["开发了盘中AI辅助分析工具，用于筛选股票。", "分享了工具链接，希望社区提供改进建议。", "有用户表示支持并感谢分享。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论亨通光电的定增计划，网友批评A股科技公司频繁融资。",
+    "sentiment": "negative",
+    "key_opinions": ["认为公司通过定增“空手套白狼”，用散户的钱扩产。", "将散户比作被“当日本人”（被坑）。", "担心定增会带崩相关科技板块。"],
+    "mentioned_stocks": ["亨通光电"]
+  },
+  {
+    "index": 16,
+    "summary": "用户抱怨自己持仓过于分散，像开超市一样，盈亏各半。",
+    "sentiment": "negative",
+    "key_opinions": ["持仓分散（8只股票），导致收益一般。", "用“开超市”形容持仓结构不合理。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论A股市场的“正规性”，认为其本质是融资市，非投资市。",
+    "sentiment": "negative",
+    "key_opinions": ["A股并非能让投资者耐心持有的价值市场。", "土壤决定花，A股市场性质不适合长期投资。", "大资金靠收割散户做T获利，不会让散户轻易解套。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "质疑A股下跌目的，猜测主力在通过打压股价“吃尸体”（收割爆仓者）。",
+    "sentiment": "negative",
+    "key_opinions": ["认为下跌有目的，是主力在收割散户。", "讨论是否应该越跌越补的策略。", "有用户认为许多个股点位已低于上证指数2900点时。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "对比A股暴跌与美股纳指上涨，表达对A股市场的失望和无奈。",
+    "sentiment": "negative",
+    "key_opinions": ["质疑两个市场的差异，道心破碎。", "认为美股是正规市场，A股则相反。", "有用户讽刺A股会等美股回调后跟跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "长期观察上证指数在3000点附近徘徊，指出上市公司数量倍增但指数未涨。",
+    "sentiment": "negative",
+    "key_opinions": ["股票数量翻倍但指数未涨，说明大量股票趴在底部。", "认为A股长期是融资市场，非投资市场。", "预测指数可能长期维持在3000点附近。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "对港股在A股休市期间大跌感到绝望，准备迎接周一“上路”。",
+    "sentiment": "negative",
+    "key_opinions": ["对港股下跌感到无语。", "疑惑为何外围上涨时港股仍跌。", "认为港股流动性易受外围加息影响。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "抱怨A股市场表现与其他主要市场（纳指、日经）脱节，不合群。",
+    "sentiment": "negative",
+    "key_opinions": ["全球市场都在“逆行”（上涨），唯独A股下跌。", "认为A股已进入熊市。", "有观点认为A股涨跌是针对散户。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "讨论金枪鱼（映翰通）散户被套问题，涉及股东减持和操作建议。",
+    "sentiment": "negative",
+    "key_opinions": ["散户数量多（20万）且分散，导致股价难以拉升。", "股东减持虽金额不大，但打击信心。", "部分用户分享在特定价位区间做T降低成本的操作。"],
+    "mentioned_stocks": ["金枪鱼", "映翰通", "源杰科技"]
+  },
+  {
+    "index": 24,
+    "summary": "询问福建概念股（如闽东电力、平潭发展）快速升温的原因。",
+    "sentiment": "neutral",
+    "key_opinions": ["寻求福建板块上涨背后的明确消息或新闻驱动。"],
+    "mentioned_stocks": ["闽东电力", "平潭发展"]
+  },
+  {
+    "index": 25,
+    "summary": "批评中信证券关于“缩量是好事”的观点，认为在A股市场不适用。",
+    "sentiment": "negative",
+    "key_opinions": ["反驳“缩量分歧降低”的观点，认为是一致看跌。", "认为缩量阴跌会破坏技术形态，引发踩踏。", "建议中信证券先提升自身股价。"],
+    "mentioned_stocks": ["中信证券"]
+  },
+  {
+    "index": 26,
+    "summary": "分析当日行情，指出不仅科技股跌，非银金融等“老登”股也大跌。",
+    "sentiment": "negative",
+    "key_opinions": ["认为A股已进入熊市。", "从板块表现（银行涨、科技跌）判断牛熊转换。", "讨论不同板块（如银行、科技）在熊市中的应对策略。"],
+    "mentioned_stocks": ["招商银行", "比亚迪", "紫金矿业", "宝丰能源", "宇通客车"]
+  },
+  {
+    "index": 27,
+    "summary": "表达对A股市场的极度失望，考虑转向投资纳指。",
+    "sentiment": "negative",
+    "key_opinions": ["连续遭遇A股科技股高开低走收割。", "认为投资纳指都比A股好。", "抱怨通过正规渠道（如QDII基金）投资纳指受限。"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 28,
+    "summary": "畅想2030年科技生活，但回复多以讽刺A股现状作结。",
+    "sentiment": "mixed",
+    "key_opinions": ["楼主描绘了人形机器人等未来科技场景。", "网友讽刺这是“A股幻想”，并关联到银行股护盘。", "质疑这些美好科技公司的投资渠道。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "询问美股（纳指）盘中直线拉升的原因，有报道指向美伊谈判消息。",
+    "sentiment": "mixed",
+    "key_opinions": ["对纳指突然拉升感到惊讶。", "怀疑拉升与美伊谈判消息有关，但认为可信度存疑。", "有用户分享了路透社的相关报道。"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 30,
+    "summary": "表达对世界和平的祝愿，但缺乏具体股市内容。",
+    "sentiment": "neutral",
+    "key_opinions": ["感慨人类悲剧重演。", "祝福中秋快乐。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论松发股份长期上涨的原因，分析其背后可能与造船周期和重组有关。",
+    "sentiment": "mixed",
+    "key_opinions": ["有人认为公司有垄断地位和强大背景。", "指出公司可能只是壳，真正主体是恒力重工。", "认为上涨是因为踩中了造船周期。"],
+    "mentioned_stocks": ["松发股份", "恒力重工", "中国船舶"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论做空美指及纳指突然拉升的关联，并提及之前的做空帖子。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指拉升与做空力量可能相关。", "拉升原因可能仍是美伊谈判消息。", "回忆起论坛曾有持续做空美股的网友。"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 33,
+    "summary": "寻求能稳定实现5%-10%年化收益的投资组合，引发关于资产配置的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["推荐“哈利布朗永久投资组合”（股债金现等权配置）。", "有人建议直接定投标普500指数（VOO/SPY）。", "对在A股实现该目标表示怀疑。"],
+    "mentioned_stocks": ["VOO", "SPY", "沪深300"]
+  },
+  {
+    "index": 34,
+    "summary": "探讨美股量化交易的存在与特点，并与A股量化对比。",
+    "sentiment": "mixed",
+    "key_opinions": ["指出量化交易起源于美国，美股量化更成熟广泛。", "讨论A股量化的频率问题，有用户指出只有散户是T+1。", "美股量化对消息反应更直接有效。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "观察到美股（三大指数）低开高走，讽刺其趁A股休市偷偷上涨。",
+    "sentiment": "negative",
+    "key_opinions": ["描述美股盘前低开但最终走高的过程。", "抱怨美股在A股休市时表现强势。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "讨论美债和原油价格上涨的现象，并表达担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["原油价格上涨至高位，令人不安。", "分析原因可能包括短期美元短缺和中期石油短缺。", "讽刺各国仍将资金借给美国。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "询问市场异动（如纳指拉升、油价波动）背后的新闻，指向美伊谈判传闻。",
+    "sentiment": "mixed",
+    "key_opinions": ["异动可能与美伊分阶段探讨海峡开放的消息有关。", "认为消息真实性不重要，资金相信就会推动市场。", "有用户提醒假期可能放出变数。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "对原油和美债价格飙升感到困惑和担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["对油价飙升感到不安。", "分析可能原因包括美债抛售、美伊谈判无果及地缘冲突（胡塞武装）。", "担忧节后市场走势。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论费城半导体指数上涨，并对A股“小时代”（科技股）表现失望。",
+    "sentiment": "negative",
+    "key_opinions": ["费半（费城半导体指数）上涨。", "认为A股科技股无法跟随美股上涨，但会跟随下跌。", "抱怨A股投资者像“巨婴”。"],
+    "mentioned_stocks": ["费城半导体指数"]
+  },
+  {
+    "index": 40,
+    "summary": "再次观察纳指由绿转红，引发对A股跟跌不跟涨的吐槽。",
+    "sentiment": "mixed",
+    "key_opinions": ["描述纳指日内波动。", "讽刺A股是“正规市场”，总是高开低走。", "有用户通过期权小赚并分享操作。"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 41,
+    "summary": "对纳指急速拉升感到困惑，讨论可能与美伊停战等消息有关。",
+    "sentiment": "mixed",
+    "key_opinions": ["对纳指90度直线拉升感到惊讶。", "猜测与美伊停战等突发消息有关，但存疑。", "注意到同时原油价格也在波动。"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 42,
+    "summary": "以讽刺口吻，模仿监管函格式调侃纳指创历史新高。",
+    "sentiment": "negative",
+    "key_opinions": ["用反讽手法表达对A股表现不及纳指的不满。", "模仿官方口吻，形式荒诞，内容尖锐。"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  }
+]
