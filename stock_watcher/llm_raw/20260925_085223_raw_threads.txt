@@ -1,0 +1,312 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "用户抱怨A股下跌而全球其他股市上涨，认为A股表现特立独行。",
+    "sentiment": "negative",
+    "key_opinions": ["A股逆全球上涨而下跌", "对A股表现失望", "与其他市场脱节"],
+    "mentioned_stocks": ["A股", "欧洲股市"]
+  },
+  {
+    "index": 2,
+    "summary": "用户对比A股暴跌与美股纳斯达克指数上涨，表达对A股与美股背离走势的困惑和不满。",
+    "sentiment": "negative",
+    "key_opinions": ["A股与美股走势背离", "A股市场性质被质疑", "预判市场走势困难"],
+    "mentioned_stocks": ["A股", "纳斯达克指数"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论华为问界模式调整，焦点在赛力斯与华为关系变化及对赛力斯的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["赛力斯被普遍认为过度依赖华为", "华为授权费策略引发讨论", "双方关系可能出现裂痕"],
+    "mentioned_stocks": ["赛力斯", "小康股份"]
+  },
+  {
+    "index": 4,
+    "summary": "中信证券观点称缩量意味着分歧降低，但网友评论多持反对意见，认为市场仍在下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["缩量下跌被解读为一致看空", "质疑机构观点与市场实际脱节", "技术面破位引发担忧"],
+    "mentioned_stocks": ["中信证券"]
+  },
+  {
+    "index": 5,
+    "summary": "用户分享美股投资策略，聚焦AI板块，并详细讨论了软件、硬件、存储等多个细分领域的个股选择。",
+    "sentiment": "positive",
+    "key_opinions": ["看好AI及衍生板块（能源、量子计算）", "关注半导体设备超跌反弹", "分享具体股票选择和交易策略"],
+    "mentioned_stocks": ["PLTR", "CRWD", "SOXX", "NVDA", "DELL", "IREN", "GOOG", "SMCI", "HPE", "AVGO", "希捷", "MRVL", "LITE"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论A股不仅科技股下跌，非银金融等“老登”股也跌幅惨重，认为市场已进入熊市。",
+    "sentiment": "negative",
+    "key_opinions": ["市场全面下跌，已进入熊市", "银行股与科技股走势分化", "高股息资产可能相对抗跌"],
+    "mentioned_stocks": ["招商银行", "比亚迪", "紫金矿业", "宝丰能源", "宇通客车"]
+  },
+  {
+    "index": 7,
+    "summary": "询问福建概念股快速升温是否有明确的商贸新闻消息。",
+    "sentiment": "mixed",
+    "key_opinions": ["缺乏明确的基本面利好消息"],
+    "mentioned_stocks": ["福建概念股"]
+  },
+  {
+    "index": 8,
+    "summary": "用户抱怨A股科技股高开低走，认为不如直接投资纳斯达克指数，并指出纳指限购问题。",
+    "sentiment": "negative",
+    "key_opinions": ["A股表现持续不及美股", "对A股失望并考虑转向纳指", "投资纳指渠道受限"],
+    "mentioned_stocks": ["A股", "纳斯达克指数"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论京东方A（金枪鱼）股价下跌，大量散户被套，部分用户建议通过做T降低成本。",
+    "sentiment": "negative",
+    "key_opinions": ["公司减持引发股价下跌", "散户解套困难", "有用户采取做T策略应对"],
+    "mentioned_stocks": ["京东方A"]
+  },
+  {
+    "index": 10,
+    "summary": "感叹上证指数在3000多点徘徊多年，质疑A股投资价值，认为其本质是融资市场。",
+    "sentiment": "negative",
+    "key_opinions": ["A股长期指数不涨", "股市定位偏向融资", "总市值增长但散户体验差"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 11,
+    "summary": "用户畅想2030年科技生活场景，但回复多调侃其与当下A股惨淡现实不符。",
+    "sentiment": "mixed",
+    "key_opinions": ["对科技未来有美好想象", "现实股市与畅想脱节", "A股4000点成为长期调侃目标"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 12,
+    "summary": "询问美股（特别是纳斯达克）突然大幅拉升的原因，用户讨论可能与美伊谈判消息有关。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股对消息面反应迅速剧烈", "地缘政治消息（如美伊）驱动市场", "质疑消息真实性但市场已反应"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 13,
+    "summary": "帖子仅呼吁世界和平，无具体股市讨论内容。",
+    "sentiment": "mixed",
+    "key_opinions": ["泛泛的情感表达"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论松发股份股价长期上涨的原因，用户认为与其行业垄断地位和造船周期有关。",
+    "sentiment": "mixed",
+    "key_opinions": ["公司被认为有强大背景和垄断地位", "踩中造船行业上升周期", "股价表现持续强劲"],
+    "mentioned_stocks": ["松发股份", "中国船舶"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论美股、美债、原油等市场同步大幅波动，用户认为可能与地缘政治消息相关。",
+    "sentiment": "negative",
+    "key_opinions": ["美伊谈判消息引发市场剧烈联动", "市场反应快且幅度大", "做空美股难度大"],
+    "mentioned_stocks": ["纳斯达克指数", "美债", "原油"]
+  },
+  {
+    "index": 16,
+    "summary": "用户抱怨A股走势与全球主要市场（如美股、日经）不合群，独自下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["A股独立于全球市场下跌", "认为A股已进入熊市", "市场结构问题导致脱节"],
+    "mentioned_stocks": ["A股", "纳斯达克指数", "日经指数", "AMD"]
+  },
+  {
+    "index": 17,
+    "summary": "用户寻求一个能稳定获得5%-10%年化收益的投资组合方案，引发关于资产配置的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["追求绝对稳定收益具有挑战性", "讨论了永久投资组合等配置方案", "对低波动产品收益预期有分歧"],
+    "mentioned_stocks": ["VOO", "SPY", "沪深300", "红利低波ETF"]
+  },
+  {
+    "index": 18,
+    "summary": "调侃内资机构在市场中的行为，认为其害怕散户赚钱、缺乏做多信心。",
+    "sentiment": "negative",
+    "key_opinions": ["内资被调侃为害怕散户解套", "市场博弈激烈，互相预判", "内资缺乏长期做多信心"],
+    "mentioned_stocks": ["内资（机构资金）"]
+  },
+  {
+    "index": 19,
+    "summary": "询问美股是否也有量化交易，讨论中美量化交易的差异。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化交易源于并普及于美股", "A股量化因T+1和频率问题更受诟病", "量化并非A股问题的唯一原因"],
+    "mentioned_stocks": ["美股", "A股"]
+  },
+  {
+    "index": 20,
+    "summary": "指出美股在A股休市日低开高走，表达对美股“偷偷上涨”的调侃。",
+    "sentiment": "negative",
+    "key_opinions": ["美股在A股休市时上涨", "A股投资者感到无奈", "调侃美股“使坏”"],
+    "mentioned_stocks": ["纳斯达克指数", "标普500指数"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论美债和原油价格同步上涨，用户感到担忧，并提及资金流向问题。",
+    "sentiment": "negative",
+    "key_opinions": ["美债可能遭抛售", "油价因地缘因素上涨", "资金流向美国资产"],
+    "mentioned_stocks": ["美债", "原油"]
+  },
+  {
+    "index": 22,
+    "summary": "追问美股上涨的原因，讨论美伊谈判等消息的影响，并提及量化交易的作用。",
+    "sentiment": "mixed",
+    "key_opinions": ["地缘政治消息（如美伊）是重要驱动因素", "市场对消息反应迅速", "量化交易放大波动"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 23,
+    "summary": "询问台海相关议题是否有利好消息，回复多认为地缘风险影响复杂且可能利好特定行业。",
+    "sentiment": "negative",
+    "key_opinions": ["地缘政治风险悬而未决", "对股市影响偏负面或不确定", "可能利好军工、新能源等板块"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 24,
+    "summary": "询问原油和美债价格突然飙涨的原因，讨论地缘冲突（如胡塞武装）等因素。",
+    "sentiment": "negative",
+    "key_opinions": ["美债可能面临抛售压力", "油价因地缘冲突（如胡塞袭击）上涨", "有色等板块承压"],
+    "mentioned_stocks": ["美债", "原油", "有色金属"]
+  },
+  {
+    "index": 25,
+    "summary": "亨通光电发布定增公告，用户批评A股科技公司频繁再融资损害散户利益。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股再融资频繁", "被指责为“空手套白狼”", "对股价形成短期利空"],
+    "mentioned_stocks": ["亨通光电"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论费城半导体指数上涨与A股的关系，用户普遍认为A股不跟涨且已独立走熊。",
+    "sentiment": "negative",
+    "key_opinions": ["A股不再跟涨美股科技", "A股市场信心严重不足", "认为A股已进入熊市"],
+    "mentioned_stocks": ["费城半导体指数", "纳斯达克指数", "A股"]
+  },
+  {
+    "index": 27,
+    "summary": "看到纳斯达克指数上涨后，用户再次感叹A股与美股走势相反，习惯高开低走。",
+    "sentiment": "negative",
+    "key_opinions": ["A股与美股走势持续背离", "A股高开低走成为常态", "对A股表现感到失望"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 28,
+    "summary": "询问纳斯达克指数直线拉升的原因，用户讨论可能与地缘消息及油价波动有关。",
+    "sentiment": "mixed",
+    "key_opinions": ["拉升原因迅速被市场挖掘（如美伊）", "油价同步出现剧烈波动", "市场反应存在过度解读可能"],
+    "mentioned_stocks": ["纳斯达克指数", "原油"]
+  },
+  {
+    "index": 29,
+    "summary": "以调侃口吻发布“证监会向纳斯达克指数下发监管函”的假消息，表达对A股监管的吐槽。",
+    "sentiment": "negative",
+    "key_opinions": ["反讽A股市场监管", "借此表达对A股表现的不满"],
+    "mentioned_stocks": ["纳斯达克指数", "A股"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论市场持续缩量的后续走势，用户观点分化，但多数担忧会向下突破。",
+    "sentiment": "negative",
+    "key_opinions": ["缩量下跌被视为危险信号", "缺乏增量资金入场", "可能继续阴跌或放量杀跌"],
+    "mentioned_stocks": ["A股", "科技股"]
+  },
+  {
+    "index": 31,
+    "summary": "上交所对新华文轩下发监管工作函，用户讨论A股连板股的监管问题。",
+    "sentiment": "negative",
+    "key_opinions": ["监管对连板股（如5板）发函已成常规", "认为监管抑制了短线炒作", "对不同板块监管尺度存在讨论"],
+    "mentioned_stocks": ["新华文轩"]
+  },
+  {
+    "index": 32,
+    "summary": "对某张显示“罚款290元”的图片提出质疑，讨论监管处罚力度不足问题。",
+    "sentiment": "negative",
+    "key_opinions": ["质疑监管处罚金额过低", "认为违法成本低是问题根源", "呼吁加强金融违法惩处力度"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "询问坚持定投纳斯达克指数十年能否赚钱，回复普遍认为历史业绩表明能赚。",
+    "sentiment": "positive",
+    "key_opinions": ["定投纳指长期来看大概率盈利", "历史收益提供一定参考", "强调长期持有的重要性"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 34,
+    "summary": "传闻房地产要救市，用户讨论救市政策的实际效果和可能受益板块。",
+    "sentiment": "negative",
+    "key_opinions": ["对救市政策效果持怀疑态度", "认为老百姓购房意愿已转变", "可能仅为股市情绪炒作"],
+    "mentioned_stocks": ["房地产板块"]
+  },
+  {
+    "index": 35,
+    "summary": "用户感叹“既生瑜何生亮”，将A股与美股对比，表达A股股民的心理落差。",
+    "sentiment": "negative",
+    "key_opinions": ["A股与美股表现形成巨大心理落差", "抱怨A股不争气", "引发A股是否配得上比喻的争论"],
+    "mentioned_stocks": ["A股", "美股"]
+  },
+  {
+    "index": 36,
+    "summary": "寻找社区中一位以“反向指标”闻名的用户，讨论其换马甲及投资风格。",
+    "sentiment": "mixed",
+    "key_opinions": ["用户被视为重要的反向指标", "已更换账号继续活跃", "社区对其风格有调侃和认可"],
+    "mentioned_stocks": ["路帅（用户昵称）"]
+  },
+  {
+    "index": 37,
+    "summary": "用户因操作失误（如未买入或卖飞）导致亏损，表达极度沮丧和挫败感。",
+    "sentiment": "negative",
+    "key_opinions": ["散户在交易中易被庄家操控情绪", "选股与择时难以兼得", "情绪受市场波动影响巨大"],
+    "mentioned_stocks": ["小市值股票"]
+  },
+  {
+    "index": 38,
+    "summary": "春秋航空股价跌破关键位，用户讨论是否迎来左侧布局机会，并分析航空股逻辑。",
+    "sentiment": "negative",
+    "key_opinions": ["航空股因油价等因素持续下跌", "博弈困境反转逻辑", "认为当前并非最佳买点，需等待"],
+    "mentioned_stocks": ["春秋航空", "中国国航"]
+  },
+  {
+    "index": 39,
+    "summary": "澜起科技发布股东减持计划，被用户视为利空，讨论科技股减持对散户的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["股东减持构成利空", "科技股再融资与减持不断", "散户深度被套"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 40,
+    "summary": "用户宣布退出股市，总结糟糕的投资体验，建议他人远离A股。",
+    "sentiment": "negative",
+    "key_opinions": ["股市体验极差，影响情绪", "“不亏就是赚”成为自我安慰", "强烈建议远离A股"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 41,
+    "summary": "用户称“今天是反向924”，许多股票跳空跌破年线，认为两年牛市已结束。",
+    "sentiment": "negative",
+    "key_opinions": ["大量个股技术面破位", "认为长达两年的牛市已经终结", "市场情绪极度悲观"],
+    "mentioned_stocks": ["A股", "上证指数"]
+  },
+  {
+    "index": 42,
+    "summary": "用户担忧9月末及国庆后的A股走势，列举加息、油价等利空因素。",
+    "sentiment": "negative",
+    "key_opinions": ["面临加息和油价上涨双重利空", "A股市场情绪敏感脆弱", "对后市走势感到悲观"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 43,
+    "summary": "提出“暴论”：如果AI硬件股周一起不来，资金可能转向医药股作为替代。",
+    "sentiment": "negative",
+    "key_opinions": ["AI板块调整后资金可能寻找新方向", "医药股可能成为轮动选择", "内资跟风美股风格"],
+    "mentioned_stocks": ["AI板块", "医药股", "莫德纳"]
+  },
+  {
+    "index": 44,
+    "summary": "中国人寿宣布投资AI和半导体未上市公司，被用户解读为避开二级市场，进行一级市场套利。",
+    "sentiment": "negative",
+    "key_opinions": ["机构资金转向一级市场", "上市后可能成为出货对象", "被讽刺为资本运作"],
+    "mentioned_stocks": ["中国人寿", "AI和半导体相关未上市公司"]
+  }
+]
+```
