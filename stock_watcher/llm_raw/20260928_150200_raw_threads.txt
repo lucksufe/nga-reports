@@ -1,0 +1,24 @@
+[
+  {
+    "index": 1,
+    "summary": "科技股像7月下跌，银行被抬高，市场无增量资金。",
+    "sentiment": "negative",
+    "key_opinions": ["科技无理由跌停", "银行被狗队抬高可持续性存疑", "市场无增量资金"],
+    "mentioned_stocks": ["科技股", "银行股"]
+  },
+  {
+    "index": 2,
+    "summary": "看好微盘股，量化策略增加暴露，科技成交量下降。",
+    "sentiment": "mixed",
+    "key_opinions": ["微盘股可能回归", "科技股量价策略不选", "量化私募增长减速"],
+    "mentioned_stocks": ["微盘股", "科技股", "港股红利", "澳弘电子", "国芳"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论小时代年轻人多，涉及年龄、入市和表情包。",
+    "sentiment": "mixed",
+    "key_opinions": ["年轻人被割韭菜", "科技股小登多", "牛市周期与新韭菜相关"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 4,

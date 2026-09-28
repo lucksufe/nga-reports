@@ -1,0 +1,317 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论科技股无理由下跌及银行股被拉高后的持续性，市场缺乏增量资金。",
+    "sentiment": "negative",
+    "key_opinions": ["科技无理由跌停，事后找利空。", "银行被抬高，怀疑能否持续。", "市场可能没有增量资金了。"],
+    "mentioned_stocks": ["科技股", "银行股"]
+  },
+  {
+    "index": 2,
+    "summary": "作者旗帜鲜明看好微盘股，认为科技成交量下降，量化策略将回归小微盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化策略已大幅增加微盘暴露。", "科技成交量下降，量化不会选科技。", "未来可能回到炒小炒差的环境。"],
+    "mentioned_stocks": ["微盘股", "港股红利", "科技股", "中证2000", "可转债"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论帖子用户年轻化，并以此讽刺年轻投资者在本轮科技股行情中被套。",
+    "sentiment": "negative",
+    "key_opinions": ["从科技持仓看，大部分是年轻投资者。", "本轮牛市是骗年轻人进场收割。", "年轻人把炒股当游戏，注定结局。"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 4,
+    "summary": "将当日下跌归因于机构砸盘，讨论机构与散户在市场中的角色。",
+    "sentiment": "negative",
+    "key_opinions": ["机构盘中砸盘，导致平稳下跌。", "散户一直做多，但无法做空。", "市场已成机构自娱自乐。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论在A股大涨时资金流向纳指ETF，形成反向操作机会。",
+    "sentiment": "positive",
+    "key_opinions": ["A股猛拉时纳指ETF溢价下降，是机会。", "资金会流向赚钱效应好的市场。"],
+    "mentioned_stocks": ["纳指科技ETF", "纳指"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论市场下跌中疑似“汪汪队”干预，并引发对做空房价等风险的担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["下跌可能伴随“汪汪队”或类似力量入场。", "有人担忧被做空（如房价、航司价）。", "量化被触发是下跌原因之一。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "提示次日是节前最后出金日，预判资金出逃与市场博弈策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["预判别人的预判，所以今天有人跑路。", "明天可能还有下跌。", "抄底可能只能等到最后一天。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "将中国股市与中国足球类比，讽刺A股长期处于鄙视链底端。",
+    "sentiment": "negative",
+    "key_opinions": ["足球进亚运四强，A股仍在鄙视链底端。", "股市并非总在底端，如07、14年。", "国足需真刀真枪比赛，其他领域更烂。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "因股市下跌表达对家庭和生活的负面影响，情绪宣泄。",
+    "sentiment": "negative",
+    "key_opinions": ["股市下跌让人失去爱。", "出行计划的资金因股市损失。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论亨通光电发布定增，引发对科技股频繁融资套现的不满。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股总有定增或减持在等。", "空手套白狼，扩产靠散户给钱。", "业绩好却仍要融资，令人不满。"],
+    "mentioned_stocks": ["亨通光电"]
+  },
+  {
+    "index": 11,
+    "summary": "呼吁投资者保住本金，讨论止损与市场底部的形成。",
+    "sentiment": "negative",
+    "key_opinions": ["本金没了就真的没了。", "只有大家都止损，市场才能到底。", "谷底越深，未来向上空间越大。"],
+    "mentioned_stocks": ["中国平安", "紫金矿业", "沈鼓"]
+  },
+  {
+    "index": 12,
+    "summary": "分析春秋航空跌破40元，讨论航空股困境反转逻辑及左侧建仓时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["今日下跌埋了做T资金。", "航空股作为石油对手盘，博弈困境反转。", "需等待更低位置（如37.33）再考虑。", "航空是周期股，当前或非好生意。"],
+    "mentioned_stocks": ["春秋航空"]
+  },
+  {
+    "index": 13,
+    "summary": "询问国庆出行计划，反映出投资者对安全的担忧及对股民名声的看法。",
+    "sentiment": "negative",
+    "key_opinions": ["担心人多的地方不安全。", "股民在普通人眼中名声很差。", "只回家不外出，减少风险。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "询问海风（海风能）股票是否可买，回复认为仍是“死猫跳”。",
+    "sentiment": "negative",
+    "key_opinions": ["回复认为海风能还是死猫跳。"],
+    "mentioned_stocks": ["海风能"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论完美世界获利盘为0%，引发对该游戏股是否跌出价值的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["完美世界获利盘比例极低。", "股价已低，有人考虑是否可买。", "需谨慎，可能持续下跌。", "可能等待特定催化剂。"],
+    "mentioned_stocks": ["完美世界", "巨人网络"]
+  },
+  {
+    "index": 16,
+    "summary": "因股市暴跌而情绪崩溃，发泄对市场的愤怒，甚至出现过激言论。",
+    "sentiment": "negative",
+    "key_opinions": ["情绪失控想毁灭市场。", "误以为交易所是针对散户。", "讨论爆炸地点的戏谑与危险言论。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "担忧节前连续下跌，并讨论其对投资者心态和出行计划的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘拉升可能是诱多陷阱。", "连跌三天会非常可怕。", "市场年线已跌，对短期下跌麻木。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "感叹市场下跌离谱，技术和量化策略失效，复盘节前下跌规律。",
+    "sentiment": "negative",
+    "key_opinions": ["所有技术派和量化策略都失效。", "节前大跌是A股常见套路。", "经验老手节前空仓是正确选择。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论黄金期货（黄金宗）第四季度的操作策略和价格展望。",
+    "sentiment": "mixed",
+    "key_opinions": ["在4250-4300区间做T很有趣。", "黄金股已满仓，黄金本身持续定投。", "关键看4250是否是铁底支撑。", "关注中期选举等外部影响。"],
+    "mentioned_stocks": ["黄金股", "黄金期货"]
+  },
+  {
+    "index": 20,
+    "summary": "记录平潭发展大幅亏损，表达对股价继续下行的担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损后又要开始漫漫回本路。", "感觉股价刚开始下跌通道。", "预判可能还要继续大跌。"],
+    "mentioned_stocks": ["平潭发展"]
+  },
+  {
+    "index": 21,
+    "summary": "抱怨在中国石油等股票上追高被套，反思交易技术与运气问题。",
+    "sentiment": "negative",
+    "key_opinions": ["挂涨停价买入，非常后悔。", "K线和技术指标会骗人。", "高位买卖很大程度看运气。"],
+    "mentioned_stocks": ["中国石油", "紫金矿业"]
+  },
+  {
+    "index": 22,
+    "summary": "作者开帖记录A股复盘，目标千万过亿，寻求论坛交流环境。",
+    "sentiment": "positive",
+    "key_opinions": ["找个地方记录复盘和市场看法。", "前来围观学习大资金操作。", "目标盈利一倍以上，不容易。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "大跌后投资者反而冷静下来，开始进行复盘，反思操作。",
+    "sentiment": "negative",
+    "key_opinions": ["以前追涨杀跌，现在跌麻了反而平静。", "复盘是为了看看如何能少亏点。", "大跌原因想不明白，只能归咎于过节费。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "悟出“好东西-普通人-不用抢”的不可能三角，讽刺A股易买实为坑。",
+    "sentiment": "negative",
+    "key_opinions": ["好东西不会轻易让普通人得到。", "美股难买是因为有人限制。", "A股不收资本利得税是有原因的。"],
+    "mentioned_stocks": ["美股", "A股"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论指数（如创业板）技术破位，认为应清仓离场。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板破位，这次真该跑了。", "布林带下轨被突破，下跌猛烈。", "量化无情，下跌如无限杀。", "破位后可能拿到带血筹码。"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 26,
+    "summary": "抱怨紫光股份因定增价格判断失误导致亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["基于定增价20元看好，红盘未跑反而亏损。", "对紫光股份表示失望。"],
+    "mentioned_stocks": ["紫光股份"]
+  },
+  {
+    "index": 27,
+    "summary": "观察到“金刚石散热”板块在大跌中表现强势，认为可能是资金抱团。",
+    "sentiment": "positive",
+    "key_opinions": ["大跌中金刚石散热板块异常强势。", "大跌时不知买什么可考虑该板块。", "但也存在特有补跌风险。"],
+    "mentioned_stocks": ["金刚石散热", "黄河旋风"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论若指数跌回7月低点可能开启新行情，但提及的板块表现不佳。",
+    "sentiment": "mixed",
+    "key_opinions": ["跌回7月低点或许有新行情。", "提到的化肥等板块持续阴跌，反弹无力。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "基于年度涨幅数据，认为部分科技股估值过高，下跌趋势可能延续。",
+    "sentiment": "negative",
+    "key_opinions": ["对比历史涨幅，科技股可能还得跌。", "前期涨幅过大，现在卖空力量强。", "只看涨幅不看业绩增速是错误的。", "银行股近年涨幅也需参考。"],
+    "mentioned_stocks": ["半导体股", "战狼链", "银行股"]
+  },
+  {
+    "index": 30,
+    "summary": "推崇有朋友引导投资美股，认为可避免A股泥潭，节省精力和情绪。",
+    "sentiment": "positive",
+    "key_opinions": ["有朋友带入美股是避免麻烦的开始。", "投入A股是陷入泥潭，消耗时间精力。", "存在限制资金流向正规市场的现象。"],
+    "mentioned_stocks": ["美股", "纳斯达克", "标普500"]
+  },
+  {
+    "index": 31,
+    "summary": "分享个人抄底目标标的（如合百集团），并引发对抄底时机的讨论。",
+    "sentiment": "positive",
+    "key_opinions": ["分享观测的抄底代码（合百零售）。", "认为非理性大跌需等待市场企稳再抄底。", "讨论是否形成弧形底。"],
+    "mentioned_stocks": ["合百集团"]
+  },
+  {
+    "index": 32,
+    "summary": "求助推荐股票书籍以进行系统学习，并获得多样化推荐。",
+    "sentiment": "mixed",
+    "key_opinions": ["希望系统学习，做中长线投资。", "推荐李大霄及经典投资书籍。", "有人调侃不如直接买美股。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "分享节前补仓电力股后意外抗跌的经验，讨论火电、水电前景。",
+    "sentiment": "positive",
+    "key_opinions": ["电力股补仓后表现抗跌。", "火电在储能核电突破前地位稳固。", "下阶段更看好水电。", "核电也有潜力。"],
+    "mentioned_stocks": ["电力股", "内蒙华电", "火电", "水电", "核电"]
+  },
+  {
+    "index": 34,
+    "summary": "质疑早盘下跌后的拉升是“国家队”所为，并认为是诱多。",
+    "sentiment": "negative",
+    "key_opinions": ["怀疑是“狗队”在干活拉升。", "认为每次拉升都是清仓机会。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "对A股科技股连续高开低走感到失望，转而考虑投资纳指科技。",
+    "sentiment": "negative",
+    "key_opinions": ["A股科技股连续高开低走令人失望。", "外面（如纳指）形势更好。", "经历多次收割后，决定远离A股科技。", "但纳指基金限购难以买入。"],
+    "mentioned_stocks": ["纳指科技"]
+  },
+  {
+    "index": 36,
+    "summary": "纪念大萧条100周年，讨论美股未来是否可能再次暴跌超过90%。",
+    "sentiment": "mixed",
+    "key_opinions": ["讨论美股是否可能重演大萧条式暴跌。", "分析大萧条原因，认为现在情况不同。", "若真大跌，将是巨大抄底机会。", "美股作为最优质公司集合，长期向好。"],
+    "mentioned_stocks": ["美股", "标普500"]
+  },
+  {
+    "index": 37,
+    "summary": "后悔没有早买纳指标普，反思复杂技术分析不如简单投资。",
+    "sentiment": "negative",
+    "key_opinions": ["学习复杂技术分析，不如买标普500。", "场外纳指基金难买，场内溢价高不敢加。", "纳指已减半仓，A股不跌透不碰。"],
+    "mentioned_stocks": ["纳指标普", "纳斯达克ETF"]
+  },
+  {
+    "index": 38,
+    "summary": "关注上证指数3842.88点，认为若失守360日线可能继续下行。",
+    "sentiment": "negative",
+    "key_opinions": ["关键点位3842.88。", "若今日收不回360日线，可能一路下跌。"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论亨通光电官方抖音发布食物图片，被网友调侃预示股价下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["官方抖音发食物图被解读为“请股东吃面”。", "网友调侃此为股价下跌预兆。", "质疑官方账号是否被盗。"],
+    "mentioned_stocks": ["亨通光电"]
+  },
+  {
+    "index": 40,
+    "summary": "期待创业板指当日收出“大长腿”K线形成双针探底，但被认为过于乐观。",
+    "sentiment": "negative",
+    "key_opinions": ["期待创业板收大长腿形成看涨形态。", "被认为这种期待过于乐观。", "温和放量下跌给了跑路机会。"],
+    "mentioned_stocks": ["创业板指"]
+  },
+  {
+    "index": 41,
+    "summary": "看穿市场操盘手法，认为尾盘拉升是套路，第二天常会继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["预测剧本是尾盘拉升诱多。", "第二天往往继续下跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "讨论紫金矿业股价跌至29元，并期待更低价格接回。",
+    "sentiment": "negative",
+    "key_opinions": ["期待在27元左右接到紫金矿业。", "有人已在24元时满仓，计划长期吃息。"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 43,
+    "summary": "决定告别A股，仅留一手观察，转而逐步买入纳指标普基金。",
+    "sentiment": "mixed",
+    "key_opinions": ["在A股只留一手，其余转向纳指标普。", "认为纳指标普6%溢价仍可接受。", "但也担心可能两头挨打。"],
+    "mentioned_stocks": ["纳指标普"]
+  },
+  {
+    "index": 44,
+    "summary": "感觉自7月以来市场持续低迷，每次反弹后都再次下跌，陷入循环。",
+    "sentiment": "negative",
+    "key_opinions": ["感觉8月、9月都在复刻7月的低迷。", "认为自24年下半年起就可空仓。", "被困在“下跌-救市-反抽-再下跌”的循环中。", "当前亏损甚至超过7月低点。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "讨论熊市环境下是否适合操作微盘股，观点存在分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["严重缩量后可能适合操作微盘股。", "有人选择跨境ETF做日内交易避免T+1。", "微盘股表现与市场牛熊关系不大。", "微盘股在之前的科技股行情中跌幅很大，风险高。"],
+    "mentioned_stocks": ["微盘股", "跨境ETF"]
+  }
+]
