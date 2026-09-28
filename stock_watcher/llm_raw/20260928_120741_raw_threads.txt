@@ -1,0 +1,505 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论投资纳指/标普的简单模式，对比技术分析与宏观数据关注。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "买标普500简单有效",
+      "学技术分析不如关注宏观数据",
+      "纳指ETF有溢价风险不敢加仓"
+    ],
+    "mentioned_stocks": ["纳指", "标普500", "纳斯达克ETF"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论FCC事件对科技股的影响，机构拉高出货导致科技股弱势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "FCC事件利空未完全落地",
+      "机构科技仓位大，丧事喜办拉高出货",
+      "科技股涨不顺畅，头上还有刀"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论海狗股票的建仓点，回购价20元但市场下跌影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "回购价20，短期难跌至13-14",
+      "可建底仓但等低价",
+      "市场下跌带不动利好"
+    ],
+    "mentioned_stocks": ["海狗"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论韩国股市跌破7000点，批评新闻报道偏向国内外对比。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "新闻国内大好国外水深火热",
+      "韩国股市实际未大跌，翻译问题",
+      "消费数据不发布，讽刺政策"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论金健米业开板可能性，涉及投机机会和抽奖活动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "投机资金未选老龙，今天难开板",
+      "行情困难，庄家可能行为",
+      "希望开板抽奖嫩牛五方"
+    ],
+    "mentioned_stocks": ["金健米业"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论主力预判和加息周期对股市的影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "主力预判正确",
+      "加息周期结果相同",
+      "股市反应一致，别想其他"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论股市下跌目的，怀疑主力操作打爆仓吃尸体。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "下跌有目的，跟跌不跟涨",
+      "补仓危险，筹码多到爆炸",
+      "大盘点位低，但个股更惨"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论日经指数22年衰退周期，涉及人口代际更替和投资机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "日经衰退22年，需代际更替",
+      "投资机会与日元汇率相关",
+      "讨论纯日本，历史高位影响"
+    ],
+    "mentioned_stocks": ["日经指数"]
+  },
+  {
+    "index": 9,
+    "summary": "分析创业板头肩顶形态，预计理论跌幅继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创业板头肩顶形态明确",
+      "理论跌幅大，可能跌2200点",
+      "权重股如易、中、宁影响"
+    ],
+    "mentioned_stocks": ["创业板指"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论美股是否大跌，因OpenAI事故暂停开发引发担忧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "OpenAI事故暂停开发，性质严重",
+      "上次类似事件只跌一天后连涨",
+      "市场反应可能过度"
+    ],
+    "mentioned_stocks": ["纳指", "美股"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论股市是否出现百点长阴，出金日导致抛压。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "今天砸盘明天出金，可能继续跌",
+      "3750点位可能不保",
+      "明天更简单，再砸100点"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "讨论建设世界一流交易所政策，讽刺旧闻和愿景不现实。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "政策旧闻，常看常新",
+      "副的说的不算，愿景非现实",
+      "骂不动了，快建变慢建"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讽刺金融消费，将股市亏损算作消费增长。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股民亏损算金融消费",
+      "消费增长讽刺，晕头转向"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论A股对理论免疫，技术分析和基本面都失效。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股击穿所有知识理论",
+      "转指数投资也受限，纳指标普基金被卡",
+      "纯情绪市场，量化时代技术无意义"
+    ],
+    "mentioned_stocks": ["纳指", "标普"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论国庆假期消费因股市下跌而减少，选择出国或家里蹲。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股市缩水影响消费意愿",
+      "假期体验差，人多又贵",
+      "出国消费或家里蹲，抵制国货"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "回顾2015年股灾，千股跌停惨烈程度。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "2015年牛市崩塌惨烈，千股跌停",
+      "如今讨论环境不同，键政板块没了"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论完美世界股票获利盘0%，可能继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "完美世界获利盘低，股价下跌",
+      "参考巨人等股票，没节操一直跌",
+      "等二刺猿接盘或开播"
+    ],
+    "mentioned_stocks": ["完美世界", "巨人"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论退订国庆计划，影响消费，选择电竞酒店或家里。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "退订机票酒店，减少消费",
+      "电竞酒店性价比高但欺骗自己",
+      "股市影响生活，申请加班"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论电力股抗跌，补仓后减仓过节。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "电力股意外抗跌",
+      "火电地位稳固，储能核电未突破前",
+      "看好水电核电，减仓过节"
+    ],
+    "mentioned_stocks": ["内蒙华电", "火电", "水电", "核电"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论巨轮智能做T机会，连续盘中脉冲。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "连续七个交易日盘中脉冲",
+      "每次三四个点，做T天堂",
+      "每天看戏真好玩"
+    ],
+    "mentioned_stocks": ["巨轮智能"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论前两个月亏损情况，科技股下跌导致普遍亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股骗炮，朋友亏几十个",
+      "9月绝望，3800点跌破",
+      "连亏3个月，亏损比例高"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论下午是否V型反弹，不抱希望。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "未来会V但难，套牢词来源",
+      "量化机器人不拉，银行回落杀跌",
+      "情绪差，顺势杀到血筹"
+    ],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论上轮熊市支撑股，本轮可能航运造船或权重股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上轮有银行长江电力神华支撑",
+      "本轮可能航运造船如601919",
+      "权重股多，取决于市场想开"
+    ],
+    "mentioned_stocks": ["银行", "长江电力", "神华", "航运造船"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论小时代板块可能消失，论坛作用和替代方案。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "板块消失可能性，镇妖塔作用",
+      "炸了去别的论坛，国家不会全取缔",
+      "征集小小时代名字"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "讨论国庆出门安全问题，担忧社会风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "人多不敢去，怕报复社会",
+      "股民名声差，路人啐赌狗",
+      "社会问题多，就业婚恋消费差"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论黄金投资，震荡做T机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金做T好玩，4250-4300间",
+      "震荡一段时间，关注4250支撑",
+      "黄金股仓位打满，定投继续"
+    ],
+    "mentioned_stocks": ["黄金股"]
+  },
+  {
+    "index": 27,
+    "summary": "预判盘后新闻，市值股上涨但个人股票跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市值前十大股上涨，韧性尽显",
+      "个人买市值第一却亏",
+      "讽刺只涨指数不涨个股"
+    ],
+    "mentioned_stocks": ["市值前十大股票"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论科技私募与棚改比较，类比周期和定向放水。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技私募类似棚改，定向放水",
+      "2年科技周期类比房周期",
+      "黄金时代是否过去，压缩时间"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讨论福建板块是情绪抱团还是趋势，关注个股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "福建板块走不出来，除非新消息",
+      "平潭是情绪标的，犹犹豫豫",
+      "关注福建水泥，龙头效应"
+    ],
+    "mentioned_stocks": ["福建水泥", "平潭"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论对象炒股亏钱如何安慰，劝解困难。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "散户经典行为，赚后加仓亏被套",
+      "亏了不卖，绝不亏着走",
+      "建议模拟盘或小资金，挨打才知道"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论中钨高新股票下跌，等低价买入。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价下跌至54，盆在半山腰",
+      "等40-48买入，成本高难走",
+      "鸟钨亏钱跑路，扛不住"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论想买入股票，市场下跌引发抄底欲望。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跌了想买，1成仓好想买",
+      "已满仓看戏，不阻止别人买",
+      "节前抄底预判，但节后可能低点"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "讨论市场离谱下跌，技术派量化都失效。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "技术派量化都死，没几个红票",
+      "节前大跌规律，年年如此",
+      "逃顶有手就行，但狗队出货明显"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论V型反弹可能性，但不抱希望。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "下午大V天龙，但没感觉",
+      "银行没起来，砸的不够狠",
+      "骗你的，V了也要骂，恶心人"
+    ],
+    "mentioned_stocks": ["国新"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论3800点守不住，证券ETF大跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "证券ETF亏一个跌停板",
+      "日韩走势影响3800点保不住",
+      "天天守位没意思，别人考虑新高"
+    ],
+    "mentioned_stocks": ["证券ETF"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论市场笑料，美债危机等都爆A股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美债危机爆A股，美日伊唯大A马首是瞻",
+      "所有危机都爆A股，垃圾市场",
+      "只有自己账户炸了，赢区按摩"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "讨论创业板收长腿可能性，不乐观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "收大长腿形成双针探底太乐观",
+      "梦里啥都有，资金哪里来",
+      "温和放量跌给跑路机会，已跑路"
+    ],
+    "mentioned_stocks": ["创业板指"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论沈鼓股票跌停后宣言，质疑价值投资。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "跌停后胜利宣言，炒小炒差",
+      "禁止越赢，但大家有差别吗",
+      "套牢人多，解放需涨停多"
+    ],
+    "mentioned_stocks": ["沈鼓"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论大A日子不过了，熊市情绪蔓延。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "熊市来了，赶紧撤",
+      "已进入95%时间的辣鸡时间",
+      "难绷，日子不过了"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论光（光通信）股票能否持有，成本高难走。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "东山精密成本180，亏钱难受",
+      "下次回本就跑，科技再拿拿",
+      "其他科技惨，无语住"
+    ],
+    "mentioned_stocks": ["东山精密", "金风科技"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论光相关股票被FCC打压，科技股惨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "光被FCC直接摁死",
+      "边角料科技更惨，大盘没量拉不起",
+      "赚情绪钱，情绪好差哦"
+    ],
+    "mentioned_stocks": ["光相关股票"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论200万吃股息推荐，等股灾买红利。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股息覆盖生活，5%日常做T",
+      "等股灾大跌再买红利",
+      "推荐中国平安、长江电力等"
+    ],
+    "mentioned_stocks": ["红利股", "中国平安", "长江电力"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论出国旅游消费抵制国货，股民情绪。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "出国消费，买东西抵制国货",
+      "炒股90%变罕见，冷静不要成罕见",
+      "山姆卡续费，中国赚不到一分钱"
+    ],
+    "mentioned_stocks": ["特斯拉", "苹果", "三星"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论马上止跌，但无量下跌是大熊之兆。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "这么跌没量，大家一起去世",
+      "没量是真没买盘，大熊之兆",
+      "家人挂树上，止跌了还有下半场"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "讨论华为新太子登基，可能指产品发布。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "华为新太子登基，瞎眼表情",
+      "午盘能稳住就是胜利"
+    ],
+    "mentioned_stocks": ["华为"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论熊猫吃绿竹比喻股票图形，讽刺加速赶底。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "熊猫吃绿竹K线图抄底",
+      "加速赶底有感觉吗",
+      "美股绿是涨，美国佬绿竹往上涨"
+    ],
+    "mentioned_stocks": []
+  }
+]
