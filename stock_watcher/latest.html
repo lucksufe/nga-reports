@@ -87,33 +87,33 @@
     <div class="container">
         <header>
             <h1>大时代 · 股市监控报告</h1>
-            <p class="meta">生成时间：2026-09-25 14:57 | 今日帖子：39</p>
+            <p class="meta">生成时间：2026-09-28 08:54 | 今日帖子：49</p>
         </header>
 
         <div class="section">
             <h2>行情趋势</h2>
             <div class="trend-box">
                 <strong style="color:#27ae60;font-size:1.4em">↓ 空头</strong><br>
-                <span style="font-size:0.95em;color:#333">看空，A股长期低迷用户亏损普遍市场信心不足对比其他市场下跌明显</span><br>
-                <span style="font-size:0.85em;color:#666;margin-top:8px;display:inline-block">主要讨论A股下跌、用户亏损分享、对比台湾股市和纳指上涨、港股大跌、AI股票及工具复盘。典型观点：A股表现不佳，用户悲观，寻求策略但信心不足。</span>
+                <span style="font-size:0.95em;color:#333">看空，论坛讨论显示对美债收益率飙升、日韩加息及A股跟跌的广泛担忧，悲观情绪占主导。</span><br>
+                <span style="font-size:0.85em;color:#666;margin-top:8px;display:inline-block">今日主要讨论日韩加息影响、美债收益率高企、A股短期走势及投资策略，典型观点包括A股可能跟跌、市场风险高，需谨慎操作。</span>
             </div>
             <h3>乐观程度</h3>
             <div class="optimism-bar">
-                <div class="pos" style="width:15%"></div>
-                <div class="neu" style="width:20%"></div>
-                <div class="neg" style="width:65%"></div>
+                <div class="pos" style="width:20%"></div>
+                <div class="neu" style="width:30%"></div>
+                <div class="neg" style="width:50%"></div>
             </div>
             <div class="optimism-labels">
-                <span>乐观 15%</span>
-                <span>中性 20%</span>
-                <span>悲观 65%</span>
+                <span>乐观 20%</span>
+                <span>中性 30%</span>
+                <span>悲观 50%</span>
             </div>
         </div>
 
         
     <div class="section">
         <h2>历史悲观乐观趋势</h2>
-        <p style="color:#666;font-size:0.9em;margin-bottom:15px">数据来源：每日LLM分析结果 · 共79个交易日</p>
+        <p style="color:#666;font-size:0.9em;margin-bottom:15px">数据来源：每日LLM分析结果 · 共80个交易日</p>
         <div style="position:relative;height:300px">
             <canvas id="sentimentChart"></canvas>
         </div>
@@ -125,11 +125,11 @@
         new Chart(ctx, {
             type: 'line',
             data: {
-                labels: ["2026-06-09", "2026-06-10", "2026-06-11", "2026-06-12", "2026-06-15", "2026-06-16", "2026-06-17", "2026-06-18", "2026-06-19", "2026-06-22", "2026-06-23", "2026-06-24", "2026-06-25", "2026-06-26", "2026-06-29", "2026-06-30", "2026-07-01", "2026-07-02", "2026-07-03", "2026-07-06", "2026-07-07", "2026-07-08", "2026-07-09", "2026-07-10", "2026-07-13", "2026-07-14", "2026-07-15", "2026-07-16", "2026-07-17", "2026-07-20", "2026-07-21", "2026-07-22", "2026-07-23", "2026-07-24", "2026-07-27", "2026-07-28", "2026-07-29", "2026-07-30", "2026-07-31", "2026-08-03", "2026-08-04", "2026-08-05", "2026-08-06", "2026-08-07", "2026-08-10", "2026-08-11", "2026-08-12", "2026-08-13", "2026-08-14", "2026-08-17", "2026-08-18", "2026-08-19", "2026-08-20", "2026-08-21", "2026-08-24", "2026-08-25", "2026-08-26", "2026-08-27", "2026-08-28", "2026-08-31", "2026-09-01", "2026-09-02", "2026-09-03", "2026-09-04", "2026-09-07", "2026-09-08", "2026-09-09", "2026-09-10", "2026-09-11", "2026-09-14", "2026-09-15", "2026-09-16", "2026-09-17", "2026-09-18", "2026-09-21", "2026-09-22", "2026-09-23", "2026-09-24", "2026-09-25"],
+                labels: ["2026-06-09", "2026-06-10", "2026-06-11", "2026-06-12", "2026-06-15", "2026-06-16", "2026-06-17", "2026-06-18", "2026-06-19", "2026-06-22", "2026-06-23", "2026-06-24", "2026-06-25", "2026-06-26", "2026-06-29", "2026-06-30", "2026-07-01", "2026-07-02", "2026-07-03", "2026-07-06", "2026-07-07", "2026-07-08", "2026-07-09", "2026-07-10", "2026-07-13", "2026-07-14", "2026-07-15", "2026-07-16", "2026-07-17", "2026-07-20", "2026-07-21", "2026-07-22", "2026-07-23", "2026-07-24", "2026-07-27", "2026-07-28", "2026-07-29", "2026-07-30", "2026-07-31", "2026-08-03", "2026-08-04", "2026-08-05", "2026-08-06", "2026-08-07", "2026-08-10", "2026-08-11", "2026-08-12", "2026-08-13", "2026-08-14", "2026-08-17", "2026-08-18", "2026-08-19", "2026-08-20", "2026-08-21", "2026-08-24", "2026-08-25", "2026-08-26", "2026-08-27", "2026-08-28", "2026-08-31", "2026-09-01", "2026-09-02", "2026-09-03", "2026-09-04", "2026-09-07", "2026-09-08", "2026-09-09", "2026-09-10", "2026-09-11", "2026-09-14", "2026-09-15", "2026-09-16", "2026-09-17", "2026-09-18", "2026-09-21", "2026-09-22", "2026-09-23", "2026-09-24", "2026-09-25", "2026-09-28"],
                 datasets: [
                     {
                         label: '乐观 %',
-                        data: [40, 30, 20, 10, 40, 30, 40, 30, 35, 40, 20, 25, 30, 30, 35, 50, 30, 15, 30, 15, 20, 5, 30, 20, 20, 30, 30, 15, 15, 30, 20, 20, 20, 10, 30, 30, 30, 30, 15, 30, 30, 30, 30, 30, 25, 30, 30, 15, 30, 50, 30, 0, 25, 30, 20, 20, 30, 30, 20, 35, 30, 20, 30, 10, 30, 20, 30, 20, 30, 20, 20, 35, 30, 20, 30, 20, 20, 20, 15],
+                        data: [40, 30, 20, 10, 40, 30, 40, 30, 35, 40, 20, 25, 30, 30, 35, 50, 30, 15, 30, 15, 20, 5, 30, 20, 20, 30, 30, 15, 15, 30, 20, 20, 20, 10, 30, 30, 30, 30, 15, 30, 30, 30, 30, 30, 25, 30, 30, 15, 30, 50, 30, 0, 25, 30, 20, 20, 30, 30, 20, 35, 30, 20, 30, 10, 30, 20, 30, 20, 30, 20, 20, 35, 30, 20, 30, 20, 20, 20, 15, 20],
                         borderColor: '#27ae60',
                         backgroundColor: 'rgba(39,174,96,0.1)',
                         fill: true,
@@ -139,7 +139,7 @@
                     },
                     {
                         label: '悲观 %',
-                        data: [40, 50, 60, 70, 40, 50, 40, 50, 45, 30, 60, 55, 50, 50, 35, 30, 50, 60, 50, 65, 60, 80, 50, 50, 60, 50, 50, 75, 65, 50, 50, 60, 50, 70, 50, 50, 50, 50, 75, 50, 50, 50, 50, 50, 45, 50, 50, 70, 50, 30, 50, 0, 55, 50, 60, 60, 50, 50, 60, 45, 50, 60, 50, 70, 50, 60, 50, 60, 50, 60, 60, 45, 50, 60, 50, 60, 60, 60, 65],
+                        data: [40, 50, 60, 70, 40, 50, 40, 50, 45, 30, 60, 55, 50, 50, 35, 30, 50, 60, 50, 65, 60, 80, 50, 50, 60, 50, 50, 75, 65, 50, 50, 60, 50, 70, 50, 50, 50, 50, 75, 50, 50, 50, 50, 50, 45, 50, 50, 70, 50, 30, 50, 0, 55, 50, 60, 60, 50, 50, 60, 45, 50, 60, 50, 70, 50, 60, 50, 60, 50, 60, 60, 45, 50, 60, 50, 60, 60, 60, 65, 50],
                         borderColor: '#e74c3c',
                         backgroundColor: 'rgba(231,76,60,0.1)',
                         fill: true,
@@ -149,7 +149,7 @@
                     },
                     {
                         label: '中性 %',
-                        data: [20, 20, 20, 20, 20, 20, 20, 20, 20, 30, 20, 20, 20, 20, 30, 20, 20, 25, 20, 20, 20, 15, 20, 30, 20, 20, 20, 10, 20, 20, 30, 20, 30, 20, 20, 20, 20, 20, 10, 20, 20, 20, 20, 20, 30, 20, 20, 15, 20, 20, 20, 0, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20],
+                        data: [20, 20, 20, 20, 20, 20, 20, 20, 20, 30, 20, 20, 20, 20, 30, 20, 20, 25, 20, 20, 20, 15, 20, 30, 20, 20, 20, 10, 20, 20, 30, 20, 30, 20, 20, 20, 20, 20, 10, 20, 20, 20, 20, 20, 30, 20, 20, 15, 20, 20, 20, 0, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 20, 30],
                         borderColor: '#95a5a6',
                         backgroundColor: 'rgba(149,165,166,0.1)',
                         fill: true,
@@ -203,7 +203,7 @@
         
     <div class="section">
         <h2>A股板块热力图</h2>
-        <p style="color:#666;font-size:0.9em;margin-bottom:15px">数据来源：ETF趋势追踪 · 数据日期：2026-09-25 · 点击板块展开成分ETF</p>
+        <p style="color:#666;font-size:0.9em;margin-bottom:15px">数据来源：ETF趋势追踪 · 数据日期：2026-09-26 · 点击板块展开成分ETF</p>
         <div style="overflow-x:auto">
             <table>
                 <thead>
@@ -1210,277 +1210,347 @@
 
         <div class="section"><h2>热帖分析</h2><div class="cards-grid">
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47615945" target="_blank" class="post-link">牛肉这么贵，大A就没啥养牛的公司吗</a></h3>
-            <p class="meta">回复数：19</p>
-            <p><strong>摘要：</strong>讨论牛肉价格高，寻找A股相关的养牛或进口牛肉公司。</p>
-            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>国内养牛周期长、成本高，缺乏规模化养殖公司</li><li>牛肉价格上涨原因复杂，非单纯市场因素</li><li>提及天山生物，但认为其已失去机会</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47622045" target="_blank" class="post-link">9月利润亏光了……该不该找自己的问题</a></h3>
-            <p class="meta">回复数：19</p>
-            <p><strong>摘要：</strong>用户9月利润亏光，讨论是否该反思自身操作问题。</p>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47634820" target="_blank" class="post-link">今天日涨韩跌，A跟谁？</a></h3>
+            <p class="meta">回复数：8</p>
+            <p><strong>摘要：</strong>讨论A股市场是跟随日韩股市上涨还是下跌，普遍认为跟跌可能性大。</p>
             <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>市场普遍下跌，非个人问题</li><li>认为在恶劣市场中亏损是常态</li><li>有回复质疑发帖是炫耀</li></ul>
+            <ul><li>A股倾向于跟跌，向下兼容。</li><li>美股市场影响力大，A股跟随性强。</li><li>A股即使全部上涨也会考虑是否跟随。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47622433" target="_blank" class="post-link">中国台湾股市创新高，年涨幅66.7，专家：中秋抱股赏月</a></h3>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47625975" target="_blank" class="post-link">黄金宗第四季讨论交流</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>交流黄金投资策略，关注价格走势、做T操作及后续支撑位。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>黄金价格在4250-4300区间震荡，适合做T。</li><li>关键支撑位在4250，若击穿则下方空间不确定。</li><li>黄金股仓位已满，个人资金继续定投。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47634692" target="_blank" class="post-link">日韩看起来都又要加息了</a></h3>
+            <p class="meta">回复数：19</p>
+            <p><strong>摘要：</strong>讨论日韩可能加息的消息，分析其对A股及中外经济的不同影响。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>外围加息为抑制通胀，中国却处于通缩状态。</li><li>观点分歧：一方认为A股应补涨，另一方认为加息将导致下跌。</li><li>有用户讽刺性地预测A股将暴涨。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47633489" target="_blank" class="post-link">亨通光电这官方抖音号绷不住了啊</a></h3>
+            <p class="meta">回复数：18</p>
+            <p><strong>摘要：</strong>讨论亨通光电官方抖音发布一锅食物图片，暗示次日股价可能下跌（吃面）。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>官方账号发布“一锅”食物图片，被解读为股价将下跌的信号。</li><li>用户猜测此行为意为“请股东们吃面”（亏损）。</li><li>对该账号突然发布此类内容感到疑惑。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47628123" target="_blank" class="post-link">200万吃股息 有什么推荐的马？</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>询问200万本金通过股息实现躺平生活的可行性及相关股票推荐。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>需要较高股息率（如5%以上）才能覆盖生活成本。</li><li>建议等待股灾或市场低位时买入高股息（红利）股。</li><li>推荐关注中国平安、600900（长江电力）等股息增长稳定的股票。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47624673" target="_blank" class="post-link">这美债收益率要吓死人啊</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>讨论美国十年期国债收益率飙升至5.2%高位，分析原因及影响。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>收益率高企部分因AI企业发债抢夺国债资金。</li><li>用户担忧美国可能被迫QE（量化宽松），但认为QE无法有效压制收益率。</li><li>美债收益率持续走高被视为稳定信号，但前景吓人。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47624800" target="_blank" class="post-link">家人们，股市如果再翻1倍准备提一辆豪车</a></h3>
             <p class="meta">回复数：7</p>
-            <p><strong>摘要：</strong>对比中国台湾股市创新高与A股表现，引发情绪讨论。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>通过对比表达对A股的不满</li><li>有嘲讽“美国人太坏了”</li><li>提出“拥抱科技，拒绝老登”</li></ul>
+            <p><strong>摘要：</strong>设想股市翻倍后购买一辆电动货车（零界900）。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>幻想股市翻倍后购买电动车用于送外卖。</li><li>讨论电动货车“零界900”的车型。</li><li>有用户提醒快速翻倍的期望往往导致亏损。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47622466" target="_blank" class="post-link">刘纪鹏:股民保持耐心，相信a股会重回4000点</a></h3>
-            <p class="meta">回复数：12</p>
-            <p><strong>摘要：</strong>刘纪鹏称股民应保持耐心，A股会重回4000点，引发质疑。</p>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47627556" target="_blank" class="post-link">不让乱炒了，大家小心点吧。</a></h3>
+            <p class="meta">回复数：19</p>
+            <p><strong>摘要：</strong>讨论监管加强，禁止“乱炒”，市场情绪谨慎。</p>
             <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>质疑专家言论的可信度</li><li>认为重回4000点是诱多</li><li>指出大股东减持与言论矛盾</li></ul>
+            <ul><li>A股市场“一管就废，一放就乱”的常态。</li><li>监管加强源于市场不够低迷，旨在抑制投机。</li><li>用户对监管函的出现感到担忧，提示风险。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47622359" target="_blank" class="post-link">我chovy纳斯达克你给我回调好了啊</a></h3>
-            <p class="meta">回复数：4</p>
-            <p><strong>摘要：</strong>用户希望纳斯达克指数回调。</p>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47629376" target="_blank" class="post-link">想系统的看看股票方面的书，求推荐</a></h3>
+            <p class="meta">回复数：19</p>
+            <p><strong>摘要：</strong>寻求系统学习股票投资的书籍推荐，涉及经典著作和国内分析师。</p>
             <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>讨论纳斯达克指数的走势</li><li>提及回调时机（下个月7号）</li><li>认为日内已回调完毕</li></ul>
+            <ul><li>推荐经典书籍如《漫步华尔街》、《投资最重要的事》、《穷查理宝典》等。</li><li>部分用户调侃推荐李大霄，但也有人认为其观点值得参考。</li><li>有用户建议“别研究了，买美股”。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47629313" target="_blank" class="post-link">伊朗央行行长：伊朗通胀已小幅回落，为过去15个月来首次</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>报道伊朗通胀率小幅回落至83.8%，讨论伊朗经济韧性。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>伊朗在全面制裁下维持高通胀但社会未崩溃，展现民众忍耐力。</li><li>用户对比美国低通胀下的不满，感叹伊朗人民“能吃苦”。</li><li>讨论地缘政治（美国中期选举）对美伊关系的影响。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47626846" target="_blank" class="post-link">下一波牛市是炒机器人不</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>讨论下一波牛市是否会炒作机器人板块，普遍认为技术未成熟，炒作过早。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>机器人（具身智能）技术尚未突破，目前是“遥控玩具”，无实际业绩。</li><li>认为相关炒作（如宇树上市）已结束，需等待技术成熟后再看。</li><li>质疑“下一波牛市”是否真实存在。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47631099" target="_blank" class="post-link">减持增发这么容易的吗</a></h3>
+            <p class="meta">回复数：18</p>
+            <p><strong>摘要：</strong>批评电子厂等上市公司通过“拉高减持-定增套现-假回购”三部曲套路散户。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>指责上市公司利用信息优势进行资本运作，损害散户利益。</li><li>有用户认为既然是公开套路，散户可顺势跟买获利。</li><li>认为这是A股“垃圾市场”的常态，与美股回购文化对比鲜明。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47630794" target="_blank" class="post-link">中秋没开盘，感觉身上有蚂蚁在爬</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>中秋假期股市休市，投资者感到不适，有“蚂蚁爬”般的焦虑。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>休市期间投资者感到焦虑，渴望开盘交易。</li><li>有人认为这反映了“赌瘾”，宁愿亏损也不愿赌场关门。</li><li>部分用户反而享受不开盘的清静。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47633338" target="_blank" class="post-link">油运大周期是真的吗</a></h3>
+            <p class="meta">回复数：14</p>
+            <p><strong>摘要：</strong>讨论油运行业是否存在大周期上涨机会，观点分歧明显。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>逻辑上，原油去库存后补库存将利好油运，周期可能未到顶。</li><li>但用户指出“油运大周期是真的，油运股就不一定了”。</li><li>对具体标的（如招商轮船）的“庄性”表示担忧。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47631689" target="_blank" class="post-link">大盘短期还能有一小波</a></h3>
+            <p class="meta">回复数：14</p>
+            <p><strong>摘要：</strong>预测大盘短期可能有一小波上涨，但个股表现分化。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>预测大盘可能有一个月左右的向上行情。</li><li>但强调个股需具体分析，且未来一个月加息预期存在变数。</li><li>有用户对持续预测行情表示厌烦。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47633148" target="_blank" class="post-link">fx战士久留美 第一话先行版已出</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>分享并讨论FX（外汇）交易题材动画《FX战士久留美》。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>该动画被看作优秀的“戒赌片”，真实反映交易风险。</li><li>女主快速亏损30%的情节引发投资者共鸣（幻痛）。</li><li>动画中“不投资也能幸福”的台词引发思考。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47630385" target="_blank" class="post-link">好好好一到大A快要开盘就给我推送这些是吧</a></h3>
+            <p class="meta">回复数：6</p>
+            <p><strong>摘要：</strong>抱怨A股开盘前总被地缘政治（如美国轰炸）新闻轰炸。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>A股开盘前常有利空地缘新闻，影响市场情绪。</li><li>用户希望油价每天上涨，以此倒逼事件解决。</li><li>认为此类新闻轰炸已持续很久，市场可能已“脱敏”。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47634013" target="_blank" class="post-link">《FX战士久留美》火热开播！非二次元炒股人的人生第一部动画或许就是它！</a></h3>
+            <p class="meta">回复数：14</p>
+            <p><strong>摘要：</strong>从《FX战士久留美》动画看散户心理，认为其照出股市中的人性。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>动画描绘了散户从盈利到爆仓的心理变化，极具真实感。</li><li>散户盈利后首先与工资对比，冲击原有金钱观。</li><li>动画警示了过度杠杆和短线交易的风险。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47625919" target="_blank" class="post-link">黄金宗没了？</a></h3>
+            <p class="meta">回复数：4</p>
+            <p><strong>摘要：</strong>讨论“黄金宗”板块疑似被封禁，可能与市场风浪（监管或风险）有关。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>“黄金宗”讨论版块消失，怀疑被封禁。</li><li>用户疑惑连讨论黄金都会被封。</li><li>可能预示市场波动加大，监管或风险因素导致。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47630854" target="_blank" class="post-link">散户能买美债吗？5%的利息实在诱人啊。</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>询问散户购买美国国债的可行性，主要担忧汇率风险。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>5%的美债利息诱人，但存在汇率波动风险。</li><li>如果人民币升值，汇率损失可能吞噬债券利息收益。</li><li>资金如何出境也是个现实难题。</li></ul>
         </div>
         <div class="card">
             <h3><a href="https://bbs.nga.cn/read.php?tid=47605135" target="_blank" class="post-link">开个楼记录一下我的A股复盘，千万账户努力过亿</a></h3>
             <p class="meta">回复数：20</p>
-            <p><strong>摘要：</strong>千万账户用户计划分享A股复盘，目标过亿。</p>
+            <p><strong>摘要：</strong>用户计划开帖记录自己的A股复盘与投资思考，目标为账户过亿。</p>
             <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
-            <ul><li>计划在NGA论坛持续分享市场看法</li><li>目标从千万做到过亿</li><li>引起其他用户围观和关注</li></ul>
+            <ul><li>用户希望在NGA论坛记录每日/每周市场理解、板块逻辑和政策判断。</li><li>展示了千万级账户截图，设定过亿目标。</li><li>其他用户表示围观学习。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47622230" target="_blank" class="post-link">先导基电算不算科技票里的妖王</a></h3>
-            <p class="meta">回复数：5</p>
-            <p><strong>摘要：</strong>讨论先导基电是否为科技股中的“妖王”。</p>
-            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>认为其无视大环境突破前高</li><li>可能已经“毕业照”（见顶信号）</li><li>有用户后悔错过上涨</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47622349" target="_blank" class="post-link">请教下各位复盘都用的什么模型，求推荐</a></h3>
-            <p class="meta">回复数：2</p>
-            <p><strong>摘要：</strong>询问用于股市复盘的模型或工具。</p>
-            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>用户寻求更准确的AI复盘工具</li><li>有回复表示仅做人工复盘</li><li>讨论交易错误而非预测模型</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47617501" target="_blank" class="post-link">纳指冲三万的夜晚，整个市场都在AI的膨胀里失重。</a></h3>
-            <p class="meta">回复数：11</p>
-            <p><strong>摘要：</strong>用户在纳指冲3万时清仓，警示AI泡沫。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>认为AI估值扩张脱离基本面</li><li>用户清仓纳指，警示泡沫风险</li><li>被其他用户质疑和嘲讽</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47605869" target="_blank" class="post-link">美股集思广益，也分享下自己的美股标的选择和操作</a></h3>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47627668" target="_blank" class="post-link">求解，朋友不上班没存款，和她爸一起用养老金炒股，感觉有点疯魔了</a></h3>
             <p class="meta">回复数：20</p>
-            <p><strong>摘要：</strong>用户分享美股投资组合，聚焦AI及相关板块。</p>
-            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
-            <ul><li>看好AI软件、硬件、云服务及生命科学</li><li>讨论具体美股标的和操作</li><li>建议使用期权杠杆替代杠杆ETF</li></ul>
+            <p><strong>摘要：</strong>担忧朋友不上班，与父亲用养老金沉迷炒股，感觉其心态疯魔。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>朋友试图研究所有行业，并坚信K线能预测未来，心态危险。</li><li>用户担心朋友小赚后自认“股神”，走上不归路。</li><li>建议远离或避免讨论股市，以防被牵连。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47622425" target="_blank" class="post-link">朋友问我为什么说起大A总是会哭TT</a></h3>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47632757" target="_blank" class="post-link">优必选能入吗</a></h3>
             <p class="meta">回复数：4</p>
-            <p><strong>摘要：</strong>用户为A股哭泣，表达投资痛苦。</p>
+            <p><strong>摘要：</strong>询问机器人公司优必选是否值得买入，因与比亚迪关系紧密。</p>
             <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>表达对A股投资的失望和痛苦</li><li>调侃A股“发钱”给散户</li><li>建议去“正规市场”投资</li></ul>
+            <ul><li>建议直接加仓比亚迪，而非投资相关小公司。</li><li>认为比亚迪增长空间已有限，上涨50%都难。</li><li>警示在加息周期不应投资港股的成长股。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47633228" target="_blank" class="post-link">现在该不该清仓？大家来聊聊</a></h3>
+            <p class="meta">回复数：16</p>
+            <p><strong>摘要：</strong>用户感到市场危机前所未有，询问是否应清仓，并了解大家操作。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>用户感到危机，询问清仓时长。</li><li>多数回复建议清仓或落袋为安。</li><li>少数观点认为此时不应清仓，或可转投红利股。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47628537" target="_blank" class="post-link">真正公布的实质性利好就这些？</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>分析中美达成关税减让共识的具体商品类别，认为实质利好有限。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>减税商品为“非敏感类”，如农产品、小家电、玩具等，影响不大。</li><li>用户认为中国出口的多是“时尚小垃圾”，高技术产品未获优惠。</li><li>利好海运（601919）和特定出口商品板块。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47631939" target="_blank" class="post-link">下周三天短线可能炒的热点之一…</a></h3>
+            <p class="meta">回复数：15</p>
+            <p><strong>摘要：</strong>预测下周短线热点可能围绕某足球比赛事件进行炒作。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>认为足球比赛节点符合妖股启动逻辑：周一升温、周二加速、周三爆发结账。</li><li>提及共创草皮、舒华体育、金陵体育等相关标的。</li><li>用户调侃“利好海参和叉腰肌按摩仪”。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47630714" target="_blank" class="post-link">关于节后三天的走势 我准备了两套说辞。</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>准备了节后三天（国庆前）A股走势的两套预测说辞。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>“正常人操作”：缓慢修复，收红。</li><li>“畜生操作”：高开后一路砸盘，低开低走。</li><li>更多用户悲观预测“低开低走”，认为3500点必到。</li></ul>
         </div>
         <div class="card">
             <h3><a href="https://bbs.nga.cn/read.php?tid=47622299" target="_blank" class="post-link">大陆的muse怎么还没出现啊</a></h3>
             <p class="meta">回复数：6</p>
-            <p><strong>摘要：</strong>讨论大陆为何未出现类似“Muse”的AI产品。</p>
+            <p><strong>摘要：</strong>疑惑为何中国大陆没有出现类似Muse（AI应用）的产品。</p>
             <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>Muse提供高配置个人服务器，成本高</li><li>在国内缺乏生存空间，需大厂生态</li><li>有用户利用其服务器做爬虫等用途</li></ul>
+            <ul><li>Muse为每个用户分配高配云资源，成本高昂，国内公司可能不愿投入。</li><li>认为此类产品需要深度整合多个APP生态，只有阿里腾讯能做。</li><li>国内可能没有其生存空间。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47622033" target="_blank" class="post-link">兄弟们太想赢了怎么办？</a></h3>
-            <p class="meta">回复数：15</p>
-            <p><strong>摘要：</strong>用户表达急于在股市证明自己、想赢的心态。</p>
-            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>市场难度大，不亏已是不错</li><li>建议用小部分资金博弈或转向美股</li><li>市场向阻力最小方向前进</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47621187" target="_blank" class="post-link">港股今天为什么大跌？</a></h3>
-            <p class="meta">回复数：19</p>
-            <p><strong>摘要：</strong>询问港股在A股休市日大跌的原因。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>缺乏南向资金导致流动性危机</li><li>被指为做空工具或筹码问题</li><li>港股机制被质疑缺乏投资价值</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47588110" target="_blank" class="post-link">[工具分享] 闲着搓了个 A 股本地研究工具</a></h3>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47624594" target="_blank" class="post-link">去尝试外汇交易了</a></h3>
             <p class="meta">回复数：20</p>
-            <p><strong>摘要：</strong>用户分享自制的A股本地研究工具。</p>
+            <p><strong>摘要：</strong>用户开始尝试外汇（FX）交易，认为比A股更轻松，风险可控。</p>
             <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
-            <ul><li>工具主要用于复盘和数据统揽</li><li>引发用户关注和尝试</li><li>讨论数据API和策略需求</li></ul>
+            <ul><li>外汇交易品种多（纳指、黄金、原油），交易系统清晰，盈亏比好。</li><li>认为外汇比A股安全，控制好仓位就不会大亏。</li><li>警告外汇交易需高杠杆才能盈利，并戏称用户可能成为“FX战士”。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47621440" target="_blank" class="post-link">没南向撑着今天港股原型毕露了</a></h3>
-            <p class="meta">回复数：19</p>
-            <p><strong>摘要：</strong>A股休市，港股因缺乏南向资金而暴露流动性问题。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>成交量极低，市场极度冷清</li><li>被嘲讽为“亚洲金融废墟”</li><li>流动性依赖大陆资金</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47620377" target="_blank" class="post-link">[图一乐] 内资究竟在怕什么？</a></h3>
-            <p class="meta">回复数：5</p>
-            <p><strong>摘要：</strong>讽刺内资（国内机构）的操作行为。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>质疑内资在害怕什么</li><li>内资被指为“千层饼”互相博弈</li><li>担心给散户解套后无人接盘</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47617219" target="_blank" class="post-link">尾盘梭哈有色，惴惴不安ing</a></h3>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47632939" target="_blank" class="post-link">中信证券：维持年内A股震荡市的判断 三季报前后是年内最后一波进攻窗口</a></h3>
             <p class="meta">回复数：20</p>
-            <p><strong>摘要：</strong>用户尾盘梭哈有色股，并受某主播观点影响。</p>
-            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>根据主播观点，认为洗盘结束可入场</li><li>用户买入铜陵有色，引发讨论</li><li>有回复警告加息周期不宜买金属</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47595510" target="_blank" class="post-link">不知道买什么就买这个</a></h3>
-            <p class="meta">回复数：15</p>
-            <p><strong>摘要：</strong>用户开帖记录自己选股，作为交易备选。</p>
-            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>分享选股逻辑和标的</li><li>部分用户表示跟随操作</li><li>讨论具体股票的技术形态</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47619388" target="_blank" class="post-link">大家觉得缩量的终局是往上还是往下？</a></h3>
-            <p class="meta">回复数：20</p>
-            <p><strong>摘要：</strong>讨论市场持续缩量后，终局是向上还是向下。</p>
+            <p><strong>摘要：</strong>中信证券研报称维持A股震荡市判断，三季报前后是最后进攻窗口。</p>
             <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>一方认为科技已到底部，卖盘枯竭</li><li>另一方认为需恐慌性放量下跌才能见底</li><li>缺乏增量资金，下跌容易上涨难</li></ul>
+            <ul><li>中信称外围市场（如美股新高）不应再作为A股影响因素。</li><li>认为指数年内修复概率大于创新低，但情绪低迷。</li><li>用户普遍不认可，认为研报是“片汤话”，并调侃亏钱不给补。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47619873" target="_blank" class="post-link">又发生什么事了？？油债疯狂飙</a></h3>
-            <p class="meta">回复数：12</p>
-            <p><strong>摘要：</strong>询问油价、债市大幅波动的原因。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>美债遭抛售，地缘政治（胡塞）推高油价</li><li>用户担心对持仓（如有色）的冲击</li><li>庆幸A股休市避免下跌</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47621204" target="_blank" class="post-link">下周一双创有福了</a></h3>
-            <p class="meta">回复数：13</p>
-            <p><strong>摘要：</strong>讨论“汪汪队”（国家队）操作对创业板和科创板的影响。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>认为国家队抄底后会压制反弹</li><li>市场处于“砸盘-吸筹”循环</li><li>双创板块下跌空间仍被看好</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47618237" target="_blank" class="post-link">亨通光电的定增也来了</a></h3>
-            <p class="meta">回复数：20</p>
-            <p><strong>摘要：</strong>亨通光电发布定增预案，引发科技股融资担忧。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>A股科技股定增和减持不断</li><li>被批评为“空手套白狼”套散户钱</li><li>定增价格被质疑</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47610363" target="_blank" class="post-link">房地产放消息出来要救</a></h3>
-            <p class="meta">回复数：20</p>
-            <p><strong>摘要：</strong>传闻房地产将出台救市政策，引发讨论。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>质疑救市资金来源和实际效果</li><li>民众购房意愿低，政策难扭转</li><li>认为只是情绪炒作，实际意义不大</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47618443" target="_blank" class="post-link">生益科技给点动力啊</a></h3>
-            <p class="meta">回复数：17</p>
-            <p><strong>摘要：</strong>用户买入生益科技后即被套，抱怨股价下跌。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>董事长减持被指导致股价下跌</li><li>缺乏资金和板块风来推动</li><li>用户刚入场即亏损，情绪沮丧</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47621810" target="_blank" class="post-link">这个指数是什么意思</a></h3>
-            <p class="meta">回复数：4</p>
-            <p><strong>摘要：</strong>询问一个走势良好的指数（环中国指数）的含义。</p>
-            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>指数名字本身即答案</li><li>被戏称为“环中国崩溃式暴涨”</li><li>暗示其他市场表现好于A股</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47620993" target="_blank" class="post-link">胜宏科技 今年归母能做到多少</a></h3>
-            <p class="meta">回复数：9</p>
-            <p><strong>摘要：</strong>讨论胜宏科技今年的归母净利润预期。</p>
-            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>对业绩达成（90亿）表示怀疑</li><li>需等待三季报验证</li><li>有用户因持有而感到难受</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47619485" target="_blank" class="post-link">说个暴论 ai硬周一如果起不来 大资金的代餐很可能是药</a></h3>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47633747" target="_blank" class="post-link">分享本书</a></h3>
             <p class="meta">回复数：2</p>
-            <p><strong>摘要：</strong>提出观点：如果AI硬件不行，资金可能转向医药股。</p>
-            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>美股莫德纳新高，内资可能效仿</li><li>但另一观点认为会普跌</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47620917" target="_blank" class="post-link">港股中秋也开市？</a></h3>
-            <p class="meta">回复数：20</p>
-            <p><strong>摘要：</strong>讨论港股在中秋节是否开市及异常表现。</p>
+            <p><strong>摘要：</strong>分享瑞·达利欧的《原则》一书，但用户评价不佳。</p>
             <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>港股中秋照常开市，但港股通关闭</li><li>趁A股关门拉涨是“传统技能”</li><li>港股与大A被一同贬为“蛆”</li></ul>
+            <ul><li>分享《原则》书中关于成功与公众关注的段落。</li><li>有用户认为《原则》是“员工吹捧老板的书”，“不用看”。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47620899" target="_blank" class="post-link">绷不住了，只有小A开倒车，其他股市都在往上突突</a></h3>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47619486" target="_blank" class="post-link">[展望未来] 2030年的普通一天</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>畅想2030年，有机器人、清洁能源的智能生活，但归结于A股难涨。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>想象2030年机器人管家、智能能源管理的美好生活。</li><li>但最后落脚点是“A股再度冲击4000点”和“守卫3000点”，充满讽刺。</li><li>用户感叹能改变生活的股票不在A股。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47627285" target="_blank" class="post-link">你们真的相信存储缺货会延续到后年吗？</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>质疑存储芯片缺货是否会延续到后年，并讨论对股价的影响。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>存储缺货可能发生，但对股价影响已不大。</li><li>质疑AI巨额投资（发债抢资金）的可持续性。</li><li>认为美国电力等基础设施可能无法支撑无休止的高算力投入。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47633480" target="_blank" class="post-link">开始学习了老哥们，从感兴趣的看起，不学战法</a></h3>
             <p class="meta">回复数：2</p>
-            <p><strong>摘要：</strong>抱怨只有A股下跌，其他股市都在上涨。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>通过图表对比A股与外围市场走势</li><li>表达对A股“开倒车”的不满</li><li>有回复提及欧洲市场也不好</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47593626" target="_blank" class="post-link">写了套筛选框架，目前 50 星左右，第一次在大A小有所得。</a></h3>
-            <p class="meta">回复数：20</p>
-            <p><strong>摘要：</strong>用户分享自己编写的股市筛选框架并开源。</p>
+            <p><strong>摘要：</strong>用户开始系统学习股票投资知识，从感兴趣的理论看起。</p>
             <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
-            <ul><li>框架结合AI模型进行盘中分析</li><li>已开源至GitHub供他人使用</li><li>用户追求技术路径获取收益</li></ul>
+            <ul><li>用户决定从通识类基础理论开始学习，而非具体战法。</li><li>展示了学习书籍图片。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47621327" target="_blank" class="post-link">不知不觉就变成开超市了</a></h3>
-            <p class="meta">回复数：1</p>
-            <p><strong>摘要：</strong>用户持仓过多如开超市，盈亏各半。</p>
-            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>持仓数量多（8只）</li><li>盈亏比例（4红4绿）</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47621116" target="_blank" class="post-link">这么跌是不是又想把谁打爆仓吃尸体？</a></h3>
-            <p class="meta">回复数：5</p>
-            <p><strong>摘要：</strong>质疑市场下跌是为打爆某些仓位“吃尸体”。</p>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47629479" target="_blank" class="post-link">债市牛市即将来临，警惕股市风险</a></h3>
+            <p class="meta">回复数：18</p>
+            <p><strong>摘要：</strong>警告债市牛市即将来临，需警惕股市风险，引用观点视频。</p>
             <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>认为下跌有目的，针对特定资金</li><li>讨论补仓的风险和节奏</li><li>建议分批补仓并做T</li></ul>
+            <ul><li>引用雷曼兄弟总裁观点，认为当前债市抛售是绝佳买点（债市牛市）。</li><li>建议股市投资者控制仓位，避开科技股，关注消费必需品。</li><li>讨论美债牛市与中股、汇率的复杂关系。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47620757" target="_blank" class="post-link">我们暴跌，小纳红了？</a></h3>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47632238" target="_blank" class="post-link">转一个数据：[924行情两周年，上市公司股东净减持7600多亿，新增股票增发10000亿，解禁规模7000亿]</a></h3>
+            <p class="meta">回复数：19</p>
+            <p><strong>摘要：</strong>引用数据：A股近年股东巨额减持、增发和解禁，感叹市场“财富效应”在大股东。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>数据显示A股上市公司股东净减持和增发规模巨大。</li><li>用户讽刺“增加居民财产性收入”是通过减持实现的。</li><li>认为A股本质是“融资化债”，只有红利股有价值。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47624729" target="_blank" class="post-link">为什么美债收益率一直在涨 压不住了吗</a></h3>
+            <p class="meta">回复数：16</p>
+            <p><strong>摘要：</strong>询问美债收益率持续上涨、压不住的原因，探讨谁在抛售。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>美债收益率上涨因多方抛售：中国“长换短”、日本救汇率、欧洲应对危机。</li><li>资金流向收益率更高的AI企业债，减少对美债的购买。</li><li>认为是供需失衡，美债风险过高，收益吸引力不足。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47628719" target="_blank" class="post-link">科技大概率继续腰斩，大熊即将逼近。</a></h3>
             <p class="meta">回复数：20</p>
-            <p><strong>摘要：</strong>A股大跌而纳斯达克上涨，用户感到不解和痛苦。</p>
+            <p><strong>摘要：</strong>预言科技股将大幅下跌，大熊市即将来临。</p>
             <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>对比A股与美股走势，表达困惑</li><li>戏称“正规市场”与A股的区别</li><li>用户“道心破碎”</li></ul>
+            <ul><li>认为消费不振，科技股的“繁荣”可能是镜花水月。</li><li>用户指出科技替代人力岗位导致失业，但反驳这反而提升科技公司价值。</li><li>有人已空仓等待。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47616943" target="_blank" class="post-link">A股在3000多点玩了11年了，其实挺可怕的。。。</a></h3>
-            <p class="meta">回复数：11</p>
-            <p><strong>摘要：</strong>感叹A股在3000点徘徊11年，担忧其融资市本质。</p>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47624630" target="_blank" class="post-link">我们的市场机制特色 酝酿炒小炒差炒妖 真的挺莫名其妙</a></h3>
+            <p class="meta">回复数：19</p>
+            <p><strong>摘要：</strong>批评A股市场机制催生“炒小、炒差、炒妖”的投机风气，认为是特色弊端。</p>
             <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>股票数量翻倍但指数未涨</li><li>总市值增长靠新股，非投资回报</li><li>A股被定义为“融资市场”</li></ul>
+            <ul><li>A股T+1和涨跌停板制度，配合缺乏做空机制，助长情绪化投机。</li><li>市场缺乏主线时，资金只能炒作无业绩的“垃圾票”赚钱。</li><li>有用户反驳称机构票趋势行情同样会踩踏，本质都是投机。</li></ul>
         </div>
         <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47621094" target="_blank" class="post-link">这三天多吃点。星期一准备上路。</a></h3>
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47632424" target="_blank" class="post-link">题材要新，像平潭这种反抽大概率是坑。</a></h3>
+            <p class="meta">回复数：10</p>
+            <p><strong>摘要：</strong>提醒“平潭发展”这类老题材的反抽大概率是陷阱，应关注新题材。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>没有新故事支撑的老题材（如平潭发展）反抽容易套人。</li><li>对比历史案例（载人航天反抽），此类股票风险高。</li><li>有人反驳“祖国统一”是长期逻辑，不敢买反而可能继续涨。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47622670" target="_blank" class="post-link">康强电子真爱楼</a></h3>
             <p class="meta">回复数：7</p>
-            <p><strong>摘要：</strong>中秋假期前对市场（港股跳水）感到绝望。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>对港股与日经走势分化表示无语</li><li>港股流动性问题在加息周期凸显</li><li>用户对节后行情悲观</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47620197" target="_blank" class="post-link">不是，为什么除了小A，其他市场都那么不合群呢？</a></h3>
-            <p class="meta">回复数：14</p>
-            <p><strong>摘要：</strong>质疑为什么A股表现与全球其他主要市场背离。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>认为A股已独立进入熊市</li><li>A股休市期间外围上涨，被戏称“关门多涨”</li><li>讨论A股与其他市场的估值差异</li></ul>
-        </div>
-        <div class="card">
-            <h3><a href="https://bbs.nga.cn/read.php?tid=47618066" target="_blank" class="post-link">金枪鱼这20多万的散户何时能解套啊</a></h3>
-            <p class="meta">回复数：13</p>
-            <p><strong>摘要：</strong>讨论金枪鱼（可能指某公司）散户被套及操作策略。</p>
-            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
-            <ul><li>散户数量多，主力拉升困难</li><li>大股东减持配合机构清理散户</li><li>用户在做区间（180-220）差价解套</li></ul>
+            <p><strong>摘要：</strong>建立“康强电子”情感讨论楼，基于其名字和国庆节点进行炒作博弈。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>炒作逻辑基于名字寓意（人民安康、国泰富强）配合国庆节点。</li><li>认为属元件板块资金外溢补涨，盘子大可能不走连板。</li><li>有用户分享龙虎榜数据，显示资金已出现分歧。</li></ul>
         </div>
         <div class="card">
             <h3><a href="https://bbs.nga.cn/read.php?tid=47620853" target="_blank" class="post-link">[讨论] 为什么福建概念会升温那么快，有什么明确商贸新闻消息？</a></h3>
             <p class="meta">回复数：1</p>
-            <p><strong>摘要：</strong>询问福建概念股升温的原因。</p>
+            <p><strong>摘要：</strong>询问福建概念股快速升温的原因，是否有明确消息。</p>
             <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
-            <ul><li>探讨热点上涨的驱动因素</li><li>不确定是闽东还是平潭发展带动</li></ul>
+            <ul><li>疑惑福建板块热度突增的具体催化消息。</li><li>探究是闽东电力还是平潭发展带动的行情。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47624220" target="_blank" class="post-link">高盛称AI板块仍具吸引力，8000亿美元超大规模投资支撑亚洲硬件链</a></h3>
+            <p class="meta">回复数：12</p>
+            <p><strong>摘要：</strong>高盛报告称AI板块仍具吸引力，8000亿美元投资支撑亚洲硬件链。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>高盛认为AI股票估值具吸引力，超大规模资本开支将支撑亚洲硬件链。</li><li>用户质疑该报告不针对A股，A股科技股PE过高。</li><li>认为高盛是A股“最后的死多头”。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47623416" target="_blank" class="post-link">这个筹码峰看着吓人</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>展示某股“吓人”的筹码峰结构，引发关于技术分析有效性的讨论。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>用户展示筹码分布图，显示大量套牢盘，感到担忧。</li><li>其他用户认为筹码分布软件估算不准，参考意义有限。</li><li>指出在A股熊市中，大部分股票都是这种套牢结构。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47631032" target="_blank" class="post-link">赣能股份有XD了解嘛</a></h3>
+            <p class="meta">回复数：5</p>
+            <p><strong>摘要：</strong>询问对赣能股份的看法，何时可以抄底。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>询问何时可以抄底赣能股份。</li><li>建议等待其股价企稳走平。</li><li>认为周一可能有弱修复，但遇节前效应难成立。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47631367" target="_blank" class="post-link">[娱乐预测]凉微真爱楼！！</a></h3>
+            <p class="meta">回复数：6</p>
+            <p><strong>摘要：</strong>为“凉微”股票建立情感楼，用户分享其经常跌停、难以卖出的惨状。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>用户自称“永远效忠”，但持仓常快速跌停，需挂隔夜单卖。</li><li>其他用户建议该股票不适合他，推荐其他票。</li><li>反映了投资妖股或ST股的高风险。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47627824" target="_blank" class="post-link">ai这么大利好，开盘不得拉飞边子啊？</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>看到AI领域中美合作的利好消息，预测相关板块将大涨。</p>
+            <p><strong>情感：</strong><span class="sentiment negative">negative</span></p>
+            <ul><li>用户因AI利好消息而兴奋，预测开盘将大涨。</li><li>多数回复泼冷水，警告“小心主力趁利好出货”或“高开低走”。</li><li>认为利好可能被过度解读，且存在不确定性。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47605869" target="_blank" class="post-link">美股集思广益，也分享下自己的美股标的选择和操作</a></h3>
+            <p class="meta">回复数：20</p>
+            <p><strong>摘要：</strong>分享个人美股AI板块投资选择与持仓，进行集思广益交流。</p>
+            <p><strong>情感：</strong><span class="sentiment positive">positive</span></p>
+            <ul><li>看好AI软件（PLTR、CRWD）、硬件（NVDA、DELL）、生命科学（TEM）等方向。</li><li>认为美股宏观转好、Muse叙事推动风险偏好回归。</li><li>讨论具体标的走势、估值和仓位管理，如使用LEAP Call模拟杠杆。</li></ul>
+        </div>
+        <div class="card">
+            <h3><a href="https://bbs.nga.cn/read.php?tid=47630006" target="_blank" class="post-link">风电设备会有一波的机会么？</a></h3>
+            <p class="meta">回复数：14</p>
+            <p><strong>摘要：</strong>讨论风电设备板块是否会有上涨机会，观察到相关个股异动。</p>
+            <p><strong>情感：</strong><span class="sentiment mixed">mixed</span></p>
+            <ul><li>观察到风电设备股（如大金重工、吉鑫）有上涨迹象，与去年走势相似。</li><li>持有金风科技的用户亏损严重，认为其受“商业航天”标签拖累。</li><li>分析指出风电板块可能由零部件带动，但整机龙头（金风、明阳）未动，行情或难持续。</li></ul>
         </div></div></div>
 
         <div class="section">
@@ -1492,206 +1562,256 @@
                 <tbody>
                     
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47615945" target="_blank" class="post-link">牛肉这么贵，大A就没啥养牛的公司吗</a></td>
-            <td>日常骑士</td>
-            <td><strong>38</strong></td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47634820" target="_blank" class="post-link">今天日涨韩跌，A跟谁？</a></td>
+            <td>yclal</td>
+            <td><strong>8</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47622045" target="_blank" class="post-link">9月利润亏光了……该不该找自己的问题</a></td>
-            <td>长歌当哭沉影静壁</td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47625975" target="_blank" class="post-link">黄金宗第四季讨论交流</a></td>
+            <td>Tesoro1998</td>
+            <td><strong>43</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47634692" target="_blank" class="post-link">日韩看起来都又要加息了</a></td>
+            <td>Tyncero</td>
             <td><strong>18</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47622433" target="_blank" class="post-link">中国台湾股市创新高，年涨幅66.7，专家：中秋抱股赏月</a></td>
-            <td>朝阳区余文乐</td>
-            <td><strong>7</strong></td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47633489" target="_blank" class="post-link">亨通光电这官方抖音号绷不住了啊</a></td>
+            <td>重仓猛干</td>
+            <td><strong>17</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47622466" target="_blank" class="post-link">刘纪鹏:股民保持耐心，相信a股会重回4000点</a></td>
-            <td>朝阳区余文乐</td>
-            <td><strong>12</strong></td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47628123" target="_blank" class="post-link">200万吃股息 有什么推荐的马？</a></td>
+            <td>我真的傻逼</td>
+            <td><strong>73</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47622359" target="_blank" class="post-link">我chovy纳斯达克你给我回调好了啊</a></td>
-            <td>lightver</td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47624673" target="_blank" class="post-link">这美债收益率要吓死人啊</a></td>
+            <td>要早睡啊</td>
+            <td><strong>20</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47624800" target="_blank" class="post-link">家人们，股市如果再翻1倍准备提一辆豪车</a></td>
+            <td>无敌韭菜段小欣</td>
+            <td><strong>6</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47627556" target="_blank" class="post-link">不让乱炒了，大家小心点吧。</a></td>
+            <td>qabstar</td>
+            <td><strong>25</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47629376" target="_blank" class="post-link">想系统的看看股票方面的书，求推荐</a></td>
+            <td>树上的洞</td>
+            <td><strong>51</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47629313" target="_blank" class="post-link">伊朗央行行长：伊朗通胀已小幅回落，为过去15个月来首次</a></td>
+            <td>Tyncero</td>
+            <td><strong>33</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47626846" target="_blank" class="post-link">下一波牛市是炒机器人不</a></td>
+            <td>红黑树浇水员</td>
+            <td><strong>37</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47631099" target="_blank" class="post-link">减持增发这么容易的吗</a></td>
+            <td>天雷滚滚来boom</td>
+            <td><strong>18</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47630794" target="_blank" class="post-link">中秋没开盘，感觉身上有蚂蚁在爬</a></td>
+            <td>长歌当哭沉影静壁</td>
+            <td><strong>22</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47633338" target="_blank" class="post-link">油运大周期是真的吗</a></td>
+            <td>shsudwnsksi</td>
+            <td><strong>13</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47631689" target="_blank" class="post-link">大盘短期还能有一小波</a></td>
+            <td>大非皮皮</td>
+            <td><strong>13</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47633148" target="_blank" class="post-link">fx战士久留美 第一话先行版已出</a></td>
+            <td>abyss128</td>
+            <td><strong>57</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47630385" target="_blank" class="post-link">好好好一到大A快要开盘就给我推送这些是吧</a></td>
+            <td>luojia2006</td>
+            <td><strong>5</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47634013" target="_blank" class="post-link">《FX战士久留美》火热开播！非二次元炒股人的人生第一部动画或许就是它！</a></td>
+            <td>Amam2haruna</td>
+            <td><strong>13</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47625919" target="_blank" class="post-link">黄金宗没了？</a></td>
+            <td>luluerwefew</td>
             <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47630854" target="_blank" class="post-link">散户能买美债吗？5%的利息实在诱人啊。</a></td>
+            <td>qabstar</td>
+            <td><strong>43</strong></td>
         </tr>
         <tr>
             <td><a href="https://bbs.nga.cn/read.php?tid=47605135" target="_blank" class="post-link">开个楼记录一下我的A股复盘，千万账户努力过亿</a></td>
             <td>Rango102</td>
-            <td><strong>58</strong></td>
+            <td><strong>72</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47622230" target="_blank" class="post-link">先导基电算不算科技票里的妖王</a></td>
-            <td>幸运麻袋鸭</td>
-            <td><strong>4</strong></td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47627668" target="_blank" class="post-link">求解，朋友不上班没存款，和她爸一起用养老金炒股，感觉有点疯魔了</a></td>
+            <td>淡漠人生X</td>
+            <td><strong>40</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47622349" target="_blank" class="post-link">请教下各位复盘都用的什么模型，求推荐</a></td>
-            <td>keungy</td>
-            <td><strong>1</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47617501" target="_blank" class="post-link">纳指冲三万的夜晚，整个市场都在AI的膨胀里失重。</a></td>
-            <td>朝阳区余文乐</td>
-            <td><strong>10</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47605869" target="_blank" class="post-link">美股交流楼/真爱楼</a></td>
-            <td>tinyhuang123</td>
-            <td><strong>63</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47622425" target="_blank" class="post-link">朋友问我为什么说起大A总是会哭TT</a></td>
-            <td>Cat-king</td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47632757" target="_blank" class="post-link">优必选能入吗</a></td>
+            <td>裴翡</td>
             <td><strong>3</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47633228" target="_blank" class="post-link">现在该不该清仓？大家来聊聊</a></td>
+            <td>明天又是新的一天两天</td>
+            <td><strong>15</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47628537" target="_blank" class="post-link">真正公布的实质性利好就这些？</a></td>
+            <td>8muses</td>
+            <td><strong>27</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47631939" target="_blank" class="post-link">下周三天短线可能炒的热点之一…</a></td>
+            <td>我爱一条柴。强运！</td>
+            <td><strong>14</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47630714" target="_blank" class="post-link">关于节后三天的走势 我准备了两套说辞。</a></td>
+            <td>tigrass001</td>
+            <td><strong>24</strong></td>
         </tr>
         <tr>
             <td><a href="https://bbs.nga.cn/read.php?tid=47622299" target="_blank" class="post-link">大陆的muse怎么还没出现啊</a></td>
             <td>Tyncero</td>
-            <td><strong>5</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47622033" target="_blank" class="post-link">兄弟们太想赢了怎么办？</a></td>
-            <td>刘子将军</td>
-            <td><strong>14</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47621187" target="_blank" class="post-link">港股今天为什么大跌？</a></td>
-            <td>llm2190</td>
-            <td><strong>36</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47588110" target="_blank" class="post-link">[工具分享] 闲着搓了个 A 股本地研究工具</a></td>
-            <td>libertyalone</td>
-            <td><strong>55</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47621440" target="_blank" class="post-link">没南向撑着今天港股原型毕露了</a></td>
-            <td>黑锋之锤锤</td>
-            <td><strong>29</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47620377" target="_blank" class="post-link">[图一乐] 内资究竟在怕什么？</a></td>
-            <td>天野透</td>
-            <td><strong>23</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47617219" target="_blank" class="post-link">尾盘梭哈有色，惴惴不安ing</a></td>
-            <td></td>
-            <td><strong>40</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47595510" target="_blank" class="post-link">不知道买什么就买这个</a></td>
-            <td>是牧濑红莉栖呦</td>
-            <td><strong>66</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47619388" target="_blank" class="post-link">大家觉得缩量的终局是往上还是往下？</a></td>
-            <td>请求观测打击</td>
-            <td><strong>42</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47619873" target="_blank" class="post-link">又发生什么事了？？油债疯狂飙</a></td>
-            <td>keungy</td>
-            <td><strong>14</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47621204" target="_blank" class="post-link">下周一双创有福了</a></td>
-            <td>栗子1998</td>
-            <td><strong>14</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47618237" target="_blank" class="post-link">亨通光电的定增也来了</a></td>
-            <td>261251a</td>
-            <td><strong>55</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47610363" target="_blank" class="post-link">房地产放消息出来要救</a></td>
-            <td>夜风轻轻吟</td>
-            <td><strong>67</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47618443" target="_blank" class="post-link">生益科技给点动力啊</a></td>
-            <td>sb111000sss</td>
-            <td><strong>17</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47621810" target="_blank" class="post-link">这个指数是什么意思</a></td>
-            <td>狡猾的建华妹妹</td>
-            <td><strong>3</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47620993" target="_blank" class="post-link">胜宏科技 今年归母能做到多少</a></td>
-            <td>sowessx</td>
-            <td><strong>9</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47619485" target="_blank" class="post-link">说个暴论 ai硬周一如果起不来 大资金的代餐很可能是药</a></td>
-            <td>SHyegev587</td>
-            <td><strong>4</strong></td>
-        </tr>
-        <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47620917" target="_blank" class="post-link">港股中秋也开市？</a></td>
-            <td>心坠星</td>
             <td><strong>25</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47620899" target="_blank" class="post-link">绷不住了，只有小A开倒车，其他股市都在往上突突</a></td>
-            <td>投资就是最大的消费</td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47624594" target="_blank" class="post-link">去尝试外汇交易了</a></td>
+            <td>炒外汇的小女孩</td>
+            <td><strong>32</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47632939" target="_blank" class="post-link">中信证券：维持年内A股震荡市的判断 三季报前后是年内最后一波进攻窗口</a></td>
+            <td>Tyncero</td>
             <td><strong>22</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47593626" target="_blank" class="post-link">写了套筛选框架，破 200星啦，第一次在大A小有所得。已更新工作台融合了工具，已更新。</a></td>
-            <td>凌乱的树袋熊</td>
-            <td><strong>312</strong></td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47633747" target="_blank" class="post-link">分享本书</a></td>
+            <td>gggggg6g</td>
+            <td><strong>1</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47621327" target="_blank" class="post-link">不知不觉就变成开超市了</a></td>
-            <td>淡然（永恒）</td>
-            <td><strong>0</strong></td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47619486" target="_blank" class="post-link">[展望未来] 2030年的普通一天</a></td>
+            <td>yangzq50</td>
+            <td><strong>25</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47621116" target="_blank" class="post-link">这么跌是不是又想把谁打爆仓吃尸体？</a></td>
-            <td>开心炒股</td>
-            <td><strong>4</strong></td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47627285" target="_blank" class="post-link">你们真的相信存储缺货会延续到后年吗？</a></td>
+            <td>暴躁杀猪刀</td>
+            <td><strong>64</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47620757" target="_blank" class="post-link">我们暴跌，小纳红了？</a></td>
-            <td>Arthdeb</td>
-            <td><strong>24</strong></td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47633480" target="_blank" class="post-link">开始学习了老哥们，从感兴趣的看起，不学战法</a></td>
+            <td>扛麻袋的噜噜</td>
+            <td><strong>1</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47616943" target="_blank" class="post-link">A股在3000多点玩了11年了，其实挺可怕的。。。</a></td>
-            <td>清风拂过的气息</td>
-            <td><strong>55</strong></td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47629479" target="_blank" class="post-link">债市牛市即将来临，警惕股市风险</a></td>
+            <td>dylanjian</td>
+            <td><strong>17</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47621094" target="_blank" class="post-link">这三天多吃点。星期一准备上路。</a></td>
-            <td>zzw330114115</td>
-            <td><strong>7</strong></td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47632238" target="_blank" class="post-link">转一个数据：[924行情两周年，上市公司股东净减持7600多亿，新增股票增发10000亿，解禁规模7000亿]</a></td>
+            <td>随便看额</td>
+            <td><strong>21</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47620197" target="_blank" class="post-link">不是，为什么除了小A，其他市场都那么不合群呢？</a></td>
-            <td>投资就是最大的消费</td>
-            <td><strong>18</strong></td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47624729" target="_blank" class="post-link">为什么美债收益率一直在涨 压不住了吗</a></td>
+            <td>shsudwnsksi</td>
+            <td><strong>15</strong></td>
         </tr>
         <tr>
-            <td><a href="https://bbs.nga.cn/read.php?tid=47618066" target="_blank" class="post-link">金枪鱼这20多万的散户何时能解套啊</a></td>
-            <td>橙皮红豆沙</td>
-            <td><strong>13</strong></td>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47628719" target="_blank" class="post-link">科技大概率继续腰斩，大熊即将逼近。</a></td>
+            <td>qabstar</td>
+            <td><strong>21</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47624630" target="_blank" class="post-link">我们的市场机制特色 酝酿炒小炒差炒妖 真的挺莫名其妙</a></td>
+            <td>beam！</td>
+            <td><strong>65</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47632424" target="_blank" class="post-link">题材要新，像平潭这种反抽大概率是坑。</a></td>
+            <td>qabstar</td>
+            <td><strong>9</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47622670" target="_blank" class="post-link">康强电子真爱楼</a></td>
+            <td>秋日鸣奏</td>
+            <td><strong>6</strong></td>
         </tr>
         <tr>
             <td><a href="https://bbs.nga.cn/read.php?tid=47620853" target="_blank" class="post-link">[讨论] 为什么福建概念会升温那么快，有什么明确商贸新闻消息？</a></td>
             <td>pcpyppz77931</td>
-            <td><strong>1</strong></td>
+            <td><strong>9</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47624220" target="_blank" class="post-link">高盛称AI板块仍具吸引力，8000亿美元超大规模投资支撑亚洲硬件链</a></td>
+            <td>朝阳区余文乐</td>
+            <td><strong>11</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47623416" target="_blank" class="post-link">这个筹码峰看着吓人</a></td>
+            <td>多多和豆豆</td>
+            <td><strong>23</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47631032" target="_blank" class="post-link">赣能股份有XD了解嘛</a></td>
+            <td>RichardWh1te</td>
+            <td><strong>4</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47631367" target="_blank" class="post-link">[娱乐预测]凉微真爱楼！！</a></td>
+            <td>ST华夏幸福股东</td>
+            <td><strong>5</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47627824" target="_blank" class="post-link">ai这么大利好，开盘不得拉飞边子啊？</a></td>
+            <td>刘子将军</td>
+            <td><strong>25</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47605869" target="_blank" class="post-link">美股交流楼/真爱楼</a></td>
+            <td>tinyhuang123</td>
+            <td><strong>92</strong></td>
+        </tr>
+        <tr>
+            <td><a href="https://bbs.nga.cn/read.php?tid=47630006" target="_blank" class="post-link">风电设备会有一波的机会么？</a></td>
+            <td>mickir</td>
+            <td><strong>13</strong></td>
         </tr>
                 </tbody>
             </table>
         </div>
 
         <footer>
-            NGA大时代监控自动生成 | 2026-09-25 14:57
+            NGA大时代监控自动生成 | 2026-09-28 08:54
         </footer>
     </div>
 </body>
