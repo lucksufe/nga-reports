@@ -1,0 +1,331 @@
+[
+  {
+    "index": 1,
+    "summary": "用户帮朋友开期货账户交易玉米期货，亏损超出预期，朋友给辛苦费后自己仍搭钱。",
+    "sentiment": "negative",
+    "key_opinions": ["期货当天平仓手续费高", "亏损比预期多", "朋友给的辛苦费不够覆盖亏损"],
+    "mentioned_stocks": ["玉米"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论A股跟随韩国股市涨跌，抱怨跟跌不跟涨，市场表现差。",
+    "sentiment": "negative",
+    "key_opinions": ["A股受韩国影响", "跟跌不跟涨", "羡慕韩国股市表现"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "以讽刺语气警告美日韩市场恶意上涨，强调A股稳中向好。",
+    "sentiment": "mixed",
+    "key_opinions": ["警告外部市场恶意上涨", "A股稳中向好", "严肃砸盘阻止泡沫"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论A股3000点长期停滞、慢牛缺失、庄家操纵及市场赌博性质。",
+    "sentiment": "negative",
+    "key_opinions": ["慢牛缺失，暴涨后阴跌", "庄家拿着几万亿做T", "市场赌博氛围浓，不看基本面"],
+    "mentioned_stocks": ["亨通光电", "中证红利", "科创100", "纳斯达克100"]
+  },
+  {
+    "index": 5,
+    "summary": "抱怨市场下跌套牢散户，与韩国市场联动，最后杀跌。",
+    "sentiment": "negative",
+    "key_opinions": ["被套牢，上当了", "跟跌韩国市场", "市场操纵，玩弄散户"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论市场无聊、波动小、无交易量，机构做T，散户躺平。",
+    "sentiment": "negative",
+    "key_opinions": ["盘面无聊，展现韧性", "狗队做T", "散户深套躺平，市场无活人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "批评创业板指数（失业板）表现差，宁德时代和中际旭创无交易量。",
+    "sentiment": "negative",
+    "key_opinions": ["宁王和中际旭创拉胯", "失业板称呼被和谐", "指数拉完了"],
+    "mentioned_stocks": ["宁王（宁德时代）", "中际旭创"]
+  },
+  {
+    "index": 8,
+    "summary": "抱怨市场又砸盘，量化基金卖出，出金压力大，节前效应。",
+    "sentiment": "negative",
+    "key_opinions": ["沪深300易方达砸了3600万", "全是量化看外围", "出金恐慌，博弈抄底"],
+    "mentioned_stocks": ["沪深300易方达"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论市场缩量严重，无承接盘，成交量萎缩，政策降温影响。",
+    "sentiment": "negative",
+    "key_opinions": ["成交量萎缩到地量", "市场死气沉沉", "喜欢降温现在真降了"],
+    "mentioned_stocks": ["利欧股份"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论恒生科技指数创年内新低，可能是黄金坑或深渊，受外围影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["指数破位，下面深渊", "可能是黄金坑", "港股表现看外围消息"],
+    "mentioned_stocks": ["恒生科技指数", "港股互联通"]
+  },
+  {
+    "index": 11,
+    "summary": "抱怨中国巨石表现最差，大股东低位减持恶劣。",
+    "sentiment": "negative",
+    "key_opinions": ["涨得最少跌得最多", "大股东低位减持恶劣", "纯涨价逻辑萎靡"],
+    "mentioned_stocks": ["中国巨石", "建滔"]
+  },
+  {
+    "index": 12,
+    "summary": "推荐徐工股价7元，但持续下跌，工程机械板块被拉黑。",
+    "sentiment": "negative",
+    "key_opinions": ["好价格加低关注度", "十连跌太牛逼", "工程机械板块拉黑"],
+    "mentioned_stocks": ["徐工", "中联重科", "三一重工", "柳工", "山推股份"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论大金重工二次发车，放量突破前高，推荐买入。",
+    "sentiment": "positive",
+    "key_opinions": ["放量突破前高，冲啊", "感谢楼主发车", "涨停预期"],
+    "mentioned_stocks": ["大金重工", "欣旺达"]
+  },
+  {
+    "index": 14,
+    "summary": "用户年初建仓黄金但亏损，讨论黄金投资策略和交易成本。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金被套，割肉又捡回", "长期持有五年到十年", "实物金条建议"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论黄金板块突然拉升，可能预判抄底或受外部因素影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金板块预判有水平", "节前抢筹", "油价和海事消息影响"],
+    "mentioned_stocks": ["黄金板块", "紫金矿业"]
+  },
+  {
+    "index": 16,
+    "summary": "提醒购买逆回购，可计息8天。",
+    "sentiment": "positive",
+    "key_opinions": ["算8天利息", "逆回购理财"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "用户四五天亏损20多个点，从亏25%到接近腰斩，抄底失败。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重到腰斩", "抄底亨通失败", "运气太差"],
+    "mentioned_stocks": ["亨通光电"]
+  },
+  {
+    "index": 18,
+    "summary": "用户记录股市复盘，目标从千万到亿，分享市场看法。",
+    "sentiment": "positive",
+    "key_opinions": ["记录复盘和市场看法", "分享持仓和板块", "目标过亿努力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论港飞股票基本面和筹码结构好，但从底部反弹多难买入。",
+    "sentiment": "mixed",
+    "key_opinions": ["基本面和筹码好", "底部反弹太多下不去手", "今天又涨9个点"],
+    "mentioned_stocks": ["港飞"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论基本面重要性，但投机氛围重，股价炒预期而非当下。",
+    "sentiment": "mixed",
+    "key_opinions": ["低位看基本面，高位看K线", "投机氛围重，基本面是救星", "股价炒预期未来"],
+    "mentioned_stocks": ["吉华", "H酸"]
+  },
+  {
+    "index": 21,
+    "summary": "用户想加仓中大哥（可能中际旭创），但抄底亏损，建议节后看。",
+    "sentiment": "negative",
+    "key_opinions": ["抄底中大哥亏损", "建议节后再看", "买港股别买A股"],
+    "mentioned_stocks": ["中大哥（中际旭创）", "新易盛"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论本月亏损12.5%，化工股被砸，锂矿大跌。",
+    "sentiment": "negative",
+    "key_opinions": ["化工股被砸心态破碎", "抄底汉钟王吃跌停", "锂矿大跌"],
+    "mentioned_stocks": ["化工股", "汉钟王", "锂矿"]
+  },
+  {
+    "index": 23,
+    "summary": "用高压线比喻股票表现，吐槽各股票如生益、超声等。",
+    "sentiment": "negative",
+    "key_opinions": ["股票像高压线电人", "生益蛆了一个多月", "业绩确认最高"],
+    "mentioned_stocks": ["金安", "生益", "超声", "华正", "建涛"]
+  },
+  {
+    "index": 24,
+    "summary": "猜测大资金被关机，机构计划性卖出，窗口谈话可能。",
+    "sentiment": "negative",
+    "key_opinions": ["机构计划性卖出", "可能被窗口谈话", "不关机砸更狠"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "讨论老登股（蓝筹股）表现差，科技吸血，提供选股参考。",
+    "sentiment": "negative",
+    "key_opinions": ["老登股没涨科技吸血", "老登股建仓黄金点", "推荐招商公路等股票"],
+    "mentioned_stocks": ["招商公路", "中国核电", "平安银行", "宝丰", "万华"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论小时代板块可能关闭，用户担忧但幽默应对。",
+    "sentiment": "mixed",
+    "key_opinions": ["板块关闭风险", "转移论坛讨论", "镇妖塔炸了后果"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "盘面无聊，用户全仓做逆回购。",
+    "sentiment": "mixed",
+    "key_opinions": ["盘面无聊", "逆回购计息8天", "资金可用可取"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "用户抄底失败被套，讨论如何管住抄底的手。",
+    "sentiment": "negative",
+    "key_opinions": ["抄底被套痛", "管不住手难", "逆回购或满仓控制"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "比较港股和A股，认为港股更危险，A股相对保护散户。",
+    "sentiment": "negative",
+    "key_opinions": ["港股波动大、做空难", "A股对散户保护好", "都是粪坑五十步笑百步"],
+    "mentioned_stocks": ["智谱"]
+  },
+  {
+    "index": 30,
+    "summary": "大盘4000+上涨但缩量，散户被套，资金轮动砸盘。",
+    "sentiment": "negative",
+    "key_opinions": ["4000+上涨但缩量", "散户被套装死", "资金轮动砸白马买微盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论节前低吸机会，但缩量冰点，谨慎博弈反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["节前后一天基本红盘", "缩量冰点左侧博弈", "节前六连跌难看"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "推荐下周短线热点，时间节点符合妖股逻辑，涉及体育相关股票。",
+    "sentiment": "positive",
+    "key_opinions": ["时间节点符合妖股逻辑", "推荐共创草皮和舒华", "利好体育板块"],
+    "mentioned_stocks": ["共创草皮", "舒华体育", "金陵体育", "红棉股份"]
+  },
+  {
+    "index": 33,
+    "summary": "观察量化拆单吸筹现象，讨论冰山单和主力埋伏。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化拆单固定间隔买单", "冰山单吸筹", "主力偷偷埋伏"],
+    "mentioned_stocks": ["688155"]
+  },
+  {
+    "index": 34,
+    "summary": "担心今天不跌明天补跌，但判断今天是抄底日。",
+    "sentiment": "negative",
+    "key_opinions": ["今天不跌明天补跌变态", "今天是抄底日", "博弈预期不低"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论创业板成交量回地量，量化影响成交量统计。",
+    "sentiment": "mixed",
+    "key_opinions": ["成交量回地量", "量化对倒影响", "实时成交额对比"],
+    "mentioned_stocks": ["创业板指数"]
+  },
+  {
+    "index": 36,
+    "summary": "大盘比上午涨了20点，但用户钱没涨，愤怒。",
+    "sentiment": "negative",
+    "key_opinions": ["大盘涨但钱没涨", "指数涨个股不涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "讨论十年期美债可能做顶，但布油上涨，谨慎乐观。",
+    "sentiment": "mixed",
+    "key_opinions": ["美债做顶部结构", "布油向上冲锋", "金融学魔法强大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "缩量3000亿，怀疑变盘向上，但短期情绪不改变长期方向。",
+    "sentiment": "negative",
+    "key_opinions": ["缩量3000亿", "变盘向上可能", "别骗自己了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "号召全力做多，认为市场会V，底部到了，轮动到电池。",
+    "sentiment": "positive",
+    "key_opinions": ["全力做多", "会V回来", "轮动到电池板块"],
+    "mentioned_stocks": ["电池板块"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论房地产涨价，但散户不信，不买房。",
+    "sentiment": "negative",
+    "key_opinions": ["散户少才拉房地产", "不是刚需不买房", "股票归股票房子归房子"],
+    "mentioned_stocks": ["房地产板块"]
+  },
+  {
+    "index": 41,
+    "summary": "反讽大盘4000+上涨，但个股绿，缩量严重。",
+    "sentiment": "mixed",
+    "key_opinions": ["4000+上涨但持仓全绿", "缩量到13000亿", "经典报喜不报忧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "讨论炒ST股悟道，认为ST股投资属性好，盈亏比高。",
+    "sentiment": "positive",
+    "key_opinions": ["ST股做多上线无限", "分散投资博摘帽", "投资属性接近一级市场"],
+    "mentioned_stocks": ["ST立方", "ST东方", "ST松发", "ST世纪"]
+  },
+  {
+    "index": 43,
+    "summary": "旗帜鲜明看好微盘股，策略增加微盘暴露，科技成交量下降。",
+    "sentiment": "positive",
+    "key_opinions": ["看好微盘股", "科技成交量大幅下降", "量化策略回归超配小微盘"],
+    "mentioned_stocks": ["微盘股", "港股红利", "科技股"]
+  },
+  {
+    "index": 44,
+    "summary": "玩外汇模拟器感到恐怖，杠杆爆仓体验像上天台。",
+    "sentiment": "negative",
+    "key_opinions": ["每次爆仓像上天台死过", "100倍杠杆最终归零", "杠杆加期货不适合普通人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "讨论成交量缩量，量化影响大，市场活人少。",
+    "sentiment": "negative",
+    "key_opinions": ["成交量缩没了", "量化少说1万亿", "没有活人了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "抱怨银行股又拉冒烟，成交太高。",
+    "sentiment": "negative",
+    "key_opinions": ["银行拉冒烟", "卖早了", "5000亿成交才健康"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 47,
+    "summary": "讨论外汇动画和模拟游戏，警示杠杆风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["外汇模拟游戏体验", "杠杆爆仓恐怖", "动画题材特殊"],
+    "mentioned_stocks": []
+  }
+]

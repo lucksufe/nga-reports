@@ -1,0 +1,85 @@
+[
+  {
+    "index": 1,
+    "summary": "用户因期货交易亏损，涉及玉米期货和手续费问题。",
+    "sentiment": "negative",
+    "key_opinions": ["期货亏损可能因手续费高", "用户自认亏损小但实际大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "批评A股跟随韩国股市下跌，独立性差，跟跌不跟涨。",
+    "sentiment": "negative",
+    "key_opinions": ["A股跟跌不跟涨", "韩国股市点数低但A股更差"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讽刺美日韩股市恶意上涨，警告A股会采取措施保护散户。",
+    "sentiment": "mixed",
+    "key_opinions": ["美日韩市场强弩之末", "A股保护散户防止泡沫"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论A股问题，如点数长期停滞、缺乏慢牛和耐心资本。",
+    "sentiment": "negative",
+    "key_opinions": ["A股长期在3000点徘徊", "市场缺乏持续性和慢牛", "上市公司抽血市场流动性"],
+    "mentioned_stocks": ["亨通光电"]
+  },
+  {
+    "index": 5,
+    "summary": "股市下跌讨论，指A股尾盘跳水，散户被套牢。",
+    "sentiment": "negative",
+    "key_opinions": ["股市下跌可能因外部影响", "散户被套牢"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "股市低迷，缩量交易，市场缺乏活力，机构做T。",
+    "sentiment": "negative",
+    "key_opinions": ["市场缩量，无人交易", "机构在做T操作"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "批评创业板指数表现差，宁德时代和中际旭创无交易量。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板指数表现差", "宁德时代和中际旭创无交易量"],
+    "mentioned_stocks": ["宁德时代", "中际旭创"]
+  },
+  {
+    "index": 8,
+    "summary": "股市砸盘，讨论量化交易和指数下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["砸盘可能因量化交易", "沪深300被砸"],
+    "mentioned_stocks": ["沪深300", "易方达"]
+  },
+  {
+    "index": 9,
+    "summary": "市场成交量萎缩，缺乏买盘，历史成交量对比。",
+    "sentiment": "negative",
+    "key_opinions": ["成交量缩至极低水平", "市场无人承接"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "恒生科技指数创新低，前景不明，有人看跌或看机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["恒生科技指数破位下跌", "可能是黄金坑或深渊"],
+    "mentioned_stocks": ["恒生科技指数"]
+  },
+  {
+    "index": 11,
+    "summary": "批评中国巨石股票表现差和股东低位减持行为。",
+    "sentiment": "negative",
+    "key_opinions": ["中国巨石涨得少跌得多", "大股东低位减持恶劣"],
+    "mentioned_stocks": ["中国巨石"]
+  },
+  {
+    "index": 12,
+    "summary": "推荐徐工股票但股价持续下跌，工程机械板块表现差。",
+    "sentiment": "negative",
+    "key_opinions": ["徐工股价低迷", "工程机械板块表现差"],
+    "mentioned_stocks": ["徐工", "中联重科", "三一", "柳工", "山推股份"]
+  },
