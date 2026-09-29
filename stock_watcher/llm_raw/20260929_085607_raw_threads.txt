@@ -1,0 +1,328 @@
+[
+  {
+    "index": 1,
+    "summary": "比较A股和纳指，抱怨A股像后娘养的，纳指像亲妈养的，讨论回购和操作差异。",
+    "sentiment": "negative",
+    "key_opinions": ["A股和纳指区别大，A股被轻视。", "回购力度不同，A股回购弱。", "建议做好止盈止损。"],
+    "mentioned_stocks": ["A股", "纳指"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论汪汪资金量大做T无敌，批评A股市场一家独大、流动性不足。",
+    "sentiment": "negative",
+    "key_opinions": ["资金量大但全球市场都有，A股不同。", "A股一家独大导致不公平。", "流动性不足，资金不玩。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "CPO和光纤科技股类似新能源牛市结束，主力获利了结，散户接盘。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股股东数增长，预期不行。", "主力离场，散户抄底被套。", "科技股像光伏新能源。"],
+    "mentioned_stocks": ["CPO", "光纤", "科技股"]
+  },
+  {
+    "index": 4,
+    "summary": "纳斯达克绝地反击，开多单等待盈利，讨论纳指高位回调。",
+    "sentiment": "positive",
+    "key_opinions": ["纳斯达克可能绝地反击。", "开多单等待收米。", "纳指历史高位回调。"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论《FX战士久留美酱》动画，涉及外汇交易和模拟游戏。",
+    "sentiment": "mixed",
+    "key_opinions": ["动画题材特殊，涉及外汇。", "有模拟炒外汇小游戏。", "外汇杠杆高风险大。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "A股还剩两天，讨论是否跌破3800点，预测护盘可能。",
+    "sentiment": "negative",
+    "key_opinions": ["低开可能跌破3800。", "狗队可能在3740护盘。", "为面子可能收红。"],
+    "mentioned_stocks": ["A股", "上证指数"]
+  },
+  {
+    "index": 7,
+    "summary": "创业板大跌，无法接受指数连续暴跌，抱怨市场。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板连续大跌。", "无法接受指数波动大。", "畜生市场是这样。"],
+    "mentioned_stocks": ["创业板", "宁德时代"]
+  },
+  {
+    "index": 8,
+    "summary": "个人亏损经历，一年多亏22点，分享牛市亏钱模式。",
+    "sentiment": "negative",
+    "key_opinions": ["本金增加后亏损惨重。", "牛市散户亏大钱模式。", "回本需长时间。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论明天A股走势预测，各种猜测如低开高走或低开低走。",
+    "sentiment": "mixed",
+    "key_opinions": ["低开高走或低开低走猜测。", "涨跌二象性。", "测试上证前低。"],
+    "mentioned_stocks": ["A股", "上证"]
+  },
+  {
+    "index": 10,
+    "summary": "车企的钱被华为赚走？讨论自研智驾和供应商竞争。",
+    "sentiment": "mixed",
+    "key_opinions": ["自研避免卡脖子。", "智驾系统竞争激烈。", "车企价格战。"],
+    "mentioned_stocks": ["华为", "宁德时代", "赛力斯", "比亚迪"]
+  },
+  {
+    "index": 11,
+    "summary": "公司高位增发低位回购，粉丝维护，批评公司行为。",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达高位回购，对比某些公司。", "公司不自信股价。", "回购注销才有效。"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 12,
+    "summary": "黄金宗第四季讨论，黄金走势震荡，关注支撑位。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金在4250-4300间震荡。", "看4250是否铁底。", "中期选举可能有影响。"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 13,
+    "summary": "根据反人性定理，明天科技股可能反弹，但需杀血筹。",
+    "sentiment": "mixed",
+    "key_opinions": ["明天可能反弹。", "杀血筹后可能拉升。", "说出来就不灵。"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 14,
+    "summary": "明天大金融红利会护盘吗？讨论护盘效果和银行拉指数。",
+    "sentiment": "negative",
+    "key_opinions": ["银行可能拉指数但无意义。", "护盘效果差。", "不砸就好。"],
+    "mentioned_stocks": ["金融", "红利股", "银行", "证券"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论黄金跌到700的可能性，央行托底和宏观因素。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金可能跌到700，但央行会托。", "取决于中东战事。", "和算命类似。"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 16,
+    "summary": "模拟盘记录跟着AI豆包操作，讨论割肉果断和AI效果。",
+    "sentiment": "mixed",
+    "key_opinions": ["用AI豆包筛选股票。", "豆包割肉果断。", "可能不如机构AI。"],
+    "mentioned_stocks": ["豆包"]
+  },
+  {
+    "index": 17,
+    "summary": "黄仁勋会晤三星SK掌门人，商讨AI芯片合作，调侃国内会议。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI芯片合作。", "联想国内世界人工智能大会。", "调侃非洲AI。"],
+    "mentioned_stocks": ["英伟达", "三星", "SK"]
+  },
+  {
+    "index": 18,
+    "summary": "无实质内容，只有数字回复。",
+    "sentiment": "neutral",
+    "key_opinions": [],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "证券板块是最大的汉奸，批评保荐垃圾上市和砸盘行为。",
+    "sentiment": "negative",
+    "key_opinions": ["证券公司保荐垃圾上市。", "砸盘权重第一。", "带头下跌。"],
+    "mentioned_stocks": ["证券板块"]
+  },
+  {
+    "index": 20,
+    "summary": "美股开始全时段交易？讨论盘后交易和关联资产。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股盘后交易。", "23小时交易未开。", "看其他资产关联。"],
+    "mentioned_stocks": ["美股"]
+  },
+  {
+    "index": 21,
+    "summary": "特朗普来救我们了？怀疑类似说法，讨论油价跳水影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["类似说法多次出现。", "油价跳水预示大A。", "剧情循环。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "暗示什么，图片相关，可能指向中信证券。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能暗示中信证券。", "前往zxzq。"],
+    "mentioned_stocks": ["中信证券"]
+  },
+  {
+    "index": 23,
+    "summary": "电力板块怎么看，抱怨大唐、陕西能源下跌，华电国际较好。",
+    "sentiment": "negative",
+    "key_opinions": ["大唐家暴、陕西能源磨人。", "华电国际温暖。", "等中报分红。"],
+    "mentioned_stocks": ["大唐", "陕西能源", "华电国际", "华能"]
+  },
+  {
+    "index": 24,
+    "summary": "设想2035年达到中等发达国家水平，市场可能回报社会。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股融资市场变回报市场。", "破10000点可能。", "质疑发展成果。"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 25,
+    "summary": "东山精密明天再跌能抄底吗？讨论科技超跌反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技超跌反弹东山常被捞。", "科技已死透。", "可以搏但及时跑。"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 26,
+    "summary": "美国和伊朗互相封锁，霍尔木兹海峡段子。",
+    "sentiment": "mixed",
+    "key_opinions": ["霍尔木兹海峡封路导致饥饿。", "段子形式。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "全球基金结束低配中国股票，讽刺被套和大股东减持。",
+    "sentiment": "negative",
+    "key_opinions": ["全球基金被套。", "老乡别跑。", "大股东减持。"],
+    "mentioned_stocks": ["中国股票"]
+  },
+  {
+    "index": 28,
+    "summary": "开楼记录A股复盘，千万账户目标过亿，积极分享市场看法。",
+    "sentiment": "positive",
+    "key_opinions": ["记录市场理解。", "聊指数板块。", "目标过亿。"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 29,
+    "summary": "要旅游也出国旅游，表达抵制国货和消费情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["国庆出国旅游消费。", "抵制国货。", "股民变罕见。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "人在588710铁盒，讨论明天风险，美股油债双杀影响。",
+    "sentiment": "negative",
+    "key_opinions": ["美股油债双杀。", "铁盒ETF放量破位。", "可能补跌。"],
+    "mentioned_stocks": ["铁盒ETF"]
+  },
+  {
+    "index": 31,
+    "summary": "大晚上别为明天担心，但讨论可能补刀或情绪反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["绝望时A股可能站出来。", "可能补刀。", "情绪到位能弹。"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 32,
+    "summary": "9月股灾，哪些票扛得住，比较个股表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["海皇扛得住。", "其他股票表现差。", "举例各种股票。"],
+    "mentioned_stocks": ["海皇", "美的", "比亚迪", "山东黄金", "紫金", "安迪苏", "万华"]
+  },
+  {
+    "index": 33,
+    "summary": "小A跟了热点，狗熊哆嗦毛，批评A股跟跌不跟涨。",
+    "sentiment": "negative",
+    "key_opinions": ["A股跟跌不跟涨。", "内资流转。", "脱钩新闻热点。"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 34,
+    "summary": "晚上看牢纳，看一次笑一次，对比纳指跌了能拉上来。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指跌了能拉上来。", "没有对比没有伤害。"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 35,
+    "summary": "债市牛市即将来临，警惕股市风险，讨论美债收益率。",
+    "sentiment": "mixed",
+    "key_opinions": ["美债收益率冲5.1%。", "债市抛售是买点？", "美债牛≠中国债牛。"],
+    "mentioned_stocks": ["美债", "A股"]
+  },
+  {
+    "index": 36,
+    "summary": "英伟达越涨市盈率越低，当成周期股，讨论市盈率与顶点。",
+    "sentiment": "mixed",
+    "key_opinions": ["市盈率低可能是历史大顶。", "英伟达是周期股。", "对比苹果估值。"],
+    "mentioned_stocks": ["英伟达", "苹果"]
+  },
+  {
+    "index": 37,
+    "summary": "自己种的韭菜自己割，讽刺韭菜被割。",
+    "sentiment": "negative",
+    "key_opinions": ["图片暗示。", "韭菜被割。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "感觉没什么流动性危机，讨论港股、美股流动性和反应。",
+    "sentiment": "mixed",
+    "key_opinions": ["恒指未受影响。", "美股虹吸流动性。", "港股反应滞后。"],
+    "mentioned_stocks": ["恒指", "港股", "美股", "腾讯"]
+  },
+  {
+    "index": 39,
+    "summary": "8月工业企业利润增速降至最低，负面数据。",
+    "sentiment": "negative",
+    "key_opinions": ["利润增速下降。", "伊利不跌疑问。", "蒸蒸日上反讽。"],
+    "mentioned_stocks": ["伊利"]
+  },
+  {
+    "index": 40,
+    "summary": "国庆期间美股鬼故事多，担忧收假开盘大跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["收假开盘可能大跌。", "A股能跌到哪里。", "领导层不在意。"],
+    "mentioned_stocks": ["A股", "美股"]
+  },
+  {
+    "index": 41,
+    "summary": "明天要不要跑路，亏损后恐慌，讨论跑路或坚守。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损后想跑。", "建议跑路或坚守。", "可能卖在最低点。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "30年美债收益率奔6，担忧美国借债能力和美债走熊。",
+    "sentiment": "negative",
+    "key_opinions": ["美债收益率飙升。", "美国借债能力质疑。", "美债走熊。"],
+    "mentioned_stocks": ["美债"]
+  },
+  {
+    "index": 43,
+    "summary": "明天大A不会吃双份吧？纳指跳水影响，悲观预期。",
+    "sentiment": "negative",
+    "key_opinions": ["纳指跳水影响A股。", "3800守不住。", "可能复刻大跌。"],
+    "mentioned_stocks": ["A股", "纳指"]
+  },
+  {
+    "index": 44,
+    "summary": "明天又双叒叕无了，外围不好加出金日，悲观预测。",
+    "sentiment": "negative",
+    "key_opinions": ["外围不好加出金日。", "科技和有色比跌。", "纳指回调但A股更差。"],
+    "mentioned_stocks": ["纳指", "科技股", "有色"]
+  },
+  {
+    "index": 45,
+    "summary": "今年国庆不敢持股过节，恐惧清仓和消费取消。",
+    "sentiment": "negative",
+    "key_opinions": ["往年满仓今年怕了。", "清仓计划。", "取消旅游。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "中信证券电子行业业绩前瞻，分析AI产业和筹码结构。",
+    "sentiment": "mixed",
+    "key_opinions": ["电子行业业绩好。", "AI产业中PCB和光模块能参与。", "筹码结构问题。"],
+    "mentioned_stocks": ["PCB", "光模块", "胜宏", "护垫", "东山"]
+  },
+  {
+    "index": 47,
+    "summary": "谁能总结一下今天发生什么事了，股市跌了，科技和有色跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["股市跌了。", "科技和有色
