@@ -1,0 +1,316 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论科技股被套牢，投资者转向医疗和地产避险，但普遍悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "地产股基本面差，可能已破产。",
+      "科技股调整周期长，筹码结构差。",
+      "没人愿意为套牢盘解套。"
+    ],
+    "mentioned_stocks": ["地产股", "科技股"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论大盘是否站上牛熊线，对具体指标定义存在分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "拉指数是为了维护‘面子’。",
+      "对牛熊分界线指标定义有争议。",
+      "月线死叉，已进入熊市。"
+    ],
+    "mentioned_stocks": ["茅台", "证券"]
+  },
+  {
+    "index": 3,
+    "summary": "担心科技股回本周期长，部分投资者失去信心。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股回本可能需要5年以上。",
+      "银行类股票回本相对容易。",
+      "指数可能回本，但个股难说。"
+    ],
+    "mentioned_stocks": ["光伏", "银行"]
+  },
+  {
+    "index": 4,
+    "summary": "科技股腰斩后，讨论解套策略，如转投美股或等待。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "建议清仓转投美股，可能机会更好。",
+      "认为需要等几年下一波行情。",
+      "提到可通过美股ETF等产品回本。"
+    ],
+    "mentioned_stocks": ["美光", "标普", "纳指ETF"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论节前红包行情，科技股普跌，分化严重。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创业板红，但科创板‘死’了。",
+      "近期投资亏损严重。",
+      "涨跌与消费关系不确定。"
+    ],
+    "mentioned_stocks": ["创业板", "科创"]
+  },
+  {
+    "index": 6,
+    "summary": "分析兆易创新利空因素，包括量化、筹码结构和业绩等。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "量化做T破坏筹码结构。",
+      "筹码结构差，导致上涨乏力。",
+      "故事讲完，利好出尽。"
+    ],
+    "mentioned_stocks": ["兆易创新", "德明利", "江波龙"]
+  },
+  {
+    "index": 7,
+    "summary": "用比喻批评A股科技股投资，并质疑其价值。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股科技股名不副实。",
+      "比喻投资科技像给半身不遂者送自行车。",
+      "认为‘尿壶’才是真正的价值投资。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 8,
+    "summary": "推荐大金重工，并讨论其股价突破和上涨潜力。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "放量突破前高，看涨。",
+      "欣旺达也是低位选择。",
+      "感谢楼主发车，已吃到肉。"
+    ],
+    "mentioned_stocks": ["大金重工", "欣旺达"]
+  },
+  {
+    "index": 9,
+    "summary": "对午盘民航板块突然拉升感到意外。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "民航板块突然拉升让人意外。",
+      "可能与假期潜在协议有关。",
+      "市场反应存在不确定性。"
+    ],
+    "mentioned_stocks": ["民航"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论大盘是否见‘铁底’，技术指标与现实存在分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "缩量止跌后放量小阳是反转信号。",
+      "认为技术指标图形走好。",
+      "质疑成交量可能来自杀科技股。"
+    ],
+    "mentioned_stocks": ["大盘", "科技股"]
+  },
+  {
+    "index": 11,
+    "summary": "抱怨重大节日股市通常不涨，并分享回本希望。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "历史经验显示重大节日股市难涨。",
+      "有投资者表示近期亏损严重。",
+      "认为不在科技股里就不会亏。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 12,
+    "summary": "调侃买科技股亏钱，对比其他板块，引发讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股波动大，风险高。",
+      "地产、银行等板块相对稳定。",
+      "投资选择直接影响收益。"
+    ],
+    "mentioned_stocks": ["地产", "银行", "创新药", "白酒", "科技"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论美股基金（如纳指）可作抵押品，并比较中美差异。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股基金在美国可作抵押贷款。",
+      "中国市场股票或基金也可质押。",
+      "高杠杆操作风险大，可能爆仓。"
+    ],
+    "mentioned_stocks": ["纳指ETF", "沪深300指数基金"]
+  },
+  {
+    "index": 14,
+    "summary": "批评A股‘假科技’，认为真科技应持续创新回购。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "批评‘假科技’靠宣传忽悠散户接盘。",
+      "真科技应高位回购注销。",
+      "‘假科技’高位减持定增是割韭菜。"
+    ],
+    "mentioned_stocks": ["科技股", "纳指"]
+  },
+  {
+    "index": 15,
+    "summary": "投资者心态不稳，寻求安慰，分享持仓体验。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场波动严重影响投资心态。",
+      "部分投资者选择‘苦熬’或做T。",
+      "建议将投资视为平常事。"
+    ],
+    "mentioned_stocks": ["创业板", "科创板"]
+  },
+  {
+    "index": 16,
+    "summary": "调侃指数全红但实际可能并未普涨，是‘面子工程’。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "指数上涨可能是为了‘面子’。",
+      "个人持仓可能并未上涨。",
+      "市场分化严重。"
+    ],
+    "mentioned_stocks": ["上证", "港股", "台湾指数"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论中国平安是否具备投资价值。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "房地产回暖可能带动保险股。",
+      "分红收益比科技股更让人安心。",
+      "保险股财务复杂，需关注内含价值。"
+    ],
+    "mentioned_stocks": ["中国平安", "房地产"]
+  },
+  {
+    "index": 18,
+    "summary": "观察到创新药板块大涨，认为是科技股的‘对手盘’。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "创新药大涨，被视为科技的对手盘。",
+      "跟着外围市场炒作有逻辑。",
+      "持股体验远优于科技股。"
+    ],
+    "mentioned_stocks": ["药明生物", "创新药"]
+  },
+  {
+    "index": 19,
+    "summary": "注意到恒生科技指数跌破前低，认为反弹结束。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "恒科跌破前低，反弹行情结束。",
+      "加息预期对恒科有负面影响。",
+      "公司基本面变差，估值不比5000点时便宜。"
+    ],
+    "mentioned_stocks": ["恒科", "字节跳动"]
+  },
+  {
+    "index": 20,
+    "summary": "预测节前短线热点，基于时间节点分析妖股逻辑。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "时间节点符合妖股启动逻辑。",
+      "共创草皮、舒华可能启动。",
+      "可能炒作与国足比赛相关的热点。"
+    ],
+    "mentioned_stocks": ["共创草坪", "舒华体育"]
+  },
+  {
+    "index": 21,
+    "summary": "分析力勤资源股价与PE估值，认为估值偏高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "有色矿股22倍PE在行业内不算低。",
+      "港股同公司PE更低。",
+      "认为不如投资紫金矿业。"
+    ],
+    "mentioned_stocks": ["力勤资源", "紫金矿业", "华友钴业"]
+  },
+  {
+    "index": 22,
+    "summary": "分享投资收益，虽然不高但庆幸没亏。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "没亏钱就是赚了。",
+      "购买科技股的投资者遭遇不幸。",
+      "空仓忘记逆回购是损失。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 23,
+    "summary": "评论房地产利好政策，认为实际效果有限。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "政策实际优惠最多省5万，但可能推高房价。",
+      "本质是活跃交易，利好已有房产者。",
+      "政策主要是为了搅动市场情绪，利好银行。"
+    ],
+    "mentioned_stocks": ["房地产", "银行"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论微盘股指数快到前高，走势与科技股分化。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "微盘股指数快接近前高。",
+      "科技股资金被‘虹吸’。",
+      "微盘股里面很多ST股，靠炒作。"
+    ],
+    "mentioned_stocks": ["微盘股"]
+  },
+  {
+    "index": 25,
+    "summary": "理论探讨股票定价，引入债券概念进行分析。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股票类似于无票面价值的永续债券。",
+      "收益来源于不确定的公司分红。",
+      "需考虑持有股票的机会成本和利率成本。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "调侃房地产板块的上涨对大盘的带动作用。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "房地产上涨带动情绪，防止大盘翻绿。",
+      "表态不会接盘‘夕阳产业’。",
+      "认为科技股‘死’了，其他板块才能涨。"
+    ],
+    "mentioned_stocks": ["房地产", "科技"]
+  },
+  {
+    "index": 27,
+    "summary": "询问尾盘买入建议，讨论纳指ETF、日经等选项。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指ETF溢价过高，风险大。",
+      "可以考虑买入日经ETF。",
+      "中韩半导体ETF已‘死’，红利低波更稳妥。"
+    ],
+    "mentioned_stocks": ["纳指ETF", "日经ETF", "中韩半导体ETF", "红利低波"]
+  },
+  {
+    "index": 28,
+    "summary": "评论ETF 159509节前效应导致溢价飙升。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "节前效应导致该ETF溢价率高。",
+      "溢价率已高达34%-36%。",
+      "批评购买者是‘跪族’。"
+    ],
+    "mentioned_stocks": ["ETF 159509"]
+  },
+  {
+    "index": 29,
+    "summary": "反思买科技股亏钱，强调投资赚钱的目标。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大盘红，但买科技股会亏钱。",
+      "投资的
