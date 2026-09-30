@@ -1,0 +1,268 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论10月1日起居民房贷贴息政策，网友认为条件苛刻，对房地产和股市影响有限。",
+    "sentiment": "negative",
+    "key_opinions": ["政策条件严格，如120平限制，对三四线无效", "利好可能高开低走，预期不高", "贴息年限短，效果存疑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "对比日经、纳斯达克等全球指数红盘，感叹大A股表现差，缺乏赚钱效应。",
+    "sentiment": "negative",
+    "key_opinions": ["大A股融资市场特性明显，与外围脱节", "创业板和深指跌幅大，上证也难收红", "网友悲观，认为月线收红机会渺茫"],
+    "mentioned_stocks": ["创业板", "深指", "上证"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论药中食欲素概念股，源于诺奖潜力，科普其治疗失眠嗜睡机制。",
+    "sentiment": "mixed",
+    "key_opinions": ["食欲素有诺奖风向标拉斯克奖背景", "治疗失眠嗜睡，但机制存疑", "有网红药潜质，炒作成分高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "分析日本8月经济数据不及预期，讨论对美股和日元汇率的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["日本工业产出和零售销售均不及预期", "加息概率下降可能利好美股套利交易", "逻辑矛盾，加息可能破坏日元套利闭环"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "分析胜宏科技港股解禁机会，基石投资者被套，刻舟求剑式预测拉升。",
+    "sentiment": "mixed",
+    "key_opinions": ["港股解禁价低于发行价，机构被套", "A股定增解禁时涨幅高，类比港股机会", "解禁前可能有拉升，否则机构亏损"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 6,
+    "summary": "李蓓称房企机会20年一遇，AI还有第二波下跌，引发多空讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["房地产机会被夸大，实际供大于求", "AI明年年中见顶后可能下跌", "部分网友认为地产逻辑不通，看空"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "装修材料从业者询问地产复苏是否带来机会，表达行业困难。",
+    "sentiment": "negative",
+    "key_opinions": ["地产传导到末端需要时间", "房地产难以好转，行业风险高", "建议考虑赛道转换"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论是否提前埋伏流浪地球相关股票，如电影或电力板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI对科幻电影质感影响存疑", "建议等三季报或中期选举后介入", "有推荐建仓价位，但时机偏早"],
+    "mentioned_stocks": ["儒意"]
+  },
+  {
+    "index": 9,
+    "summary": "总结创新药板块2026上半年业绩，收入利润大幅增长，讨论个股机会。",
+    "sentiment": "positive",
+    "key_opinions": ["创新药板块营收和净利润同比大幅增长", "港股创新药质地优于A股", "信达、康方等个股被看好"],
+    "mentioned_stocks": ["荣昌", "药明", "信达", "康方", "百济", "恒瑞"]
+  },
+  {
+    "index": 10,
+    "summary": "茅台在同花顺投放广告，讨论其营销策略和品牌影响力下降。",
+    "sentiment": "negative",
+    "key_opinions": ["茅台投放广告显示受众流失", "茅台需新关注度，跌下神坛", "年轻人不喝白酒，需求减弱"],
+    "mentioned_stocks": ["茅台"]
+  },
+  {
+    "index": 11,
+    "summary": "以美国房价反弹为鉴，讨论中国房价可能反弹，但指出结构性差异。",
+    "sentiment": "mixed",
+    "key_opinions": ["美国房价崩盘后反弹，但非普遍", "中国经济和人口结构不同，可比性低", "优质房源可能涨，但整体难涨"],
+    "mentioned_stocks": ["万科"]
+  },
+  {
+    "index": 12,
+    "summary": "节前利好引发恐慌，担心节后暴跌，讨论市场情绪和操作策略。",
+    "sentiment": "negative",
+    "key_opinions": ["利好可能带来暴跌，类似历史", "美债收益率新高，利空明显", "建议谨慎，等节后变化"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "黄金交易讨论，分享做T策略和价格区间，关注支撑位和中期影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金在4250-4300区间震荡可做T", "关注4250支撑位，击穿风险大", "中期选举可能影响金价"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "布油和WTI油价转跌，讨论原因如美国压制或伊朗消息，对大A影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["油价转跌无直接催化，可能受美国影响", "油价下跌对大A股影响有限", "伊朗消息导致原油从涨转跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "特朗普言论称伊朗溃败油价将跌，引发网友嘲讽和市场影响讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["特朗普言论被质疑为嘴炮", "油价可能因言论下跌", "美债收益率可能走高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "小道消息成真，讨论内幕交易普遍，资金提前埋伏现象。",
+    "sentiment": "negative",
+    "key_opinions": ["地产消息提前泄露，资金布局早", "内幕交易机制不健全", "量能是衡量内幕消息的指标"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "房地产股利好是散户少，类似AI行情早期，讨论反向指标。",
+    "sentiment": "mixed",
+    "key_opinions": ["散户不看好时反而是机会", "房地产股已预涨20-30%", "高开可能低走，需谨慎"],
+    "mentioned_stocks": ["万科", "房地产ETF"]
+  },
+  {
+    "index": 18,
+    "summary": "甲骨文股价上涨，讨论其是否属AI软件，实际为云服务商。",
+    "sentiment": "positive",
+    "key_opinions": ["甲骨文股价直线拉升", "甲骨文属AI基建而非软件", "纳指上涨不需要懂AI"],
+    "mentioned_stocks": ["甲骨文", "软银"]
+  },
+  {
+    "index": 19,
+    "summary": "询问川哥复盘指标“猛男值”和“菜比值”，回答为涨停跌停数。",
+    "sentiment": "mixed",
+    "key_opinions": ["指标基于个股涨停和跌停数量", "用于市场情绪判断"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "抱怨大A股长期3000点，缺乏慢牛和耐心资本，易被套牢。",
+    "sentiment": "negative",
+    "key_opinions": ["暴涨后阴跌，节奏被掌控", "上市公司抽血导致流动性枯竭", "市场以赌博为主，缺乏价值投资"],
+    "mentioned_stocks": ["亨通光电"]
+  },
+  {
+    "index": 21,
+    "summary": "房地产消息走漏，讨论政策细节如贷款贴息，但认为效果有限。",
+    "sentiment": "negative",
+    "key_opinions": ["政策对炒房股有用但对买房无用", "贴息条件限制多，如150万上限", "消息提前泄露，资金布局"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "美股开盘类似大A股，讨论科技股表现分化和关联性。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股科技股在零轴震荡", "费半上涨但A股科技走熊", "油价和美债利率影响美股"],
+    "mentioned_stocks": ["费半", "科创50"]
+  },
+  {
+    "index": 23,
+    "summary": "力勤上市讨论，新股操作风险高，建议理性参与。",
+    "sentiment": "negative",
+    "key_opinions": ["新股流动性盘大，风险高", "国庆长假不确定性大", "缩量环境下新股炒作风险大"],
+    "mentioned_stocks": ["力勤", "中塑", "沈鼓"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论定投宁德时代，因股息和回购注销收益超5%，但风险犹存。",
+    "sentiment": "mixed",
+    "key_opinions": ["股息和回购收益有吸引力", "宁德时代处于下降通道", "分红持续性存疑，建议等更低点"],
+    "mentioned_stocks": ["宁德时代", "创业板", "红利ETF"]
+  },
+  {
+    "index": 25,
+    "summary": "股票博主悟道指销户，讨论市场轮回和散户生存状态。",
+    "sentiment": "negative",
+    "key_opinions": ["悟道实为销户，表示亏损离场", "市场轮回，每波行情新人悟道", "真赚钱者不说话，交易孤独"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "美股走主升浪可能在大A休市时，讨论节前布局机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["美日韩可能趁休市拉升", "可买纳指ETF搏假期收益", "假期后可能回调，大A开盘共振"],
+    "mentioned_stocks": ["纳指ETF", "标普"]
+  },
+  {
+    "index": 27,
+    "summary": "十年期美债在做顶部结构，讨论可能利好股市。",
+    "sentiment": "positive",
+    "key_opinions": ["美债做顶可能带来喘息机会", "但布油向上，做顶可能反复", "美债走势比股票流畅"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "科技牛市讨论，美股科技股涨而A股科技股跌，形成对比。",
+    "sentiment": "negative",
+    "key_opinions": ["美股科技股冲击新高", "A股科技股独立下跌行情", "美债利率高压制A股科技"],
+    "mentioned_stocks": ["达子", "海力士", "美光", "AMD", "阿斯麦"]
+  },
+  {
+    "index": 29,
+    "summary": "香港创业板指数下跌快到零，显示市场流动性枯竭。",
+    "sentiment": "negative",
+    "key_opinions": ["香港创业板指数近乎归零", "流动性差，类似仙股", "与恒科指数暴跌对比"],
+    "mentioned_stocks": ["香港创业板指数", "恒科"]
+  },
+  {
+    "index": 30,
+    "summary": "地产小作文成真，讨论政策如贷款贴息，但认为作用有限。",
+    "sentiment": "negative",
+    "key_opinions": ["政策限价150万和120平，对一二线无效", "鼓励二手房置换但条件苛刻", "作用不大，减不了多少钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "厄尔尼诺现象讨论农业板块炒作，已结账，周期结束。",
+    "sentiment": "negative",
+    "key_opinions": ["农业板块炒作已结束", "龙头结账，风险高", "粮食基金下跌一周"],
+    "mentioned_stocks": ["金健", "中糖"]
+  },
+  {
+    "index": 32,
+    "summary": "降息消息讨论，但仅政策银行降息，对市场影响一般。",
+    "sentiment": "mixed",
+    "key_opinions": ["仅三家政策银行降息", "PSL利率下调，支持实体经济", "信源不清，影响有限"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "CPO和光纤行情类似新能源结束，主力出货散户接盘。",
+    "sentiment": "negative",
+    "key_opinions": ["股东数大增，表明散户接盘", "科技股预期不行，周期结束", "反弹是离场机会"],
+    "mentioned_stocks": ["CPO", "光纤"]
+  },
+  {
+    "index": 34,
+    "summary": "分享9月回血经历，从7月血崩中调整后盈利。",
+    "sentiment": "positive",
+    "key_opinions": ["7月亏损，8月谨慎，9月盈利", "靠小票实现17%收益", "重仓小票风险高但回报大"],
+    "mentioned_stocks": ["百普赛斯"]
+  },
+  {
+    "index": 35,
+    "summary": "“终于上当了”讨论市场欺骗性，尾盘杀跌套牢散户。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘爆杀收绿，散户上当", "市场主力玩弄散户", "跟风被套，教训深刻"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "澜起科技股价表现硬，讨论半导体板块强弱分化。",
+    "sentiment": "mixed",
+    "key_opinions": ["澜起科技在688板块中算强", "有基本面支撑，可能预披露", "小光股比大光股表现好"],
+    "mentioned_stocks": ["澜起科技", "海光", "普冉", "盛美"]
+  },
+  {
+    "index": 37,
+    "summary": "与达子（英伟达）比较，嘲讽A股公司质量差和散户消费。",
+    "sentiment": "negative",
+    "key_opinions": ["A股公司与美股巨头差距大", "散户被消费，公司质量低", "部分网友考虑移民"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "A50期货跌回一年前，讨论市值增长是否靠垃圾股。",
+    "sentiment": "negative",
+    "key_opinions": ["A50期货下跌表明大市值股表现差", "新增市值可能靠小垃圾股", "恒科科技可能拖累A50"],
+    "mentioned_stocks": ["A50期货", "恒科", "长鑫"]
+  }
+]
