@@ -1,0 +1,202 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论A股大资金预判能力强，但美股科技股上涨乏力引发争议。",
+    "sentiment": "mixed",
+    "key_opinions": ["大资金预判可能靠运气", "美股科技仍在创新高", "A股表现远逊美股"],
+    "mentioned_stocks": ["英伟达", "纳指"]
+  },
+  {
+    "index": 2,
+    "summary": "对比韩国市场清洗杠杆成功，A股表现欺诈，持续下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国清除杠杆后市场稳定", "A股是欺诈市场", "全球唯一欺诈市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "九月行情惨烈，收益帖子减少，赚钱人数比例低。",
+    "sentiment": "negative",
+    "key_opinions": ["九月比七月更糟", "赚钱人数仅29%", "科技通杀"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "赛力斯和华为合作传闻，互利共赢但分赃不均。",
+    "sentiment": "mixed",
+    "key_opinions": ["合作互利共赢", "需重签协议降分成", "协议改变如儿戏"],
+    "mentioned_stocks": ["赛力斯", "华为"]
+  },
+  {
+    "index": 5,
+    "summary": "新手对股票有误解，引发讨论股票与赌博的区别。",
+    "sentiment": "mixed",
+    "key_opinions": ["高买低卖难判断", "股票类似赌博", "外汇风险更高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "科技股可能需进一步下跌才有机会，机构压制估值。",
+    "sentiment": "negative",
+    "key_opinions": ["科技已进入熊市", "机构压制防泡沫", "腰斩可能性低"],
+    "mentioned_stocks": ["科创50", "旭创"]
+  },
+  {
+    "index": 7,
+    "summary": "美股类似A股6月表现，纳指涨道指跌，吸血全球。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股吸血欧洲", "纳指不停上涨", "道指下跌"],
+    "mentioned_stocks": ["纳指", "道指"]
+  },
+  {
+    "index": 8,
+    "summary": "美光营收超预期，但股价盘后波动，AI硬件不可持续。",
+    "sentiment": "mixed",
+    "key_opinions": ["美光营收超预期", "AI硬件发展畸形", "美光股价老登化"],
+    "mentioned_stocks": ["美光", "英伟达", "O", "A"]
+  },
+  {
+    "index": 9,
+    "summary": "询问日经指数国庆是否休市，回答日本假期已过。",
+    "sentiment": "neutral",
+    "key_opinions": ["日经今天开盘", "日本假期已放完", "假期多"],
+    "mentioned_stocks": ["日经"]
+  },
+  {
+    "index": 10,
+    "summary": "A股休市期间加息预期变化，抱怨针对A股。",
+    "sentiment": "negative",
+    "key_opinions": ["加息被推迟针对A股", "节前满仓风险", "加息预期会回来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "利通科技股下跌，定增后表现差，不如协创。",
+    "sentiment": "negative",
+    "key_opinions": ["利通定增后一蹶不振", "协创表现更强", "等低价接盘"],
+    "mentioned_stocks": ["利通", "协创"]
+  },
+  {
+    "index": 12,
+    "summary": "优先股改每日派息，年化收益高但波动率低。",
+    "sentiment": "positive",
+    "key_opinions": ["派息频率提高", "年化收益超国债", "有抵押保障"],
+    "mentioned_stocks": ["STRD", "STRK"]
+  },
+  {
+    "index": 13,
+    "summary": "个人家庭股市亏损经历，母亲典型散户错误。",
+    "sentiment": "negative",
+    "key_opinions": ["散户典型错误", "全仓风险高", "家庭危机感"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论中国平安股票是否可买，看消费和分红。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能轮动到消费", "保险财务复杂", "定投或等低位"],
+    "mentioned_stocks": ["中国平安"]
+  },
+  {
+    "index": 15,
+    "summary": "怀疑科技股机构出货，但成交量大出货难。",
+    "sentiment": "negative",
+    "key_opinions": ["机构可能出货", "成交量大难出完", "风格偏移基金 deadline"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "个人收益图显示亏损，讨论空仓和科技投资。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损对称", "空仓是学问", "科技满仓风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "询问闲钱平稳理财方式，建议余额宝、国债等。",
+    "sentiment": "neutral",
+    "key_opinions": ["余额宝或货币基金", "国债较稳", "限购产品好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "纳指ETF溢价波动大，讨论高溢价风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["溢价从10%涨到15%", "跟风购买风险", "不关溢价闭眼买"],
+    "mentioned_stocks": ["纳指ETF", "嘉实"]
+  },
+  {
+    "index": 19,
+    "summary": "房地产板块短线地天板，讨论洗盘或骗接盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["借利好洗盘", "骗量化和散户接盘", "短线筹码博弈"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "美联储10月加息预期降温，油价上涨，A股被针对。",
+    "sentiment": "negative",
+    "key_opinions": ["加息预期降温", "油价起飞", "消费者信心新低"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "比惨大会，分享巨额亏损经历。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损达两千多万", "心态崩溃", "基金也亏损"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "季度亏损41%，问是否更惨，讨论重仓科技风险。",
+    "sentiment": "negative",
+    "key_opinions": ["季度亏损严重", "七九月重仓下跌", "八月轻仓反弹"],
+    "mentioned_stocks": ["兆易"]
+  },
+  {
+    "index": 23,
+    "summary": "A股Q3行情收官，科创50年涨幅第一但下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["科创50还有空间", "走势像蛆恶心", "年涨幅第一但亏利润"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 24,
+    "summary": "专家称AI客户需赚更多钱，但增长预测不足。",
+    "sentiment": "negative",
+    "key_opinions": ["AI收入上不去", "裁员或发钱", "增长预测不足"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "科技股走新能源老路，量化预判导致提前下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["科技走新能源路", "量化预判早一年跑", "盐碱地开不出花"],
+    "mentioned_stocks": ["长鑫", "比亚迪"]
+  },
+  {
+    "index": 26,
+    "summary": "玩大富翁游戏感悟，比喻股市不公和银行作弊。",
+    "sentiment": "mixed",
+    "key_opinions": ["游戏不公如股市", "银行作弊例子", "有好爹优势"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "兆易创新利空讨论，量化做T导致股价波动。",
+    "sentiment": "negative",
+    "key_opinions": ["量化粪坑做T", "家人太多", "业绩利好出尽"],
+    "mentioned_stocks": ["兆易创新", "德明利", "江波龙"]
+  },
+  {
+    "index": 28,
+    "summary": "字节跳动公布财报对科技利好，但AI叙事已炒完。",
+    "sentiment": "mixed",
+    "key_opinions": ["字节AI投入大", "AI估值炒到29年", "利好除非远超预期"],
+    "mentioned_stocks": ["字节跳动", "阿里", "华为"]
+  },
+  {
+    "index": 29,
+    "summary": "刷到旧小说提到股票，反思新人入场时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["小说预言股票", "纯新人不知N卡", "深

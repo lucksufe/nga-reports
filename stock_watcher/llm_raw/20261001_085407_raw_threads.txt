@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论大A资金预判能力与美股科技走势，观点认为大资金仅偶然正确，美股仍在创新高而A股只会割韭菜。",
+    "sentiment": "negative",
+    "key_opinions": ["大资金可能只是偶然预判对", "美股科技仍在逼近新高，涨不动说法不成立", "A股只会砸盘割韭菜"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 2,
+    "summary": "对比韩国市场血洗杠杆清除毒瘤与A股现状，批评A股是全球唯一欺诈市场。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国清除杠杆后市场稳住且成功", "A股是挥刀子宫的割骨疗伤", "全球唯一欺诈市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论9月收益惨状，行情比7月更差，赚钱比例极低，纳指基金成为更好选择。",
+    "sentiment": "negative",
+    "key_opinions": ["9月行情惨烈，赚钱比例仅29%", "比7月更恶心，科技被通杀", "买A股收益帖不如买纳斯达克基金"],
+    "mentioned_stocks": ["纳斯达克基金"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论赛力斯与华为合作传闻及关系，观点认为合作互利但分赃不均，行为儿戏。",
+    "sentiment": "negative",
+    "key_opinions": ["合作互利共赢，但可能分赃不均", "协议可能需重签", "谈好的东西反复，行为儿戏"],
+    "mentioned_stocks": ["赛力斯", "江淮汽车"]
+  },
+  {
+    "index": 5,
+    "summary": "因动画《久留美》引发对股市新手的讨论，指出外汇与股票逻辑不同，批判优越感。",
+    "sentiment": "mixed",
+    "key_opinions": ["新手不理解股市亏损复杂性", "外汇和股票操作逻辑有区别", "用自己经验套用批判他人是傲慢"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论科技板块是否需要腰斩才有机会，观点极度悲观，认为科技已进入熊市。",
+    "sentiment": "negative",
+    "key_opinions": ["科技早已熊市，只是一地鸡毛", "已放弃科技", "腰斩有可能，科创50跌至800"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 7,
+    "summary": "认为美股现在走势类似A股6月，纳斯达克上涨但道琼斯下跌，资金被美国吸走。",
+    "sentiment": "negative",
+    "key_opinions": ["纳指涨道指跌，类似A股6月", "美股在吸全球资金", "欧洲市场也走熊"],
+    "mentioned_stocks": ["纳斯达克", "道琼斯"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论美光科技财报超预期，但A股只能炒小炒差，美光等科技股已“老登化”。",
+    "sentiment": "mixed",
+    "key_opinions": ["美光财报超预期但A股表现差", "科技股已逐渐老登化", "美光承接力度尚可，但光模块跌得更惨"],
+    "mentioned_stocks": ["美光科技"]
+  },
+  {
+    "index": 9,
+    "summary": "询问日经指数今日是否休市，讨论日本假期安排。",
+    "sentiment": "neutral",
+    "key_opinions": ["日本不过中国国庆", "日本人的假期已经够多了", "日本人上周已提前放假"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "抱怨A股休市期间美联储加息预期降温，讽刺市场对A股的针对性。",
+    "sentiment": "negative",
+    "key_opinions": ["A股休息，加息预期就降温", "节后开盘加息预期可能回来", "满仓者可能享福"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11",
+    "summary": "感叹昔日科技龙头利通电子因定增后表现低迷，走势不如协创数据。",
+    "sentiment": "negative",
+    "key_opinions": ["利通电子定增后一蹶不振", "中报表现不如协创数据", "协创因ETF增量资金走势更强"],
+    "mentioned_stocks": ["利通电子", "协创数据"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论年化12%的优先股改为每日派息，认为其比美债还稳，同时提及STRD/STRK。",
+    "sentiment": "neutral",
+    "key_opinions": ["11月起改为每日派息，波动率更低", "比美债还国债，非常稳定", "STRD,STRK也将提高派息频率"],
+    "mentioned_stocks": ["STRD", "STRK"]
+  },
+  {
+    "index": 13,
+    "summary": "讲述母亲典型散户式炒股亏损85万，引发对家庭财务和愧疚感的讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["母亲典型散户操作导致巨额亏损", "家庭积蓄面临风险", "儿子因需补救感到愧疚"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论中国平安是否具备投资价值，涉及房地产、消费轮动及保险股复杂性。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能轮到房地产带动保险板块", "保险财务比银行更复杂，看内含价值", "通缩背景下前景存疑"],
+    "mentioned_stocks": ["中国平安"]
+  },
+  {
+    "index": 15,
+    "summary": "质疑科技股是否被机构基本出完货，分析认为不可能，当前是存量博弈。",
+    "sentiment": "negative",
+    "key_opinions": ["机构不可能出完货，否则会跌更多", "12月是风格漂移基金deadline", "量太小，存量博弈，聪明资金已跑路"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "展示个人收益被击穿，调侃对称图形，认为7月满仓科技但前期未涨是关键。",
+    "sentiment": "negative",
+    "key_opinions": ["收益曲线呈对称图形，暗示亏损", "7月满仓科技但4-6月未涨", "学会空仓是一门学问"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "询问手上有闲钱但不会炒股，寻求平稳理财建议，得到多种保守选择。",
+    "sentiment": "neutral",
+    "key_opinions": ["可选择余额宝、银行理财等", "国债、纯债基金是稳健选择", "先做风险测试，R1到R3分级配置"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "抱怨场内纳指ETF溢价波动，惊讶于在高溢价下仍有大量购买。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指横盘但ETF溢价却在上涨", "有人顶着高溢价购买", "嘉实纳指ETF走势已脱离大部队"],
+    "mentioned_stocks": ["嘉实纳斯达克ETF"]
+  },
+  {
+    "index": 19,
+    "summary": "分析房地产板块短线地天板行为，多认为是制造热度或骗接盘的短线博弈。",
+    "sentiment": "negative",
+    "key_opinions": ["可能是借利好洗盘或骗接盘", "为了制造交易热度", "节后可能直接低开，短线无持续性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论美联储10月加息预期降温，但伴随油价上涨，并讽刺A股处境。",
+    "sentiment": "negative",
+    "key_opinions": ["加息预期降温但油价又起飞", "股油债齐涨，显得A股很惨", "预期可能一个月后又升温"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "开展比惨大会，用户晒亏损截图，通过比较获得心理安慰。",
+    "sentiment": "negative",
+    "key_opinions": ["晒图比惨，寻求心理安慰", "“铁锤狂砸盘”亏损巨大", "比惨文化盛行"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "用户展示三季度收益亏损41%，情绪低落，可能重仓科技。",
+    "sentiment": "negative",
+    "key_opinions": ["三季度亏损幅度巨大", "亏损的是本金", "估计是七月九月重仓下跌，八月轻仓"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 23,
+    "summary": "总结A股Q3行情，用“蓄势待发”讽刺市场，指出科创50年涨幅仍第一。",
+    "sentiment": "negative",
+    "key_opinions": ["“蓄势待发”是讽刺", "科创50还有下跌空间", "走势像蛆一样恶心"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 24,
+    "summary": "转述专家观点，认为AI发展需要客户赚更多钱，但增长可能不及预期。",
+    "sentiment": "negative",
+    "key_opinions": ["AI费用需客户收入增长支撑", "分析师不预测会出现所需增长", "收入上不去可裁员等国家发钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "认为在量化主导下，科技股已提前走上新能源板块的老路，前景绝望。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股正在走新能源股的暴跌老路", "七月已判死刑，之后是阴跌", "盐碱地里开不出花"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "通过陪孩子玩大富翁游戏，比喻现实金融规则的不公平和操控性。",
+    "sentiment": "negative",
+    "key_opinions": ["游戏比喻现实规则不公平", "“顺手牵羊”银行资金比喻现实", "至少游戏会玩完再掀桌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "询问兆易创新持续下跌的利空原因，讨论量化影响、筹码结构及故事讲完。",
+    "sentiment": "negative",
+    "key_opinions": ["量化做T影响严重", "家人（散户）太多，筹码结构差", "利好出尽，故事讲完"],
+    "mentioned_stocks": ["兆易创新", "德明利", "江波龙"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论字节跳动公布财报对科技板块的影响，但认为当前估值已透支，作用有限。",
+    "sentiment": "negative",
+    "key_opinions": ["字节AI投入和盈利若披露是利好", "但AI叙事估值已炒到2028-2029年", "需远超预期利好才有用"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "看到小说中早年提到纳指和英伟达，后悔没早点关注投资。",
+    "sentiment": "positive",
+    "key_opinions": ["后悔没早点关注股市知识", "当时是纯新人，不了解股票", "反问若当时入场能否拿住"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "讨论商业航天板块表现极差，被认为是最“区”的板块，利好利空都跌。",
+    "sentiment": "negative",
+    "key_opinions": ["商业航天是A股最‘区’的板块", "规模商业化距离尚远", "已被主力拉黑，与锂矿一桌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "用户更正之前的分析错误，指出看错了平高电气的复杂情况。",
+    "sentiment": "neutral",
+    "key_opinions": ["承认之前分析错误", "涉及平高电气情况复杂", "不构成投资建议"],
+    "mentioned_stocks": ["紫光股份", "平高电气"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论从纯逻辑转向看图+逻辑的投资流派，认为A股不鼓励持股是根本原因。",
+    "sentiment": "neutral",
+    "key_opinions": ["A股不是鼓励持股的市场", "涨多了就是原罪，跌多了有机会", "低位盘逻辑，高位看图形是相对最优"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "询问固态电池概念新面孔紫竹高科有无黑历史，回复称其概念不纯。",
+    "sentiment": "neutral",
+    "key_opinions": ["紫竹高科是新面孔", "名字不错但固态概念不纯", "属于反卡时代"],
+    "mentioned_stocks": ["紫竹高科"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论超强厄尔尼诺对农业板块的影响，但认为炒作已接近尾声。",
+    "sentiment": "negative",
+    "key_opinions": ["超强厄尔尼诺影响农业", "“要信早信”，但可能已炒作完毕", "本月成也农业败也农业"],
+    "mentioned_stocks": ["金健米业", "中糖"]
+  },
+  {
+    "index": 35,
+    "summary": "用户展示持仓亏损，寻求信心按摩，最终以“坚持投资如吃饭”自勉。",
+    "sentiment": "mixed",
+    "key_opinions": ["开始慌了，道心不稳", "苦熬或做T，做好持仓过年准备", "投资应像吃饭喝水，该干嘛干嘛"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "讨论科技股腰斩套牢后的解套可能性，有人建议转投两倍美光或美股。",
+    "sentiment": "negative",
+    "key_opinions": ["建议清仓去买两倍美光搏一把", "基本没有可能解套，等下一波", "去美股买标普放十年可能回本"],
+    "mentioned_stocks": ["美光科技", "标普500"]
+  },
+  {
+    "index": 37,
+    "summary": "征集10月看好板块，回答包括纳斯达克、科技、食品饮料、创新药、房地产等。",
+    "sentiment": "mixed",
+    "key_opinions": ["看好纳斯达克", "继续看好科技（但带哭笑表情）", "看好创新药、房地产及低位股"],
+    "mentioned_stocks": ["纳斯达克", "ST人福"]
+  },
+  {
+    "index": 38,
+    "summary": "看到纳指期货大涨，讽刺A股利好高开低走、利空不断，假期利好节后利空。",
+    "sentiment": "negative",
+    "key_opinions": ["纳指期货大涨，但A股利好总高开低走", "“臭虫一下班，什么利好都蹦出来”", "已清仓纳指，认为价位是垃圾"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "总结铁盒ETF（588170）的波动规律，认为需杀到0.88元才反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["ETF需杀到0.88元才可能反弹", "更建议买美股（如ASML）", "可能杀到0.7以下不反弹"],
+    "mentioned_stocks": ["588170铁盒ETF", "ASML"]
+  },
+  {
+    "index": 40,
+    "summary": "用户尾盘买入7成仓位创50，期待节后红包，认为风险已不大。",
+    "sentiment": "positive",
+    "key_opinions": ["节后准备收红包，愿赌服输", "创50跌到这个程度，风险不大", "是正确选择，节后可能吃肉"],
+    "mentioned_stocks": ["创业板50"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论黄金第四季度走势，策略以震荡做T为主，关注关键点位4250。",
+    "sentiment": "neutral",
+    "key_opinions": ["黄金在4250-4300间震荡做T", "发工资继续定投黄金", "4250是否是铁底需观察"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "用户发起“大金重工”二次发车帖，庆祝其放量突破前高，获得积极反馈。",
+    "sentiment": "positive",
+    "key_opinions": ["大金重工放量突破前高，发起买入信号", "低位股欣旺达也被提及", "感谢楼主发车，本月第一次吃肉"],
+    "mentioned_stocks": ["大金重工", "欣旺达"]
+  },
+  {
+    "index": 43,
+    "summary": "指出微盘股指数快创新高，认为主升浪吸走了科技板块的资金。",
+    "sentiment": "mixed",
+    "key_opinions": ["微盘股主升浪是科技人的血换来的", "风水轮流转", "别发帖，以防引来监管打击"],
+    "mentioned_stocks": ["万得微盘股指数"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论纳指“左脚踩右脚”的上涨模式，认为买指数基金长期稳赢。",
+    "sentiment": "positive",
+    "key_opinions": ["纳指上涨模式下，买指数基金稳赢", "加杠杆必死", "平均一年十几个点，股神看不上"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "用户感谢江淮汽车带来的收益，认为其走势神奇，属华为概念受益股。",
+    "sentiment": "positive",
+    "key_opinions": ["感谢华为和中国制造带来收益", "江淮汽车连续修复3个月", "这种股票能涨，说明A股炒作性强"],
+    "mentioned_stocks": ["江淮汽车", "赛力斯"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论“合理调节高收入”政策，评论多为讽刺口号喊喊、富人会跑。",
+    "sentiment": "negative",
+    "key_opinions": ["需要均富卡", "股票市场是被调节的一部分", "口号喊喊，富人察觉会跑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "讨论纳指冲击新高，观点包括投资正规市场、韩国投资美国、风险累积等。",
+    "sentiment": "mixed",
+    "key_opinions": ["投资还得去正规市场", "韩国投资美国2000亿美元助推纳指", "风险在不断累积"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 48,
+    "summary": "转述观点称特朗普可能中期选举丢两院，或导致AI科技金融承压。",
+    "sentiment": "neutral",
+    "key_opinions": ["特朗普可能中期选举丢掉两院", "可能导致AI/科技、金融承压", "分析类似算命，需要客观信息源"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "质疑科技股国庆后若还起不来是否将判死刑，共识是套牢盘太重，难有行情。",
+    "sentiment": "negative",
+    "key_opinions": ["节后科技再不涨就可以判死刑了", "已是冢中枯骨，死透了", "需要两万亿量才能救活科技"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "展示在科技股中被套后坚持做T的困境，心态煎熬但仍在坚持。",
+    "sentiment": "negative",
+    "key_opinions": ["被套科技股后只能做T自救", "克服不了人性，被套后舍不得割肉", "等解套后要重新开始"],
+    "mentioned_stocks": []
+  }
+]
