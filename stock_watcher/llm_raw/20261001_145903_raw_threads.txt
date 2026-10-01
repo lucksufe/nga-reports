@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论日韩股市即将崩盘，对比A股表现。",
+    "sentiment": "negative",
+    "key_opinions": ["日韩股市崩盘式上涨不稳固", "羡慕A股踏实上涨", "嘲讽自媒体渲染日韩女孩"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "华为与赛力斯重新谈判合作，问界可能回归华为主导。",
+    "sentiment": "mixed",
+    "key_opinions": ["华为赛力斯可能重新合作", "其他界销量不佳导致复合", "合作对双方有利"],
+    "mentioned_stocks": ["赛力斯", "华为"]
+  },
+  {
+    "index": 3,
+    "summary": "质疑A股上涨时有异动警告，下跌时无措施。",
+    "sentiment": "negative",
+    "key_opinions": ["上涨被警告下跌却无措施", "市场不保护散户", "监管不一致"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论国庆节后A股走势，担忧高开低走。",
+    "sentiment": "mixed",
+    "key_opinions": ["节后可能高开套利", "外围市场影响A股开盘", "担心高开低走"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 5,
+    "summary": "纳指上涨，A股假期休市，讨论后续走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指新高A股不跟涨", "假期休市是利好", "担心回调影响A股"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 6,
+    "summary": "母亲炒股从盈利到巨额亏损，引发家庭担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["母亲炒股犯典型错误", "亏损影响家庭养老", "自责未早管理资金"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论生益科技股票，有资金买入和利好消息。",
+    "sentiment": "mixed",
+    "key_opinions": ["生益科技有资金坚持买入", "郭明錤吹捧利好", "期待节后反弹"],
+    "mentioned_stocks": ["生益科技"]
+  },
+  {
+    "index": 8,
+    "summary": "炒股导致生活消费降级，持仓亨通光电。",
+    "sentiment": "negative",
+    "key_opinions": ["炒股后消费降级严重", "持仓亨通光电亏损", "股市被视为金融消费"],
+    "mentioned_stocks": ["亨通光电"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论A股做空策略，质疑市场规则。",
+    "sentiment": "negative",
+    "key_opinions": ["融资市下做空可能稳赚", "借券困难限制做空", "横盘期做空有磨损"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "纳指可能新高，A股假期休市影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指期货逼近新高", "A股关门后外围大涨", "嘲讽媒体误导"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 11,
+    "summary": "腾讯通过甲骨文获取AI芯片，国产算力面临挑战。",
+    "sentiment": "negative",
+    "key_opinions": ["腾讯租赁甲骨文高端AI芯片", "国产算力性能差距大", "华为算力受冲击"],
+    "mentioned_stocks": ["腾讯", "甲骨文", "华为"]
+  },
+  {
+    "index": 12,
+    "summary": "推荐ST公司威领，有望成为下半年龙头。",
+    "sentiment": "positive",
+    "key_opinions": ["威领被兴业银锡收购", "有小金属/稀土概念", "市值小可能炒高"],
+    "mentioned_stocks": ["威领", "兴业银锡"]
+  },
+  {
+    "index": 13,
+    "summary": "A股放假期间外围大涨，讽刺A股表现差。",
+    "sentiment": "mixed",
+    "key_opinions": ["外围涨A股不开盘是好事", "嘲讽A股不开盘全球涨", "总熊头放假利好外围"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论国庆出行安全，关联社会问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["担忧人多地方不安全", "股民名声不好", "社会问题多影响信心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "黄金交易因高杠杆导致巨额亏损，情绪痛苦。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金交易亏损因高杠杆", "浮亏抗单导致爆仓", "后悔未止损"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论A股资金预判能力，对比美股科技股表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["大A资金预判能力强", "美股科技股涨不动", "但美股仍在新高附近"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "赛力斯向华为妥协，重新谈判合作。",
+    "sentiment": "mixed",
+    "key_opinions": ["赛力斯向华为跪下求复合", "华为主动谈判", "合作是双方利益"],
+    "mentioned_stocks": ["赛力斯", "华为"]
+  },
+  {
+    "index": 18,
+    "summary": "九月股市行情惨烈，收益帖消失。",
+    "sentiment": "negative",
+    "key_opinions": ["九月行情比七月更惨", "亏损比例高", "收益帖消失反映惨状"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "外资大量流入美股AI资产，A股资金流出。",
+    "sentiment": "positive",
+    "key_opinions": ["外资不记成本抄底美国AI", "纳指资金大幅流入", "A股创业板科创板跌"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 20,
+    "summary": "日韩股市上涨，担心回调影响A股。",
+    "sentiment": "negative",
+    "key_opinions": ["日韩涨太多怕回调", "A股可能跟跌", "外国人坏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "同事隐瞒真实财富，股市亏损后暴露。",
+    "sentiment": "negative",
+    "key_opinions": ["同事上班时伪装贫困", "离职后晒奢侈品", "反映社会攀比"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "大金重工股票突破前高，推荐发车。",
+    "sentiment": "positive",
+    "key_opinions": ["大金重工放量突破前高", "感谢楼主发车", "欣旺达低位可关注"],
+    "mentioned_stocks": ["大金重工", "欣旺达"]
+  },
+  {
+    "index": 23,
+    "summary": "预测国庆节后外围因事件回调。",
+    "sentiment": "negative",
+    "key_opinions": ["伊朗攻击美国可能", "美联储加息预期", "外围10.8回调"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "利通科技股票因定增后表现差。",
+    "sentiment": "negative",
+    "key_opinions": ["利通科技定增后一蹶不振", "走势不如协创", "定增害人"],
+    "mentioned_stocks": ["利通", "协创"]
+  },
+  {
+    "index": 25,
+    "summary": "后悔纳斯达克买少，操作失误。",
+    "sentiment": "mixed",
+    "key_opinions": ["后悔纳斯达克买少", "日经减仓切纳指亏损", "操作失误"],
+    "mentioned_stocks": ["纳指", "日经"]
+  },
+  {
+    "index": 26,
+    "summary": "场内纳指ETF溢价高，引发讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指ETF溢价从10%涨到15%", "有人顶着高溢价买", "嘉实ETF不跟大部队"],
+    "mentioned_stocks": ["纳指ETF", "嘉实"]
+  },
+  {
+    "index": 27,
+    "summary": "嘲讽印度股市是全球毒瘤。",
+    "sentiment": "negative",
+    "key_opinions": ["印度股市是全球毒瘤", "必须根除", "A50不能代表A股"],
+    "mentioned_stocks": ["A50"]
+  },
+  {
+    "index": 28,
+    "summary": "牛肉涨价，讨论相关投资机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["牛肉涨价可能影响股票", "国内养牛企业烂", "越烂炒得越高"],
+    "mentioned_stocks": ["双汇"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论黄金第四季度走势和操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金震荡可做T", "看4250支撑位", "中期选举有影响"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "美光科技财报好但股价不涨，周期股讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["美光财报超预期但股价不涨", "市场视为周期股见顶", "管理层不积极回购"],
+    "mentioned_stocks": ["美光科技"]
+  },
+  {
+    "index": 31,
+    "summary": "A股休市期间外围上涨，抱怨买了差ETF。",
+    "sentiment": "negative",
+    "key_opinions": ["A股休市外围全涨", "买了最绿的跨境ETF", "外国人坏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "存储公司财报好但股价不涨，周期股讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["财报好但股价不涨", "市场视为周期股见顶", "管理层回购影响"],
+    "mentioned_stocks": ["美光", "英伟达", "闪迪"]
+  },
+  {
+    "index": 33,
+    "summary": "韩国血洗杠杆后股市稳定，对比A股。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国血洗杠杆后指数稳住", "A股挥刀子宫不同", "全球唯一欺诈市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "A股和港股假期休息，外围大涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股港股最垃圾市场休息", "外围因此大涨", "嘲讽A股不开盘是利好"],
+    "mentioned_stocks": ["日经ETF"]
+  },
+  {
+    "index": 35,
+    "summary": "科技股下跌，讨论是否需腰斩。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股可能需腰斩", "市场已熊", "阴跌横盘磨人阶段"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 36,
+    "summary": "全球股市上涨，A股假期休息不跟。",
+    "sentiment": "negative",
+    "key_opinions": ["全世界涨A股不跟", "A股关门是利好", "全球通胀我们通缩"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "比较韩国和日本股市表现差异。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国股市不行", "日本股市猛涨", "与A股关系影响表现"],
+    "mentioned_stocks": ["日经", "韩国股市"]
+  },
+  {
+    "index": 38,
+    "summary": "外围形势好，但预测节后回调。",
+    "sentiment": "mixed",
+    "key_opinions": ["外围涨形势大好", "预测10.8回调", "最大空头放假"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "海螺水泥因房地产带动可能上涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["水泥指数猛拉", "房地产带动", "大盘股不好涨"],
+    "mentioned_stocks": ["海螺水泥"]
+  },
+  {
+    "index": 40,
+    "summary": "A股无论外围涨跌都表现差。",
+    "sentiment": "negative",
+    "key_opinions": ["外围涨A股高开砸盘", "外围跌A股死跌", "市场太正规"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "对比日经和上证指数走势差异。",
+    "sentiment": "mixed",
+    "key_opinions": ["日经高开高走常见", "A股少见高开高走", "经济通胀影响股市"],
+    "mentioned_stocks": ["日经", "上证"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论赛力斯和华为合作可能性。",
+    "sentiment": "mixed",
+    "key_opinions": ["合作互利共赢", "分赃不均导致矛盾", "需重签协议降低分成"],
+    "mentioned_stocks": ["赛力斯", "华为"]
+  },
+  {
+    "index": 43,
+    "summary": "机长打架事件，可能影响市场但无关股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["机长打架事件描述", "可能影响油价", "与股票无关"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "韩国股市低开高走，讨论后续走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国股市终于低开高走", "8号前需冲上去", "A股关门是利好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "房地产股地天板，讨论是洗盘还是出货。",
+    "sentiment": "mixed",
+    "key_opinions": ["地天板可能是洗盘或骗接盘", "需看后续延续性", "短线筹码博弈"],
+    "mentioned_stocks": ["万科", "保利"]
+  },
+  {
+    "index": 46,
+    "summary": "股民分享亏损，比惨大会。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重比惨", "锤哥亏两千多万", "互相安慰"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "讨论假期港股走势，预期平淡。",
+    "sentiment": "negative",
+    "key_opinions": ["港股可能死样", "港股通关闭影响大", "不会有大波动"],
+    "mentioned_stocks": ["港股", "长飞", "剑桥"]
+  },
+  {
+    "index": 48,
+    "summary": "A股假期休息，美联储加息推迟。",
+    "sentiment": "negative",
+    "key_opinions": ["A股休息后加息推迟", "气愤于市场表现", "开盘后加息预期回来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "讨论日经股市是否休市。",
+    "sentiment": "mixed",
+    "key_opinions": ["日经不过中国国庆", "日本假期已经够多"],
+    "mentioned_stocks": ["日经"]
+  },
+  {
+    "index": 50,
+    "summary": "日经股市大涨，讨论投资机会和风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["日经大涨如过节", "买日经ETF有福", "但风险大于机会"],
+    "mentioned_stocks": ["日经ETF", "中韩ETF"]
+  }
+]
