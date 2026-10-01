@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "用户抱怨A股休市时全球股市上涨，暗示外国人针对，跨境溢价被拉高。",
+    "sentiment": "negative",
+    "key_opinions": ["A股休市时全球上涨", "外国人被指坏", "跨境溢价拉高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论赛力斯与华为合作变化，涉及依赖关系和利益分配问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["赛力斯依赖华为", "合作分赃不均", "可能重新谈判"],
+    "mentioned_stocks": ["赛力斯"]
+  },
+  {
+    "index": 3,
+    "summary": "用户感叹全球股市上涨但A股不开盘，预期节后可能下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["全球股市上涨", "A股不开盘", "可能等开盘就跌"],
+    "mentioned_stocks": ["纳指", "大A", "原油"]
+  },
+  {
+    "index": 4,
+    "summary": "对比日经225和上证指数走势，指出A股少见高开高走。",
+    "sentiment": "negative",
+    "key_opinions": ["日经走势不同", "A股少高开高走", "通胀影响"],
+    "mentioned_stocks": ["日经225", "上证指数"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论牛肉涨价，询问相关投资机会，质疑国内养牛企业。",
+    "sentiment": "mixed",
+    "key_opinions": ["牛肉涨价", "国内养牛企业烂", "双汇可能相关"],
+    "mentioned_stocks": ["双汇"]
+  },
+  {
+    "index": 6,
+    "summary": "用户问韩国股市弱而日本强的原因，涉及产业链和关系影响。",
+    "sentiment": "negative",
+    "key_opinions": ["日韩产业链不同", "韩国存储股差", "关系好坏影响股市"],
+    "mentioned_stocks": ["日经", "韩国股市"]
+  },
+  {
+    "index": 7,
+    "summary": "显示外围股市图片，用户预测节后回调，最大空头休息。",
+    "sentiment": "mixed",
+    "key_opinions": ["外围涨", "预计8号回调", "最大空头不上班"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "用户描述黄金高杠杆交易亏损经历，情绪崩溃寻求建议。",
+    "sentiment": "negative",
+    "key_opinions": ["高杠杆交易亏损", "无法停止", "建议严格执行止损"],
+    "mentioned_stocks": ["黄金", "纳斯达克"]
+  },
+  {
+    "index": 9,
+    "summary": "用户推荐大金重工，分享突破信号，提及欣旺达机会。",
+    "sentiment": "positive",
+    "key_opinions": ["大金重工突破前高", "推荐买入", "欣旺达低位机会"],
+    "mentioned_stocks": ["大金重工", "欣旺达"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论赛力斯和华为合作可能性，涉及利益和协议问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["合作互利共赢", "分赃不均", "需重新签协议"],
+    "mentioned_stocks": ["赛力斯", "华为"]
+  },
+  {
+    "index": 11,
+    "summary": "用户认为外围涨跌都会导致A股下跌，规律性强。",
+    "sentiment": "negative",
+    "key_opinions": ["外围涨A股砸盘", "外围跌A股跌", "规律性预测"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "讨论存储公司财报好但股价不涨，质疑周期股特性。",
+    "sentiment": "mixed",
+    "key_opinions": ["财报完美股价不涨", "周期股特性", "回购计划影响"],
+    "mentioned_stocks": ["美光", "存储相关"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论飞行员事件涉及地缘政治，影响可能有限。",
+    "sentiment": "mixed",
+    "key_opinions": ["事件涉及地缘政治", "影响可能有限", "航空安全问题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "韩国股市连续高开低走后低开高走，用户期待上涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国股市走势", "8号前冲不上不利", "A股休市影响"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论海螺水泥是否因房地产利好上涨，用户谨慎乐观。",
+    "sentiment": "mixed",
+    "key_opinions": ["房地产带动水泥", "可能死猫跳", "大盘股难涨"],
+    "mentioned_stocks": ["海螺水泥"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论房地产地天板操作意图，怀疑洗盘或骗接盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能洗盘或骗接盘", "需看延续性", "短线筹码博弈"],
+    "mentioned_stocks": ["房地产板块"]
+  },
+  {
+    "index": 17,
+    "summary": "用户分享亏损经历，互相比较，市场情绪惨烈。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重", "比惨心态", "市场难做"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论假期港股走势，预期无大波动，港股通关闭影响大。",
+    "sentiment": "negative",
+    "key_opinions": ["港股通关闭影响", "预计无大波动", "可能跟风A股"],
+    "mentioned_stocks": ["港股"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论黄金价格走势和交易策略，涉及支撑位分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金震荡", "做T操作", "支撑位分析"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 20,
+    "summary": "用户抱怨A股休息时加息预期变化，等开盘加息回来。",
+    "sentiment": "negative",
+    "key_opinions": ["A股休息时加息推迟", "等A股开盘加息回来", "市场嘲讽"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "询问日经是否休市，日本假期多已提前放假。",
+    "sentiment": "mixed",
+    "key_opinions": ["日经不过国庆", "日本假期多", "已提前放假"],
+    "mentioned_stocks": ["日经"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论日经上涨原因，股票是支柱但有泡沫风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["股票是日本支柱", "泡沫风险", "日经ETF机会"],
+    "mentioned_stocks": ["日经ETF"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论散户购买美债可行性，利率诱人但有汇率风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["美债利率诱人", "汇率风险", "资金出海问题"],
+    "mentioned_stocks": ["美债"]
+  },
+  {
+    "index": 24,
+    "summary": "用户讨论月收益帖缺失，本月行情难做，盈利人数少。",
+    "sentiment": "negative",
+    "key_opinions": ["本月行情难做", "盈利人数少", "发A股收益帖害人"],
+    "mentioned_stocks": ["纳斯达克基金"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论利通王股票下跌，定增后一蹶不振，不如协创。",
+    "sentiment": "negative",
+    "key_opinions": ["利通王一蹶不振", "定增害人", "不如协创"],
+    "mentioned_stocks": ["利通王", "协创"]
+  },
+  {
+    "index": 26,
+    "summary": "用户认为科技股需再次腰斩才有机会，已熊市。",
+    "sentiment": "negative",
+    "key_opinions": ["科技已熊", "腰斩可能", "等所有人不相信"],
+    "mentioned_stocks": ["科技股", "科创50"]
+  },
+  {
+    "index": 27,
+    "summary": "询问固态电池股票紫竹高科黑历史，新面孔概念不纯。",
+    "sentiment": "mixed",
+    "key_opinions": ["紫竹高科新面孔", "反卡时代概念", "概念不纯"],
+    "mentioned_stocks": ["紫竹高科"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论商业航天是否最差板块，利好利空都跌，商业化远。",
+    "sentiment": "negative",
+    "key_opinions": ["商业航天无底洞", "利好利空都跌", "距离商业化远"],
+    "mentioned_stocks": ["商业航天板块"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论收入调节政策，涉及股市调节和富豪跑路问题。",
+    "sentiment": "negative",
+    "key_opinions": ["政策口号", "股市需调节", "富豪跑路"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "分享搞笑图片，涉及油价历史和国家补贴，带讽刺。",
+    "sentiment": "mixed",
+    "key_opinions": ["油价历史", "国家补贴", "幽默嘲讽"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "用户问兆易创新为何不涨，量化做T和筹码结构差。",
+    "sentiment": "negative",
+    "key_opinions": ["量化做T", "筹码结构差", "故事讲完"],
+    "mentioned_stocks": ["兆易创新", "德明利"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论美联储加息预期降温，油价影响，嘲讽A股。",
+    "sentiment": "mixed",
+    "key_opinions": ["加息预期降温", "油价影响", "嘲讽A股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "讨论美光科技财报超预期，但A股炒小炒差，AI泡沫质疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["财报超预期", "A股炒小炒差", "AI泡沫质疑"],
+    "mentioned_stocks": ["美光科技"]
+  },
+  {
+    "index": 34,
+    "summary": "用大富翁游戏类比股市不公平，银行贷款和有爹优势。",
+    "sentiment": "negative",
+    "key_opinions": ["游戏不公平", "类比银行贷款", "有爹优势"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "询问闲置资金理财方式，建议余额宝和理财产品。",
+    "sentiment": "mixed",
+    "key_opinions": ["余额宝等货币基金", "理财产品限购", "风险测试"],
+    "mentioned_stocks": ["余额宝", "微众银行"]
+  },
+  {
+    "index": 36,
+    "summary": "用户认为科技需放量，其他板块有机会，不应有执念。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技套牢盘多", "其他板块有机会", "不应有执念"],
+    "mentioned_stocks": ["科技股", "房地产", "白酒"]
+  },
+  {
+    "index": 37,
+    "summary": "用户指出A50期指与其他指数反向，行为幽默。",
+    "sentiment": "negative",
+    "key_opinions": ["A50期指反向", "幽默行为"],
+    "mentioned_stocks": ["A50期指"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论科技机构是否出完货，成交量不足，存量博弈。",
+    "sentiment": "mixed",
+    "key_opinions": ["机构可能出货", "成交量不足", "存量博弈"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 39,
+    "summary": "韩国股市第三季度大跌，倒数第二，A股可能更差。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市倒数", "A股更差", "双创表现"],
+    "mentioned_stocks": ["韩国KOSPI", "科创", "创业板"]
+  },
+  {
+    "index": 40,
+    "summary": "用户认为A股大资金预判强，美股科技涨不动但接近新高。",
+    "sentiment": "mixed",
+    "key_opinions": ["大资金预判强", "美股科技涨不动", "但美股接近新高"],
+    "mentioned_stocks": ["英伟达", "美股科技"]
+  },
+  {
+    "index": 41,
+    "summary": "用户分享被套科技股做T经历，无奈难以解套。",
+    "sentiment": "negative",
+    "key_opinions": ["被套做T", "难以解套", "人性克服"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论韩国七月血洗杠杆成功，对比A股挥刀子宫。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国血洗成功", "A股挥刀子宫", "全球唯一欺诈市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "讨论二次元区出现股票小白帖，股市难判断高低。",
+    "sentiment": "mixed",
+    "key_opinions": ["小白不理解股市", "股市难判断高低", "风险高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "用户认为美股像A股6月走势，纳指涨道指跌吸血。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指涨道指跌", "吸血效应", "全球吸血"],
+    "mentioned_stocks": ["纳斯达克", "道琼斯"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论优先股派息频率提高，年化12%比美债还稳。",
+    "sentiment": "mixed",
+    "key_opinions": ["年化12%优先股", "改为每日派息", "比美债还稳"],
+    "mentioned_stocks": ["STRD", "STRK"]
+  },
+  {
+    "index": 46,
+    "summary": "用户分享家人炒股亏损故事，典型错误导致家庭矛盾。",
+    "sentiment": "negative",
+    "key_opinions": ["家人典型错误", "亏损严重", "家庭矛盾"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "讨论中国平安是否可买，房地产利好保险，财务复杂。",
+    "sentiment": "mixed",
+    "key_opinions": ["房地产利好保险", "分红安心", "财务复杂"],
+    "mentioned_stocks": ["中国平安"]
+  },
+  {
+    "index": 48,
+    "summary": "用户分享亏损图表，7月跌幅大，空仓是学问。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损对称", "7月跌幅", "空仓学问"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论纳指ETF溢价波动，纳指横盘但收益涨，谁在买。",
+    "sentiment": "mixed",
+    "key_opinions": ["溢价涨高", "纳指横盘但收益涨", "谁在买"],
+    "mentioned_stocks": ["纳指ETF"]
+  },
+  {
+    "index": 50,
+    "summary": "用户分享严重亏损，Q3亏损41%，情绪惨烈。",
+    "sentiment": "negative",
+    "key_opinions": ["Q3亏损41%", "不想玩", "更惨例子"],
+    "mentioned_stocks": []
+  }
+]
+```
