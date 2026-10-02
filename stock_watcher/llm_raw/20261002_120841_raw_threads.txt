@@ -1,0 +1,548 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论赛力斯股价波动，疑似华为合作变动，市场情绪担忧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "赛力斯股价剧烈波动，回复16条讨论。",
+      "华为合作可能影响，类似九子夺嫡。",
+      "复合消息可能不实，利空风险高。"
+    ],
+    "mentioned_stocks": ["赛力斯"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论融资满仓满融的风险与意义，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "杠杆可为启动资金，但风险高。",
+      "消费贷利率低，融资意义受质疑。",
+      "融资投机易上瘾，可能亏损。"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 3,
+    "summary": "批评港股流动性差，类似世界新三板。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "港股流动性极差，无期待。",
+      "开市时间不同步，体验幽默。",
+      "核心目的是融资，海外公司不来。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "解释港股比A股便宜原因，如流动性折价。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "港股有流动性折价和红利税。",
+      "分红税20%~26%，需折价。",
+      "综合折价30~50%常见。"
+    ],
+    "mentioned_stocks": ["大唐发电"]
+  },
+  {
+    "index": 5,
+    "summary": "月收益帖缺失，暗示本月股市表现惨烈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "本月行情比七月更恶心。",
+      "赚钱人数百分比仅29%。",
+      "大部分股票通杀，惨烈。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论腾讯WorkBuddy AI工具使用体验。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI工具用于文档和PPT处理。",
+      "部分模型好用但贵，不如豆包。",
+      "可以接好用模型，提升效率。"
+    ],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 7,
+    "summary": "质疑某金融产品为何称为利好，可能是个坑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "产品可能是个坑，风险高。",
+      "涉及利率上涨风险。",
+      "取消贴息类似加息。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论大非农数据预期，对A股影响不确定性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "等待大非农数据波动。",
+      "A股通常低走，数据无用。",
+      "预期不及预期可能利好股市。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论科技股牛市逻辑，涉及中美资金竞争。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技必须涨以吸引资金。",
+      "资金外流风险，影响人才。",
+      "股价有情绪溢价，宏大叙事危险。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论FCC事件对东山精密影响，利空或利好分歧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "FCC可能利空光芯片国产化。",
+      "东山精密影响不确定。",
+      "市场解读分歧大，风险高。"
+    ],
+    "mentioned_stocks": ["东山精密", "沪电"]
+  },
+  {
+    "index": 11,
+    "summary": "抱怨Google股价走势差，持股体验差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "Google持股体验差，AI相关问题。",
+      "巴菲特持仓成本310。",
+      "走势恶心，开市就兑现。"
+    ],
+    "mentioned_stocks": ["Google"]
+  },
+  {
+    "index": 12,
+    "summary": "国泰海通副总辞职导致股价暴跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "副总辞职，港股暴跌8个点。",
+      "可能涉及内部问题或进去了。",
+      "海通内部有人被查。"
+    ],
+    "mentioned_stocks": ["国泰海通"]
+  },
+  {
+    "index": 13,
+    "summary": "批评港股为亚洲最垃圾市场，流动性差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "港股流动性没救，外围好但跌。",
+      "赛力斯港股表现差。",
+      "亚洲金融废墟实锤。"
+    ],
+    "mentioned_stocks": ["赛力斯"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论将利润当本金的心态问题。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利润当本金心态危险，影响交易。",
+      "需降低仓位，调整心态。",
+      "每天结算盈亏，减少风险博弈。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论赛力斯可能与华为复合，市场猜测。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "赛力斯可能与华为复合。",
+      "华为主动谈判，影响股价。",
+      "合作模式调整，可能利好。"
+    ],
+    "mentioned_stocks": ["赛力斯"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论港股流动性废墟化，全球洼地。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "港股流动性第一支撑缺失。",
+      "开市时间不同步，资金避险。",
+      "港股通关闭后流动性差。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论B站股价是否值得购买。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "B站盈利模式不行，不值得买。",
+      "港股风险高，不如买腾讯。",
+      "内容越做越差，舆论管制。"
+    ],
+    "mentioned_stocks": ["哔哩哔哩"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论FCC事件看港股反应，预测节后走势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "FCC影响看港股今天走势。",
+      "港股是废墟，没什么参考。",
+      "节后可能被光芯片带跌。"
+    ],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论美伊局势对股市影响，不满等待。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美伊局势不确定，影响油价。",
+      "资金避险，航司和海油受影响。",
+      "双方唱戏，但血仇难解。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论美股存储大涨，A股存储是否补涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股存储大涨，A股可能补涨。",
+      "关键看港股兆易反应。",
+      "量能不够，长鑫在区间震荡。"
+    ],
+    "mentioned_stocks": ["兆易", "德明利"]
+  },
+  {
+    "index": 21,
+    "summary": "质疑腾讯租用甲骨文AI芯片，国产替代不足。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "腾讯租用外国芯片，国产产能不足。",
+      "资本逐利，成本优先。",
+      "国产替代是炒科创心理安慰。"
+    ],
+    "mentioned_stocks": ["腾讯", "甲骨文"]
+  },
+  {
+    "index": 22,
+    "summary": "与美签单无起色，质疑市场反应。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "签单未带来股价起色。",
+      "可能等待节后反应。",
+      "消息已结束，无影响。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "讨论AI资本开支比美联储更有影响力。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI资本开支可能比美联储重要。",
+      "谁有钱谁说了算。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论药明康德上同花顺前十的原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "药明上榜，可能闷声发财。",
+      "看不懂，为何曝光。"
+    ],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 25,
+    "summary": "动画开播，分享股市相关梗图。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "分享韭美留梗图，娱乐性。",
+      "股市幽默，缓解压力。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论美股也炒小炒差，举例亏损企业。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美股也炒小炒差，情绪溢价高。",
+      "国产替代概念炒作。",
+      "精神分裂，市场不理性。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "寻找半导体弹性好的主板票。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "半导体弹性票如长电、通富。",
+      "弹性好的可能已起飞。",
+      "不建议再买半导体。"
+    ],
+    "mentioned_stocks": ["长电", "通富"]
+  },
+  {
+    "index": 28,
+    "summary": "分享乱玩股票亏损惨重的下场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损15万，心态崩溃。",
+      "需及时复盘，避免幻想。",
+      "回本需1200%收益率。"
+    ],
+    "mentioned_stocks": ["泰晶"]
+  },
+  {
+    "index": 29,
+    "summary": "让AI评价炒股水平，自我反思。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI评价炒股，目前亏损。",
+      "晒图分享，寻求认同。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "讨论假期港股走势，不确定性高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "港股通关闭，港股死样。",
+      "以前假期拉盘，今年可能差。",
+      "估计无大波动。"
+    ],
+    "mentioned_stocks": ["长飞", "剑桥"]
+  },
+  {
+    "index": 31,
+    "summary": "自从进股市，消费降级5倍。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股市导致消费大幅降级。",
+      "持仓亨通光电，亏损中。",
+      "本金155万降至100万。"
+    ],
+    "mentioned_stocks": ["亨通光电"]
+  },
+  {
+    "index": 32,
+    "summary": "黄金交易亏损痛苦，心态崩溃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黄金高杠杆交易亏损惨重。",
+      "浮亏抗单，心态痛苦。",
+      "考虑借贷，情绪失控。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "曝华为赛力斯准备复合，合作模式调整。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "华为赛力斯可能重新合作。",
+      "合作模式调整，鸿蒙智行服软。",
+      "市场反应积极，有反弹可能。"
+    ],
+    "mentioned_stocks": ["赛力斯"]
+  },
+  {
+    "index": 34,
+    "summary": "腾讯砸70亿美元租甲骨文AI芯片。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "腾讯租用外国AI芯片。",
+      "国产替代不足，资本逐利。",
+      "可能对股价有压力。"
+    ],
+    "mentioned_stocks": ["腾讯", "甲骨文"]
+  },
+  {
+    "index": 35,
+    "summary": "A股科技是电子厂，创新药不如仿制药。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股炒作，无实质业绩。",
+      "创新药90%赔钱货。",
+      "炒小炒差，量能不够。"
+    ],
+    "mentioned_stocks": ["药明"]
+  },
+  {
+    "index": 36,
+    "summary": "房地产短线地天板分析，博弈明显。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "地天板可能是洗盘或骗盘。",
+      "热度追求，无持续性。",
+      "短线筹码博弈，风险高。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "A股科技涨跌看长鑫作为风向标。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "长鑫是科技股风向标。",
+      "量能不够，化债市场。",
+      "基本面无存在感。"
+    ],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 38,
+    "summary": "费半爆拉，可能因软件硬件交替或FCC。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "费半爆拉，软件硬件交替。",
+      "FCC影响光芯片。",
+      "趁熊头休息爆拉。"
+    ],
+    "mentioned_stocks": ["费半"]
+  },
+  {
+    "index": 39,
+    "summary": "质疑A股上涨有异动警告，下跌没有。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "监管不公，上涨警告下跌无。",
+      "保护散户无效，化债市场。",
+      "高管想卖公司，狗队跑得快。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论20倍做空闪迪，高风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "做空闪迪，存储泡沫风险。",
+      "多空对战恐怖。",
+      "闪迪无HBM，空头多。"
+    ],
+    "mentioned_stocks": ["闪迪"]
+  },
+  {
+    "index": 41,
+    "summary": "询问科技是否利好，大师建议梭哈中际旭创。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大师建议梭哈中际旭创。",
+      "创业板可能大双头。",
+      "害怕，不确定利好。"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 42,
+    "summary": "推荐ST公司威领，可能下半年龙头。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "威领被兴业银锡要约收购。",
+      "小金属/钨/稀土概念。",
+      "ST板块贵金属牛股辈出。"
+    ],
+    "mentioned_stocks": ["威领"]
+  },
+  {
+    "index": 43,
+    "summary": "对AI看法，看多纳指技术分析。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "看多纳指，技术分析支持。",
+      "AI够用就行，国产芯片慢。",
+      "交卷了，可能该出货。"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 44,
+    "summary": "分析Spacex星舰14飞成功的资方意义。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "星舰故障下韧性打动资方。",
+      "成功入轨并释放卫星。",
+      "冗余设计和容错能力真实有效。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "个人故事：同事虚伪，消费差异大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "同事假装家暴，实际奢侈。",
+      "上班吃食堂，过节在国外。",
+      "股市影响生活心态。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "评价B站牢z的分析楼，技术指标可听。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "牢z有技术指标，但票不推荐。",
+      "量化因子，按指标操作。",
+      "跨牛熊因脸皮厚。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "抱怨3800点还天天减持，市场恶心。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高管减持，市场恶心。",
+      "狗队跑得快，保护不了散户。",
+      "化债市场，钱不能亏。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "美股光模块涨，A股不行，FCC影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美股光模块涨，A股跌。",
+      "FCC影响，市场垃圾。",
+      "炒小炒差，情绪溢价。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "美国PMI新高，中美对比市场不信。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美国PMI创三年新高。",
+      "中美对比，市场不相信数据。",
+      "相信国运，但需怀疑。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "讨论老馒头新高，易中天不涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "老馒头（某股票）要新高。",
+      "易中天（中际旭创）不涨因筹码。",
+      "看港股大哥明天反应。"
+    ],
+    "mentioned_stocks": ["老馒头", "易中天"]
+  }
+]
