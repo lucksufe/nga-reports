@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "港股和中概互联网市场表现差，流动性低，投资者可能转向美股。",
+    "sentiment": "negative",
+    "key_opinions": ["港股流动性差，无人问津。", "只有内地投资者在买，缺乏吸引力。", "部分股票如联想和长飞光纤有价值。"],
+    "mentioned_stocks": ["港股", "恒科", "中概互联网", "腾讯", "阿里", "联想", "长飞光纤"]
+  },
+  {
+    "index": 2,
+    "summary": "分析港股相对A股折价原因，包括流动性、税收等因素。",
+    "sentiment": "mixed",
+    "key_opinions": ["港股有流动性折价和红利税。", "折价30-50%常见。", "港股市场流动性差，外资不买。"],
+    "mentioned_stocks": ["大唐发电", "港股", "A股"]
+  },
+  {
+    "index": 3,
+    "summary": "投资者调整仓位，期待市场反弹，但面临流动性问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["持仓调整后等待市场反应。", "科技股位置低，但流动性问题严重。", "主力跑路，市场操纵。"],
+    "mentioned_stocks": ["光链", "东子", "源子", "港股"]
+  },
+  {
+    "index": 4,
+    "summary": "港股中际成交量高，外资可能判断非利空，等待反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["外资给出判断，可能非利空。", "假期港股常涨，但这次可能不同。", "等待V形反弹和横盘。"],
+    "mentioned_stocks": ["港中际", "中际旭创", "港股"]
+  },
+  {
+    "index": 5,
+    "summary": "评估孙正义在AI投资上的风险，AI对就业影响被高估。",
+    "sentiment": "negative",
+    "key_opinions": ["AI在可靠性和背锅性上不如人类。", "孙正义在2026年梭哈，可能晚节不保。", "AI替代就业威胁被高估。"],
+    "mentioned_stocks": ["孙正义", "软银", "OpenAI", "英伟达"]
+  },
+  {
+    "index": 6,
+    "summary": "月度收益讨论，市场表现差，赚钱人数少。",
+    "sentiment": "negative",
+    "key_opinions": ["九月行情难做，通杀。", "赚钱人数百分比低。", "建议分享纳斯达克基金而非A股收益。"],
+    "mentioned_stocks": ["基金", "纳斯达克"]
+  },
+  {
+    "index": 7,
+    "summary": "药明股价异动，原因不明，用户疑惑。",
+    "sentiment": "mixed",
+    "key_opinions": ["不理解药明为何突然上榜。", "闷声发大财更好。"],
+    "mentioned_stocks": ["药明"]
+  },
+  {
+    "index": 8,
+    "summary": "港股流动性极差，不如A股，IPO泛滥。",
+    "sentiment": "negative",
+    "key_opinions": ["港股流动性差，交易成本高。", "港股是全球最垃圾市场。", "港股IPO和再融资泛滥。"],
+    "mentioned_stocks": ["港股", "A股"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论购买受限产品如华强北芯片，官方可能支持进口。",
+    "sentiment": "mixed",
+    "key_opinions": ["华强北芯片价格高且需求大。", "官方走私或支持进口。", "进口芯片如H200和B系列。"],
+    "mentioned_stocks": ["华强北", "H200", "B系列"]
+  },
+  {
+    "index": 10,
+    "summary": "房地产政策被质疑，贴息可能隐含加息风险。",
+    "sentiment": "negative",
+    "key_opinions": ["政策可能不是利好而是陷阱。", "取消贴息类似加息。", "房贷长期贷款风险。"],
+    "mentioned_stocks": ["房地产", "房贷"]
+  },
+  {
+    "index": 11,
+    "summary": "评估腾讯WorkBuddy AI的实用性和模型选择。",
+    "sentiment": "mixed",
+    "key_opinions": ["调用ds、kimi模型表现差。", "混元模型适配好。", "用于文档和PPT较好。"],
+    "mentioned_stocks": ["腾讯", "WorkBuddy", "ds", "kimi", "混元", "豆包", "Claude"]
+  },
+  {
+    "index": 12,
+    "summary": "Google股价走势恶心，持股体验差，受AI和官司影响。",
+    "sentiment": "negative",
+    "key_opinions": ["Google走势恶心。", "巴菲特成本310，投资者跟风。", "AI垃圾和官司影响。"],
+    "mentioned_stocks": ["Google", "巴菲特"]
+  },
+  {
+    "index": 13,
+    "summary": "创新药板块选择，ADC vs. 上游原材料，资金决定表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["选择ADC但错过上游原材料机会。", "资金选择决定板块表现。", "蛋白是本轮创新药爆发点。"],
+    "mentioned_stocks": ["创新药", "ADC", "石药创新", "蛋白", "近岸蛋白"]
+  },
+  {
+    "index": 14,
+    "summary": "赛力斯港股突然上涨，可能与华为合作复合传闻有关。",
+    "sentiment": "mixed",
+    "key_opinions": ["港股小资金大波动。", "华为影响力大。", "合作复合传闻。"],
+    "mentioned_stocks": ["赛力斯", "港股", "华为"]
+  },
+  {
+    "index": 15,
+    "summary": "美股存储大涨，A股存储是否补涨，看港股兆易参考。",
+    "sentiment": "mixed",
+    "key_opinions": ["兆易、德明利调整后可能补涨。", "看港股兆易作为参考。", "存储模组厂量能不足。"],
+    "mentioned_stocks": ["美股存储", "兆易", "德明利", "港股兆易", "长鑫"]
+  },
+  {
+    "index": 16,
+    "summary": "个人分析看多科技股，基于技术指标和AI发展。",
+    "sentiment": "positive",
+    "key_opinions": ["纳斯达克指数多头排列，历史看涨。", "老美AI追求极限，国产AI够用。", "交卷后可能出货。"],
+    "mentioned_stocks": ["纳斯达克", "科技股"]
+  },
+  {
+    "index": 17,
+    "summary": "港股流动性极低，类似新三板，核心是融资。",
+    "sentiment": "negative",
+    "key_opinions": ["港股流动性极低。", "开市时间不同步。", "核心目的是融资。"],
+    "mentioned_stocks": ["港股", "新三板", "北交所"]
+  },
+  {
+    "index": 18,
+    "summary": "科技股必须涨以吸引人才和资金，避免资金外流。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技涨吸引资金，否则资金外流。", "股价不直接等于公司发展。", "避免宏大叙事绑定股价。"],
+    "mentioned_stocks": ["科技股", "纳斯达克"]
+  },
+  {
+    "index": 19,
+    "summary": "为财富自由使用杠杆融资，但风险高，可能上瘾。",
+    "sentiment": "mixed",
+    "key_opinions": ["杠杆在资产少时提供启动资金。", "风险高，可能上瘾。", "建议不融资，避免投机。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "美国可能取消夏令时，对投资者有利，减少调整成本。",
+    "sentiment": "positive",
+    "key_opinions": ["取消夏令时减少调整成本。", "对治安和压力有正面影响。", "建议废弃英制单位。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "腾讯租用甲骨文AI芯片，因国产算力产能不足。",
+    "sentiment": "negative",
+    "key_opinions": ["国产算力产能不足，需租用。", "国产芯片质量差。", "腾讯为赚钱选择更好方案。"],
+    "mentioned_stocks": ["腾讯", "甲骨文", "国产算力", "英伟达"]
+  },
+  {
+    "index": 22,
+    "summary": "腾讯砸70亿美元租甲骨文AI芯片，AI是刚需。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI是刚需，只能租。", "对AI可能是利空。", "国家禁买不禁租。"],
+    "mentioned_stocks": ["腾讯", "甲骨文"]
+  },
+  {
+    "index": 23,
+    "summary": "国泰海通副总辞职导致股价暴跌，可能涉及违规。",
+    "sentiment": "negative",
+    "key_opinions": ["副总辞职，股价暴跌。", "可能涉及违规。", "海通内部有问题。"],
+    "mentioned_stocks": ["国泰海通", "海通"]
+  },
+  {
+    "index": 24,
+    "summary": "A股科技像电子厂，创新药更差，小票易炒作。",
+    "sentiment": "negative",
+    "key_opinions": ["A股科技炒映射，业绩不支撑。", "创新药多数赔钱。", "小票更易炒作。"],
+    "mentioned_stocks": ["A股科技", "创新药", "酱香科技", "宁王"]
+  },
+  {
+    "index": 25,
+    "summary": "FCC消息对东山精密影响不确定，国产光芯片估值未知。",
+    "sentiment": "mixed",
+    "key_opinions": ["FCC可能利空或利好东山。", "国产光芯片估值未知。", "A股科技受外部消息影响大。"],
+    "mentioned_stocks": ["东山", "FCC", "大光", "易中", "光芯片"]
+  },
+  {
+    "index": 26,
+    "summary": "美股新闻签单但股价未动，可能需等节后。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能需等节后。", "已经结束。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "投资者分享亏损经历，强调复盘和心态管理重要性。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损15万，不敢让家人知道。", "复盘发现错误买点。", "心态急，操作变形。"],
+    "mentioned_stocks": ["泰晶"]
+  },
+  {
+    "index": 28,
+    "summary": "港股流动性差，表现全球最差，新股破发。",
+    "sentiment": "negative",
+    "key_opinions": ["港股流动性没救。", "新股破发，折价严重。", "港股是金融废墟。"],
+    "mentioned_stocks": ["港股", "赛力斯", "恒科", "小米"]
+  },
+  {
+    "index": 29,
+    "summary": "大师推荐梭哈中际旭创，但用户害怕，创业板可能做双头。",
+    "sentiment": "mixed",
+    "key_opinions": ["创业板可能做双头。", "大师推荐中际旭创。", "用户害怕。"],
+    "mentioned_stocks": ["创业板", "中际旭创"]
+  },
+  {
+    "index": 30,
+    "summary": "A股上涨有警告下跌无保护，散户被割。",
+    "sentiment": "negative",
+    "key_opinions": ["上涨警告保护散户无效。", "市场波动大，散户被套。", "化债市场，散户被割。"],
+    "mentioned_stocks": ["A股", "德明利", "宇树科技"]
+  },
+  {
+    "index": 31,
+    "summary": "费半指数爆拉，可能因FCC消息影响光芯片。",
+    "sentiment": "mixed",
+    "key_opinions": ["费半指数新高。", "FCC验证影响光芯片。", "趁熊头休息拉涨。"],
+    "mentioned_stocks": ["费半", "FCC", "光芯片", "易中"]
+  },
+  {
+    "index": 32,
+    "summary": "B站股价低但基本面差，港股非防御标的不值得买。",
+    "sentiment": "negative",
+    "key_opinions": ["B站内容变差。", "盈利模式不行。", "港股非防御标的不值得买。"],
+    "mentioned_stocks": ["B站", "港股", "腾讯", "联想"]
+  },
+  {
+    "index": 33,
+    "summary": "港股流动性枯竭，成废墟市场，上市公司为融资不顾股价。",
+    "sentiment": "negative",
+    "key_opinions": ["流动性是第一支撑。", "港股通关闭后无人交易。", "上市公司为融资不顾股价。"],
+    "mentioned_stocks": ["港股", "A股"]
+  },
+  {
+    "index": 34,
+    "summary": "非农数据预测，影响股市，偏向不及预期利好。",
+    "sentiment": "mixed",
+    "key_opinions": ["等待数据波动。", "数据可能假，影响市场。", "偏向不及预期，利好股市。"],
+    "mentioned_stocks": ["大非农", "美联储"]
+  },
+  {
+    "index": 35,
+    "summary": "投资者将利润当本金，心态敏感，可能操作变形。",
+    "sentiment": "mixed",
+    "key_opinions": ["利润当本金导致敏感。", "可能操作变形。", "建议降低仓位，调整心态。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "赛力斯可能与华为复合，重新合作，模式可能调整。",
+    "sentiment": "mixed",
+    "key_opinions": ["赛力斯跪下复合。", "华为主动谈合作。", "合作模式可能调整。"],
+    "mentioned_stocks": ["赛力斯", "华为", "江淮"]
+  },
+  {
+    "index": 37,
+    "summary": "FCC消息看港股反应判断影响，港股是废墟但影响A股。",
+    "sentiment": "mixed",
+    "key_opinions": ["看港股知国庆走势。", "港股是废墟，但影响A股。", "光芯片可能继续跌。"],
+    "mentioned_stocks": ["FCC", "港股", "东山", "光芯片"]
+  },
+  {
+    "index": 38,
+    "summary": "AI巨头资本开支比美联储更有影响力，有钱说了算。",
+    "sentiment": "positive",
+    "key_opinions": ["有钱谁说了算。"],
+    "mentioned_stocks": ["AI巨头"]
+  },
+  {
+    "index": 39,
+    "summary": "分享动画和股市梗图，娱乐性质。",
+    "sentiment": "mixed",
+    "key_opinions": ["分享B站动画链接。", "发梗图。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "美股也炒小炒差，如亏损企业炒高，与A股类似。",
+    "sentiment": "mixed",
+    "key_opinions": ["亏损企业炒高。", "国产替代概念。", "与A股类似。"],
+    "mentioned_stocks": ["美股", "光模块", "易中", "半导体ETF"]
+  },
+  {
+    "index": 41,
+    "summary": "寻找弹性好的半导体主板票，但板块不乐观。",
+    "sentiment": "mixed",
+    "key_opinions": ["长电、通富可能。", "弹性票已起飞。", "半导体板块不乐观。"],
+    "mentioned_stocks": ["半导体", "长电", "通富", "588170", "赵姨"]
+  },
+  {
+    "index": 42,
+    "summary": "用AI评价个人炒股水平，目前亏损。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI给出评价。", "目前亏损。", "分享截图。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "假期港股可能表现差，港股通关闭交易少。",
+    "sentiment": "negative",
+    "key_opinions": ["港股今年最菜。", "港股通关闭，交易少。", "可能不上不下。"],
+    "mentioned_stocks": ["港股", "长飞", "剑桥"]
+  },
+  {
+    "index": 44,
+    "summary": "股市亏损导致消费降级，从月花5万降到8000。",
+    "sentiment": "negative",
+    "key_opinions": ["从月花5万降到8000。", "持仓亨通光电。", "金融消费也是消费。"],
+    "mentioned_stocks": ["亨通光电", "胜宏"]
+  },
+  {
+    "index": 45,
+    "summary": "黄金交易亏损，心态崩溃，高杠杆赌博上瘾。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金一波带走利润。", "高杠杆赌博上瘾。", "考虑借贷，痛苦。"],
+    "mentioned_stocks": ["黄金", "纳斯达克"]
+  },
+  {
+    "index": 46,
+    "summary": "华为和赛力斯可能复合，重新合作，可能降低抽成。",
+    "sentiment": "mixed",
+    "key_opinions": ["重新谈判合作。", "合则两利。", "可能降低抽成。"],
+    "mentioned_stocks": ["华为", "赛力斯", "问界"]
+  },
+  {
+    "index": 47,
+    "summary": "房地产地天板，短线博弈，可能是洗盘或骗接盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["地天板吸引热度。", "可能是洗盘或骗接盘。", "观察延续性。"],
+    "mentioned_stocks": ["房地产", "万科", "保利"]
+  },
+  {
+    "index": 48,
+    "summary": "A股科技风向标是长鑫，看AI叙事增长。",
+    "sentiment": "mixed",
+    "key_opinions": ["长鑫是风向标。", "看AI叙事增长。", "中际是锚点。"],
+    "mentioned_stocks": ["长鑫", "A股科技", "中际旭创"]
+  },
+  {
+    "index": 49,
+    "summary": "存储股票多空博弈，20倍做空闪迪，周期性强。",
+    "sentiment": "mixed",
+    "key_opinions": ["20倍做空闪迪。", "存储周期性强。", "闪迪无HBM，易被做空。"],
+    "mentioned_stocks": ["闪迪", "美光", "迪王"]
+  },
+  {
+    "index": 50,
+    "summary": "推荐威领ST股，有收购概念，小金属/钨/稀土。",
+    "sentiment": "positive",
+    "key_opinions": ["威领被兴业银锡收购。", "小金属/钨/稀土概念。", "历史上ST板块有牛股。"],
+    "mentioned_stocks": ["威领", "兴业银锡", "嘉宇矿业"]
+  }
+]
