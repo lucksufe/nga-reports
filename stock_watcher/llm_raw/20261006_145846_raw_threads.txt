@@ -1,0 +1,546 @@
+[
+  {
+    "index": 1,
+    "summary": "DeepSeek融资超120亿美元，腾讯和宁德时代领投，反映AI投资热潮，但引发算力与科技股担忧。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI投资热潮，融资规模超预期。",
+      "算力是瓶颈，华为需突破。",
+      "先进制程关键，中芯需发力。"
+    ],
+    "mentioned_stocks": ["DeepSeek", "腾讯", "宁德时代", "华为", "中芯国际"]
+  },
+  {
+    "index": 2,
+    "summary": "日经指数上涨原因讨论，包括日元贬值、全球市场联动，对比A股表现。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "日元贬值驱动日经上涨。",
+      "全球股市上涨，A股不涨。",
+      "半导体板块表现强劲。"
+    ],
+    "mentioned_stocks": ["日经指数", "纳指", "道指"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论A股简单低买高卖策略，调侃其有效性，提及节日行情。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "低买高卖策略，但可能失效。",
+      "节日行情策略：过年前买，元宵节前卖。",
+      "质疑简单策略的有效性。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "中国在AI领域被美国孤立，寻找不易被制裁的科技股投资机会。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美国AI领先，中国被孤立。",
+      "寻找不易被制裁的科技股。",
+      "存储和PCB相关股票被讨论。"
+    ],
+    "mentioned_stocks": ["汉钟王", "生益科技", "沪电股份", "深南电路", "胜宏科技", "长鑫", "澜起", "长飞"]
+  },
+  {
+    "index": 5,
+    "summary": "回顾中国平安与华夏幸福事件，讨论股票投资历史。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中国平安投资激进。",
+      "ST华幸赌资产重组。",
+      "29号买入平安。"
+    ],
+    "mentioned_stocks": ["中国平安", "华夏幸福"]
+  },
+  {
+    "index": 6,
+    "summary": "AI图片引发讨论，指向A股市场，带有幽默感。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国服AI大佬多。",
+      "隐含A股市场的调侃。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论韩国和日本股市表现，存储板块技术分析。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国股市横盘，存储板块表现。",
+      "美光、闪迪等存储股表现。",
+      "技术分析：72日线压制。"
+    ],
+    "mentioned_stocks": ["韩国指数", "美光", "闪迪", "铠侠"]
+  },
+  {
+    "index": 8,
+    "summary": "分析A股科技股和股东回报，提及ABC投资策略，表达谨慎态度。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "ABC策略：Anything but China。",
+      "中国市场回报失望。",
+      "税务和监管不确定性。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "推荐成品油运输股招商南油，基于全球缺油趋势。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "成品油运输龙头，逻辑类似原油油运。",
+      "原油运输大周期已立。",
+      "目标价8元。"
+    ],
+    "mentioned_stocks": ["招商南油", "招商轮船"]
+  },
+  {
+    "index": 10,
+    "summary": "预测A股开盘下跌，外围市场回调，讨论可能影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美日股市涨后必回调。",
+      "A股可能独立行情或跟跌。",
+      "外围市场操盘影响。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "投资爆仓经历分享，讨论黄金流动性和MT5软件使用。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黄金流动性问题导致爆仓。",
+      "建议减少看盘频率。",
+      "讨论MT5软件使用。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "纳指创新高，对比A股表现，讨论投资策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指持续创新高，A股不涨。",
+      "产业逻辑和产业链威力。",
+      "定投纳指策略。"
+    ],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 13,
+    "summary": "股票交易佣金讨论，询问券商推荐。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "佣金万一免五。",
+      "询问券商推荐。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "A股震荡，全球股市上涨，质疑机制问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股震荡，全球上涨。",
+      "可能指数编制问题。",
+      "社保基金高抛低吸。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "假设薛院士获诺奖，讨论相关股票可能上涨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "高争民爆易普力可能上涨。",
+      "威高血净相关。"
+    ],
+    "mentioned_stocks": ["高争民爆", "易普力", "威高血净"]
+  },
+  {
+    "index": 16,
+    "summary": "投资方法论分享，结合图形和逻辑，讨论A股持股文化。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "大A不鼓励持股，缺乏回购注销文化。",
+      "低位盘逻辑，高位看图形。",
+      "固态电池相关股票机会。"
+    ],
+    "mentioned_stocks": ["洗霸", "国轩", "盟固利", "领湃", "翔丰华", "先导"]
+  },
+  {
+    "index": 17,
+    "summary": "股票分析逻辑讨论，质疑市场有效性和事后分析。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "逻辑分析不如看盘面。",
+      "筹码结构和主力行为。",
+      "事后诸葛亮。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "外围股市上涨，欧洲表现弱，讨论A股影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "日韩巴西股市上涨。",
+      "欧洲股市萎靡。",
+      "A股可能跟跌。"
+    ],
+    "mentioned_stocks": ["日经指数", "韩国指数", "巴西指数"]
+  },
+  {
+    "index": 19,
+    "summary": "美债收益率新高原因分析，担忧AI泡沫和风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美债收益率上涨：抛售美债买美股。",
+      "AI投资热潮影响。",
+      "泡沫风险。"
+    ],
+    "mentioned_stocks": ["美债", "纳斯达克指数"]
+  },
+  {
+    "index": 20,
+    "summary": "调侃正规市场概念，预测A股开盘回调。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "正规市场指美股等。",
+      "A股开盘可能回调。",
+      "等待买入机会。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "M2数据对比，讨论A股上涨潜力，但存在解禁压力。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "M2数据高，但定义不同。",
+      "解禁压力大。",
+      "弹药充足但可能用于砸盘。"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 22,
+    "summary": "A股逆势下跌，全球股市上涨，表达失望情绪。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股逆行，全球上涨。",
+      "独立行情或跟跌。",
+      "指数编制问题。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "假期反思投资，分享对AI信念和投资策略感悟。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "坚定AI未来信念。",
+      "后悔没买纳指ETF。",
+      "分散投资重要性。"
+    ],
+    "mentioned_stocks": ["纳斯达克ETF"]
+  },
+  {
+    "index": 24,
+    "summary": "预测日韩股市调整，全球暴跌迎接A股开市。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "日韩股市调整。",
+      "中东局势影响。",
+      "A股开市跟跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "高通与华为专利协议，讨论投资机会和国产链科技股。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "高通支付专利费给华为。",
+      "关注国产链科技股。",
+      "5G华为优势。"
+    ],
+    "mentioned_stocks": ["高通", "华为", "韬定律", "半导体材料股"]
+  },
+  {
+    "index": 26,
+    "summary": "对比23年7月，预测A股大跌，分析宏观经济风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "类似23年7月，大熊市开始。",
+      "房地产新政带来寒冬。",
+      "出口泡沫破裂。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "投资决策讨论，是否卖出科技股，强调机会与风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股可能第二波上涨。",
+      "宁可套牢不能踏空。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "美股强劲上涨，马斯克相关股票讨论，表达兴奋。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "美股强劲上涨。",
+      "SpaceX相关股票。",
+      "后悔卖出。"
+    ],
+    "mentioned_stocks": ["SpaceX", "谷歌", "苹果"]
+  },
+  {
+    "index": 29,
+    "summary": "纳指新高，对比A股，讨论预测和讽刺。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指持续创新高。",
+      "A股可能预判美股跌。",
+      "恶意新高。"
+    ],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 30,
+    "summary": "哲学和心理学书籍推荐，用于炒股心理调适。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "炒股是人性斗争。",
+      "推荐行为金融学书籍。",
+      "谨慎阅读。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "假期市场平静，等待新波动，讨论外围影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市场波动减少，平静。",
+      "等待新鬼故事。",
+      "外围市场影响。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "马斯克公司更名SI，AI概念讨论，带有幽默。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "SpaceX更名SI。",
+      "马斯克站队快。",
+      "利益分配问题。"
+    ],
+    "mentioned_stocks": ["SpaceX"]
+  },
+  {
+    "index": 33,
+    "summary": "纳指新高比喻为战锤帝国，讽刺A股不涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳指如帝国，不断攀升。",
+      "A股在3000点躺着。",
+      "散户煎熬。"
+    ],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 34,
+    "summary": "纳斯达克和英伟达新高，分析意义和风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳斯达克和英伟达创新高。",
+      "AI驱动上涨。",
+      "可能泡沫。"
+    ],
+    "mentioned_stocks": ["纳斯达克指数", "英伟达"]
+  },
+  {
+    "index": 35,
+    "summary": "投资铜的方法讨论，二级市场风险高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "投资铜条或股票。",
+      "有色水深，风险高。",
+      "铜价高，投资需谨慎。"
+    ],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 36,
+    "summary": "预测股市回调，外围市场影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "预测回调。",
+      "外围市场影响。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "中东冲突持续，高油价影响，讨论煤化工机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "高油价持续影响。",
+      "煤化工可能受益。",
+      "油价波动导致市场多空双杀。"
+    ],
+    "mentioned_stocks": ["宝丰能源"]
+  },
+  {
+    "index": 38,
+    "summary": "新股打新收益高但难中，讨论上市即巅峰现象。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "打新收益高，但难中。",
+      "上市即巅峰现象。",
+      "小散难中签。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "记录创新高的硬件股，如AMD、英伟达，看好美股。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "AMD、NVDA等硬件股新高。",
+      "台积电接近新高。",
+      "美股资金流入创新高。"
+    ],
+    "mentioned_stocks": ["AMD", "英伟达", "台积电", "DELL", "日月光"]
+  },
+  {
+    "index": 40,
+    "summary": "日经指数大涨，预测最后一天回调。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "日经指数大涨。",
+      "预测最后一天回调。"
+    ],
+    "mentioned_stocks": ["日经指数"]
+  },
+  {
+    "index": 41,
+    "summary": "存储板块走弱，因扩产公告，但基本面可能未变。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "存储板块因扩产公告走弱。",
+      "叙事出现问题。",
+      "但基本面可能未变。"
+    ],
+    "mentioned_stocks": ["美光", "海力士", "西数", "希捷", "三星"]
+  },
+  {
+    "index": 42,
+    "summary": "英伟达股价新高，标题党讽刺，讨论市场表现。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "英伟达股价新高，标题党。",
+      "正规市场表现。",
+      "等待回调。"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 43,
+    "summary": "澜起科技转向CPU概念，期待独立行情，但需谨慎。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "澜起科技脱离存储概念。",
+      "可能走出独立行情。",
+      "但需谨慎观察。"
+    ],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 44,
+    "summary": "分析油、美债、美股关系，AI硬科技支撑美股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "油价上涨、美债利率上涨、美股下跌关系。",
+      "AI硬科技支撑美股。",
+      "中东局势影响。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "节后A股投资策略讨论，科技反弹、银行防守或空仓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技博弈反弹。",
+      "银行防守。",
+      "空仓观望。"
+    ],
+    "mentioned_stocks": ["科技股", "银行股"]
+  },
+  {
+    "index": 46,
+    "summary": "AI硬件泡沫分析，基于算力需求，谨慎乐观。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI硬件是否泡沫取决于算力需求。",
+      "算力需求存在，可能不是泡沫。",
+      "考虑电力和寿命问题。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "美股创造价值，A股分配资源，讽刺散户资金被割。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股是资源分配市场。",
+      "散户资金被分配。",
+      "割韭菜行为。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "美债抛售原因分析，资本看好AI盈利，风险同步放大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "资本抛售美债，买美股AI股。",
+      "看好AI盈利能力。",
+      "风险同步放大。"
+    ],
+    "mentioned_stocks": ["美债", "纳斯达克指数"]
+  },
+  {
+    "index": 49,
+    "summary": "生益科技投资讨论，消息面利好和3季报超预期。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "生益科技有忠诚派买入。",
+      "郭明錤消息面利好。",
+      "3季报超预期。"
+    ],
+    "mentioned_stocks": ["生益科技"]
+  },
+  {
+    "index": 50,
+    "summary": "美债收益上涨因素分析，抛售和美元信用问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美债收益率上涨原因：抛售。",
+      "金融机构调整配置。",
+      "美元信用问题。"
+    ],
+    "mentioned_stocks": ["美债"]
+  }
+]
