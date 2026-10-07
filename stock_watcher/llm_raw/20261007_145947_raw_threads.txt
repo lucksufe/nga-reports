@@ -1,0 +1,546 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论特变电工股票，有利好消息但K线走势吓人，散户互搏，机构可能已撤离。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "有利好但K线吓尿",
+      "机构都跑了，散户左右互搏",
+      "跌幅看不懂，基本面解释不了"
+    ],
+    "mentioned_stocks": ["特变电工"]
+  },
+  {
+    "index": 2,
+    "summary": "新闻让人尴尬，总熊头归位，市场回调，假期前后反差大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "总熊头回归的威力",
+      "1-6号岁月静好，7号鬼故事扎堆",
+      "明天恭迎总熊头归位"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "中国公司搞大模型困难，成本高、买不到卡，但资本家赚钱，市场不认。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "贵，还买不到卡，股票价值市场不认",
+      "资本家不做慈善，但搞大模型的个个财富自由",
+      "智谱募了很多钱，deepseek抢着要"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "股市不如游戏饰品投资，饰品暴涨，股市轮动但科技被套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大A轮动还是有的，长持能轮动解套",
+      "军团至宝暴涨20%，饰品收益高",
+      "科技被挂了，割肉跑了"
+    ],
+    "mentioned_stocks": ["北化（硝化棉龙头）"]
+  },
+  {
+    "index": 5,
+    "summary": "美股风险高，VIX低，可能崩盘，但空头不死多头不止。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "高债息+高油价+地缘冲突，VIX只有15",
+      "空头不死多头不止，VIX低是害怕的地方",
+      "美股风险没A股大"
+    ],
+    "mentioned_stocks": ["纳指", "纳斯达克", "标普"]
+  },
+  {
+    "index": 6,
+    "summary": "港股流动性差，药明换手率低，交易所问题，投资体验差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "药明换手率0.12%，被交易所耽误",
+      "港股是金融粪坑，城市一天不如一天",
+      "没有南向资金港股就是路边一条"
+    ],
+    "mentioned_stocks": ["药明"]
+  },
+  {
+    "index": 7,
+    "summary": "韩国股市表现差，存储股不振，杠杆限制后一潭死水。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "存储成共识了，涨不了",
+      "棒子今年涨完了，后面横盘",
+      "杠杆被限制后一潭死水"
+    ],
+    "mentioned_stocks": ["棒子（韩国股市）", "三星海力士"]
+  },
+  {
+    "index": 8,
+    "summary": "恒科指数表现差，不跟涨跌，没有兜底，估值合理。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "恒科不跟跌也不跟涨，跌跌不休",
+      "恒科拿来护盘的绷不住",
+      "永远维持在合理估值"
+    ],
+    "mentioned_stocks": ["恒科（恒生科技指数）"]
+  },
+  {
+    "index": 9,
+    "summary": "日本东证指数创新高，讨论散户和机构角色，科技板块强势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "散户是没法把科技买出来的",
+      "公募基金归类到机构/主力",
+      "东升了"
+    ],
+    "mentioned_stocks": ["东证指数", "科技板块"]
+  },
+  {
+    "index": 10,
+    "summary": "建议关闭A股，认为它是祸害，对世界好，纳指新高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "祸害人类股市，关门对世界好",
+      "总熊头一开，别人涨得好就回调",
+      "不开也不会有那么多罕见"
+    ],
+    "mentioned_stocks": ["纳指基金"]
+  },
+  {
+    "index": 11,
+    "summary": "推荐SpaceX和NVIDIA为省心投资标的，指数更省心。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "SpaceX宇宙基建包工头",
+      "NVIDIA算力军火商",
+      "买指数如QQQ和SPY更省心"
+    ],
+    "mentioned_stocks": ["SpaceX", "NVIDIA", "QQQ", "SPY", "VOO"]
+  },
+  {
+    "index": 12,
+    "summary": "OpenAI发布论文对AI利好，但国内可能躺平，菲尔茨奖前景不明。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国内会加强AI投入",
+      "国内最擅长躺平，看内需",
+      "以后有没有菲尔茨奖都不好说"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "美股存储股基本面好但股价不涨，资金问题，需求无限但钱有限。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI对存储需求无限大，但盘子太大",
+      "需求无限个锤子，钱不是无限的",
+      "海力士ADR解禁压制股价"
+    ],
+    "mentioned_stocks": ["存储股", "海力士", "美光", "闪迪"]
+  },
+  {
+    "index": 14,
+    "summary": "港股科技和创新药大跌，讨论后续操作。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技、创新药都大跌",
+      "明天跟跌",
+      "抄底呀"
+    ],
+    "mentioned_stocks": ["科技", "创新药"]
+  },
+  {
+    "index": 15,
+    "summary": "预测上证指数会跌破3741点，成交量萎靡。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "3.23月上证最低3794，7.17砸穿3741",
+      "3700对大A太高了",
+      "成交额萎靡，看上证意义不大"
+    ],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论周四开盘可能高开，但担心回调，东山精密套牢。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "高开别再跑了，东山还有8个点回本",
+      "包跑的，放弃幻想",
+      "周四周五大概率低开或砸盘"
+    ],
+    "mentioned_stocks": ["东山"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论佣金高低，券商推荐，佣金万一免五。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "万一还免5了，真好",
+      "现在啥券商好，有推荐的么"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "外围跌市，预判A股明天跌，影响情绪。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "感觉很影响明天的情绪",
+      "预判大A明天要跌",
+      "长假前后涨跌规律"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "香港被评为最自由经济体，但港股没人玩，自由落体。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "花了多少钱买的报告",
+      "港股没人玩了",
+      "最自由落体"
+    ],
+    "mentioned_stocks": ["港股"]
+  },
+  {
+    "index": 20,
+    "summary": "港股个股波动，澜起科技跳水，流动性差，内资口碑差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "港股流动性差，不到2亿砸8个点",
+      "内资口碑臭了，外资怕被砸",
+      "中国公司是原罪"
+    ],
+    "mentioned_stocks": ["金枪鱼（可能指澜起科技）", "澜起科技"]
+  },
+  {
+    "index": 21,
+    "summary": "感叹A股开盘，熟悉的味道回来。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "马上迎接大A开盘，各种熟悉的味道都回来了",
+      "真踏马晦气"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "港股大跌，欢迎A股开盘，恒科投资体验差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "谁才是蓝星最大体系一目了然",
+      "买了恒科真是倒了八辈子霉了"
+    ],
+    "mentioned_stocks": ["恒科"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论俄罗斯肺鼠疫事件，是否有投资机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "利好卡普空",
+      "以岭药业可能蹭热点",
+      "利好殡葬"
+    ],
+    "mentioned_stocks": ["卡普空", "以岭药业", "华北制药"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论地产板块政策变化，从金融股转消费股，投资机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "住房消费纳入大宗商品",
+      "地产股是消费股，不是金融股",
+      "硅进碳退是未来，人类消费萎缩"
+    ],
+    "mentioned_stocks": ["地产股", "ST板块"]
+  },
+  {
+    "index": 25,
+    "summary": "竞猜明天A股开盘走势，普遍悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高开低走",
+      "平开拉高A杀",
+      "99.99999999%低走"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "买标普和纳指ETF，预期赚钱，但溢价高。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "只要撑过明天就能锁定胜局",
+      "纳指溢价10%，预期打满",
+      "会杀溢价"
+    ],
+    "mentioned_stocks": ["标普", "纳指", "纳指ETF"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论A股科技股和股东回报，市场不鼓励持股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "Anything but China，谨慎中国资产",
+      "A股不是鼓励持股的市场",
+      "缺乏回购注销文化"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 28,
+    "summary": "建议挂隔夜单兆易创新，存储股不振。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "已经无人生还了",
+      "存储真不是人玩的",
+      "美国人都不买存储了"
+    ],
+    "mentioned_stocks": ["兆易创新", "存储股"]
+  },
+  {
+    "index": 29,
+    "summary": "建议存储股投资者换赛道，存储股IV低，横盘期。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "夜盘不跟韩力士了，大机构撤资",
+      "美存IV降到0%，今年历史最低",
+      "横盘一两个月，好的话横盘"
+    ],
+    "mentioned_stocks": ["美存", "海美闪", "闪迪", "韩存"]
+  },
+  {
+    "index": 30,
+    "summary": "深科技可能有利好，讨论卖飞和买回时机。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "深科技热度飙到11名",
+      "机械硬盘扩产，TDK磁头",
+      "周四开盘能不能买"
+    ],
+    "mentioned_stocks": ["深科技", "东电化", "TDK"]
+  },
+  {
+    "index": 31,
+    "summary": "建滔股票从跌6%回涨，便宜是利好。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "便宜就是最大的利好",
+      "主升浪啊，稍微砸一点就是超卖"
+    ],
+    "mentioned_stocks": ["建滔"]
+  },
+  {
+    "index": 32,
+    "summary": "阿里股价跌5%，讨论阿里问题，空头狙击。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "阿里不要买，没有投资回报",
+      "空头狙击主战场，狙击范大勤",
+      "恒科加速赶底"
+    ],
+    "mentioned_stocks": ["阿里", "恒科"]
+  },
+  {
+    "index": 33,
+    "summary": "外围市场回调，预判A股开盘下跌，经典剧本。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美日韩热钱撤资，喜迎大A开门",
+      "总熊头明天上线",
+      "经典剧本"
+    ],
+    "mentioned_stocks": ["美日韩指数"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论投资策略，看图+逻辑结合，科技被套后短线操作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大A不是鼓励持股的市场",
+      "看图说话做短线，胜率高",
+      "低位盘逻辑，高位看图形"
+    ],
+    "mentioned_stocks": ["科技票", "固态电池相关（洗霸、国轩等）"]
+  },
+  {
+    "index": 35,
+    "summary": "美股科技股轮流拉盘调整，AI核心强势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI核心几个在左脚踩右脚",
+      "简单说啥操作都不用找几个大哥躺倒",
+      "崩起来也是轮流拉新低"
+    ],
+    "mentioned_stocks": ["美股科技股"]
+  },
+  {
+    "index": 36,
+    "summary": "证金汇金资金充足，外资抛压大，国家队高抛低吸。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "证金汇金子弹充足，外资抛压历史峰值",
+      "绝种队做t胜率和收益更高",
+      "国家队先开始高抛低吸"
+    ],
+    "mentioned_stocks": ["证金汇金", "外资"]
+  },
+  {
+    "index": 37,
+    "summary": "预测全球市场暴跌迎接A股开盘，日韩调整。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "经典剧本",
+      "总熊头不开门",
+      "中东局势升级，跌是正常的"
+    ],
+    "mentioned_stocks": ["日经", "韩国指数"]
+  },
+  {
+    "index": 38,
+    "summary": "比较中美股市表现，英伟达涨500倍，阿里反转。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "英伟达涨了500倍",
+      "当年阿里=21个英伟达，现在反过来了",
+      "中概有负溢价"
+    ],
+    "mentioned_stocks": ["英伟达", "阿里"]
+  },
+  {
+    "index": 39,
+    "summary": "澜起科技被识别为CPU概念，走势独立，但需观察。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "澜起知道自己是CPU概念了",
+      "有赚就赶紧走，一时半会难起来",
+      "韩国调查结束前安心做波段"
+    ],
+    "mentioned_stocks": ["澜起科技", "英特尔"]
+  },
+  {
+    "index": 40,
+    "summary": "假期感悟，对AI信念坚定，投资策略反思。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "更坚定AI是未来的信念",
+      "相信国运，定投纳斯达克",
+      "只有红利高息是散户唯一出路"
+    ],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 41,
+    "summary": "市场下跌，原因可能是A股开盘，资金避险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "总熊头要开门了",
+      "资金回流躲避风险",
+      "大A开门就是最大利空"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "指数新高但经济不好，批评媒体吹喇叭，新低才是好事。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "经济一天不如一天，天天吹喇叭",
+      "肉喇叭让人恶心",
+      "新低才是好事，蹲的越深跳的越高"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "讨论散户使用头部券商和小券商的区别。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "挂单通道"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "A股关注度升但表现差，全球最美逆行者。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "全世界都涨，就你跌",
+      "关注度指看笑话",
+      "全球最美逆行者"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "预测节后大盘高开低走。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创业板+5%开然后砸到+1%",
+      "不可能开这么高",
+      "港股A50相对于节前都跌了"
+    ],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 46,
+    "summary": "预测明天A股开盘情况，外围跌市。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "小韩子半死不活，小日子精准回调",
+      "黄金又跌了，油价回到100",
+      "连红几天+大A回归，今晚绿了"
+    ],
+    "mentioned_stocks": ["纳指", "日经"]
+  },
+  {
+    "index": 47,
+    "summary": "美股存储股下跌，讨论科技承压，A股跟跌。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "海力士今天这么跌，存储板块被空",
+      "存储去世了科技要承压",
+      "A股只跟去世的"
+    ],
+    "mentioned_stocks": ["海力士", "存储股", "光"]
+  },
+  {
+    "index": 48,
+    "summary": "原油跌，预判A股高开反弹，但油价变化小。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "原油连续瀑布",
+      "大A高开反弹概率大",
+      "10月8日油价准时拉升"
+    ],
+    "mentioned_stocks": ["原油"]
+  },
+  {
+    "index": 49,
+    "summary": "对比美股和A股市场逻辑，美股逻辑驱动，A股技术面驱动。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "逻辑市场看前景，技术面市场看图",
+      "澜起走势高开套人",
+      "国产光有fcc，国产存储没有hbm"
+    ],
+    "mentioned_stocks": ["ALAB", "MARVL", "澜起科技"]
+  },
+  {
+    "index": 50,
+    "summary": "SpaceX投资回本在望，对比A股失望。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "正规市场的含金量",
+      "等美股回调我们暴跌",
+      "星舰成功就能解套"
+    ],
+    "mentioned_stocks": ["SpaceX"]
+  }
+]
