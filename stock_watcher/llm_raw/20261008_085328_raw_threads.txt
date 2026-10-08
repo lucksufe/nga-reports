@@ -1,0 +1,324 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论美国FCC禁止中国实验室测试，用户担忧A股开盘利空。",
+    "sentiment": "negative",
+    "key_opinions": ["A股开盘可能面临利空冲击。", "美国政策选择在特定时间发布可能针对A股。", "用户预期市场将回调。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "调侃“总熊头”（可能指市场下跌因素）开盘，预测市场下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["‘总熊头’开门可能引发下跌。", "国庆期间市场上涨，开盘前可能回调。", "市场行为被视为一种规律或‘含金量’。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论资金从高位海外股市回流低位A股的可能性，用户普遍表示怀疑。",
+    "sentiment": "negative",
+    "key_opinions": ["资金回流A股的想法被认为是幻想。", "认为A股科技股估值偏高。", "对此观点表示不解或嘲讽。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "预测韩国股市下跌会导致科创板指数大跌，并讨论A股历史抱团瓦解周期。",
+    "sentiment": "negative",
+    "key_opinions": ["预测科创50指数可能大跌。", "认为A股抱团瓦解见底需要长时间（三年起步）。", "列举了白酒、医药、新能源等板块的漫长下跌周期。"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 5,
+    "summary": "表达假期结束重返股市的复杂心情，既有期待也有亏钱的痛苦。",
+    "sentiment": "negative",
+    "key_opinions": ["股市被比作赌场。", "明知亏钱仍参与股市的股民受到批评。", "假期无法交易带来焦虑，类似戒断反应。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论美国存储股上涨对A股科技股的影响，但观点分歧且持怀疑态度。",
+    "sentiment": "negative",
+    "key_opinions": ["认为A股科技需要存储板块大涨才能上涨。", "指出海力士有解禁压力。", "质疑A股存储股跟随美股上涨的逻辑和持续性。"],
+    "mentioned_stocks": ["美光", "闪迪", "海力士"]
+  },
+  {
+    "index": 7,
+    "summary": "以“东方巨龙明日苏醒”为题，回复多为讽刺，表达对A股表现的失望。",
+    "sentiment": "negative",
+    "key_opinions": ["‘巨龙’被讽刺为‘巨虫’或‘蛆’。", "认为A股表现不如预期，市场缺乏信心。", "用‘屠龙勇士集结’暗指空头或做空力量。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "咨询海狗（中远海控）持仓，因公司回购停止、收购被否而考虑清仓。",
+    "sentiment": "negative",
+    "key_opinions": ["公司回购停止被视为利空。", "海外收购被否带来不确定性。", "在科技股上涨预期下，担心持有航运股踏空。"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 9,
+    "summary": "通过对话形式对比纳斯达克指数与A股，隐含对A股‘烧心’（让人焦虑）的批评。",
+    "sentiment": "negative",
+    "key_opinions": ["纳斯达克指数估值高但被认为稳定（‘不烧心’）。", "A股波动大，开盘常绿油油，让投资者‘烧心’。", "有评论指出资金也在流向美股。"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论OpenAI发布大量数学论文对AI叙事的利好，但用户对国内反应持怀疑态度。",
+    "sentiment": "negative",
+    "key_opinions": ["AI进展理论上是利好。", "怀疑国内是否会积极跟进投入。", "认为国内在创新方面倾向于‘躺平’。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "担忧利空消息集中（如加息），但其他用户澄清是旧会议纪要，市场已预期。",
+    "sentiment": "negative",
+    "key_opinions": ["感觉节后利空消息突然集中。", "澄清是9月会议纪要的延后公布，市场已有预期。", "批评新闻从业者断章取义制造恐慌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "分享三星电子三季度业绩，数据存在出入，部分用户认为超预期，部分认为不及预期。",
+    "sentiment": "negative",
+    "key_opinions": ["业绩利润超预期，但营收低于预期。", "不同数据源（金十/财联）的数据存在差异。", "考虑汇率损失后，业绩表现尚可。"],
+    "mentioned_stocks": ["三星电子"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论上证指数是否可能跌回2开头，用户普遍悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["认为看不到上涨理由。", "悲观预测指数可能跌至更低位置。", "认为GJD（国家队）会在绝望时出手。"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论SpaceX巨额融资及AI硬件需求，提及中国公司获取计算卡的困难。",
+    "sentiment": "negative",
+    "key_opinions": ["AI大模型是‘吞金兽’。", "中国公司通过‘灰色渠道’等秘密方式获取芯片。", "巨额融资对AI硬件是利好。"],
+    "mentioned_stocks": ["SpaceX"]
+  },
+  {
+    "index": 15,
+    "summary": "咨询特变电工，用户认为其下跌走势无法用基本面解释。",
+    "sentiment": "negative",
+    "key_opinions": ["股票走势与基本面脱节。", "猜测机构已撤离，剩下散户博弈。", "在A股，个股找到利好消息并不难。"],
+    "mentioned_stocks": ["特变电工"]
+  },
+  {
+    "index": 16,
+    "summary": "用户分享股市梦，预测开盘后跳水，其他用户附和。",
+    "sentiment": "negative",
+    "key_opinions": ["预测开盘平开高走后跳水。", "用‘大瀑布’形容下跌。", "市场情绪悲观。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "发图表示节前节后市场图表相似，表达不满和无奈。",
+    "sentiment": "negative",
+    "key_opinions": ["市场行为似乎在重复。", "投资者对重复的下跌模式感到愤怒。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "澄清高通官网信息，显示与华为支付为双向而非单向。",
+    "sentiment": "negative",
+    "key_opinions": ["澄清高通与华为的支付关系。", "信息纠正可能影响相关公司叙事。"],
+    "mentioned_stocks": ["高通", "华为"]
+  },
+  {
+    "index": 19,
+    "summary": "用户分享杠杆交易巨额亏损经历，表达绝望。",
+    "sentiment": "negative",
+    "key_opinions": ["杠杆交易（期货）风险极高。", "抗单和加仓导致巨额亏损。", "积蓄亏完，精神受重创。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "抱怨A股被全球投资者忽视或抛弃，流动性差。",
+    "sentiment": "negative",
+    "key_opinions": ["A股交易量低迷。", "认为A股被全球资金边缘化。", "市场机制和环境受批评。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论Anthropic可能的高估值上市，并与其他科技公司比较。",
+    "sentiment": "negative",
+    "key_opinions": ["对AI公司高估值上市存疑。", "类比SpaceX等公司上市后的表现。", "认为A股公司若在美股做空更易获利。"],
+    "mentioned_stocks": ["Anthropic", "SpaceX"]
+  },
+  {
+    "index": 22,
+    "summary": "对比中外市场，认为A股是技术面/筹码市场，而非逻辑/基本面市场。",
+    "sentiment": "negative",
+    "key_opinions": ["海外市场更注重行业逻辑和前景。", "A股更受技术面、筹码结构等因素影响。", "缺乏做空机制等导致A股问题。"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 23,
+    "summary": "抱怨A股开盘时外围市场普遍下跌，用户预测A股低开。",
+    "sentiment": "negative",
+    "key_opinions": ["外围下跌被视为对A股开盘的利空。", "‘总熊头’（下跌因素）回归影响市场。", "用户预测A股将低开。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论生益科技，提到有行业消息（郭明錤）和业绩预期，但股价受压。",
+    "sentiment": "negative",
+    "key_opinions": ["有正面行业催化剂（新技术测试）。", "三季报预期良好。", "但股价曾受板块下跌影响。"],
+    "mentioned_stocks": ["生益科技"]
+  },
+  {
+    "index": 25,
+    "summary": "分析皓宸医疗的K线走势，认为走势刻意，提示短线风险。",
+    "sentiment": "negative",
+    "key_opinions": ["股票K线走势被评价为‘刻意’。", "提示在医药板块异动下可能有短线机会。", "但以往经验表明此类股票风险高。"],
+    "mentioned_stocks": ["皓宸医疗"]
+  },
+  {
+    "index": 26,
+    "summary": "预测深物业高开，但其他用户计划开盘即卖出，显示谨慎。",
+    "sentiment": "negative",
+    "key_opinions": ["有用户凭感觉预测高开秒板。", "多数回复者计划开盘第一时间卖出。", "认为高开可能意味着出货机会。"],
+    "mentioned_stocks": ["深物业A"]
+  },
+  {
+    "index": 27,
+    "summary": "讽刺纳斯达克指数下跌，并归因于A股开盘的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["将纳斯达克下跌与A股开盘联系起来。", "‘总熊头’权威性被调侃。", "认为A股下跌常带动全球市场。"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 28,
+    "summary": "担忧外围市场下跌影响A股开盘，讨论是否低开。",
+    "sentiment": "negative",
+    "key_opinions": ["外围下跌引发对A股开盘的担忧。", "预测A股将低开。", "低开有时反而可能有机会。"],
+    "mentioned_stocks": ["A50指数"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论中国公司发展大模型的困难，包括算力限制和资本回报。",
+    "sentiment": "negative",
+    "key_opinions": ["中国公司面临芯片获取困难和成本问题。", "但相关领域头部公司已获得巨额融资和财富。", "未来本地化小模型可能是方向。"],
+    "mentioned_stocks": ["智谱", "DeepSeek"]
+  },
+  {
+    "index": 30,
+    "summary": "感叹节前节后利空新闻集中，呼应‘总熊头’回归主题。",
+    "sentiment": "negative",
+    "key_opinions": ["假期期间利好，临近开盘利空集中。", "将利空集中与‘总熊头归位’关联。", "市场情绪从乐观转向悲观。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "询问佣金是否偏高，用户讨论免五（最低佣金）等优惠。",
+    "sentiment": "negative",
+    "key_opinions": ["对当前佣金水平有疑问。", "用户希望获得更低的佣金费率（免五）。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "讨论鼠疫相关题材炒作，比较华北制药和鲁抗医药，提示风险。",
+    "sentiment": "negative",
+    "key_opinions": ["探讨短期事件（鼠疫）驱动的题材炒作。", "在热门题材中选择标的困难。", "提示此类交易风险高。"],
+    "mentioned_stocks": ["华北制药", "鲁抗医药", "哈药股份"]
+  },
+  {
+    "index": 33,
+    "summary": "询问芯片股限售解禁是利空还是利空出尽，用户观点分歧。",
+    "sentiment": "negative",
+    "key_opinions": ["解禁通常被视为利空。", "但解禁日期已提前公告，可能存在反向博弈。", "最终影响需看股价位置和市场情绪。"],
+    "mentioned_stocks": ["芯片股"]
+  },
+  {
+    "index": 34,
+    "summary": "观察美股也出现板块轮动，并与A股轮动但表现差对比。",
+    "sentiment": "negative",
+    "key_opinions": ["美股出现板块轮动现象。", "对比指出美股轮动后指数创新高，A股轮动后指数下跌。", "美联储会议纪要可能影响市场。"],
+    "mentioned_stocks": ["美联储"]
+  },
+  {
+    "index": 35,
+    "summary": "反讽“美股暴跌是因为资金回流A股”的说法，遭到其他用户批评。",
+    "sentiment": "negative",
+    "key_opinions": ["‘资金回流A股’的说法被广泛嘲讽。", "认为A股不值得全球资金大规模回流。", "帖子本身带有反讽意味。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "抱怨A股假期期间外围大涨，一开盘外围就回调，A股跟随下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["认为外围市场在A股假期上涨，A股开盘后回调。", "调侃‘全世界庆祝中国国庆’。", "暗示市场存在针对A股的操纵或规律。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "讨论大金重工异常高的市场热度，但股价未涨停，原因成谜。",
+    "sentiment": "negative",
+    "key_opinions": ["股票热度异常高但未涨停。", "猜测可能有资金或消息面炒作。", "热度高可能成为短期卖出信号。"],
+    "mentioned_stocks": ["大金重工"]
+  },
+  {
+    "index": 38,
+    "summary": "质疑上海国庆消费数据“向好”的结论，指出数据统计口径问题。",
+    "sentiment": "negative",
+    "key_opinions": ["消费数据可能存在误导性。", "数据统计的日期范围不同影响可比性。", "发文时间点和计算方式引发疑问。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "引用李大霄言论，用户感到恐慌，并质疑其时效性。",
+    "sentiment": "negative",
+    "key_opinions": ["对李大霄的言论感到恐慌。", "其他用户指出这是旧闻。", "‘总熊头开市’的威力被提及。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论美股当前风险，包括高债息、高油价、地缘冲突与高估值共存。",
+    "sentiment": "negative",
+    "key_opinions": ["认为美股在多重风险下指数创新高，风险累积。", "担心一旦有AI利空可能引发踩踏。", "但VIX指数仍处低位显示风险未被充分定价。"],
+    "mentioned_stocks": ["纳斯达克指数", "标普指数"]
+  },
+  {
+    "index": 41,
+    "summary": "飞龙股份公告前三季度净利润同比大幅下降，引发下跌担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["公司业绩同比下降59%-66%。", "预计股价将出现下跌（如跌停）。", "可能影响液冷等相关板块。"],
+    "mentioned_stocks": ["飞龙股份"]
+  },
+  {
+    "index": 42,
+    "summary": "以“七天之期已到”调侃假期结束，欢迎“熊皇”回归。",
+    "sentiment": "negative",
+    "key_opinions": ["将假期结束比作‘熊皇归位’。", "认为市场在假期上涨是‘嚣张’。", "预期市场将回归下跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "批评港股（亚洲金融中心）表现差，流动性缺失，IPO持续吸血。",
+    "sentiment": "negative",
+    "key_opinions": ["港股表现不佳，恒生科技指数像‘蛆’。", "港股通关闭时流动性枯竭。", "本地投资者不买，IPO却持续抽血。"],
+    "mentioned_stocks": ["恒生科技指数"]
+  },
+  {
+    "index": 44,
+    "summary": "探讨房地产板块新叙事（定位为大宗消费品），但多数回复持悲观态度。",
+    "sentiment": "negative",
+    "key_opinions": ["房地产被政策定性为大宗耐用消费品。", "认为这反而意味着行业难以崛起。", "人口趋势和消费习惯变化是根本制约。"],
+    "mentioned_stocks": ["房地产股"]
+  },
+  {
+    "index": 45,
+    "summary": "对比假期1-6号的平静与7号的巨变，表达对市场突变的不满。",
+    "sentiment": "negative",
+    "key_opinions": ["假期期间市场平静，临近开盘则风云突变。", "投资者感到被‘故意’针对。", "后悔节前没有空仓。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "抱怨市场模式重复：假期前大涨，临近开盘就出现各种利空导致全球下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["认为市场剧情重复上演。", "外围上涨A股不一定跟，但下跌一定跟。", "期待A股能高开低走‘预判式下跌’。"],
+    "mentioned_stocks": []
+  }
+]
