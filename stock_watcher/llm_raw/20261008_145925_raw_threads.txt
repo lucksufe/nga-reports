@@ -1,0 +1,317 @@
+[
+  {
+    "index": 1,
+    "summary": "市场情绪平稳，但用户觉得有趣或讽刺。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场情绪平稳", "平稳得令人发笑", "气氛和平"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "纳指ETF场内溢价高，因期货跳水和套利导致下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["期货跳水导致溢价", "有套利行为", "纳指ETF不需要择时"],
+    "mentioned_stocks": ["纳指ETF"]
+  },
+  {
+    "index": 3,
+    "summary": "新手投资者询问高溢价纳指ETF是否值得投资，讨论替代方案。",
+    "sentiment": "mixed",
+    "key_opinions": ["高溢价风险大", "建议场外定投", "资金有限需谨慎"],
+    "mentioned_stocks": ["纳指ETF", "场外基金"]
+  },
+  {
+    "index": 4,
+    "summary": "期待创业板指数下跌，市场疲软。",
+    "sentiment": "negative",
+    "key_opinions": ["希望创业板继续下跌", "市场疲软"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 5,
+    "summary": "用户认为券商ETF是好位置，但其他人警告风险高。",
+    "sentiment": "mixed",
+    "key_opinions": ["筹码分布显示机会", "券商ETF风险高", "只适合短线"],
+    "mentioned_stocks": ["券商ETF"]
+  },
+  {
+    "index": 6,
+    "summary": "投资者亏损后与家人坦白，情感崩溃，涉及外汇交易。",
+    "sentiment": "negative",
+    "key_opinions": ["投资亏损导致家庭矛盾", "外汇交易风险高", "情绪化投资"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "红利股抗跌，用户想买入但觉得贵，讨论投资策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股抗跌", "长持无需择时", "分红波动"],
+    "mentioned_stocks": ["红利股", "中国平安"]
+  },
+  {
+    "index": 8,
+    "summary": "兆易创新股价新低，投资者恐慌，讨论存储周期。",
+    "sentiment": "negative",
+    "key_opinions": ["股价创新低可能更低", "存储周期真实但情绪杀", "长期持有或回本"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 9,
+    "summary": "A股表现差因EPS增长不足，融资过度，建议投资正规市场。",
+    "sentiment": "negative",
+    "key_opinions": ["A股EPS不行", "融资再融资稀释收益", "应投资正规市场"],
+    "mentioned_stocks": ["A股", "IC", "500ETF"]
+  },
+  {
+    "index": 10,
+    "summary": "腾讯发行债券，可能用于AI投资或套利，讨论融资目的。",
+    "sentiment": "mixed",
+    "key_opinions": ["融资可能用于AI竞争", "发债优于定增", "考虑股东利益"],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 11,
+    "summary": "中国市场稀缺性讨论，但用户讽刺市场稳定和政策调控。",
+    "sentiment": "negative",
+    "key_opinions": ["市场稳定是假象", "政策调控导致问题", "散户被收割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "杠杆交易导致巨额亏损，情绪崩溃，讨论风险。",
+    "sentiment": "negative",
+    "key_opinions": ["杠杆交易风险极高", "久赌必输", "日内交易难度大"],
+    "mentioned_stocks": ["期货", "隆基绿能"]
+  },
+  {
+    "index": 13,
+    "summary": "其他市场尾盘下跌，A股可能受影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["外围市场影响A股", "指数基金调仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "股价下跌，用户抱怨，涉及大米相关股票。",
+    "sentiment": "negative",
+    "key_opinions": ["股价被砸", "成交手数大"],
+    "mentioned_stocks": ["大米"]
+  },
+  {
+    "index": 15,
+    "summary": "科技股普遍下跌，怀疑量化砸盘或ETF配置导致。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股普遍下跌", "量化砸盘嫌疑", "ETF和基金配置导致"],
+    "mentioned_stocks": ["科技股", "ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "上证指数在3800点反弹，但趋势向下，讨论慢熊市。",
+    "sentiment": "mixed",
+    "key_opinions": ["指数支撑位试探", "慢熊市特征", "量化交易影响"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 17,
+    "summary": "比亚迪内部信讨论员工压榨，可能影响股价和舆论。",
+    "sentiment": "negative",
+    "key_opinions": ["员工压榨可能利好股价", "舆论丑闻", "公司文化问题"],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 18,
+    "summary": "不消费导致市场下跌，隐喻资金流出，投资者等待牛市。",
+    "sentiment": "negative",
+    "key_opinions": ["消费不足影响市场", "投资者不卖不亏", "等待牛市"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "投资者记录交易，买入贵州燃气。",
+    "sentiment": "neutral",
+    "key_opinions": ["坚持记录", "买入贵州燃气"],
+    "mentioned_stocks": ["贵州燃气"]
+  },
+  {
+    "index": 20,
+    "summary": "中际旭创股价回原点，半年无变化，可能继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["股价回到起点", "原地踏步", "可能继续下跌"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 21,
+    "summary": "韩国指数上涨，对比A股表现差。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国指数表现好", "A股表现差"],
+    "mentioned_stocks": ["韩指", "A股"]
+  },
+  {
+    "index": 22,
+    "summary": "预测A股将继续下跌，跌破3741点，市场看空。",
+    "sentiment": "negative",
+    "key_opinions": ["指数将跌破3741", "市场看空", "成交量低迷"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 23,
+    "summary": "7月市场宣传，现在失效，机构出货。",
+    "sentiment": "negative",
+    "key_opinions": ["宣传无效", "机构出货", "化债完成"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "红利股被视为做空A股工具，讨论防御性投资。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股反向于大盘", "防御性投资", "非真正做空"],
+    "mentioned_stocks": ["红利股", "纳斯达克ETF"]
+  },
+  {
+    "index": 25,
+    "summary": "市场下跌因负面消息，刹车断了隐喻失控。",
+    "sentiment": "negative",
+    "key_opinions": ["负面消息导致下跌", "市场失控"],
+    "mentioned_stocks": ["力王股份"]
+  },
+  {
+    "index": 26,
+    "summary": "印度股市下跌，用户愤怒，讨论回调。",
+    "sentiment": "negative",
+    "key_opinions": ["印度股市下跌", "以人民币计价跌", "长期上涨后回调"],
+    "mentioned_stocks": ["印度股市"]
+  },
+  {
+    "index": 27,
+    "summary": "建议投资美好生活概念股票，如欢乐家、家家悦等。",
+    "sentiment": "mixed",
+    "key_opinions": ["美好生活概念股", "牛马概念股", "殡葬股"],
+    "mentioned_stocks": ["欢乐家", "家家悦", "老百姓", "步步高", "东方财富", "雅迪港股"]
+  },
+  {
+    "index": 28,
+    "summary": "市场熊市，用户抱怨A股影响大环境。",
+    "sentiment": "negative",
+    "key_opinions": ["市场熊市", "A股影响大环境"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "短线交易亏损严重，投资者退出市场。",
+    "sentiment": "negative",
+    "key_opinions": ["短线亏损大", "连续下跌", "市场无望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "强调止损重要性，东山精密亏损教训。",
+    "sentiment": "negative",
+    "key_opinions": ["止损纪律关键", "侥幸心理导致亏损", "条件单辅助"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 31,
+    "summary": "科创50持续下跌，无反弹，跌破年线。",
+    "sentiment": "negative",
+    "key_opinions": ["跌破年线无支撑", "护盘点位", "解禁压力"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 32,
+    "summary": "预测纳指将大幅下跌，因加息周期可能引发金融风暴。",
+    "sentiment": "negative",
+    "key_opinions": ["纳指可能腰斩", "加息周期前夜", "A股更差"],
+    "mentioned_stocks": ["纳斯达克", "美债"]
+  },
+  {
+    "index": 33,
+    "summary": "预测美原油价格下跌，受地缘政治消息影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["和谈利好", "特朗普消息影响", "港股影响"],
+    "mentioned_stocks": ["美原油"]
+  },
+  {
+    "index": 34,
+    "summary": "A股下跌像刹车断，失控，套定律和机构行为。",
+    "sentiment": "negative",
+    "key_opinions": ["市场下跌失控", "套定律", "机构行为"],
+    "mentioned_stocks": ["尊界", "江淮"]
+  },
+  {
+    "index": 35,
+    "summary": "科技股下跌因未来预期，情绪化抛售，外围影响。",
+    "sentiment": "negative",
+    "key_opinions": ["下跌因预期计价", "情绪驱动", "外围影响"],
+    "mentioned_stocks": ["东山精密", "天孚通信", "中际"]
+  },
+  {
+    "index": 36,
+    "summary": "地缘政治风险可能影响市场，特朗普伊朗言论。",
+    "sentiment": "negative",
+    "key_opinions": ["地缘政治风险", "市场影响", "伊朗局势"],
+    "mentioned_stocks": ["甲醇"]
+  },
+  {
+    "index": 37,
+    "summary": "投资账户新低，市场下跌，周期性割韭菜。",
+    "sentiment": "negative",
+    "key_opinions": ["账户新低", "化债完成", "周期性割韭菜"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "10月开盘下跌，投资者哀嚎，早盘疲软。",
+    "sentiment": "negative",
+    "key_opinions": ["早盘下跌", "主力行为"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "海皇股票波动，股价上涨后回调，建议做T。",
+    "sentiment": "mixed",
+    "key_opinions": ["股价上涨后回调", "做T策略", "板块带动"],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 40,
+    "summary": "市场极端悲观，投资者销号，4000点入场亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["市场悲观", "4000点入场亏损", "销号行为"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "市场开盘下跌，比喻为拉屎，国庆后效应。",
+    "sentiment": "negative",
+    "key_opinions": ["市场下跌", "国庆后效应", "汪汪队护盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "A股比电诈更害人，批评市场，市值损失大。",
+    "sentiment": "negative",
+    "key_opinions": ["A股类似电诈", "市值损失大", "关闭交易所"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 43,
+    "summary": "A股可能补跌，建议减仓。",
+    "sentiment": "negative",
+    "key_opinions": ["补跌预期", "减仓建议"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "A股表现异常，下跌持续，全球唯独下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["A股有病", "全球唯独下跌"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 45,
+    "summary": "市场从6月泡沫破裂后持续下跌，科技股透支预期。",
+    "sentiment": "negative",
+    "key_opinions": ["6月泡沫极端", "科技股透支预期", "市场疲软"],
+    "mentioned_stocks": ["A股", "科技股"]
+  }
+]
