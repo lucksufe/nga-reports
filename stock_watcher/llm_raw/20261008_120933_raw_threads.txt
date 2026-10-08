@@ -1,0 +1,470 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论全球股市下跌，A股创业板创新低，用户情绪悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "全球股市跟跌不跟涨",
+      "加息导致下跌",
+      "A股表现差，创业板新低"
+    ],
+    "mentioned_stocks": ["A股", "创业板", "科创"]
+  },
+  {
+    "index": 2,
+    "summary": "网传比亚迪公开信，讨论压榨员工对股价影响，有负面舆论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "压榨员工可能利好股价",
+      "舆论可能利空销售",
+      "信息真实性存疑"
+    ],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论购买纳斯达克ETF的困难，溢价高，用户渴望投资。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳斯达克ETF受限购买",
+      "溢价率高",
+      "A股不如美股"
+    ],
+    "mentioned_stocks": ["纳斯达克ETF", "标普500"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论银行股上涨，A股市场表现，用户建议加入银行股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银行股有股息和增长",
+      "打不过就加入",
+      "价值投资可能有效"
+    ],
+    "mentioned_stocks": ["银行股", "工商银行", "中际旭创"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论投资者sai的持仓和行为，用户关注其投资策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "关注他人持仓无益",
+      "资金差异影响持仓",
+      "投资应自负盈亏"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论A股信心受挫，国家队救市，市场悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国家队应救市",
+      "信心已毁",
+      "市场下跌原因多样"
+    ],
+    "mentioned_stocks": ["A股", "国家队"]
+  },
+  {
+    "index": 7,
+    "summary": "用“吃面”比喻亏钱，讨论午餐选择，表达无奈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏钱后食欲不振",
+      "廉价饮食",
+      "股市下跌影响生活"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论做空A股的难度，机制限制，外资行为。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股做空机制受限",
+      "外资做空港股",
+      "A股封闭系统"
+    ],
+    "mentioned_stocks": ["A股", "港股", "纳斯达克"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论电影股和国庆票房，预期落空。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国庆票房逐年下降",
+      "电影行业面临挑战",
+      "在线视频冲击"
+    ],
+    "mentioned_stocks": ["电影股"]
+  },
+  {
+    "index": 10,
+    "summary": "市场下跌，用户哀嚎，早盘撑不住。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场下跌剧烈",
+      "早盘就撑不住",
+      "主力可能操控"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "预测A股在4000点筑底10年，用户讨论市场底部。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股可能长期低迷",
+      "3000点保卫战更现实",
+      "历史低点参考"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "强烈批评A股垃圾，建议买纳指，表达失望。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股表现差",
+      "纳指更好",
+      "市场问题严重"
+    ],
+    "mentioned_stocks": ["纳指ETF"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论如果A股压不住达子（英伟达），谁受益。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股影响",
+      "国产替代机会",
+      "行业猜测"
+    ],
+    "mentioned_stocks": ["英伟达", "中际旭创", "中药"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论高开定义变化，市场疲软。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场对高开阈值降低",
+      "熊市别玩A股",
+      "回测数据显示负开表现"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论融资杠杆的意义，支持使用融资加速财富积累。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "杠杆提供启动资金",
+      "投资需自信",
+      "反对观点认为风险高"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论半导体板块下跌，参考其他板块走势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "半导体可能像商业航天一样炒概念",
+      "业绩好不一定涨",
+      "量化交易影响"
+    ],
+    "mentioned_stocks": ["半导体", "商业航天", "有色", "光伏"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论银行股上涨，价值投资可能有效。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "银行股在涨",
+      "低位红利股红",
+      "好人好股节前挨揍"
+    ],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论源杰科技股价下跌，用户不解。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "熊市所有股票跌",
+      "源杰科技有逻辑但股价高",
+      "估值高跌有道理"
+    ],
+    "mentioned_stocks": ["源杰科技"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论生益科技股价和消息，如郭明錤推荐。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "生益科技有忠诚买家",
+      "郭明錤消息可能利好",
+      "业绩超预期"
+    ],
+    "mentioned_stocks": ["生益科技", "Nvidia"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论账户新低，市场下跌影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "账户又新低",
+      "科技股抄早了",
+      "老爷们化债完成"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论市场暴跌，用户质疑市场本质。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场暴跌无理由",
+      "证券是税收形式",
+      "A股非投资市场"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论银行石油股上涨，但效果有限。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银行石油拉指数",
+      "空头来了",
+      "效果不佳"
+    ],
+    "mentioned_stocks": ["银行股", "石油股"]
+  },
+  {
+    "index": 23,
+    "summary": "表达对市场下跌的恐惧，用图片展示。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场下跌可怕",
+      "没有这样的股市",
+      "可能发生黑天鹅"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论上证指数放量长钉走势，用户建议抄底。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上证放量长钉",
+      "抄GJD底",
+      "你抄他底他抄你家"
+    ],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论巴西ETF涨停负溢价，原因可能政治变化。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "巴西ETF涨停",
+      "负溢价",
+      "政治转向利好"
+    ],
+    "mentioned_stocks": ["巴西ETF"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论不看盘玩游戏，减少焦虑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "不看盘能多活10年",
+      "沪电等股票下跌",
+      "羡慕不上班"
+    ],
+    "mentioned_stocks": ["沪电", "新易盛", "东山精密"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论牛市结束，股市功能负面。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "牛市可能结束",
+      "股市有融资和税收功能",
+      "亏钱影响生活"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "建议继续3000点保卫战，指数太高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "3800太高",
+      "回归3000点"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讨论科技板块被光模块带崩，产业逻辑缺失。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "光芯片带崩科技",
+      "银行才是真科技",
+      "科技周期顶"
+    ],
+    "mentioned_stocks": ["光模块", "银行股", "地产股", "电池"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论四年长熊起点，未来顶点预测。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "可能是熊市起点",
+      "下次顶点3100",
+      "增加公司上市融资"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "创业板被光大哥绑定，表现差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创业板依赖光大哥",
+      "大哥二哥尽力了"
+    ],
+    "mentioned_stocks": ["创业板", "光大哥"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论江淮汽车股价波动，赛力斯消息影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "江淮竞价跌停",
+      "赛力斯利空",
+      "机会可能"
+    ],
+    "mentioned_stocks": ["江淮汽车", "赛力斯"]
+  },
+  {
+    "index": 33,
+    "summary": "表达哀嚎，光模块下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "光模块别打我了"
+    ],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论国庆前清仓行为，用户后悔或庆幸。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "清仓去纳指赢麻了",
+      "满仓纳指日经赢",
+      "持仓过节也可"
+    ],
+    "mentioned_stocks": ["纳指", "日经"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论牛市顶点预测，散户做空难。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "下一波顶点3200或3364",
+      "散户难做空",
+      "机构能做空"
+    ],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论10月可能是跳水牛，市场操纵。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "跳水牛",
+      "融资市",
+      "拉银行炒生肖"
+    ],
+    "mentioned_stocks": ["银行股", "证券"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论中国电影股价上涨，可能埋伏流浪地球3。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "中国电影大涨",
+      "提前建仓早",
+      "生化危机口碑好"
+    ],
+    "mentioned_stocks": ["中国电影", "北京文化"]
+  },
+  {
+    "index": 38,
+    "summary": "推荐招商南油，基于成品油运趋势。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "成品油运趋势好",
+      "招商南油是龙头",
+      "目标价8元"
+    ],
+    "mentioned_stocks": ["招商南油"]
+  },
+  {
+    "index": 39,
+    "summary": "表达后悔投入股市，钱不如消费。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "钱消费更幸福",
+      "没有后悔药",
+      "早日离场"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论A股熊头表现，市场下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股总熊头",
+      "放量下杀",
+      "资金跑海外"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "讨论推送内容，用户困惑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "推送暗示什么",
+      "不明确"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "讨论A股回归价值投资，买垄断国企。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "A股应价值投资",
+      "股息股好",
+      "政策市买国企"
+    ],
+    "mentioned_stocks": ["陕西煤业", "中际旭创"]
+  },
+  {
+    "index": 43,
+    "summary": "询问黄河旋风是否该跑，亏损中。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏了十几个点",
+      "可能还要跌",
+      "量还大"
+    ],
+    "mentioned_stocks": ["黄河旋风"]
+  }
+]
