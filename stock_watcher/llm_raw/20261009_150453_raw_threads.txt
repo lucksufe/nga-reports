@@ -1,0 +1,298 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "经历长期下跌后，终于迎来一次上涨，但情绪以悲喜交加和无奈为主。",
+        "sentiment": "negative",
+        "key_opinions": ["市场长期下跌，投资者情绪极度悲观", "对微小涨幅感到珍贵且充满感慨", "用多个哭泣表情宣泄压抑情绪"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 2,
+        "summary": "引用名言，表达对消费板块的坚定信仰，并呼吁相信市场的力量。",
+        "sentiment": "mixed",
+        "key_opinions": ["用信仰比喻当前市场的坚持", "坚信大消费板块是方向", "通过信仰和坚持来寻求心理安慰"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 3,
+        "summary": "讨论银行股盘中剧烈波动，引发关于板块轮动、股息率和资金流动的争论。",
+        "sentiment": "mixed",
+        "key_opinions": ["银行股下跌被视为牺牲品，用于拉升其他板块", "有人看重银行股的高股息和稳定性", "市场资金有限，板块间形成跷跷板效应"],
+        "mentioned_stocks": ["兴业银行"]
+    },
+    {
+        "index": 4,
+        "summary": "对科技股反弹效果存疑，认为多数仍下跌，质疑版内乐观氛围。",
+        "sentiment": "negative",
+        "key_opinions": ["科技股反弹后多数仍绿，实际表现不佳", "怀疑版内有用户引导性地发布感谢帖", "抄底投资者仍处亏损状态"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 5,
+        "summary": "讨论红利股持续走强，与科技股形成分化，资金转向避险。",
+        "sentiment": "mixed",
+        "key_opinions": ["红利资产成为资金避风港，逆势上涨", "投资者遗憾过早卖出红利股", "科技股下跌促使资金流入红利板块"],
+        "mentioned_stocks": ["美的", "格力", "招商银行", "伊利", "中远海控"]
+    },
+    {
+        "index": 6,
+        "summary": "许多投资者分享今天上午恐慌割肉后，市场V型反弹的经历，表达后悔情绪。",
+        "sentiment": "negative",
+        "key_opinions": ["在下跌恐慌中割肉，随后市场反弹造成重大心理落差", "对自身决策失误感到懊悔和痛苦", "部分用户调侃或安慰割肉的投资者"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 7,
+        "summary": "对所谓“国家队”（龙队）救市行为的性质展开激烈辩论，多数人表示反感。",
+        "sentiment": "negative",
+        "key_opinions": ["认为救市是制造恐慌后的自救，不应被感谢", "指责国家队通过市场波动收割散户", "部分投资者出于无奈只能依赖其托市"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 8,
+        "summary": "讽刺救市资金尾盘操作T，暗示其并非真心救市。",
+        "sentiment": "negative",
+        "key_opinions": ["指控救市主力在尾盘高抛低吸做T", "认为其行为是市场操纵而非真正救市", "对感恩论调的进一步反驳和嘲讽"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 9,
+        "summary": "讨论完美世界股价抗跌，并分析其作为庄股的特征和长期价值。",
+        "sentiment": "mixed",
+        "key_opinions": ["认为完美世界有老庄控盘，成本极低", "短期看有支撑，长期看好但不确定性高", "讨论其游戏《异环》面临的竞争压力"],
+        "mentioned_stocks": ["完美世界"]
+    },
+    {
+        "index": 10,
+        "summary": "对市场突然反弹持怀疑态度，认为可能是诱多或短线行为。",
+        "sentiment": "negative",
+        "key_opinions": ["不相信反弹可持续，认为是诱多陷阱", "有用户选择相信并跟随买入", "多数人持观望或准备逢高卖出的态度"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 11,
+        "summary": "就今日市场反弹是否应感谢“国家队”展开争论，批评声占主导。",
+        "sentiment": "negative",
+        "key_opinions": ["指责国家队此前打压市场，今日拉升是责任而非恩情", "认为其通过高抛低吸进行套利", "投资者被迫接受其对市场的操控"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 12,
+        "summary": "讨论小米汽车销量及前景，与蔚来、理想对比，关注行业竞争与出海。",
+        "sentiment": "mixed",
+        "key_opinions": ["对小米汽车销量是否平庸存在分歧", "认为新势力车企面临盈利难题", "看好多数车企明确的出海计划"],
+        "mentioned_stocks": ["小米", "蔚来", "理想", "比亚迪"]
+    },
+    {
+        "index": 13,
+        "summary": "将下午的上涨视为积极信号，认为行情可能启动。",
+        "sentiment": "positive",
+        "key_opinions": ["认为这是年底行情启动的标志", "部分用户表示将因此上仓位", "将市场上涨形容为“活了”"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 14,
+        "summary": "观察到多只股票图形趋同（V型），归因于“国家队”操控，表达不满。",
+        "sentiment": "negative",
+        "key_opinions": ["认为市场完全被“狗队”（国家队）操控", "将这种模式比作操纵和赌场", "对市场公平性表示失望"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 15,
+        "summary": "网络安全板块异动，讨论受国内外网络攻击事件影响及个股表现。",
+        "sentiment": "positive",
+        "key_opinions": ["国内外遭受网络攻击事件刺激板块上涨", "量化资金可能快速介入", "具体个股（绿盟、红衣鬼）表现突出"],
+        "mentioned_stocks": ["绿盟科技"]
+    },
+    {
+        "index": 16,
+        "summary": "讨论沪深300等宽基指数科技成分过高，质疑其作为避险工具的有效性。",
+        "sentiment": "negative",
+        "key_opinions": ["为躲泡沫买指数，却买入了更多泡沫", "指数编制规则追涨杀跌，问题明显", "科技股崩盘时宽基指数无法幸免"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 17,
+        "summary": "房地产板块今日大跌，引发对板块性质和未来走势的讨论。",
+        "sentiment": "negative",
+        "key_opinions": ["房地产板块缺乏长期投资价值，多为短炒", "获利盘集中兑现导致下跌", "行业基本面前景仍不乐观"],
+        "mentioned_stocks": ["深物业"]
+    },
+    {
+        "index": 18,
+        "summary": "讨论券商ETF当前位置是否值得入场，观点分歧，多持谨慎或看空态度。",
+        "sentiment": "negative",
+        "key_opinions": ["认为券商板块垃圾时间长，不适合长线", "技术面看仍处下降趋势", "部分用户已小仓位尝试买入"],
+        "mentioned_stocks": ["券商ETF"]
+    },
+    {
+        "index": 19,
+        "summary": "提及“大烧心”概念及AI短剧可能成为新题材。",
+        "sentiment": "mixed",
+        "key_opinions": ["AI短剧相关内容可能成为新热点", "国庆期间相关内容有破圈迹象", "对相关港股（快手）是否能反弹存疑"],
+        "mentioned_stocks": ["中文在线", "芒果超媒", "快手"]
+    },
+    {
+        "index": 20,
+        "summary": “锤哥”发帖讨论交易心态，强调平常心，避免被持仓偏见误导。",
+        "sentiment": "positive",
+        "key_opinions": ["抱怨无法解决问题，需保持客观", "持仓会影响对市场的客观判断", "提倡从市场整体而非个人持仓出发分析"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 21,
+        "summary": "行云科技发布超预期业绩预告，但投资者对其利润质量存疑。",
+        "sentiment": "mixed",
+        "key_opinions": ["业绩扭亏为盈，主要靠卖服务器", "AI算力租赁业务占比被质疑过低", "业绩利好后股价表现不确定"],
+        "mentioned_stocks": ["行云科技"]
+    },
+    {
+        "index": 22,
+        "summary": "以自嘲口吻讨论在A股“赢”的困难，调侃市场如赌场。",
+        "sentiment": "negative",
+        "key_opinions": ["在A股持续盈利极其困难", "调侃“高手”需要穿越重生才能赢", "暗示投资美股等市场更简单"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 23,
+        "summary": "寻求年化2.5%左右的低风险债基推荐。",
+        "sentiment": "positive",
+        "key_opinions": ["需要波动小、风险低的债券基金", "有用户推荐具体基金代码", "有建议配置中证红利ETF作为替代"],
+        "mentioned_stocks": ["中证红利ETF"]
+    },
+    {
+        "index": 24,
+        "summary": "市场V型反弹，投资者回本，情绪从悲观转向乐观。",
+        "sentiment": "positive",
+        "key_opinions": ["市场神奇反弹，出乎意料", "部分投资者借此机会回本", "有用户信心大增，喊出“打到火星”"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 25,
+        "summary": "认为周五下午的上涨是诱多陷阱，不看好周一走势。",
+        "sentiment": "negative",
+        "key_opinions": ["怀疑周五上涨是诱多", "预测周一市场将再次下跌", "表达对市场走势的顽固看空"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 26,
+        "summary": "因纳斯达克ETF溢价过高，呼吁投资者停止购买，讨论替代方案。",
+        "sentiment": "negative",
+        "key_opinions": ["场内纳斯达克ETF溢价率畸高，风险巨大", "投资者面临场内高溢价、场外限额等困境", "有用户建议转投其他溢价较低的相关ETF"],
+        "mentioned_stocks": ["纳斯达克ETF", "美国50ETF"]
+    },
+    {
+        "index": 27,
+        "summary": "风电设备板块今日大跌，讨论前期涨幅过大及小作文影响。",
+        "sentiment": "negative",
+        "key_opinions": ["龙头股被小作文击中跌停", "板块前期涨幅过大，正常回调", "下午反弹未惠及该板块"],
+        "mentioned_stocks": ["大金重工"]
+    },
+    {
+        "index": 28,
+        "summary": "复盘市场近期与美股走势背离的规律，认为主力资金操盘手法明确。",
+        "sentiment": "negative",
+        "key_opinions": ["A股走势特立独行，专治各种不服", "主力资金在特定点位区间反复做T", "未来可能再次走出反预期行情"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 29,
+        "summary": "做空A股的投资者分享今日盈利，与做多者形成对比。",
+        "sentiment": "positive",
+        "key_opinions": ["做空策略今日获得收益", "自嘲离回本更近一步", "暗示市场下跌仍有盈利机会"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 30,
+        "summary": "称赞有研新材抗跌且领涨，称其为“真龙”，计划全仓买入。",
+        "sentiment": "positive",
+        "key_opinions": ["有研新材表现出超强的抗跌性和领涨性", "被部分投资者视为半导体板块龙头", "有用户计划下周全仓买入"],
+        "mentioned_stocks": ["有研新材", "588170（芯片ETF）"]
+    },
+    {
+        "index": 31,
+        "summary": "对市场普涨感到惊讶，讨论可能的利好消息，如政策指导或宏观预期。",
+        "sentiment": "mixed",
+        "key_opinions": ["突然普涨原因引发猜测", "可能有针对量化的短期窗口指导", "也有人认为是单纯的技术性反弹或“老乡别走”"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 32,
+        "summary": "讨论尾盘是否适合追高买入，意见分歧明显，踏空焦虑弥漫。",
+        "sentiment": "mixed",
+        "key_opinions": ["强烈的踏空焦虑促使用户询问是否追高", "有人建议快进，有人警告是接盘", "提醒周末休市存在不确定性"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 33,
+        "summary": "困惑于全球AI牛市中A股相关板块表现不佳，分析原因。",
+        "sentiment": "negative",
+        "key_opinions": ["国内AI板块表现与全球牛市脱节", "原因包括前期炒作透支、盈利模式不明", "担心中国在全球AI产业链中被边缘化"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 34,
+        "summary": "长文看空纳斯达克，预测其将腰斩，基于美债和估值泡沫分析。",
+        "sentiment": "negative",
+        "key_opinions": ["认为纳斯达克处于历史高位，面临深度回调", "基于美债结构和全球估值泡沫做出判断", "观点引发争议，被部分人视为哗众取宠"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 35,
+        "summary": "对今天的上涨性质感到困惑，担心是昙花一现。",
+        "sentiment": "mixed",
+        "key_opinions": ["早盘抄底后担忧无法持续", "认为当前是“捡尸体”行情", "或仅是逼近前低的技术性反弹"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 36,
+        "summary": "提醒虽然明天周末要上班，但A股休市，需保持心态。",
+        "sentiment": "mixed",
+        "key_opinions": ["幽默提醒周末A股不开盘", "鼓励用户在今日（周五）“顶住”", "暗示市场波动需要时间消化"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 37,
+        "summary": "类似帖子11，感谢“龙队”救市，但评论区多为讽刺和批评。",
+        "sentiment": "negative",
+        "key_opinions": ["表面感恩，实则暗指国家队操控市场", "批评其制造恐慌后拉升，转嫁责任", "提醒投资者抓住机会跑路"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 38,
+        "summary": "认为新能源可能成为新主线，但遭多数用户反对和嘲讽。",
+        "sentiment": "negative",
+        "key_opinions": ["提议转战新能源板块", "该提议遭到广泛质疑，认为风险巨大", "有用户已在新能源中深度套牢"],
+        "mentioned_stocks": ["比亚迪"]
+    },
+    {
+        "index": 39,
+        "summary": "“牛回速归”的呐喊与普遍的怀疑和戏谑态度形成对比。",
+        "sentiment": "negative",
+        "key_opinions": ["用“牛回速归”口号试探市场信心", "多数回复充满怀疑、讽刺或等待解套跑路", "反映投资者信心极度脆弱"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 40,
+        "summary": "卖出创业板后市场反弹，纠结是否要接回，意见两极分化。",
+        "sentiment": "mixed",
+        "key_opinions": ["“一卖就涨”的懊恼心态", "有人鼓吹是“最后上车机会”，准备买入", "也有人认为是拉高出货，建议不要接"],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 41,
+        "summary": "讨论Lumentum产能售罄至2029年的利好与政策限制之间的矛盾。",
+        "sentiment": "negative",
+        "key_opinions": ["利好消息（产能售罄）与政策限制（FCC）存在矛盾", "怀疑是配合做空光模块的手段", "消息对股价刺激有限"],
+        "mentioned_stocks": ["Lumentum"]
+    },
+    {
+        "index": 42,
+        "summary": "为持有的零售股（好想你）呐喊助威，期待反弹。",
+        "sentiment": "negative",
+        "key_opinions": ["长期持有零售股，期待上涨回血", "曾错误认为原材料成本下降是利好", "版内对相关话题讨论有限制"],
+        "mentioned_stocks": ["好想你"]
+    }
+]
+```
