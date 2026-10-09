@@ -1,0 +1,464 @@
+[
+  {
+    "index": 1,
+    "summary": "投资者分享巨额亏损经历，抱团取暖讨论科技股下跌影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "用户亏损70个点，接近腰斩，情绪麻木。",
+      "新手保护期失效，小白亏损60%",
+      "科技股亏损严重，兆易创新下跌引发痛苦"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论OpenAI营收少200亿美元，可能因会计口径差异，市场反应过度。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "营收差异源于会计处理方式不同，非业务减少",
+      "市场情绪化杀估值，错杀可能带来机会",
+      "机构提前消息疑似，利空或为出货借口"
+    ],
+    "mentioned_stocks": ["OpenAI", "Anthropic"]
+  },
+  {
+    "index": 3,
+    "summary": "小米汽车销量与蔚来、理想比较，讨论行业挑战和出海前景。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "小米交付量受产能限制，高盛预估未来增长",
+      "新能源汽车行业面临盈利难题，投资人耐心有限",
+      "出海是关键增长点，小米计划2027年出海"
+    ],
+    "mentioned_stocks": ["小米", "蔚来", "理想"]
+  },
+  {
+    "index": 4,
+    "summary": "批评特朗普操盘行为，讨论个人养老金产品不吸引人。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "个人养老金产品限制多，指数表现差",
+      "市场情绪低迷，投资者不愿参与",
+      "信息管控强，利空消息难消化"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "风电储能催化剂出现，讨论能源革命带来投资机会。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "能源安全推动清洁能源发展，长期趋势明确",
+      "大金重工股票涨势好，但需严格止损",
+      "机构可能提前获消息，暗线为能源革命"
+    ],
+    "mentioned_stocks": ["大金重工"]
+  },
+  {
+    "index": 6,
+    "summary": "认为市场离见底还早，需等待传统信号如报社事件。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "需要连续报社事件才能见底，目前未出现",
+      "信息管控能力强，负面消息难传播",
+      "建议远离人多场所，保重健康"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "量化策略模拟盘盈利高，但回复质疑其真实可行性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "模拟盘不触发真实量化，资金体量影响结果",
+      "过拟合和未来函数问题，实盘表现差异大",
+      "量化资金大小决定策略有效性，大资金会被针对"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论科技牛市回撤情况，认为大资金可能被套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股回撤次数少，难以想象大资金出货",
+      "大资金可能被套导致流动性枯竭",
+      "资金集中度过高，抱团严重后市难解套"
+    ],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 9,
+    "summary": "面对美股科技大跌，投资者讨论如何应对和市场走势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "满仓科技股亏损严重，情绪破防",
+      "可能低开高走，早盘大量清仓",
+      "连续下跌后是否割肉成为难题"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "投资者亏损严重考虑清仓，分享痛苦经历和决策。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "总亏损130个，持仓股大跌影响生活",
+      "清仓是清醒选择，但建议留底仓",
+      "回本就跑言论多，知行合一难"
+    ],
+    "mentioned_stocks": ["东山源杰", "中光小光", "天孚"]
+  },
+  {
+    "index": 11,
+    "summary": "OpenAI营收不及预期消息导致市场崩盘，引发利空讨论。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "OpenAI营收少200亿，直接带崩美股",
+      "AI硬件受拖累，泡沫可能刺破",
+      "整齐划一跳水，利空影响显著"
+    ],
+    "mentioned_stocks": ["OpenAI", "AI硬件"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论银行股下跌对市场见底的影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "银行不跌，上证指数难下跌，抄底需谨慎",
+      "银行与指数脱钩，走势独立",
+      "风险暴雷和中特估后银行股脱离指数"
+    ],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 13,
+    "summary": "A股与美股脱钩讨论，认为A股独立下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股涨不跟美股，跌的时候跟跌",
+      "常态是不跟美股，仅影响开盘",
+      "美股新高，A股下跌逻辑不成立"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "新手记录开户入市，回复有祝福和质疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "新手入市时机好，持仓成本低",
+      "本金少，先练手等创业板开通",
+      "长期计划，避免重仓猛干"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "对比中美AI资本投入差距，讨论中国挑战。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中美投资差距悬殊，中国受芯片限制",
+      "技术代差下，投资效果有限",
+      "长期靠时间追赶，短期难突破"
+    ],
+    "mentioned_stocks": ["DeepSeek"]
+  },
+  {
+    "index": 16,
+    "summary": "预测市场继续下跌，多利空叠加导致恐怖氛围。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "OpenAI利空、加息周期等叠加，市场恐怖",
+      "中概股可能下跌，投资需谨慎",
+      "短线操作难存活，情绪恐慌"
+    ],
+    "mentioned_stocks": ["腾讯", "阿里"]
+  },
+  {
+    "index": 17,
+    "summary": "投资者心累，怀疑投资方法论和A股有效性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股是无息资产，估值高于美股难投资",
+      "创业板跌破涨幅，科创反弹后回落",
+      "投资世界观和方法论出问题"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "江淮汽车股价拉升后刹车门事件，讨论华为概念影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "江淮股价因华为概念拉升，后爆出刹车门",
+      "杀猪盘嫌疑，高位接盘风险大",
+      "股价位置低，但估值相比同行高"
+    ],
+    "mentioned_stocks": ["江淮", "赛力斯"]
+  },
+  {
+    "index": 19,
+    "summary": "预测纳指腰斩起步，基于加息周期和金融风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "加息周期前夜，连续加息明年开始",
+      "纳指腰斩可能，美股资产风险高",
+      "A股可能先腰斩，但流动性强易修复"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论中国公司搞大模型的挑战，贵且买不到卡。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "成本高且芯片受限，股票价值不被市场认可",
+      "资本家不做慈善，但仍推进大模型",
+      "未来本地小模型趋势，用则可"
+    ],
+    "mentioned_stocks": ["DeepSeek", "智谱"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论场内纳指ETF溢价高低和投资策略。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指ETF溢价3个点左右，建议先别买",
+      "美股可能回调，资金有限可场外定投",
+      "溢价率高时反而有购买价值"
+    ],
+    "mentioned_stocks": ["纳斯达克ETF"]
+  },
+  {
+    "index": 22,
+    "summary": "询问1万元投资选择，涉及比特币和苹果手机。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "建议买iPhone，投资风险大",
+      "资金出境难，回流限制多",
+      "无法长期持有股票，水平有限"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "对比纳指和A股走势，暗示A股跟随下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "小纳跟大A下跌，A股预判跌",
+      "美债暴跌可能带来牛市",
+      "纳指和A股关联性弱"
+    ],
+    "mentioned_stocks": ["纳指", "A股"]
+  },
+  {
+    "index": 24,
+    "summary": "OpenAI营收减少影响A股，叠加利空预期下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股应下跌，科技走势惨烈",
+      "OpenAI营收消息利空，市场反应负面",
+      "棒子不开盘叠加，情绪悲观"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "特朗普言论影响原油和美股，讨论市场波动。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "原油跳水，美股波动无明确方向",
+      "希望特朗普救市，但实际行动少",
+      "利好利空反复，市场情绪不稳"
+    ],
+    "mentioned_stocks": ["原油", "美股"]
+  },
+  {
+    "index": 26,
+    "summary": "投资者向家人坦白亏损，情感痛苦和孤独。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "外汇亏损导致家庭冲突，关系破裂",
+      "考虑清仓，未来不计划回家",
+      "股市亏损影响生活，情绪崩溃"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论纳指关注度低和A股独立走势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳指缩量，明天走势不敢想",
+      "A股独立下跌，不跟纳指涨跌",
+      "溢价10个点买纳指，风险较高"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 28,
+    "summary": "中国大模型安全事件利空，讨论黑客攻击影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黑客利用大模型攻击，利空国模",
+      "工具越界问题，Claude举报引发争议",
+      "可能利好网络安全板块"
+    ],
+    "mentioned_stocks": ["DeepSeek", "Claude"]
+  },
+  {
+    "index": 29,
+    "summary": "兆易创新股价新低，投资者讨论是否割肉。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价创新低，可能还有更低",
+      "半仓持有，情绪崩溃",
+      "存储周期真实但估值杀伤力大"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 30,
+    "summary": "预测美股继续下跌，A股可能跟跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美中韩接力螺旋下跌，早睡避险",
+      "纳指不能再跌，否则做顶成功",
+      "美股回调，A股无理由下跌"
+    ],
+    "mentioned_stocks": ["纳指", "创新药"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论A股主力资金行为，嘲讽预判能力。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "主力资金预判美股跌，但涨不跟跌了跟",
+      "无能狂怒，预测不能赚钱无意义",
+      "AI泡沫下，估值高于美股"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "东山精密开电话会维护股价，讨论市场环境。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "东山精密用自有资金维护股价，表现较好",
+      "亨通光电老板离职，市场不行",
+      "PCB板块心态崩，涨停炸板"
+    ],
+    "mentioned_stocks": ["东山精密", "亨通光电"]
+  },
+  {
+    "index": 33,
+    "summary": "国产半导体链跌幅大于进口链，讨论估值问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国产链估值贵，国内业务不赚钱",
+      "情绪化杀估值，基本面支撑弱",
+      "出海才能赚真金白银，国内市场卷"
+    ],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 34,
+    "summary": "预测A股点位可能下跌，量化收缩影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "明天可能3700点，但信心不足",
+      "量化QMT收缩，成交量减少",
+      "长江抽血可能加剧市场下跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "预测美原油价格跳水，基于和谈利好。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "和谈利好可能实现，原油跳水",
+      "可能澄清为假新闻，市场反复",
+      "港股收盘后发布消息可能性高"
+    ],
+    "mentioned_stocks": ["原油"]
+  },
+  {
+    "index": 36,
+    "summary": "学习李大霄观点，讨论市场趋势解读。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "山峰和山底象征当前市场顶部和底部",
+      "趋势底可能形成，但需确认",
+      "图片解读市场位置"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "类比A股为虚拟盘诈骗，批评映射心理。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股像虚拟盘，K线人为绘制",
+      "映射心理导致赌博行为，亏损风险高",
+      "基本面投资也难赚钱，市场环境差"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "讨论A股3700点支撑位可能失守。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "3700点可能不是铁底，继续下跌",
+      "可能回到2689点，下无压力位",
+      "量化和抛压导致市场一泻千里"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "源杰科技股价跌停，讨论FCC利空影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "明天可能跌停，FCC政策利空",
+      "机构年底排名导致抛售死亡螺旋",
+      "海外业务占比不高，抱团瓦解"
+    ],
+    "mentioned_stocks": ["源杰科技"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论场内纳指ETF高溢价是否值得投资。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "溢价10-15%高，建议场外定投分散风险",
+      "资金有限，长期投资需谨慎",
+      "溢价率高时可能有价值，但风险大"
+    ],
+    "mentioned_stocks": ["纳指ETF"]
+  },
+  {
+    "index": 41,
+    "summary": "调查924以来盈利情况，多数投资者亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大部分投资者亏掉利润，亏损普遍",
+      "不碰科技股的老股民盈利",
+      "科技股下跌拖累整体收益"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "能源期货价格上涨解释股市下跌原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "能源期货涨但A股补涨缺失",
+      "甲醇期货异常上涨，伊朗供应影响",
+      "美国行动可能引发外盘波动"
+    ],
+    "mentioned_stocks": ["中石油"]
+  }
+]
