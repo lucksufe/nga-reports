@@ -1,0 +1,296 @@
+[
+  {
+    "index": 1,
+    "summary": "A股yyds上热搜，但回复指出yyds指银行等特定板块，非A股整体，反映对市场不满。",
+    "sentiment": "negative",
+    "key_opinions": ["yyds指银行石油煤炭电力板块，非A股；", "银行拉升只为撑指数，市场扭曲；", "A股表现差，引发讽刺和吐槽。"],
+    "mentioned_stocks": ["银行", "石油", "煤炭", "电力"]
+  },
+  {
+    "index": 2,
+    "summary": "科技股财报季来袭，但用户质疑业绩能否支撑估值，担心利好落地后下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["财报可能带来鬼故事，业绩难撑估值；", "类似七月情况可能重复，利好即利空；", "科创板科技股前景堪忧。"],
+    "mentioned_stocks": ["科技股", "科创板"]
+  },
+  {
+    "index": 3,
+    "summary": "计划下跌时重仓买入，但市场未跌到位，表达失望情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["希望市场进一步下跌以便抄底；", "对市场未跌到位感到不满。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "批评国家队和机构操纵市场，散户被坑，信心丧失。",
+    "sentiment": "negative",
+    "key_opinions": ["机构和国家队出货，散户被欺骗；", "市场信心丧失；", "科技股拖累大盘。"],
+    "mentioned_stocks": ["科创"]
+  },
+  {
+    "index": 5,
+    "summary": "直抒胸臆吐槽A股市场垃圾，表达极度不满和愤怒。",
+    "sentiment": "negative",
+    "key_opinions": ["大A市场是垃圾市场；", "4000+点位令人愤怒；", "市场无能。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "考虑去深圳开港股账户，讨论开户注意事项和市场风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["港股开户流程需注意；", "港股可能比A股更差；", "建议其他市场如纳指。"],
+    "mentioned_stocks": ["港股", "纳指ETF"]
+  },
+  {
+    "index": 7,
+    "summary": "感觉大盘要死，但指数跌幅小，创业板跌得多，依赖银行撑着。",
+    "sentiment": "negative",
+    "key_opinions": ["指数靠银行撑着；", "创业板已死；", "深证成指跌2%。"],
+    "mentioned_stocks": ["银行", "创业板"]
+  },
+  {
+    "index": 8,
+    "summary": "厄尔尼诺现象报道可能影响农业，讨论投资机会和风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["厄尔尼诺可能影响粮食产量；", "农业板块如金健米业可能受益；", "央视报道可能吸引散户接盘。"],
+    "mentioned_stocks": ["大米", "金健米业", "白糖", "棕榈", "橡胶"]
+  },
+  {
+    "index": 9,
+    "summary": "骂A股是全球最垃圾市场，表达愤怒和不满。",
+    "sentiment": "negative",
+    "key_opinions": ["大A垃圾市场；", "亏钱但还没麻木；", "新韭菜还在期待。"],
+    "mentioned_stocks": ["纳指", "双创"]
+  },
+  {
+    "index": 10,
+    "summary": "市场无论放量缩量都跌，银行股却涨，讨论银行股股息和风险。",
+    "sentiment": "negative",
+    "key_opinions": ["银行涨但其他板块跌；", "银行股股息好，可防守；", "担心银行涨太多。"],
+    "mentioned_stocks": ["银行", "四大行"]
+  },
+  {
+    "index": 11,
+    "summary": "大盘不好时炒妖股，观察到新华传媒等异动，讨论机会和风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["妖股活跃，新华传媒连板；", "金健米业有龙头气质；", "行情如电风扇，追涨风险高。"],
+    "mentioned_stocks": ["新华传媒", "善水科技", "海南橡胶", "金健米业"]
+  },
+  {
+    "index": 12,
+    "summary": "吐槽研究A股，建议关注A1，担心美国24小时交易抽干资金。",
+    "sentiment": "negative",
+    "key_opinions": ["美国24小时交易可能抽干全球资金；", "港股和A股受负面影响；", "利好海外市场。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "呼吁国家队救市，但回复认为国家队可能在出货，散户被坑。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队可能出货；", "银行拉升救指数；", "散户信任丧失。"],
+    "mentioned_stocks": ["科创", "银行"]
+  },
+  {
+    "index": 14,
+    "summary": "询问是否还有全仓科技股的多头，对科技股前景悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股跌惨，全仓是空头；", "科技多头可能转投海外；", "科技股估值高位风险。"],
+    "mentioned_stocks": ["科技股", "AI硬件", "纳指ETF"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论信仰是涨出来的，高位接盘者找逻辑自我说服，批评散户行为。",
+    "sentiment": "negative",
+    "key_opinions": ["信仰在高位形成，可能接最后一棒；", "新股民靠行情赚钱，误以为能力；", "基本面分析在低位重要。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "开盘卖后接回仍亏损，反思操作错误，讨论做T策略。",
+    "sentiment": "negative",
+    "key_opinions": ["卖对但接早了，导致亏损；", "做T需练习，长期可降低成本；", "下跌趋势不应接回。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "韩股成交额暴跌70%，可能进入熊市，引发担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["韩股成交额降70%；", "市场熊市迹象明显。"],
+    "mentioned_stocks": ["韩股"]
+  },
+  {
+    "index": 18,
+    "summary": "红利低波ETF表现好，与科技股对比，讨论稳定性和波动。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利低波ETF稳定；", "科技股波动大，风险高；", "周期理论适用。"],
+    "mentioned_stocks": ["红利低波ETF", "纳指", "科技股"]
+  },
+  {
+    "index": 19,
+    "summary": "观察到爱玛科技异动，逻辑为外卖员就业利好电动车，讨论机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["爱玛科技五日线主升；", "大盘反弹可能杀跌；", "不如买九号。"],
+    "mentioned_stocks": ["爱玛科技", "九号"]
+  },
+  {
+    "index": 20,
+    "summary": "市场乱拉板块，电风扇行情，追涨风险高，环境混乱。",
+    "sentiment": "negative",
+    "key_opinions": ["板块快速轮动，如台风行情；", "追涨必死，风险高；", "市场环境影响情绪。"],
+    "mentioned_stocks": ["游戏", "农业", "煤炭", "电力"]
+  },
+  {
+    "index": 21,
+    "summary": "赛力斯直线拉升，原因可能是尊界信息或出海欧洲，讨论前景。",
+    "sentiment": "mixed",
+    "key_opinions": ["尊界相关内部信息可能推动上涨；", "出海欧洲前景不看好；", "资金流入但需持续性。"],
+    "mentioned_stocks": ["赛力斯", "江淮"]
+  },
+  {
+    "index": 22,
+    "summary": "询问有色板块利空，西部矿业跌，讨论市场影响。",
+    "sentiment": "negative",
+    "key_opinions": ["有色板块受大盘影响；", "周五涨可能被视为利空；", "没有利好也下跌。"],
+    "mentioned_stocks": ["西部矿业", "有色板块"]
+  },
+  {
+    "index": 23,
+    "summary": "赛力斯刹车刹不住，可能指股价下跌，讨论海外和抛压。",
+    "sentiment": "negative",
+    "key_opinions": ["赛力斯股价下跌；", "问界进欧洲前景；", "深套盘抛压小。"],
+    "mentioned_stocks": ["赛力斯"]
+  },
+  {
+    "index": 24,
+    "summary": "感谢国家队救市，但回复批评国家队是砸盘者，讨论做T操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队买起指数；", "国家队可能砸盘；", "做T操作频繁。"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 25,
+    "summary": "批评市场底层逻辑是筹码博弈，类似赌场，基本面分析可笑。",
+    "sentiment": "negative",
+    "key_opinions": ["市场靠筹码博弈；", "类似赌场，甚至更不公平；", "基本面分析在目前无用。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "证监会加强稳市机制，但回复怀疑效果，讨论中长期资金作用。",
+    "sentiment": "negative",
+    "key_opinions": ["中长期资金可能给国家队站岗；", "出喇叭不出实质措施；", "五粮液事件未解决。"],
+    "mentioned_stocks": ["五粮液"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论市场跌到多少有性价比，如3600、2800点，参考历史低点。",
+    "sentiment": "negative",
+    "key_opinions": ["参考历史低点如2800点；", "2800点可能引发恐惧；", "科技股可能回原点。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "询问五粮液处罚通知，暗示财务造假未受严惩，不满监管。",
+    "sentiment": "negative",
+    "key_opinions": ["五粮液财务造假未严惩；", "自己人不罚，监管宽松；", "深交所未问询。"],
+    "mentioned_stocks": ["五粮液"]
+  },
+  {
+    "index": 29,
+    "summary": "厄尔尼诺下讨论是否买农业期货，建议投资商品但谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": ["农业公司可能不赚钱；", "建议投资商品如白糖橡胶；", "不建议与粮食安全期货。"],
+    "mentioned_stocks": ["白糖", "橡胶", "农业期货"]
+  },
+  {
+    "index": 30,
+    "summary": "科创ETF从-38%补到-18%，快没子弹了，焦虑等待上涨。",
+    "sentiment": "negative",
+    "key_opinions": ["越跌越补，弹尽粮绝；", "焦虑等待市场上涨。"],
+    "mentioned_stocks": ["科创ETF"]
+  },
+  {
+    "index": 31,
+    "summary": "分享量化方法论，讨论市场机制和国家队操作，认为熊市已至。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化是方法论，标准化分析；", "国家队操作体现市场设计；", "熊市已确认。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "吐槽国家队拉回指数，散户被欺骗，市场操作变态。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队感叹队伍好带；", "散户跪舔国家队；", "市场操作反复无常。"],
+    "mentioned_stocks": ["红利"]
+  },
+  {
+    "index": 33,
+    "summary": "嘲讽给GJD磕头的孝子，认为国家队会砸盘。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队会砸盘；", "股民互害；", "龟龟多，盲目信任。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "自嘲小丑，在低点补仓但回本就卖，散户亏钱常态。",
+    "sentiment": "negative",
+    "key_opinions": ["散户亏钱是常态；", "低点补回本就跑；", "做T赶不上下跌速度。"],
+    "mentioned_stocks": ["国泰", "兆易"]
+  },
+  {
+    "index": 35,
+    "summary": "洗霸股票强，老庄股，控盘能力强，讨论其表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["洗霸是老庄股；", "固态电池总龙头；", "控盘水平强，行为艺术。"],
+    "mentioned_stocks": ["洗霸", "西八"]
+  },
+  {
+    "index": 36,
+    "summary": "学习大户投资经验，如长期持有寒王和港股大模型，少看自媒体。",
+    "sentiment": "positive",
+    "key_opinions": ["长期持有好股如寒王；", "美股科技映射机会；", "少看自媒体，避免情绪化。"],
+    "mentioned_stocks": ["寒王", "港股大模型"]
+  },
+  {
+    "index": 37,
+    "summary": "赛力斯在熊市中起飞，被称为大盘逆子。",
+    "sentiment": "positive",
+    "key_opinions": ["赛力斯逆市上涨；", "大盘逆子表现。"],
+    "mentioned_stocks": ["赛力斯"]
+  },
+  {
+    "index": 38,
+    "summary": "纳指ETF溢价13%，但仍有买入，讨论风险和机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["高溢价仍买纳指ETF；", "A股双创差，资金转投海外；", "杀溢价风险存在。"],
+    "mentioned_stocks": ["纳指ETF", "双创"]
+  },
+  {
+    "index": 39,
+    "summary": "慢牛和慢熊怎么判定，质疑靠官方说法。",
+    "sentiment": "negative",
+    "key_opinions": ["靠大喇叭嘴说判定市场；", "市场走势被操控。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "怀疑大盘会回到2开头，但银行新高可能支撑指数。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行新高难跌；", "科技脚踝斩才可能；", "创业板已2开头。"],
+    "mentioned_stocks": ["银行", "科技", "创业板"]
+  },
+  {
+    "index": 41,
+    "summary": "抱怨A股跌爆炸，都在跑，对科技牛幻想破灭。",
+    "sentiment": "negative",
+    "key_opinions": ["科技牛到明年无望；", "跌到底才可能涨；", "周五科技强弩之末。"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 42,
+    "summary": "银行股攀新高，讨论底仓和止盈策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行股可作底仓；", "电力底仓浮盈；", "部分止盈如工商银行。"],
+    "mentioned_stocks": ["银行股", "工商银行", "电力"]
+  }
+]
