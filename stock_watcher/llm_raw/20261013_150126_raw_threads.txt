@@ -1,0 +1,282 @@
+```json
+[
+    {
+        "index": 1,
+        "summary": "讨论主力托盘的目的可能是为了面子和给散户减亏逃跑的机会，但量能不足。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "托盘是为了面子和给散户一点机会",
+            "想做个大T然后离场",
+            "明天可能砸盘，T+1限制逃跑机会"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 2,
+        "summary": "讨论国家队救市行为，观点对立，有人感谢也有人批评其是下跌元凶。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "国家队硬买拉起指数",
+            "国家队可能是下跌的罪魁祸首",
+            "流动性被抽走，高卖低买"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 3,
+        "summary": "提示今日反弹并非市场修复，仅为下跌反抽，建议观望或清仓。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "只是短期资金打溢价的下跌反抽",
+            "建议清仓等待自然底部",
+            "持币观望是最佳策略"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 4,
+        "summary": "讨论指数翻红后对“狗队”态度的转变，但对其翻红原因和持续性存疑。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "指数翻红令人惊讶",
+            "质疑翻红的原因和意义",
+            "认为需要明天再验证"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 5,
+        "summary": "探讨保险板块当日暴跌原因，猜测可能因接盘科技股或资金轮动导致。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "保险股接盘了科技股导致业绩预期差",
+            "资金从保险转向抄底科技",
+            "大跌令投资者难以理解"
+        ],
+        "mentioned_stocks": ["太保"]
+    },
+    {
+        "index": 6,
+        "summary": "讨论黄金投资论坛及当前市场，关注数据披露风险和价格走势。",
+        "sentiment": "positive",
+        "key_opinions": [
+            "黄金宗再次挂牌",
+            "市场在博弈数据披露带来的波动",
+            "今日回踩在预期之内"
+        ],
+        "mentioned_stocks": ["黄金"]
+    },
+    {
+        "index": 7,
+        "summary": "讨论“算电楼”频繁被系统删除的原因，猜测与敏感词有关。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "帖子频繁被删除令人困惑",
+            "可能触发了敏感词过滤",
+            "影响正常讨论交流"
+        ],
+        "mentioned_stocks": ["高争民爆"]
+    },
+    {
+        "index": 8,
+        "summary": "讨论江淮汽车因利好消息（刹车测试）盘中拉升，并分析其公关策略。",
+        "sentiment": "positive",
+        "key_opinions": [
+            "因测试刹车利好而拉红",
+            "被评价为教科书级的公关操作",
+            "投资者看好高端用户粘性"
+        ],
+        "mentioned_stocks": ["江淮汽车", "赛力斯"]
+    },
+    {
+        "index": 9,
+        "summary": "询问行云是否适合高抛低吸，得到肯定回答。",
+        "sentiment": "positive",
+        "key_opinions": [
+            "行云在算力股中比较稳",
+            "适合进行高抛低吸操作"
+        ],
+        "mentioned_stocks": ["行云"]
+    },
+    {
+        "index": 10,
+        "summary": "调侃今日A股走势与谁联动，观点包括跟新加坡、美股或独立行情。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "调侃跟新加坡或美股联动",
+            "认为可能是独立行情",
+            "提及国家队护盘作用"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 11,
+        "summary": "比较沪电股份与生益电子股价，讨论两者走势及历史表现。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "沪电股价快追上生益",
+            "生益历史上爆发力更强",
+            "讨论是否适合买入生益"
+        ],
+        "mentioned_stocks": ["沪电股份", "生益电子"]
+    },
+    {
+        "index": 12,
+        "summary": "对市场再次转绿表示失望，认为护盘反弹不可持续。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "从梦中绿了到现实绿了",
+            "明日关注跑路速度",
+            "护盘只是缓解情绪，非真正底部"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 13,
+        "summary": "吐槽市场机制不公平，散户对手强大、信息不对称。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "市场机制对散户极不公平",
+            "对手方实力过于强大",
+            "信息获取渠道严重不对等"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 14,
+        "summary": "讨论上证指数3741点位的重要性，视为关键支撑，跌破可能引发恐慌。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "3741是重要心理与技术支撑位",
+            "跌破可能引发放量大跌和踩踏",
+            "维系此点位是“领导任务”"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 15,
+        "summary": "探讨具备长牛潜力的资源股特征，认为垄断和低成本是关键。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "寻找具有垄断或低成本优势的企业",
+            "长牛股往往属于红利低波类型",
+            "认为买银行股更简单"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 16,
+        "summary": "抱怨开盘卖出后市场大涨，形成“卖飞”心态，并对后市反弹存疑。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "开盘卖出后市场大涨感到后悔",
+            "低开可能触发反弹",
+            "认为反弹只是下跌中继"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 17,
+        "summary": "预测收盘指数将被拉红以维护面子，表达对这种行为的厌恶。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "预测收盘会拉至3800点以上",
+            "认为这种行为非常恶心",
+            "目标是维护市场表面好看"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 18,
+        "summary": "抱怨反弹迅速结束，未上车或持仓仍绿，并认为国家队明日会抛售。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "反弹时间太短，未能上车",
+            "增量资金不足难以持续",
+            "预测国家队明天会砸盘"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 19,
+        "summary": "分析美光与海力士股价相互下跌的“死亡螺旋”现象。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "美光与海力士股价相互带动下跌",
+            "形成“死亡螺旋”效应",
+            "溢价差异导致循环下跌"
+        ],
+        "mentioned_stocks": ["美力士", "韩力士"]
+    },
+    {
+        "index": 20,
+        "summary": "观察江淮汽车与赛力斯走势呈现跷跷板效应。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "江淮与赛力斯走势相反",
+            "形容两者为“卧龙凤雏”"
+        ],
+        "mentioned_stocks": ["江淮汽车", "赛力斯"]
+    },
+    {
+        "index": 21,
+        "summary": "讨论央视报道厄尔尼诺现象对粮食板块的影响，有人后悔提前卖出。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "厄尔尼诺可能影响粮食产量",
+            "央视报道可能吸引散户跟风",
+            "对“虫”金健米业等股有短期刺激"
+        ],
+        "mentioned_stocks": ["大米", "金健米业"]
+    },
+    {
+        "index": 22,
+        "summary": "讨论长鑫科技技术进展引发海外存储股暴跌，但长鑫自身股价也下跌。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "长鑫技术进展引发行业产能过剩担忧",
+            "导致海力士等海外存储股暴跌",
+            "但长鑫自身股价也应声下跌"
+        ],
+        "mentioned_stocks": ["长鑫科技", "海力士", "三星"]
+    },
+    {
+        "index": 23,
+        "summary": "询问国家队护盘通常持续几天，普遍认为时间很短且明日可能砸盘。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "护盘通常只能持续一两天",
+            "明天大概率会反手砸盘",
+            "当前量能无法维持上涨"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 24,
+        "summary": "因中微公司董事长言论，建议短期避开“半岛铁盒”（存储或相关板块）。",
+        "sentiment": "mixed",
+        "key_opinions": [
+            "中微董事长讲话对板块构成压力",
+            "“半岛铁盒”板块感觉已跌透",
+            "但下跌空间可能仍未封闭"
+        ],
+        "mentioned_stocks": ["中微", "半岛铁盒"]
+    },
+    {
+        "index": 25,
+        "summary": "抱怨国家队托盘不持久，“托而不举”，目的是让投资者交出筹码。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "托盘目的是为了换取流动性",
+            "“托而不举”是常态",
+            "托盘是为了让散户交筹码而非赚钱"
+        ],
+        "mentioned_stocks": []
+    },
+    {
+        "index": 26,
+        "summary": "对所谓“慢牛”行情表示怀疑，更倾向于市场处于“慢熊”状态。",
+        "sentiment": "negative",
+        "key_opinions": [
+            "完全不相信慢牛行情",
+            "认为市场更可能是慢

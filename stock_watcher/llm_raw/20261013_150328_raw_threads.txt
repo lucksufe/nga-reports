@@ -1,0 +1,305 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "主力托盘目的分析：拉高给散户逃命机会，量能未放，建议趁反弹离场",
+    "sentiment": "negative",
+    "key_opinions": ["主力托盘只为缓跌非真反弹", "拉升未放量，力度存疑", "趁反弹赶紧跑路"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "国家队护盘拉起大盘，但部分人认为其先砸后拉做T收割散户",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队硬买拉起大盘", "砸盘元凶就是国家队", "代价是银行股下跌"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 3,
+    "summary": "提示今日非修复，仅下跌反抽，建议观望不进场",
+    "sentiment": "negative",
+    "key_opinions": ["只是短期资金打溢价", "下跌反抽非修复", "不进场胜过80%散户"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "大盘翻红引发对国家队态度反转，情绪复杂且嘲讽",
+    "sentiment": "mixed",
+    "key_opinions": ["大盘意外翻红", "跌了骂狗队拉了感谢", "对拉升存疑等明天验证"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "保险股午盘后疯狂砸盘，传闻保险接盘科技股致业绩担忧",
+    "sentiment": "negative",
+    "key_opinions": ["保险7月接盘科技股", "Q3业绩或成惊吓", "资金从保险流向科技"],
+    "mentioned_stocks": ["中国太保", "长江养老"]
+  },
+  {
+    "index": 6,
+    "summary": "黄金讨论，博弈本周密集数据尤其是周四CPI，波动放大",
+    "sentiment": "mixed",
+    "key_opinions": ["博弈周四CPI数据", "数据期波动放大需控风险", "黄金回踩4155在预期中"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 7,
+    "summary": "算电协同讨论楼频繁被爆破，疑似敏感词触发审核",
+    "sentiment": "mixed",
+    "key_opinions": ["帖子频繁被爆破", "疑似个股名称触发敏感", "楼爆利好民爆股梗"],
+    "mentioned_stocks": ["高争民爆"]
+  },
+  {
+    "index": 8,
+    "summary": "江淮汽车翻红，官方公关组合拳被评教科书式处理刹车争议",
+    "sentiment": "mixed",
+    "key_opinions": ["官方测试刹车无问题", "公关组合拳教科书级", "期待破20补仓"],
+    "mentioned_stocks": ["江淮汽车", "赛力斯", "比亚迪"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论行云等算力股走势，认为行云相对稳健不易套人",
+    "sentiment": "mixed",
+    "key_opinions": ["其他算力股走下跌", "行云走势较稳", "想做高抛低吸"],
+    "mentioned_stocks": ["行云"]
+  },
+  {
+    "index": 10,
+    "summary": "调侃今日大A涨跌跟随对象，嘲讽割韭菜与政策底护盘",
+    "sentiment": "mixed",
+    "key_opinions": ["调侃大A跟新加坡美股", "政策底护盘有效", "散户难防被割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "沪电股份股价快追上生益科技，讨论生益是否可买",
+    "sentiment": "mixed",
+    "key_opinions": ["沪电追上生益或生益跌下来", "PCB反弹较多", "生益爆发力曾强但不确定"],
+    "mentioned_stocks": ["沪电股份", "生益科技"]
+  },
+  {
+    "index": 12,
+    "summary": "反弹转绿令人困惑，量能不足反弹难持续，预期明日砸盘",
+    "sentiment": "negative",
+    "key_opinions": ["反弹梦碎大盘转绿", "量能不足难支撑", "明天比谁跑得快"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "吐槽A股是不公平市场：散户信息劣势明显，被各方收割",
+    "sentiment": "negative",
+    "key_opinions": ["散户对手是庄家量化机构", "信息来源严重不对等", "市场欺骗性强"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论3741关键点位意义，破位或引踩踏，政策需维持震荡",
+    "sentiment": "mixed",
+    "key_opinions": ["3741是关键支撑位", "破位恐引发踩踏大跌", "政策要求有序下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "资源股长牛分析，寻找垄断型或低成本资源优势企业",
+    "sentiment": "mixed",
+    "key_opinions": ["找垄断独特资源公司", "长牛需耐心长期资本", "不如直接买银行红利"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 16,
+    "summary": "大盘低开后V型反弹成大奇迹日，开盘卖空者懊悔",
+    "sentiment": "mixed",
+    "key_opinions": ["开盘卖出懊悔不已", "低开后触底反弹", "看好后半月反弹但仅中继"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "吐槽护盘恶心，预计收盘拉指数维持面子工程",
+    "sentiment": "negative",
+    "key_opinions": ["收盘必拉护面子", "指数微红收场", "护盘手段令人反感"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "反弹太快结束，量能不足，护出来的底不是真底",
+    "sentiment": "negative",
+    "key_opinions": ["增量资金太少难持续", "国家队护盘次日就砸", "护出来的底非真底"],
+    "mentioned_stocks": ["大唐"]
+  },
+  {
+    "index": 19,
+    "summary": "美光与SK海力士相互拖累形成存储股死亡螺旋下跌",
+    "sentiment": "negative",
+    "key_opinions": ["美韩存储股互相拖累", "溢价差异致循环下跌", "死亡螺旋开启"],
+    "mentioned_stocks": ["美光", "SK海力士"]
+  },
+  {
+    "index": 20,
+    "summary": "江淮与赛力斯走势呈跷跷板，互相轮动涨跌",
+    "sentiment": "mixed",
+    "key_opinions": ["两股跷跷板轮动", "卧龙凤雏互相拉扯"],
+    "mentioned_stocks": ["江淮汽车", "赛力斯"]
+  },
+  {
+    "index": 21,
+    "summary": "央视报道厄尔尼诺确认成型，利好粮食相关但恐上新闻后见顶",
+    "sentiment": "mixed",
+    "key_opinions": ["厄尔尼诺确认持续到明年3月", "上央视恐引发追高接盘", "利好粮食物价上涨"],
+    "mentioned_stocks": ["金健米业"]
+  },
+  {
+    "index": 22,
+    "summary": "长鑫新DRAM架构进展引发海外存储股暴跌，产能过剩担忧",
+    "sentiment": "negative",
+    "key_opinions": ["中国存储扩产冲击供需", "峰值盈利担忧压制估值", "长鑫自身股价也大跌"],
+    "mentioned_stocks": ["长鑫科技", "SK海力士"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论国家队护盘可持续天数，普遍认为短暂且无量支撑",
+    "sentiment": "negative",
+    "key_opinions": ["护盘仅维持一两天", "量能不足难支撑", "普涨等于没涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "中微董事长讲话影响半导体板块，短期建议回避半岛铁盒",
+    "sentiment": "negative",
+    "key_opinions": ["董事长言论打压股价", "短期不看好自家企业", "板块今年仍涨60%"],
+    "mentioned_stocks": ["中微公司"]
+  },
+  {
+    "index": 25,
+    "summary": "抱怨托盘中途停止，托而不举只是给流动性非让散户赚钱",
+    "sentiment": "negative",
+    "key_opinions": ["托盘只为提供流动性", "托而不举长期不举", "一不托就自由落体"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论慢牛是否来临，普遍嘲讽不信，认为是慢熊",
+    "sentiment": "negative",
+    "key_opinions": ["完全不信有慢牛", "更像慢熊", "慢牛概率极低"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论是否黄金坑，担忧是死猫跳且底部之下还有更低",
+    "sentiment": "mixed",
+    "key_opinions": ["可能是死猫跳", "黄金底下还有底", "技术面预测破3741"],
+    "mentioned_stocks": ["山东黄金", "黄金"]
+  },
+  {
+    "index": 28,
+    "summary": "反弹连半天都撑不住，尾盘跳水指数转绿",
+    "sentiment": "negative",
+    "key_opinions": ["反弹撑不过半天", "2点半后跳水", "筹码快速交换"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "海控(海狗)涨至17元，相对抗跌，部分人止盈卖出",
+    "sentiment": "mixed",
+    "key_opinions": ["海控抗跌走独立行情", "大涨小涨规律", "有人17元止盈卖出"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 30,
+    "summary": "指数日内上蹿下跳被吐槽像赌场，日内波动杂乱",
+    "sentiment": "negative",
+    "key_opinions": ["指数波动像赌场", "日内波动杂乱无章", "建议别看分时线"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "割肉后市场大涨，心态破防认亏",
+    "sentiment": "negative",
+    "key_opinions": ["割肉后即大涨", "科技医药齐拉仍认亏", "无量反弹不敢进"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "SK海力士市值跌至五万亿人民币，外资收割，估值被质疑过低",
+    "sentiment": "negative",
+    "key_opinions": ["海力士暴跌创阶段新低", "PE极低但无人配置", "韩股估值受制于制度"],
+    "mentioned_stocks": ["SK海力士", "三星"]
+  },
+  {
+    "index": 33,
+    "summary": "盘中全仓梭哈博反弹，旁人多提醒下午跳水风险",
+    "sentiment": "mixed",
+    "key_opinions": ["全仓博反弹胆量大", "量能不足风险高", "涨跌全看国家队心情"],
+    "mentioned_stocks": ["江淮汽车", "大金重工"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论3800点能否守住，抛压大，政策底附近反复拉锯",
+    "sentiment": "negative",
+    "key_opinions": ["3750是政策底", "抛压大守位费劲", "2000亿只够维持半天"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "几乎所有股票同时间拉升，疑似国家队买宽基ETF，量能不足",
+    "sentiment": "mixed",
+    "key_opinions": ["疑国家队买宽基ETF拉指数", "无逻辑普涨", "量能不足难持续"],
+    "mentioned_stocks": ["宽基ETF"]
+  },
+  {
+    "index": 36,
+    "summary": "共达电声发车跟帖讨论买点，空仓者试底",
+    "sentiment": "mixed",
+    "key_opinions": ["买点选择最痛苦", "等深跌跟车", "空仓试探底部"],
+    "mentioned_stocks": ["共达电声"]
+  },
+  {
+    "index": 37,
+    "summary": "海力士下跌拖累，嘲讽国家队龙队狗队称呼反复",
+    "sentiment": "negative",
+    "key_opinions": ["抄底海力士又被套", "国家队搅乱市场收割", "一阳改三观不可信"],
+    "mentioned_stocks": ["SK海力士"]
+  },
+  {
+    "index": 38,
+    "summary": "吐槽韩国股市拖累A股，过去多靠其带动",
+    "sentiment": "mixed",
+    "key_opinions": ["韩股拖累我们后腿", "过去常靠韩国带涨", "调侃韩股地位"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "昨日割肉今日大涨，心态破防卖飞多亏六个点",
+    "sentiment": "negative",
+    "key_opinions": ["清仓后即大涨", "早上割更难受", "破位前清仓为时过早"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "大盘终于翻红，但担忧反弹不持久很快转绿",
+    "sentiment": "mixed",
+    "key_opinions": ["终于翻红如释重负", "担忧马上转绿", "盘中变色已满足"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "上午补仓下午全T卖出获利，接飞刀过程紧张刺激",
+    "sentiment": "positive",
+    "key_opinions": ["做T成功获利了结", "接飞刀过程紧张", "早前子弹已打光"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "分析市场流动性不足，资金被内外抽走，需宽松政策或国家队入场",
+    "sentiment": "negative",
+    "key_opinions": ["维持4000点需2万亿成交量", "减持定增抽走流动性", "盼降准降息或国家队入场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "胜宏科技涨不过元件板块，业绩被抢单预期压制",
+    "sentiment": "negative",
+    "key_opinions": ["胜宏滞涨落后板块", "三季度业绩不及预期", "大市值需巨量成交推动"],
+    "mentioned_stocks": ["胜宏科技"]
+  }
+]
+```
