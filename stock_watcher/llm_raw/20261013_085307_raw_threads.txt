@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论“口红效应”在A股是否适用，化妆品板块投资机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["口红效应可能已过时或不适用于当前A股", "化妆品板块只有轮动机会，未走出趋势", "国货便宜，削弱了口红效应逻辑"],
+    "mentioned_stocks": ["丽人丽妆", "珀莱雅", "朗姿股份"]
+  },
+  {
+    "index": 2,
+    "summary": "分析保险资金7月买入科技股、9月卖出的原因。",
+    "sentiment": "negative",
+    "key_opinions": ["险资可能是被指导按头买卖，并非耐心资本", "险资追涨杀跌，放大了市场波动", "跟大资金同车需谨慎其离场砸盘风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "认为国内科技股真正反弹需等美股科技泡沫破裂。",
+    "sentiment": "negative",
+    "key_opinions": ["国内科技反弹依赖美股泡沫破裂及后续算力建设", "反弹前可能已跌至脚踝斩", "市场资金面问题是主因"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论抄底是导致大亏损的主要原因。",
+    "sentiment": "negative",
+    "key_opinions": ["抄底风险不可控，易抄在半山腰", "追高亏损可控，抄底则易被背刺", "有基本面支撑的底部才叫抄底，否则是接盘"],
+    "mentioned_stocks": ["海控"]
+  },
+  {
+    "index": 5,
+    "summary": "分析有研新材三季报业绩及其对股价的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["业绩中规中矩，无亮点，配不上高估值", "营收同比环比下滑，扣非环比亦下降", "业绩兑现时可能反而是跑路信号"],
+    "mentioned_stocks": ["有研新材"]
+  },
+  {
+    "index": 6,
+    "summary": "庆祝工商银行市值突破3万亿元。",
+    "sentiment": "positive",
+    "key_opinions": ["坚定持有银行股，认为业务比技术更重要", "晒收益或预示大盘短期可能回调", "红利资产（银行）配置重要性凸显"],
+    "mentioned_stocks": ["工商银行", "中际旭创", "长鑫科技", "英伟达"]
+  },
+  {
+    "index": 7,
+    "summary": "关注韩国股市（棒子）大跌，接近7月低点。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市持续下跌，接近前低", "可能因科技股权重过大导致"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论中国建设国家区块链网络政策及其投资标的。",
+    "sentiment": "mixed",
+    "key_opinions": ["区块链技术有广泛应用，不等于虚拟货币", "政策与数字人民币关系引疑惑", "可能涉及人民币出海与外贸结算"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "警示将熊市初期误判为牛市调整的危险。",
+    "sentiment": "negative",
+    "key_opinions": ["熊市中回吐时买入（抄底）是主要亏钱方式", "当前科技股可能仍在高位，估值未到底", "配置底部区间的红利股更安全省力"],
+    "mentioned_stocks": ["河钢股份"]
+  },
+  {
+    "index": 10,
+    "summary": "评论中证报称中长期资金净买入A股超6000亿。",
+    "sentiment": "negative",
+    "key_opinions": ["质疑资金面实际情况，认为有更大资金流出（如汪汪队、大股东）", "对“长期价值底色”说法表示不信任", "可能为配合公募季报发布"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "宣布中际旭创股价腰斩，跌破707元。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股持续下跌，投资者损失惨重", "股价看似腰斩，实则未跌回3月收盘价", "预示科技股可能继续承压"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 12,
+    "summary": "因美股下跌，预测A股开盘将大幅低开。",
+    "sentiment": "negative",
+    "key_opinions": ["预期A股将跟随外围大幅低开", "担忧出现类似7月的螺旋下跌", "希望直接熔断"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "探讨房地产板块在新叙事下的投资可能性。",
+    "sentiment": "mixed",
+    "key_opinions": ["住房政策定性变化，被纳入大宗消费品，意义重大", "房地产股可能被视作消费股进行估值修复", "但需消化库存，且人口趋势不利"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "抱怨红利股近期大涨，错过上车机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股近期加速上涨，感觉像赶顶", "感叹机会稍纵即逝，需耐心等待", "配置红利股需要耐心"],
+    "mentioned_stocks": ["中国神华", "美的", "中国移动"]
+  },
+  {
+    "index": 15,
+    "summary": "关注碳酸锂价格五个月内腰斩现象。",
+    "sentiment": "negative",
+    "key_opinions": ["碳酸锂价格暴跌预示新能源车需求前景黯淡", "期货价格比数据更真实反映预期", "反映消费不振、产能过剩及经济低谷预期"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "询问韩国股市能否实现V形反转。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国市场已不具备V形反转条件", "资金散户兴趣不大", "技术性熊市，权重股拖累指数"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "因风控差割肉清仓了交易猿的基金产品。",
+    "sentiment": "negative",
+    "key_opinions": ["产品风控差、自以为是", "符合交易猿（梭哈）风格", "管理费照收，产品净值下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "分享从大幅盈利到回吐大部分的股市经历，认清自己。",
+    "sentiment": "negative",
+    "key_opinions": ["牛市暴赚后熊市亏回是新股民常见路径", "经历大起大落，认清自己是菜鸟", "还有盈利已是幸运"],
+    "mentioned_stocks": ["生益科技", "亨通光电"]
+  },
+  {
+    "index": 19,
+    "summary": "探讨美股指数编制机制为何表现强劲。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股指数由硬软件龙头股轮动支撑", "根源是市场机制健全和公司基本面好", "A股缺乏类似机制和优质成分股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "因美股调整，预期A股将低开。",
+    "sentiment": "negative",
+    "key_opinions": ["预期A股将低开", "希望跌透后才有新机会", "外围绿盘时A股常表现强势"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论出口退税下调政策的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["对出口依赖行业（如汽车）构成利空", "是中欧贸易协商的后续政策，旨在避免贱卖", "倒逼行业向精品化转型"],
+    "mentioned_stocks": ["中远海特", "宇通客车"]
+  },
+  {
+    "index": 22,
+    "summary": "担忧韩国股市可能跌全年涨幅。",
+    "sentiment": "negative",
+    "key_opinions": ["年内跌完涨幅并非不可能", "类比当年日本，担忧韩国陷入长期熊市", "股市杠杆风险小于房市"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "因子公司产品超标被罚1.2亿元。",
+    "sentiment": "negative",
+    "key_opinions": ["罚款将直接减少公司年度净利润", "公司屡次出现食品安全问题", "利空是否出尽需观察"],
+    "mentioned_stocks": ["双汇发展"]
+  },
+  {
+    "index": 24,
+    "summary": "发现多个宽基指数ETF出现技术性超跌信号。",
+    "sentiment": "negative",
+    "key_opinions": ["多个指数RSI指标显示严重超跌", "类似2024年4月大跌前夕", "需做好超跌反弹的心理准备"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "看空纳指，认为将因加息周期腰斩。",
+    "sentiment": "negative",
+    "key_opinions": ["预言纳指将腰斩，源于美债与加息预期", "认为A股会跌得更惨", "质疑此观点，认为纳指有修复能力"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 26,
+    "summary": "提及某公司上市多年利润微薄，大股东却巨额减持。",
+    "sentiment": "negative",
+    "key_opinions": ["讽刺上市公司利润少、分红少，大股东减持多", "反映A股市场机制问题，资金炒作导致估值虚高", "大股东减持动机强"],
+    "mentioned_stocks": ["宏和科技"]
+  },
+  {
+    "index": 27,
+    "summary": "反思左侧交易抄底失败，导致亏损扩大。",
+    "sentiment": "negative",
+    "key_opinions": ["盲目抄底（左侧交易）风险巨大", "真正的左侧交易应分批、在深度下跌后建仓", "部分优质股票（如美的、平安）左侧交易有效"],
+    "mentioned_stocks": ["中际旭创", "美的集团", "中国平安", "招商银行"]
+  },
+  {
+    "index": 28,
+    "summary": "对比当前行情与15年股灾，认为温和得多。",
+    "sentiment": "negative",
+    "key_opinions": ["当前跌幅相比历史股灾（如15年、熔断）算温和", "并未出现千股跌停或停牌潮", "目前更像是科技股退潮"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "假设中际旭创业绩超预期，但股价仍跌，质疑A股逻辑。",
+    "sentiment": "negative",
+    "key_opinions": ["A股市场不按业绩逻辑出牌，利好可能被用来出货", "机构已提前预期业绩，股价反映未来预期", "当前是整个市场的资金面问题"],
+    "mentioned_stocks": ["中际旭创", "中远海控"]
+  },
+  {
+    "index": 30,
+    "summary": "指出上证指数120日均线即将下穿年线，形成空头趋势。",
+    "sentiment": "negative",
+    "key_opinions": ["技术指标显示可能形成空头趋势", "但技术面可能被资金面（狗队）扭转", "许多指数已呈熊市走势"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "分享电子制造业利润大增新闻，引发对“选择与努力”的争论。",
+    "sentiment": "mixed",
+    "key_opinions": ["行业景气时，选择比努力重要", "反对轻易“改行论”，认为转型困难", "反映社会对经济下行和就业的焦虑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "看到银行股大涨后，考虑是否应转投科技股。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股哀嚎像极了6月底的红利股", "科技股跌势未止，风险仍高", "情绪极端时（如晒收益）可能是反向信号"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "分享梦见抄底成功的经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["梦中抄底成功反映现实中的焦虑与期待", "梦是反的，对应现实可能未抄底或逃顶失败", "当前市场情绪恐慌，下跌家数多"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "关注债市（特别是长债）近期表现不错。",
+    "sentiment": "positive",
+    "key_opinions": ["长债收益率可观，回撤小", "长债表现取决于利率预期", "相比股市波动，债市显得稳定"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "介绍使用AI看图选股的方法。",
+    "sentiment": "mixed",
+    "key_opinions": ["强调只看图形，all in AI", "询问具体使用的AI模型和提示词", "认为当前市场只能追热点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "假设重来只买招商银行、伊利、中远海控三只股票。",
+    "sentiment": "mixed",
+    "key_opinions": ["后悔未持有这些股", "有人建议应买纳斯达克指数", "表达对过往投资选择的感慨"],
+    "mentioned_stocks": ["招商银行", "伊利股份", "中远海控"]
+  },
+  {
+    "index": 37,
+    "summary": "总结新股民在股市亏损的主要原因。",
+    "sentiment": "negative",
+    "key_opinions": ["新手亏损源于缺乏经验、把运气当实力", "不懂市场逻辑和周期", "追涨杀跌、仓位太重是致命伤"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "认为当前红利股股息率吸引力下降，难下手。",
+    "sentiment": "mixed",
+    "key_opinions": ["高股息率股票可能有问题或市场有偏见", "红利股目前主要起避险作用", "港股可能有更高股息标的"],
+    "mentioned_stocks": ["格力电器"]
+  },
+  {
+    "index": 39,
+    "summary": "推测险资被“挂山顶”的原因，批评内资软弱。",
+    "sentiment": "negative",
+    "key_opinions": ["险资可能高位接盘后因利空被迫割肉止损", "内资机构定价权旁落，跟随小作文操作", "指责内资机构是“软骨头”"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "关注新华传媒停牌对短线市场情绪的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["停牌对短线可能是打击", "市场情绪和量能低迷，短线难做", "停牌在预期之内"],
+    "mentioned_stocks": ["新华传媒", "博纳影业"]
+  },
+  {
+    "index": 41,
+    "summary": "分析联讯仪器三季报预告业绩大增。",
+    "sentiment": "mixed",
+    "key_opinions": ["业绩增长虽强，但可能仍不及预期", "市场当前更关注未来预期而非当期业绩", "业绩好的股票也可能被抛售"],
+    "mentioned_stocks": ["联讯仪器"]
+  },
+  {
+    "index": 42,
+    "summary": "因持续下跌感到扛不住，心理压力巨大。",
+    "sentiment": "negative",
+    "key_opinions": ["下跌令人焦虑，接近心理极限", "建议用闲钱投资，不加杠杆", "市场可能继续阴跌考验耐心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "讨论涨跌停板制度的必要性。",
+    "sentiment": "mixed",
+    "key_opinions": ["涨跌停板是与T+1绑定的保护机制", "防止股价过度投机波动", "但也可能造成流动性陷阱（如跌停卖不出）"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "引用百亿私募观点，将下跌归因于险资追涨杀跌。",
+    "sentiment": "negative",
+    "key_opinions": ["下跌主因是险资高位买入后止损卖出", ["是资金面而非基本面问题", "险资操作放大了市场波动"]],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "连续亏损后迫切期待市场反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["投资者亏损严重，心态濒临崩溃", ["对反弹不乐观，认为低开低走概率大", "资金被其他板块分流，反弹困难"]],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "因主播“李一恩”停播而感到失望。",
+    "sentiment": "negative",
+    "key_opinions": ["主播被批只会无脑唱多", ["市场下跌后“按摩”显得可笑", "主播因唱多压力停播或被拉黑"]],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "回顾曾经高价持有的中际旭创和兆易创新。",
+    "sentiment": "negative",
+    "key_opinions": ["感叹科技股高位回落，如梦一场", ["庆幸因权限限制未持有部分股票减少损失", "下跌迅猛，无像样反弹"]],
+    "mentioned_stocks": ["中际旭创", "兆易创新"]
+  },
+  {
+    "index": 48,
+    "summary": "对近期超短行情（电池、传媒）进行虚拟复盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["电池板块可能有一字板，消费股有分歧", ["新华传媒不开板，预期不低", "低位股轮动快，难以捉摸"]],
+    "mentioned_stocks": ["九阳股份", "新华传媒", "三柏硕"]
+  },
+  {
+    "index": 49,
+    "summary": "因美股走势，预测A股科技股明日将大跌。",
+    "sentiment": "negative",
+    "key_opinions": ["预期A股科技股将跟随美股下跌", ["A股已不跟美股走势，独立走弱", "科技股风险高，非科技股影响小"]],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "银行股创新高，讨论是否应止盈。",
+    "sentiment": "positive",
+    "key_opinions": ["银行股作为底仓，上涨带来浮盈", ["部分投资者选择获利了结", "银行股走势强劲"]],
+    "mentioned_stocks": ["工商银行"]
+  }
+]
