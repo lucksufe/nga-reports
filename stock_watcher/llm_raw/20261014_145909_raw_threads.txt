@@ -1,0 +1,310 @@
+[
+  {
+    "index": 1,
+    "summary": "用户质问市场下跌原因，回复多为抱怨、归因于政策、资金或散户自身问题。",
+    "sentiment": "negative",
+    "key_opinions": ["市场下跌原因是缺乏资金", "A股散户习惯炒作垃圾股", "下跌责任被归咎于管理层"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论成交量萎缩至一万三，用户认为市场流动性不足，投资需转向小盘题材股。",
+    "sentiment": "negative",
+    "key_opinions": ["成交量过低，仅适合炒作妖股", "成交量低是好事，减少波动风险", "基本面与股价关系不大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "用户抱怨险资近期抛售科技股，导致优质股大跌。",
+    "sentiment": "negative",
+    "key_opinions": ["险资可能是近期科技股下跌的主要卖方", "险资风险偏好使其卖出高估值科技股", "险资砸盘有魄力但令散户损失"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论市场下跌但未出现恐慌性抛售，散户普遍选择“死扛”不割肉。",
+    "sentiment": "mixed",
+    "key_opinions": ["散户骂归骂但普遍不割肉", "长期死扛可能有机会回本", "市场缺乏增量资金，机会成本低"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "用户抱怨市场如“死水”，回复多将原因归咎于资金外流、制度问题或投资者行为。",
+    "sentiment": "negative",
+    "key_opinions": ["市场像尿毒症晚期，依靠输血维持", "赚钱的资金已撤离，市场失血", "指责散户炒垃圾股导致被收割"],
+    "mentioned_stocks": ["神华"]
+  },
+  {
+    "index": 6,
+    "summary": "用户认为险资撤退表明市场无望，国家队和险资的操作逻辑被质疑。",
+    "sentiment": "negative",
+    "key_opinions": ["险资撤退预示行情结束", "国家队高位卖出，险资接盘", "国家队不再护盘，市场可能未见底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "用户质疑持续下跌是否会导致问题，回复普遍认为股民群体软弱不会出事。",
+    "sentiment": "negative",
+    "key_opinions": ["持续下跌多年从未出过大问题", "股民被“温水煮青蛙”已成习惯", "暗示极端事件可能性极低"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "用户询问被套的“震裕科技”解套时间，回复多为玩笑或对其长期前景表示悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["解套需等待下一个科技周期", "持有只为解套的逻辑是错误的", "该股长期反转无望"],
+    "mentioned_stocks": ["震裕科技"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论因股市亏损可能引发的极端风险，提及东航事件，建议谨慎出行。",
+    "sentiment": "negative",
+    "key_opinions": ["暗示股市巨亏可能引发安全隐患", "特别提及避开某些航空公司", "讨论机长等关键岗位人员的心理风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "简单指出中石油月线上涨，与大盘走势形成对比。",
+    "sentiment": "neutral",
+    "key_opinions": ["中石油月线涨幅显著"],
+    "mentioned_stocks": ["中石油"]
+  },
+  {
+    "index": 11,
+    "summary": "用户情绪崩溃求援，提及“长颈鹿”（向大使馆哭诉），回复多为调侃。",
+    "sentiment": "negative",
+    "key_opinions": ["用户情绪濒临崩溃寻求帮助", "“长颈鹿”指代向外国机构求助", "调侃目前点位无需过度恐慌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "用户急切询问大盘何时反转，回复普遍悲观，认为可能继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["大盘反转遥遥无期", "市场已彻底走熊", "部分人期待政策出台扭转局面"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论A股“熊长牛短”的现象，原因涉及制度、资金和国际环境。",
+    "sentiment": "negative",
+    "key_opinions": ["A股长期处于熊市周期", "市场治理与成熟市场差距大", "部分板块（如红利低波）逆势走牛"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "探讨经济下行、消费不振与股市低迷的恶性循环，认为根本问题在分配。",
+    "sentiment": "negative",
+    "key_opinions": ["经济下行导致居民不敢消费和投资", "股市下跌加剧悲观预期", "问题核心在于收入分配而非股市"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论上证指数关键点位3741可能失守，对后市量价和走势感到悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["3741点支撑位很可能被跌破", "成交量萎缩至万亿以下，市场死气沉沉", "下跌是历史周期律的再次应验"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "用户指责主力资金不加掩饰地砸盘，回复中有人认为是“边砸边吸”，也有人绝望。",
+    "sentiment": "negative",
+    "key_opinions": ["主力资金进行赤裸裸的抛售", "有观点认为下跌是洗盘吸筹", "有用户期待快速跌至3000点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "用户认为下跌时讨论帖多，说明市场情绪未至极端恐慌，未到抄底时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场下跌引发广泛讨论，情绪未至冰点", "对比历史极低成交量时期，当前仍显活跃", "表明仍有持仓者抱有幻想，未彻底离场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论特定股票讨论帖（“算电楼”）易被删除，原因可能涉及敏感词或过度曝光。",
+    "sentiment": "mixed",
+    "key_opinions": ["某些股票讨论帖易被系统删除", "可能与提及的公司名称或话题敏感性有关", "管理严格限制了正常讨论"],
+    "mentioned_stocks": ["高争民爆"]
+  },
+  {
+    "index": 19,
+    "summary": "观察到恒生科技指数近期表现好于A股，用户猜测是否有资金南下。",
+    "sentiment": "positive",
+    "key_opinions": ["港股恒生科技指数近期走势较好", "可能是A股科技资金南下抄底", "软件板块整体表现相对较好"],
+    "mentioned_stocks": ["腾讯", "阿里", "恒生科技指数"]
+  },
+  {
+    "index": 20,
+    "summary": "询问高分红股“中国巨石”是否适合长持，回复多暗示其已被套牢，分红非主因。",
+    "sentiment": "negative",
+    "key_opinions": ["询问长持实为被套后的自我安慰", "该股带有明显周期属性", "关注分红往往是因为被深度套牢"],
+    "mentioned_stocks": ["中国巨石", "紫金矿业"]
+  },
+  {
+    "index": 21,
+    "summary": "用户因收益归零计划清仓回避，感到恐惧。",
+    "sentiment": "negative",
+    "key_opinions": ["对市场下跌感到恐惧，选择清仓回避"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "用户希望市场快速跌至2600点，被其他用户批评为空仓者的风凉话。",
+    "sentiment": "negative",
+    "key_opinions": ["希望市场快速暴跌以便抄底", "被批评为满仓者“站着说话不腰疼", "机构不会允许快速暴跌，以便出货"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "用户猜测尾盘会拉升至3800点，最终收盘价引发各种数字解读。",
+    "sentiment": "mixed",
+    "key_opinions": ["猜测收盘价会守住3800点", "实际收盘价3800.86引发各种解读", "部分用户对指数精准控制感到讽刺"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "指出熊市特征是无视利好继续下跌，反之则是见底信号。",
+    "sentiment": "negative",
+    "key_opinions": ["熊市中任何利好都会被市场忽视", "温水煮青蛙导致投资者错过逃离机会", "只有无视利空不跌时，市场才可能见底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "讨论国家队尾盘拉升指数，用户对此态度分裂，有感谢也有质疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队尾盘买入拉升指数", "有人感谢护盘，有人认为下跌本就是国家队造成", "认为国家队在进行高抛低吸操作"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "用户建议空仓，并分享自己或身边人的亏损经历以警示。",
+    "sentiment": "negative",
+    "key_opinions": ["建议空仓避免进一步亏损", "有用户从盈利转为大幅亏损", "割肉离场后心理压力得到缓解"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "认为当前有仓位的投资者是“勇士”，市场缺乏信心，但有人逆势加仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["当前持仓需要极大勇气", "认为下跌是黎明前的黑暗，选择加仓", "关键点位失守将引发信心崩塌"],
+    "mentioned_stocks": ["创业板ETF"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论一位日本交易员的投资法则，但用户普遍认为A股市场规则不同，无法适用。",
+    "sentiment": "negative",
+    "key_opinions": ["成熟市场的投资法则在A股可能失效", "A股下跌幅度远超法则设定的止损线", "需要针对A股特殊性进行回测验证"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "用户抱怨新投入的2万元本金迅速亏损，持仓ETF跌幅巨大。",
+    "sentiment": "negative",
+    "key_opinions": ["新资金投入后快速亏损", "亏损幅度巨大，感觉像无底洞", "提示当前市场风险极高"],
+    "mentioned_stocks": ["创业板ETF"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论市场缺乏信心，但相关原因讨论被限制，回复充满讽刺。",
+    "sentiment": "negative",
+    "key_opinions": ["市场缺乏根本原因在于信心不足", "深层原因讨论受到限制", "有用户讽刺经济与股市表现背离"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "创造新词“万赖俱寄”，讽刺散户习惯将亏损归咎于外界各种因素。",
+    "sentiment": "negative",
+    "key_opinions": ["散户亏损后习惯性甩锅给各种外界因素", "讽刺这种归因行为最终导致全部亏损"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "讨论沪电股份的走势特性：抗跌后易补跌，吸引资金后套牢。",
+    "sentiment": "negative",
+    "key_opinions": ["沪电股份走势独立，抗跌后易补跌", "其“硬”走势容易吸引散户买入后套牢", "A股有独特的补跌机制"],
+    "mentioned_stocks": ["沪电股份", "七匹狼"]
+  },
+  {
+    "index": 33,
+    "summary": "用户呼吁主力拉升股价以便筹钱给孩子手术，提及个股“七匹狼”涨停。",
+    "sentiment": "mixed",
+    "key_opinions": ["有散户因个人困境呼吁股价上涨", "该事件被部分人视为暖心，部分人怀疑真实性"],
+    "mentioned_stocks": ["七匹狼"]
+  },
+  {
+    "index": 34,
+    "summary": "引用专家“牛仍在，需站稳4000点”的观点，被用户批评不切实际、误导散户。",
+    "sentiment": "negative",
+    "key_opinions": ["专家的乐观言论与市场现实严重脱节", "被认为是在为市场下跌打“麻药", "市场因抽血严重而缺乏上涨动力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "用户抱怨A股无视美股上涨利好而下跌，尤其科技股，引发对市场联动性的吐槽。",
+    "sentiment": "negative",
+    "key_opinions": ["抱怨A股不跟涨外围利好", "下跌原因被归咎于韩国股市或美国", "对市场的独立性（独立下跌）表示愤怒"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "将股市存量博弈放大到全球层面，讨论全球资本市场也是存量竞争。",
+    "sentiment": "mixed",
+    "key_opinions": ["全球市场本质上是存量博弈", "美国市场因流动性好而成为全球竞技场", "正规市场应随货币增长而上涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "用户希望市场能一步到位快速下跌，而非阴跌折磨人。",
+    "sentiment": "negative",
+    "key_opinions": ["希望市场快速暴跌结束折磨", "阴跌可以诱使更多投资者逐步抄底", "认为主力需要缓慢出货"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "用户因股票仓位亏损感到抑郁，其他人安慰其亏损比例不大，应调整心态。",
+    "sentiment": "negative",
+    "key_opinions": ["小额亏损导致用户情绪严重抑郁", "被其他经历更大亏损的用户开解", "认为此用户风险承受能力与投资品种不匹配"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论T+1交易制度，用户认为该制度对散户不公，或存在不公平交易。",
+    "sentiment": "negative",
+    "key_opinions": ["T+1制度被质疑是保护散户还是限制散户", "有用户怀疑存在对特权阶层的T+0", "日内高抛低吸无法操作，盈利难以锁定"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论AI公司Anthropic即将发布的财报，认为数据好坏将影响A股AI板块估值。",
+    "sentiment": "mixed",
+    "key_opinions": ["财报数据可能被美化以配合IPO", "数据好坏将决定大模型商业逻辑是否成立", "当前AI板块估值可能已包含过高预期"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "用户分享买入“共达电声”并寻求跟车，回复多为对用户风格的调侃和讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["用户分享个股买入时机", "其他用户讨论跟车条件（如跌幅-8%）", "表明市场低迷下，个股分享仍受关注"],
+    "mentioned_stocks": ["共达电声"]
+  },
+  {
+    "index": 42,
+    "summary": "因韩国股市下跌，A股跟跌，用户批评A股市场脆弱，常看外围“脸色”行事。",
+    "sentiment": "negative",
+    "key_opinions": ["A股因外围市场下跌而恐慌性跟跌", "批评A股缺乏独立性，过于依赖外围", "市场弱势时，任何风吹草动都会引发抛售"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "将股市比作“营商环境”，认为竭泽而渔将导致市场失去吸引力和活力。",
+    "sentiment": "negative",
+    "key_opinions": ["市场因缺乏公平和吸引力而陷入停滞", "过度索取将导致投资者离场，市场变成“死水”"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "因外围市场上涨，用户期望A股能“喘口气”，但多数回复预期将高开低走。",
+    "sentiment": "negative",
+    "key_opinions": ["对A股跟涨能力已失去信心", "认为高开是逃跑机会", "总结出A股常与外围走势相反的规律"],
+    "mentioned_stocks": []
+  }
+]
