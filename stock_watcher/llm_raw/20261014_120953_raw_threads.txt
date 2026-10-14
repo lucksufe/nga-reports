@@ -1,0 +1,480 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论主动基金策略容量和高位接盘问题，建议只买指数和债基。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "主动基金做大后策略容量有限，容易高位接盘",
+      "只有指数基金和债基值得买",
+      "好的主动基金应停止买入保持策略"
+    ],
+    "mentioned_stocks": ["富国全球科技", "易方达全球", "银华海外", "建信新兴市场", "神基004685"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论股市下跌，A股独立下跌，棒子哥指韩国股市。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "棒子哥该支棱时也不含糊",
+      "A股一路阴跌，没有正经反弹",
+      "外盘跌A股也跌，但A股有自身国情"
+    ],
+    "mentioned_stocks": ["棒子哥(韩国股市)", "A股", "纳指", "日经", "韩综"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论中远海控持股，用户跑部分仓位但保持忠诚。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跑了85%仓位，剩余当忠诚海斗士",
+      "下次跌到15再接盘",
+      "背叛海皇会被甩下船"
+    ],
+    "mentioned_stocks": ["海皇(中远海控)"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论算电楼帖子被爆破，可能因敏感词，监管规则不可预测。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "算电楼容易被爆，可能因回复提了股票代码",
+      "监管规则不可预测，同样板块区别对待",
+      "股票002579提及导致爆楼"
+    ],
+    "mentioned_stocks": ["002579(光华科技)", "高争民爆"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论代糖概念股是否能在收盘前拉升，区分代糖和真糖。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "炒气候的不认输，可能拉升代糖",
+      "红棉股份是真糖，代糖是三元生物等",
+      "红棉股份也可能有代糖业务，但非主力"
+    ],
+    "mentioned_stocks": ["三元生物", "保龄宝", "百龙创园", "红棉股份"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论黄金ETF相比A股更容易操作，逻辑清晰。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "黄金ETF低吸总是盈利，且T+0跟外盘",
+      "越不受控制的东西越正规，体现能力",
+      "黄金长期涨，比A股好做"
+    ],
+    "mentioned_stocks": ["黄金ETF", "原油LOF", "有色ETF大成"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论股市中只有庄家和有天赋的人能赚钱，A股是存量市场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "只有庄和有天赋的人能赚钱",
+      "A股是加了盖的存量市场，没有逻辑",
+      "周期回归小部分暴富，大部分暴跌"
+    ],
+    "mentioned_stocks": ["A股", "科技股"]
+  },
+  {
+    "index": 8,
+    "summary": "批评救市措施只帮机构出货，散户未受益。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "救市是给机构出货机会",
+      "救市只是释放流动性，减亏",
+      "市场流畅下杀，散户回本难"
+    ],
+    "mentioned_stocks": ["A股", "机构", "散户"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论紫光股份股价下跌，是否还能买入。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "紫光股价下跌厉害",
+      "26左右筹码密集，相信下半场可冲",
+      "可能因定增压制股价"
+    ],
+    "mentioned_stocks": ["紫光股份", "浪潮"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论AI短剧爆发，可能成为10月概念。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI短剧爆发，相关股票可能上涨",
+      "国庆破圈的是大烧心、办公室爱玩的",
+      "快手可能反弹到40"
+    ],
+    "mentioned_stocks": ["中文", "芒果", "龙版", "华是", "昆仑", "快手"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论龙版传媒被停牌原因，监管严格。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "龙版未触发异动规则却被续杯",
+      "监管对传媒板块特别严格",
+      "规则不可预测，同样板块区别对待"
+    ],
+    "mentioned_stocks": ["龙版传媒", "新华传媒"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论中远海控股价是否会跌到14，错过上涨后悔。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "弃船后股价上涨，后悔没相信14块",
+      "真跌到14不敢入，需机会16以下买入",
+      "海皇回到14和工行回到7块哪个可能性大"
+    ],
+    "mentioned_stocks": ["海皇(中远海控)", "工行"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论超声电子股价强势，原因不明。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "超声电子股价硬，但不懂原因",
+      "可能因覆铜板",
+      "业绩超过预期，很牛"
+    ],
+    "mentioned_stocks": ["超声电子"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论牧原股份持仓成本高，是否加仓或躺平。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "牧原45.3的本，现在加仓或躺平",
+      "成本越高认知越高（讽刺）",
+      "仓位低可加，仓位重算了"
+    ],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 15,
+    "summary": "提到传媒板块，但现在是AI应用。",
+    "sentiment": "mixed",
+    "key_opinions": ["之前买传媒，现在是AI应用"],
+    "mentioned_stocks": ["传媒", "AI应用"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论缩量横盘后下午走势，可能性和对策。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上午横盘蓄力，下午可能爆拉或跳水",
+      "能横住是好事，拖时间",
+      "等长存上线后再看"
+    ],
+    "mentioned_stocks": ["A股", "龙队(国家队)"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论赛力斯和江淮汽车股价下跌，可能因刹车问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "赛力斯和江淮股价丝滑下跌，无承接",
+      "舆论未平息，现在接是赌",
+      "刹车问题可能影响鸿蒙智行"
+    ],
+    "mentioned_stocks": ["赛力斯", "江淮汽车", "鸿蒙智行"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论资金等待美国CPI数据，市场缩量。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "没量玩不了一点",
+      "美国CPI定价了，A股看国家队",
+      "底部特征是利空不跌"
+    ],
+    "mentioned_stocks": ["A股", "美国CPI"]
+  },
+  {
+    "index": 19,
+    "summary": "预测银行股可能阴跌，但有人反驳。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银行可能缓缓跌，小概率大跌",
+      "都觉得还能涨就会跌",
+      "有这种帖子说明还会涨"
+    ],
+    "mentioned_stocks": ["银行股", "大盘"]
+  },
+  {
+    "index": 20,
+    "summary": "用户分享短线操作，请求分析错误。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "传媒板块操作，从新华文轩切到国脉文化",
+      "基于AI短剧和电信并购",
+      "竞价下跌导致操作失败"
+    ],
+    "mentioned_stocks": ["新华文轩", "国脉文化", "中国电信", "天翼", "号码百事通"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论粤传媒未被资金拉升的原因。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "妖股冷却时间长，短时间再做起来难",
+      "不要问为什么，说明没被选上",
+      "之前有资金做，但未启动"
+    ],
+    "mentioned_stocks": ["粤传媒"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论山东路桥股价上涨，用户忍不住想买。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "一直不给机会上车",
+      "小作文说高速收费延长",
+      "等回调，结果每天跳空高开"
+    ],
+    "mentioned_stocks": ["山东路桥", "粤高速A", "成渝高速"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论从科技股转向红利股，认为红利更稳健。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "红利每天涨跌一两个点，简单模式",
+      "红利价格太高了，不敢买",
+      "红利套牢了就吃息，科技套牢等牛市"
+    ],
+    "mentioned_stocks": ["红利股", "科技股"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论败绿套牢，用户去探查。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "重仓败绿套牢",
+      "去当一线工人探查",
+      "建议人事在同花顺评论区招工"
+    ],
+    "mentioned_stocks": ["败绿(可能绿地控股)"]
+  },
+  {
+    "index": 25,
+    "summary": "分享持仓经验，新增祖训：涨停减仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "两个票跌破建仓价",
+      "新增祖训：涨停减仓，永远不会错",
+      "有利润就走，但难做到"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论黄金宗挂牌，关注黄金走势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "第五黄金宗挂牌，讨论黄金忠诚",
+      "市场博弈数据披露，重要的是周四CPI",
+      "今天白天回踩4155，预期之内"
+    ],
+    "mentioned_stocks": ["黄金", "CPI"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论PCB板块业绩好，但股价可能不涨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "PCB板块第三季度业绩好，暴利行业",
+      "有一只票龙头谁买谁受不了",
+      "今天PCB冲锋，超声带头"
+    ],
+    "mentioned_stocks": ["PCB板块", "胜宏", "超声电子"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论沪深300下跌但指数红，因含科量高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "沪深300绿，指数红",
+      "沪深300接盘科技，含科量高",
+      "追涨杀跌的笨蛋指数"
+    ],
+    "mentioned_stocks": ["沪深300", "上证50", "科技股"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论军工板块大涨，可能因珠海航展。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "军工大涨，但怕一日游",
+      "军工板块闷声发财，适合波段",
+      "大涨原因是珠海航展"
+    ],
+    "mentioned_stocks": ["军工板块", "航发", "中航成飞", "西飞"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论利通电子隐藏算力规模，可能无新增。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利通隐藏算力规模",
+      "可能没有新增算力，卡转卖了"
+    ],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 31,
+    "summary": "建议抄底电子布，买入中材科技。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "电子布有戏，抄底跌了一周多的",
+      "农业大跌，医药没戏，科技可抄底",
+      "买入中材科技"
+    ],
+    "mentioned_stocks": ["电子布", "中材科技", "宏和科技", "弘信电子"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论纳指科技ETF高溢价，是否买入。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "溢价率高，波动大，风险高",
+      "买A股风险比纳指大",
+      "溢价部分卖出，等回归再定投"
+    ],
+    "mentioned_stocks": ["纳指科技ETF", "纳指100"]
+  },
+  {
+    "index": 33,
+    "summary": "新手回看投资经历，亏损但学会减仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "入市不足一年亏19点",
+      "科技大肉没吃，回撤容易接受",
+      "沪电赚的，在胜宏亏光"
+    ],
+    "mentioned_stocks": ["沪电", "胜宏"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论日内做T才能保利润，但操作难。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "日内做T保利润，但抄底怕埋",
+      "操作越多亏越多",
+      "有利润不如空仓看戏"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论保险股大跌，可能因接盘科技。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "保险买太保后大跌",
+      "传闻保险接科技盘，Q3业绩可能惊吓",
+      "资金转到科技，保险跌更惨"
+    ],
+    "mentioned_stocks": ["保险股", "太保", "平安"]
+  },
+  {
+    "index": 36,
+    "summary": "发现YYDS指银行、运营商、电力煤炭、石油海运。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "YYDS是银行、运营商、电力煤炭、石油海运",
+      "确实是大A真神",
+      "一年赶不上科技股一周涨幅"
+    ],
+    "mentioned_stocks": ["银行", "运营商", "电力煤炭", "石油海运", "贵州茅台"]
+  },
+  {
+    "index": 37,
+    "summary": "评论李大霄观点，美股是泡沫，但可能反讽。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股是假牛市，靠几个股票撑",
+      "谁是真熊？大A才是正常",
+      "美股分红回购，按大霄套是优质资产"
+    ],
+    "mentioned_stocks": ["美股", "大A"]
+  },
+  {
+    "index": 38,
+    "summary": "分享超短线虚空炒股观点，预测个股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "电池顶一字，大盘下杀，消费和拉回",
+      "新华传媒不开板，预期不大",
+      "低位没好看的，但总有低位冒出来"
+    ],
+    "mentioned_stocks": ["电池", "九阳", "新华传媒", "三柏硕", "金建米业", "安泰", "楚环"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论分红股股息4%，感觉食之无味。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "分红股4%股息，食之无味",
+      "已战胜90%选手",
+      "银行利率1点几，4%不错"
+    ],
+    "mentioned_stocks": ["分红股", "银行利率"]
+  },
+  {
+    "index": 40,
+    "summary": "吐槽完美世界股价表现差。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "完美是蛆，表现差",
+      "买完美不如买板块",
+      "后悔买了"
+    ],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论市场机会少，像钓鱼没钩。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "早上钓到鱼，中午不发钩",
+      "钓完了，等鱼记忆消失再发"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "讨论平安等保险股股息高，可买红利底仓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "平安双熊股息5.2%，历史低位",
+      "险资接盘传言导致下跌",
+      "跌到50买一点"
+    ],
+    "mentioned_stocks": ["平安", "太保", "保险股"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论市场冷清，如何应对。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "场子冷了，买煤炭股加热",
+      "去热的地方，或等尿壶证券",
+      "量能不到1W4，越来越多离场"
+    ],
+    "mentioned_stocks": ["煤炭股", "证券"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论伪地天板现象，波动大。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "伪地天，波动大，杀到-8-9然后拉红",
+      "量没有，行情不好，妖魔拉升",
+      "龙版找死，头铁主力"
+    ],
+    "mentioned_stocks": ["文轩(新华文轩)", "龙版(龙版传媒)", "金健"]
+  }
+]
