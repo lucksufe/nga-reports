@@ -1,0 +1,310 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论公司重组对股价的影响，以及新手注意事项。",
+    "sentiment": "mixed",
+    "key_opinions": ["重组不一定导致股价上涨", "银行卖资产给AMC不算重组", "新手应避免追连板票"],
+    "mentioned_stocks": ["新华传媒", "东百集团"]
+  },
+  {
+    "index": 2,
+    "summary": "药股开盘表现类似科技股，开盘后下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["绿开可能导致失败", "红开后早盘上涨但随后下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "评价韩国救市措施，讨论其效果和类似措施。",
+    "sentiment": "negative",
+    "key_opinions": ["救市措施像喇叭工具箱", "应急计划可能是加息", "救市鼓励加杠杆可能加剧问题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论在闲鱼卖NGA账号赚钱的现象。",
+    "sentiment": "positive",
+    "key_opinions": ["卖NGA账号能赚钱", "封号风险存在", "注册有冷却期"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论股市守住3700点，感谢国家队干预。",
+    "sentiment": "positive",
+    "key_opinions": ["感谢国家队守住3700点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论股市保卫3700点，但市场表现不乐观。",
+    "sentiment": "negative",
+    "key_opinions": ["保卫3700点但大部分股不跟", "明天可能继续跌", "尾盘拉升可能骗人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论从股市转向彩票投资，但彩票收益不确定。",
+    "sentiment": "negative",
+    "key_opinions": ["彩票中奖罕见", "不如直接投资", "见过中奖但投入大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论论坛帖子被删除的原因和敏感词问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["帖子容易被爆", "可能因为敏感词", "算电楼相关讨论被删"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论兆易创新股票未来走势，预计可能继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["兆易创新可能继续下跌", "科技股整体走势不佳", "被套牢者建议扛着"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 10,
+    "summary": "批评国家队在股市中的行为，认为其不作为或割韭菜。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队一月减持现在隐身", "亲自下场割韭菜丢人", "与民争利不耻"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "庆祝股市守住3700点，但带有讽刺。",
+    "sentiment": "mixed",
+    "key_opinions": ["庆祝守住3700点", "可能有人心态失衡"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "讨论半导体设备股票突然拉红的原因和后续走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["拉红可能是出货", "业绩可能偷跑", "机构重仓股难操作"],
+    "mentioned_stocks": ["半导体设备"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论中芯国际港股和A股表现差异的原因。",
+    "sentiment": "negative",
+    "key_opinions": ["A股红因国家队救市", "H股负因可做空", "与长飞光纤对比"],
+    "mentioned_stocks": ["中芯国际", "长飞光纤"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论尾盘拉升现象，认为可能是老套路。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘拉升像3000点时的玩法", "明天可能继续跌", "保3700点可能无效"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "批评国家队让投资者割肉的行为。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队给机会割肉", "天天说这种话无意义", "领导认可给机会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论半导体股票拉红，但只有部分股票上涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体设备拉红", "深指不跟", "可能只拉沪指"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 17,
+    "summary": "用比喻讨论股市，追求失去的东西。",
+    "sentiment": "mixed",
+    "key_opinions": ["股市像生活", "最终追求一开始拥有的", "苦难是文学温床"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论牧原股份下跌和猪行业风险。",
+    "sentiment": "negative",
+    "key_opinions": ["牧原股份下跌", "猪企可能暴雷", "建议远离猪企"],
+    "mentioned_stocks": ["牧原股份", "双胞胎", "正邦"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论厄尔尼诺现象对农业和水电的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["暖冬导致虫害增加", "明年水多利好水电", "需要分析行业数据"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论中国船舶股价的奇怪图形和走势。",
+    "sentiment": "negative",
+    "key_opinions": ["股价图形诡异", "可能有庄家操控", "破位下跌"],
+    "mentioned_stocks": ["中国船舶"]
+  },
+  {
+    "index": 21,
+    "summary": "质疑国家队救市能否打破规律。",
+    "sentiment": "negative",
+    "key_opinions": ["救市不是底", "国家队能力有限", "高抛低吸玩弄市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "庆祝股市守住3700点。",
+    "sentiment": "positive",
+    "key_opinions": ["庆祝守住3700点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "讨论指数跳空低开后的红十字K线，希望反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["跳空低开红十字", "希望回血"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论通过拉银行股来支撑指数。",
+    "sentiment": "mixed",
+    "key_opinions": ["拉银行是惯性思维", "花小钱办大事", "可能拉爆了"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论工商银行和长鑫存储的市值对比。",
+    "sentiment": "mixed",
+    "key_opinions": ["工行市值超过长鑫", "长鑫下跌", "存储行业波动"],
+    "mentioned_stocks": ["工商银行", "长鑫存储"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论是否处于金融危机中。",
+    "sentiment": "negative",
+    "key_opinions": ["金融危机可能已发生", "互金小贷开始爆雷", "经济下行"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论在亏损时买入涪林榨菜股票。",
+    "sentiment": "negative",
+    "key_opinions": ["榨菜股高盐风险", "酱菜无进展", "建议其他股票"],
+    "mentioned_stocks": ["涪林榨菜"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论猪肉股的投资逻辑，认为刚需但需分析供需。",
+    "sentiment": "mixed",
+    "key_opinions": ["猪肉是刚需", "需求减少但供应减少更多", "逻辑硬"],
+    "mentioned_stocks": ["猪肉股"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论中国科技行业内卷化和周期。",
+    "sentiment": "negative",
+    "key_opinions": ["中国科技产品白菜价", "行业周期波动", "未来人口结构影响"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "讨论放量下跌后的市场预期。",
+    "sentiment": "negative",
+    "key_opinions": ["放量下跌后可能继续跌", "希望缩量上涨", "市场情绪悲观"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论某股票下跌到306点，投资者套牢。",
+    "sentiment": "negative",
+    "key_opinions": ["股票跌到306", "投资者套牢", "接盘亏损"],
+    "mentioned_stocks": ["二哥"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论10月股市亏损情况。",
+    "sentiment": "mixed",
+    "key_opinions": ["亏损普遍", "部分人盈利", "红利股表现较好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "表达股市下跌后的失望和痛苦。",
+    "sentiment": "negative",
+    "key_opinions": ["股市下跌令人晕厥", "亏损严重", "不如不醒"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论国家队在尾盘拉升。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队尾盘拉升"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论市场假拉后无人跟风，未来走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["下午假拉没人跟", "下一阶段可能普涨", "需要筑底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "比喻A股下跌无法停止。",
+    "sentiment": "negative",
+    "key_opinions": ["A股刹车失灵", "国家队假装刹车", "下跌快速"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "分享个人在股市中盈利的经历。",
+    "sentiment": "positive",
+    "key_opinions": ["个人盈利", "价投红利股盈利", "银行股盈利"],
+    "mentioned_stocks": ["华电国际", "陕西能源", "平安银行"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论抄底时机和策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["可以抄底但控制半仓", "建议等右侧", "国家队下场可抄"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论红利股在熊市中是否有投资机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股无牛熊概念", "看股息率和估值", "熊市可能下跌提供机会"],
+    "mentioned_stocks": ["601919", "工商银行", "兴业银行"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论科技股和传统股的表现差异，但最终都被收割。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股有过辉煌", "传统股一直憋屈", "都被一视同仁收割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "讨论领益智造股票持续下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["领益智造连跌11天", "可能没救", "建议割肉或低位买入"],
+    "mentioned_stocks": ["领益智造"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论股市是否会在下午反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["希望股市V型反弹", "但V上去可能更坏", "持续下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "讨论动漫开播日股市暴跌，并提及作者做空赚钱。",
+    "sentiment": "negative",
+    "key_opinions": ["动漫开播日股市暴跌", "作者做空赚钱", "A股只能被收割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "分享投资者套牢30点以上的亏损经历。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损30-40%", "回本无望", "投资者麻木"],
+    "mentioned_stocks": []
+  }
+]
