@@ -1,0 +1,317 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论当前股市与2022年相似，油价飙升和加息周期导致回撤。",
+    "sentiment": "negative",
+    "key_opinions": ["与2022年剧情大差不差", "经典油价飙升，经典加息周期", "科技牛把慢牛搞崩了"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论李大霄的投资建议是否可信，涉及科技股赎回和亏损。",
+    "sentiment": "mixed",
+    "key_opinions": ["李大霄指导逢高赎回科技股", "余钱好股亏钱", "提示熊市时大概率走熊"],
+    "mentioned_stocks": ["科技股（泛指）"]
+  },
+  {
+    "index": 3,
+    "summary": "说今天拉起来的可能性为0，讨论3700点能否稳住。",
+    "sentiment": "negative",
+    "key_opinions": ["今天拉起来了可能性约等于0", "3700能稳住就不错了", "下跌趋势需先止跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论海力士动态市盈率低，但能否持续盈利存在质疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["海力士市盈率3.15，市值4.55万亿人民币", "只要按上季度盈利，3年回本", "存储本质还是周期股"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论科技股跌幅不正常，与日韩市场比较，担忧补跌。",
+    "sentiment": "negative",
+    "key_opinions": ["科技今天跌幅不正常，比日韩跌的少", "明天可能补跌", "国家队保指数，拉国产半导体"],
+    "mentioned_stocks": ["科技股（泛指）", "国产半导体"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论人心散了，经济危机已持续，悲观情绪蔓延。",
+    "sentiment": "negative",
+    "key_opinions": ["人心已经跌散了", "经济危机从房地产泡沫破裂开始", "经济危机持续两年，问几年结束"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "帖子内容简短，回复提及未成年退款，主题不明确。",
+    "sentiment": "mixed",
+    "key_opinions": ["帖子提及五个香港人", "回复建议申请未成年退款"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论论坛帖子被爆破，涉及特定股票代码和审核问题。",
+    "sentiment": "negative",
+    "key_opinions": ["算电楼容易被爆", "提及股票代码002579开头被审核", "论坛审核严格"],
+    "mentioned_stocks": ["002579（股票代码）"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论美债、美元、石油、股票全跌，市场惨烈。",
+    "sentiment": "negative",
+    "key_opinions": ["美元、石油、股票、美债全部下跌", "昨天美债进去的今天被埋", "太狠了"],
+    "mentioned_stocks": ["美债", "石油", "股票（泛指）"]
+  },
+  {
+    "index": 10,
+    "summary": "央视新闻曝光投资市场牛市骗局，警告投资者。",
+    "sentiment": "negative",
+    "key_opinions": ["央视曝光牛市骗局", "牛是假的", "投资有风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "讨论澜起科技股价跌到160，质疑是否抄底。",
+    "sentiment": "negative",
+    "key_opinions": ["澜起科技160了", "PE太高没必要抄", "腰斩是自己作的，连跌12天"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论猪肉作为刚需，但需求不增长，供应端变化。",
+    "sentiment": "mixed",
+    "key_opinions": ["猪肉是刚需，和光纤一个逻辑", "需求端每年下降0.3-0.4%", "供应端母猪数量减少"],
+    "mentioned_stocks": ["猪肉（泛指）", "牧原（隐含）"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论抄底机会，但说托而不举，超跌无人进攻。",
+    "sentiment": "negative",
+    "key_opinions": ["给了一个多小时时间抄底", "托而不举，超跌没人敢进攻", "这个底是怎么来的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论今天跌幅不及预期，比日韩跌得少，略显乐观。",
+    "sentiment": "mixed",
+    "key_opinions": ["今天跌幅不及预期，很少比日韩跌的少", "创业板试图下砸但砸不穿", "可能有人在接"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论“二哥”股价跌到306，接盘亏损严重。",
+    "sentiment": "negative",
+    "key_opinions": ["二哥306了，老哥们不拿盆去接", "从400接到300了，没有盆", "持仓成本高，亏损"],
+    "mentioned_stocks": ["二哥（泛指）"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论海运股大跌，原因包括美国放开制裁和全球经济衰退。",
+    "sentiment": "negative",
+    "key_opinions": ["海运今天大跌，海狗大跌海能跌停", "美国放开影子船队制裁", "全球经济衰退，运力需求下降"],
+    "mentioned_stocks": ["海狗（泛指海运股）", "海能（泛指海运股）"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论国算股如紫光、浪潮被杀，腰斩还不够，抱怨估值。",
+    "sentiment": "negative",
+    "key_opinions": ["国算股如紫光浪潮星网被杀", "腰斩了还不够？", "PE被下调，估值合理但不高"],
+    "mentioned_stocks": ["紫光", "浪潮", "星网（泛指）"]
+  },
+  {
+    "index": 18,
+    "summary": "小道消息说“公摊之父”走了，涉及地产股，后澄清为假。",
+    "sentiment": "mixed",
+    "key_opinions": ["小道消息说公摊之父走了", "地产能否拉起来", "澄清是假新闻"],
+    "mentioned_stocks": ["地产（泛指）"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论黄金，第五黄金宗挂牌，看涨情绪。",
+    "sentiment": "positive",
+    "key_opinions": ["第五黄金宗挂牌", "黄金！忠诚！", "市场博弈数据披露，波动放大"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 20,
+    "summary": "询问仓位，讨论满仓亏损，表达痛苦。",
+    "sentiment": "negative",
+    "key_opinions": ["只有不到2成仓但每天亏钱", "永远满仓，永远热泪盈眶", "满仓强迫症"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论宇通汽车，看好其出海和高分红，认为被低估。",
+    "sentiment": "positive",
+    "key_opinions": ["宇通汽车在挑大梁", "严重被低估，高分红成长股", "客车在海外无人能打"],
+    "mentioned_stocks": ["宇通汽车"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论牧原股价下跌，猪企暴雷预期，悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["牧原被当成猪杀了吗？", "生猪价格不行", "前十猪企至少暴雷三个"],
+    "mentioned_stocks": ["牧原"]
+  },
+  {
+    "index": 23,
+    "summary": "询问今天跌幅，科技股除外，反馈全跌无幸免。",
+    "sentiment": "negative",
+    "key_opinions": ["今天亏多少才是正常？", "今天全跌，没有幸免", "煤炭也跌，红利跌"],
+    "mentioned_stocks": ["煤炭", "红利（泛指）"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论抄底时机，现在还是尾盘，犹豫不决。",
+    "sentiment": "mixed",
+    "key_opinions": ["现在抄还是尾盘抄？", "忍不住了", "等裁判入场"],
+    "mentioned_stocks": ["房地产ETF（隐含）"]
+  },
+  {
+    "index": 25,
+    "summary": "抱怨每天亏钱，烧心，询问何时结束。",
+    "sentiment": "negative",
+    "key_opinions": ["一天扣1W，烧心得很", "10月扣了16万，总亏损到40", "清仓保平安"],
+    "mentioned_stocks": ["平安（可能指平安保险）"]
+  },
+  {
+    "index": 26,
+    "summary": "说“我真的不适合炒股”，讨论投资心态和亏损经历。",
+    "sentiment": "negative",
+    "key_opinions": ["从中秋抗到现在抛了，结果涨停", "百分之九十的人不适合炒股", "债基有波动，不稳赚不赔"],
+    "mentioned_stocks": ["百花（可能指股票）", "阳光乳业"]
+  },
+  {
+    "index": 27,
+    "summary": "询问601919（中国远洋）是否可入手，红利也在跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["601919可以入手吗？", "红利也在跌，太可怕了", "16左右比较合适"],
+    "mentioned_stocks": ["601919（中国远洋）"]
+  },
+  {
+    "index": 28,
+    "summary": "询问今天亏多少才是正常亏损，反馈各种跌幅，悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["难受了，8%", "煤炭快吃跌停，啥是防御？", "只有空仓才是防御"],
+    "mentioned_stocks": ["煤炭", "红利", "电力", "有色（泛指）"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论南方航空股价新低，比疫情时还低，两头挨打。",
+    "sentiment": "negative",
+    "key_opinions": ["南方航空疫情后新低", "原油价格高，大盘跌，航空股两头挨打", "港股国泰航空更低"],
+    "mentioned_stocks": ["南方航空", "国泰航空"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论“狗队”（国家队）何时入场护盘，期待反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["狗队一般是什么习性？", "下午2.30之后或3点以后", "除非下午再来个狠的才进场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "说收益与大盘反指，表达投资表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["收益大盘反指"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "说deepseek崩了，可能被大A砸崩或做量化。",
+    "sentiment": "negative",
+    "key_opinions": ["deepseek崩了", "梁子服务器拿来做量化"],
+    "mentioned_stocks": ["deepseek（AI服务）"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论韩国股市熔断，A股是否补跌，比较表现。",
+    "sentiment": "negative",
+    "key_opinions": ["棒子已经熔断了", "下午大A是不是还要补跌？", "韩国今年有30%涨幅"],
+    "mentioned_stocks": ["韩国股市", "A股"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论巴菲特投资苹果，搭不上AI快班车，嘲讽认知。",
+    "sentiment": "negative",
+    "key_opinions": ["以巴菲特的水平也就买买苹果", "搭不上AI快班车", "嘲笑巴菲特的认知低"],
+    "mentioned_stocks": ["苹果", "黑水公司（泛指）"]
+  },
+  {
+    "index": 35,
+    "summary": "说要等大机会，找浓眉大眼的股票，一梭子投入。",
+    "sentiment": "positive",
+    "key_opinions": ["等一个大机会", "找浓眉大眼的看准机会一梭子", "浓眉大眼的不能是无名小辈，要跌得多"],
+    "mentioned_stocks": ["601919（隐含）"]
+  },
+  {
+    "index": 36,
+    "summary": "说今天创业板、科创板跌得少，表现强于预期。",
+    "sentiment": "positive",
+    "key_opinions": ["今天创业、科创很强了，大盘跌1.7，他们才跌2.多", "以前起码四五个点下去了", "今天好多哗众取宠的小号"],
+    "mentioned_stocks": ["创业板", "科创板"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论不持仓过夜，采用T+0策略避免风险。",
+    "sentiment": "positive",
+    "key_opinions": ["不持仓过夜，外围随便折腾不烧心", "T+0，简单", "大盘好做跟随，大盘烂做逆子"],
+    "mentioned_stocks": ["中韩、中概互联、港股创新药、原油、黄金、纳指（泛指ETF或指数）"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论是否过于悲观，根源是美伊战争，悲观预期。",
+    "sentiment": "negative",
+    "key_opinions": ["是否过于悲观？", "宏观观看根源是美伊战争", "结束遥遥无期，通海峡漫长"],
+    "mentioned_stocks": ["大唐H股（隐含）"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论梁子（deepseek）服务问题，可能做量化或崩了。",
+    "sentiment": "mixed",
+    "key_opinions": ["梁子把机器玩冒烟了还是被强制关机？", "用来做T了", "服务器崩了，供给不足，利好科技"],
+    "mentioned_stocks": ["deepseek"]
+  },
+  {
+    "index": 40,
+    "summary": "说所有科技股都要感谢沪电股份，多头最后阵地。",
+    "sentiment": "positive",
+    "key_opinions": ["所有科技股都要感谢沪电股份", "多头最后的阵地", "踏实做事的公司得到市场回馈"],
+    "mentioned_stocks": ["沪电股份", "超声（可能指股票）"]
+  },
+  {
+    "index": 41,
+    "summary": "感觉下午会慢慢失血，放量延缓下跌但后续堪忧。",
+    "sentiment": "negative",
+    "key_opinions": ["感觉下午会慢慢失血", "早上放量1000亿，延缓下跌", "下午不放量估计血流成河"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "说只护指数不护个股，粉饰问题，批评护盘方式。",
+    "sentiment": "negative",
+    "key_opinions": ["只护指数不护个股的护盘", "不需要解决问题，只需粉饰", "狗队不好好买，没人来买"],
+    "mentioned_stocks": ["中国银行", "四大行（泛指）"]
+  },
+  {
+    "index": 43,
+    "summary": "说深指已比924低，讨论历史低点，悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["深指已比924低", "924是2024年9.24，大盘从2689起来", "也快了"],
+    "mentioned_stocks": ["深指（深圳指数）"]
+  },
+  {
+    "index": 44,
+    "summary": "说证券午盘偷袭，可能抱摔或死猫跳，怀疑效果。",
+    "sentiment": "negative",
+    "key_opinions": ["证券午盘偷袭！", "会是抱摔吗？一般午盘冲都没好事", "华林证券板上被爆头"],
+    "mentioned_stocks": ["证券（泛指）", "华林证券"]
+  },
+  {
+    "index": 45,
+    "summary": "询问领益智造是否被买，连跌11天，长期看可期。",
+    "sentiment": "negative",
+    "key_opinions": ["有人买了领益智造吗？", "连跌11天，天天2-4个点", "长期看未来可期，但短期难受"],
+    "mentioned_stocks": ["领益智造"]
+  }
+]
