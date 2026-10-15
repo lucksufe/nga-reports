@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论全仓银行股以避险，但质疑银行高位和避险效果。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技崩盘资金可能避险银行", "银行已是高位风险大", "全仓银行或吃小点数"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论江波龙股票下跌，业绩预告泄露引发质疑。",
+    "sentiment": "negative",
+    "key_opinions": ["业绩预告泄露可能操纵", "股价持续下跌", "市场无新鲜事"],
+    "mentioned_stocks": ["江波龙"]
+  },
+  {
+    "index": 3,
+    "summary": "统计割肉情况，用户分享亏损和割肉经历。",
+    "sentiment": "negative",
+    "key_opinions": ["多数人割肉亏损严重", "加息周期加剧下跌", "情绪崩溃普遍"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论科技股抄底，认为还有抄底意愿但市场不够绝望。",
+    "sentiment": "mixed",
+    "key_opinions": ["想抄底科技股博反弹", "不够绝望还会继续跌", "类似赌博风险高"],
+    "mentioned_stocks": ["科技股", "创业板"]
+  },
+  {
+    "index": 5,
+    "summary": "竞猜开盘下跌股票数量，预测大盘普遍下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["预测大量股票下跌", "大盘跌停可能抢筹", "悲观情绪弥漫"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "建议避免看盘，等待市场黎明或抄底机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["管住手避免看盘", "黄金拉回是黎明前黑暗", "便宜筹码在今天出现"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 7,
+    "summary": "用户利润归零，分享从高点到亏损的损失经历。",
+    "sentiment": "negative",
+    "key_opinions": ["利润从高点彻底归零", "有人亏损更严重", "设置止损点很重要"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "提到国家队保护A股指数，对比韩国股市下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队保护A股指数", "银行股崩盘可能引发连锁", "科创50定投仍亏损"],
+    "mentioned_stocks": ["银行股", "科创50基金"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论帖子被爆破，涉及股票代码触发审核敏感。",
+    "sentiment": "negative",
+    "key_opinions": ["帖子容易被爆破删除", "提到股票代码触发审核", "市场环境敏感"],
+    "mentioned_stocks": ["高争民爆"]
+  },
+  {
+    "index": 10,
+    "summary": "分析美联储褐皮书和美债走势，讨论滞胀风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["经济放缓通胀高企", "美债收益率走势分析", "交易滞胀可能启动"],
+    "mentioned_stocks": ["美债", "黄金"]
+  },
+  {
+    "index": 11,
+    "summary": "英法德股市上涨，对比A股表现。",
+    "sentiment": "mixed",
+    "key_opinions": ["欧洲股市上涨因无AI叙事", "欧洲股像老登股避险", "羡慕欧洲市场福利"],
+    "mentioned_stocks": ["英法德指数"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论三十六计走为上计，建议离场止损。",
+    "sentiment": "negative",
+    "key_opinions": ["走为上计及时止损", "一走就拉升让人后悔", "离场也要割肉损失"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "Anthropic财报好但美股AI硬件下跌，分析AI行业成本。",
+    "sentiment": "negative",
+    "key_opinions": ["财报好但股价仍跌", "AI硬件投资成本过高", "盈利未覆盖成本风险"],
+    "mentioned_stocks": ["英伟达", "美光", "台积电", "Anthropic"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论黄金宗挂牌，关注市场数据波动和风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金投资需关注数据", "市场博弈带来波动", "提醒进场风险"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论纳指科技ETF溢价和A股新股溢价问题。",
+    "sentiment": "negative",
+    "key_opinions": ["A股新股溢价被机构炒高", "二级市场给金融消费者", "机构操纵市场"],
+    "mentioned_stocks": ["纳指科技ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "预测工行建行中行银行股可能创新高。",
+    "sentiment": "positive",
+    "key_opinions": ["银行股可能新高", "结果似乎已知"],
+    "mentioned_stocks": ["工行", "建行", "中行"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论指数下跌，预测创业板低点和市场走势。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板可能跌至2600", "低开可能V形反弹", "红利股或走强"],
+    "mentioned_stocks": ["创业板", "银行股"]
+  },
+  {
+    "index": 18,
+    "summary": "分析市场如何玩成崩盘局面，讨论机制问题。",
+    "sentiment": "negative",
+    "key_opinions": ["市场信心被打崩", "机构疯狂做T赚钱", "A股底层机制有问题"],
+    "mentioned_stocks": ["科技股", "半导体"]
+  },
+  {
+    "index": 19,
+    "summary": "黄金回升，显示对抗滞胀能力。",
+    "sentiment": "positive",
+    "key_opinions": ["黄金拉回升幅对抗滞胀", "科技股跌幅难收回", "恐惧时应贪婪"],
+    "mentioned_stocks": ["黄金", "国债"]
+  },
+  {
+    "index": 20,
+    "summary": "表达投降情绪，市场压力大。",
+    "sentiment": "negative",
+    "key_opinions": ["投降认输情绪", "深呼吸以缓解压力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论不用太焦虑，市场有回调空间或风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["回调已留出空间", "可能回撤至3400点", "散户不跑市场继续跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "警告风险，预测金融危机和美股下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["纳指可能腰斩", "市场毫无底线", "救市困难阴跌为主"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 23,
+    "summary": "回忆中际旭创股票，表达情感损失。",
+    "sentiment": "negative",
+    "key_opinions": ["类似茅台走势", "可以考虑抄底", "长鑫与茅台对比"],
+    "mentioned_stocks": ["中际旭创", "长鑫"]
+  },
+  {
+    "index": 24,
+    "summary": "技术指标分析，讨论底背离和市场结构。",
+    "sentiment": "mixed",
+    "key_opinions": ["指数底背离信号", "技术分析在A股无效", "市场结构影响反弹"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 25,
+    "summary": "光模块教父割肉传闻，引发关注。",
+    "sentiment": "negative",
+    "key_opinions": ["传闻割肉可能成底", "粉丝损失担忧", "消息未确认"],
+    "mentioned_stocks": ["光模块股"]
+  },
+  {
+    "index": 26,
+    "summary": "用赌博比喻市场不公，存在作弊行为。",
+    "sentiment": "negative",
+    "key_opinions": ["市场像赌博不老实", "类似作弊行为存在"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "分享不持仓过夜的T+0交易策略。",
+    "sentiment": "positive",
+    "key_opinions": ["不持仓避免外围风险", "T+0操作简单", "跟随大盘或逆子选择"],
+    "mentioned_stocks": ["中韩", "中概互联", "港股创新药", "原油", "黄金", "纳指"]
+  },
+  {
+    "index": 28,
+    "summary": "黄金下跌困惑，为何未成为美国对手盘。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金应涨未涨令人困惑", "加息影响黄金需求", "长期黄金跟通胀走"],
+    "mentioned_stocks": ["黄金", "美债"]
+  },
+  {
+    "index": 29,
+    "summary": "担忧纳斯达克调整可能影响A股市场。",
+    "sentiment": "negative",
+    "key_opinions": ["纳指横盘调整可能", "A股受影响或爆炸", "高溢价接盘风险大"],
+    "mentioned_stocks": ["纳指", "纳指ETF"]
+  },
+  {
+    "index": 30,
+    "summary": "三星和SK海力士下跌，预测A股跟跌。",
+    "sentiment": "negative",
+    "key_opinions": ["韩股下跌预示A股", "A股可能大幅下跌", "无人救科技股"],
+    "mentioned_stocks": ["三星电子", "SK海力士", "双创"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论分红股股息率，认为虽低但稳定。",
+    "sentiment": "mixed",
+    "key_opinions": ["股息率4%比银行利率高", "老实赚钱虽枯燥", "稳定分红战胜多数"],
+    "mentioned_stocks": ["分红股"]
+  },
+  {
+    "index": 32,
+    "summary": "美股算租CRWV债券下跌，分析AI云计算风险。",
+    "sentiment": "negative",
+    "key_opinions": ["债券跌至面值80%", "引发金融PTSD担忧", "AI云计算行业风险高"],
+    "mentioned_stocks": ["CRWV", "AI云计算股"]
+  },
+  {
+    "index": 33,
+    "summary": "今天是最冰点，情绪极度崩溃和退坑潮。",
+    "sentiment": "negative",
+    "key_opinions": ["情绪冰点到来", "退坑潮正式开始", "市场垃圾场骂声不断"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "批评巴菲特错过AI，但被反驳。",
+    "sentiment": "mixed",
+    "key_opinions": ["嘲笑巴菲特认知低", "嘲笑者群体认知更低", "苹果和可口可乐牛逼"],
+    "mentioned_stocks": ["苹果", "可口可乐", "黑水公司"]
+  },
+  {
+    "index": 35,
+    "summary": "CPI落地期待反弹，但关注后续事件。",
+    "sentiment": "positive",
+    "key_opinions": ["利空出尽可能反弹", "月底议息会议关键", "震荡后或开始主升"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "回撤top榜列出下跌大的股票。",
+    "sentiment": "negative",
+    "key_opinions": ["半导体和软件回撤大", "市场风险高血腥", "三个月走完光伏路"],
+    "mentioned_stocks": ["德明利", "赵易创新", "光大"]
+  },
+  {
+    "index": 37,
+    "summary": "腰斩速度快，对比历史回撤。",
+    "sentiment": "negative",
+    "key_opinions": ["中际旭创腰斩极快", "公募拥挤度高接盘难", "媒体加速信息传播"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 38,
+    "summary": "预测熔断和破低点，市场下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["可能破上次低点", "自刎归天情绪", "大面不可避免"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "没钱了套现钱，讨论资金面问题。",
+    "sentiment": "negative",
+    "key_opinions": ["抽离救市钱救房地产", "科技崩盘蝴蝶效应", "资金紧张问题"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 40,
+    "summary": "好人股都跌得受不了，情绪低点。",
+    "sentiment": "negative",
+    "key_opinions": ["情绪可能最低点", "警惕风险价值投资", "红利股位置也不低"],
+    "mentioned_stocks": ["好人股", "万科"]
+  },
+  {
+    "index": 41,
+    "summary": "推荐反弹猛的股票，期待反弹。",
+    "sentiment": "positive",
+    "key_opinions": ["推荐PCB等反弹猛票", "科技股反弹会很猛", "具体股票如德明利"],
+    "mentioned_stocks": ["德明利", "生益科技", "光库", "天孚", "长飞光纤", "PCB"]
+  },
+  {
+    "index": 42,
+    "summary": "平安双熊讨论红利底仓投资。",
+    "sentiment": "mixed",
+    "key_opinions": ["平安股息率高值得买", "险资接盘传言影响", "股价处于低位"],
+    "mentioned_stocks": ["平安", "太保"]
+  },
+  {
+    "index": 43,
+    "summary": "全仓加杠杆高风险操作，担忧损失。",
+    "sentiment": "negative",
+    "key_opinions": ["杠杆炒小盘妖股风险", "农业板块反指可能", "赌性太大易亏损"],
+    "mentioned_stocks": ["敦煌种业", "金健"]
+  },
+  {
+    "index": 44,
+    "summary": "和技师请教股市，幽默自嘲。",
+    "sentiment": "mixed",
+    "key_opinions": ["消费比亏损好", "技师建议现金为王", "市场黑话交流"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "东百集团重组取消，欺诈市场案例。",
+    "sentiment": "negative",
+    "key_opinions": ["重组取消涉嫌欺诈", "挂单出逃保本", "市场无监管诈骗"],
+    "mentioned_stocks": ["东百集团"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论十年长牛可能为红利股长牛。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股可能长牛", "十年两倍收益看不上", "纳指风险比红利大"],
+    "mentioned_stocks": ["红利股", "纳指"]
+  },
+  {
+    "index": 47,
+    "summary": "美股硬件下跌，预测A股跟跌。",
+    "sentiment": "negative",
+    "key_opinions": ["美股硬件股死光", "A股可能4000+下跌", "期待奇迹团反弹"],
+    "mentioned_stocks": ["美股硬件股"]
+  },
+  {
+    "index": 48,
+    "summary": "担忧兆易创新继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["存储股持续下跌", "被套牢不必割肉", "跌幅大难回本"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论险资砸盘，可能做空或演戏。",
+    "sentiment": "negative",
+    "key_opinions": ["险资可能做空获利", "互相演戏别当真", "悲观情绪图片"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "询问中钨高新幸存者，因钨价下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["中钨高新下跌严重", "生益科技已全灭", "钨价下跌叠加科技跌"],
+    "mentioned_stocks": ["中钨高新", "生益科技"]
+  }
+]
