@@ -1,0 +1,554 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论90后、80后储蓄被房子和股市收割的陋习，以及转向及时消费的心态。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "储蓄被房贷和股市亏损收割，是陋习",
+      "股市亏损严重，抄底被套",
+      "学习00后及时行乐，活通透"
+    ],
+    "mentioned_stocks": ["红利股"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论外围市场回暖但担忧A股高开跳水，反弹可能成为减仓机会。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "外围回暖但A股反弹风险大",
+      "高开可能跳水，应减仓",
+      "市场情绪谨慎，普遍看空"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论国家队（汪汪队）是否在分批抄底，分析其托而不举的策略。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国家队托而不举，让市场缓慢触底",
+      "目的是让散户和小机构割肉",
+      "策略是缓慢下跌而非暴跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "为国家队辩护，认为其托底防止了更剧烈的下跌，但遭到网友反驳。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国家队托底防止了A股崩盘",
+      "前期国家队自身也在卖出，作用存疑",
+      "托底只是延缓下跌，非真正拉升"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论“算电协同”帖子被删除的原因，可能涉及敏感词或信息泄露。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "算电相关帖子容易被删除",
+      "可能因提及特定股票代码或名称触发审核",
+      "影响正常技术交流"
+    ],
+    "mentioned_stocks": ["高争民爆"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论从股市转战彩票的可行性，比较两者的投机性和回报率。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "彩票中奖概率极低，不如股市",
+      "股市和彩票本质都是投机",
+      "能赚钱的渠道都被限制"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论宏桥相关帖子被删除，疑似因公司人物（黄然非）被调查带来风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "宏桥相关人物被带走，帖子被删",
+      "港股风险可能较大",
+      "A股可能有资金救助"
+    ],
+    "mentioned_stocks": ["宏桥"]
+  },
+  {
+    "index": 8,
+    "summary": "网友分享大幅亏损的截图，表达普遍亏损的痛苦和互相安慰。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "普遍亏损严重，截图展示血亏",
+      "亏损幅度大，有人月亏10%",
+      "情绪宣泄，互相比较惨烈程度"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论胜宏科技业绩持续不及预期、股价走弱及管理层问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "胜宏科技业绩再次miss，股价板块内最弱",
+      "管理层被质疑能力差，项目进展慢",
+      "投资者失望，考虑长期持有或割肉"
+    ],
+    "mentioned_stocks": ["胜宏科技", "沪电", "生益"]
+  },
+  {
+    "index": 10,
+    "summary": "因炒股造成巨额亏损而对家人感到愧疚，引发对炒股心态的讨论。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "炒股亏损严重影响家庭和生活",
+      "可能是瞒着家人借贷炒股",
+      "应坚持用余钱炒股，避免赌博心态"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "讨论美股中防御性板块（如医疗、消费）市盈率高于科技板块的现象。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "防御板块（礼来、可口可乐）估值高",
+      "科技板块（英伟达）估值相对较低",
+      "市场为确定性和健康、快乐支付溢价"
+    ],
+    "mentioned_stocks": ["英伟达", "礼来", "可口可乐", "开市客", "沃尔玛", "苹果"]
+  },
+  {
+    "index": 12,
+    "summary": "传闻股市暴跌与某个群体被两岸联合征税有关，但消息真实性存疑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "小道消息将暴跌归因于特定群体被双打",
+      "猜测群体身份（如“鱿鱼”）",
+      "多数回复质疑消息真实性"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "分析胜宏科技员工持股计划延迟买入，可能因静默期或故意压价。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "员工持股计划因静默期规则延迟",
+      "公司管理层被质疑能力或故意压股价",
+      "业绩兑现慢，股价表现差"
+    ],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 14,
+    "summary": "描述巨额亏损后身心俱疲的崩溃状态，甚至产生赌博等极端念头。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损导致严重的心理和生理状态崩溃",
+      "出现赌博、报复社会等极端念头",
+      "引发对投资风险的深刻警示"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "简短提及半导体板块夜盘活跃及跳水。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "半导体夜盘异常活跃",
+      "发生跳水行情",
+      "走势逆美股夜盘"
+    ],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 16,
+    "summary": "咨询熊市下的资产配置策略，寻求跑赢定存的低风险方案。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "建议配置红利股、国债等低风险资产",
+      "可考虑大仓位空仓，等待指数估值低位定投",
+      "红利股在A股可能是唯一长期投资标的"
+    ],
+    "mentioned_stocks": ["创业板指数", "沪深300", "纳指", "标普", "黄金"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论今日是否该出手抄底，但普遍担忧高开低走风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场情绪看似到位，但风险仍大",
+      "高开可能是卖出而非买入时机",
+      "外围市场（如韩国）已开始跳水"
+    ],
+    "mentioned_stocks": ["棒子（代指韩国股市）"]
+  },
+  {
+    "index": 18,
+    "summary": "分享对存储行业不同公司的看法，短期看好某类公司，中期看好光模块。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "短期看好新云公司",
+      "中期看好光模块",
+      "存储行业需等待中国扩产论被证伪才有大行情"
+    ],
+    "mentioned_stocks": ["新云公司"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论某龙头公司（中大哥）将回购的股份全部注销，视为积极信号。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "回购注销对股价和市场是正面作用",
+      "此举比股权激励或减持套现更有利于股东",
+      "相比市值下跌，回购金额显小但态度积极"
+    ],
+    "mentioned_stocks": ["中大哥（代指某龙头公司）", "兆易"]
+  },
+  {
+    "index": 20,
+    "summary": "建立缠论技术交流及个人交易复盘帖，寻求长期学习和实践。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "鼓励技术分析交流与复盘",
+      "将交易视为长期副业"
+      "强调找到适合自己的投资方法"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "在动画《韭留美》中看到股市相关内容，引发股民共鸣和感慨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "在娱乐内容中看到股市相关情节",
+      "看到别人赚钱比自己亏钱还难受",
+      "将绘画创作比作价值投资"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "询问今天应该抄底哪个板块或个股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "寻求具体的抄底目标",
+      "提醒今天可能高开，需谨慎",
+      "考虑纳指走势影响"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "讨论3674点是否是股市铁底，认为底部是买出来的而非预测的。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "共识底部通常会被击穿",
+      "真正的底是资金大举买入形成的",
+      "无需猜底，关注国家队等主力动向"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论莫德纳股价走势强势，可能受避险资金推动。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "莫德纳走势类似疯狗浪",
+      "可能复刻礼来等医药股的大牛走势",
+      "被视为避险资金炒作的妖股"
+    ],
+    "mentioned_stocks": ["莫德纳", "礼来"]
+  },
+  {
+    "index": 25,
+    "summary": "询问纳指期货夜间跳水的原因，认为是受A股市场情绪影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "纳指期货跳水可能因A股开盘在即的避险情绪",
+      "亚洲市场开盘导致外围市场波动",
+      "纳指在A股盘后表现积极"
+    ],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 26,
+    "summary": "讽刺周五外围市场全涨，而A股可能又要下跌“买单”的现象。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "外围市场（黄金、石油、股指）全线拉升",
+      "A股却可能高开低走或下跌",
+      "A股成为全球市场的“鬼故事”"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "提议将炒股软件的最后一根K线改成绿色，以符合市场下跌常态。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "调侃市场长期下跌，建议K线显示为绿色",
+      "提议K线加长以反映跌幅",
+      "讨论软件图标的负面心理暗示"
+    ],
+    "mentioned_stocks": ["同花顺"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论龙头公司（大哥）回购股份全部注销的行为，视为利好。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "回购注销是稳定股价的积极措施",
+      "带头作用好于减持套现",
+      "可能受窗口指导，但仍是好事"
+    ],
+    "mentioned_stocks": ["中大哥（代指某龙头公司）", "兆易"]
+  },
+  {
+    "index": 29,
+    "summary": "分析ETF尾盘出现巨量交易但未大幅上涨的现象。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "巨量交易但价格未涨，疑似对倒",
+      "可能是大资金在尾盘护盘",
+      "拉尾盘可能仅为美化指数"
+    ],
+    "mentioned_stocks": ["易方达"]
+  },
+  {
+    "index": 30,
+    "summary": "担心纳斯达克指数会在夜间反弹拉升。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "担忧纳指反弹会打乱A股节奏",
+      "认为主力（汪汪队）已提前抄底",
+      "对A股今日走势不抱希望"
+    ],
+    "mentioned_stocks": ["纳指", "美光"]
+  },
+  {
+    "index": 31,
+    "summary": "请求推荐短期超跌、值得抄底的股票。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "寻求超跌股的短线抄底机会",
+      "网友推荐了多个具体股票",
+      "提醒抄底需看时机，已涨不追"
+    ],
+    "mentioned_stocks": ["澳弘", "新华文轩", "中京电子", "龙版", "中远海能", "宝丰能源", "牧原"]
+  },
+  {
+    "index": 32,
+    "summary": "担忧江波龙出现问题会连带影响赵姨（兆易创新）。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "江波龙面临问题，担心波及其他存储公司",
+      "赵姨（兆易创新）基本面可能无碍",
+      "但市场可能进行无差别抛售"
+    ],
+    "mentioned_stocks": ["江波龙", "赵姨（代指兆易创新）", "南亚科"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论美联储前理事沃什讲话可能带来的鹰派影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "担心沃什发表鹰派言论冲击A股",
+      "市场已预期12月加息",
+      "讲话可能无明确指引，影响有限"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "质疑美股交易平台出现“拔网线”（交易中断）的现象。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "怀疑美股交易平台出现故障或人为干预",
+      "类似情况在历史极端行情中发生过",
+      "可能与地缘政治事件有关"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "分析认为美股反弹拉红对A股未必是好事。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美股不跌，国家队可能减少护盘力度",
+      "可能导致A股阴跌不止",
+      "外围止跌是A股反弹的前提"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "展示非科技股（如电力股）同样因业绩暴跌而大幅亏损的情况。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "非科技股也因业绩预告暴跌",
+      "普跌行情下选股失误风险大",
+      "量化交易导致无差别抛售"
+    ],
+    "mentioned_stocks": ["电力股", "茅台"]
+  },
+  {
+    "index": 37,
+    "summary": "引用经典熊市流程图，讨论当前市场处于哪个阶段。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "经典熊市阶段图被用来分析当前市场",
+      "认为当前尚未进入最绝望的后期阶段",
+      "市场仍有争论和抄底声音，未至冰点"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "因炒股亏损导致严重失眠和精神痛苦，已依赖药物。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损导致严重的心理压力和失眠",
+      "产生自我否定和痛苦",
+      "建议寻求AI等途径倾诉，避免打扰他人"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "提议关注名称或概念“抽象”的股票以缓解熊市压力，回忆历史炒作。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "建议关注生肖、名字等“抽象”概念股票",
+      "历史上熊市末期常有此类投机炒作",
+      "可能提前埋伏猴年等概念"
+    ],
+    "mentioned_stocks": ["嘉诚股", "七匹狼", "九阳股份"]
+  },
+  {
+    "index": 40,
+    "summary": "分享超短线虚拟炒股策略和对当前盘面的观察。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "进行超短线虚拟盘面分析",
+      "讨论板块轮动和个股机会",
+      "提醒当前行情操作难度大"
+    ],
+    "mentioned_stocks": ["电池", "九阳", "新华传媒", "三柏硕", "金建米业"]
+  },
+  {
+    "index": 41,
+    "summary": "记录因融资炒股导致本金严重亏损（脚踝斩）并尝试回本的经历。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "因融资加仓在高点导致巨额亏损",
+      "回本之路极其艰难",
+      "警示融资风险巨大"
+    ],
+    "mentioned_stocks": ["永信至诚", "深信服", "传艺科技", "云天励飞", "德明利", "享福光电"]
+  },
+  {
+    "index": 42,
+    "summary": "分享2021年腰斩后通过改变策略在熊市中回本的经验。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "通过改变投资策略在熊市中回本",
+      "熊市中谨小慎微，每年赚钱",
+      "牛市过度自信反而容易亏损"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "讨论股市题材动画《韭留美》在7月和10月播出，哪个“节目效果”更好。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "10月播出可能比7月更“精彩”",
+      "10月行情更惨烈，杀本金而非利润",
+      "全球共振下跌，节目效果十足"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "讨论牧原股份股价大跌，及生猪养殖行业的困境。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "牧原股份股价大跌",
+      "生猪价格走弱，行业面临危机",
+      "预计有猪企可能暴雷"
+    ],
+    "mentioned_stocks": ["牧原"]
+  },
+  {
+    "index": 45,
+    "summary": "大唐发电股价下跌，投资者寻求心理按摩和安慰。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "投资者重仓大唐发电被套，寻求安慰",
+      "公司三季度业绩可能不佳",
+      "有投资者持续充值（加仓）"
+    ],
+    "mentioned_stocks": ["大唐", "华电", "南航"]
+  },
+  {
+    "index": 46,
+    "summary": "半夜看到科技股大跌消息（实为英特尔）引发惊吓，讨论科技股困境。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股投资者因夜间暴跌消息受惊",
+      "当前市场普跌，科技股尤其惨烈",
+      "有投资者表示不再执着于科技股"
+    ],
+    "mentioned_stocks": ["英特尔", "英伟达"]
+  },
+  {
+    "index": 47,
+    "summary": "引用摩根大通对沪深300指数年底目标的预测，但市场普遍不信。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "摩根大通预测沪深300年底涨至5200点",
+      "当前点位距目标涨幅超20%",
+      "市场情绪悲观，普遍质疑该预测"
+    ],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 48,
+    "summary": "美国9月PPI数据超预期增长，可能引发进一步加息担忧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "美国PPI数据大幅超预期",
+      "显示通胀压力仍大，支撑加息",
+      "与中国经济状况形成反差"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "对中外股市（存储板块）因相同逻辑却同涨同跌的怪象表示困惑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "外围存储因技术突破下跌，国内也跟跌",
+      "困惑于国内外股市联动的非理性",
+      "市场逻辑混乱，让人看不懂"
+    ],
+    "mentioned_stocks": ["存储相关"]
+  },
+  {
+    "index": 50,
+    "summary": "韩国股市大跌可能触及熔断，并讨论其对A股的影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国股市因存储行业利空暴跌",
+      "三星、海力士权重过高导致指数脆弱",
+      "国内存储技术突破被视为行业利空"
+    ],
+    "mentioned_stocks": ["三星", "海力士", "长鑫"]
+  }
+]
+```
