@@ -1,0 +1,296 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论美联储官员沃什要求市场不要预判议息会议结果，网友多持怀疑态度。",
+    "sentiment": "negative",
+    "key_opinions": ["官员称不赞成预先判断议息会议", "网友认为这是怕了或打太极", "认为炒股不预判是不可能的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户展示大额亏损截图并自问是否“悟道”，社区用户多表示鼓励或自嘲。",
+    "sentiment": "mixed",
+    "key_opinions": ["展示亏损或期待悟道", "回复中有鼓励和自嘲", "有人分享自身亏损更严重"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "质疑市场反弹的真实性，多数回复表示不相信，认为只是反弹而非牛市。",
+    "sentiment": "negative",
+    "key_opinions": ["认为是诱多，不敢追高", "觉得牛没了，只是反弹", "踏空感严重，怕追高被套"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "询问基金产品关闭原因，并讨论长期基金投资。",
+    "sentiment": "negative",
+    "key_opinions": ["基金产品关闭，额度问题", "询问五年收益情况", "寻求长期基金推荐"],
+    "mentioned_stocks": ["广发娜娜基金"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论特斯拉飞行汽车带来的低空经济炒作机会，观点分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为可埋伏特斯拉相关题材", "怀疑题材已炒作或国内禁飞", "提到低空经济如无头苍蝇"],
+    "mentioned_stocks": ["特斯拉", "低空经济相关股", "拓普集团"]
+  },
+  {
+    "index": 6,
+    "summary": "询问光模块股票是否止跌，多数回复认为尚未企稳。",
+    "sentiment": "negative",
+    "key_opinions": ["认为技术面未止跌，均线未站上", "指出个股如天孚仍在下跌", "反弹幅度小，趋势未改"],
+    "mentioned_stocks": ["光模块股", "天孚通信", "京东方"]
+  },
+  {
+    "index": 7,
+    "summary": "分享电解铝龙头股票的投资配置策略，提及分红预期。",
+    "sentiment": "mixed",
+    "key_opinions": ["列出多家电解铝公司及分红预期", "建议分仓配置组成ETF", "提醒谨慎，可能涉及敏感信息"],
+    "mentioned_stocks": ["宏桥控股", "电投能源", "云铝股份", "神火股份"]
+  },
+  {
+    "index": 8,
+    "summary": "因特斯拉Roadster飞行视频，引发对低空经济和相关概念股的讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["感叹产品科幻感强", "联想到A股“低空三傻”并讨论", "认为国内低空经济是禁飞区，炒作风险大"],
+    "mentioned_stocks": ["特斯拉", "低空三傻", "拓普集团"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论马斯克技术反哺及特斯拉飞行汽车对国内的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为典型的技术反哺", "指出国内低空经济为禁飞区", "认为量化资金会借机炒作"],
+    "mentioned_stocks": ["特斯拉", "国产车相关股"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论某论坛帖子易被删除，怀疑与提及敏感词汇或公司有关。",
+    "sentiment": "negative",
+    "key_opinions": ["帖子容易被删除或审核", "怀疑提及了敏感词汇或公司名", "可能是触及了具体上市公司"],
+    "mentioned_stocks": ["高争民爆（可能相关）"]
+  },
+  {
+    "index": 11,
+    "summary": "分析从黄金股切换至科技股导致亏损的原因。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股补跌，市场风格轮动", "认为赤峰黄金庄家仁义", "黄金股早盘冲高应卖出"],
+    "mentioned_stocks": ["赤峰黄金", "生益科技"]
+  },
+  {
+    "index": 12,
+    "summary": "咨询农业银行股息持仓的操作，纠结于分红前卖出还是持有。",
+    "sentiment": "mixed",
+    "key_opinions": ["建议有其他投资渠道就卖", "分红后卖出", "认为用户本质看空银行股"],
+    "mentioned_stocks": ["农业银行", "平安保险"]
+  },
+  {
+    "index": 13,
+    "summary": "在市场下跌中鼓励保持希望，但回复态度谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": ["鼓励“活着才有DPS”", "提醒牢记“祖训”（谨慎）", "有人认为只是反弹，会埋人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "推荐福晶科技并展示买入逻辑，引发一些跟随讨论。",
+    "sentiment": "positive",
+    "key_opinions": ["在五日线附近买入", "认为高点下跌后可博反弹", "有人感谢分享"],
+    "mentioned_stocks": ["福晶科技", "崇达技术"]
+  },
+  {
+    "index": 15,
+    "summary": "询问熊市中的低风险配置策略，回复推荐防御性资产。",
+    "sentiment": "negative",
+    "key_opinions": ["推荐红利股如煤炭、银行防御", "建议大仓位空仓等待", "可配置ETF、国债或黄金"],
+    "mentioned_stocks": ["红利股", "煤炭", "银行", "创业板ETF", "沪深300ETF", "纳指ETF", "标普ETF", "实物黄金"]
+  },
+  {
+    "index": 16,
+    "summary": "表达错过山东路桥上涨机会的懊恼，并提及高速股上涨。",
+    "sentiment": "negative",
+    "key_opinions": ["股票一直不给回调上车机会", "提及高速收费政策利好", "因公司增持消息考虑入场"],
+    "mentioned_stocks": ["山东路桥", "粤高速A", "成渝高速"]
+  },
+  {
+    "index": 17,
+    "summary": "推荐买入超跌的存储板块后排票太极实业。",
+    "sentiment": "positive",
+    "key_opinions": ["看好超跌的存储后排票", "认为此类票散户多", "投资逻辑简洁"],
+    "mentioned_stocks": ["太极实业"]
+  },
+  {
+    "index": 18,
+    "summary": "建立缠论技术分析交流及复盘记录帖。",
+    "sentiment": "mixed",
+    "key_opinions": ["旨在进行长期技术交流与复盘", "有用户质疑缠论是否过时", "认为理论复杂难学"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "将上证指数走势类比为庄股，分析其吸筹、拉升、洗盘过程。",
+    "sentiment": "negative",
+    "key_opinions": ["认为大盘像庄股一样操作", "散户难以在这种市场中盈利", "本质是筹码游戏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "感慨指数上涨但个人资金未回本。",
+    "sentiment": "negative",
+    "key_opinions": ["感觉回本非常困难", "可能持仓分散如“开超市”", "有用户建议买宽基ETF"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "担心缩量上涨是诱多信号，盘面让人不安。",
+    "sentiment": "mixed",
+    "key_opinions": ["盘面诡异，不敢追高", "有用户认为是诱多，下午可能下跌", "也有人说看不懂就别参与"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论中兴通讯计划注销50亿回购股票，评价褒贬不一。",
+    "sentiment": "mixed",
+    "key_opinions": ["认为回购注销是好事", "但觉得50亿金额太小", "相较于其他公司减持，已是带头作用"],
+    "mentioned_stocks": ["中兴通讯", "宁德时代"]
+  },
+  {
+    "index": 23,
+    "summary": "关注市场成交量变化，讨论量能对行情持续性的影响。",
+    "sentiment": "neutral",
+    "key_opinions": ["关注今日是否缩量", "提到资金出现净流入", "有人猜测限制卖出了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "观察到黄金股暴涨，讨论黄金投资机会与风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["有人想入场买黄金ETF", "但提醒周一可能亏损，曾有“爆拉”后大跌", "认为黄金适合长期配置而非短线"],
+    "mentioned_stocks": ["黄金股", "黄金ETF"]
+  },
+  {
+    "index": 25,
+    "summary": "疑惑沪电股份在板块下跌中表现“反人性”，昨日坚挺今日补跌。",
+    "sentiment": "negative",
+    "key_opinions": ["认为是市场风格轮动导致的补跌", "业绩好的股票也会被带崩", "PCB板块出现联动下跌"],
+    "mentioned_stocks": ["沪电股份", "宏昌电子", "风华高科", "金安国际"]
+  },
+  {
+    "index": 26,
+    "summary": "提醒当日市场依然缩量，质疑行情持续性。",
+    "sentiment": "negative",
+    "key_opinions": ["认为缩量上涨行情不持久", "有人表示“先涨了再说”", "也认为市场仍在磨底阶段"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论次日美联储官员沃什讲话的预期及对市场的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["担心讲话放鹰冲击市场", "分析加息预期及地缘冲突影响", "认为其讲话无明确指引，不必过度关注"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "为科技股上涨而欢呼，但部分用户认为反弹力度不足。",
+    "sentiment": "mixed",
+    "key_opinions": ["有用户情绪激动喊“起飞”", "但质疑反弹持续性，称“下周一起飞”", "认为前期跌幅并未完全修复"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 29,
+    "summary": "用户描述巨额亏损后的身心煎熬状态，引发共鸣和安慰。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重，产生极端想法", "有人分享类似更严重的亏损经历", "建议缓一缓，避免报复社会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "认为特斯拉飞行汽车题材出现，对指数和特定板块构成利好。",
+    "sentiment": "positive",
+    "key_opinions": ["认为题材送暖，利好低空、航天等", "黄金企稳也将减轻指数压力", "强调题材出现节点重要"],
+    "mentioned_stocks": ["低空经济", "航天", "汽车链"]
+  },
+  {
+    "index": 31,
+    "summary": "惊叹江淮汽车在争议中逆势上涨，分析其公关策略成功。",
+    "sentiment": "positive",
+    "key_opinions": ["因刹车测试合格消息刺激上涨", "称赞其公关为“教科书式”", "看好高端用户粘性"],
+    "mentioned_stocks": ["江淮汽车", "赛力斯"]
+  },
+  {
+    "index": 32,
+    "summary": "将当前市场走势比喻为“二段打窝”，建议逢高减仓。",
+    "sentiment": "negative",
+    "key_opinions": ["认为昨天第一段打窝失败", "今天进行第二段，后续看空", "建议趁反弹减仓或离场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "哀叹科技股抛压沉重，一涨就有人卖出，形成下跌循环。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股一高开就被抛售", "认为是家人们和机构都没格局", "创业板指数周线四连阴，下跌无抵抗"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论黄金投资话题，并提示近期数据密集期的风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["提及市场在博弈重要经济数据", "认为数据会放大波动，提醒风险", "提到帖子（“黄金宗”）容易被爆"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 35,
+    "summary": "以讽刺口吻说大盘收红，实则担忧下跌更多，怕下午跳水。",
+    "sentiment": "negative",
+    "key_opinions": ["认为涨幅不足以修复昨日跌幅", "担心“下午跳没了”", "认为国家队护盘但效果有限"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "记录超短策略复盘，提及电池、消费等板块及个股表现预期。",
+    "sentiment": "neutral",
+    "key_opinions": ["进行超短策略复盘", "认为低位股存在轮动机会", "对具体个股（九阳、新华传媒等）进行分析"],
+    "mentioned_stocks": ["九阳", "新华传媒", "三柏硕", "金建米业", "安泰", "楚环"]
+  },
+  {
+    "index": 37,
+    "summary": "认为当前涨幅微弱，市场趋势向下，磨叽横盘反而更让人恐慌。",
+    "sentiment": "negative",
+    "key_opinions": ["认为涨幅不够，可能还没跌到位", "认为当前横盘让人想逃", "除非创业板出现大阳线，否则视为“骗炮”"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "感叹科技股日常波动剧烈，买入非科技股后期待立刻上涨。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股波动大，“害人不浅”", "买入非科技股后期望马上涨", "心态焦虑"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 39,
+    "summary": "用“无掩体干拉”形容市场行为，表达困惑或担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["形容市场行为为“无掩体干拉”", "可能指缺乏基本面支撑的拉升", "情绪偏向困惑或担忧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "认为今日市场上涨依赖外围市场（美日韩）带动，自身疲软。",
+    "sentiment": "negative",
+    "key_opinions": ["认为A股自身无力，全靠外围支撑", "形容为“软骨头”", "担心难以撑到收盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "类比医药股走势可能重蹈科技股覆辙，即高开后跳水。",
+    "sentiment": "negative",
+    "key_opinions": ["认为医药股走势类似科技股", "“绿开直接死，红开就跳水”", "暗示板块轮动后的下跌风险"],
+    "mentioned_stocks": ["医药股"]
+  },
+  {
+    "index": 42,
+    "summary": "质疑国家队是否真正关心创业板和科创板指数，还是只关心上证。",
+    "sentiment": "negative",
+    "key_opinions": ["认为上证指数是“唯一遮羞布”", "国家队可能将双创作为调控工具", "虽然之前有买入科创50，但当前资金不足"],
+    "mentioned_stocks": ["科创50", "上证指数"]
+  }
+]
