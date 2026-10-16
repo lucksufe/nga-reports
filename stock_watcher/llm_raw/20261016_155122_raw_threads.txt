@@ -1,0 +1,507 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论市场波动和818事件，用户情绪悲观，认为市场缺乏持续性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场V型反弹但缺乏持续性。",
+      "社会主义市场比资本主义更贪得无厌。",
+      "创业板从818至今大幅下跌。"
+    ],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 2,
+    "summary": "药明康德股价大跌，用户归因于市场环境差，振幅剧烈。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "药明康德补跌，市场环境恶劣。",
+      "一天振幅接近10个点，令人呕吐。",
+      "不是药明在杀人，是世道在杀人。"
+    ],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 3,
+    "summary": "药明康德跌停引发惊讶，用户讨论可能原因，情感负面。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "药明康德无利空却俯冲跌停。",
+      "市场走势夸张，诱多后暴跌。",
+      "可能受外围利空消息影响。"
+    ],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论创业板超跌，有抄底价值，但用户反映没钱抄底或已套牢。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "RSI低于20，历史上有抄底机会。",
+      "用户没钱抄底或抄在半山腰。",
+      "小道消息称下跌将止。"
+    ],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 5,
+    "summary": "比较老股民和新股民在熊市中的优势，观点偏幽默。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "老股民在操作和心态上可能更优。",
+      "老股民躺得更平，心态更好。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "指责国家队操作变态，做T砸盘后尾盘捡筹码。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国家队急不可耐做T，砸坏盘面。",
+      "量化跟风砸盘，尾盘再捡筹码。",
+      "有钱为所欲为，操纵市场。"
+    ],
+    "mentioned_stocks": ["平安", "510300"]
+  },
+  {
+    "index": 7,
+    "summary": "市场高开低走，用户持仓由红转绿，情感沮丧。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "盘中涨1个点，收盘却绿，市场波动大。",
+      "用户午睡后亏损加剧。",
+      "高开是假象，下午暴跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论科技股需要新龙头来扭转行情，提及多家公司IPO。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股需新总瓢把子如寒武纪。",
+      "长鑫上市可任副总瓢把子。",
+      "多家公司如长江存储可能IPO。"
+    ],
+    "mentioned_stocks": ["寒武纪", "长鑫", "长江存储", "DeepSeek", "Kimi", "GLM", "MiniMax"]
+  },
+  {
+    "index": 9,
+    "summary": "小道消息称暴跌因两岸双打，用户讨论黄金涨跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "暴跌可能与群体被两岸收税有关。",
+      "美股交易衰退，资金流向债券。",
+      "黄金涨跌有争议，近期才涨。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "尾盘拉升成为常态，用户表达不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "又双叒叕拉尾盘，习以为常。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "药明康德大跌原因不明，用户怀疑利空消息。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "药明康德跌停原因未知。",
+      "这种位置跌停怕是没有杀错。",
+      "机构流出3亿，可能有利空消息。"
+    ],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论社保问题对股市的影响，用户担忧抽水效应。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "社保加税等同于财政紧缩。",
+      "可能先砸盘再救市，捡便宜筹码。",
+      "历史类似事件每年试探底线。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "股市导致用户身体不适，如胸闷干呕，情感极度负面。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场导致躯体化症状如干呕。",
+      "股市把人变成鬼，市场不正规。",
+      "用户心脏疼，情绪崩溃。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论帖子被爆和敏感词问题，祝福高争民爆。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "帖子易爆，因提到敏感词。",
+      "楼爆利好高争民爆。",
+      "老敏感肌话题，需谨言慎行。"
+    ],
+    "mentioned_stocks": ["高争民爆"]
+  },
+  {
+    "index": 15,
+    "summary": "指数拉回3700，用户不满散户被操纵。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "散户被玩弄，指数尾盘拉升。",
+      "熊市拉尾盘习惯就好。",
+      "纯拉银行，指数虚假繁荣。"
+    ],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 16,
+    "summary": "险守3700点，用户讽刺新闻吹嘘和指数套路。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "盘后新闻吹守点，实际套钱。",
+      "拉尾盘花小钱办大事。",
+      "剧本循环，托指数逐级下跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论电解铝股投资，注重分红和仓位控制。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "电解铝龙头如宏桥控股分红预期高。",
+      "电投能源等煤电一体化股分红可观。",
+      "仓位控制，分散配置电解铝ETF。"
+    ],
+    "mentioned_stocks": ["宏桥控股", "电投能源", "云铝股份", "神火股份"]
+  },
+  {
+    "index": 18,
+    "summary": "质疑救科技股的可行性，主张救老登股保指数。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股泡沫大，救市资金不足。",
+      "救老登股更有效，散户筹码少。",
+      "指数靠老登股拉升维持。"
+    ],
+    "mentioned_stocks": ["老登股"]
+  },
+  {
+    "index": 19,
+    "summary": "尾盘战法一周没亏，但今天追高亏损，强调纪律。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "尾盘战法有效，避免亏损。",
+      "今天追高亏钱，因不守纪律。",
+      "纪律减少亏钱，但不一定多赚。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "尾盘直线拉升，用户乐观或讽刺市场回归。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "尾盘直线拉升，市场情绪回升。",
+      "牛回速归，可能带讽刺。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论政治人物比较，与股市关系间接，情感负面。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "李在明比陪酒女有水平。",
+      "后者明牌卖国，前者在裱糊。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讽刺性庆祝指数收回3700，提及ETF放量。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "再次收回3700，连续赢。",
+      "拉银行和ETF，指数虚假。",
+      "市场又在吃尸体。"
+    ],
+    "mentioned_stocks": ["300", "银行"]
+  },
+  {
+    "index": 23,
+    "summary": "熟悉尾盘拉升套路，用户服气。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "尾盘拉升银行，指数虚假。",
+      "操作套路老套，用户被迫接受。"
+    ],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 24,
+    "summary": "尾盘拉升偷鸡，钱不够只能如此。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "拉尾盘准没好事，钱不够偷鸡。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "国家队开始回补ETF，但需连续购买稳盘。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国家队回补ETF，但量不大。",
+      "需连买三天才能稳住市场。",
+      "信号明确，看抄底资金跟进。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "指数3700点跌破又拉回，用户不满做T行为。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "3700点破了会拉回。",
+      "狗队做T，散户被玩。",
+      "最好一步到位到3550。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讽刺上证指数不提及，对比其他股市表现。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "新闻连上证点位都不敢提。",
+      "找旗鼓相当的对手如印尼股市。",
+      "日韩跌则全网推送。"
+    ],
+    "mentioned_stocks": ["日经ETF"]
+  },
+  {
+    "index": 28,
+    "summary": "A股连续下跌，用户亏损严重，情感崩溃。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "一周跌4天，亏损扩大。",
+      "市场太恶心，越陷越深。",
+      "跑路脱离苦海。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "高开问题导致下跌，用户指责狗队信用破产。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高开必跑，已成市场共识。",
+      "狗队用信用做T，失信于民。",
+      "最大问题是A股本身。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "尾盘拉升，用户表达愤怒。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "拉拉你mb，尾盘拉升负面。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "不明白为何A股走势与日韩背离，情感困惑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "日韩涨我们跌，走势不明。",
+      "A股俯冲，外围不振。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "从中秋跌到重阳，用户亏损40%，情感悲伤。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "跌幅大，从中秋到现在-20点。",
+      "午睡起来变绿，市场荒谬。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "明天休市，用户准备哀嚎或清仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "明天休市，情绪仍低落。",
+      "一键清仓，等市场反转。",
+      "被反复殴打，心态崩溃。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "加息预期下外围涨A股跌，用户不满。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "外围涨我们跌，西升东落。",
+      "还在加息周期，影响市场。",
+      "只有A股不涨。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "尾盘V型保3700点，完成指标。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "尾盘V保3700，指标完成。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "全盘皆绿，用户不解下跌原因。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "全绿原因不明，可能被小作文。",
+      "冲高就跑，别幻想反转。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "T+0操作方便，可及时跑路避免亏损。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "T+0形势不妙直接跑。",
+      "亏点手续费无所谓，避免被闷杀。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "感谢银行拉升，维持指数红盘，讽刺面子工程。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "银行拉升，指数虚假红盘。",
+      "面子工程，实际不改颓势。"
+    ],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 39,
+    "summary": "江淮汽车逆势拉红，用户讨论公关和投资逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "江淮汽车在下跌中拉红。",
+      "公关手段教科书式。",
+      "高端用户粘性强。"
+    ],
+    "mentioned_stocks": ["江淮汽车", "赛力斯", "比亚迪"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论大唐发电和煤炭价格，用户情感复杂。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大唐发电股价与动力煤价格相关。",
+      "煤炭已反弹，股价对应涨幅。",
+      "电力股被嫌垃圾。"
+    ],
+    "mentioned_stocks": ["大唐发电"]
+  },
+  {
+    "index": 41,
+    "summary": "盲猜尾盘拉3700秀实力，讽刺国家队。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "狗队尾盘拉指数秀实力。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "股市像内帑，割韭菜兼救市，情感负面。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股市当内帑，以割兼救。",
+      "先苦一苦股民，骂名他人担。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "尾盘V型钩，用户讽刺还得感谢国家队。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "尾盘V钩，还得感谢国家队。",
+      "守住了3700点。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "需要长颈鹿救市，用户顶不住下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "需要长颈鹿象征救市。",
+      "跌到3500才会喘气。",
+      "情绪崩溃，寻求帮助。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "周末少去人多地方，情绪可能爆发。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "情绪要爆发，献祭老冯。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "主播破防，市场恶意暴露，情感负面。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "主播从喊妈妈队变为狗队。",
+      "市场恶意逐渐暴露。",
+      "炒股人直面恶意，不被理解。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "质疑救市幻想，狗队可能只在做T赚钱。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "狗队做T非救市，借消息出货。",
+      "散户一厢情愿解读救市。",
+      "ETF爆量可能对敲。"
+    ],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 48,
+    "summary": "狗队拉银行，用户质疑原因和影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "狗队拉银行，装都不装。",
+      "可能境外势力搅乱市场。",
+      "银行是核心资产，但拉偏指数。"
+    ],
+    "mentioned_stocks": ["银行"]
+  }
+]
