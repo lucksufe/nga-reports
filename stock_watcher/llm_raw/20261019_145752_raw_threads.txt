@@ -1,0 +1,289 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论算电楼容易被爆破，用户回复股票代码002579后帖子被删。",
+    "sentiment": "negative",
+    "key_opinions": ["算电楼容易被爆破", "可能因提敏感词导致", "质疑回复股票代码引发问题"],
+    "mentioned_stocks": ["002579"]
+  },
+  {
+    "index": 2,
+    "summary": "华海清科表现差，类似药明康德半导体版，用户称杀人。",
+    "sentiment": "negative",
+    "key_opinions": ["华海清科表现差", "与药明康德比较", "用户呼吁救命"],
+    "mentioned_stocks": ["华海清科", "药明康德"]
+  },
+  {
+    "index": 3,
+    "summary": "红利股高位有诱盘味道，用户建议不要追高，持现金观望。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股处于高位", "性价比低建议持现金", "有接盘味道"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "国泰纳指ETF溢价20个点，用户惊讶谁在高溢价买入。",
+    "sentiment": "mixed",
+    "key_opinions": ["溢价20个点太高", "可能因不信任A股市场", "买入者锁仓导致溢价"],
+    "mentioned_stocks": ["国泰纳指ETF"]
+  },
+  {
+    "index": 5,
+    "summary": "缩量上涨可能骗炮，银行拉高掩盖市场疲软，建议等放量。",
+    "sentiment": "negative",
+    "key_opinions": ["缩量上涨可能骗炮", "银行拉高掩盖疲软", "等放量再入场"],
+    "mentioned_stocks": ["银行ETF"]
+  },
+  {
+    "index": 6,
+    "summary": "用户困惑周末负面消息但周一大阳线，看不懂市场走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场与预期不符", "参考外部指数表现", "持仓仍是绿的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "建议买入银行股等国家队抬轿，认为银行相对安全有股息。",
+    "sentiment": "positive",
+    "key_opinions": ["银行死大盘死但银行不一定死", "国家队会保指数", "银行股息高"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论生益科技、德明利、亨通光电走势，用户做T成功但担忧。",
+    "sentiment": "mixed",
+    "key_opinions": ["股票在板块内坚挺", "做T策略有效", "预测后续走势"],
+    "mentioned_stocks": ["生益科技", "德明利", "亨通光电"]
+  },
+  {
+    "index": 9,
+    "summary": "第五黄金宗挂牌，讨论黄金走势和CPI数据影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金市场博弈", "关注CPI数据", "波动风险"],
+    "mentioned_stocks": ["黄金ETF"]
+  },
+  {
+    "index": 10,
+    "summary": "机器人ETF和宇树科技大涨，原因不明可能被动建仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["机器人ETF大涨", "可能被动建仓或触底反弹", "板块机会讨论"],
+    "mentioned_stocks": ["机器人ETF", "宇树科技"]
+  },
+  {
+    "index": 11,
+    "summary": "银行上涨但资金不想给科技解套，分析宏观因素。",
+    "sentiment": "negative",
+    "key_opinions": ["银行上涨但资金不流科技", "科技股难解套", "宏观因素影响"],
+    "mentioned_stocks": ["银行", "科技股"]
+  },
+  {
+    "index": 12,
+    "summary": "鼓励买入宇树科技但有人警告害人，要信早信。",
+    "sentiment": "mixed",
+    "key_opinions": ["要信早信", "宇树科技机会", "风险警告"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 13,
+    "summary": "黄金股突然大涨，讨论筑底和宏观因素影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金股起爆", "筑底一星期", "可能受宏观因素影响"],
+    "mentioned_stocks": ["黄金股", "紫金矿业"]
+  },
+  {
+    "index": 14,
+    "summary": "用户认为今天是科技右侧买点，但有人质疑需更多确认。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技短期底部", "需要更多确认", "风险较高"],
+    "mentioned_stocks": ["科技股", "PCB", "铁盒"]
+  },
+  {
+    "index": 15,
+    "summary": "银行越来越像6月科技，担忧银行在历史高位可能回调。",
+    "sentiment": "negative",
+    "key_opinions": ["银行在历史高位", "像科技股一样可能暴跌", "资金涌入避险"],
+    "mentioned_stocks": ["银行股", "农业银行"]
+  },
+  {
+    "index": 16,
+    "summary": "宇树要涨停了，讨论涨幅大和筹码游戏不温和。",
+    "sentiment": "mixed",
+    "key_opinions": ["宇树涨幅大", "筹码游戏厉害", "走势不温和"],
+    "mentioned_stocks": ["宇树科技", "旭创"]
+  },
+  {
+    "index": 17,
+    "summary": "纳指科技ETF溢价40%，ETF溢价高抱怨市场异常。",
+    "sentiment": "negative",
+    "key_opinions": ["溢价40%太高", "国内投资者被逼", "流动性问题"],
+    "mentioned_stocks": ["纳指科技ETF"]
+  },
+  {
+    "index": 18,
+    "summary": "植物人ETF（机器人ETF）下跌后反弹，用户讨论波动大。",
+    "sentiment": "mixed",
+    "key_opinions": ["植物人ETF波动大", "从盈利到亏损", "机器人板块消息"],
+    "mentioned_stocks": ["植物人ETF", "机器人ETF"]
+  },
+  {
+    "index": 19,
+    "summary": "纳斯达克连日暴跌，加息预期引发崩溃，用户调侃。",
+    "sentiment": "negative",
+    "key_opinions": ["美股暴跌", "加息预期影响", "用户期待救市"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 20,
+    "summary": "警告银行股高位有诱多风险，建议早信买机器人。",
+    "sentiment": "negative",
+    "key_opinions": ["银行股虚高", "诱多风险", "机器人机会"],
+    "mentioned_stocks": ["银行股", "机器人ETF"]
+  },
+  {
+    "index": 21,
+    "summary": "警告银行股高位有诱多风险，建议早信买机器人（重复帖子）。",
+    "sentiment": "negative",
+    "key_opinions": ["银行股虚高", "诱多风险", "机器人机会"],
+    "mentioned_stocks": ["银行股", "机器人ETF"]
+  },
+  {
+    "index": 22,
+    "summary": "用户喊抓人表达不满，大盘红但散户亏。",
+    "sentiment": "negative",
+    "key_opinions": ["市场下跌导致亏损", "要求监管介入", "大盘红但散户亏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "预期全面反攻，用户兴奋但有人怀疑带节奏。",
+    "sentiment": "mixed",
+    "key_opinions": ["预期反攻", "鼓励坐稳", "有人怀疑带节奏"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 24,
+    "summary": "观测到百亚股份，用户询问但警告可能是顶部。",
+    "sentiment": "negative",
+    "key_opinions": ["观测到股票可能已是顶部", "高换手风险", "短期投机"],
+    "mentioned_stocks": ["百亚股份"]
+  },
+  {
+    "index": 25,
+    "summary": "银行越来越强，讨论套利和国家队护盘行为。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行上涨可能护盘", "资金套利", "国家队策略"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 26,
+    "summary": "创业板跌幅接近15年暴跌，比较历史走势可能反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板跌幅大", "类似15年暴跌", "可能反弹"],
+    "mentioned_stocks": ["创业板指数"]
+  },
+  {
+    "index": 27,
+    "summary": "德明利和亨通光电封板，讨论科技可能反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["熊头股触底", "科技可能反弹", "短期机会"],
+    "mentioned_stocks": ["德明利", "亨通光电"]
+  },
+  {
+    "index": 28,
+    "summary": "黄金股大涨，讨论黄金ETF机会和波动风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金股大涨", "ETF机会", "波动风险"],
+    "mentioned_stocks": ["黄金ETF", "黄金股"]
+  },
+  {
+    "index": 29,
+    "summary": "用户简短表达矛盾信号，牛来加仓和快跑清仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场信号矛盾", "建议谨慎", "心态波动"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "电解铝龙头分红高，讨论宏桥控股等配置和仓位控制。",
+    "sentiment": "positive",
+    "key_opinions": ["电解铝龙头分红高", "配置建议", "仓位控制"],
+    "mentioned_stocks": ["宏桥控股", "电投能源", "云铝股份", "神火股份"]
+  },
+  {
+    "index": 31,
+    "summary": "买红利ETF还是自己组，比较优缺点和当前时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["ETF方便但无法打新", "自己组更灵活", "当前别买"],
+    "mentioned_stocks": ["红利ETF", "红利低波ETF"]
+  },
+  {
+    "index": 32,
+    "summary": "感谢拉大普微的资金，涨停20cm关注龙虎榜。",
+    "sentiment": "positive",
+    "key_opinions": ["大普微涨停", "勇士行为", "关注龙虎榜"],
+    "mentioned_stocks": ["大普微"]
+  },
+  {
+    "index": 33,
+    "summary": "用户亏损严重，讨论割肉和长期价值投资。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重", "恐慌割肉", "长期价值投资"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论A股引入T+0等机制，对散户不利风险增加。",
+    "sentiment": "negative",
+    "key_opinions": ["机制改变对散户不利", "高频量化优势", "风险增加"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论抠门攒钱和财富自由，强调节省和投资增值。",
+    "sentiment": "mixed",
+    "key_opinions": ["抠门攒钱", "财富自由靠节省", "投资增值"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "分享红利股投资经验，强调稳定分红和现金流。",
+    "sentiment": "positive",
+    "key_opinions": ["选行业龙头", "关注现金流", "红利股长期投资"],
+    "mentioned_stocks": ["长江电力", "中国移动"]
+  },
+  {
+    "index": 37,
+    "summary": "银行避险能拉几天，行情垃圾建议空仓。",
+    "sentiment": "negative",
+    "key_opinions": ["银行避险", "行情垃圾", "建议空仓"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 38,
+    "summary": "银行用AI严控消费贷进股市，散户反应不一。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行监控贷款用途", "消费贷进股市风险", "散户反应"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "用户计划卖房炒股，分享投资理念但矛盾。",
+    "sentiment": "mixed",
+    "key_opinions": ["卖房投资股市", "理智但矛盾", "建议定投"],
+    "mentioned_stocks": ["美股", "红利", "科技"]
+  },
+  {
+    "index": 40,
+    "summary": "国家队不救科技股，散户套牢失望。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股不被救", "散户套牢", "国家队只救指数"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 41,
+    "summary": "分享T+0策略不持仓过夜，跟随大盘或逆子。",
+    "sentiment": "positive",
+    "key_opinions": ["T+0避免风险", "跟随大盘或逆子", "成交量重要"],
+    "mentioned_stocks": ["中韩ETF", "中概互联", "港股创新药", "原油", "黄金", "纳指"]
+  }
+]
