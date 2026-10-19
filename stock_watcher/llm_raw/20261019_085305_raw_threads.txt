@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论用成语概括今年股市表现，回复普遍消极。",
+    "sentiment": "negative",
+    "key_opinions": ["市场表现如“一泻千里”、“生不如死”。", "个人投资者收益分化，有人战胜多数。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论欧盟对华贸易限制，观点分裂。",
+    "sentiment": "mixed",
+    "key_opinions": ["欧盟政策由美国代理人主导，影响力有限。", "欧盟内部分化，可采取拉拢分化策略。", "产能过剩与消费不足导致出口依赖无解。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论高盛唱空AI硬件，网友多认为其是反指。",
+    "sentiment": "mixed",
+    "key_opinions": ["高盛观点常被视为反向指标，可考虑抄底。", "高盛此前对中概股预测失败，信誉受损。", "科技股下跌可能基于现实逻辑。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "询问药明康德后市走势，散户对短线方向迷茫。",
+    "sentiment": "negative",
+    "key_opinions": ["下跌主因是市场流动性紧缺。", "对业绩报告传闻存疑，技术结构已破坏。", "量化资金可能在反弹时进行收割。"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 5,
+    "summary": "分享价值投资实盘，重仓火电股引发周期性质疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["火电股估值逻辑可能从周期股转向公用事业。", "火电行业面临亏损、成本上涨等现实困境。", "有实盘支持，但行业周期性过强。"],
+    "mentioned_stocks": ["火电股"]
+  },
+  {
+    "index": 6,
+    "summary": "分析原油暴跌、纳指期货上涨对亚洲股市影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["日韩股市跌幅收窄，可能预示反转。", "开盘走势是关键，可能低开高走或继续下杀。", "“总熊头”（可能指美联储）开盘影响重大。"],
+    "mentioned_stocks": ["日经指数", "首尔指数", "原油"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论科技股高价减持问题，归因于散户抬轿。",
+    "sentiment": "negative",
+    "key_opinions": ["股价暴涨是“家人们”（散户）一手买上去的。", "反驳：散户资金规模有限，无法主导股价。", "游资、产业链、基金可能是推手。"],
+    "mentioned_stocks": ["源杰"]
+  },
+  {
+    "index": 8,
+    "summary": "预测周一大盘低开，看法不一。",
+    "sentiment": "mixed",
+    "key_opinions": ["根据韩日走势，预计沪指低开1%。", "因外围反弹，可能平开或低开幅度收窄。", "周末情绪悲观，开盘可能顺势下杀。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论某论坛帖子（“算电楼”）易被审核删除。",
+    "sentiment": "negative",
+    "key_opinions": ["帖子内容可能涉及敏感词（如股票代码）。", "论坛审核机制严格且难以捉摸。", "有回复显示“审核未通过”。"],
+    "mentioned_stocks": ["高争民爆"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论电费涨价预期及利好企业。",
+    "sentiment": "mixed",
+    "key_opinions": ["山东换电表是涨价信号，可能全国推行。", "直接利好发电企业如大唐发电。", "也利好智能电表相关企业。"],
+    "mentioned_stocks": ["大唐发电", "海兴电力", "三星电力"]
+  },
+  {
+    "index": 11,
+    "summary": "询问持有的行业ETF能否回本。",
+    "sentiment": "negative",
+    "key_opinions": ["宽基指数ETF回本可能性较大。", "行业ETF回本取决于行业兴衰，无必然保证。", "指数ETF名义收益可能为正，但跑不赢债基。"],
+    "mentioned_stocks": ["科创50ETF", "创业板50ETF", "半导体ETF", "通信ETF", "半导体设备ETF", "沪深300ETF"]
+  },
+  {
+    "index": 12,
+    "summary": "探讨通过节俭积累财富并实现财务自由的方法。",
+    "sentiment": "mixed",
+    "key_opinions": ["通缩阶段应攒钱，等待低价购买优质资产。", "在当前环境下，消费本身可能是一种抄底。", "财富自由依赖于持续识别优质资产，难度极高。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论太辰光及光模块板块走势。",
+    "sentiment": "negative",
+    "key_opinions": ["光模块反弹时，太辰光常率先拉升。", "但整个科技板块处于补跌轮动阶段。", "无源光器件也开始补跌，风险扩散。"],
+    "mentioned_stocks": ["太辰光", "蘅东光"]
+  },
+  {
+    "index": 14,
+    "summary": "评论韩国市场韧性，未如预期大跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["未熔断超预期，跌幅可能收窄。", "市场表现“小A化”（像A股）。", "猜测可能在等待A股开盘方向。"],
+    "mentioned_stocks": ["韩国指数"]
+  },
+  {
+    "index": 15,
+    "summary": "咨询长期持有四大行、运营商等红利股建议。",
+    "sentiment": "mixed",
+    "key_opinions": ["新手应从红利低波ETF开始，降低风险。", "四大行长期持有胜率较高。", "目前多数标的估值较高，中国平安位置相对较低。"],
+    "mentioned_stocks": ["四大行", "三大运营商", "广电网络", "中国平安", "红利低波ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "质疑法国在自身困境下发起贸易冲突的合理性。",
+    "sentiment": "negative",
+    "key_opinions": ["欧盟为转移内部矛盾或挽救制造业而采取行动。", "欧洲可能面临大战前夕的紧张感。", "行动可能找不到有效出路，导致共同崩溃。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "询问如何把握“最后一跌”进行抄底。",
+    "sentiment": "negative",
+    "key_opinions": ["“最后一跌”没有明确标准，难以把握。", "试图精准抄底常失败，更稳妥是等待趋势确立。", "能抄到底的人更多是靠运气。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论日经指数跌幅大于韩国指数的原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能与存储芯片行业见底有关。", "低开过多后，日内反转拉红也不奇怪。"],
+    "mentioned_stocks": ["存储芯片"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论中国制裁ASML供应商的后续影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["欧盟希望通过解除对中企制裁来换取中方解禁。", "此举可能利好国内半导体设备供应商。", "也可能利好中国稀土等上游资源。"],
+    "mentioned_stocks": ["ASML"]
+  },
+  {
+    "index": 20,
+    "summary": "疑问为何论坛少有美股具体交易讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股投资常在其他专业平台讨论。", "对于普通投资者，买入并持有标普500指数是主流建议。", "能长期盈利者无需在论坛公开讨论。"],
+    "mentioned_stocks": ["标普500指数基金"]
+  },
+  {
+    "index": 21,
+    "summary": "分享个人红利股投资经验与心得。",
+    "sentiment": "positive",
+    "key_opinions": ["投资应看重长期稳定盈利和高分红。", "拥有强劲经营性现金流的公司是理想标的。", "红利指数近期大涨，引发关注。"],
+    "mentioned_stocks": ["长江电力", "中国移动"]
+  },
+  {
+    "index": 22,
+    "summary": "评论中信证券“调整接近尾声”的研报。",
+    "sentiment": "negative",
+    "key_opinions": ["市场对券商研报持怀疑和调侃态度。", "认为救市措施可能进入新阶段。", "底部层层叠加，难以判断真正位置。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "根据纳指期货高开、原油下跌预测A股高开。",
+    "sentiment": "mixed",
+    "key_opinions": ["外围利好可能带动A股高开。", "但质疑其可持续性，认为可能是假反弹。", "提及“牛回速归”等情绪化口号。"],
+    "mentioned_stocks": ["纳指期货"]
+  },
+  {
+    "index": 24,
+    "summary": "担忧周一科技板块继续下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股前景堪忧，基本面支持不足。", "已对科技反弹彻底失去信心。", "走势取决于夜间美股表现。"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 25,
+    "summary": "将熊市视为锻炼投资能力的时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["熊市是历练交易体系的好机会。", "被套牢者难以操作。", "当前处于牛转熊的恐怖阶段。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "分析市场情绪与反弹预期。",
+    "sentiment": "negative",
+    "key_opinions": ["市场观点取决于持仓位置，而非逻辑。", "“每多跌一天，反弹概率越大”是自我安慰。", "当普遍预期反弹时，反弹往往不会来。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "讨论法国社会动乱可能利好的板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["动乱可能利好安防、基建、军工板块。", "网友进行文字游戏式炒作（如法拉电子）。", "对动乱持续性存疑。"],
+    "mentioned_stocks": ["海康威视", "法拉电子", "法尔胜", "法狮龙"]
+  },
+  {
+    "index": 28,
+    "summary": "报道险企三季度可能因权益市场波动而亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["险企权益投资面临巨大亏损压力。", "有观点认为这可能是“黄金坑”的机会。", "担忧中国平安再次“踩坑”。"],
+    "mentioned_stocks": ["平安"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论半导体行业公司回购的利好。",
+    "sentiment": "negative",
+    "key_opinions": ["回购规模小，且未计划注销，作用有限。", "认为是“吹喇叭”（喊口号），无实质作用。", "半导体板块可能成为科技反弹先锋。"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论美股若继续暴跌后是否是抄底机会。",
+    "sentiment": "negative",
+    "key_opinions": ["真跌出“黄金坑”时，多数人反而不敢买。", "美股历史上深度回调后往往快速反弹。", "目前定投美股需克服心理恐惧。"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 31,
+    "summary": "因周末利空消息预测明日股市大跌。",
+    "sentiment": "negative",
+    "key_opinions": ["预计开盘低开，且可能无法收回。", "有传言称机构为“黑色星期一”做准备。", "情绪恐慌，认为可能大跌。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "询问明日低开后抄底哪个板块为宜。",
+    "sentiment": "negative",
+    "key_opinions": ["分析PCB、光模块、存储、液冷等板块，均不看好。", "建议不要轻易抄底。", "认为大盘可能跌破关键点位。"],
+    "mentioned_stocks": ["PCB", "光模块", "存储", "液冷", "杭电远东", "东山"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论熊市应空仓还是持有红利股。",
+    "sentiment": "mixed",
+    "key_opinions": ["多数认为熊市应空仓，因没有避险板块。", "有观点认为可逢低布局低位的啤酒等消费股。", "红利股已处高位，现在进场风险大。"],
+    "mentioned_stocks": ["红利低波", "啤酒股"]
+  },
+  {
+    "index": 34,
+    "summary": "不明所以的闲聊，提及特定网友和论坛内容。",
+    "sentiment": "mixed",
+    "key_opinions": ["讨论论坛特定用户（“直抒胸臆的大哥”）。", "话题转向足球等无关内容。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "怀念论坛特定梗（“三个香港人”），附情绪图。",
+    "sentiment": "mixed",
+    "key_opinions": ["该梗可能被视为市场情绪的反向指标。", "讨论其出现或消失代表市场情绪变化。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "担忧A股能否守住3674点关键位置。",
+    "sentiment": "negative",
+    "key_opinions": ["费城半导体指数大跌，预示科技股不妙。", "科技股陷入“死亡螺旋”，可能拖累大盘。", "希望美股反弹能带来支撑。"],
+    "mentioned_stocks": ["费半指数"]
+  },
+  {
+    "index": 37,
+    "summary": "探讨本轮调整是否已见底。",
+    "sentiment": "mixed",
+    "key_opinions": ["底部信号不明确，可能通过权重科技股放量上涨确认。", "认为纳指尚未正式回调，危机未全面爆发。", "当前是越跌越买的长线布局时机。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "对科技股暗盘暴跌后又拉升现象的疑惑。",
+    "sentiment": "mixed",
+    "key_opinions": ["暗盘波动大，参考价值有限，等开盘确认。", "可能由特定平台（如某安）流动性问题导致。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "通过图表分析沪深300与债基指数的关系。",
+    "sentiment": "negative",
+    "key_opinions": ["指数长期看可能回归，但个股难回本。", "当前处于“山腰”位置，仍有下跌空间。", "此类历史回测指标意义有限。"],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 40,
+    "summary": "重建电解铝板块讨论帖，列举相关个股。",
+    "sentiment": "mixed",
+    "key_opinions": ["电解铝龙头宏桥控股分红方案需待验证。", "建议分散配置多家电解铝公司。", "提醒注意仓位控制。"],
+    "mentioned_stocks": ["宏桥控股", "电投能源", "云铝股份", "神火股份"]
+  },
+  {
+    "index": 41,
+    "summary": "根据暗盘油价和存储股走势预测韩国市场。",
+    "sentiment": "negative",
+    "key_opinions": ["暗盘波动大，有插针现象，需看开盘实价。", "存储股（如海力士）在盘后继续下跌。", "油价暗盘波动不明显。"],
+    "mentioned_stocks": ["海力士", "美光"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论大金重工等风电股的后市走势。",
+    "sentiment": "negative",
+    "key_opinions": ["石油上涨理论上利好风电替代预期。", "但情绪底难测，且受海外贸易冲突牵连。", "大盘环境差，建议空仓。"],
+    "mentioned_stocks": ["大金重工", "天顺风能"]
+  },
+  {
+    "index": 43,
+    "summary": "发布A股指数投资的滚动窗口分析文章。",
+    "sentiment": "mixed",
+    "key_opinions": ["对沪深300、中证500、红利低波指数进行量化分析。", "结论为投资参考。"],
+    "mentioned_stocks": ["沪深300", "中证500", "红利低波"]
+  },
+  {
+    "index": 44,
+    "summary": "询问布伦特原油突然暴涨的原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["主因是美国议员提案禁止进口俄罗斯柴油。", "同时叠加伊朗袭击油船等地缘政治风险。", "原油涨价与油运股下跌的背离令人费解。"],
+    "mentioned_stocks": ["布伦特原油"]
+  },
+  {
+    "index": 45,
+    "summary": "分享从零开始的红利股投资心得长文。",
+    "sentiment": "positive",
+    "key_opinions": ["强调股票本质是公司股权，看重分红权利。", "红利股具有稳定、高分红、现金流好等特点。", "认为分红复利是长期投资的核心。"],
+    "mentioned_stocks": ["银行股", "水电股"]
+  },
+  {
+    "index": 46,
+    "summary": "回顾历史行情，讨论未来5-10年值得持有的行业。",
+    "sentiment": "mixed",
+    "key_opinions": ["时代造就英雄，当前AI、机器人是热点。", "人口暴跌下，养老、康养赛道可能有机会。", "无人能准确预测未来，关键在于信仰与持有。"],
+    "mentioned_stocks": ["腾讯", "北新建材", "东方雨虹", "三一重工"]
+  },
+  {
+    "index": 47,
+    "summary": "分享卖房炒股的决定及投资理念。",
+    "sentiment": "positive",
+    "key_opinions": ["计划将卖房资金投入股市，践行价值投资。", "建议坚守自己的投资体系（如红利），不眼红他人。", "提及可定投纳指作为补充。"],
+    "mentioned_stocks": ["红利股", "纳指"]
+  },
+  {
+    "index": 48,
+    "summary": "建立缠论技术分析交流帖，记录交易。",
+    "sentiment": "mixed",
+    "key_opinions": ["缠论是复杂的技术分析流派，需长期学习实践。", "旨在通过复盘形成适合自己的交易体系。", "有观点质疑其是否已过时。"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "比较红利低波与宽基指数基金的编制逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利低波的编制规则更利于散户赚钱。", "红利低波底层资产赚钱效应强。", "但也有人担忧经济下行期其表现。"],
+    "mentioned_stocks": ["红利低波ETF", "宽基ETF"]
+  },
+  {
+    "index": 50,
+    "summary": "闲聊内幕消息，分享一个搞笑往事。",
+    "sentiment": "mixed",
+    "key_opinions": ["分享通过公司内部人士获得数据的经历。", "即使获得信息，也需要自己分析且敢于行动。", "未成功利用该信息投资。"],
+    "mentioned_stocks": ["掌趣"]
+  }
+]
