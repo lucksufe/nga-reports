@@ -1,0 +1,448 @@
+[
+  {
+    "index": 1,
+    "summary": "德明利和亨通光电涨停引发科技股反弹讨论，但回复多质疑是否真正反转。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技回来不会拉垃圾股如德明利",
+      "涨停没封住，可能跳水",
+      "拉高可能是为了出货"
+    ],
+    "mentioned_stocks": ["德明利", "亨通光电", "兆易", "长鑫"]
+  },
+  {
+    "index": 2,
+    "summary": "投资者怀疑股市上涨是陷阱，GDP利好后反攻不持久。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "当当不一样，以为反攻结果挂树上",
+      "下午不太乐观",
+      "GDP利好但反攻乏力"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "满仓创业板后被套，投资者亏损并讨论操作策略。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "持续不了，银行还在拉",
+      "满仓胆子太大，应分批买",
+      "下跌通道满仓不明智"
+    ],
+    "mentioned_stocks": ["创业板", "宇树科技"]
+  },
+  {
+    "index": 4,
+    "summary": "宁德时代股价跌破270，讨论是否值得关注及风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跌破270引发观测",
+      "担心黑天鹅风险",
+      "等到前高点腰斩230再考虑"
+    ],
+    "mentioned_stocks": ["宁德时代", "中际旭创"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论大普微是否庄股及涨停可能性，有人提到内幕消息。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市值大但流通盘小，机构在内",
+      "可能明牌有内幕消息",
+      "封单减少，担心下跌"
+    ],
+    "mentioned_stocks": ["大普微", "德明利", "存储"]
+  },
+  {
+    "index": 6,
+    "summary": "对股市全面反攻的预测持嘲讽态度，认为不现实。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "来了来了（讽刺乐观预测）",
+      "上周五下跌就被遗忘",
+      "带节奏的发帖员"
+    ],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 7,
+    "summary": "市场骗术，指数拉红但实际欺骗投资者。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "指数拉红是骗炮",
+      "量放出来诱多"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "创业板指数波动，讨论与韩国指数关系及做T行为。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "别t了，熊市还做T",
+      "双创和出生队关系不大",
+      "创业板带韩国是误解"
+    ],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论纳指是否见底及定投策略，有建议有警告。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "定投纳指可无视下跌风险",
+      "最大风险是等见底",
+      "能拿十年就随时可投"
+    ],
+    "mentioned_stocks": ["纳指", "纳指etf"]
+  },
+  {
+    "index": 10,
+    "summary": "批评机构拉小盘次新股套利行为。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "拉流通盘小的次新科技套利恶心",
+      "没跟着大跌就偷着乐"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "讨论卖房炒股的计划，有支持有谨慎建议。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "尊重祝福个人选择",
+      "不建议把卖房炒股连起来",
+      "看上去理智但投大A不理智"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "讨论保险板块是否利空出尽，有疑问和分析。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "险资接盘科技股预期保险暴跌但红了",
+      "财报出来还有一波情绪杀",
+      "预期国庆前已跌过"
+    ],
+    "mentioned_stocks": ["保险板块"]
+  },
+  {
+    "index": 13,
+    "summary": "描述股市低开高走后下午砸盘的反复模式，投资者被套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "经典剧本已发生三次",
+      "这次不一样但炸板了",
+      "同样剧本每次都能骗到人"
+    ],
+    "mentioned_stocks": ["德子"]
+  },
+  {
+    "index": 14,
+    "summary": "论坛帖子易被爆破，可能因提敏感词或股票代码。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "算电楼容易被爆",
+      "可能因提了股票代码002579",
+      "超短那边甩图也没被爆"
+    ],
+    "mentioned_stocks": ["002579"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论纳指ETF高溢价问题，投资者情绪高涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "场内纳指etf溢价高",
+      "10%溢价可能是最低点",
+      "国内投资者被逼入困境"
+    ],
+    "mentioned_stocks": ["纳指科技ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "德明利涨停是否预示科技股反弹，有希望有质疑。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能是止跌信号",
+      "8月初科技反弹德明利先涨停",
+      "尾盘炸板强度不足"
+    ],
+    "mentioned_stocks": ["德明利", "中际", "长鑫", "兆易", "长飞"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论提前布局羊年生肖股，有玩笑有批评。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "必有炒生肖的好吧",
+      "已经炒过2轮了",
+      "别人快到尾声了才想起来"
+    ],
+    "mentioned_stocks": ["九阳", "百洋", "三羊马", "阳光乳业", "澳洋", "天洋", "海洋王", "七匹狼"]
+  },
+  {
+    "index": 18,
+    "summary": "分享电解铝板块投资策略和分红预期。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "宏桥分红验牌失败需年报验证",
+      "电解铝ETF配置策略",
+      "仓位控制重要性"
+    ],
+    "mentioned_stocks": ["宏桥控股", "电投能源", "云铝股份", "神火股份"]
+  },
+  {
+    "index": 19,
+    "summary": "抱怨指数涨但个股被做T，市场操纵明显。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "指数涨个股被做T",
+      "指数跌个股被监视"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论机构行为，散户不买让机构先拿筹码。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大家千万别买",
+      "拉是因为散户不抄底",
+      "机构自己吃腐肉"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "质疑低空经济政策矛盾，曾被禁止现又炒作。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "低空经济十年前就提过又炒冷饭",
+      "京城不让飞还有什么经济",
+      "大A看外围缺乏核心资产"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "存储股翻红但质疑是死猫跳，出货痕迹明显。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "存储纯跌不动了",
+      "感觉是死猫跳",
+      "拉高瞬间出货痕迹明显"
+    ],
+    "mentioned_stocks": ["存储", "长鑫", "兆易"]
+  },
+  {
+    "index": 23,
+    "summary": "通讯设备大涨，讨论是否诱多或反攻信号。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "千亿市值直接涨停可能是诱多",
+      "包的是死猫跳",
+      "或是光反攻号角"
+    ],
+    "mentioned_stocks": ["通讯设备ETF"]
+  },
+  {
+    "index": 24,
+    "summary": "抱怨权重股拖累创业板，上涨时不带动小票。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "达链的狗凭什么权重创业板",
+      "涨时带动不了小票",
+      "跌时却带动了"
+    ],
+    "mentioned_stocks": ["中大哥", "小新", "时证光"]
+  },
+  {
+    "index": 25,
+    "summary": "建议上证指数3200点左右抄底，基于数据比较。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "推算目标点位3200",
+      "理论来源于文章分析",
+      "画线党难以信服"
+    ],
+    "mentioned_stocks": ["沪深300", "上证指数"]
+  },
+  {
+    "index": 26,
+    "summary": "生益科技大涨引发关注，讨论前景。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "德子亨通都涨停了",
+      "前景如何"
+    ],
+    "mentioned_stocks": ["生益科技", "德子", "亨通"]
+  },
+  {
+    "index": 27,
+    "summary": "科技股有抄底迹象，投资者卖飞后悔。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上周五偷偷买回来了",
+      "科技普反了",
+      "卖飞人集合"
+    ],
+    "mentioned_stocks": ["亨通", "普冉", "新易盛", "胜宏", "沪电"]
+  },
+  {
+    "index": 28,
+    "summary": "模拟盘买了涨停股，实盘未操作，遗憾。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "模拟盘买了德明利和亨通涨停",
+      "实盘没买"
+    ],
+    "mentioned_stocks": ["德明利", "亨通"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论炒股反人性，价格下跌但逻辑不变。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "价格下跌但周期和逻辑没变",
+      "对抗人性很难",
+      "下跌想跑路但上涨想梭哈"
+    ],
+    "mentioned_stocks": ["中大哥", "德名利", "赵姨"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论全球市场联动，原油暴跌但纳指期货涨。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩国日本跌幅收窄",
+      "总熊头开盘再看看",
+      "原油暴跌但价格仍高"
+    ],
+    "mentioned_stocks": ["原油", "纳斯达克期货", "日经", "首尔指数"]
+  },
+  {
+    "index": 31,
+    "summary": "PCB板块反弹，有人做T成功。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "成功做t",
+      "港股解禁是利空因素",
+      "DPW涨停带动DML"
+    ],
+    "mentioned_stocks": ["PCB", "败绿", "DPW", "DML"]
+  },
+  {
+    "index": 32,
+    "summary": "白酒放量上涨，剑指3700点。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "新贵归宿老登股",
+      "大盘红了",
+      "白酒跌了几年了"
+    ],
+    "mentioned_stocks": ["白酒"]
+  },
+  {
+    "index": 33,
+    "summary": "再次讨论炒股反人性，出货均价问题。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "操盘出货均价在20块",
+      "K线锚点刻在心里",
+      "不接下"
+    ],
+    "mentioned_stocks": ["德子", "亨通"]
+  },
+  {
+    "index": 34,
+    "summary": "科创50指数拉升，寒武纪带头。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "寒武纪带头拉直线",
+      "实际上已经股灾了",
+      "最后的入场机会"
+    ],
+    "mentioned_stocks": ["寒武纪", "海光", "姚明"]
+  },
+  {
+    "index": 35,
+    "summary": "上证指数红了但个股下跌，嘲讽国家队行为。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "以前大阳改三观现在翻红改三观",
+      "指数红钱不见了",
+      "拉银保证酒掩盖下跌"
+    ],
+    "mentioned_stocks": ["银保证酒"]
+  },
+  {
+    "index": 36,
+    "summary": "分享福晶科技投资操作，博反弹。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "B点在5日线上",
+      "等个-8概念",
+      "高点下来30个点博反弹"
+    ],
+    "mentioned_stocks": ["福晶科技", "崇达技术"]
+  },
+  {
+    "index": 37,
+    "summary": "抱怨国家队控盘，指数稳但个股跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "3700纹丝不动",
+      "大多数股直冲地板",
+      "拉指数有意义吗"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "讨论黄金宗论坛内容及市场数据披露。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "市场博弈数据披露",
+      "周四CPI重要",
+      "黄金宗帖子容易被爆"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 39,
+    "summary": "抱怨指数拉上去但钱没了，操盘有问题。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "指数红钱没了",
+      "下午如果还红快跑",
+      "指数红是咱们菜"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "长鑫股价下跌至41元，有人想抄底。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "卖房allin抄底",
+      "真想抄底",
+      "存储早该死了"
+    ],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论国家队不救科技股，散户被套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "挂树上的散户不救",
+      "等3-5年解套",
+      "救了散户谁救国家队"
+    ],
+    "mentioned_stocks": ["科技股"]
+  }
+]
