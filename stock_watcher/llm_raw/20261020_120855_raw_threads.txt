@@ -1,0 +1,481 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论宇树公司困境反转可能性，涉及机器人题材、财报验证和市场炒作。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "建议等三季报验证。",
+      "短期底部和机器人题材带来话题性。",
+      "移远财报超预期暗示下游需求旺盛。"
+    ],
+    "mentioned_stocks": ["宇树", "移远"]
+  },
+  {
+    "index": 2,
+    "summary": "用户中彩票后计划用奖金加仓股票，引发讨论。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "中彩票后加仓股票。",
+      "截图彩票验证真实性。",
+      "对冲股票亏损的策略。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "预测下午股市跳水，讨论科技回暖和银行板块走势。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "下午可能跳水。",
+      "科技回暖但银行板块可能下跌。",
+      "低量抛压小，缺乏做多动力。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论金融街论坛效果，质疑其实际影响和市场表现。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "论坛效果可能只是口号。",
+      "需要增量资金而非政策喊话。",
+      "国家队砸盘影响市场。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论通过节俭和投资实现财富自由，分享攒钱经验。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "节俭攒钱用于投资。",
+      "消费可能是抄底机会。",
+      "投资收益高于薪酬。"
+    ],
+    "mentioned_stocks": ["红利资产"]
+  },
+  {
+    "index": 6,
+    "summary": "讽刺经济政策和内需问题，批评政府措施和消费状况。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "政府还在研究，不急。",
+      "消费需要收入而非贷款。",
+      "资本家利润过高，老百姓没钱。"
+    ],
+    "mentioned_stocks": ["茅台"]
+  },
+  {
+    "index": 7,
+    "summary": "询问赤峰黄金买入时机，讨论洗盘情况。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "可能吸筹洗盘。",
+      "黄金股拿得住。",
+      "不如紫金矿业。"
+    ],
+    "mentioned_stocks": ["赤峰黄金", "紫金矿业"]
+  },
+  {
+    "index": 8,
+    "summary": "假设科技股有五浪行情并新高，但用户持怀疑态度。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股新高不现实。",
+      "可能梦里才有。",
+      "市场已崩，无希望。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 9,
+    "summary": "询问中国电影股票为何坚挺，回调小。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "股票回调小，跌不下去。",
+      "可能有人埋伏。"
+    ],
+    "mentioned_stocks": ["中国电影"]
+  },
+  {
+    "index": 10,
+    "summary": "用户作为科技多头买入科创50和半导体设备，心态靠天意。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "买入科创50和国产半导体设备。",
+      "新低止损，靠天意。",
+      "市梦率高，风险大。"
+    ],
+    "mentioned_stocks": ["科创50", "半导体设备", "北方华创", "有研"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论羊年妖股，如九阳、三羊马等，分析其走势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "九阳走二波。",
+      "三羊马等羊年股炒作。",
+      "股票空间和蹭热点。"
+    ],
+    "mentioned_stocks": ["九阳", "三羊马", "百洋", "七匹狼", "大西洋", "海洋王"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论股票持续下跌，建议去弱留强。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股票每天跌。",
+      "去弱留强策略。",
+      "拉升无量，必跌。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "创建缠论技术交流帖，强调复盘和长期交易。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "鼓励技术交流和复盘。",
+      "交易作为副业和长期事业。",
+      "缠论是否过时有讨论。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "批评小时代推荐红利股后立即下跌，情绪指标准确。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "小时代吹红利后跌。",
+      "情绪过热导致下跌。",
+      "红利股越跌越买。"
+    ],
+    "mentioned_stocks": ["红利股"]
+  },
+  {
+    "index": 15,
+    "summary": "询问思源电气跌停原因，可能制裁或减持。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "可能业绩暴雷。",
+      "制裁后一蹶不振。",
+      "外资减持影响。"
+    ],
+    "mentioned_stocks": ["思源电气"]
+  },
+  {
+    "index": 16,
+    "summary": "紫金矿业跌破29元，讨论何时接盘。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "跌破29元，看跌。",
+      "建议25-28元接盘。",
+      "市场做衰退交易。"
+    ],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 17,
+    "summary": "洛阳钼业持续下跌，资金外流。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股票废了，一直跌。",
+      "资金往外跑。"
+    ],
+    "mentioned_stocks": ["洛阳钼业"]
+  },
+  {
+    "index": 18,
+    "summary": "分析沪深300爆量是出货还是正常。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "爆量可能是出货。",
+      "量小，出货不明显。",
+      "国家队分批卖。"
+    ],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 19,
+    "summary": "如果油价站稳100，石油股可能上涨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "油价站稳100，中石油看30，海油看60。"
+    ],
+    "mentioned_stocks": ["中石油", "海油"]
+  },
+  {
+    "index": 20,
+    "summary": "崇达技术可能补跌，PCB板块整体下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "PCB板块补跌。",
+      "业绩释放效应。",
+      "超声电子影响。"
+    ],
+    "mentioned_stocks": ["崇达技术", "生益", "德明利", "亨通", "超声电子"]
+  },
+  {
+    "index": 21,
+    "summary": "败绿股票突然上涨，引发讨论。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "败绿动了，速来集合。",
+      "可能港股解禁影响。",
+      "高盛预测利润。"
+    ],
+    "mentioned_stocks": ["败绿", "胜宏科技"]
+  },
+  {
+    "index": 22,
+    "summary": "科技股基本面好但需外部条件才能涨，建议谨慎。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股需外围企稳、利好信号、高成交额。",
+      "AI需赚钱应用。",
+      "散户已不看科技。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论当前是否卖出股票，市场风险高。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "缩量拉升，风险大。",
+      "被套牢，不跑。",
+      "银行跌，观望。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论字节跳动算力用于视频生成模型的消息真假。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "字节实力深不可测。",
+      "小作文假消息。",
+      "算力用于云服务。"
+    ],
+    "mentioned_stocks": ["字节跳动", "火山云"]
+  },
+  {
+    "index": 25,
+    "summary": "预测全面反攻周，但多数用户不看好。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "全面反攻预测。",
+      "用户嘲讽和怀疑。",
+      "历史事件记忆。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "北交所打新先扣钱，需大资金，小资金易踏空。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "北交所打新先扣钱。",
+      "需几百万资金才能中签。",
+      "小资金不应参与。"
+    ],
+    "mentioned_stocks": ["北交所"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论生益、德明利、亨通的后续走势，用户做T盈利。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股票坚挺，但可能补跌。",
+      "用户做T盈利。",
+      "类似八月反弹剧本。"
+    ],
+    "mentioned_stocks": ["生益", "德明利", "亨通", "超声电子"]
+  },
+  {
+    "index": 28,
+    "summary": "成交量低，预测下午跳水。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "无量，下午跳水。",
+      "银行跌，需跑。",
+      "可能反转，博弈反弹。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "提示红利股追高风险，市场风格可能转向成长股。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "红利股高位，风险大。",
+      "市场风格拐点。",
+      "定投拉平成本。"
+    ],
+    "mentioned_stocks": ["红利股", "科技股"]
+  },
+  {
+    "index": 30,
+    "summary": "用户买到龙头股，但可能被老庄洗出。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "买到龙头股。",
+      "家人们力量大。",
+      "龙头首阴战法。"
+    ],
+    "mentioned_stocks": ["新华"]
+  },
+  {
+    "index": 31,
+    "summary": "福晶科技股价下跌，讨论反弹机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "福晶科技高点下跌30%。",
+      "博反弹，但快进快出。",
+      "镀膜水平强。"
+    ],
+    "mentioned_stocks": ["福晶科技", "崇达技术"]
+  },
+  {
+    "index": 32,
+    "summary": "用户尝试科技股ETF，但因恐惧清仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "买入科技ETF。",
+      "技术上可能有反弹。",
+      "因恐惧清仓。"
+    ],
+    "mentioned_stocks": ["科技ETF"]
+  },
+  {
+    "index": 33,
+    "summary": "用户满仓被套，讨论解套策略。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "满仓被套，以为底部实为半山腰。",
+      "找人接盘。",
+      "没有止损计划。"
+    ],
+    "mentioned_stocks": ["生益", "金枪鱼", "汉中王"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论电解铝股票分红和配置，宏桥控股需谨言慎行。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "宏桥控股预期高分红。",
+      "电投能源、云铝股份、神火股份分红预期。",
+      "分仓配置电解铝ETF。"
+    ],
+    "mentioned_stocks": ["宏桥控股", "电投能源", "云铝股份", "神火股份"]
+  },
+  {
+    "index": 35,
+    "summary": "新易盛持续下跌，成交量低，大票难涨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "新易盛跌35%。",
+      "无量反弹难。",
+      "创业板三蛆。"
+    ],
+    "mentioned_stocks": ["新易盛", "中际旭创", "长鑫"]
+  },
+  {
+    "index": 36,
+    "summary": "用户满仓进ETF，担心亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "满仓进铁盒和光ETF。",
+      "担心被爆头（亏损）。",
+      "用户被嘲讽上钩。"
+    ],
+    "mentioned_stocks": ["铁盒", "光ETF"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论市场规则，但规则由权势制定。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "规矩立住路宽。",
+      "规则由权势制定，利益归他们。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "讽刺宇树股票涨跌决定其是否科技，三观跟股价跑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "涨50%才是真科技。",
+      "三观跟股价跑。",
+      "PE高。"
+    ],
+    "mentioned_stocks": ["宇树"]
+  },
+  {
+    "index": 39,
+    "summary": "用户认为有小牛味道，但市场可能跳水。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "小牛香味。",
+      "感觉要跳。",
+      "银伟达v红。"
+    ],
+    "mentioned_stocks": ["银伟达"]
+  },
+  {
+    "index": 40,
+    "summary": "隐晦讨论市场，如“要信早信”，但实际缩量诱多。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "要信早信。",
+      "缩量诱多。",
+      "异环启动。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "警告抄底风险，历史总是套牢。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "抄底总被套。",
+      "昨天抄底赚大。",
+      "追高更糟。"
+    ],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 42,
+    "summary": "银伟达下跌，但认为正常回调。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银伟达倒了。",
+      "正常回调，晚上可能跳水。",
+      "银行不死，A股不活。"
+    ],
+    "mentioned_stocks": ["银伟达", "银行"]
+  },
+  {
+    "index": 43,
+    "summary": "缩量下不拉银行、保险证券，市场维持不难看。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "缩量，只维持指数。",
+      "核心是捞钱。",
+      "银行昨天涨，今天倒车接人。"
+    ],
+    "mentioned_stocks": ["银行", "保险", "证券"]
+  },
+  {
+    "index": 44,
+    "summary": "用户股票涨停，考虑卖出，因套牢三年。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "股票涨停。",
+      "套牢三年，回本卖。",
+      "三连板悔卖出。"
+    ],
+    "mentioned_stocks": []
+  }
+]
