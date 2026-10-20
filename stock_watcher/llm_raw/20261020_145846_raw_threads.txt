@@ -1,0 +1,345 @@
+[
+  {
+    "index": 1,
+    "summary": "红果概念未跟随大涨，讨论市场反应慢或个人聪明。",
+    "sentiment": "negative",
+    "key_opinions": ["红果爆火但相关概念股没涨", "市场反应慢或个人聪明", "广告越来越多表示关注增加"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "龙哥投资者交流信引发讨论，科技股损失惨重。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股损失严重", "李一恩让人割肉离场", "全龙可能是龙哥真名"],
+    "mentioned_stocks": ["亨通光电"]
+  },
+  {
+    "index": 3,
+    "summary": "实操熊市做T战法，每天小赚但回本遥远。",
+    "sentiment": "negative",
+    "key_opinions": ["熊市做T薅羊毛", "每天T0.5个点回本慢", "市场太难"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "3700点位再次被守护成功，国家队护盘动作。",
+    "sentiment": "mixed",
+    "key_opinions": ["3700点守护成功", "国家队护盘动作", "可能做T而非抄底"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论底部区域理解，个股缩量止跌为信号。",
+    "sentiment": "positive",
+    "key_opinions": ["指数后于个股见底", "个股缩量止跌标志底部", "底部区域很快出现"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "国家队开始回补操作，观察是否持续买入。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队开始回补", "需要连续买入才有效", "今天动作最大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "科技股跟随外部市场V型反弹，但不确定修复。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股尾盘V型", "国家队捞科创和创业板", "龙头趴着别幻想"],
+    "mentioned_stocks": ["科创", "创业板"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论开始买入迹象，但怀疑是诱多出货。",
+    "sentiment": "negative",
+    "key_opinions": ["沪深300买入迹象", "怀疑是诱多出货", "图形相同可能是做T"],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 9,
+    "summary": "东鹏等白马股被杀，蓝筹下跌讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["东鹏无利空杀跌", "流动性差防守股也不行", "银行有免死金牌"],
+    "mentioned_stocks": ["东鹏", "洛阳钼业", "紫金", "保险"]
+  },
+  {
+    "index": 10,
+    "summary": "国家队拖延市场，等待外部因素如油价。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队硬拖市场", "等待油价下降或加息", "破3674点可能螺旋下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "观测到国家队买科创50，询问是否跟单。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队买科创50", "拉升猛烈", "底部活仓可能T出"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 12,
+    "summary": "创业板可能创造新历史，表达悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板失业板", "可能创新低"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "红利股高位讨论是否该进入或空仓。",
+    "sentiment": "negative",
+    "key_opinions": ["红利股高位诱人接盘", "对比科技股回调", "建议空仓或逆回购"],
+    "mentioned_stocks": ["红利股", "银行", "药明"]
+  },
+  {
+    "index": 14,
+    "summary": "市场悲观但个股跌不动，讨论底部特征。",
+    "sentiment": "mixed",
+    "key_opinions": ["个股跌不动是底部信号", "建议抄底缩量个股", "市场不存在跌不动股"],
+    "mentioned_stocks": ["蔚蓝锂芯", "亨通光电", "德明利", "宇树"]
+  },
+  {
+    "index": 15,
+    "summary": "留10W块亏4W，讨论亏损和趋势。",
+    "sentiment": "negative",
+    "key_opinions": ["留10W亏4W心疼", "趋势坏了要跑", "股市反人性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "海狗跌4天，讨论是否买入策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["海狗跌4天", "不到16不出手", "基本面无改观别动"],
+    "mentioned_stocks": ["海狗"]
+  },
+  {
+    "index": 17,
+    "summary": "今天谁在涨？科技股去世，小盘股妖股涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股全去世", "机器人股涨", "小盘股炒妖"],
+    "mentioned_stocks": ["机器人", "宇树"]
+  },
+  {
+    "index": 18,
+    "summary": "布油直线拉升，科技股反弹困难。",
+    "sentiment": "negative",
+    "key_opinions": ["布油直线拉升", "科技股反弹难", "外围原因导致下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "科创50快腰斩，讨论是否到位。",
+    "sentiment": "negative",
+    "key_opinions": ["科创50快腰斩", "熊市不言底", "跌到1000点定投"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 20,
+    "summary": "协创数据签署算力协议，讨论影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["协创签374.9亿算力协议", "时间点好", "类似协议可能取消"],
+    "mentioned_stocks": ["协创数据", "宏景", "利通", "海南华铁"]
+  },
+  {
+    "index": 21,
+    "summary": "沪深300爆量，讨论是否抄底资金出货。",
+    "sentiment": "negative",
+    "key_opinions": ["沪深300爆量", "怀疑是出货", "量正常不出货"],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 22,
+    "summary": "越看盘越想清仓，亏损严重。",
+    "sentiment": "negative",
+    "key_opinions": ["想清仓", "账户亏10%", "股市反人性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "紫金又到28元，讨论接盘策略。",
+    "sentiment": "mixed",
+    "key_opinions": ["紫金跌到28", "卖房接盘", "到28放子弹"],
+    "mentioned_stocks": ["紫金", "赤峰黄金"]
+  },
+  {
+    "index": 24,
+    "summary": "洛阳钼业跌停，熊市初期杀蓝筹。",
+    "sentiment": "negative",
+    "key_opinions": ["洛阳钼业跌停", "熊市杀蓝筹", "空仓一年跑赢99%"],
+    "mentioned_stocks": ["洛阳钼业", "银行", "东鹏"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论纳斯达克可能腰斩，受A股影响。",
+    "sentiment": "negative",
+    "key_opinions": ["纳斯达克可能腰斩", "受A股科技叙事崩影响", "双向挨打"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "创业板权重腰斩，包括宁德等。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板权重腰斩", "宁德快-50%", "双头形成熊市"],
+    "mentioned_stocks": ["宁德", "旭创", "新易盛", "东财", "长川", "三环", "天孚", "阳光", "胜宏", "迈瑞医疗"]
+  },
+  {
+    "index": 27,
+    "summary": "错过妖股10个点，主力洗盘。",
+    "sentiment": "negative",
+    "key_opinions": ["错过妖股10个点", "主力跌停洗盘", "割肉后爆拉"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "讨论设立流动性支持工具，但未研究出来。",
+    "sentiment": "negative",
+    "key_opinions": ["工具还在研究中", "白马继续死", "直接卖股票不用工具"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "白洋股份涨停，讨论大米相关题材。",
+    "sentiment": "mixed",
+    "key_opinions": ["白洋股份涨停", "资金炒妖股", "同一题材大米"],
+    "mentioned_stocks": ["百洋股份", "大米"]
+  },
+  {
+    "index": 30,
+    "summary": "赤峰黄金能否进入，讨论吸筹洗盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["赤峰黄金吸筹洗盘", "黄金股拿得住", "不如紫金"],
+    "mentioned_stocks": ["赤峰黄金", "紫金"]
+  },
+  {
+    "index": 31,
+    "summary": "红利股今天开跌，昨天吹捧后回调。",
+    "sentiment": "negative",
+    "key_opinions": ["红利股开跌", "吹啥死啥", "情绪过热回调"],
+    "mentioned_stocks": ["红利股"]
+  },
+  {
+    "index": 32,
+    "summary": "喊全面反攻一周，被嘲笑。",
+    "sentiment": "mixed",
+    "key_opinions": ["全面反攻一周", "被嘲笑开香槟", "可能带节奏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "建发股份亏损但分红，讨论原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["建发亏损仍分红", "大股东掏空公司", "厦门国资背景"],
+    "mentioned_stocks": ["建发股份"]
+  },
+  {
+    "index": 34,
+    "summary": "创业板下跌，人心散了。",
+    "sentiment": "negative",
+    "key_opinions": ["双创下跌", "宁德中际权重企稳才能止跌", "定向做空"],
+    "mentioned_stocks": ["宁德", "中际"]
+  },
+  {
+    "index": 35,
+    "summary": "长鑫可能破发，讨论下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["长鑫要破发", "发行价8.66", "破发想穷都难"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 36,
+    "summary": "大盘下跌与南海事件关系。",
+    "sentiment": "negative",
+    "key_opinions": ["美帝南海事件", "无关大盘下跌", "单纯收割韭菜"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "爱玛科技是否该涨，讨论电动车需求。",
+    "sentiment": "mixed",
+    "key_opinions": ["亏损需要电动车送外卖", "爱玛是宝妈车", "九号利好外卖"],
+    "mentioned_stocks": ["爱玛科技", "新日", "九号"]
+  },
+  {
+    "index": 38,
+    "summary": "机器人股这么强，讨论原因。",
+    "sentiment": "mixed",
+    "key_opinions": ["机器人股强", "炒小炒差", "春晚机器人跳舞预期"],
+    "mentioned_stocks": ["机器人", "宇树"]
+  },
+  {
+    "index": 39,
+    "summary": "宽基爆拉原因，怀疑诱多。",
+    "sentiment": "negative",
+    "key_opinions": ["宽基直线爆拉", "怀疑诱多", "油价新高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论电解铝股配置和分红。",
+    "sentiment": "positive",
+    "key_opinions": ["电解铝龙头宏桥", "预期分红比例高", "配置电解铝ETF"],
+    "mentioned_stocks": ["宏桥控股", "电投能源", "云铝股份", "神火股份"]
+  },
+  {
+    "index": 41,
+    "summary": "港股垃圾堆，做多亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["港股垃圾", "做多腰斩", "做空翻倍"],
+    "mentioned_stocks": ["恒生科技"]
+  },
+  {
+    "index": 42,
+    "summary": "军工未来五年龙头，讨论世界局势。",
+    "sentiment": "positive",
+    "key_opinions": ["军工龙头问鼎天下", "世界三战版本更新", "利好中钨高新"],
+    "mentioned_stocks": ["中钨高新", "建设工业"]
+  },
+  {
+    "index": 43,
+    "summary": "技术角度大盘走势漂亮，创业板主跌浪。",
+    "sentiment": "mixed",
+    "key_opinions": ["大盘走势漂亮", "创业板主跌浪", "连续14日无法收5日线上"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "理想汽车压死宁德股票。",
+    "sentiment": "negative",
+    "key_opinions": ["理想压死宁德", "飞流直下"],
+    "mentioned_stocks": ["宁德", "理想"]
+  },
+  {
+    "index": 45,
+    "summary": "见鬼又让他们做到T了。",
+    "sentiment": "negative",
+    "key_opinions": ["别人做到T了", "可能指国家队或机构"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "今年羊年妖股是哪个？讨论九阳等。",
+    "sentiment": "mixed",
+    "key_opinions": ["羊年妖股九阳", "百洋和七匹狼", "三羊马"],
+    "mentioned_stocks": ["九阳", "百洋", "七匹狼", "三羊马", "大西洋", "海洋王"]
+  },
+  {
+    "index": 47,
+    "summary": "金融街论坛效果立竿见影，但被质疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["论坛效果立竿见影", "下午打脸", "汪汪队不要砸盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "退市保平安，不玩了。",
+    "sentiment": "negative",
+    "key_opinions": ["退市保平安", "后悔买股票", "利好中国平安"],
+    "mentioned_stocks": ["中国平安"]
+  },
+  {
+    "index": 49,
+    "summary": "垃圾市场天天跳水，一个月没反弹。",
+    "sentiment": "negative",
+    "key_opinions": ["天天跳水", "快跌一个月", "等11月"],
+    "mentioned_stocks": []
+  }
+]
