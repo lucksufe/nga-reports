@@ -1,0 +1,552 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论地缘政治紧张对股市影响，提及CDN和光缆修复股票。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "地缘政治紧张可能导致市场波动。",
+      "战争威胁引发对相关行业的关注。",
+      "股票代码与特定行业关联。"
+    ],
+    "mentioned_stocks": ["网宿科技", "享福光电"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论马斯克个人影响力及特斯拉薪酬奖励。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "马斯克行动力强，引发关注。",
+      "特斯拉高度依赖马斯克个人。",
+      "高薪酬奖励可能反映公司依赖。"
+    ],
+    "mentioned_stocks": ["特斯拉", "SpaceX"]
+  },
+  {
+    "index": 3,
+    "summary": "分析日韩股市下跌与美股、油价关联。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "油价上涨影响亚洲股市。",
+      "美股波动传导至日韩市场。",
+      "纳指期货下跌引发担忧。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "韩国股市跳水，A股面临3674点保卫战。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国股市下跌影响A股情绪。",
+      "银行股可能提供支撑。",
+      "市场点位保卫战持续。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "量化基金净值暴跌，收益近乎归零。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "量化基金表现不佳。",
+      "大厂净值大幅下跌。",
+      "市场环境对量化不利。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论技术话题和论坛管理，提及股票代码。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "帖子易因敏感内容被爆。",
+      "提及股票代码可能触发审核。",
+      "技术讨论受限影响交流。"
+    ],
+    "mentioned_stocks": ["002579"]
+  },
+  {
+    "index": 7,
+    "summary": "投资者纠结是否割肉，市场分歧大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "反对割肉等待反弹。",
+      "原油上涨导致市场下跌。",
+      "持仓对冲风险策略。"
+    ],
+    "mentioned_stocks": ["通信ETF", "机机人ETF"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论黄金投资，关注数据披露影响。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黄金可能因数据上涨。",
+      "CPI数据引发市场博弈。",
+      "投资需考虑风险。"
+    ],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 9,
+    "summary": "马斯克计划赠送SpaceX股份，引发讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "马斯克财大气粗，影响力大。",
+      "特斯拉估值依赖马斯克。",
+      "高薪酬或存泡沫风险。"
+    ],
+    "mentioned_stocks": ["特斯拉", "SpaceX"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论腐败案件对市场可能影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "腐败事件可能冲击经济。",
+      "市场或有见底信号。",
+      "化债问题引发关注。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "Deepseek遭美国禁令，影响国产替代情绪。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "Deepseek业务以国内为主。",
+      "短期情绪利空国产AI。",
+      "开源模型可能受限。"
+    ],
+    "mentioned_stocks": ["Deepseek"]
+  },
+  {
+    "index": 12,
+    "summary": "银行严控贷款流入股市，监测违规行为。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "贷款监管加强。",
+      "散户资金入市受限。",
+      "市场流动性受影响。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "投资者中彩票奖金用于补仓股市。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "彩票中奖运气佳。",
+      "奖金用于投资补仓。",
+      "风险对冲方式独特。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "预测A股高开低走，跟随美股波动。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股习惯性高开低走。",
+      "美股涨跌传导亚洲市场。",
+      "韩国股市影响A股情绪。"
+    ],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论港股红利ETF投资，汇率和税影响收益。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "汇率和红利税降低收益。",
+      "不建议购买港股红利。",
+      "年化收益计算需谨慎。"
+    ],
+    "mentioned_stocks": ["513530"]
+  },
+  {
+    "index": 16,
+    "summary": "油价高企影响交易安全感。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "油价短期难下跌。",
+      "能源股走势受关注。",
+      "资产配置需考虑油价。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "建发股份亏损但仍分红，引发质疑。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损分红可能掏空公司。",
+      "国资背景提供支撑。",
+      "现金流充足支撑分红。"
+    ],
+    "mentioned_stocks": ["建发股份"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论通过节俭和投资实现财富自由。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "储蓄和投资是关键。",
+      "消费与投资需平衡。",
+      "长期增值策略有效。"
+    ],
+    "mentioned_stocks": ["红利资产"]
+  },
+  {
+    "index": 19,
+    "summary": "基金投资者亏损，心态麻木。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "基金投资风险高。",
+      "持仓过重导致亏损。",
+      "市场波动影响情绪。"
+    ],
+    "mentioned_stocks": ["双创50", "半导体ETF", "纳指基金"]
+  },
+  {
+    "index": 20,
+    "summary": "中海油被套，寻求投资建议。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价被套需耐心。",
+      "油价波动影响持股。",
+      "长期持有或有希望。"
+    ],
+    "mentioned_stocks": ["中海油"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论证券开户佣金优惠，如免五。",
+    "sentiment": "neutral",
+    "key_opinions": [
+      "免五佣金吸引投资者。",
+      "选择正规券商更安全。",
+      "市场时机影响开户。"
+    ],
+    "mentioned_stocks": ["国泰海通"]
+  },
+  {
+    "index": 22,
+    "summary": "红利股高位，投资需谨慎。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "红利股估值处于高位。",
+      "可能面临回调风险。",
+      "资金转向其他板块。"
+    ],
+    "mentioned_stocks": ["红利股", "银行股"]
+  },
+  {
+    "index": 23,
+    "summary": "分析红利和科技股的不同特性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技股集中度高风险大。",
+      "红利股有业绩支撑。",
+      "市场情绪周期影响两者。"
+    ],
+    "mentioned_stocks": ["科技股", "银行股"]
+  },
+  {
+    "index": 24,
+    "summary": "投资者努力后跟上上证50指数。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "投资技巧得到提升。",
+      "市场指数作为基准。",
+      "成功经验分享。"
+    ],
+    "mentioned_stocks": ["上证50"]
+  },
+  {
+    "index": 25,
+    "summary": "淳中科技大宗交易，可能短线机会。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大宗交易暗示爆仓风险。",
+      "短线可能上涨。",
+      "市场传闻影响股价。"
+    ],
+    "mentioned_stocks": ["淳中科技"]
+  },
+  {
+    "index": 26,
+    "summary": "政策支持外资进入A股，但市场信心不足。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "政策空谈无实质内容。",
+      "外资在A股可能被套。",
+      "市场缺乏信心。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "中钨高新股价下跌严重，寻求建议。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股价下跌幅度大。",
+      "行业前景不明朗。",
+      "割肉或持有需决策。"
+    ],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 28,
+    "summary": "淳中科技大宗交易频繁，市场关注。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大宗交易频繁发生。",
+      "市场参与者情绪魔怔。",
+      "可能接近底部。"
+    ],
+    "mentioned_stocks": ["淳中科技"]
+  },
+  {
+    "index": 29,
+    "summary": "认为银行股是成长股，调整持仓。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银行掌握核心科技。",
+      "PE应给予高估值。",
+      "追涨行为反映市场情绪。"
+    ],
+    "mentioned_stocks": ["农行"]
+  },
+  {
+    "index": 30,
+    "summary": "分析被套股票解套可能性规律。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "泡沫股难解套。",
+      "业绩好的股票可能回本。",
+      "科技股风险高需谨慎。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "高盛下调胜宏科技目标价。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "业绩预期平平。",
+      "Q4可能迎来爆发。",
+      "研报可信度受质疑。"
+    ],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论科创50和创业板投资选择。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科创50有长期潜力。",
+      "创业板权重股低估。",
+      "定投策略或有效。"
+    ],
+    "mentioned_stocks": ["科创50", "创业板"]
+  },
+  {
+    "index": 33,
+    "summary": "媒体称A股由机构定价，外资不重要。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "机构主导市场定价。",
+      "外资影响有限。",
+      "市场趋势长期不变。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论工行在熊市中的抗跌性。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "银行股表现抗跌。",
+      "估值相对合理。",
+      "市场流动性问题。"
+    ],
+    "mentioned_stocks": ["工行"]
+  },
+  {
+    "index": 35,
+    "summary": "洛阳钼业股价下跌较多，疑问是否有雷。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市值小弹性大，下跌多。",
+      "公司基本面需关注。",
+      "与紫金比较市值。"
+    ],
+    "mentioned_stocks": ["洛阳钼业", "紫金"]
+  },
+  {
+    "index": 36,
+    "summary": "质疑国家队不救科技股，散户被套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "散户深度被套。",
+      "国家队策略不救个股。",
+      "市场出清过程痛苦。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 37,
+    "summary": "投资者买入龙头股，波动大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "龙头股首阴战法试水。",
+      "家人们力量影响股价。",
+      "短线交易风险高。"
+    ],
+    "mentioned_stocks": ["新华"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论私募资金砸盘对药明股价影响。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "少量资金可砸跌停。",
+      "流动性差加剧下跌。",
+      "量化策略易踩踏。"
+    ],
+    "mentioned_stocks": ["药明"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论白酒作为防守板块的投资。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "白酒可能短期反弹。",
+      "三季度报存在风险。",
+      "小资金即可拉升。"
+    ],
+    "mentioned_stocks": ["五粮液", "泸州老窖"]
+  },
+  {
+    "index": 40,
+    "summary": "银行股上涨可能加速赶顶。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股息率下降风险增加。",
+      "回本时间可能较长。",
+      "业绩不佳预期。"
+    ],
+    "mentioned_stocks": ["工行", "招行"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论主动ETF概念及风险。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "主动ETF更透明。",
+      "可能追涨杀跌。",
+      "基金经理操守受质疑。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "伊朗发展AI，引发技术能力讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "伊朗技术能力有限。",
+      "可能走私芯片。",
+      "市场存在机会。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "中信证券认为市场调整接近尾声。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "护盘行动可能结束。",
+      "调整尾声将反弹。",
+      "机构观点需谨慎。"
+    ],
+    "mentioned_stocks": ["中信证券"]
+  },
+  {
+    "index": 44,
+    "summary": "错过莫德纳股票上涨机会，遗憾。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股票跳涨错过机会。",
+      "持股难度大。",
+      "投资需时机把握。"
+    ],
+    "mentioned_stocks": ["莫德纳"]
+  },
+  {
+    "index": 45,
+    "summary": "易方达全球精选基金开门，讨论投资。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "基金赎回较多。",
+      "包含A股风险高。",
+      "美股影响基金表现。"
+    ],
+    "mentioned_stocks": ["易方达全球精选"]
+  },
+  {
+    "index": 46,
+    "summary": "预测科技股明天上涨。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "科技股可能反弹。",
+      "需关注纳斯达克走势。",
+      "高开风险需警惕。"
+    ],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 47,
+    "summary": "美股未如预期下跌，市场预测错误。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市场预测不准确。",
+      "Deepseek影响力减弱。",
+      "跌多后自然反弹。"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "持仓科技、大米、药，两头亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技反弹时其他跌。",
+      "仓位重导致亏损。",
+      "分散持仓未必有效。"
+    ],
+    "mentioned_stocks": ["科技", "大米", "药"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论白酒股分红高，但PE高风险。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "高分红吸引投资者。",
+      "PE高可能存在风险。",
+      "管理层问题需关注。"
+    ],
+    "mentioned_stocks": ["泸州老窖"]
+  },
+  {
+    "index": 50,
+    "summary": "推测美国石油战争影响全球市场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "油价推高CPI和美债。",
+      "科技股杀跌是小浪。",
+      "下一波或聚焦化工。"
+    ],
+    "mentioned_stocks": []
+  }
+]
