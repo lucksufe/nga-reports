@@ -1,0 +1,319 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "股债油齐涨而黄金独跌，讨论黄金短期弱势，等明年美联储降息再看，逢低买入观点。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金今年难有表现，等明年降息", "4000左右买入放长线风险不大", "白银未跌回昨日涨幅，仅黄金走弱"],
+    "mentioned_stocks": ["黄金", "白银"]
+  },
+  {
+    "index": 2,
+    "summary": "技术分析爱好者开设缠论交流与复盘帖，讨论缠论是否过时及交易作为长期事业的态度。",
+    "sentiment": "mixed",
+    "key_opinions": ["方法无过时之分，适合与否因人而异", "长期复盘积累才能把握行情时机", "缠论复杂难懂，但值得系统学习"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论AI泡沫是否被证伪：token收入暴增、算力需求强劲，但高息举债烧钱与锁仓行为显示泡沫迹象。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI是趋势，但当下确有泡沫", "借10%利率债烧钱难以持续", "卖token利润极高支撑上游涨价"],
+    "mentioned_stocks": ["英伟达", "SMCI", "DeepSeek"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论投资美股渠道收窄，纳指定投额度减少、开户受限，担忧未来买美股更难。",
+    "sentiment": "negative",
+    "key_opinions": ["每日三五百额度定投一年也有七八万", "现在连ibkr都不给大陆人开户", "如果能赚钱开户都要找关系"],
+    "mentioned_stocks": ["纳指", "纳斯达克"]
+  },
+  {
+    "index": 5,
+    "summary": "DeepSeek开源推理框架并公布单卡收入38美元/小时，AI盈利能力可量化，引发算力收益讨论。",
+    "sentiment": "positive",
+    "key_opinions": ["单卡每小时38美金堪比印钞", "利好AI软硬件，利空OpenAI", "收入远超H200租金水平引质疑"],
+    "mentioned_stocks": ["DeepSeek", "H200"]
+  },
+  {
+    "index": 6,
+    "summary": "官媒称A股分红回购跑赢融资，网友质疑统计口径，认为算上减持定增实为负数。",
+    "sentiment": "negative",
+    "key_opinions": ["不算减持定增算上去就是负数", "回购注销才真回购，激励式回购是掏股东", "分红多流向国库，散户获益有限"],
+    "mentioned_stocks": ["四大行"]
+  },
+  {
+    "index": 7,
+    "summary": "Anthropic上半年净亏807亿美元并高息融资，被视作AI泡沫前置条件齐备。",
+    "sentiment": "negative",
+    "key_opinions": ["高息举债融资利率超10%", "泡沫爆炸前置条件已满足", "亏这么多美股科技反而大涨"],
+    "mentioned_stocks": ["Anthropic"]
+  },
+  {
+    "index": 8,
+    "summary": "期待创业板大阳线反弹，股民调侃加仓抄底，对反弹持续性半信半疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["创业板需争气跟随上涨别跟跌", "加仓抄底把GJD抄破产", "大概率高开低走过了一天"],
+    "mentioned_stocks": ["创业板", "GJD"]
+  },
+  {
+    "index": 9,
+    "summary": "股民自嘲盼着外围市场大涨带动A股是否算罕见，讨论仓位决定心态的无奈。",
+    "sentiment": "mixed",
+    "key_opinions": ["本质是希望A股好，不算罕见", "仓位决定心态，空仓就想市场炸", "盼外围好只是想赚钱情有可原"],
+    "mentioned_stocks": ["纳斯达克", "日经指数", "A股"]
+  },
+  {
+    "index": 10,
+    "summary": "知名游资\"交易猿\"净值大幅回撤引热议，感叹市场无神、皆是时代气运。",
+    "sentiment": "negative",
+    "key_opinions": ["市场没有神，都是时代气运给的", "回撤从4跌到1.几", "股神年年有巴菲特就一个"],
+    "mentioned_stocks": ["时代万恒", "九阳股份", "科技股"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论创业板今明是否反弹，多空分歧：量能不足、高开低走惯性令反弹存疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["已连跌15个交易日，会赢的", "包高开低走的，建议高点卖出", "1.4万亿是熊市量能，无赚钱效应"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 12,
+    "summary": "动力电池行业内卷严重致利润下滑，宁德时代遭车企联合制衡，担忧重走光伏老路。",
+    "sentiment": "negative",
+    "key_opinions": ["行业内卷利润降速，宁德跌幅大", "动力电池恐走光伏过剩老路", "宁德店大欺客被车企扶植对手"],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 13,
+    "summary": "期待明天科技股吃肉，但连续被套后多持观望态度，提醒高开记得跑。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技明天拿麻袋装钱", "高开记得跑，别抱幻想", "割在最低点献祭换来反弹也认了"],
+    "mentioned_stocks": ["纳斯达克", "科技股"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论DeepSeek上市估值，一级市场估值8000亿，市销率高达600-1000倍，恐上市即巅峰。",
+    "sentiment": "mixed",
+    "key_opinions": ["IPO或3-5万亿估值市销率600-1000倍", "上市那天恐是牛市彻底结束", "参照宇树上市即巅峰的教训"],
+    "mentioned_stocks": ["DeepSeek", "宇树科技", "长鑫", "腾讯"]
+  },
+  {
+    "index": 15,
+    "summary": "美股大涨但预期A股高开低走，吐槽A股对利好脱敏，建议反弹至压力位减仓。",
+    "sentiment": "negative",
+    "key_opinions": ["美股涨A股高开低走，跌则低开低走", "到上一平台压力位记得清仓", "韩国海力士走势决定A股高开与否"],
+    "mentioned_stocks": ["海力士", "纳指etf", "A股"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论北部湾港是否值得观察，低位或借APEC会议热点反弹一波。",
+    "sentiment": "mixed",
+    "key_opinions": ["过气股有人建议不要碰", "刚好是低点配合APEC或有热点", "期待热点发酵反弹一波"],
+    "mentioned_stocks": ["北部湾港"]
+  },
+  {
+    "index": 17,
+    "summary": "电车销量下滑致电池厂暴跌合理，行业光伏化内卷，宁德或仍有下跌空间。",
+    "sentiment": "negative",
+    "key_opinions": ["光伏化内卷在动力电池重演", "宁德跌1个点毛利率仍有下跌空间", "车企将成周期行业，市场已饱和"],
+    "mentioned_stocks": ["宁德时代", "比亚迪"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论存储股是否止跌，多空分歧：跌得深、长协锁定但下跌中继风险仍在。",
+    "sentiment": "mixed",
+    "key_opinions": ["兆易创新800跌到200多跌幅巨大", "跌不下去和能涨是两回事", "Q4 NAND涨价，美光PE个位数"],
+    "mentioned_stocks": ["兆易创新", "德明利", "长鑫", "大普微", "西部数据", "美光"]
+  },
+  {
+    "index": 19,
+    "summary": "创业板15个交易日跌35%，比肩2015年股灾，科技抱团瓦解致极致暴跌。",
+    "sentiment": "negative",
+    "key_opinions": ["15年只需3个交易日跌这么多", "极致抱团瓦解导致极致暴跌", "没流动性危机但大熊本质没变"],
+    "mentioned_stocks": ["创业板", "银行"]
+  },
+  {
+    "index": 20,
+    "summary": "吐槽科技股连跌，量能萎缩，预期高开低走尾盘托盘的惯性走势。",
+    "sentiment": "negative",
+    "key_opinions": ["每天抢跑踩踏，量化杀穿3700", "没量大高开直接跑", "高开低走尾盘托一下都说得过去"],
+    "mentioned_stocks": ["科技股", "A股"]
+  },
+  {
+    "index": 21,
+    "summary": "揭露建涛系套现200亿与基金接盘做局，质疑公募勾结股东高位接盘。",
+    "sentiment": "negative",
+    "key_opinions": ["港股大股东可随意减持非禁售股", "怀疑基金勾结股东疯狂接盘", "新股发售当天顶高价机构协议接盘"],
+    "mentioned_stocks": ["宏和", "中欧基金"]
+  },
+  {
+    "index": 22,
+    "summary": "SpaceX算力营收超预期带动科技股上涨，但质疑小业务超预期拉动指数的逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["买硬件越多赚得越多？", "超微电脑业绩毛利也超预期", "AI叙事逻辑未走通，正规云厂没动静"],
+    "mentioned_stocks": ["SpaceX", "SMCI", "谷歌", "纳斯达克"]
+  },
+  {
+    "index": 23,
+    "summary": "字节、阿里、腾讯订购超300万块RTX PRO 5500显卡，质疑买次品芯片的动机与算力国产化困境。",
+    "sentiment": "mixed",
+    "key_opinions": ["订单远超产能只能供5%-10%", "买次品也不用昇腾，国产替代难", "短剧用不了这么多算力的质疑"],
+    "mentioned_stocks": ["英伟达", "RTX PRO 5500", "字节跳动", "阿里巴巴", "腾讯", "海力士", "台积电"]
+  },
+  {
+    "index": 24,
+    "summary": "原油从111跌到106，美伊谈判小作文引发油价跳水，市场对消息真实性存疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["美伊斡旋提议解冻60亿换核查", "这种投降协议看着就是假的", "多头找机会结账吧"],
+    "mentioned_stocks": ["原油"]
+  },
+  {
+    "index": 25,
+    "summary": "宁德时代三季度环比降5%，增收不增利，被视为利空落地或继续拖累创业板。",
+    "sentiment": "negative",
+    "key_opinions": ["利空落地就是利好", "增收不增利，回购是钓鱼", "明天创业板恐俯冲-3"],
+    "mentioned_stocks": ["宁德时代", "创业板"]
+  },
+  {
+    "index": 26,
+    "summary": "市场情绪极度恐惧，提示坚持，预期APEC会谈时情绪见顶，迷茫不知买什么。",
+    "sentiment": "negative",
+    "key_opinions": ["极度恐惧中坚持就是胜利", "APEC三方会谈将是情绪顶峰", "不知道买啥把宽基也卖了"],
+    "mentioned_stocks": ["宽基"]
+  },
+  {
+    "index": 27,
+    "summary": "新易盛十余日跌35%，创业板权重股集体走弱，量能不足反弹乏力。",
+    "sentiment": "negative",
+    "key_opinions": ["十几天跌35%跌幅惊人", "没量大盘股难反弹", "创业板三蛆齐跌"],
+    "mentioned_stocks": ["新易盛", "中际旭创", "长鑫", "创业板"]
+  },
+  {
+    "index": 28,
+    "summary": "期货交易者分享化工、白银、乙二醇、燃油期权操作盈利，被赞真正技术分析。",
+    "sentiment": "positive",
+    "key_opinions": ["有行情就做，只有价格变动是真的", "原油暴跌转空再抄底看涨期权", "低点抄底原油看涨仍是上升趋势"],
+    "mentioned_stocks": ["白银", "乙二醇", "燃油", "原油"]
+  },
+  {
+    "index": 29,
+    "summary": "美伊谈判消息满天飞真真假假，油价波动剧烈爆仓者苦不堪言，市场反复折磨。",
+    "sentiment": "negative",
+    "key_opinions": ["消息满天飞真真假假无人知", "多空双杀杠杆市场常态", "大A免疫消息好坏都是跌"],
+    "mentioned_stocks": ["原油"]
+  },
+  {
+    "index": 30,
+    "summary": "质疑论坛经验分享的可靠性与风控，劝退开户，呼吁对自己言行和钱包负责。",
+    "sentiment": "negative",
+    "key_opinions": ["分享经验是否经过市场检验", "不要开户真的", "放下道德观在A股做厨圣才能赢"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 31,
+    "summary": "盛赞马斯克工程落地能力，SpaceX收入75.6亿美元超预期的63亿。",
+    "sentiment": "positive",
+    "key_opinions": ["马圣工程落地无人能及", "SpaceX收入75.6亿超预期63亿", "马圣牛逼"],
+    "mentioned_stocks": ["SpaceX"]
+  },
+  {
+    "index": 32,
+    "summary": "协创数据子公司签374.9亿算力协议，疑为框架协议，此前类似吹票有翻车先例。",
+    "sentiment": "mixed",
+    "key_opinions": ["不超过374.9亿或为框架协议", "此前类似协议吹完就没了", "在这个时间点发信息有高人"],
+    "mentioned_stocks": ["协创数据", "宏景科技", "利通电子", "海南华铁", "东阳光"]
+  },
+  {
+    "index": 33,
+    "summary": "电解铝投资组合配置帖：宏桥、电投能源、云铝、神火分散配置，看重分红比例。",
+    "sentiment": "mixed",
+    "key_opinions": ["宏桥预期分红70-80%需年报验证", "四只分开配置组成电解铝ETF", "中报宏桥分红验牌失败谨慎分仓"],
+    "mentioned_stocks": ["宏桥控股", "电投能源", "云铝股份", "神火股份"]
+  },
+  {
+    "index": 34,
+    "summary": "回顾粉笔科技张小龙赚后发狂事件，感叹赚钱飘了会遭报应，如今卖课补亏。",
+    "sentiment": "negative",
+    "key_opinions": ["赚几千万就发狂飘了会乱作", "亏了钱才会老实", "仓位大一旦亏损伤筋动骨"],
+    "mentioned_stocks": ["粉笔科技", "大胃袋"]
+  },
+  {
+    "index": 35,
+    "summary": "油价大跌引发美股全线冲锋，美伊和谈预期打断油价涨势，A股脱敏反应冷淡。",
+    "sentiment": "mixed",
+    "key_opinions": ["油一跌万物生，布油跳水", "美伊和谈预期打断油价上涨", "布油还是很高，震荡而已"],
+    "mentioned_stocks": ["布油", "美股", "A股"]
+  },
+  {
+    "index": 36,
+    "summary": "美伊和谈消息被否认报道不实，多空反复翻转，小作文满天飞控制油价股价。",
+    "sentiment": "negative",
+    "key_opinions": ["又报道不实了，跟闹着玩一样", "美伊问题本质是以色列不谈没用", "多空双杀永远不要开高杠杆"],
+    "mentioned_stocks": ["原油"]
+  },
+  {
+    "index": 37,
+    "summary": "小散模拟盘复盘记录短线操作体系，网友指出模拟盘与实盘差异大建议实盘小资金练手。",
+    "sentiment": "mixed",
+    "key_opinions": ["模拟盘和实盘操作完全不一样", "理清体系再上实盘少交学费", "建议小资金实盘练手其余买逆回购"],
+    "mentioned_stocks": ["闽东电力", "依顿电子", "澳弘电子", "超声电子", "时代万恒", "海洋王"]
+  },
+  {
+    "index": 38,
+    "summary": "纳指大涨却无人开香槟，A股长期高开低走伤人太深，情绪已彻底割肉离场。",
+    "sentiment": "negative",
+    "key_opinions": ["被A股伤的很深没人敢高兴", "高开更伤人，低开反而强", "狗队连买20天再开香槟"],
+    "mentioned_stocks": ["纳斯达克", "A股"]
+  },
+  {
+    "index": 39,
+    "summary": "原油与相关消息反复回合制反转，媒体小作文操纵行情，多空双杀。",
+    "sentiment": "negative",
+    "key_opinions": ["原油一跌就冒出奇怪新闻", "每个媒体都可以自己发小作文", "凌晨换手明早又可暴跌"],
+    "mentioned_stocks": ["原油"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论油价若瀑布式下跌可套利航空股，但航司已被套牢，反转需油价重回6开头。",
+    "sentiment": "negative",
+    "key_opinions": ["不是T+0，高开次日打回原形会炸", "航司反转要等油价6开头", "盈利加仓被套，今年盈利全亏光"],
+    "mentioned_stocks": ["华夏", "海航", "南方航空"]
+  },
+  {
+    "index": 41,
+    "summary": "寻求医药股推荐，药明康德被普遍看好基本面强估值低，恒瑞等亦被提及。",
+    "sentiment": "positive",
+    "key_opinions": ["药明确定性最强估值最低", "稳健长期投资药明恒瑞华东", "也可考虑医药ETF"],
+    "mentioned_stocks": ["药明康德", "泓博医药", "恒瑞医药", "华东医药", "ST人福", "昭衍新药", "莱美药业", "诺唯赞"]
+  },
+  {
+    "index": 42,
+    "summary": "深夜突发消息反转令人哭笑不得，调侃能不能等到早上再否认让人睡觉。",
+    "sentiment": "negative",
+    "key_opinions": ["能不能等到明天早上再否认", "让不让人睡觉了", "消息反复反转难以绷住"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "美伊谈判被视为套路与假消息控盘，A股对消息脱敏继续砸盘。",
+    "sentiment": "negative",
+    "key_opinions": ["大A已脱敏，你谈你的我砸我的", "一眼控油价股价的假消息", "条件太苛刻伊朗不可能接受"],
+    "mentioned_stocks": ["A股", "原油"]
+  },
+  {
+    "index": 44,
+    "summary": "中国微短剧成全球第四大视听产品形态，看好短剧前景与文化出海。",
+    "sentiment": "positive",
+    "key_opinions": ["短剧前景广，周围人都在刷", "文化输出出海是好方式", "部分短剧确实好看熬夜追"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "美股低开即V形反转，油价跳水反复，对比A股难以跟涨，盼平开。",
+    "sentiment": "mixed",
+    "key_opinions": ["正规市场低开0.5个点就V回来", "油价110左右下不去V挺难", "小作文满天飞没实质性进展"],
+    "mentioned_stocks": ["道指", "纳斯达克", "德明利", "宇树科技", "A股"]
+  }
+]
+```
