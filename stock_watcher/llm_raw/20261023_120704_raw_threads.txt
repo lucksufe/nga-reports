@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "质疑某证券巨额卖单压制市场的目的，怀疑是为慢牛或引导资金流向科技板块。",
+    "sentiment": "negative",
+    "key_opinions": ["巨额卖单压制可能是人为控制市场节奏", "怀疑强制资金流向科技板块", "对市场操纵行为不满"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "以古诗词和黑色幽默表达对市场暴跌的悲观，有人暗示反弹即将到来。",
+    "sentiment": "negative",
+    "key_opinions": ["市场氛围悲观如黑云压城", "有人认为即将反弹", "多数人以自嘲面对暴跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "楼主看好下周市场发力并加仓，但多数回复表示反复被套的无奈经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["多次预测反弹均落空，已多次被套", "有人继续加仓满仓赌反弹", "出现谜语人帖可能是底部信号"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "吐槽买ETF亏损20%，躲过个股雷却没躲过指数下跌，油价等地缘因素加剧悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["ETF也亏20%说明系统性风险大", "地缘政治和油价上涨是额外利空", "后悔没有及时清仓"],
+    "mentioned_stocks": ["ETF", "588170"]
+  },
+  {
+    "index": 5,
+    "summary": "科创ETF被套25%求自救方案，讨论装死还是换ETF，认为仍在底部区域。",
+    "sentiment": "negative",
+    "key_opinions": ["建议装死等待变盘", "补跌机制容易两头挨打", "部分指标显示已在底部区域"],
+    "mentioned_stocks": ["科创ETF", "上证50", "中证500", "创新医疗", "机器人ETF"]
+  },
+  {
+    "index": 6,
+    "summary": "展示自选股惨烈表现引发共鸣，调侃操作风格和选股水平。",
+    "sentiment": "negative",
+    "key_opinions": ["自选股大面积暴跌十分惨烈", "超短操作风格风险极高", "市场风格频繁轮动"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论市场异常冷清无人发声，认为财报季和加息会议叠加，大跌可能还没结束。",
+    "sentiment": "negative",
+    "key_opinions": ["涨时监管提示异动，跌时无人发声", "财报和加息叠加风险大", "发帖量极缩才是真正的底部"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "国家队上午拉银行保险护盘引发不满，传有人事变动消息，散户被反复收割。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队只拉银行保险被强烈不满", "托而不拉把散户反复割", "坊间传闻官员人事变动"],
+    "mentioned_stocks": ["银行", "保险"]
+  },
+  {
+    "index": 9,
+    "summary": "盘点年内各种奇葩现象，包括平准基金做T、卖单压制、险资平仓等，引发对市场制度的批评。",
+    "sentiment": "negative",
+    "key_opinions": ["平准基金高抛低吸引发公信力质疑", "行业基金漂移抱团等现象频发", "A股长期表现远落后全球"],
+    "mentioned_stocks": ["中石油", "中车"]
+  },
+  {
+    "index": 10,
+    "summary": "悲观认为没有救市，有人说杀跌是为低位筹码收集，还有人归咎外部因素。",
+    "sentiment": "negative",
+    "key_opinions": ["认为没有真正的救市行动", "杀跌或为大资金低价吸筹", "部分人归咎外部势力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "对比韩国市场跌幅，A股恐慌程度远超对方，科技股连续熔断引发恐慌。",
+    "sentiment": "negative",
+    "key_opinions": ["A股恐慌远超韩国市场熔断", "科技板块天天熔断惨烈", "A股对外部消息过于敏感"],
+    "mentioned_stocks": ["长鑫", "中际旭创"]
+  },
+  {
+    "index": 12,
+    "summary": "港股大跌引发讨论，调侃港股原生家庭问题，南向资金接盘被外资抛售。",
+    "sentiment": "negative",
+    "key_opinions": ["港股跌幅大且散户缺乏做空工具", "南向资金长期接盘外资抛盘", "外资持续逃离亚洲金融中心"],
+    "mentioned_stocks": ["小米"]
+  },
+  {
+    "index": 13,
+    "summary": "科技股暴跌幅度堪比2015年杠杆爆仓，批评救市资金只拉大金融不管科技。",
+    "sentiment": "negative",
+    "key_opinions": ["科技跌幅超过2015年杠杆危机", "救市只拉大金融不救科技和创业板", "散户不在救市考虑范围内"],
+    "mentioned_stocks": ["中际旭创", "创业板", "宏和"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论消灭散户仍无法避免暴涨暴跌，量化机构追高杀跌同样剧烈。",
+    "sentiment": "negative",
+    "key_opinions": ["机构比散户杀跌更狠", "量化无法解决市场波动问题", "机构也喜欢追高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讽刺官方将市场问题定调为流动性、输入性风险和偶发个案，认为是甩锅推责。",
+    "sentiment": "negative",
+    "key_opinions": ["官方归因是回避责任的说辞", "工具箱中的措施均无实质效果", "流动性实际上被套牢无法释放"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论是否认输跑路，多数人劝不跑，也有人已清仓离场等待下一轮行情。",
+    "sentiment": "mixed",
+    "key_opinions": ["当前位置割肉是错误选择", "基本面强的票可装死等行情", "市场暴涨暴跌缺乏平衡态"],
+    "mentioned_stocks": ["金瑞斯生物", "创业板"]
+  },
+  {
+    "index": 17,
+    "summary": "红利股在大跌中表现坚挺，讨论红利策略价值，也有人提示红利到顶减仓。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股在普跌中相对抗跌", "中远海控快速填权说明红利强势", "部分人认为红利已到顶部"],
+    "mentioned_stocks": ["中远海控", "白酒"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论券商板块跌久后是否会有反弹机会，有人提醒压单警告，不如金融科技弹性大。",
+    "sentiment": "mixed",
+    "key_opinions": ["券商给散户甜头或能带动成交量", "几十亿压单仍是隐患", "金融科技垃圾股弹性更大"],
+    "mentioned_stocks": ["券商", "金融科技"]
+  },
+  {
+    "index": 19,
+    "summary": "小摩称抛售近尾声引发嘲讽，大家认为这只是机构出货话术。",
+    "sentiment": "negative",
+    "key_opinions": ["机构说抛售结束是让散户接盘", "中信此前类似言论后继续下跌", "机构发言毫无参考意义"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 20,
+    "summary": "小米近期走势尚可被关注，讨论买小米等于做空三星海力士的说法。",
+    "sentiment": "positive",
+    "key_opinions": ["小米走势相对抗跌", "买小米等于做空存储芯片的另类策略"],
+    "mentioned_stocks": ["小米", "三星", "海力士"]
+  },
+  {
+    "index": 21,
+    "summary": "分析ETF走势显示国家队上午多次拉盘，托而不举不是底部，沪深300仍需下跌空间。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队托而不举不是真正的底", "沪深300离国家队卖出点还有距离", "拉ETF只是延缓下跌"],
+    "mentioned_stocks": ["ETF", "沪深300"]
+  },
+  {
+    "index": 22,
+    "summary": "晒高仓位融资操作引发惊叹，浮亏不亏的心态，风险极高。",
+    "sentiment": "mixed",
+    "key_opinions": ["高融资仓位风险极大", "浮亏不是亏的赌徒心态", "当前盘面少有人敢融资拉满"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "用双十一满减调侃股市下跌，苦中作乐表达被套的无奈。",
+    "sentiment": "negative",
+    "key_opinions": ["大跌被调侃为满减活动", "有仓位的笑不出来", "期待更低价位抄底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论韩国股市午后拉升，有人表示与A股无关，等美国开盘再看。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国午后拉升与A股无直接关系", "美国开盘才是关键"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "批评A股此前将回调归咎韩国和特朗普，现在暴露是自身市场问题。",
+    "sentiment": "negative",
+    "key_opinions": ["A股下跌是自身问题非外部因素", "拿外部因素当遮羞布", "市场自身制度存在根本缺陷"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "本金亏20%后今日小幅翻红，有人乐观认为快熬过去了，也有人在反驳。",
+    "sentiment": "mixed",
+    "key_opinions": ["小幅翻红给人一线希望", "有人觉得第二波牛市要来", "亏损20%仅翻红0.15%杯水车薪"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "银行股低开后拉红被视为真正的好存储，吐槽自己没坚持住银行股。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行低开就是抄底机会", "银行盘子大国家队好拉", "其他股越拉越死让人无奈"],
+    "mentioned_stocks": ["银行", "海力士"]
+  },
+  {
+    "index": 28,
+    "summary": "在270元买入某股票一手，边涨边调侃赚饭钱，随后跳水又回本。",
+    "sentiment": "mixed",
+    "key_opinions": ["小仓位试探性买入", "行情波动大短时间盈亏翻转", "有人建议250以下再接"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "亏损太大无心炒股转而玩游戏，反映市场对生活情绪的严重影响。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重影响日常生活", "有人选择跑路退出等牛市", "用游戏逃避市场痛苦"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "上周抄底创业板ETF今日已亏10%，讨论科技股是否还有底。",
+    "sentiment": "negative",
+    "key_opinions": ["抄底科技ETF一周亏10%", "科技板块看不到底部", "等反弹结束再定投新周期"],
+    "mentioned_stocks": ["创业板ETF", "人工智能ETF", "科创ETF"]
+  },
+  {
+    "index": 31,
+    "summary": "批评政策打断商业航天和AI软件行情，现在科技A杀套牢资金创历史之最。",
+    "sentiment": "negative",
+    "key_opinions": ["政策干预打断市场自主节奏", "科技A杀套牢天量资金史无前例", "市场本质是筹码交换非价值投资"],
+    "mentioned_stocks": ["商业航天", "AI软件"]
+  },
+  {
+    "index": 32,
+    "summary": "研究红利和行业龙头股票组合，列出多个板块推荐标的，认为当前市场难做。",
+    "sentiment": "mixed",
+    "key_opinions": ["红利策略依然有效", "当前市场确实没法做", "港口板块走势强劲值得关注"],
+    "mentioned_stocks": ["银行", "神华", "海油", "紫金", "比亚迪", "茅台", "恒瑞", "迈瑞"]
+  },
+  {
+    "index": 33,
+    "summary": "研究机构预测AI资本开支狂欢或2028年终结，讨论A股可能跟跌风险。",
+    "sentiment": "negative",
+    "key_opinions": ["AI资本开支不可能持续暴增", "A股可能跟跌美股AI暴跌", "杂毛股已被抛弃资金回流美股"],
+    "mentioned_stocks": ["谷歌", "微软", "Meta"]
+  },
+  {
+    "index": 34,
+    "summary": "戏谑约上交所喝咖啡，实为讽刺性抗议市场表现，买花买纸钞暗示不吉利。",
+    "sentiment": "negative",
+    "key_opinions": ["用喝咖啡讽刺抗议市场", "买纸钞暗示对市场绝望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "疑惑A股午休期间韩国股市拉升，分析可能是杀空头或狙击做空A股资金。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国午休拉升可能是杀空头", "部分资金狙击做空A股", "空头杠杆高被平仓回补"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "对比韩国市场，批评A股表现更差，有人表示不是怕而是心死。",
+    "sentiment": "negative",
+    "key_opinions": ["A股比韩国市场表现更差", "投资者已从恐惧变为心死", "对市场彻底失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "新易盛日周月线全部无获利筹码，抄底者全被套，跌幅远超预期。",
+    "sentiment": "negative",
+    "key_opinions": ["新易盛所有周期均无获利筹码", "一路抄底一路跌无任何反弹", "跌幅之深堪比脚踝斩"],
+    "mentioned_stocks": ["新易盛"]
+  },
+  {
+    "index": 38,
+    "summary": "放量大跌被认为是反弹前兆，但多数人质疑放量不够，警惕死猫跳。",
+    "sentiment": "mixed",
+    "key_opinions": ["放量大跌可能预示反弹", "多数人认为放量不足或只是死猫跳", "周五不宜急于抄底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "模拟盘操作股指期货赚钱很快，但实盘难度大，讨论做空对冲被套仓位的可行性。",
+    "sentiment": "mixed",
+    "key_opinions": ["期货赚钱快但收手难", "开股指期货需50万门槛", "做空对冲被套科技股思路可考虑"],
+    "mentioned_stocks": ["股指期货", "科技股"]
+  },
+  {
+    "index": 40,
+    "summary": "清仓跑路亏20多，也有人认为今天是不错的入场点买红利股。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损20%后选择清仓离场", "有人认为今天是入场机会", "只适合买红利股不适合科技"],
+    "mentioned_stocks": ["红利股"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论某股拉升力度太弱，对反弹缺乏信心。",
+    "sentiment": "negative",
+    "key_opinions": ["拉升力度太弱令人失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "阳光乳业连续五天跌停，无融资盘也跌成这样，庄家出货杀跌恐慌蔓延。",
+    "sentiment": "negative",
+    "key_opinions": ["连续五天跌停极其惨烈", "杂毛股断板应果断离场", "盈利就跑形成恐慌踩踏"],
+    "mentioned_stocks": ["阳光乳业", "九阳", "百洋"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论今日是否杀出恐慌盘，放量说明有人开始交出筹码，但多数认为还不够恐慌。",
+    "sentiment": "mixed",
+    "key_opinions": ["放量说明有恐慌盘出逃", "真正的恐慌分时还没出现", "量化破位触发减仓而非散户"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "讨论每天低吸沪深300ETF做T的策略，认为风险低但国家队目的可能是分摊伤害。",
+    "sentiment": "mixed",
+    "key_opinions": ["沪深300ETF做T风险较低", "国家队希望散户分摊伤害", "做T一个月也未必能赚10%"],
+    "mentioned_stocks": ["沪深300ETF"]
+  },
+  {
+    "index": 45,
+    "summary": "李大霄发视频劝投资者关注身体家庭，被解读为可能见底信号，也可能是长期筑底。",
+    "sentiment": "mixed",
+    "key_opinions": ["李大霄发劝慰视频或暗示见底", "也可能只是长期筑底开始", "市场需时间修复指数失效"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "平安保险开始拉升突破50元，错过低吸机会的人后悔，有人已卖飞。",
+    "sentiment": "mixed",
+    "key_opinions": ["平安拉升走势凶猛突破50", "国家队拉保险就一直拉", "卖飞后回本不亏即可"],
+    "mentioned_stocks": ["平安", "保险"]
+  },
+  {
+    "index": 47,
+    "summary": "提醒上证从3570拉回但仍跌1.2%，连续两日下跌不应高兴。",
+    "sentiment": "negative",
+    "key_opinions": ["上证从低点拉回但仍跌1.2%", "连续两日下跌应保持警惕", "红利股今天表现相对较好"],
+    "mentioned_stocks": ["上证", "红利"]
+  },
+  {
+    "index": 48,
+    "summary": "中远海控分红后走势强劲快速填权，看好后续加仓机会。",
+    "sentiment": "positive",
+    "key_opinions": ["海控分红后快速填权走势强", "前几天洗盘后今日上涨", "16元以下可考虑加仓"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论取钱买显卡是否比炒股升值更快，显卡短缺和DRAM扩产等因素分析。",
+    "sentiment": "mixed",
+    "key_opinions": ["显卡短期可能因缺货升值", "实物交易流动性差不如股票", "电子产品不宜长期囤积"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "有人称今日极大概率逼空建议进场，但多数人认为风险太大或曾因此被套。",
+    "sentiment": "mixed",
+    "key_opinions": ["有人赌今日逼空行情", "此前类似言论已被套认亏", "散户全怕了才会真正反转"],
+    "mentioned_stocks": []
+  }
+]
+```
