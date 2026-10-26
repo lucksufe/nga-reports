@@ -1,0 +1,340 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论交易猿全龙的净值回撤情况，从高点4降至1.2附近，涉及大佬身份辨认。",
+    "sentiment": "negative",
+    "key_opinions": ["净值从年中高点4一路杀到1.2附近", "对交易猿名字有争议", "市场大跌导致大佬净值大幅回撤"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户以16.27卖出海狗股票，成交价与市场价不符，讨论逐笔成交和滑点问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["需查看逐笔明细了解成交过程", "大单买入滑点导致异常成交很正常", "凌空挂单稀少情况下出现少见成交"],
+    "mentioned_stocks": ["海狗"]
+  },
+  {
+    "index": 3,
+    "summary": "九阳股份六连板成穿越龙，带动百洋、海洋王、上海九百等多板块炒作链。",
+    "sentiment": "positive",
+    "key_opinions": ["九阳系带动多个关联板块持续炒作", "A股炒小炒差现象突出", "散户联想能力强于量化"],
+    "mentioned_stocks": ["九阳股份", "百洋", "海洋王", "上海九百", "上海洗霸"]
+  },
+  {
+    "index": 4,
+    "summary": "新股民四月入坑半年基本持平，经历A杀仍不亏，被赞超越多数老股民。",
+    "sentiment": "positive",
+    "key_opinions": ["新手半年不亏已超越多数老股民", "半仓锂电新能源运气好", "A杀行情比游戏刺激"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "阿里蚂蚁银行注册送股票活动讨论，开户充值3000送阿里小米股份，属拉新手段。",
+    "sentiment": "mixed",
+    "key_opinions": ["蚂蚁银行开户充值送股票属拉新", "需满足一定条件并非白送", "散股也能慢慢卖出"],
+    "mentioned_stocks": ["阿里", "小米"]
+  },
+  {
+    "index": 6,
+    "summary": "PCB板块遭集体重挫7%以上，仅胜宏靠业绩小作文勉强维持，质疑业绩逻辑。",
+    "sentiment": "negative",
+    "key_opinions": ["PCB全板块暴跌仅胜宏存活", "杀的就是业绩好的股票", "A股科技无股东回馈炒业绩同炒小炒差"],
+    "mentioned_stocks": ["胜宏"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论建筑、电网设备等板块走势健康，提及北新建材和许继华明平等慢涨股。",
+    "sentiment": "positive",
+    "key_opinions": ["建筑板块配合巴菲特加仓房地产有行情", "电网设备许继华明平高持续慢涨", "中美国房地产周期不同"],
+    "mentioned_stocks": ["北新建材", "许继电气", "华明装备", "平高电气"]
+  },
+  {
+    "index": 8,
+    "summary": "大资金回撤数千万复盘本轮暴跌，技术面全部失效，抄底资金连环被套死亡螺旋。",
+    "sentiment": "negative",
+    "key_opinions": ["下跌史无前例技术指标全部失效", "抄底资金连环被套形成死亡螺旋", "仅GJD资金维持市场"],
+    "mentioned_stocks": ["东山精密", "源杰科技", "PCB"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论药明康德三季报是否可赌，历史业绩后必涨但本质是筹码游戏。",
+    "sentiment": "mixed",
+    "key_opinions": ["历史业绩公布后次日均涨但不可刻舟求剑", "业绩已明牌180-190亿", "利好出尽时可能是兑现日"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 10,
+    "summary": "兆易创新从800多跌至400以下，持仓者套牢绝望，讨论是否有反弹机会。",
+    "sentiment": "negative",
+    "key_opinions": ["800成本脚踝斩太吓人", "500成本装死不补仓", "28年可能才有机会"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论周五临近午盘缩量拉升规律，猜测下午走势，怀疑GJD护盘操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["周五拉升靠GJD今天未必有", "市场博弈越来越出其不意", "如果无GJD下午资金会T出去"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "股民亏损30%本金想逃却逃不掉，讨论是否应该割肉认输。",
+    "sentiment": "negative",
+    "key_opinions": ["亏30%本金想割肉认输", "今年亏30%算少的了", "反弹不跑后面可能跌到3100"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "贵金属持仓套牢半年，加息周期下想换股，但整体市场哀鸿遍野无处可逃。",
+    "sentiment": "negative",
+    "key_opinions": ["加息周期贵金属长时间没救", "外面一样挨打别换了", "乱操作只会两头挨打"],
+    "mentioned_stocks": ["黄金ETF", "紫金矿业", "湖南白银"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论今年多少人跑赢余额宝，红利低波ETF年初至今仅2-4个点收益。",
+    "sentiment": "negative",
+    "key_opinions": ["满仓红利跑赢余额宝勉强", "红利低波ETF年初至今仅2-4%", "买入时机影响收益"],
+    "mentioned_stocks": ["红利低波ETF"]
+  },
+  {
+    "index": 15,
+    "summary": "李大霄发暗示吃涨停，从喝酒图推断白酒皇台，散户跟进获利。",
+    "sentiment": "positive",
+    "key_opinions": ["大霄暗示白酒皇台吃涨停", "散户资金灵活随时可跑是优势", "从暗示图推断需敏锐洞察"],
+    "mentioned_stocks": ["皇台酒业"]
+  },
+  {
+    "index": 16,
+    "summary": "PCB三天暴跌15%遭天谴，业绩好反被杀，金安国纪跌停沪电接近跌停。",
+    "sentiment": "negative",
+    "key_opinions": ["PCB三天跌15%业绩好反被杀", "散户爱看业绩但业绩好才能出货", "A股特色补跌机制"],
+    "mentioned_stocks": ["PCB", "金安国纪", "沪电股份", "胜宏"]
+  },
+  {
+    "index": 17,
+    "summary": "指数开盘V形反转猜测是否大奇迹日，但缩量无量拉升信心不足。",
+    "sentiment": "mixed",
+    "key_opinions": ["缩量想V拉升没量不行", "指数回来钱没回来", "信任危机根上有问题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "炒小炒差行情一日结束，隔日T套路再现，科技股受美股影响大。",
+    "sentiment": "negative",
+    "key_opinions": ["隔日T套路反复收割", "含科量高看美股脸色", "小作文骗人做隔日T"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "国家队（狗队）收割不给反弹闷杀大佬，私募基金亏损严重中产返贫。",
+    "sentiment": "negative",
+    "key_opinions": ["大佬等反弹被直接闷杀", "公私募亏损最终转嫁散户", "sai佬从9000万回撤至2000多万"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 20,
+    "summary": "市场被训练成赌徒，天天猜国家队操作，基本面无人在意，大盘可拉直线。",
+    "sentiment": "negative",
+    "key_opinions": ["基本面外部环境无人在意", "故意把人往赌徒培养", "散户长期只能玩红利"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "午盘拉升引发反攻猜测，但无量拉升疑似钓鱼，与周五剧本类似。",
+    "sentiment": "mixed",
+    "key_opinions": ["无量拉升纯属钓鱼", "与周五同样的剧本", "早上放量后缩量V疑似卖出键被关"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "电解铝讨论帖反复被删，有色金属板块今日大面，铜企产能不足推高铜价。",
+    "sentiment": "negative",
+    "key_opinions": ["有色板块今日大跌紫金跌6%", "铜企产能不足将推高铜价", "电解铝四大标的宏桥电投云铝神火"],
+    "mentioned_stocks": ["宏桥控股", "电投能源", "云铝股份", "神火股份", "紫金矿业"]
+  },
+  {
+    "index": 23,
+    "summary": "小作文说万亿补贴土地财政，但地产股未大涨，讨论补贴方向是否利空地产。",
+    "sentiment": "mixed",
+    "key_opinions": ["补贴土地收入缺口非直接利好地产", "从股市提钱填坑反成利空", "真假参半看看就好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "市场拉升后回落做T收割，韭菜被连根拔起。",
+    "sentiment": "negative",
+    "key_opinions": ["拉升完就是收割", "做T套路明显", "韭菜被连根拔起"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "沪电（护垫）发业绩后一蹶不振，炒预期不炒业绩，明年看英伟达Rubin。",
+    "sentiment": "negative",
+    "key_opinions": ["业绩公布后反而跌炒预期", "明年看Rubin相关标的", "行情差管住手"],
+    "mentioned_stocks": ["沪电股份", "胜宏"]
+  },
+  {
+    "index": 26,
+    "summary": "周五放量追入被埋4个点，美国不降息前决定退出市场提资金到银行。",
+    "sentiment": "negative",
+    "key_opinions": ["周五放量红盘追入被套4%", "大跌趋势一次拉升无法扭转", "一阳改三观不可取"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "大普微逆势拉20cm涨停，资金勇气可嘉，关注龙虎榜。",
+    "sentiment": "positive",
+    "key_opinions": ["大普微逆势20cm涨停", "龙虎榜可看资金来源", "市场弱势中敢拉涨停"],
+    "mentioned_stocks": ["大普微"]
+  },
+  {
+    "index": 28,
+    "summary": "分享超短策略：穿透股东户数建仓集中度高股票，被嘲讽如同彩票必胜法。",
+    "sentiment": "mixed",
+    "key_opinions": ["穿透股东数据建仓策略不可行", "彩票开奖号码法讽刺", "只有特定资金才能做到"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "宇树科技一周反弹50%+，最不被看好的公司反弹最猛，说明价格决定一切。",
+    "sentiment": "positive",
+    "key_opinions": ["没有垃圾公司只有垃圾价格", "泥潭反买逻辑被验证", "AI具身智能叙事借机炒作"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 30,
+    "summary": "赤峰黄金在黄金跌破3980时独自拉升带动黄金板块，被赞真国家队。",
+    "sentiment": "positive",
+    "key_opinions": ["赤峰黄金一己之力拉升黄金板块", "紫金也被带动翻红", "可能是短暂现象后续大跳水"],
+    "mentioned_stocks": ["赤峰黄金", "紫金矿业"]
+  },
+  {
+    "index": 31,
+    "summary": "胜宏科技逆势翻红成PCB龙头，机构持仓少被动资金有望进入。",
+    "sentiment": "positive",
+    "key_opinions": ["胜宏逆势翻红成PCB大哥", "机构持仓少被动资金将进入", "陈涛回购10亿或11月执行"],
+    "mentioned_stocks": ["胜宏", "PCB"]
+  },
+  {
+    "index": 32,
+    "summary": "荷兰黑吃安世半导体事件无下文，闻泰科技被ST，双方僵持双输局面。",
+    "sentiment": "negative",
+    "key_opinions": ["闻泰科技已被ST股民输惨", "法律僵局运营分家外交出路", "安世中国完成去荷兰化独立"],
+    "mentioned_stocks": ["闻泰科技"]
+  },
+  {
+    "index": 33,
+    "summary": "质疑谁在恶意做空A股，连续砸盘离场，险资基金接力卖出。",
+    "sentiment": "negative",
+    "key_opinions": ["连续砸盘疑似险资等机构卖出", "国家队基金接力出货", "市场信任崩溃远离粪坑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "发帖问兆易创新是否开启主升，被众人质疑看错行情，实际是下跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["以为兆易创新放量红盘+4%实为下跌", "众人调侃色盲看反", "兆易创新仍在弱势中"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论午盘钩子是否出现，是否应进场或做T，缩量下自行把握。",
+    "sentiment": "mixed",
+    "key_opinions": ["午盘钩子出现犹豫是否进场", "有钩子应提前进再T出", "持续缩量需自行判断"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "早盘集合竞价T出周五加仓，今日无放量是最大问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["集合竞价T出周五加仓仓位", "今天没放量是最大问题", "大V天龙方向不确定"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "主张只买跌无可跌的好人股，坏人股涨跌没底但好股预期收益低。",
+    "sentiment": "negative",
+    "key_opinions": ["坏人股涨快跌也没底", "跌无可跌的好人股不多", "好人股预期收益普遍不高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "宇树科技被称为大A脊梁，越喷越涨，散户调侃追高风险。",
+    "sentiment": "positive",
+    "key_opinions": ["宇树科技越喷越涨成市场脊梁", "之前被称为植物人玩具公司", "追高买入可能被套"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 39,
+    "summary": "周五拉升后今日暴跌更痛苦，梦碎感强烈头昏眼花。",
+    "sentiment": "negative",
+    "key_opinions": ["周五拉升今日暴跌更痛", "抱摔式行情令人绝望", "不如直接跌来得痛快"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "分享满屏绿六数字截图，调侃绿之恶魔，市场惨淡。",
+    "sentiment": "negative",
+    "key_opinions": ["满屏绿色数字市场惨淡", "都在国家队掌控中", "绿之恶魔寓意市场下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "数据显示散户今年亏损不深，可能是提前割肉或买低风险产品拉低数据。",
+    "sentiment": "mixed",
+    "key_opinions": ["支付宝数据含低风险产品失真", "真正炒股的散户亏损多", "看券商数据更准确"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "川普发推提及建筑工人利好房地产，被调侃为新主线，海螺水泥受益。",
+    "sentiment": "mixed",
+    "key_opinions": ["川普推特提及房地产利好建筑", "海螺水泥可能受益", "消息真实性存疑纯属娱乐"],
+    "mentioned_stocks": ["海螺水泥"]
+  },
+  {
+    "index": 43,
+    "summary": "周五拉升今日全跌回去，质疑国家队做T，保指数不保个股。",
+    "sentiment": "negative",
+    "key_opinions": ["科技跌破周五新低国家队做T", "一笔资金三吃银行双创轮动", "保指数不保个股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "半天行情结束暴跌，小作文操控市场，市场脱离基本面由个人意志决定。",
+    "sentiment": "negative",
+    "key_opinions": ["开盘拉银行后泥沙俱下", "小作文操控市场脱离规律", "一个具体的人决定趋势走向"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "讨论看清A股真相后为何还坚持交易，多数人因出不去或赌博快感而留下。",
+    "sentiment": "negative",
+    "key_opinions": ["资金进出不便只能留在A股", "炒股如赌博产生快感成瘾", "对未来交易能力和A股弹性有信念"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "质疑小作文说外资不满砸盘，实际外资占比低，险资或才是砸盘主力。",
+    "sentiment": "mixed",
+    "key_opinions": ["外资占A股比例低不可能砸崩", "险资砸盘更合理", "散户最不满却无力砸盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "洛阳钼业持续下跌遭天谴，有色板块普遍疲软，地缘风险不可控。",
+    "sentiment": "negative",
+    "key_opinions": ["洛阳钼业持续下跌无补涨", "有色板块整体疲软", "避开刚果三兄弟地缘风险"],
+    "mentioned_stocks": ["洛阳钼业"]
+  },
+  {
+    "index": 48,
+    "summary": "推荐通宇通讯埋伏韩国AI-RAN会议，英伟达或出席，题材交易机会。",
+    "sentiment": "positive",
+    "key_opinions": ["韩国AI-RAN会议或英伟达出席", "通宇通讯收购佳贤通信25%股份", "时间节点提前炒风险不确定"],
+    "mentioned_stocks": ["通宇通讯", "佳贤通信", "中兴通讯", "诺基亚"]
+  }
+]
+```
