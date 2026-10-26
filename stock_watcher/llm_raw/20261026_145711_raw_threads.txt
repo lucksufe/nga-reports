@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "澜起科技强势阴包阳引发恐慌，散户抱怨科技股集体走弱，准备割肉止损。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股集体走弱没有最低只有更低", "亏损严重准备割肉止损", "多只科技股走势相似持续下跌"],
+    "mentioned_stocks": ["澜起科技", "东山精密", "长电科技", "通富微电", "长飞光纤"]
+  },
+  {
+    "index": 2,
+    "summary": "市场持续下跌看不到反弹希望，散户悲观情绪蔓延，怀疑人为打压市场。",
+    "sentiment": "negative",
+    "key_opinions": ["外围反弹时被人为打压不让反弹", "全部等反弹大概率不会反弹", "博主清仓离场市场信心崩溃"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "今日亏损惨重，楼主晒出账户截图呼吁散户稳住心态。",
+    "sentiment": "negative",
+    "key_opinions": ["今日血亏心态崩溃", "需要稳住心态"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "全仓腰斩求助，讨论装死不动能否回本，个股装死风险极大。",
+    "sentiment": "negative",
+    "key_opinions": ["全仓腰斩亏损惨重", "个股装死可能继续深跌至脚踝斩", "指数可装死个股算了换批个股了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "今日拉科创50、A500、沪深300等宽基指数但仍被抛压压回。",
+    "sentiment": "negative",
+    "key_opinions": ["科创50买入仍被抛压压回", "拉指数让散户觉得买不动继续吸筹", "大量抛压未止跌"],
+    "mentioned_stocks": ["科创50", "A500", "沪深300"]
+  },
+  {
+    "index": 6,
+    "summary": "大盘操作引发吐槽，试图拉科技拉不动后转拉红利，散户愤怒无奈。",
+    "sentiment": "negative",
+    "key_opinions": ["试图拉科技拉不动改拉红利", "资金买入科创板ETF无果", "对市场操作极度不满"],
+    "mentioned_stocks": ["588000"]
+  },
+  {
+    "index": 7,
+    "summary": "宇树无业绩反弹更猛，因流通盘小无套牢盘，光存有业绩但套牢盘多难反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["宇树无业绩但小盘股反弹更猛", "无套牢盘比有天量套牢盘反弹快", "有无业绩都不分红与股民无关"],
+    "mentioned_stocks": ["宇树", "光模块"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论科技股是否还有上涨理由，套牢盘巨大资金不愿接盘，悲观为主。",
+    "sentiment": "negative",
+    "key_opinions": ["科技套牢盘巨大无人愿意接盘解套", "抱团崩了反弹有但难创新高", "业绩高增持续到29年股价才能回来"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 9,
+    "summary": "周五放量拉升白折腾，今日缩量下跌，资金流向红利板块，下跌中继风险。",
+    "sentiment": "negative",
+    "key_opinions": ["周五拉升白折腾今日缩量3000亿", "资金全去石油煤炭银行红利板块", "缩量下跌是危险的下跌中继"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "认为市场意图将散户资金套住数年，腰斩后长期持有想法占上风，高位接盘被套。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股半个月腰斩难以拉升回本", "套住后长期持有观望被套3到5年", "高位喊牛买热搜接盘基金收管理费"],
+    "mentioned_stocks": ["隆基绿能"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论NGA知名投资者净值变化，混淆名字引发争论，净值从高点大幅回撤。",
+    "sentiment": "negative",
+    "key_opinions": ["净值从年中4一路杀下来到1.2", "名字混淆引发争论", "超级大佬净值也大幅回撤"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "质疑天天拉银行的原因，怀疑与大行利益相关，资金流向存疑。",
+    "sentiment": "negative",
+    "key_opinions": ["天天拉银行疑似利益相关", "拉科技放量拉银行缩量", "资金去向不明"],
+    "mentioned_stocks": ["工商银行"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论机构险资从AI硬件撤退后的资金去向，主要流向石油白酒等防御板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["机构资金转向石油白酒机器人等避险", "AI硬件不给散户接盘转炒小票", "资金分散至避险和现金"],
+    "mentioned_stocks": ["中国石油", "迈瑞医疗", "上证50"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论物理AI概念即AI外设机器人等，月内涨50%认为纯概念炒作垃圾。",
+    "sentiment": "negative",
+    "key_opinions": ["物理AI即AI外设机器人等概念", "月内涨50%比AI硬件更离谱", "纯纯垃圾无业绩支撑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "买ETF亏20个点痛苦，躲过个股雷却没躲过指数下跌，油价高企加重担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["买ETF亏20个点躲过个股雷没躲过指数锤", "油价114高位未清仓后悔", "588170科技ETF被套"],
+    "mentioned_stocks": ["588170"]
+  },
+  {
+    "index": 16,
+    "summary": "海南橡胶周期反转观点二次发车，周期股可刻舟求剑注意仓位控制。",
+    "sentiment": "positive",
+    "key_opinions": ["周期股忽略牛熊市可刻舟求剑", "缓慢加仓中再跌再加", "上波跟车已获四五点收益"],
+    "mentioned_stocks": ["海南橡胶"]
+  },
+  {
+    "index": 17,
+    "summary": "上证指数靠银保证三桶油拉住不调整，指数失真脱离基本面，仅保科创受压。",
+    "sentiment": "negative",
+    "key_opinions": ["银保证三桶油拉指数掉不下去", "指数失真纯粹筹码赌大小", "只杀科创其他指数一起拉"],
+    "mentioned_stocks": ["上证指数", "科创50"]
+  },
+  {
+    "index": 18,
+    "summary": "指数回来了但散户钱没回来，指数失真赚钱效应极差。",
+    "sentiment": "negative",
+    "key_opinions": ["指数回来但钱没回来", "年初17连阳一年下来亏15%", "3700都没回来谈何回来"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 19,
+    "summary": "开会日上证强行拉红维稳，散户对市场漏洞和不公感到彻底恶心。",
+    "sentiment": "negative",
+    "key_opinions": ["上证拉红是给老爷们面子", "市场漏洞多获利者不明", "炒股多年被彻底恶心到"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 20,
+    "summary": "中远海控涨停表现强势，持有者吃涨停满意，回购抬升价值。",
+    "sentiment": "positive",
+    "key_opinions": ["三个点涨停底仓没动收益好", "回购把吃水线从14干到15", "价格跌到16再接"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 21,
+    "summary": "莲花控股短线博反弹发车，180日线附近异常放量有人偷偷吸筹。",
+    "sentiment": "positive",
+    "key_opinions": ["180日线附近异常放量博短线反弹", "有人偷偷摸摸在吸筹", "实际是算力概念非味精"],
+    "mentioned_stocks": ["莲花控股"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论今天是否该跑，多数人认为所谓机会不存在，大盘红靠石油银行。",
+    "sentiment": "negative",
+    "key_opinions": ["机会在哪大部分票在水下", "大盘红靠石油银行拉的", "周五拉起来的票今天没出水下"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "机器人能否成为主线引发讨论，宇树大涨吸引关注但击鼓传花风险大。",
+    "sentiment": "mixed",
+    "key_opinions": ["机器人可能成主线宇树上纬大涨", "宇树几天涨60个点接近翻倍", "机器人现阶段基本纯秀炒作"],
+    "mentioned_stocks": ["宇树", "上纬新材"]
+  },
+  {
+    "index": 24,
+    "summary": "中远海控快速填权表现强势，运价高业绩看好，坚定持有者受益。",
+    "sentiment": "positive",
+    "key_opinions": ["两个交易日就填权表现强势", "运价高三季报业绩亮眼", "坚定持有者稳稳幸福"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论周末救市政策小作文真假，未见政策落地，救市不及预期担忧。",
+    "sentiment": "mixed",
+    "key_opinions": ["救市政策小作文未见落地", "没消息才是最大的好消息", "政策不及预期反而更危险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "逆回购收益率降至1%收益快没手续费高，市场不缺钱缺机会。",
+    "sentiment": "negative",
+    "key_opinions": ["逆回购收益率仅1%收益快没手续费高", "市场不缺钱缺机会", "部分券商手续费可打一折"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "SK海力士杠杆ETF将在美退市清算，AI行情降温，杠杆产品亏损巨大。",
+    "sentiment": "negative",
+    "key_opinions": ["海力士杠杆ETF退市AI行情降温", "杠杆ETF跌90%以上磨损严重", "杠杆只有单边行情才能赚钱"],
+    "mentioned_stocks": ["SK海力士"]
+  },
+  {
+    "index": 28,
+    "summary": "观察588000放量买入，A500和沪深300也放量，但效果有限。",
+    "sentiment": "mixed",
+    "key_opinions": ["588000放量买入", "A500华泰柏瑞和300易方达放量", "放量买入只是听了个响"],
+    "mentioned_stocks": ["588000", "A500", "沪深300"]
+  },
+  {
+    "index": 29,
+    "summary": "认为不拉科技反而好，拉科技散户追入被套，认清市场本质。",
+    "sentiment": "negative",
+    "key_opinions": ["拉科技散户牛回速归然后被套", "想投资去正规市场A股是赌场", "认清市场本质参与炒小炒差"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "本月什么都不做狂吃伤害，连账户红都是奢望。",
+    "sentiment": "negative",
+    "key_opinions": ["本月没操作狂吃伤害", "连账户红都是奢望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "分析A股两头堵困境：通缩、不能降息、消费疲弱、地方债问题，资金去向成谜。",
+    "sentiment": "negative",
+    "key_opinions": ["全球通胀下中国独一份通缩", "社保城投债土地财政三座大山", "本质是分配问题不解决无法拉动消费"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "金价大跌后深圳水贝黄金市场人气爆棚，实物黄金被视为保值抗通胀资产。",
+    "sentiment": "positive",
+    "key_opinions": ["金价大跌水贝市场人比菜市场多", "实物黄金保值长期能增值", "买黄金本质是抗风险非投机"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "市场操作难选择睡觉大法，科技不敢接油气半死不活，空仓最好。",
+    "sentiment": "negative",
+    "key_opinions": ["科技不敢接油气半死不活", "直觉空仓最好忍不住要交易", "医药门槛高但复杂才能赚钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "周五放量拉科技今天放量砸科技改拉银行，操作反复疑似训化散户出货。",
+    "sentiment": "negative",
+    "key_opinions": ["周五拉科技今天砸科技猛拉银行", "把散户当巴甫洛夫的狗循环训化", "丁蟹做T拉银行保指数继续"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "东山精密一个月二度腰斩，不带抵抗持续暴跌。",
+    "sentiment": "negative",
+    "key_opinions": ["一个月二度腰斩毫无抵抗", "走势恐怖如斯"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 36,
+    "summary": "宣告救市失败科创板彻底去世，大机构套牢盘太多散户幻想反弹破灭。",
+    "sentiment": "negative",
+    "key_opinions": ["救市只救上证其他真不熟", "套牢盘太多不爆机构仓位难反弹", "稳定散户情绪掩护主力出货"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 37,
+    "summary": "大业71%换手率板上吸筹，走势危险疑似主力换手。",
+    "sentiment": "mixed",
+    "key_opinions": ["71%换手率板上大量吸筹", "走势危险疑似主力换手", "明天想走没啥问题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "爆拉银行后继续拉银行概率大，救市资金有限不亏只能拉银行。",
+    "sentiment": "negative",
+    "key_opinions": ["继续拉银行都主升浪来了", "救市资金有限还不能亏", "没有对手盘年底拉到4000轻松"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "赤峰黄金逆势拉升被视为市场唯一多头，带动黄金板块反攻但持续性存疑。",
+    "sentiment": "positive",
+    "key_opinions": ["赤峰黄金一己之力带动黄金板块反攻", "被戏称赤峰老庄真国家队", "每次小拉后大跳水持续性存疑"],
+    "mentioned_stocks": ["赤峰黄金", "紫金矿业"]
+  },
+  {
+    "index": 40,
+    "summary": "机构资金去拉机器人泡沫不给科技AI链解套，炒热新概念逼散户割肉。",
+    "sentiment": "negative",
+    "key_opinions": ["机构拉机器人泡沫不给科技解套", "炒香另外一块肉逼科技人割肉", "资金不是来做慈善的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "胜宏科技被吹为AI硬件反攻吹哨人，但只是超跌反弹套牢盘压力大。",
+    "sentiment": "mixed",
+    "key_opinions": ["胜宏超跌反弹可能是AI硬新风向", "上面全是套牢盘压力大拉不动", "只是超跌反弹其他家刚破年线"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 42,
+    "summary": "老登（银行煤炭石油等传统股）稳健表现好，中国神华和海油等红利股受追捧。",
+    "sentiment": "positive",
+    "key_opinions": ["老登股稳健如中国神华和银行", "越跌越买银行", "中海油卖了都卖飞"],
+    "mentioned_stocks": ["中国神华", "中海油", "工商银行"]
+  },
+  {
+    "index": 43,
+    "summary": "指数好心倒车接人但散户没赚到钱，反复震荡吸筹收割。",
+    "sentiment": "negative",
+    "key_opinions": ["抄底的人赚麻但持有人没赚钱", "一来一回指数没事钱包空了", "筹码博弈散户被反复收割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "沪深300又被拉升但反而死掉，拉升无效做T嫌疑明显。",
+    "sentiment": "negative",
+    "key_opinions": ["沪深300拉升反而死了", "20亿一个点都拉不到", "疑似做T拉升无实际效果"],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 45,
+    "summary": "担心市场抱摔跌破周四低点，指数回来但散户钱没回来。",
+    "sentiment": "negative",
+    "key_opinions": ["担心抱摔击穿周四低点", "很多票已跌穿周四最低点", "指数回来了你钱呢"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "买机器人板块反而不惧下跌赚钱，对比科技股被打庆幸选对。",
+    "sentiment": "positive",
+    "key_opinions": ["机器人票买就有跳起来买不怕", "还好没在科技挨打", "机器人其实就是汽车零部件"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "讨论谁在恶意做空A股，连续爆头砸盘令人恐惧，质疑机构基金出货。",
+    "sentiment": "negative",
+    "key_opinions": ["连续爆头割肉砸盘到底谁在做空", "汪汪队出完机构出机构出完基金出", "今年复刻15年剧情"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "讨论中国海油是否有利空，相比其他两桶油反弹力度最弱走势最差。",
+    "sentiment": "negative",
+    "key_opinions": ["海油三桶油中唯一翻绿走势最差", "中海油34以下算中性低估", "被当操控指数的工具人"],
+    "mentioned_stocks": ["中国海油", "中国石油", "中国石化"]
+  },
+  {
+    "index": 49,
+    "summary": "科技机构大票暴跌严重，PCB光模块等业绩好也跌惨，机构不惜代价割肉。",
+    "sentiment": "negative",
+    "key_opinions": ["PCB光模块等业绩好机构大票暴跌", "机构不惜一切代价割肉", "指数不难看因拉银行三桶油"],
+    "mentioned_stocks": ["生益科技", "沪电股份", "东山精密", "宇树"]
+  },
+  {
+    "index": 50,
+    "summary": "天天买入都在低点但账户持续新低，心悸不敢再买，A股大鱼吃小鱼。",
+    "sentiment": "negative",
+    "key_opinions": ["天天买在低点但账户一直新低", "大鱼吃小鱼不管基本面技术面", "下跌后不断抄底变套牢最难"],
+    "mentioned_stocks": []
+  }
+]
+```
