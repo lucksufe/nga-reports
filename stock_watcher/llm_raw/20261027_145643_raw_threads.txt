@@ -1,0 +1,266 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "市场无明显利空却4800+股票下跌，投资者困惑不解",
+    "sentiment": "negative",
+    "key_opinions": ["没消息就是坏消息", "可能受军演等外部因素影响", "市场表现莫名其妙"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "感慨A股股票最终都亏损，讨论银行股抗跌性",
+    "sentiment": "negative",
+    "key_opinions": ["A股什么股票最终都一地鸡毛", "银行股穿越牛熊", "性格决定命运"],
+    "mentioned_stocks": ["工商银行"]
+  },
+  {
+    "index": 3,
+    "summary": "本月多次4000+个股下跌，抄底者被埋，熊市氛围浓厚",
+    "sentiment": "negative",
+    "key_opinions": ["认清熊市现实", "上周抄底的人本周被埋", "抄底三峡亏损惨重"],
+    "mentioned_stocks": ["三峡能源"]
+  },
+  {
+    "index": 4,
+    "summary": "国电电力业绩暴雷带崩电力板块，华电国际等被砸",
+    "sentiment": "negative",
+    "key_opinions": ["国电电力财报差带崩板块", "陕西能源10块以下是送钱", "火电明年涨价预期看好"],
+    "mentioned_stocks": ["华电国际", "陕西能源", "华电辽能", "长江电力", "国电电力", "平安银行"]
+  },
+  {
+    "index": 5,
+    "summary": "科技股持续阴跌不止，创业板19日仅3红，投资者痛苦",
+    "sentiment": "negative",
+    "key_opinions": ["创业板19个交易日仅红3天", "急跌转阴跌更难受", "新易盛还能跌5个点"],
+    "mentioned_stocks": ["新易盛", "创业板"]
+  },
+  {
+    "index": 6,
+    "summary": "指数仅跌1点但个股大跌，质疑指数权重调整意义",
+    "sentiment": "negative",
+    "key_opinions": ["个股都拉稀了", "指数失真严重", "调整权重掩盖真实跌幅"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "割肉后市场仍未拉升，抄底亏损10个点",
+    "sentiment": "negative",
+    "key_opinions": ["抄底抄在半山腰亏10个点", "什么时候走都是对的", "割了也不见反弹"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "上周五诱多把人骗进去，如今被套后悔莫及",
+    "sentiment": "negative",
+    "key_opinions": ["周五误以为好转被套", "右侧大阳线追入现在被套麻", "有人保本出逃过一劫"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "盘中拉指数手段已失效，周五骗人后不再有人相信",
+    "sentiment": "negative",
+    "key_opinions": ["周五骗进来一波人", "大家已不再相信", "盘中大喇叭已用过"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "十月份账户几乎全绿，仅少数人靠红利股微红",
+    "sentiment": "negative",
+    "key_opinions": ["多数人整月几乎没红过", "满仓长江电力的还能赚钱", "有人已放弃不再看账户"],
+    "mentioned_stocks": ["长江电力", "比亚迪"]
+  },
+  {
+    "index": 11,
+    "summary": "感叹抄底反而被抄家，股市风险巨大",
+    "sentiment": "negative",
+    "key_opinions": ["抄底的被抄家", "市场残酷无情", "散户损失惨重"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "质疑国内AI企业缺乏硬件投入，怀疑靠蒸馏技术",
+    "sentiment": "negative",
+    "key_opinions": ["寒武纪环比增长基本停滞", "香农芯创收入降30%", "除DeepSeek外基本都在蒸馏"],
+    "mentioned_stocks": ["寒武纪", "香农芯创"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论股市与经济的关系，质疑管理层和制度水平",
+    "sentiment": "negative",
+    "key_opinions": ["天天拉银行是水平低下的表现", "机制不健全则股市与经济无关", "去年牛市经济也没腾飞"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "从质疑价值投资到成为价值投资者的转变",
+    "sentiment": "mixed",
+    "key_opinions": ["老登吃股息轻松不盯盘", "质疑老登到成为老登", "股息买卖体验好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "年轻时嘲笑价值投资，如今被市场收割后才懂",
+    "sentiment": "negative",
+    "key_opinions": ["年少无知笑老登", "被市场榨干才醒悟", "价值投资更稳妥"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "尾盘宽基资金流入消失，市场加速下跌",
+    "sentiment": "negative",
+    "key_opinions": ["宽基流入消失", "尾盘加速下跌", "没有护盘力量"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "联讯仪器跌破千元，千元股仅剩贵州茅台",
+    "sentiment": "negative",
+    "key_opinions": ["千元股仅剩茅台", "茅台是最后的千股", "昔日千元股纷纷跌落"],
+    "mentioned_stocks": ["联讯仪器", "贵州茅台"]
+  },
+  {
+    "index": 18,
+    "summary": "讽刺市场管理方不作为，市场持续低迷",
+    "sentiment": "negative",
+    "key_opinions": ["收盘大概率最低点", "狗队今天不来护盘", "纯畜生市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "公司半年赚1.7亿却跌停，信息差使散户不利",
+    "sentiment": "negative",
+    "key_opinions": ["信息不对等散户吃亏", "熊市要么空仓要么确定性", "好业绩也跌停"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "市场完全丧失主动买盘，与外围基本面脱钩",
+    "sentiment": "negative",
+    "key_opinions": ["市场与外围美股无关", "好财报也没有正反馈", "gjd不买就无止境下跌"],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 21,
+    "summary": "讽刺护盘力量只在尾盘勾引投资者，市场无实质好转",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘小勾引让人抓耳挠腮", "510300放量还是往下", "建议尽早离去"],
+    "mentioned_stocks": ["510300沪深300ETF"]
+  },
+  {
+    "index": 22,
+    "summary": "质疑救市是否已经失败结束，3674点能否守住",
+    "sentiment": "negative",
+    "key_opinions": ["周五已救完不继续了", "救市是给你跑路机会不是让你赚钱", "银行护住3674以上"],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 23,
+    "summary": "被套牢纠结是否割肉，从微红扛到亏损扩大",
+    "sentiment": "negative",
+    "key_opinions": ["套牢不知割不割", "连一个像样反弹都没有", "从微红扛到快-8%"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "尾盘拉升实为跳水，市场大幅下挫",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘开拉实为跳水", "拉了一坨大的", "俯冲向下跌幅扩大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "银行板块涨的是地方行而非大行，资金炒作逻辑存疑",
+    "sentiment": "mixed",
+    "key_opinions": ["地方行风险大却在涨", "牛市后期涨杂毛", "建行历史新高"],
+    "mentioned_stocks": ["建设银行"]
+  },
+  {
+    "index": 26,
+    "summary": "用三体降临派比喻对市场绝望的投资者心理",
+    "sentiment": "negative",
+    "key_opinions": ["理解了降临派心态", "双输好过单赢", "对自己人最差的永远是自己人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "担心又要杀白马股，高位红利不杀却杀低位白马",
+    "sentiment": "negative",
+    "key_opinions": ["像黑魂烧薪王反复烧", "高位红利不杀杀低位白马", "市场黑暗"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "银行板块向科技股发布劝降书，银行新高 vs 科技大跌",
+    "sentiment": "mixed",
+    "key_opinions": ["打不过就加入银行股", "劝降书出现意味银行要见顶", "银行工资都减了还考核"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讽刺市场明码标价圈钱，对市场形式不满",
+    "sentiment": "negative",
+    "key_opinions": ["明码标价伸手要钱", "市场只是幌子", "反感圈钱行为"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "电解铝讨论帖第三次被删，有色板块大跌",
+    "sentiment": "negative",
+    "key_opinions": ["讨论帖被删第三次了", "紫金大跌六个点", "有色从牛市变熊市"],
+    "mentioned_stocks": ["宏桥控股", "电投能源", "云铝股份", "神火股份", "紫金矿业"]
+  },
+  {
+    "index": 31,
+    "summary": "东鹏特饮突然拉升，讨论其基本面和情绪面原因",
+    "sentiment": "mixed",
+    "key_opinions": ["跌多了偶尔会涨", "股息高基本面稳定", "上蹿下跳量能放大"],
+    "mentioned_stocks": ["东鹏特饮"]
+  },
+  {
+    "index": 32,
+    "summary": "港股相关公司全涨而A股反着走，对比鲜明",
+    "sentiment": "negative",
+    "key_opinions": ["港股涨A股反着来", "A股独立下跌", "说明A股制度问题"],
+    "mentioned_stocks": ["建滔集团", "长飞光纤", "华虹半导体", "剑桥科技"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论上证3674点能否守住，银行护盘失真",
+    "sentiment": "negative",
+    "key_opinions": ["3674点已不值钱", "银行护盘但指数失真", "看3574下一个支撑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "紫金矿业大跌7个点，有色金属持续走弱",
+    "sentiment": "negative",
+    "key_opinions": ["紫金最高跌7个点", "有色早炒完了", "20以下拿盆接"],
+    "mentioned_stocks": ["紫金矿业", "洛阳钼业", "沪电股份"]
+  },
+  {
+    "index": 35,
+    "summary": "市场太惨连骂的帖子都没有，投资者麻木绝望",
+    "sentiment": "negative",
+    "key_opinions": ["连骂的力气都没了", "创业板跌2点见怪不怪", "投资者已麻木成尸体"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 36,
+    "summary": "救市药效极短，反弹只持续半小时到半天",
+    "sentiment": "negative",
+    "key_opinions": ["药效只有半小时", "创业板半小时后就开始跌", "反弹极其短暂"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 37,
+    "summary": "大摩称芯片调整尾声，但投资者认为与A股无关",
+    "sentiment": "negative",
+    "key_opinions": ["那是美股与A股无关", "11月APEC会面可能反转", "创业板到11月怕只剩三位数"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 38,
+    "summary": "紫光国微Q3业绩爆雷，营收利润大幅下滑",
+    "sentiment": "negative",
+    "key_opinions": ["同比环比利润营收大幅下滑", "债转股可能下修", "社
