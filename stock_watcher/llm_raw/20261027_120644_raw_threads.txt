@@ -1,0 +1,319 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "吐槽T+1制度限制纠错，讨论涨跌停与只能做多等制度对散户的影响",
+    "sentiment": "negative",
+    "key_opinions": ["T+1导致无法及时纠错被套", "跟风炒作无基本面就是赌博", "有人认为T+1是保护散户"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "新手开期货账户玩T+0一天亏一万，感慨T+0同样难赚钱",
+    "sentiment": "negative",
+    "key_opinions": ["T+0并非好赚钱的代名词", "应先在A股稳定盈利再玩期货", "期货杠杆风险极大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "外围大涨但科技股持续下跌，散户对科技板块彻底失望",
+    "sentiment": "negative",
+    "key_opinions": ["科技被点杀资金不接盘", "牛市多数散户套在科技里", "信仰资金仍在坚持持有"],
+    "mentioned_stocks": ["华天科技", "长鑫存储"]
+  },
+  {
+    "index": 4,
+    "summary": "豆包接入水电燃气缴费引发大模型抢生活服务入口讨论",
+    "sentiment": "mixed",
+    "key_opinions": ["大模型抢占生活服务入口争夺用户", "担心又变成烧钱抢流量", "国内科技终点都是C端外卖大战"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "长信标普100等权重基金开放额度，讨论手续费贵和限购",
+    "sentiment": "mixed",
+    "key_opinions": ["被动基金手续费过高", "此前限购额度引发关注"],
+    "mentioned_stocks": ["长信标普100等权重"]
+  },
+  {
+    "index": 6,
+    "summary": "市场压抑难忍，科技股昨日强势今日出货让人崩溃",
+    "sentiment": "negative",
+    "key_opinions": ["市场行情压抑让人受不了", "科技股昨日拉高出货"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论A股不顾外围大涨下跌的深层原因，涉及化债和资金外流",
+    "sentiment": "negative",
+    "key_opinions": ["社保城投债从股市抽血化债", "贸易顺差资金未结汇流向海外资产", "情绪化波动大基本无变化却暴跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "质疑国家队为何只花小钱护盘而不大举托底",
+    "sentiment": "negative",
+    "key_opinions": ["护指数资金不愿亏钱", "反向操作才能割散户", "国家队行为难以理解"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "调侃写请示求国家队拉抬自己持仓",
+    "sentiment": "mixed",
+    "key_opinions": ["戏谑式请求救市", "反映散户无奈心态"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "被诈骗大爷两个月仅亏1%跑赢八成散户，讽刺市场",
+    "sentiment": "negative",
+    "key_opinions": ["亏损不到1%已跑赢多数散户", "讽刺正规市场还不如被诈骗", "诈骗追回率比炒股强"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "吐槽神秘力量（国家队）干预市场令人反感",
+    "sentiment": "negative",
+    "key_opinions": ["神秘力量操作让人下头"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "预测尾盘拉沪深300护盘，抱怨市场垃圾时间",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘拉指数已是惯用套路", "市场缺乏赚钱效应", "买入次日就跌不如不买"],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 13,
+    "summary": "持有新华传媒难受想换股，高低位都难操作",
+    "sentiment": "negative",
+    "key_opinions": ["高位不敢追低位不想买", "无脑打板的反而赚钱", "选股陷入两难"],
+    "mentioned_stocks": ["新华传媒", "九阳股份"]
+  },
+  {
+    "index": 14,
+    "summary": "建议买入银行股跟趋势，讨论银行高低位争议",
+    "sentiment": "mixed",
+    "key_opinions": ["银行是护盘方向不会亏", "银行已处高位需谨慎", "银行或为政策想要的慢牛"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 15,
+    "summary": "航运股连涨三天想上车，讨论追涨纠结",
+    "sentiment": "positive",
+    "key_opinions": ["航运连续上涨引发关注", "跌时不买涨了想追不忠诚", "上周五是好上车机会"],
+    "mentioned_stocks": ["招商轮船", "中远海控"]
+  },
+  {
+    "index": 16,
+    "summary": "雪人集团割肉后次日涨停，吐槽被洗出局",
+    "sentiment": "negative",
+    "key_opinions": ["割肉后立即反弹心态崩溃", "纯概念妖股与业绩无关", "主力控盘拉升洗散户"],
+    "mentioned_stocks": ["雪人集团"]
+  },
+  {
+    "index": 17,
+    "summary": "亏损30%却得不到5%反弹，抱怨只跌不涨",
+    "sentiment": "negative",
+    "key_opinions": ["深套后反弹微乎其微", "讽刺给0.1%谢主隆恩"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "赛轮轮胎跌入定投区间，讨论区间操作与基本面",
+    "sentiment": "mixed",
+    "key_opinions": ["适合区间套利不适合长持", "明年轮胎行业业绩普遍承压", "跌破布林下轨可加仓定投"],
+    "mentioned_stocks": ["赛轮轮胎", "海南橡胶"]
+  },
+  {
+    "index": 19,
+    "summary": "调侃百洋股份涨幅不如九阳股份，玄学炒名字",
+    "sentiment": "mixed",
+    "key_opinions": ["炒名字玄学行情", "九阳辨识度更高", "物以稀为贵谐音梗"],
+    "mentioned_stocks": ["百洋股份", "九阳股份"]
+  },
+  {
+    "index": 20,
+    "summary": "又喊今日最后一跌，三个月亏30万心力交瘁",
+    "sentiment": "negative",
+    "key_opinions": ["每天都是最后一跌的自我安慰", "深套亏损巨大情绪崩溃", "跌势持续遥遥无期"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "野村看好机器人赛道，称ChatGPT时刻将提前到来",
+    "sentiment": "positive",
+    "key_opinions": ["机器人重演大模型发展路径", "关注小脑视觉灵巧手等环节", "拐点或早于预期"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论九阳股份卡异动规则下的博弈和炒作心态",
+    "sentiment": "mixed",
+    "key_opinions": ["疑似出货或继续炒作博弈", "跨年妖股或提前启动", "卡异动规则利于做T"],
+    "mentioned_stocks": ["九阳股份", "永和智控"]
+  },
+  {
+    "index": 23,
+    "summary": "中远海控坚挺守住16元，讨论能否继续持有",
+    "sentiment": "positive",
+    "key_opinions": ["海控抗跌表现强劲", "回购价15.2提供支撑", "目标看18元有人加仓"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 24,
+    "summary": "吐槽名字带洋的股票齐涨，玄学炒作盛行",
+    "sentiment": "negative",
+    "key_opinions": ["炒名字生肖谐音成风", "小盘差股被投机炒作", "价值投资沦为笑话"],
+    "mentioned_stocks": ["大洋电机", "北洋股份", "海洋王", "大西洋", "襄阳轴承", "东方海洋", "百洋股份", "兔宝宝", "圣龙股份", "川发龙蟒"]
+  },
+  {
+    "index": 25,
+    "summary": "华正新材业绩好却持续大跌，疑似主力出货",
+    "sentiment": "negative",
+    "key_opinions": ["业绩好股价仍大跌", "疑似大资金出货", "考虑割肉离场"],
+    "mentioned_stocks": ["华正新材"]
+  },
+  {
+    "index": 26,
+    "summary": "哀求停止砸盘科技股，转向银行避险",
+    "sentiment": "negative",
+    "key_opinions": ["科技被持续砸盘绝望", "化债市场性质明显", "转买银行求安稳"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 27,
+    "summary": "药明康德三季报后大跌，感慨好业绩也不涨",
+    "sentiment": "negative",
+    "key_opinions": ["估值不够低业绩撑不住", "涨幅已兑现业绩利好", "越赚钱跌越多的怪象"],
+    "mentioned_stocks": ["药明康德", "格力电器", "华正新材"]
+  },
+  {
+    "index": 28,
+    "summary": "大盘再度下跌引发恐慌，怀疑有人恶意砸盘",
+    "sentiment": "negative",
+    "key_opinions": ["市场信心崩塌情绪悲观", "疑似内资恶意做空", "3700点电风扇轮动难站稳"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "未清仓残余资金犹豫不割，心态微妙",
+    "sentiment": "mixed",
+    "key_opinions": ["不愿持有现金又怕继续跌", "观望不割是否会被拉升"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "讨论银行股当前是否适合进场，高位争议大",
+    "sentiment": "mixed",
+    "key_opinions": ["银行处高位追高风险大", "长持三年以上可随时进", "护盘买上来的价格不稳"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 31,
+    "summary": "调侃市场没意思不如关掉，讨论A股存续逻辑",
+    "sentiment": "negative",
+    "key_opinions": ["市场沦为收割融资渠道", "印花税利益决定不会关", "关了还会割下一代"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "号召网友买入银行ETF把它买崩，反向玄学",
+    "sentiment": "mixed",
+    "key_opinions": ["散户买入即崩的反向魔咒", "小钱凑一手参与", "过往ETF一买就跌经历"],
+    "mentioned_stocks": ["银行ETF", "卫星ETF", "海能达"]
+  },
+  {
+    "index": 33,
+    "summary": "外围大涨A股独跌，怒斥市场割韭菜",
+    "sentiment": "negative",
+    "key_opinions": ["外围全红A股高开跳水", "割没了钱怎么提振消费", "化债过度贪婪"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "追问10:20砸盘者是谁，暗指国家队做T",
+    "sentiment": "negative",
+    "key_opinions": ["拉升被砸疑似国家队", "护盘方向转向减少买入", "做T套利割散户"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "紫光国微三季报业绩爆雷，营收利润双降",
+    "sentiment": "negative",
+    "key_opinions": ["业绩同比环比大幅下滑", "同行增长衬托更显差", "股权激励目标难达"],
+    "mentioned_stocks": ["紫光国微", "复旦微电", "安路科技"]
+  },
+  {
+    "index": 36,
+    "summary": "花旗重申腾讯目标价755港元引发讨论",
+    "sentiment": "mixed",
+    "key_opinions": ["目标价偏高套牢才研究", "AI入口烧钱用户无忠诚", "回购力度减弱难支撑"],
+    "mentioned_stocks": ["腾讯控股"]
+  },
+  {
+    "index": 37,
+    "summary": "吐槽新领导清算旧体系致机构信任崩塌",
+    "sentiment": "negative",
+    "key_opinions": ["新官上任清算前任科技牛", "机构信任瓦解市场走坏", "不愿过度联想敏感话题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "调侃国家队榨干散户资金",
+    "sentiment": "negative",
+    "key_opinions": ["散户被榨取殆尽", "戏谑式语言吐槽"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "建议离开A股去外面玩，亏损够跑多趟香港",
+    "sentiment": "negative",
+    "key_opinions": ["亏损巨大不如消费", "劝退A股投资"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "东鹏特饮因代言人辱华恐遭抵制，股价承压",
+    "sentiment": "negative",
+    "key_opinions": ["代言人负面事件冲击品牌", "已斩仓避险", "利空敏感信息被删帖"],
+    "mentioned_stocks": ["东鹏特饮"]
+  },
+  {
+    "index": 41,
+    "summary": "开盘上涨吟诗庆祝牛来，被劝别奶",
+    "sentiment": "mixed",
+    "key_opinions": ["开盘上涨引发短暂乐观", "吟诗反指怕引来下跌", "谨慎观望十点再看"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "调侃银行股版本答案，多路资金共同青睐",
+    "sentiment": "positive",
+    "key_opinions": ["银行是T1守门员常青树", "多路资金共同认可", "银行周期约十年一轮"],
+    "mentioned_stocks": ["工商银行"]
+  },
+  {
+    "index": 43,
+    "summary": "外围全涨A股天胡开局却全绿，纯资金博弈",
+    "sentiment": "negative",
+    "key_opinions": ["外围利好A股不涨反跌", "纯资金筹码博弈无逻辑", "成交量萎缩缺乏上涨条件"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "发泄后讨论操作方向，看多AI主线但轻仓",
+    "sentiment": "mixed",
+    "key_opinions": ["AI仍是变革性主线", "轻仓参与美股AI反弹", "空仓等3000点或明年"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "电解铝讨论楼被删三次，有色板块今日大跌",
+    "sentiment": "negative",
+    "key_opinions": ["敏感话题被删需谨言慎行", "有色今日大幅回调", "铜紧缺逻辑或推高铜价"],
+    "mentioned_stocks": ["宏桥控股", "电投能源", "云铝股份", "神火股份", "紫金矿业"]
+  }
+]
+```
