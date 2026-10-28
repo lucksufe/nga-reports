@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "以白酒低利润高市值对比科技股PE，讨论A股估值扭曲与泡沫论之争",
+    "sentiment": "negative",
+    "key_opinions": ["白酒利润极低但市值仍高，PE二十几比电子厂还贵", "科技股多数PE已降到30以下，泡沫论站不住", "周期电子股利润更好但估值更低，可继续腰斩"],
+    "mentioned_stocks": ["五粮液", "金安国纪", "德明利"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论DeepSeek未来上市地及估值，对比各国产大模型能力",
+    "sentiment": "mixed",
+    "key_opinions": ["DeepSeek是国产最强模型，仅次于GPT和Claude", "若按5000亿融资上市或炒到2万亿，估值虚高", "楼主实为借题发挥议论市场而非单纯聊AI"],
+    "mentioned_stocks": ["DeepSeek", "GLM", "Kimi"]
+  },
+  {
+    "index": 3,
+    "summary": "争论降息能否救消费，中美利差、通缩与银行承压困境",
+    "sentiment": "negative",
+    "key_opinions": ["负通胀下应降息，但中美利差扩大恐致资金外流", "银行从业者称经营贷利率实际在上行，再降息压力巨大", "供大于求通缩，降息小银行有暴雷风险"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 4,
+    "summary": "外围大涨而A股或再现独立下跌行情，股民已无力吐槽",
+    "sentiment": "negative",
+    "key_opinions": ["没增量资金，机构散户全被套无人解套", "高开低走成惯性，高开就该跑路", "估值杀完在杀流动性，谨防诱多"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "Anthropic CEO称代码工作快速消失，引发程序员失业讨论",
+    "sentiment": "mixed",
+    "key_opinions": ["AI编程工具一天顶团队半个月，码农写代码越来越少", "毕业生难从底层练级，行业晋升逻辑被打破", "小白领工作终将被AI替代，但架构等岗位仍需人"],
+    "mentioned_stocks": ["Anthropic"]
+  },
+  {
+    "index": 6,
+    "summary": "以海控、海力士高分红回购为标杆，批评A股公司只融资不回报",
+    "sentiment": "negative",
+    "key_opinions": ["海控股东回报率近10%，海力士超15%，值得学习", "A股多数公司是来卖公司的，融资市场不重股东回报", "海控高回报也是小股东抗争换来的成果"],
+    "mentioned_stocks": ["中远海控", "SK海力士"]
+  },
+  {
+    "index": 7,
+    "summary": "股民戏谑寻找全球暴跌因子，自嘲A股总能找到下跌借口",
+    "sentiment": "negative",
+    "key_opinions": ["暴跌无理由就创造理由，巴西因子轮流背锅", "只要外围不好就是A股下跌借口", "资金出金日临近，先卖为敬"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "论述叙事可压制股价但压不住行业利润，空头终被财报打脸",
+    "sentiment": "positive",
+    "key_opinions": ["叙事只能压制一两季度，压不住利润持续暴增", "压制越久反弹越暴力，估值回归将很凶猛", "但短期英伟达走势仍弱，观点存疑"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 9,
+    "summary": "外围大涨引发高开即跑祖训讨论，股民早已被骗怕",
+    "sentiment": "negative",
+    "key_opinions": ["次次高开低走，高开就跑是血泪经验", "上午喊这次不一样，下午又被套", "低开反而不敢抄，市场信心尽失"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "复盘认为924非行情起点，24年1月才是波浪真正起点",
+    "sentiment": "mixed",
+    "key_opinions": ["波浪理论可解释走势，24年1月低点为起点", "对失真指数做技术分析意义不大", "正反都能解释的理论只能用于事后复盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "作者做多按摩，称创业板处于情绪极值或孕育机会",
+    "sentiment": "mixed",
+    "key_opinions": ["创业板情绪已达极值，类似此前2000点时刻", "网友讥讽技术画线在A股无效，纯赌大小", "外资抽血加割韭菜，看不到希望无底可言"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "探讨股民心理：买股不比价、不止损、不复盘的人性弱点",
+    "sentiment": "mixed",
+    "key_opinions": ["股市不确定性带来刺激，如同赌博上瘾", "割肉难是仓位失控，投机需向市场学习", "A股科技股脚踝斩PE仍高，股民却死拿不放"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "以销号贴未现判断情绪未到底，参考2700点前例",
+    "sentiment": "negative",
+    "key_opinions": ["2700点销号贴遍布后才迎来反弹，现在还没到时候", "情绪虽悲观但未到极致出清", "现在并非入场时机"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "SK海力士2026年股东回报100万亿韩元，反衬A股回报匮乏",
+    "sentiment": "mixed",
+    "key_opinions": ["海力士真金白银回馈股东，业绩超预期显示AI硬件加速", "韩国财阀改革动真格，值得A股学习", "买入高股东回报公司才能分享发展红利"],
+    "mentioned_stocks": ["SK海力士", "宁德时代"]
+  },
+  {
+    "index": 15,
+    "summary": "猜测市场第二只脚今日止跌企稳，但多空分歧明显",
+    "sentiment": "mixed",
+    "key_opinions": ["上证或需再探3574形成第二只脚", "信心摧毁容易重建难，大行情或在11月下旬", "纯情绪杀跌，今日收红就是胜利"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "高盛看多中国楼市，预测沪深房价涨20%，引发质疑",
+    "sentiment": "mixed",
+    "key_opinions": ["高盛预测准确率低，可当反向指标", "出生人口下滑、存量房多，购房需求不足", "核心城市核心地段抗跌，但多数是老破小"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "质疑A股是否适合投资，直言市场只适合投机收割",
+    "sentiment": "negative",
+    "key_opinions": ["924以来两年像耍猴，只求回本", "科技股低PE但不分红不回购，低估值与散户无关", "价值投资请去对岸，这里是赌博市场"],
+    "mentioned_stocks": ["SK海力士"]
+  },
+  {
+    "index": 18,
+    "summary": "外围大涨，讨论今日是否遵循高开就跑的祖训",
+    "sentiment": "negative",
+    "key_opinions": ["高开是割韭菜好时机，低开难割", "高开跳水是铁律，昨天已亏7个点", "无论涨跌都可能是逃命机会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "新手两月亏10%，被调侃已是股神水平",
+    "sentiment": "negative",
+    "key_opinions": ["两个月亏10%已领先多数散户", "运气差点两天就能跌这么多", "老股民亏得更多见怪不怪"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "外围费半大涨，担心A股科技高开低走继续吃面",
+    "sentiment": "negative",
+    "key_opinions": ["科技股开盘跟涨后一路阴跌", "踏空感与被套感反复横跳", "无人敢重仓科技，小仓博反弹即跑"],
+    "mentioned_stocks": ["军工股"]
+  },
+  {
+    "index": 21,
+    "summary": "据三季报质疑国内AI企业多靠蒸馏而非真研发",
+    "sentiment": "negative",
+    "key_opinions": ["寒武纪环比停滞、香农芯创降30%，硬件投入存疑", "除DeepSeek外多数大模型疑似蒸馏", "蒸馏同样需要硬件，逻辑仍需自洽"],
+    "mentioned_stocks": ["寒武纪", "香农芯创", "DeepSeek"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论她力量对市场的影响，暗指监管决策混乱",
+    "sentiment": "negative",
+    "key_opinions": ["监管决策被指外行指挥内行酿成大错", "责任不止在执行者，用人安排有问题", "多个关键岗位人选引发争议"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "吐槽NGA论坛频繁弹广告，影响使用体验",
+    "sentiment": "negative",
+    "key_opinions": ["广告弹窗频繁，美团广告被点名吐槽", "可换第三方助手或纯净版规避", "网页版加去广告插件体验更好"],
+    "mentioned_stocks": ["美团"]
+  },
+  {
+    "index": 24,
+    "summary": "直言熊市已至，外围无利空A股自陷阴跌",
+    "sentiment": "negative",
+    "key_opinions": ["牛转熊杀伤力最强，K线已熊到底", "熊底看上证20年线约3100点", "换美股也可能再吃面，该停手就停手"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "美国原油拉升，警示不要幻想今日高开",
+    "sentiment": "negative",
+    "key_opinions": ["油价上涨压制风险偏好", "高开预期落空概率大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "量化情绪指数显示论坛情绪为历史第二低，或近底部",
+    "sentiment": "mixed",
+    "key_opinions": ["情绪指数创历史第二低，仅次于7月26日", "股民麻木、博主投降，反而可能是底部信号", "也有人认为2600点才见底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "羡慕美股赚钱自由，对比A股自由落体的无奈",
+    "sentiment": "negative",
+    "key_opinions": ["纳指让人体面赚钱，A股只剩下跌自由", "对A股制度与分配问题强烈不满", "选纳指就是选未来"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 28,
+    "summary": "存储签十年长协引发周期股与成长股定性之争",
+    "sentiment": "mixed",
+    "key_opinions": ["长协锁定利润，不应再按周期股估值", "想拉时说成长股，想砸时说周期股", "长协可毁约，且后续分红未必兑现"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 29,
+    "summary": "盘中大涨高喊牛来吟诗庆祝，被网友劝别奶",
+    "sentiment": "positive",
+    "key_opinions": ["开盘大涨高呼牛回，最黑暗时刻已过", "网友忌讳吟诗魔咒，怕高位站岗", "核心票拉不动恐拖累大盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "寻找有预期差的消费股，认为科技不宜再追",
+    "sentiment": "mixed",
+    "key_opinions": ["消费股成黑暗森林，随时被公募献祭赎回", "部分消费股业绩亮眼如青岛食品超去年全年", "伊利坚挺但缺乏增长预期"],
+    "mentioned_stocks": ["中远海控", "中谷物流", "青岛食品", "燕京啤酒", "伊利", "会稽山", "安井食品", "药明康德"]
+  },
+  {
+    "index": 31,
+    "summary": "科技估值已降、融资盘爆仓，何时才是底部",
+    "sentiment": "mixed",
+    "key_opinions": ["科技动态PE降到20以下已算合理估值", "融资盘爆仓是重要出清信号，参考24年2月", "还有人抱希望就说明底还没到"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "对比超威增发仅折价2.7%，批评A股增发八折割韭菜",
+    "sentiment": "mixed",
+    "key_opinions": ["优质公司宁愿发债也不增发稀释股东", "A股增发普遍大幅折价损害中小股东"],
+    "mentioned_stocks": ["超威"]
+  },
+  {
+    "index": 33,
+    "summary": "畅想徐翔操盘国家队，比较游资与技术流风格",
+    "sentiment": "mixed",
+    "key_opinions": ["梁圣技术流与徐翔资金内幕流各有优劣", "国家队只改短期K线改不了长期趋势", "把国家队挂树上的说法系谣言"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "因亏损取消双十一购物，自嘲消费降级",
+    "sentiment": "negative",
+    "key_opinions": ["股市亏损致购物车全删，消费大降级", "A股天天双十一减价甩卖", "这点花费对比亏损九牛一毛"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "担忧A股继续下跌，股民无力自救只剩悲观",
+    "sentiment": "negative",
+    "key_opinions": ["亏麻了看什么都负面，情绪极度悲观", "股民全被套只能靠救市", "市场本质不是让散户赚钱的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "科技股午后回暖翻红，是否科技牛市回归",
+    "sentiment": "positive",
+    "key_opinions": ["金针探底，最艰难时刻或已过去", "但美股若再跌，反弹恐夭折", "有人趁反弹加仓，也有人警惕接飞刀"],
+    "mentioned_stocks": ["华正新材"]
+  },
+  {
+    "index": 37,
+    "summary": "电解铝专题楼三度被重建，有色板块今日大跌",
+    "sentiment": "negative",
+    "key_opinions": ["电解铝四标的：宏桥、电投能源、云铝、神火", "铜企产能不及目标或推高铜价", "紫金大跌六个点，有色行情惨淡"],
+    "mentioned_stocks": ["中国宏桥", "电投能源", "云铝股份", "神火股份", "紫金矿业", "宝丰能源"]
+  },
+  {
+    "index": 38,
+    "summary": "创业板本月跌19%超越首尔指数，领跌全球",
+    "sentiment": "negative",
+    "key_opinions": ["创业板跌幅全球垫底，科创也难兄难弟", "ABC浪下跌完整，诱空后或有反弹"],
+    "mentioned_stocks": ["创业板", "科创50"]
+  },
+  {
+    "index": 39,
+    "summary": "讽刺下跌家数控制在4000+也算尽力，市场全绿",
+    "sentiment": "negative",
+    "key_opinions": ["下跌近5000家，股民只剩自嘲", "国家队做T反噬市场", "把责任推给监管层引发反感"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "分析交易猿私募大跌，风格偏离或致巨额亏损",
+    "sentiment": "negative",
+    "key_opinions": ["锁仓东山抢反弹，与以往严格风控风格不符", "这波下跌离谱程度超所有人预料", "偏离自身投机风格的必然代价"],
+    "mentioned_stocks": ["中际旭创", "寒武纪", "海光信息", "东山精密", "新华传媒"]
+  },
+  {
+    "index": 41,
+    "summary": "费半大涨3.6%，戏谑预测A股明日高开低走",
+    "sentiment": "negative",
+    "key_opinions": ["费半大涨必高开，但高开秒砸绿是惯例", "散户被反复高开低走收割", "反向操作或有意想不到效果"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "纳斯达克持续上涨引发股民酸楚与羡慕",
+    "sentiment": "mixed",
+    "key_opinions": ["越涨越气，为什么不买美股", "科技掌握在文明手中", "美股涨或带动A股高开后再低走"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 43,
+    "summary": "呼吁铭记10月27日大跌日，市场只收割不养人",
+    "sentiment": "negative",
+    "key_opinions": ["当日大跌血流成河，希望被碾碎", "跌幅类似的日子已多到记不过来", "回本执念只会害了自己"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "传闻有人从印度掏1万亿补亏空，真实性存疑",
+    "sentiment": "negative",
+    "key_opinions": ["多方消息源印证传闻，情况逆天", "可能并未流出而是填表外金融债", "或已转向机器人领域继续运作"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "技术分析称科创50已具中长期投资价值",
+    "sentiment": "mixed",
+    "key_opinions": ["距目标位仅差1%，越跌胜率赔率越高", "半导体设备ETF未到位是隐患", "情绪爆杀面前画线作用有限"],
+    "mentioned_stocks": ["科创50", "半导体设备ETF", "588000"]
+  },
+  {
+    "index": 46,
+    "summary": "看完政策小作文希望不大，批评救市水平低下",
+    "sentiment": "negative",
+    "key_opinions": ["一将无能累死三军，不尊重市场规律被反噬", "外资定点狙击高预期板块，内资多杀多", "救市买ETF无效，反成银行独涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "反思清仓后卖飞的票反而上涨，坚持持有却亏损",
+    "sentiment": "negative",
+    "key_opinions": ["坚持最终没有善终", "操作与结果严重背离，心态受挫"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "上交所对上海九百下发监管工作函，连板遭管控",
+    "sentiment": "mixed",
+    "key_opinions": ["近期4板5板就发函，监管趋严", "发函频繁威力递减，可能升级措施", "或为阻止游资另起炉灶"],
+    "mentioned_stocks": ["上海九百"]
+  },
+  {
+    "index": 49,
+    "summary": "吐槽市场黑话泛滥，看空观点被禁止表达",
+    "sentiment": "negative",
+    "key_opinions": ["降低预期等黑话回避下跌事实", "十几年来造新词成常态", "市场不给看空，只能说长期持有"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "SK海力士股价大涨，股民戏称效忠并羡慕韩股",
+    "sentiment": "positive",
+    "key_opinions": ["海力士直线拉升，韩国股市吃肉", "调侃想转向海力士相关标的"],
+    "mentioned_stocks": ["SK海力士"]
+  }
+]
+```
