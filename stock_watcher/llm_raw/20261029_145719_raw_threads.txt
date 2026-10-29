@@ -1,0 +1,515 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论地方债务去向，居民和企业都没钱，质疑资金流向腐败和特权阶层。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "贸易顺差巨大但地方债务高企，钱不知去向",
+      "资金可能被腐败和特权阶层侵蚀",
+      "地方债务实为全民负担"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论股票楼反复被炸的帖子，社群对楼多次被删感到无奈和调侃。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "股票讨论楼反复被删令人无奈",
+      "反弹行情需要讨论作为支撑",
+      "内容未保存导致信息丢失"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论私募基金经理龙哥面临爆仓风险，东山仓位持续下跌，众人关注其命运。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "龙哥高杠杆持仓面临爆仓",
+      "220成本1.7倍杠杆爆仓风险极高",
+      "质疑为何赚了2亿还要做私募"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论胜宏科技等公司即将公布季报，关注净利率变化及员工持股计划静默期结束。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "季报好坏都可能下跌，庄家不敢拉",
+      "业绩超预期也可能被做空",
+      "需关注三家净利率是否增长"
+    ],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论今年股市被用于填补资金窟窿，质疑政策目的，认为股市沦为敛财工具。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "股市被用于填补资金窟窿",
+      "明年可能继续献祭其他资产",
+      "资金用途不透明令人质疑"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "吐槽股市走势诡异，上证指数被操纵掩盖真实跌幅，个股大面积亏损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "大盘不到-1但个股惨跌，粉饰太平",
+      "指数走势如妖股般被操纵",
+      "保证任何时间买入都亏损"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论大盘连续下跌后的走势预判，多数人悲观认为将继续下跌，少数抄底。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创业板放量下跌，科50关键支撑破位",
+      "4500多只股票下跌，市场极弱",
+      "部分人认为可抄底最后一跌"
+    ],
+    "mentioned_stocks": ["科50"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论近期资金坚决出逃原因，机构风控割肉，市场信心崩塌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "机构风控系统性割肉出逃",
+      "资金成本上升导致被迫减仓",
+      "上头可能不会救市"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论资本市场下跌是否意味着AI竞赛已输，观点分歧较大。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "投资规模远不及美国AI领域",
+      "算力差距大难以追赶",
+      "有人认为输有输的赢法"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论中金公司跌停，券商板块全面走弱，投资者被深套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中金公司跌停令市场震惊",
+      "券商股被套20个点后割肉离场",
+      "疑似有人故意打压收割"
+    ],
+    "mentioned_stocks": ["中金公司", "信达"]
+  },
+  {
+    "index": 11,
+    "summary": "调侃尾盘拉升手法重演，暗示市场操纵常态化。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "尾盘拉升手法再次出现",
+      "暗示明天继续下跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "股民诉苦入市八年最难受，不想当燃料却被收割，对市场制度深感不公。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "924行情把人骗进来后持续被割",
+      "股民沦为被收割的燃料",
+      "制度性不公导致散户永远被剥削"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "科技股全面补跌，抄底即被打，半导体、PCB等无差别下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "抄底一次就下跌一次如打地鼠",
+      "业绩好坏都杀，无差别下跌",
+      "ETF投资者承担了引导投资的伤害"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论市场脆弱性，任何风吹草动都引发大跌，进入垃圾时间。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场极度脆弱，任何消息都引发下跌",
+      "进入垃圾时间，等外部变量变化",
+      "银行股持续上涨形成虹吸效应"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论普通人炒股被收割的命运，本金大幅亏损，对市场制度感到绝望。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "本金腰斩再腰斩，余钱炒股不伤生活",
+      "普通人有无数种被收割的方式",
+      "收割散户利益输送海外消费"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论国家队持续买入但市场不涨反跌，越买越跌的反常现象。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "国家队买入银行石油反而引发抛售",
+      "买而不拉被视为下跌信号",
+      "熊市中任何买入都会被套"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "提出ETF拆分作为下跌信号的独特因子，拆分后必跌的规律观察。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "ETF拆分后往往跟随下跌",
+      "拆分暗示高位，公募诱导散户接盘",
+      "高位人声鼎沸必死定律"
+    ],
+    "mentioned_stocks": ["酒512690", "588170", "159516", "光515880"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论东山针对大怪狗私募的精准打击，筹码暴露后被狙击爆仓。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "私募筹码暴露后被精准狙击",
+      "被爆仓即为实亏不可逆",
+      "资本市场如黑暗森林，暴露即死"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论大盘点位走向，上证被银行股托底，真实点位远低于表面。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "上证指数被银行股掩盖真实跌幅",
+      "去掉银行3300点都难保",
+      "有600点缺口理论提及"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "计划每跌10%加仓沪电，讨论逆势加仓策略的风险和可行性。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "沪电高点回落30%仍有补跌风险",
+      "逆势加仓需坚定信念和充足资金",
+      "建议将加仓间隔调整为20%"
+    ],
+    "mentioned_stocks": ["沪电"]
+  },
+  {
+    "index": 21,
+    "summary": "吐槽业绩好的股票照样大跌，市场完全不看基本面。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "业绩好没用，业绩差反而涨",
+      "大A随机翻牌，完全不看基本面",
+      "股价已提前反映业绩预期"
+    ],
+    "mentioned_stocks": ["药明"]
+  },
+  {
+    "index": 22,
+    "summary": "反思等待反弹再割肉的心理是最大亏损来源，最终越套越深。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "等待反弹割肉是最大亏损归因",
+      "不甘心导致持续亏损",
+      "反弹永远不来，只会继续跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "对比韩国市场，质疑A股跌幅过大不合理，四大行市值却在创新高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "三星业绩miss跌幅远小于A股",
+      "这是在抄家式下跌",
+      "四大行冲击二十万亿形成反差"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "提醒反弹后不要忘记痛苦，决定反弹后转投海外市场。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "反弹后应转投纳指标普",
+      "永不原谅市场制度性问题",
+      "不给市场补仓，拒绝再入金"
+    ],
+    "mentioned_stocks": ["纳指", "标普", "德国etf"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论银行股大涨与降息政策的矛盾，拉高银行后降息将打击银行业绩。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "拉高银行后降息将打爆银行股",
+      "美国不降息中国不敢降",
+      "CPI数据可信度存疑"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "调侃科技股普遍跌破7月底前低，持续深度补跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "多数科技票在7月前低基础上再腰斩",
+      "科技股被系统性打压"
+    ],
+    "mentioned_stocks": ["科森"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论李大霄频繁喊单引发的市场反应，股民哭笑不得。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "李大霄喊底喊顶均被骂",
+      "市场下跌导致专家喊单失去信誉",
+      "千股跌停尚未到来"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "调侃市场大跌找替罪羊，选股不慎也难逃大跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场大跌习惯找替罪羊",
+      "低难度板块也难逃暴跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "股民互相询问今天亏损金额，用KFC份量衡量损失规模。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "亏损金额巨大，用食物计量损失",
+      "大户一天亏上万，小户也亏数份",
+      "市场普遍大幅亏损"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "讨论电解铝板块讨论楼第三次被删，有色板块整体暴跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "电解铝讨论楼反复被删",
+      "有色板块全面大跌紫金跌6%",
+      "铜铝供需基本面看多但股价反跌"
+    ],
+    "mentioned_stocks": ["宏桥控股", "电投能源", "云铝股份", "神火股份", "紫金"]
+  },
+  {
+    "index": 31,
+    "summary": "科技股越强补跌越狠，华正奥士康等前期强势股连续跌停。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "前期翻倍股华正奥士康连续跌停",
+      "PCB产业链产能过剩风险上升",
+      "论坛绝望情绪蔓延或接近底部"
+    ],
+    "mentioned_stocks": ["华正", "奥士康", "沪电", "景旺", "中微公司"]
+  },
+  {
+    "index": 32,
+    "summary": "用歌词抒发炒股亏损的痛苦，大盘摇摇欲坠令人绝望。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "账户大幅亏损，满仓节前被套",
+      "反弹幻灭反复割肉",
+      "苦难催生文学式自嘲"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "银行股向科技股发劝降书，讽刺银行股持续上涨打压科技股。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "银行新高劝降科技股暗示见顶",
+      "银行基本面也差但股价创新高",
+      "打不过就加入的无奈心态"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "讨论3600保卫战，去掉银行真实点位远低，创业板大幅下跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "银行托底指数，去掉银行3300都悬",
+      "创业板修复行情实为跌15%",
+      "看上证指数意义不大"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "反思对家人的愧疚和对市场的控诉，散户用血汗钱做多被辜负。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "散户血汗钱做多被市场辜负",
+      "唯一做错就是碰了垃圾市场",
+      "最对不起自己和家人"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "体制内财政人员清仓反思，地方财政困难与市场下跌关联，批判涸泽而渔。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "地方财政下行与市场走势相关",
+      "银行靠专项债平台贷维持",
+      "粉饰太平，涸泽而渔的贪婪"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "引用外媒评论A股为全球罕见例外市场，股民自嘲市场不值得投资。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股被外媒称为全球罕见例外市场",
+      "从监管到国家队行为均异常",
+      "不值得投资的诈骗市场"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "模仿劝降书文体劝科技股股民投降，讽刺科技股持续暴跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股高估值概念炒作全面崩溃",
+      "反串讽刺劝降无效",
+      "范围应扩大到全体股民"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "翻出历史截图对比，暗示当前跌幅尚不及最坏时期。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "当前跌幅对比历史千股跌停",
+      "暗示可能还有更大下跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "题材股重组股全面下跌，市场无资金参与意愿。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "题材、meme、重组股全面失效",
+      "每天4000-5000家下跌",
+      "只剩量化和少数抱团股"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "讨论寻找低风险好人好股，推荐电力煤炭银行等防御性板块。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "推荐电力煤炭银行等防御股",
+      "当前位置不低，建议等回调",
+      "纳指标普也是好选择"
+    ],
+    "mentioned_stocks": ["国投", "长江", "神华", "苏州", "宁波", "海油", "中油", "美的", "中国平安", "东鹏饮料", "纳斯达克ETF"]
+  },
+  {
+    "index": 42,
+    "summary": "创业板尾盘再次瀑布式下跌，疑似大规模爆仓触发连锁反应。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "创业板尾盘反复瀑布杀",
+      "疑似大仓位爆仓引发连锁",
+      "市场天天有爆仓"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "吐槽某科技股暴跌庆幸提前跑掉，三季度业绩拉胯无脑杀科技。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股无差别杀跌",
+      "业绩好坏都不影响杀跌",
+      "提前跑掉庆幸止损"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "询问有色ETF是否会因期货交割被强平，得到否定回答。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "ETF不会因期货交割被强平",
+      "会自动移仓，甚至可能多赚"
+    ],
+    "mentioned_stocks": ["有色ETF"]
+  },
+  {
+    "index": 45,
+    "summary": "贴图展示资金流出规律，暗示所有股票资金流一致被操纵。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "资金流出模式高度一致",
+      "暗示市场被统一操纵"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "科技股暴跌已不影响大盘指数，指数被银行等权重操控。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技暴跌不再影响指数",
+      "沪深300仅跌1个点，上证飘红",
+      "创业板下跌不被计入指数表现"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "讨论市场阴跌期待来个痛快的大跌，每天轮流杀板块令人难受。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "阴跌不如痛快大跌",
+      "每天轮流杀板块跌5-7%",
+      "可能再现大幅暴跌"
+    ],
+    "mentioned_stocks": []
+  }
+]
+```
