@@ -1,0 +1,347 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论A股长期持有难度，提出红利底仓+成长卫星+低估宽基的分层策略",
+    "sentiment": "mixed",
+    "key_opinions": ["A股闭眼长期持有难获满意回报", "分层配置红利底仓与成长卫星可行", "A股炒作垃圾股导致总是猛跌"],
+    "mentioned_stocks": ["宽基指数", "标普500", "红利/央企/公用事业类资产"]
+  },
+  {
+    "index": 2,
+    "summary": "谷歌财报暴雷后，讨论下月腾讯阿里财报是否会同样爆雷",
+    "sentiment": "negative",
+    "key_opinions": ["中概仍被套牢前景不明", "业绩差已在预期中,更差才是风险", "上季度已爆雷股价已反映"],
+    "mentioned_stocks": ["中概股", "腾讯", "阿里"]
+  },
+  {
+    "index": 3,
+    "summary": "探讨贸易逆差长期一边倒的结局与国内产能消化难题",
+    "sentiment": "negative",
+    "key_opinions": ["产能过剩国内无法消化是死结", "贸易摩擦加剧或指向冲突", "外汇不结汇,国内缺少健康资本市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论真正穿越牛熊的资产，认为逆回购更稳",
+    "sentiment": "mixed",
+    "key_opinions": ["逆回购利率高于银行定期", "当定期存款稳拿收益", "真正的穿越牛熊靠低风险资产"],
+    "mentioned_stocks": ["逆回购"]
+  },
+  {
+    "index": 5,
+    "summary": "谷歌财报爆雷股价大跌近10%，拖累纳指与半导体全线",
+    "sentiment": "negative",
+    "key_opinions": ["谷歌营收利润双双不及预期", "一天跌掉一个农行市值", "谷歌连带微软和纳指100重挫"],
+    "mentioned_stocks": ["谷歌", "微软", "纳斯达克100", "农行"]
+  },
+  {
+    "index": 6,
+    "summary": "科技股持有一年多亏损惨重，业绩好也被砸",
+    "sentiment": "negative",
+    "key_opinions": ["业绩好的PCB股照样被砸稀碎", "科技股多依赖美科技产业链", "持有越久亏损越深"],
+    "mentioned_stocks": ["PCB板块", "源杰"]
+  },
+  {
+    "index": 7,
+    "summary": "朋友宁德时代赚370%后转投方正科技，讨论长线给龙头时间",
+    "sentiment": "mixed",
+    "key_opinions": ["对的产业趋势要给龙头时间", "龙头确定性需持续细颗粒度验证", "长线非一般人能坚持"],
+    "mentioned_stocks": ["宁德时代", "方正科技", "PCB链"]
+  },
+  {
+    "index": 8,
+    "summary": "观察四五月起跌的科技股被拉升，分析资金博弈与后市",
+    "sentiment": "mixed",
+    "key_opinions": ["双创或杀至年线2400企稳", "银行红利拉升或持续到12月", "国家级资金应对流动性收缩"],
+    "mentioned_stocks": ["双创指数", "银行", "五洲新春", "机器人概念"]
+  },
+  {
+    "index": 9,
+    "summary": "感叹市场下跌缓慢折磨人，比杀猪还痛苦",
+    "sentiment": "negative",
+    "key_opinions": ["下跌如杀猪放血般缓慢折磨", "下月才有资金托底", "享受被拉扯的痛苦"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "复盘月线死叉信号的权威性，下次牛市定会跑",
+    "sentiment": "negative",
+    "key_opinions": ["月线死叉信号权威", "下次牛市见死叉就跑", "后视镜看早该离场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "股民以KFC为单位晒当天亏损惨状",
+    "sentiment": "negative",
+    "key_opinions": ["上午亏损折算数十顿KFC", "有人亏一台iPhone", "亏损多到吃几年"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "冰雪旅游股触底回升，讨论第二波行情是否启动",
+    "sentiment": "mixed",
+    "key_opinions": ["冰山冷热涨停或带动二波", "大连圣亚长白山触底回升", "消费旅游前景悲观"],
+    "mentioned_stocks": ["冰山冷热", "大连圣亚", "长白山"]
+  },
+  {
+    "index": 13,
+    "summary": "散户腰斩被割断根，感叹庄家通吃",
+    "sentiment": "negative",
+    "key_opinions": ["散户腰斩想永久退市", "老庄通吃散户无胜算", "银行创新高是赢家"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 14,
+    "summary": "抱怨官方不再表态救市，认为股市被放弃",
+    "sentiment": "negative",
+    "key_opinions": ["官方不再喊话救市", "资金流向海外房地产", "不会鼓励普通人靠投资赚钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "反驳科技下跌怪散户套牢盘不割肉的说法",
+    "sentiment": "negative",
+    "key_opinions": ["将下跌归咎套牢散户是转移矛盾", "机构持仓仍高度集中", "进场早晚决定盈亏"],
+    "mentioned_stocks": ["兆易创新", "沪电股份"]
+  },
+  {
+    "index": 16,
+    "summary": "预测下一波炒作题材方向",
+    "sentiment": "mixed",
+    "key_opinions": ["商业航天已起势但难信服", "红利银行抱团是避险方向", "传媒短剧军工或有一波"],
+    "mentioned_stocks": ["商业航天", "银行", "证券", "PCB", "军工"]
+  },
+  {
+    "index": 17,
+    "summary": "调侃久留美更新日必砸盘的玄学规律",
+    "sentiment": "negative",
+    "key_opinions": ["久留美更新日砸盘概率100%", "创指当日保底跌3点", "10月大A几乎没涨过"],
+    "mentioned_stocks": ["创业板指"]
+  },
+  {
+    "index": 18,
+    "summary": "国家队明牌护上证50，引导资金买银行白酒保险",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队每天规律性买510050", "避险只能抱银行等红利", "白酒坑多只看好银行"],
+    "mentioned_stocks": ["上证50", "510050", "沪深300", "银行", "白酒", "保险", "五粮液"]
+  },
+  {
+    "index": 19,
+    "summary": "天孚通信三季报不及预期，CPO概念全线重挫超18%",
+    "sentiment": "negative",
+    "key_opinions": ["业绩略低就大跌超18%", "业绩好也砸业绩差更跌停", "市场对利好利空一律下跌"],
+    "mentioned_stocks": ["天孚通信", "CPO概念", "长电科技", "日月光"]
+  },
+  {
+    "index": 20,
+    "summary": "股民从愤怒转为麻木和苦笑",
+    "sentiment": "negative",
+    "key_opinions": ["从愤怒转为无力麻木", "被市场彻底击败", "跌到只剩苦笑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论资本市场表现能否说明AI竞赛已输",
+    "sentiment": "negative",
+    "key_opinions": ["从资本视角看不到赢的点", "算力差距大难言胜负", "中美AI投资量级不对等"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "警示银行股高位风险，劝勿追涨当接盘侠",
+    "sentiment": "mixed",
+    "key_opinions": ["银行随时可能构筑顶部", "国家队天天买或是阳谋", "回调周期可能长达半年"],
+    "mentioned_stocks": ["银行", "招商银行", "农行"]
+  },
+  {
+    "index": 23,
+    "summary": "分享显卡停产缺货与DRAM供应紧张的产业信息",
+    "sentiment": "mixed",
+    "key_opinions": ["NV高端卡停产缺货到明年年中", "DRAM供应紧张或至2027年底", "AI公司资本开支仍在猛增"],
+    "mentioned_stocks": ["英伟达", "AMD 9070XT", "5080显卡", "DRAM", "NAND"]
+  },
+  {
+    "index": 24,
+    "summary": "银行获利盘达99.99%，感叹无法操作",
+    "sentiment": "negative",
+    "key_opinions": ["银行获利盘几乎百分百", "无数人将挂在山顶", "股息回落到4-5%才正常"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 25,
+    "summary": "预测美股下跌传导，A股连跌后才可能V型反转",
+    "sentiment": "negative",
+    "key_opinions": ["美股跌A股必跟", "连跌到冰点才可能反转", "汪汪队子弹打完只做T"],
+    "mentioned_stocks": ["美股"]
+  },
+  {
+    "index": 26,
+    "summary": "感叹A股憋屈，直言市场环境特殊",
+    "sentiment": "negative",
+    "key_opinions": ["A股环境让人憋屈", "下次还是信了再亏", "市场缺乏公平性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "天孚通信业绩差近跌停，估值过高被杀",
+    "sentiment": "negative",
+    "key_opinions": ["天孚PE60多远超同行", "烂业绩迟早要杀", "市场早已预期其业绩差"],
+    "mentioned_stocks": ["天孚通信"]
+  },
+  {
+    "index": 28,
+    "summary": "中信证券报告称基金仓位降至2023年来最低",
+    "sentiment": "negative",
+    "key_opinions": ["基金仓位创多年新低", "十月反弹落空", "券商研报成肉喇叭"],
+    "mentioned_stocks": ["中信证券"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论大盘是否跌不动，多数人认为还会创新低",
+    "sentiment": "negative",
+    "key_opinions": ["每天都喊跌不动但总有新低", "反弹是诱多鱼钩", "或先收回全年涨幅"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 30,
+    "summary": "华正新材资金抢跑兑现业绩后暴杀",
+    "sentiment": "negative",
+    "key_opinions": ["资金提前抢跑吃肉兑现", "超好业绩反成接盘信号", "满仓一周亏25%"],
+    "mentioned_stocks": ["华正新材", "东山精密"]
+  },
+  {
+    "index": 31,
+    "summary": "论A股科技股只能投机不能长期投资",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股无长期配置价值必回归", "神华长江四大行可长持", "大股东减持前必须抢跑"],
+    "mentioned_stocks": ["中国神华", "长江电力", "四大行"]
+  },
+  {
+    "index": 32,
+    "summary": "单日反弹引发牛市回归争论，多数人不以为然",
+    "sentiment": "mixed",
+    "key_opinions": ["一天反弹就开香槟太早", "大部分尚未回本", "拉到4200才信牛市"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 33,
+    "summary": "预测摩尔线程、商业航天等题材可能轮动回归",
+    "sentiment": "mixed",
+    "key_opinions": ["题材约一月一换轮动", "商业航天是大题材可埋伏", "银行比题材股靠谱"],
+    "mentioned_stocks": ["摩尔线程", "中国卫星", "沐曦", "银行", "商业航天", "宇树"]
+  },
+  {
+    "index": 34,
+    "summary": "神剑铖昌涨停带动卫星军工题材走强",
+    "sentiment": "mixed",
+    "key_opinions": ["神剑铖昌双双涨停", "业绩越烂越涨是炒作", "卫星题材有业绩支撑"],
+    "mentioned_stocks": ["神剑", "铖昌科技", "天银机电", "卫星概念", "宇树"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论当天是否还有V型反转可能，普遍悲观",
+    "sentiment": "negative",
+    "key_opinions": ["午盘连诱多都没有了", "不托举恐回踩3500", "国家队月度预算或已用完"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "凭直觉几乎空仓躲过下跌，坚信大跌未见底",
+    "sentiment": "negative",
+    "key_opinions": ["空仓等3300点再建仓", "千股跌停才见底", "基本面显示远未到底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "庆幸空仓躲过下跌，等待放量再进场",
+    "sentiment": "negative",
+    "key_opinions": ["空仓是正确选择", "稳定放量才考虑回来", "小票趴地无真正行情"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "海南股异动拉升，质疑炒作合理性",
+    "sentiment": "negative",
+    "key_opinions": ["海南股异动梦回去年炒作", "海南股多为垃圾股", "投机炒作不值得跟"],
+    "mentioned_stocks": ["海南板块"]
+  },
+  {
+    "index": 39,
+    "summary": "央广网称超跌现底部特征，股民质疑公信力",
+    "sentiment": "negative",
+    "key_opinions": ["官媒喊底反增恐慌", "公家发言已不可信", "超跌仍可继续超跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "大跌仍杀不出成交量，市场只剩割肉盘",
+    "sentiment": "negative",
+    "key_opinions": ["只有割的没有买的无量", "无量阴跌参考924前", "或杀至沪指3200"],
+    "mentioned_stocks": ["证券ETF", "海螺水泥"]
+  },
+  {
+    "index": 41,
+    "summary": "股民利润亏光开始亏本金，决定离场",
+    "sentiment": "negative",
+    "key_opinions": ["利润亏尽开始亏本金", "牛短熊长长期向下不值得", "能保住本金已是幸运"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "怀疑有未知黑天鹅致资金撤退，实为信心崩塌",
+    "sentiment": "negative",
+    "key_opinions": ["知情资金在撤退散户等反弹", "AI泡沫破裂信心问题", "业绩基本面已无法解释跌法"],
+    "mentioned_stocks": ["谷歌", "三星"]
+  },
+  {
+    "index": 43,
+    "summary": "吐槽A股炒情绪不看业绩，却为美韩业绩暴雷买单",
+    "sentiment": "negative",
+    "key_opinions": ["A股炒情绪不看业绩", "三星谷歌业绩差却A股买单", "外围利空A股必跟跌"],
+    "mentioned_stocks": ["三星", "谷歌"]
+  },
+  {
+    "index": 44,
+    "summary": "分析银行主线或持续到年底的逻辑",
+    "sentiment": "mixed",
+    "key_opinions": ["AI变现路径存疑铲子故事难续", "市场无标的需避险", "银行要买早买勿年末抬轿"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 45,
+    "summary": "分析当天大跌由谷歌三星业绩暴雷带崩",
+    "sentiment": "negative",
+    "key_opinions": ["谷歌三星双双业绩爆炸", "三星带头暴跌拖累海力士", "外围利空叠加引发全面下杀"],
+    "mentioned_stocks": ["谷歌", "三星", "海力士", "纳斯达克"]
+  },
+  {
+    "index": 46,
+    "summary": "调侃自己跑赢大盘，实则仍在亏损",
+    "sentiment": "mixed",
+    "key_opinions": ["跑赢大盘也是在亏", "每天4000多家下跌", "盘中盈利回落变亏损"],
+    "mentioned_stocks": ["小熊电器", "宜宾纸业"]
+  },
+  {
+    "index": 47,
+    "summary": "自嘲亏损变少只因本金已大幅缩水",
+    "sentiment": "negative",
+    "key_opinions": ["亏损变少是因本金缩水", "回本越来越难", "不卖就不亏的自欺欺人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "讨论存储厂商巨额存货是否为未来暴雷隐患",
+    "sentiment": "mixed",
+    "key_opinions": ["模组厂存货高达200亿逐季增加", "高价存货若降价减值巨大", "存储价格高涨已抑制需求"],
+    "mentioned_stocks": ["佰维", "江波龙", "德明利", "海力士"]
+  },
+  {
+    "index": 49,
+    "summary": "询问0.5元附近的170ETF能否重仓长持两年",
+    "sentiment": "mixed",
+    "key_opinions": ["可长持但有人想拿十年", "设备ETF周期性太强", "不如定投创业板或科创50"],
+    "mentioned_stocks": ["588170", "创业板", "科创50"]
+  }
+]
+```
