@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "论坛系统异常，帖子回复无法查看",
+    "sentiment": "negative",
+    "key_opinions": ["论坛系统故障，回复内容看不到", "外部可见但内部点不进去"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "抱怨监管层不再喊话救市，防范系统性风险成空话",
+    "sentiment": "negative",
+    "key_opinions": ["以前监管还会喊话现在没有了", "防范系统性风险变成空话"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论今日行情预期，多数看跌，认为开盘即暴跌",
+    "sentiment": "negative",
+    "key_opinions": ["多数人预测开盘暴跌或低开砸盘", "有人预期低开拉高后下午再暴跌", "还有人说5000多只股票下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论李大霄投资观点，认为当前银行股已高位不宜追",
+    "sentiment": "mixed",
+    "key_opinions": ["银行股现在已是高位，去年已登顶", "科技虹吸资金是为了融资", "应在低洼时才入场投资"],
+    "mentioned_stocks": ["银行股", "科创"]
+  },
+  {
+    "index": 5,
+    "summary": "因追缴资金压力大，建议股民尽早离场",
+    "sentiment": "negative",
+    "key_opinions": ["到处追缴说明缺钱了", "建议早日离场避免被收割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "A股暴跌严重，散户被割惨，建议转投纳指",
+    "sentiment": "negative",
+    "key_opinions": ["这波暴跌险资公募私募社保全亏", "建议定投纳指，放弃A股", "散户被割得鼻青脸肿"],
+    "mentioned_stocks": ["纳指", "红利低波"]
+  },
+  {
+    "index": 7,
+    "summary": "询问近期股市发生的重大事件和利空",
+    "sentiment": "mixed",
+    "key_opinions": ["丁大妈、小作文、险资被套等事件", "久未关注股市不了解现状"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "三大利空来袭：FCC通过、中东局势、英特尔大跌",
+    "sentiment": "negative",
+    "key_opinions": ["科技反攻幻想破灭", "利空无所谓了反正都是跌", "光模块板块鬼故事不断"],
+    "mentioned_stocks": ["中际旭创", "兆易创新"]
+  },
+  {
+    "index": 9,
+    "summary": "谷歌亚马逊全力押注AI，自由现金流转负引发担忧",
+    "sentiment": "negative",
+    "key_opinions": ["AI烧钱现金流干涸，不烧必死", "AI未做大蛋糕只在抢存量", "谷歌搜索业务面临AI替代威胁"],
+    "mentioned_stocks": ["谷歌", "亚马逊", "微软", "苹果"]
+  },
+  {
+    "index": 10,
+    "summary": "私募龙哥高位加杠杆濒临或已爆仓",
+    "sentiment": "negative",
+    "key_opinions": ["1.7倍杠杆220成本已接近爆仓线", "有人认为已经爆仓了", "赚2亿还做私募令人不解"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "PCB板块对比，沪电基本面最好但整体暴跌",
+    "sentiment": "negative",
+    "key_opinions": ["沪电40%毛利率是好公司", "同行回调超50%非常惨烈", "败绿业绩大幅低于下限"],
+    "mentioned_stocks": ["沪电股份", "生益科技", "胜宏科技", "深南电路"]
+  },
+  {
+    "index": 12,
+    "summary": "猜测机构踩踏 vs 业绩提前泄露导致暴跌",
+    "sentiment": "negative",
+    "key_opinions": ["海内外业绩miss，散户最后才知道", "机构卖出导致科技信徒被套", "洪水来了散户才知道真相"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "龙哥爆仓引发对炒股尽头的反思和欲望讨论",
+    "sentiment": "negative",
+    "key_opinions": ["人的欲望无止境，赚多少都想更多", "炒股的尽头就是割肉", "路径依赖难以改变"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "询问今天A股是否有独立行情",
+    "sentiment": "mixed",
+    "key_opinions": ["前几天外围大涨A股没跟", "今天能否走出独立行情"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "中国人寿三季报大亏，炒股亏损预计上千亿",
+    "sentiment": "negative",
+    "key_opinions": ["预估炒股亏损1500-2200亿", "险资被挂树上进退两难", "人寿9月还加仓中际令人费解"],
+    "mentioned_stocks": ["中国人寿", "中际旭创"]
+  },
+  {
+    "index": 16,
+    "summary": "币安遭史上最大黑客攻击，关注网络安全股",
+    "sentiment": "mixed",
+    "key_opinions": ["币安被盗56亿美元创历史记录", "网络安全板块可能受关注"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "暴跌小作文显示可能有人被清算追责",
+    "sentiment": "negative",
+    "key_opinions": ["可能有人秋后被算账", "操盘者是为搞钱填补窟窿", "就算追责钱也回不来了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "美日韩股市又大跌，A股将跟跌",
+    "sentiment": "negative",
+    "key_opinions": ["外围大跌A股大概率跟跌", "亏损又要创新高了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "调侃监管层救市，实际是收割后才回来",
+    "sentiment": "negative",
+    "key_opinions": ["救市只是为了防止周末恐慌", "尾盘要跑周一继续杀", "银行护盘只保上证指数"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论游资和机构是否因加杠杆爆仓",
+    "sentiment": "negative",
+    "key_opinions": ["市场目的可能是杀杠杆清人", "大科技公司产业链互相持股将连锁爆损", "游资靠主升杠杆红利才起来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "银行股获利比例99.99%，处于极致高位",
+    "sentiment": "negative",
+    "key_opinions": ["银行获利比例接近100%风险极大", "无数人可能挂在山顶", "有人认为银行是大A唯一趋势"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论救市是否应该干预，市场机制之争",
+    "sentiment": "negative",
+    "key_opinions": ["拉哪个板块都有人不满", "市场既不计划也不市场", "建议提高投资门槛去散户化"],
+    "mentioned_stocks": ["红利股", "科技股", "茅台"]
+  },
+  {
+    "index": 23,
+    "summary": "特朗普宣称美国经济强劲增长，遭质疑",
+    "sentiment": "negative",
+    "key_opinions": ["特朗普夸经济但通胀数据打脸", "PCE 3.1%并非低位", "消费者支出数据被质疑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "英特尔盘后暴跌20%，财报大幅不及预期",
+    "sentiment": "negative",
+    "key_opinions": ["Q4 EPS指引腰斩令人震惊", "AI硬件前景悲观", "英特尔距高点已腰斩"],
+    "mentioned_stocks": ["英特尔"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论美股预测准确性与中期选举前走势规律",
+    "sentiment": "mixed",
+    "key_opinions": ["中期选举前通常有大回调", "今年预测不太准", "股价是走出来的不是预测的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "分享AI编程工具使用感受，看好AI长期前景",
+    "sentiment": "positive",
+    "key_opinions": ["AI编程工具已过全自动线", "长远看AI基本面值得期待", "技术爆炸和市场暴跌可同时发生"],
+    "mentioned_stocks": ["费半"]
+  },
+  {
+    "index": 27,
+    "summary": "英特尔亚马逊财报爆雷，AI产业链面临大考",
+    "sentiment": "negative",
+    "key_opinions": ["纳斯达克要调整A股血流成河", "AI硬件会爆雷是必然", "SOXX空单已建仓"],
+    "mentioned_stocks": ["英特尔", "亚马逊", "SOXX", "纳斯达克"]
+  },
+  {
+    "index": 28,
+    "summary": "谷歌财报后股价剧烈波动，多空分歧大",
+    "sentiment": "mixed",
+    "key_opinions": ["交易速度极快看不清方向", "公司仍是好公司但AI烧钱", "有人282开始建仓抄底"],
+    "mentioned_stocks": ["谷歌", "苹果", "特斯拉", "沃尔玛"]
+  },
+  {
+    "index": 29,
+    "summary": "质疑交易猿爆仓真实性，可能是接盘跑路",
+    "sentiment": "negative",
+    "key_opinions": ["高手不可能连续大亏到爆仓", "肥尾风险导致杠杆策略必然毁灭", "可能拿着钱润了失联"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "AI买彩票中508万新闻被质疑是营销软文",
+    "sentiment": "negative",
+    "key_opinions": ["彩票滞销借AI炒作", "质疑彩票中奖非随机", "福彩发软文保持热度"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "创业板暴跌至2300，芯片股预期继续暴跌",
+    "sentiment": "negative",
+    "key_opinions": ["机构可能已提前抢跑", "有人认为超跌可分批建仓", "科创板泡沫比创业板更大"],
+    "mentioned_stocks": ["新易盛", "胜宏科技", "中芯国际"]
+  },
+  {
+    "index": 32,
+    "summary": "用电竞选手比喻A股投资者的状态",
+    "sentiment": "negative",
+    "key_opinions": ["炒A股的人像没成绩的选手", "坚持反而混得更差"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "算电协同讨论帖反复被删/炸楼",
+    "sentiment": "negative",
+    "key_opinions": ["算电楼反复被炸很无奈", "内容没记住就没了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "反思A股矛盾本质，股市只是融资工具",
+    "sentiment": "negative",
+    "key_opinions": ["A股定位一直是融资工具", "股市矛盾只是使用代价", "存款搬家只是幻想"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "询问美国加息/降息预期变化",
+    "sentiment": "mixed",
+    "key_opinions": ["财报一片崩可能影响降息", "12月意外降息可能性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "FCC法案会议结束，无易中天禁令但市场空头",
+    "sentiment": "negative",
+    "key_opinions": ["FCC没有对光模块禁令", "空头市场利好也无人关注"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "戏谑双色球比A股更有投资价值的三点优势",
+    "sentiment": "negative",
+    "key_opinions": ["双色球成本低还能以小博大", "彩票亏了算捐款A股亏了被庄收", "双色球不烧心股票天天焦虑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "光通信易中天回应业绩预期，市场不买账",
+    "sentiment": "negative",
+    "key_opinions": ["NPO产品2027-2028年才放量太远", "越是官方宣传越是要跌", "喇叭越大越没行情"],
+    "mentioned_stocks": ["中际旭创", "新易盛", "天孚通信", "英特尔"]
+  },
+  {
+    "index": 39,
+    "summary": "创业板要跌回七月低点，本月极其绝望",
+    "sentiment": "negative",
+    "key_opinions": ["最绝望的一个月怎么都亏", "光通信带指数继续下跌", "FCC新动作拖累科技"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论今日开盘是否直接跌破3574点",
+    "sentiment": "negative",
+    "key_opinions": ["内外皆不好可能直接破位", "银行护盘撑着沪指", "双创可能继续暴跌"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 41,
+    "summary": "费半反弹但A股恐继续跟跌，中美市场对比",
+    "sentiment": "negative",
+    "key_opinions": ["正规市场韧性比A股强", "费半涨A股可能涨，费半跌A股必跌", "三季报利空或已出尽"],
+    "mentioned_stocks": ["费半", "SOXX"]
+  },
+  {
+    "index": 42,
+    "summary": "理性分析中际旭创可能跌至两位数的估值",
+    "sentiment": "negative",
+    "key_opinions": ["科技行业5-6PE合理估值在100左右", "A股下杀到人不相信才止", "两位数中际会满天飞人"],
+    "mentioned_stocks": ["中际旭创", "海力士"]
+  },
+  {
+    "index": 43,
+    "summary": "谷歌亚马逊英特尔相继财报暴雷，AI大厦将倾",
+    "sentiment": "negative",
+    "key_opinions": ["AI硬件烧干现金流本业被毁", "纳指回调A股暴跌27%差距巨大", "中期选举前美股利好也兑现跌"],
+    "mentioned_stocks": ["谷歌", "亚马逊", "英特尔", "纳斯达克", "费半"]
+  },
+  {
+    "index": 44,
+    "summary": "中际旭创交流纪要：订单强劲但非经营损失大",
+    "sentiment": "mixed",
+    "key_opinions": ["27-28年CSP订单强劲无砍单", "Q3非经营性损益约10亿", "FCC 65%对中际影响不大"],
+    "mentioned_stocks": ["中际旭创", "新易盛", "英伟达"]
+  },
+  {
+    "index": 45,
+    "summary": "科技股只能投机不能投资，大股东都在减持",
+    "sentiment": "negative",
+    "key_opinions": ["A股科技股没有长期持有价值", "大股东先跑了散户扛不住", "好公司要在被抛弃时才有价值"],
+    "mentioned_stocks": ["中国神华", "长江电力", "四大行"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论海皇股息率，认为大约5%而非9%",
+    "sentiment": "mixed",
+    "key_opinions": ["实际股息率约5%多不是9%", "有人认为15-16是买入价位", "看好长期分红"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "讨论苹果股价相对稳健，尚未到财报日",
+    "sentiment": "positive",
+    "key_opinions": ["苹果现金流稳健不怕跌", "上次财报跌8%后两天修复", "苹果还没到财报日"],
+    "mentioned_stocks": ["苹果"]
+  },
+  {
+    "index": 48,
+    "summary": "短线推荐宁波银行博弈三季报上涨",
+    "sentiment": "positive",
+    "key_opinions": ["宁波银行三季报两位数增长无雷", "资产破4万亿具里程碑意义", "短线博弈三季报后冲高卖出"],
+    "mentioned_stocks": ["宁波银行", "工商银行", "招商银行"]
+  },
+  {
+    "index": 49,
+    "summary": "听完科技股电话会感觉基本面无问题，等待反弹",
+    "sentiment": "mixed",
+    "key_opinions": ["经营状态好供不应求，缺的是原料", "管理层对Q4和27年有信心", "市场不看基本面只看情绪"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "除微软外CSP现金流均为负，AI烧钱严重",
+    "sentiment": "negative",
+    "key_opinions": ["只有微软CSP现金流为正", "AI烧钱虽亏但说赚麻了"],
+    "mentioned_stocks": ["微软"]
+  }
+]
+```
