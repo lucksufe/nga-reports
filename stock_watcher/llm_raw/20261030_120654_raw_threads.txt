@@ -1,0 +1,298 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "期待下午市场反攻但被嘲讽，反映出市场低迷下投资者的焦躁与不满情绪。",
+    "sentiment": "negative",
+    "key_opinions": ["对市场下跌充满不满", "认为反攻来得太晚"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "用户吐槽自己操作失误，反思交易习惯，属于典型散户自我反省帖。",
+    "sentiment": "negative",
+    "key_opinions": ["经常犯同样的操作错误", "需要反思交易习惯"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "传闻今日机构禁卖股票导致债市异常大跌，网友讨论真伪及对市场的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["传闻禁卖导致固收+只能卖债", "多人质疑消息真实性", "创业板开盘抛压异常巨大"],
+    "mentioned_stocks": ["紫金"]
+  },
+  {
+    "index": 4,
+    "summary": "用户清仓海皇（中远海控），业绩好但认为过热，期待回调后低吸接回。",
+    "sentiment": "mixed",
+    "key_opinions": ["业绩爆发叠加恐慌导致过热", "预计回调后有机会更低价接回", "有人担心卖了买不回来"],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论交易猿私募巨亏，质疑其偏离投机风格锁仓东山精密，散户不如买指数。",
+    "sentiment": "negative",
+    "key_opinions": ["偏离自身交易风格导致巨亏", "私募水深散户不如买指数", "锁仓逆势操作不符合其习惯"],
+    "mentioned_stocks": ["中际旭创", "东山", "寒武纪", "海光", "新华传媒"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论论坛算电楼多次被炸，帖子频繁消失，反弹缺乏引领板块。",
+    "sentiment": "negative",
+    "key_opinions": ["算电楼反复被删令人无奈", "反弹需要算电板块领头", "社区管理影响讨论连续性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "网友提醒上午机构禁卖，疑似拔网线限制卖出，引发散户对市场公平性的担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["上午机构被限制卖出", "提醒小心风险不要乱抄底", "疑似人为干预市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "反思炒股终极意义，龙哥从2亿身家到滑铁卢，讨论欲望无止境与路径依赖问题。",
+    "sentiment": "negative",
+    "key_opinions": ["欲望无止境导致越炒越大", "炒股尽头可能是割肉", "应功成身退另寻出路"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "创业板腰斩后仍持续下跌，讨论何时见底，多数人悲观认为A股没有底。",
+    "sentiment": "negative",
+    "key_opinions": ["没有流动性就没有底", "历史经验从哪来回哪去", "跌到无人讨论才算底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "评论大霄观点，认为半山腰不算低点，银行高位为稳指数，科创虹吸资金为融资。",
+    "sentiment": "negative",
+    "key_opinions": ["半山腰不应视为低点", "拉银行为稳指数非主升浪", "科创一枝独秀是为融资"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 11,
+    "summary": "左光右存算电主楼讨论帖，买入大业、海洋、江顺、建设银行，论坛回复延迟严重。",
+    "sentiment": "mixed",
+    "key_opinions": ["F佬建仓引发跟风买入", "论坛回复系统异常延迟", "江顺接近涨停"],
+    "mentioned_stocks": ["大业", "海洋", "江顺建设", "建设银行"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论海皇股息率，有人算出9%但被质疑实际约5%，对分红预期和买卖点位争论。",
+    "sentiment": "mixed",
+    "key_opinions": ["股息率实际约5%而非9%", "看好者期待满仓梭哈", "部分人卖飞后追悔莫及"],
+    "mentioned_stocks": ["海皇", "长江电力"]
+  },
+  {
+    "index": 13,
+    "summary": "询问如何查看论坛回复，网站功能异常。",
+    "sentiment": "mixed",
+    "key_opinions": ["网页端可能还能查看回复"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "感叹大A过山车行情，11年老股民首次大幅回撤，错失两次控制回撤机会。",
+    "sentiment": "negative",
+    "key_opinions": ["11年炒股最大回撤", "两次机会未能控制回撤", "对大A仍不离不弃"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "合百集团Q3净利润暴增245倍引热议，实为投资长鑫利润计入，市场炒作情绪高涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["业绩暴增实为投资收益计入利润", "炒小炒差情绪主导", "未涨停令持有者失望"],
+    "mentioned_stocks": ["合百集团", "长鑫"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论龙哥从论坛传奇到私募做操盘手的种种反常行为，涉及户籍、社会地位等话题。",
+    "sentiment": "mixed",
+    "key_opinions": ["2亿身家做私募行为反常", "可能追求社会地位非金钱", "私募规模带来更大社会影响力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "重仓兆易创新两天亏20%，高杠杆风险大，下周美国财报季不确定性高。",
+    "sentiment": "negative",
+    "key_opinions": ["兆易创新重仓两天亏20%", "高杠杆容易爆仓", "下周美股财报季风险大"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 18,
+    "summary": "海皇（中远海控）短期涨10%+，讨论上涨空间，三季度财报利好驱动放量跳空。",
+    "sentiment": "positive",
+    "key_opinions": ["业绩驱动放量跳空上涨", "部分人看到27元目标位", "有人判断跳空放量是顶部"],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论市场是否放量，多数人认为量能不足，预期下午可能砸盘，美股财报季不确定性。",
+    "sentiment": "negative",
+    "key_opinions": ["量能不足以支撑反弹", "部分人打预判反而会砸得更狠", "美股财报尚未释放完风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论科技投资分歧：大佬重注AI但市场质疑盈利前景，巴菲特留足现金显示谨慎。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI生产关系改造远超互联网", "巴菲特现金新高显示谨慎", "AI商业模式难以暴利"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "请求版主关闭全版禁言功能，影响正常交流。",
+    "sentiment": "negative",
+    "key_opinions": ["全版禁言影响正常讨论", "希望恢复正常发言"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "龙哥（交易猿）东山精密跌至95元，高杠杆面临爆仓，网友担忧其处境。",
+    "sentiment": "negative",
+    "key_opinions": ["220成本1.7倍杠杆可能已爆仓", "不切实际的坚持导致巨亏", "私募融资风险极高"],
+    "mentioned_stocks": ["东山"]
+  },
+  {
+    "index": 23,
+    "summary": "海皇近期表现强势，业绩出色涨势亮眼，部分人卖飞追悔，期待再次上车机会。",
+    "sentiment": "positive",
+    "key_opinions": ["海皇7月底至今表现亮眼", "业绩未一字板令人意外", "卖飞者懊悔不已"],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 24,
+    "summary": "港股率先拉升，但对持续性存疑，认为只是放血前的回光返照。",
+    "sentiment": "mixed",
+    "key_opinions": ["港股拉升但难以持续", "信了就要被套", "鱼血放干前的反弹"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "吐槽论坛回复功能异常看不到内容，表达焦虑。",
+    "sentiment": "negative",
+    "key_opinions": ["回复功能故障令人着急"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "用户坚持发声表态，附图做空小区相关观点，自认可能亏钱。",
+    "sentiment": "mixed",
+    "key_opinions": ["坚持表达观点不惜禁言", "做空判断自负盈亏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "青岛食品涨停买不进，主力锁仓左手倒右手，后炸板释放流通，追高者被套。",
+    "sentiment": "negative",
+    "key_opinions": ["涨停买不进买进就套", "主力锁仓操纵明显", "能买进就是出货时机"],
+    "mentioned_stocks": ["青岛食品"]
+  },
+  {
+    "index": 28,
+    "summary": "某股票突破前高仍持续上涨，讨论顶部在哪里。",
+    "sentiment": "mixed",
+    "key_opinions": ["突破前高持续上涨", "顶部位置未知"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "龙哥传闻失联，基金无法联系，从论坛传奇到爆仓失联，引众人唏嘘。",
+    "sentiment": "negative",
+    "key_opinions": ["龙哥疑似失联无法联系", "常年满仓满融导致爆仓", "跟随者也遭受重大损失"],
+    "mentioned_stocks": ["腾讯", "东山"]
+  },
+  {
+    "index": 30,
+    "summary": "市场神仙斗法凡人遭殃，用户被禁言只能发帖吐槽，感叹散户处境艰难。",
+    "sentiment": "negative",
+    "key_opinions": ["神仙斗法凡人遭殃", "散户在市场中极度被动"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "论坛回复功能和广告功能异常，系统故障影响用户体验。",
+    "sentiment": "mixed",
+    "key_opinions": ["回复功能异常", "没有广告反而清爽"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "关键时刻论坛炸了是否巧合，无法查看回复令人心烦意乱。",
+    "sentiment": "negative",
+    "key_opinions": ["论坛在关键时刻故障疑似非巧合", "无法获取信息令人焦虑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "市场暴跌带来带血筹码，暗示是低吸良机，感谢龙哥爆仓带来的机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["暴跌带来优质低价筹码", "血腥洗盘才有买入机会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "若机构禁卖为真则今日放量属散户行为，下午走势待观察验证。",
+    "sentiment": "mixed",
+    "key_opinions": ["禁卖情况下放量意义特殊", "需观察下午走势验证"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "本月95%股票日内富贵，建议有利润做T保住收益，避免坐过山车。",
+    "sentiment": "negative",
+    "key_opinions": ["95%股票日内富贵难持续", "有利润应及时做T止盈", "做T并非易事"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "胜宏科技放量抄底后担忧周一无承接，发帖也有限制。",
+    "sentiment": "negative",
+    "key_opinions": ["周一恐无承接继续下跌", "大成交量后一地鸡毛风险"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 37,
+    "summary": "论坛锁回复影响全区讨论，疑似监管加强言论管控。",
+    "sentiment": "negative",
+    "key_opinions": ["锁回复影响全版交流", "疑似言论管控加强"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "原油盘中直线拉升但无新闻配合，怀疑是人为操纵配合股市下杀。",
+    "sentiment": "negative",
+    "key_opinions": ["无新闻的拉升疑似操纵", "太巧合就不是巧合"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论午盘拉升是否为诱多鱼钩，关注银行股下午走势判断真假反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["午盘拉升可能是诱多", "银行走势是判断关键", "部分人看好下午V型反转"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 40,
+    "summary": "抄底创业板，期待能赚点糊口钱，自嘲救险资解套。",
+    "sentiment": "mixed",
+    "key_opinions": ["抄底创业板博反弹", "期望不大只求糊口"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 41,
+    "summary": "期待复刻上周五大奇迹日行情，关注早间会议政策效果。",
+    "sentiment": "positive",
+    "key_opinions": ["期待复刻大奇迹日", "政策会议是关键变量"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "讨论A股若每五年退市25%公司是否更好，涉及制度、赔偿和做空机制等改革话题。",
+    "sentiment": "mixed",
+    "key_opinions": ["大量垃圾公司应加速退市", "需先建立有效赔偿制度", "动了利益群体蛋糕难推行"],
+    "mentioned_stocks": []
+  }
+]
+```
