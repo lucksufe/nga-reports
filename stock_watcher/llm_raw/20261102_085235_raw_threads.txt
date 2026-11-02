@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论美国经济韧性强、红利走势好，与中国房地产形成对比，关注金融市场领先地位",
+    "sentiment": "mixed",
+    "key_opinions": ["美国经济数据表现有韧性，红利一年涨30%多", "美国金融能力全球领先，但高杠杆市场有隐患", "中国房地产去化压力大是经济重头戏"],
+    "mentioned_stocks": ["阿根廷股市", "美国红利"]
+  },
+  {
+    "index": 2,
+    "summary": "网友互相报仓位讨论周一操作策略，涉及巴西、沪深300、红利、科技PCB等",
+    "sentiment": "mixed",
+    "key_opinions": ["有人重仓买入巴西和德国资产做多", "有人大幅加仓沪深300ETF和红利板块", "科技PCB敢跌敢加，业绩好被错杀"],
+    "mentioned_stocks": ["沪深300ETF", "红利", "PCB"]
+  },
+  {
+    "index": 3,
+    "summary": "天孚通信和新易盛回购披露显示险资未大幅减仓，讨论谁在砸盘和股东变动",
+    "sentiment": "negative",
+    "key_opinions": ["险资股东对比9.30和10.23数据未大幅减仓", "GJD买入宽基指数已成前十大股东", "还有砸盘空间，可能是基民赎回导致"],
+    "mentioned_stocks": ["天孚通信", "新易盛", "易方达ETF"]
+  },
+  {
+    "index": 4,
+    "summary": "日韩股市临近翻红引发期待，期待周一出现大奇迹日和弱修复",
+    "sentiment": "mixed",
+    "key_opinions": ["周五靴子落地，日韩表现好于预期", "周末利好加上开会预期引发乐观情绪", "大概率缩量红，弱修复为主"],
+    "mentioned_stocks": ["韩国股市", "日本股市"]
+  },
+  {
+    "index": 5,
+    "summary": "讽刺AI自动删帖已全面应用，讨论AI的实际用途与资本市场泡沫的区别",
+    "sentiment": "mixed",
+    "key_opinions": ["AI泡沫主要在资本市场而非实际应用", "AI类似基础设施如电力，长期有价值", "现在是炒作阶段，业绩终将回归"],
+    "mentioned_stocks": ["易中天"]
+  },
+  {
+    "index": 6,
+    "summary": "持有科创50ETF 284天未操作竟然亏损，反思A股长期持有的困境",
+    "sentiment": "negative",
+    "key_opinions": ["长期持有科创50ETF近一年仍是亏损", "A股是正弦函数式博弈市场非长期牛市", "两种剧本：继续阴跌等新牛市或震荡后上涨"],
+    "mentioned_stocks": ["科创50ETF"]
+  },
+  {
+    "index": 7,
+    "summary": "韩国股市顶着利空走强快要翻红，调侃大A开盘后可能带其下跌",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国股市顶住利空表现强劲", "A股开盘可能拖累韩国市场", "等A股开盘后大空头会动手"],
+    "mentioned_stocks": ["韩国股市"]
+  },
+  {
+    "index": 8,
+    "summary": "7月预测11月指数3600±几乎命中，但对后续拉升到10000的预测存疑",
+    "sentiment": "mixed",
+    "key_opinions": ["7月预测11月3600±几乎精确命中", "后续拉升到10000不可信，需重大利好", "波浪理论分析认为二四浪下跌概率大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "网友猜测重资产高负债易淘汰的产业，提到比亚迪和半导体制造",
+    "sentiment": "negative",
+    "key_opinions": ["重资产高负债行业面临淘汰风险", "比亚迪被猜测为该行业代表", "半导体制造也有类似特征"],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 10,
+    "summary": "各地城投债建数据中心抢昇腾显卡类似5G面子工程，债务风险加剧",
+    "sentiment": "negative",
+    "key_opinions": ["城投举债建数据中心难以回本类似5G面子工程", "利好AI硬件和国产芯片链但债务上天", "国有指导下的投资效率堪忧"],
+    "mentioned_stocks": ["昇腾", "华为"]
+  },
+  {
+    "index": 11,
+    "summary": "交易贴今日买入大业海洋江顺建设，回复系统异常导致互动困难",
+    "sentiment": "mixed",
+    "key_opinions": ["F佬买入大业海洋江顺建设等个股", "回复系统异常导致看不到最新动态", "跟随F佬交易的网友较多"],
+    "mentioned_stocks": ["大业海洋", "江顺建设", "建设银行"]
+  },
+  {
+    "index": 12,
+    "summary": "从科技巨头博弈角度分析看空AI原因，AI冲击所有行业护城河",
+    "sentiment": "negative",
+    "key_opinions": ["CSP不押注AI将被其他厂商吃掉", "AI让所有行业护城河需重新审视", "AI上涨空间已透支，暴涨后暴跌是规律"],
+    "mentioned_stocks": ["工商银行"]
+  },
+  {
+    "index": 13,
+    "summary": "农历924开会被解读为玄学利好，但市场环境与去年差异巨大",
+    "sentiment": "negative",
+    "key_opinions": ["农历924被赋予玄学意义但共识相反", "成交万亿杠杆2.3万亿，位置远高于上次", "中期选举未定不宜满仓参与"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "家庭多人生病负债80万靠以贷养贷炒股，心态崩溃但收入尚可",
+    "sentiment": "negative",
+    "key_opinions": ["家庭多人生病负债80万以贷养贷炒股", "建议先清债务不炒股，用闲钱投资", "年收入30万亏6万不应过度绝望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "银行从业者分析当前不是好买点，明年银行业绩承压原因是息差和中收红利不可持续",
+    "sentiment": "negative",
+    "key_opinions": ["存款重定价红利今年吃完明年不可持续", "息差四季度回落，银行估值偏高", "国家队不减仓则银行股有支撑但回调大概率"],
+    "mentioned_stocks": ["银行股", "农业银行", "工商银行"]
+  },
+  {
+    "index": 16,
+    "summary": "提前预告的开会消息容易泄露，利好应是开完会直接发",
+    "sentiment": "negative",
+    "key_opinions": ["提前预告的利好消息已被内部消化", "盘后开会无意义，应盘前盘中开", "隔夜加隔下午该知道的都知道了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论周一是否有-5以上低点，部分人认为最陡下跌已过",
+    "sentiment": "mixed",
+    "key_opinions": ["日韩无大负反馈可能不会深跌", "斜率最陡时期已过但仍是阴跌", "有人认为周一是最后进场机会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "借用动漫台词表达对股市执念的释然，接受亏钱的人生也有意义",
+    "sentiment": "negative",
+    "key_opinions": ["财富自由不是人生唯一任务", "股市大败也不影响生命意义", "释然对待投资结果"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "调侃A股是万圣节最恐怖的cosplay，配图展示市场惨状",
+    "sentiment": "negative",
+    "key_opinions": ["A股行情恐怖如万圣节装扮", "市场惨状引发调侃"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论AI替代人力导致资金外流到国外芯片，引发就业和资本流动担忧",
+    "sentiment": "negative",
+    "key_opinions": ["AI替代人力使收入转移到平台再买国外芯片", "不发展AI工作也会被外国AI抢走", "类似历史上的技术替代，挡不住潮流"],
+    "mentioned_stocks": ["华为"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论熊市底部位置，观点分散从3000到2800甚至更低",
+    "sentiment": "negative",
+    "key_opinions": ["多数人认为底部在2800-3300之间", "银行和红利高位是指数虚高的原因", "流动性危机下腰斩不是底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "波段选手越跌越补被套深渊，感叹贪心和不甘心是投资大敌",
+    "sentiment": "negative",
+    "key_opinions": ["波段操作越跌越补陷入深渊", "贪心和不甘心是投资心态大敌", "科技股硬抗-50%不知何时解套"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "讨论段永平投资主要是抄巴菲特作业，但抄作业也不容易",
+    "sentiment": "mixed",
+    "key_opinions": ["段永平大部分投资是抄巴菲特作业", "抄作业有一定难度和门槛", "好股票理念是赚钱多赚得久赚得轻松"],
+    "mentioned_stocks": ["西方石油", "网易", "通用", "泡泡玛特"]
+  },
+  {
+    "index": 24,
+    "summary": "分析人民币难以国际化的原因，核心资产不让利导致缺乏货币吸引力",
+    "sentiment": "negative",
+    "key_opinions": ["纳斯达克让利于民使美元地位稳固", "核心资产不让渡利益没人愿持人民币", "A股成化债工具丧失公信力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "讨论今天是否是政策底，但之前3700也说政策底后继续下跌",
+    "sentiment": "negative",
+    "key_opinions": ["政策底需抗过3天再确认", "之前3700就喊政策底后更低", "中期选举未定股市给川普上眼药"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "科技博主仍有利润引发争议，讨论市场是否不允许任何人盈利",
+    "sentiment": "negative",
+    "key_opinions": ["部分科技博主仍有一倍多利润", "市场不能有获利盘的观点过于极端", "利好不断但跌停的反人性行情"],
+    "mentioned_stocks": ["通富微电"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论周一走势和满仓状态，多数人满仓套牢等待反弹",
+    "sentiment": "negative",
+    "key_opinions": ["预计周一低开午间反弹尾盘收跌", "满仓等反弹一个月了已经麻木", "满仓挨打腰斩再腰斩无话可说"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "万圣节cosplay分享，调侃不炒股才有心情玩",
+    "sentiment": "mixed",
+    "key_opinions": ["万圣节cosplay吓人", "不炒股才有心情玩", "最近群体性事件频发需注意安全"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "质疑开会救市是借钱救套牢盘，险资刚割国家队就来救很抽象",
+    "sentiment": "negative",
+    "key_opinions": ["险资亏损割肉后国家队借钱救市很抽象", "救市可能只是买宽基指数撑指数", "银行在前高位置处于十字路口"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 30,
+    "summary": "无奈退出大部分仓位只留沪电等，抱怨被嘲讽亏损",
+    "sentiment": "negative",
+    "key_opinions": ["撤出本金只留利润在场内", "只保留沪电等核心持仓", "市场被强行打断上涨导致信心丧失"],
+    "mentioned_stocks": ["沪电股份"]
+  },
+  {
+    "index": 31,
+    "summary": "感慨赛力斯股价从140跌到低于小米，花旗摩根目标价未能兑现",
+    "sentiment": "negative",
+    "key_opinions": ["赛力斯股价从140一路下跌到低于小米", "投行目标价70完全未兑现", "股价跌幅远超预期"],
+    "mentioned_stocks": ["赛力斯", "小米"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论是否建仓原油和西方石油，关注地缘政治和巴菲特持仓",
+    "sentiment": "mixed",
+    "key_opinions": ["考虑卖MRNA换仓到原油和西方石油", "跟随巴菲特买西方石油", "选举后战争由国会决定不太可能打"],
+    "mentioned_stocks": ["MRNA", "可口可乐", "西方石油", "吉利德"]
+  },
+  {
+    "index": 33,
+    "summary": "技术分析指出大盘还有约10%下跌空间至3200附近的20年均线",
+    "sentiment": "negative",
+    "key_opinions": ["年K回撤20%约到3200即20年均线", "银行拉高指数实际已失真", "还有平仓空间可能不止10%"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "对比2008年指数腰斩行情，当前创业板和科创跌幅已相当剧烈",
+    "sentiment": "negative",
+    "key_opinions": ["创业板和科创季度跌幅已接近2008年", "当年4万亿计划后才反弹", "结构牛后全面熊比08年更复杂"],
+    "mentioned_stocks": ["创业板指", "科创指数", "沪深300"]
+  },
+  {
+    "index": 35,
+    "summary": "空仓者寻求建议，大家表示敬佩并给出等待企稳的建议",
+    "sentiment": "mixed",
+    "key_opinions": ["空仓者需等大盘企稳再入场", "建议银行存款或等特定价位再买", "等到尸横遍野无人敢抄底时进场"],
+    "mentioned_stocks": ["中国神华", "农业银行", "兆易创新", "中远海控", "黄金"]
+  },
+  {
+    "index": 36,
+    "summary": "认为AI未来出路是具身智能机器人，才能真正创造价值",
+    "sentiment": "mixed",
+    "key_opinions": ["AI泡沫要等真正机器人出现才能判断", "具身智能是数字AI升级最佳方案", "机器人是未来三年新的十倍赛道"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "质押盘爆仓才是系统性风险，融资盘爆了只是散户亏损",
+    "sentiment": "negative",
+    "key_opinions": ["质押盘风险是真正的底部判断依据", "融资盘爆仓只是散户中产损失", "质押盘爆仓才是系统性风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "周末利好消息泛滥但不信者居多，先跑为敬的悲观情绪",
+    "sentiment": "negative",
+    "key_opinions": ["周末利好消息大概率没用", "情绪释放来得快去得也快", "低估核心资产概率上涨科技继续下杀"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论配置方向：医药消费还是科技，建议科技低估值可逐步建仓",
+    "sentiment": "mixed",
+    "key_opinions": ["医药弹性大科技绝对不能买博反弹", "科技中PE低三季度好的可逐步建仓", "吃药喝酒有利润冲高易跑需注意"],
+    "mentioned_stocks": ["药明康德", "亨通光电", "生益科技", "东山精密"]
+  },
+  {
+    "index": 40,
+    "summary": "带母亲入市后家庭资产快腰斩，深感愧疚不敢接电话",
+    "sentiment": "negative",
+    "key_opinions": ["带母亲入市资产腰斩深感愧疚", "建议杠铃持仓避免全仓梭哈科技", "没上杠杆就认错重新赚钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "黄金快速下跌引发讨论，有人认为是流动性危机或正常回踩",
+    "sentiment": "negative",
+    "key_opinions": ["黄金下跌可能是流动性危机所致", "回踩交易补全成交量空白", "长期看好黄金跑赢退休金"],
+    "mentioned_stocks": ["黄金", "原油", "纳斯达克"]
+  },
+  {
+    "index": 42,
+    "summary": "以9.23收盘价作为底部锚点判断个股泡沫程度，但经验主义不可取",
+    "sentiment": "mixed",
+    "key_opinions": ["9.23收盘价可作为底部参考锚点", "低于9.23大概率跌不动但也不涨", "经验主义在A股不可取"],
+    "mentioned_stocks": ["赛力斯"]
+  },
+  {
+    "index": 43,
+    "summary": "分析12月美联储加息概率80%+，不应抄底权益资产",
+    "sentiment": "negative",
+    "key_opinions": ["12月加息概率80%利空权益资产", "市场定价12月和3月各一次加息", "港股对美联储加息完全定价"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "调侃农历924重大利好，质疑工具箱里全是喇叭没有真金白银",
+    "sentiment": "negative",
+    "key_opinions": ["利好消息被认为是鱼钩套路", "工具箱里全是喇叭无实质措施", "逢高必跑做T是祖训"],
+    "mentioned_stocks": ["农业银行"]
+  },
+  {
+    "index": 45,
+    "summary": "关注AMD和苹果财报风险，担心科技股进一步崩塌",
+    "sentiment": "negative",
+    "key_opinions": ["AMD业绩不行则CPU第二线崩塌", "苹果靠消费抱团暂时没大跌", "没布局AI反而可能赢麻"],
+    "mentioned_stocks": ["AMD", "苹果", "Intel"]
+  },
+  {
+    "index": 46,
+    "summary": "对比当年白酒医药新能源的下跌方式，这次科技崩盘更加惨烈",
+    "sentiment": "negative",
+    "key_opinions": ["科技崩盘比白酒医药新能源更惨烈", "这次泡沫更大且有黑天鹅催化", "茅台22年走势和今年科技类似"],
+    "mentioned_stocks": ["茅台"]
+  },
+  {
+    "index": 47,
+    "summary": "中际旭创暗盘涨5%引发关注，但暗盘交易量太小参考价值有限",
+    "sentiment": "mixed",
+    "key_opinions": ["暗盘偶尔准偶尔不准只能看方向", "暗盘成交量太小无参考价值", "美国大票暗盘相对更准"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 48,
+    "summary": "老股民称现在跌幅远不及当年千股跌停，遭网友嘲讽",
+    "sentiment": "mixed",
+    "key_opinions": ["当年千股跌停熔断比现在惨烈", "20cm时代两根长阴就很恐怖", "网友嘲讽老股民年化收益不行"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "新易盛10月跌49.61%引发讨论，大白马被业绩miss杀成这样是否过度",
+    "sentiment": "negative",
+    "key_opinions": ["大白马一季业绩miss就杀近50%", "跌得多也要看之前涨了多少", "杀流动性时管你白马还是妖股"],
+    "mentioned_stocks": ["新易盛", "兆易创新", "源杰科技"]
+  },
+  {
+    "index": 50,
+    "summary": "硬说A股提前调整的优点，但反驳者认为可能调整两年起步",
+    "sentiment": "mixed",
+    "key_opinions": ["提前调整可提前完成熊市周期", "外围风险下提前消化是好事", "反驳称调整可能持续两年以上"],
+    "mentioned_stocks": []
+  }
+]
+```
