@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "大面积涨停被视为畸形市场，质疑经济空有其表",
+    "sentiment": "negative",
+    "key_opinions": ["大面积涨停是畸形罕见现象", "股市依赖玄学而非经济学"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "聊天记录小作文引发风险讨论，航天股下跌",
+    "sentiment": "negative",
+    "key_opinions": ["市场并未跌完仍有风险", "疑似窗口指导逼散户卖出筹码", "航天股跌成弱智"],
+    "mentioned_stocks": ["航天股"]
+  },
+  {
+    "index": 3,
+    "summary": "两点半国家队拉升，市场直线拉起",
+    "sentiment": "mixed",
+    "key_opinions": ["2点半国家队集中拉升", "拉起来又秒砸下去", "天天拉升如牛回速归"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "茅台vs中际旭创对比，茅台更抗跌更稳定",
+    "sentiment": "negative",
+    "key_opinions": ["茅台换中际是完美情绪反指标", "茅台价格比中际高千元以上", "老手看风险散户只看收益"],
+    "mentioned_stocks": ["贵州茅台", "中际旭创"]
+  },
+  {
+    "index": 5,
+    "summary": "监管窗口指导暂缓IPO和大股东抛售救市",
+    "sentiment": "negative",
+    "key_opinions": ["禁卖令限制IPO和大股东出售", "机构仍在砸盘散户不信禁令", "监管已无公信力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "帖主实盘买入多只个股，市场局势不稳",
+    "sentiment": "mixed",
+    "key_opinions": ["买入大业海洋江顺建设", "平台审核导致回复不可见", "江顺接近涨停"],
+    "mentioned_stocks": ["大业", "海洋", "江顺", "建设银行"]
+  },
+  {
+    "index": 7,
+    "summary": "市场大跌却无人哀嚎，散户已麻木或装死",
+    "sentiment": "negative",
+    "key_opinions": ["无人销户说明远没到底", "腰斩后已无痛感彻底麻木", "多数人小仓位影响有限"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论国家队被套与控盘策略",
+    "sentiment": "negative",
+    "key_opinions": ["国家队3000点下有大量筹码", "市场永远不缺追涨的人", "机构割国家队后被拔网线"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "盘中突然V型拉升但被质疑为拉高出货",
+    "sentiment": "mixed",
+    "key_opinions": ["2点半国家队买入拉升", "拉起来再砸再套一波", "一停止买入就跳水"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "反思今年科技暴跌远超预期的原因",
+    "sentiment": "negative",
+    "key_opinions": ["科技行情是历史级别大涨", "机构抱团拥挤度史无前例", "公募基金是毒瘤"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "市场进入死亡螺旋，股灾或创历史",
+    "sentiment": "negative",
+    "key_opinions": ["每次小反弹都是套人", "绝望程度超过2015年股灾", "量化压制反弹救市无效"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "德明利跌至180元PE仅6.5性价比惊人",
+    "sentiment": "negative",
+    "key_opinions": ["PE低于大部分银行被杀成这样", "存储涨价或提前抢跑下跌", "赚了钱是否分给股东"],
+    "mentioned_stocks": ["德明利"]
+  },
+  {
+    "index": 13,
+    "summary": "金融监管发声被批，泡沫破银行受害",
+    "sentiment": "negative",
+    "key_opinions": ["金融监管要防银行系统性风险", "泡沫破了银行倒霉", "市场有起色就被泼冷水"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "批评A股制度缺陷如金融殖民地",
+    "sentiment": "negative",
+    "key_opinions": ["只收割自己市场资金", "融资+流动性收割双重盘剥", "对A股已无信心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "禁售令发布后直线拉升但效果存疑",
+    "sentiment": "mixed",
+    "key_opinions": ["禁的是净卖出机构会换仓", "现在不卖后面迎抛售潮", "外资不会来诈骗市场"],
+    "mentioned_stocks": ["长江存储"]
+  },
+  {
+    "index": 16,
+    "summary": "科技筹码严重拥挤，螺旋下跌风险大",
+    "sentiment": "negative",
+    "key_opinions": ["机构大户挤在科技板块", "大户爆仓引发连环平仓", "没有技术壁垒的电子厂"],
+    "mentioned_stocks": ["源杰科技"]
+  },
+  {
+    "index": 17,
+    "summary": "科技股持续暴跌，创业板跌45%流动性枯竭",
+    "sentiment": "negative",
+    "key_opinions": ["科技占成交量大头但持续跌", "无买盘流动性枯竭卖压大", "所有人都想等反弹跑路"],
+    "mentioned_stocks": ["创业板ETF159915"]
+  },
+  {
+    "index": 18,
+    "summary": "亏损严重想告别市场，家庭理财全亏",
+    "sentiment": "negative",
+    "key_opinions": ["割了回归生活是正确选择", "不上杠杆中长期不会亏", "对市场还在幻想"],
+    "mentioned_stocks": ["中国存储"]
+  },
+  {
+    "index": 19,
+    "summary": "线上线下均受打击，社会吐槽与A股无关",
+    "sentiment": "negative",
+    "key_opinions": ["线上亏钱线下被老人冲突", "社会多层矛盾叠加", "大A给人当肉收割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "无明显利空却暴跌，市场信用崩塌",
+    "sentiment": "negative",
+    "key_opinions": ["暴跌不需要理由没钱了", "信用崩塌兜不住了", "任何小事都成利空"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "盘中拉升但无人相信是真反弹",
+    "sentiment": "mixed",
+    "key_opinions": ["龙队出手拉升水下起飞", "起飞不过是尸体动了", "再跌3500就尴尬了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "中际旭创跌至4开头，光模块前景存疑",
+    "sentiment": "negative",
+    "key_opinions": ["跌到零头但对数坐标仍在高位", "周期股跌到5PE不稀奇", "电子厂潮退后参照ST得润"],
+    "mentioned_stocks": ["中际旭创", "中远海控", "ST得润"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论跨年妖股，预测年底炒作标的",
+    "sentiment": "mixed",
+    "key_opinions": ["妖股特征是小市值基本面差", "每次妖股孕育于11月", "有人想梭哈有人质疑许愿"],
+    "mentioned_stocks": ["七匹狼", "皇台酒业", "福莱新材", "好上好", "上海洗霸", "九牧王", "太平洋", "东方海洋", "鲁阳节能", "九阳股份"]
+  },
+  {
+    "index": 24,
+    "summary": "科技等反弹跑路但增量资金不敢拉",
+    "sentiment": "negative",
+    "key_opinions": ["硬抗等跑增量资金不敢接", "没人拉也没人跑陷入僵局", "科技股到底值多少钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "银行不拉后市场拉稀，救市力量减弱",
+    "sentiment": "negative",
+    "key_opinions": ["银行不拉指数立刻拉稀", "无增量资金救市乏力", "信用塌方队伍带不动"],
+    "mentioned_stocks": ["农业银行"]
+  },
+  {
+    "index": 26,
+    "summary": "对市场绝望情绪化表达",
+    "sentiment": "negative",
+    "key_opinions": ["对市场感到绝望", "用歌词宣泄情绪"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "质疑救市资金是否弹尽粮绝",
+    "sentiment": "negative",
+    "key_opinions": ["可能根本没真正救市", "救市资金或许已枯竭"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "段子调侃股市暴跌骑手也罢工",
+    "sentiment": "mixed",
+    "key_opinions": ["亏损惨重骑手都想罢工", "A股买单全城亏损", "这次又不一样其实是幽默"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "国家队尾盘低吸捡筹码做日内T",
+    "sentiment": "negative",
+    "key_opinions": ["砸盘再捡便宜筹码做T", "高买低卖的散户才是亏的", "大鱼吃小鱼是市场本质"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "推荐万朗磁塑中线投机标的风险高",
+    "sentiment": "mixed",
+    "key_opinions": ["纯狗庄股涨跌凭庄家心情", "稀土+半导体材料双重概念", "盘子太小需小仓位试探"],
+    "mentioned_stocks": ["万朗磁塑"]
+  },
+  {
+    "index": 31,
+    "summary": "猜测国家队只控日跌幅不超1.5%",
+    "sentiment": "negative",
+    "key_opinions": ["国家队控跌幅而非止跌", "周一生跌导致抢跑又挂树", "国家队怕情绪爆炸见底过快"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "调侃国家队在场准备抄底",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队在场不怕下跌", "想抄底问抄哪个的屁股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "中芯国际H股加速下跌溢价扩大",
+    "sentiment": "mixed",
+    "key_opinions": ["H股加速下跌溢价变大", "跌回3字头可以建仓", "A股中芯何时腰斩"],
+    "mentioned_stocks": ["中芯国际"]
+  },
+  {
+    "index": 34,
+    "summary": "牧原股份逆势上涨走出整理区间",
+    "sentiment": "positive",
+    "key_opinions": ["全仓牧原逆势上涨接近破前高", "宏观不好避险资金会走", "突破44.39则是猪升浪"],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 35,
+    "summary": "讽刺一年6倍基金利润归零被坑",
+    "sentiment": "negative",
+    "key_opinions": ["一年6倍基金利润全部归零", "大部分人都买在山顶", "基金经理专挑高贝塔"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "坏消息频出传统行业通缩困境加深",
+    "sentiment": "negative",
+    "key_opinions": ["跌麻了才出消息雪上加霜", "通缩下传统行业排队等死", "AI投资一断就是大萧条"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "投资风险教育，回本难度计算建议",
+    "sentiment": "mixed",
+    "key_opinions": ["下跌50%需涨100%才能回本", "重测风险偏好认清自己", "亏25个点以内可空仓等"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "野村下调中际旭创目标价至330元",
+    "sentiment": "negative",
+    "key_opinions": ["CPO芯片级集成解构模块价值", "下调目标价至330元", "被断章取义或有误读"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论何时抄底信号，建议避开科技",
+    "sentiment": "mixed",
+    "key_opinions": ["永远别做左侧接飞刀", "科创50急杀放量拉起为信号", "现在是下行通道勿抄底"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 40,
+    "summary": "PCB板块集体跌停，生益沪电重挫",
+    "sentiment": "negative",
+    "key_opinions": ["PCB全线跌停不看基本面", "机构重仓股多杀多加剧", "沪电4天跌25%如暴雷"],
+    "mentioned_stocks": ["生益科技", "沪电股份", "深南电路", "金安国纪"]
+  },
+  {
+    "index": 41,
+    "summary": "科技比妖股跌得更惨，价值投资被套更深",
+    "sentiment": "negative",
+    "key_opinions": ["炒科技风险比炒妖股更高", "妖股知赌博及时止损", "价值投资反而套得更死"],
+    "mentioned_stocks": ["光迅科技", "华海药业", "大洋电机"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论机器人板块该买ETF还是个股",
+    "sentiment": "mixed",
+    "key_opinions": ["个股风险大抓不住", "退潮期暂时什么都不买", "中长线配置可以买"],
+    "mentioned_stocks": ["机器人ETF"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论指数退守3400点的可能",
+    "sentiment": "negative",
+    "key_opinions": ["回3400像回家一样熟悉", "没有银行撑指数早破了", "有人看2600悲观目标"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "2点半等救市，板块面临跌停风险",
+    "sentiment": "negative",
+    "key_opinions": ["没见到这么跌法太惨", "四大行又拉起来救市", "光和存板块补不动了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "国家队买入中证1000ETF稳定市场",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队买入中证1000ETF", "仍在努力维持市场"],
+    "mentioned_stocks": ["中证1000ETF"]
+  },
+  {
+    "index": 46,
+    "summary": "李大霄视频疑似被窗口指导",
+    "sentiment": "mixed",
+    "key_opinions": ["大霄视频被窗口指导表情严肃", "融资市吃一口就跑最合适", "恒生科技出现红三兵"],
+    "mentioned_stocks": ["恒生科技"]
+  },
+  {
+    "index": 47,
+    "summary": "救市效果不佳机构仍在出逃",
+    "sentiment": "negative",
+    "key_opinions": ["救市救的是市不是散户", "机构大规模出逃留散户等死", "诱多忽悠散户当肉垫"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "剧烈波动绞肉机行情散户死得惨",
+    "sentiment": "negative",
+    "key_opinions": ["机构重仓股业绩好坏都在挨打", "波动越剧烈散户死得越惨", "剧烈拉升打压都不是好人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "阳光电源反弹但之前跌幅巨大",
+    "sentiment": "mixed",
+    "key_opinions": ["业绩好的股不敢买没预期", "比科技股跌得更狠", "涨两天忘了长期下跌"],
+    "mentioned_stocks": ["阳光电源", "胜宏科技"]
+  },
+  {
+    "index": 50,
+    "summary": "调侃回归喝酒养猪种地告别科技梦",
+    "sentiment": "negative",
+    "key_opinions": ["科技梦破碎回归传统", "养猪股也不太行", "科技涨上天时才相信"],
+    "mentioned_stocks": ["牧原股份"]
+  }
+]
+```
