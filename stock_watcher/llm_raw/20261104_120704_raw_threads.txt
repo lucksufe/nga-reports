@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论特朗普对伊朗军事行动导致油价通胀、中期选举失利，认为行动毫无收益",
+    "sentiment": "negative",
+    "key_opinions": ["打伊朗纯亏，油价涨通胀高还丢两院", "前期委内瑞拉行动本来是好牌", "连铁粉都不理解为何搞伊朗"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论A股含科量最高的五家公司，涉及半导体、新能源、医药等",
+    "sentiment": "mixed",
+    "key_opinions": ["中芯、长鑫、比亚迪、宁德、药明较受认可", "寒武纪NPU技术含量被认可", "茅台和银行被调侃为科技"],
+    "mentioned_stocks": ["中芯国际", "长鑫存储", "北方华创", "中微公司", "海光信息", "比亚迪", "寒武纪", "宁德时代", "药明康德", "贵州茅台"]
+  },
+  {
+    "index": 3,
+    "summary": "推测有窗口指导限制基金赎回，科创缩量反弹但外围风险仍在",
+    "sentiment": "negative",
+    "key_opinions": ["窗口指导不让基金大额赎回保市场稳定", "期货已瀑布，外围风险未解除", "美股没跌够是最大隐患"],
+    "mentioned_stocks": ["科创指数", "纳斯达克"]
+  },
+  {
+    "index": 4,
+    "summary": "AMD第四季度营收展望超预期，缓解AI泡沫担忧但关键仍看英伟达",
+    "sentiment": "mixed",
+    "key_opinions": ["AMD营收170亿超预期，AI支出仍有持续性", "归根到底要看英伟达财报定生死", "英伟达自身股价已低于年初水平"],
+    "mentioned_stocks": ["AMD", "英伟达"]
+  },
+  {
+    "index": 5,
+    "summary": "一位散户利通电子浮盈50%未止盈后换股亏损清仓的经历",
+    "sentiment": "negative",
+    "key_opinions": ["把行情当能力，缺乏纪律和止盈止损", "追高利通100元亏损4000元离场", "亏几千已算幸运经验"],
+    "mentioned_stocks": ["利通电子", "行云科技"]
+  },
+  {
+    "index": 6,
+    "summary": "纳指期货走弱叠加久留美更新，担忧明天大A继续下跌",
+    "sentiment": "negative",
+    "key_opinions": ["纳指ETF三天溢价跌4%", "预期明天大低开爆杀", "法定下跌日基本无悬念"],
+    "mentioned_stocks": ["纳斯达克", "纳指ETF"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论京东方是否有大额资金进场，质疑是沪深300权重被动流入",
+    "sentiment": "mixed",
+    "key_opinions": ["大额资金流入可能是权重股被动配置", "不能仅凭资金流入判断买入机会"],
+    "mentioned_stocks": ["京东方"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论特朗普中期选举可能输掉，担心其破防后铤而走险对伊朗动武",
+    "sentiment": "negative",
+    "key_opinions": ["特朗普输急了可能掀桌打伊朗", "输后面临大清洗风险", "德州都输了说明不得人心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论下午盘面走向，国家队托举双创但缩量压力大",
+    "sentiment": "negative",
+    "key_opinions": ["国家队拉双创防系统性危机", "上午狂卖主板救双创差点两崩", "缩量明显资金托举力不从心"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论国家队可能借稳市名义做T赚钱，在期货市场收割多头",
+    "sentiment": "negative",
+    "key_opinions": ["国家队被称为做T大王在低位极限T", "在期指市场收割多头", "体量大到买涨卖跌已超越做T"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "批评国家队操作迟疑慢半拍，总在美股指标出来后才行动",
+    "sentiment": "negative",
+    "key_opinions": ["按救市标准是菜鸡，按收割标准是超人", "决策流程官僚化效率低下", "每次托举都慢一步错失良机"],
+    "mentioned_stocks": ["上证50"]
+  },
+  {
+    "index": 12,
+    "summary": "探讨下一轮行情方向，科技和红利是当前主线，猜下一个热点",
+    "sentiment": "mixed",
+    "key_opinions": ["银行和中登说法被调侃", "环AI轮流上涨：机器人、航天、消费", "没主线只有题材，需等韭菜长出来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论海外链（光通信）被市场抛弃，担心业绩不及预期走向退市",
+    "sentiment": "negative",
+    "key_opinions": ["赚不到美元订单，后续业绩堪忧", "机构砸盘情绪化发泄", "极端言论：上涨看10000下跌看2000"],
+    "mentioned_stocks": ["东山精密", "中际旭创", "新易盛", "欧菲光"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论移远通信为何走势硬朗，蜂窝模组和端侧AI概念支撑",
+    "sentiment": "positive",
+    "key_opinions": ["通信模组权威，端侧AI三季报释放", "端侧AI三剑客：移远、广和通、美格", "没涨所以硬，之前一直扛跌"],
+    "mentioned_stocks": ["移远通信", "广和通", "美格智能", "瑞芯微"]
+  },
+  {
+    "index": 15,
+    "summary": "实盘记录帖，讨论买入标的和论坛回复延迟问题",
+    "sentiment": "mixed",
+    "key_opinions": ["买入大业海洋江顺建设", "论坛回复延迟看不到及时信息", "跟随操作者多，筹码被大户接走"],
+    "mentioned_stocks": ["江顺建设", "建设银行"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论特朗普中期选举可能输掉两院，对科技股和美伊局势的影响",
+    "sentiment": "negative",
+    "key_opinions": ["两院丢失已基本计入价格", "党争上力度可能限制AI和重启美伊", "懂王反对民主党议案但也推不动自己"],
+    "mentioned_stocks": ["纳斯达克", "Intel"]
+  },
+  {
+    "index": 17,
+    "summary": "批评市场不共振时想走独立行情，缩量资金不足拉不起来",
+    "sentiment": "negative",
+    "key_opinions": ["放量1000亿才能形成合力", "共振修复时不托举，跌了才急", "三驾马车只剩出口，逆周期调节乏力"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论海皇（中远海控）上涨目标和卖飞操作",
+    "sentiment": "positive",
+    "key_opinions": ["看到20甚至更高的目标价", "多次卖飞不敢再卖", "改名中远星控，海皇已成过去"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论当前走势下敢不敢持股过夜，意志力考验",
+    "sentiment": "mixed",
+    "key_opinions": ["低点买入次日有机会套利", "死拿科技的都是心如铁石", "有人看好全面反攻，有人建议跑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "批评托市时机不当，好托时不托差时才托，每天缩量1.6-1.7万亿",
+    "sentiment": "negative",
+    "key_opinions": ["想托没人跟，科技不起来持续缩量", "防范系统性风险而已，3600不救市", "好托时忙着割，差托让人磕头"],
+    "mentioned_stocks": ["恒生科技", "中概股"]
+  },
+  {
+    "index": 21,
+    "summary": "讽刺不花钱的救市就是吸筹，喊口号让散户冲锋",
+    "sentiment": "negative",
+    "key_opinions": ["大喇叭喊救市实为不花钱吸筹", "每天捡爆仓筹码", "没量不要抄底，等持续放量"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论蜘蛛侠指标（预判暴跌信号）未触发，下午和明天走势预测",
+    "sentiment": "mixed",
+    "key_opinions": ["下午应该不会爆杀", "明天守3600后久留美更新3550", "明天星期四不好说"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "朋友想问明天亏多少能出来，持仓被套",
+    "sentiment": "negative",
+    "key_opinions": ["明天可能亏损离场", "说不定红着出来安慰"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "半导体有企稳迹象但通信创新低，讨论能否乐观看待",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体已筑平台，通信还在新低", "下午或明天可能开杀", "放量不下跌才是真稳住"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "咨询港股红利优秀标的，推荐海油、移动、央企红利ETF",
+    "sentiment": "positive",
+    "key_opinions": ["海油和移动是不错选择", "513920港股通央企红利被推荐", "除汇丰外多是A股熟面孔"],
+    "mentioned_stocks": ["中国海油", "中国移动", "港股通央企红利ETF(513920)", "汇丰", "江南布衣"]
+  },
+  {
+    "index": 26,
+    "summary": "美股夜盘大跌，A股能否走独立行情引发讨论",
+    "sentiment": "mixed",
+    "key_opinions": ["中期选举出事，美股夜盘踩踏", "A股托一下但明天久留美更新", "不跟跌值得观察，相关性因子变化"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 27,
+    "summary": "调侃特朗普输选后A股可炒作的谐音概念股",
+    "sentiment": "positive",
+    "key_opinions": ["川润股份谐音梗炒作", "莎普爱思、普洛药业等名字梗", "脑筋急转弯式选股"],
+    "mentioned_stocks": ["川润股份", "莎普爱思", "川投能源", "哈尔斯", "普洛药业", "仁东控股"]
+  },
+  {
+    "index": 28,
+    "summary": "英伟达要求数据中心客户缩减中国业务，引发国产算力担忧",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达限制中国大模型发展", "国内算力缺口严重，华为昇腾未出货", "国模发展受限前景堪忧"],
+    "mentioned_stocks": ["英伟达", "华为昇腾", "寒武纪"]
+  },
+  {
+    "index": 29,
+    "summary": "买错概念反而救了一命，分享经历",
+    "sentiment": "positive",
+    "key_opinions": ["买错概念股意外避免亏损", "歪打正着的幸运"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "讨论今天A股为什么这么难跌，缩量反抽缓慢跳水",
+    "sentiment": "mixed",
+    "key_opinions": ["扣了卖出键限制了下跌", "上午诱多下午瀑布是常态", "银行又拉起来了"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论科技股是否还有上涨风险，分歧较大",
+    "sentiment": "negative",
+    "key_opinions": ["AI泡沫破裂叠加利空才跌半山腰", "科技内部：战狼链红、罕见链绿", "连筑底都没有，V型反弹不现实"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "质疑救市策略得罪各方利益到底图什么",
+    "sentiment": "negative",
+    "key_opinions": ["得罪老登、小登、保险、公司、央妈", "高估值科技回购引争议", "借钱救市逻辑不明"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "讨论下午是否爆杀，守3600和明天久留美更新",
+    "sentiment": "mixed",
+    "key_opinions": ["明牌守3600", "中午离别钩老乡别走", "今天震荡留给明天久留美日"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "回忆以前大时代做空大师山河翠，讨论当前做空科技的爽感",
+    "sentiment": "mixed",
+    "key_opinions": ["做空大师应该很爽", "以前空兆易创新100元价位"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 35,
+    "summary": "调侃中远海控从15涨到18+不守承诺，散户被套心态变化",
+    "sentiment": "positive",
+    "key_opinions": ["年初13-15收留现在18+超预期", "耐心资本总有回报", "2-3月会回调"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 36,
+    "summary": "科技被满版嘲讽类似6月老登股被嘲讽，讨论轮动规律",
+    "sentiment": "mixed",
+    "key_opinions": ["科技涨得凶跌得更凶", "老登股有收益科技没人接是废纸", "高位不让唱空终被清算"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "银行股出现多个对子顶信号，讨论是否短期见顶",
+    "sentiment": "negative",
+    "key_opinions": ["工行888、北京599等对子顶信号", "6月底半导体对子顶后大跌教训", "量化做出来的信号"],
+    "mentioned_stocks": ["工商银行", "北京银行", "浦发银行", "交通银行", "招商银行", "兴业银行"]
+  },
+  {
+    "index": 38,
+    "summary": "科技退潮消费崛起讨论，零售宠物饮料等方向被看好",
+    "sentiment": "mixed",
+    "key_opinions": ["科技死了但轮不到消费", "零售宠物饮料整车有资金流入", "哪个干净拉哪个，拉到信就卖"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "药明康德突然反弹，讨论原因：超跌反抽或政治因素",
+    "sentiment": "mixed",
+    "key_opinions": ["超跌反弹反抽为主，未突破通道", "民主党反对药明制裁利好", "讽刺各种不买理由的段子"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 40,
+    "summary": "完美世界回本庆祝，讨论何时减仓和目标价",
+    "sentiment": "positive",
+    "key_opinions": ["拿到13或15-20目标价", "买科技不如买完美世界", "板块拖后腿"],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 41,
+    "summary": "科技板块筹码拥挤严重，机构大户集中存在连环爆仓风险",
+    "sentiment": "negative",
+    "key_opinions": ["机构大户挤在科技，螺旋下跌风险大", "融资盘爆仓风险传导至机构", "月线在高山上，半山腰都没到"],
+    "mentioned_stocks": ["东山精密", "源杰科技"]
+  },
+  {
+    "index": 42,
+    "summary": "吐槽完美世界没涨停，被套等待回本",
+    "sentiment": "negative",
+    "key_opinions": ["14块成本何时能回", "低位不加仓难回本"],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 43,
+    "summary": "调侃中顺洁柔，湿纸巾成宣传重点",
+    "sentiment": "positive",
+    "key_opinions": ["可丢马桶湿纸巾是宣传重点", "市场空档机会"],
+    "mentioned_stocks": ["中顺洁柔"]
+  },
+  {
+    "index": 44,
+    "summary": "东山精密股价不断创新低，调侃8558是本轮低点后秒破",
+    "sentiment": "negative",
+    "key_opinions": ["8558低点三分钟就破了", "140的本难回，可能跌到60", "有人买了被套非常痛苦"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 45,
+    "summary": "限制大资金卖出后科技反而能红，讨论托市效果",
+    "sentiment": "mixed",
+    "key_opinions": ["扣卖出键稳住大资金有效果", "散户顶上来反而利于机构卖出", "骗散户抄底后继续暴跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "日经指数意外大跌3%，纳指期货-2拖累日韩市场",
+    "sentiment": "negative",
+    "key_opinions": ["纳指期货投河日韩跟跌", "日经是大号半导体设备ETF", "全球股市靠A股单防"],
+    "mentioned_stocks": ["日经指数", "纳斯达克", "QQQ"]
+  },
+  {
+    "index": 47,
+    "summary": "完美世界最近涨得好，询问是否有消息面",
+    "sentiment": "positive",
+    "key_opinions": ["完美世界近期表现不错", "想知道上涨原因"],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 48,
+    "summary": "今天拉红但认为意义不大，可能只是完成任务",
+    "sentiment": "negative",
+    "key_opinions": ["拉红没有实际意义", "只是为了完成护盘任务"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "分享新媒股份技术分析，认为横盘突破可能开启主升浪",
+    "sentiment": "positive",
+    "key_opinions": ["横盘半年放量突破箱体", "可能出货也可能是主升", "题材不够性感，小散买不到"],
+    "mentioned_stocks": ["新媒股份", "新华百货"]
+  },
+  {
+    "index": 50,
+    "summary": "吴京链（国产替代）获胜，罕见链（光通信）投降",
+    "sentiment": "positive",
+    "key_opinions": ["国产替代方向领涨", "光通信板块大败", "拉升没量可能鱼钩，五浪来了"],
+    "mentioned_stocks": []
+  }
+]
+```
