@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论股市波动大是否归咎于散户过多，多数人认为机构抱团和踩踏才是主因，散户不应背锅。",
+    "sentiment": "negative",
+    "key_opinions": ["机构抱团和踩踏导致波动，与散户无关", "散户是市场基石，不应被怪罪", "公募基金不值得信任，应自己投资"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "跟帖交流买入操作，讨论论坛回复功能异常，涉及大业、江顺建设等个股短线交易。",
+    "sentiment": "mixed",
+    "key_opinions": ["江顺快涨停，跟随买入", "论坛回复显示异常，影响看盘", "跟随F哥操作大业海洋江顺建设"],
+    "mentioned_stocks": ["大业", "海洋", "江顺建设", "建设银行"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论融资盘持续卖出压制反弹，需要等融资盘爆仓或清完才有抄底机会，螺旋下杀风险存在。",
+    "sentiment": "negative",
+    "key_opinions": ["融资盘下杀才能杀出量，杀干净才能反弹", "机构止损线触发也在割肉踩踏", "融资余额减少影响范围缩小，专杀科技"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "吐槽美股期货跳水、油价波动等外围风险，悲观看待A股盘前走势。",
+    "sentiment": "negative",
+    "key_opinions": ["外围市场集体跳水，A股承压", "全球都在针对A股", "实际美油只是微涨，消息被放大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论B站UP主通过价值投资在港股艰难回本，赞赏其研究财报的投资方式，但也有人质疑其水平。",
+    "sentiment": "mixed",
+    "key_opinions": ["研究财报、价值投资是正确方向", "港股流动性危机叠加港币贬值，没亏钱很牛", "部分人认为其水平一般，估值体系不适合A股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论中际旭创电话会业绩虽好但股价大跌，核心问题是筹码结构和市场信心而非业绩。",
+    "sentiment": "negative",
+    "key_opinions": ["大跌与业绩无关，是筹码结构问题", "会议和电话会都救不了市场", "NPO/XPO明年H2起量是关注点"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 7,
+    "summary": "AMD四季度营收展望超预期利好AI硬件，但市场仍关注英伟达财报，对AI持续性有分歧。",
+    "sentiment": "mixed",
+    "key_opinions": ["AMD展望超预期，AI支出持续性得到验证", "最终要看英伟达财报", "高端算力短缺，国内受光刻机限制"],
+    "mentioned_stocks": ["AMD", "英伟达"]
+  },
+  {
+    "index": 8,
+    "summary": "担心下午出现暴跌瀑布，讨论银行托底和科技板块压力，盘面情绪极度悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["盘面让人汗毛竖起，像要暴跌", "银行砸低可以拉指数托底", "易中天可能砸得更低"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 9,
+    "summary": "纳指期货跳水，与美国中期选举结果不确定性有关，市场担忧民主党可能大胜两院。",
+    "sentiment": "negative",
+    "key_opinions": ["川普可能丢掉两院，导致跳水", "民主党横扫两院的预期升温", "部分人认为两院全丢已在预期内"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论今天是否会反弹，市场心态悲观，认为高开必低走，反弹信心不足。",
+    "sentiment": "negative",
+    "key_opinions": ["高开必跳水是市场共识", "能平走就谢天谢地", "有人幻想高开高走但被嘲笑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "韩国股市高开跳水引发关注，被美股拖累，A股高开风险消除反而被视为好事。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国被美股拉下去了", "A股高开风险消除是好事", "等A股来救韩国"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "讨论炒股亏损影响工作和生活，建议用闲钱投资、分散配置，重仓亏损导致焦虑严重。",
+    "sentiment": "negative",
+    "key_opinions": ["亏损导致工作失误，生活受影响", "应闲钱炒股，别把所有钱投入", "分散配置债券黄金等对冲风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "长鑫科技董事长提议将回购金额从10-20亿增至25-50亿，被讽刺高价回购，调侃成分居多。",
+    "sentiment": "mixed",
+    "key_opinions": ["回购金额大幅增加是利好信号", "讽刺8块增发40块回购的魔幻", "提议还需过会，不是董事长一人决定"],
+    "mentioned_stocks": ["长鑫科技"]
+  },
+  {
+    "index": 14,
+    "summary": "探讨空仓是否是当前最优策略，认为在多重负面因素下空仓反而跑赢多数人。",
+    "sentiment": "negative",
+    "key_opinions": ["空仓跑赢87%的投资者", "多重负面buff叠加，空仓是合理选择", "做短线是PVP，散户没优势不如做简单模式"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论美国中期选举计票慢的原因，邮寄选票拖延，民主党可能横扫两院引发市场关注。",
+    "sentiment": "mixed",
+    "key_opinions": ["邮寄选票导致计票拖延", "民调显示民主党横扫两院概率高", "中期选举对美股和全球市场影响大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "纠结现在该买还是再等，市场无持续性，买入即套，两难选择引发共鸣。",
+    "sentiment": "negative",
+    "key_opinions": ["买入即套，市场无持续性", "再等等先生赢了", "应自己思考而非人云亦云"],
+    "mentioned_stocks": ["沪电"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论股市问题根源，认为不该怪散户，机构抱团瓦解才是主因，基金行业问题严重。",
+    "sentiment": "negative",
+    "key_opinions": ["机构抱团瓦解散户吃亏", "基金与基民利益不一致", "问题是环境而非持有者"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "各种利好消息后市场依然高开低走，对面（美股）全面泄盘。",
+    "sentiment": "negative",
+    "key_opinions": ["利好再多也是高开低走", "美股科技全面跳水"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "美股科技盘后90度跳水，原因指向美国中期选举民主党大胜，间接狙击A股。",
+    "sentiment": "negative",
+    "key_opinions": ["民主党选举大胜导致跳水", "用最小代价狙击A股", "A股不高开反而更安全"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "开融资抄底中际旭创（科技总龙头），被网友提醒风险，有人甚至认为这是见底反指信号。",
+    "sentiment": "mixed",
+    "key_opinions": ["楼主坚定抄底500块的科技总龙头", "网友提醒注意风险", "楼主爆仓或为见底信号"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论美国若发动核打击对股市的影响，多数人认为股票将成废纸，荒诞话题引发幽默讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["真核战争股票就是废纸", "A股可以关门了", "该囤矿泉水罐头而非买股票"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "吐槽某只暴跌股票恐怖，但网友指出A股大量腰斩再腰斩的票，这算不上最惨。",
+    "sentiment": "negative",
+    "key_opinions": ["A股几百个腰斩票，这不算最恐怖", "科创板指数更恐怖", "英特尔被调侃买入即跌30%"],
+    "mentioned_stocks": ["英特尔"]
+  },
+  {
+    "index": 23,
+    "summary": "疑惑为何机构割肉外资抄底反而更差，机构年底排名导致大逃杀，恶性循环加剧。",
+    "sentiment": "negative",
+    "key_opinions": ["机构年底排名竞争导致大逃杀", "外资抄底数据存疑", "机构不是自己的钱，当欢乐豆玩"],
+    "mentioned_stocks": ["兆易"]
+  },
+  {
+    "index": 24,
+    "summary": "反思六月科技行情时的\"认知\"论调，回旋镖效应明显，警示敬畏市场、见好就收。",
+    "sentiment": "negative",
+    "key_opinions": ["\"认知\"论调被市场回旋镖打脸", "牛市是散户的坟墓", "盈亏同源，因认知赚钱也因认知亏钱"],
+    "mentioned_stocks": ["沪电"]
+  },
+  {
+    "index": 25,
+    "summary": "客户经理进行心理按摩，透露营业部爆仓客户数接近2015年，但强调市场正在再平衡。",
+    "sentiment": "negative",
+    "key_opinions": ["爆仓数接近2015年股灾水平", "ETF净买入超3000亿", "科技抱团瓦解进入再平衡阶段"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "红利投资者准备空仓观望，对五粮液和科技板块都失望，认为当前缺乏可买的标的。",
+    "sentiment": "negative",
+    "key_opinions": ["红利投资今年也很难受，准备空仓", "五粮液涂改液行为令人失望", "老登衰退预期，科技套牢盘，空仓正确"],
+    "mentioned_stocks": ["五粮液", "中公"]
+  },
+  {
+    "index": 27,
+    "summary": "调侃伊朗地缘事件导致每日开盘前的做空行为，讽刺黄金时间点的空头操作。",
+    "sentiment": "negative",
+    "key_opinions": ["每天开盘前地缘事件做空A股", "调侃伊朗和美国每日配合砸盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "讨论地方城投公司去香港借高息债而非用国内低利率，涉及债务陷阱和利益输送问题。",
+    "sentiment": "negative",
+    "key_opinions": ["国内额度用满才去香港借高利贷", "高息债主可能是利益关联方", "借钱实为交保护费，化债遥遥无期"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "科技板块筹码结构严重拥挤，机构大户挤在一起，融资盘爆仓风险导致螺旋下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["机构大户全挤在科技，螺旋下跌风险大", "大户爆仓后轮到机构，流动性危机", "做多拉升才能解决问题，但没人愿意"],
+    "mentioned_stocks": ["源杰科技"]
+  },
+  {
+    "index": 30,
+    "summary": "中际旭创从高位大幅下跌至4开头，对数坐标看仍在高位，周期股下跌空间可能更大。",
+    "sentiment": "negative",
+    "key_opinions": ["对数坐标看仍在高位，不算便宜", "周期股跌到5PE不稀奇", "最好的操作是拿着别动"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 31,
+    "summary": "昨日宽基ETF资金净流入858亿创单日历史第三，机构和国家队通过ETF大幅买入护盘。",
+    "sentiment": "positive",
+    "key_opinions": ["宽基ETF净流入858亿历史第三", "沪深300、科创50、上证50为主要流入方向", "大资金通过ETF持续买入"],
+    "mentioned_stocks": ["华泰柏瑞沪深300ETF", "华夏上证科创板50ETF", "华夏上证50ETF"]
+  },
+  {
+    "index": 32,
+    "summary": "考虑去香港开户投资，网友提醒汇率风险和开户难度，多数人认为人不行去哪都不行。",
+    "sentiment": "mixed",
+    "key_opinions": ["汇率是最大风险因素", "T+0市场不一定更容易赚钱", "港股美股今年90%以上也亏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "紫金矿业跌至25块引发抄底讨论，有人按纪律补仓，关注金价走势和黄金配置机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["25块有吸引力，分批补仓", "金价可能还没见底", "央行出黄金证明流动性利好"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 34,
+    "summary": "用玄幻小说讽刺监管层不断吹嘘利好却无力救市，暗讽证监会外行领导内行。",
+    "sentiment": "negative",
+    "key_opinions": ["监管层利好不断但收效甚微", "证监会外行领导内行", "文章文笔精妙，讽刺意味深"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "为海狗（中国海油/海皇）鸣不平，认为有业绩低估值的股票被科技当血包踩踏，反衬科技估值泡沫。",
+    "sentiment": "negative",
+    "key_opinions": ["海狗业绩好估值低却被当血包", "科技估值过高终将回归", "海狗持续回购，分红稳定"],
+    "mentioned_stocks": ["中际旭创", "长鑫科技"]
+  },
+  {
+    "index": 36,
+    "summary": "极端观点认为只有大面积爆仓推倒重来才能拯救A股，提议强制退市制度改革。",
+    "sentiment": "negative",
+    "key_opinions": ["只有废墟上才能完成新生", "建议每年强制退市200家", "暗示某种不敢说的解决方案"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 37,
+    "summary": "AMD财报超预期提振美股，但科技板块套牢盘过重，仅靠一份财报难以持续上涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["AMD财报超预期，营收利润均超预期", "科技板块7月顶部套牢盘太重", "反弹可以但解放套牢盘很困难"],
+    "mentioned_stocks": ["AMD"]
+  },
+  {
+    "index": 38,
+    "summary": "看好创业板筹码峰准备进场，计划五年年化8-10%，但有通信三兄弟拖累隐忧。",
+    "sentiment": "mixed",
+    "key_opinions": ["创业板筹码峰好看，分批买入", "通信三兄弟是创业板ETF隐患", "有人赌未来2月再跌20%"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "A股\"羊洋阳\"谐音概念股大爆发被官方媒体警示风险，但实际涨幅远不及科技板块。",
+    "sentiment": "mixed",
+    "key_opinions": ["谐音概念股炒作风险高", "高标杀跌比科技还轻", "媒体警示意味是炒作未结束"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "对\"科技\"二字感到幻灭，国庆后科技暴跌让投资者从信仰到绝望，资金去向成谜。",
+    "sentiment": "negative",
+    "key_opinions": ["科技从信仰变成套牢，盈亏同源", "指数靠科技涨到4200又被科技拖累", "大部分有信仰的都爆仓了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "光通信公司老馒头被迈威尔并购拖累股价，管理层决策被质疑，英伟达背书的并购存疑。",
+    "sentiment": "negative",
+    "key_opinions": ["迈威尔并购拖累老馒头股价", "管理层同意被并购决策离谱", "英伟达背书的并购背后有考量"],
+    "mentioned_stocks": ["迈威尔"]
+  },
+  {
+    "index": 42,
+    "summary": "老登股（消费医疗）走强，迈瑞医疗和茅台表现强势，认为老登股估值便宜正迎来春天。",
+    "sentiment": "positive",
+    "key_opinions": ["迈瑞医疗和茅台走出强势上涨", "老登股估值便宜类似红利股", "警惕新的抱团宏大叙事轮回"],
+    "mentioned_stocks": ["迈瑞医疗", "茅台"]
+  },
+  {
+    "index": 43,
+    "summary": "英伟达柏林GTC锁定六个海外合作伙伴绕开大陆供应链，对国内光模块产业链构成长期利空。",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达锁产能全部绕开大陆公司", "大陆CPO核心产能未获订单", "英伟达逐步清理国产供应链"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论买完删软件等一年的长线策略是否最优，一年维度收益3-30%不等，但需低位置买。",
+    "sentiment": "mixed",
+    "key_opinions": ["长线持有收益尚可但需要低买", "高位买入一年不够可能要3年", "不看盘减少焦虑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "总结十月短线赚钱效应，量化主导市场，连板股模式可复制，涉及山东地域概念和小票炒作。",
+    "sentiment": "positive",
+    "key_opinions": ["量化主导市场，三班组三哥影响大", "山东+羊概念是10月赚钱效应", "股本结构好即大股东持股集中更佳"],
+    "mentioned_stocks": ["九阳"]
+  },
+  {
+    "index": 46,
+    "summary": "戏谑对比各国股市表现，自嘲A股稳定领先，用反讽表达对A股的信心。",
+    "sentiment": "mixed",
+    "key_opinions": ["A股波动小是稳定还是没活力", "阿根廷指数暴涨是货币贬值所致", "用反讽方式表达对A股的复杂情感"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "看好闪迪明年PE动降到2开头，财报好却被砸，对比AMD被追捧，认为存储不受待见。",
+    "sentiment": "mixed",
+    "key_opinions": ["闪迪财报好但被砸，PE降至4.35", "存储板块不受市场待见", "少量买入50股试探小反弹"],
+    "mentioned_stocks": ["AMD", "闪迪"]
+  },
+  {
+    "index": 48,
+    "summary": "看好新能源板块反弹机会，筹码比科技干净，固态电池有预期且资金关注，指数共振可期。",
+    "sentiment": "positive",
+    "key_opinions": ["新能源筹码干净，横盘蓄势", "固态电池涨停多，有资金关注", "反弹需与指数共振上涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "纯图形流选手开记录帖，选股看图形加逻辑辅助，当前持仓通信ETF，长期记录投资历程。",
+    "sentiment": "mixed",
+    "key_opinions": ["图形买点加逻辑的心理按摩体系", "持股周期为月级别", "用记录帖督促自己坚持纪律"],
+    "mentioned_stocks": ["通信ETF"]
+  },
+  {
+    "index": 50,
+    "summary": "悬赏100元求学炒股技巧，认为花钱学习比给券商送钱强，讨论技术分析在国内市场的有效性。",
+    "sentiment": "mixed",
+    "key_opinions": ["100元买到的课质量存疑，靠自己悟", "国内扎堆资金把技术形态走坏", "不同交易理念买卖点迥异，不宜混学"],
+    "mentioned_stocks": []
+  }
+]
+```
