@@ -1,0 +1,340 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论大涨后是否回本，多数人仍大幅亏损，回本需多次大涨",
+    "sentiment": "mixed",
+    "key_opinions": ["跌幅大回本需涨幅翻倍", "仅部分人小幅回本", "需再来三次大涨才回本"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 2,
+    "summary": "险资入场小作文引发热议，多为质疑真实性，也有人期待牛市",
+    "sentiment": "mixed",
+    "key_opinions": ["若真则牛市来了", "小作文可信度极低", "可能是国家队跑路的借口"],
+    "mentioned_stocks": ["险资"]
+  },
+  {
+    "index": 3,
+    "summary": "科技投资者博弈超跌反弹却卖在最低点，止损后心态释然",
+    "sentiment": "negative",
+    "key_opinions": ["博弈反弹却卖在最低点", "抄底科技亏10%全清", "清仓反而轻松了"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 4,
+    "summary": "探讨科技股大涨原因，川普中期选举失利利空出尽，资金搏反弹",
+    "sentiment": "mixed",
+    "key_opinions": ["川普丢两院利空出尽", "跌多了废纸也能涨", "长鑫成交量异常"],
+    "mentioned_stocks": ["长鑫存储", "科技股"]
+  },
+  {
+    "index": 5,
+    "summary": "反感FOMO情绪，批评既想赚反弹又怕风险的矛盾心态",
+    "sentiment": "negative",
+    "key_opinions": ["踏空者不应阻碍他人", "套牢者终于喘口气", "散户又馋又怕担风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "分析东山精密筹码结构干净，高换手洗盘充分，有热度加成",
+    "sentiment": "positive",
+    "key_opinions": ["筹码已洗得一干二净", "底部成交量配合好看", "站稳五日线就加仓"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 7,
+    "summary": "f佬主楼跟单帖，买入大业海洋江顺建设等标的，论坛抽楼严重",
+    "sentiment": "positive",
+    "key_opinions": ["跟随f佬买入", "江顺快涨停了", "论坛回复延迟严重"],
+    "mentioned_stocks": ["大业", "江顺", "建设银行"]
+  },
+  {
+    "index": 8,
+    "summary": "中际旭创低位建仓，多数人劝其谨慎，警示接飞刀风险",
+    "sentiment": "mixed",
+    "key_opinions": ["下跌通道接飞刀危险", "可分批建仓但要止损", "外围破位不宜追"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 9,
+    "summary": "大涨后追高犹豫，讨论当前买入成本仍比多数人低",
+    "sentiment": "mixed",
+    "key_opinions": ["当前成本比山顶洞人低", "反弹总有回落时", "高开兑现明天跌5"],
+    "mentioned_stocks": ["创业板ETF"]
+  },
+  {
+    "index": 10,
+    "summary": "踏空后心情沮丧，被指出本来就不会买，只是没亏而已",
+    "sentiment": "negative",
+    "key_opinions": ["踏空心情难受", "不买也不算踏空", "大多数人还需涨50%回本"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "犹豫错过尾盘大涨踏空难受，被劝A股不缺上车机会",
+    "sentiment": "negative",
+    "key_opinions": ["踏空后不敢追高", "A股迟早有更便宜的", "信反弹每次都套"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "今日大涨过于夸张，讨论中东局势与油价影响，质疑持续性",
+    "sentiment": "mixed",
+    "key_opinions": ["急涨急跌不正常", "老乡别走式拉升", "油价问题资金可能看错"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 13,
+    "summary": "今日全仓买入，明知风险仍豪赌底部，被称铁头娃",
+    "sentiment": "mixed",
+    "key_opinions": ["全仓干进有本事亏死我", "明天反弹就跑", "铁头娃胆子太大"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 14,
+    "summary": "不满不给上车机会，被反驳拿住的人也没回本",
+    "sentiment": "negative",
+    "key_opinions": ["大涨不给上车机会", "拿住也没回本", "继续观望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "汪汪队中期选举后进场传闻，部分验证但质疑持续性",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队或已提前进场", "小作文AI能编100个", "汇金已买半个月了"],
+    "mentioned_stocks": ["沪深300ETF", "上证50ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "刚建底仓创业板就起飞，一发子弹未打踏空而沮丧",
+    "sentiment": "negative",
+    "key_opinions": ["刚建仓就起飞踏空", "决心白下了", "现在买仍算低位"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 17,
+    "summary": "此次大涨拉的都是大票如药明华创寒王生益，有924行情味道",
+    "sentiment": "positive",
+    "key_opinions": ["拉大票值得博一下", "狂暴程度像924行情", "反转需持续确认"],
+    "mentioned_stocks": ["药明康德", "华创", "寒武纪", "生益科技"]
+  },
+  {
+    "index": 18,
+    "summary": "国家队暴力拉升被称生气，市场极弱极强瞬间翻转令人不适",
+    "sentiment": "mixed",
+    "key_opinions": ["硬拉银行只会灾上加灾", "极弱极强瞬间翻转", "国家队不会做长线"],
+    "mentioned_stocks": ["银行", "中际旭创"]
+  },
+  {
+    "index": 19,
+    "summary": "下午暴涨如直线拉升，有人满仓跟进有人警惕诱多",
+    "sentiment": "positive",
+    "key_opinions": ["一根直线拉上去", "狗队等的就是你", "暴涨后勿追"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "感叹大起大落的极端行情，令人感慨发财不易",
+    "sentiment": "mixed",
+    "key_opinions": ["大起大落令人惊叹", "赚钱靠运气", "行情太疯狂"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "英伟达要求数据中心客户缩减中国业务，冲击国产AI发展",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达遏制中国AI", "国产芯片前景存疑", "中国算力被卡脖子"],
+    "mentioned_stocks": ["英伟达", "华为", "寒武纪"]
+  },
+  {
+    "index": 22,
+    "summary": "上午大亏下午暴涨，做T大唐发电后讨论明天买什么",
+    "sentiment": "mixed",
+    "key_opinions": ["上午亏2万下午暴涨", "复刻924可买20cm", "ETF可替代个股"],
+    "mentioned_stocks": ["大唐发电"]
+  },
+  {
+    "index": 23,
+    "summary": "质疑国家队暴力拉升是否只为解套，踏空者酸涩而持币者仍套牢",
+    "sentiment": "mixed",
+    "key_opinions": ["暴力拉升只为解套", "踏空了上周刚清仓", "咬牙拿着该赚钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "牛市终结分锅大会：川普5成、机构4成，讨论内外因素致跌",
+    "sentiment": "negative",
+    "key_opinions": ["川普打伊朗是一切根源", "机构追涨杀跌加剧下跌", "内因导致信心崩溃"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论赴港开户投资港股美股，多数人劝告别高估自己能力",
+    "sentiment": "negative",
+    "key_opinions": ["港股美股90%以上亏损", "汇率风险需重视", "人不行去哪都不行"],
+    "mentioned_stocks": ["标普500"]
+  },
+  {
+    "index": 26,
+    "summary": "建议收盘前卖出大涨科技股，警示明天高开低走可能性",
+    "sentiment": "negative",
+    "key_opinions": ["大涨科技股必须卖出", "高开低走平开低走", "祖训不要觉得不一样"],
+    "mentioned_stocks": ["科技股"]
+  },
+  {
+    "index": 27,
+    "summary": "清仓后暴涨、误操作全仓买入消费股，双重打击心态崩溃",
+    "sentiment": "negative",
+    "key_opinions": ["清仓后暴涨拍断腿", "误操作全仓买入", "韭菜被割到脚踝"],
+    "mentioned_stocks": ["创业板", "消费股"]
+  },
+  {
+    "index": 28,
+    "summary": "科技反弹中自身持仓不动，资金集中做超跌反弹令人无奈",
+    "sentiment": "negative",
+    "key_opinions": ["资金只做超跌反弹", "机器人传媒固态不涨", "科技反弹自己不动"],
+    "mentioned_stocks": ["机器人", "传媒", "固态电池"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论川普败选对国内AI发展是否利好，认为AI是大趋势",
+    "sentiment": "positive",
+    "key_opinions": ["AI是未来不会转移", "国产AI最大市场在国内", "政治变动可能是好事"],
+    "mentioned_stocks": ["大唐发电"]
+  },
+  {
+    "index": 30,
+    "summary": "批评国家队暴力拉升不持续托举，目的仍是套牢后来散户",
+    "sentiment": "negative",
+    "key_opinions": ["暴力拉升想套住散户", "慢拉比急拉更合理", "汪汪队倒货给散户"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "贪婪还是恐惧的选择，多数人选择谨慎观望不追高",
+    "sentiment": "negative",
+    "key_opinions": ["被骗太多选择稳一手", "不懂科技不敢追", "希望科技别吸血"],
+    "mentioned_stocks": ["传媒"]
+  },
+  {
+    "index": 32,
+    "summary": "提醒科创铁盒逢高减仓，历史上涨停次日多为绿盘",
+    "sentiment": "negative",
+    "key_opinions": ["涨停次日从没红过", "摸到ma300需减仓", "折价ETF卖不了"],
+    "mentioned_stocks": ["科创铁盒ETF", "国泰516"]
+  },
+  {
+    "index": 33,
+    "summary": "尾盘有人低价接筹码做日内套利，散户被反复收割",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘砸再拣便宜筹码", "拉高出货尾盘接回", "大鱼吃小鱼"],
+    "mentioned_stocks": ["保险", "券商"]
+  },
+  {
+    "index": 34,
+    "summary": "追涨买入588170ETF，情绪亢奋怕来不及上车",
+    "sentiment": "positive",
+    "key_opinions": ["买到就是赚到", "不买就来不及了", "涨停冲冲冲"],
+    "mentioned_stocks": ["588170"]
+  },
+  {
+    "index": 35,
+    "summary": "开融资抄底中际旭创，极度自信但也被警示风险",
+    "sentiment": "mixed",
+    "key_opinions": ["500块科技总龙头必买", "融资抄底风险极大", "爆仓就说明见底了"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 36,
+    "summary": "卖出后立刻大涨，割肉反而引发暴涨的蝴蝶效应令人痛心",
+    "sentiment": "negative",
+    "key_opinions": ["一割就涨太难受", "不交筹码就不拉", "比大跌还难过"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "行情虽好但本金已亏完，感叹本可以赚钱却没了本钱",
+    "sentiment": "negative",
+    "key_opinions": ["行情好但本金没了", "可能已经爆仓", "不离赌桌迟早回来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "手中标的没涨停只小涨，感觉相比20cm涨停好亏",
+    "sentiment": "negative",
+    "key_opinions": ["没涨停感觉好亏", "涨幅不及预期", "心理落差大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "重温祖训买在无人问津卖在人声鼎沸，讨论波段操作",
+    "sentiment": "mixed",
+    "key_opinions": ["买在无人问津", "大涨大跌才能赚钱", "量能强劲或有溢价"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 40,
+    "summary": "困惑川普败选后科技暴涨逻辑，认为利空出尽资金庆祝",
+    "sentiment": "mixed",
+    "key_opinions": ["利空出尽资金欢庆", "AI怎么炒都有理由", "熊市多长阳"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "提醒救市目的是让人撤离而非回本创新高，需谨慎",
+    "sentiment": "negative",
+    "key_opinions": ["救市是让你撤离的", "名牌操纵市场", "明天谨慎为好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "明天久留美更新日建议别追高，历史上多数次次验证下跌",
+    "sentiment": "negative",
+    "key_opinions": ["久姐五战五胜", "今天大阳明天回调", "次次都一样"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "大涨大跌不一定是底部，需多根阳线确认，先爽两天",
+    "sentiment": "mixed",
+    "key_opinions": ["大涨大跌不是底部", "必须三根阳线确认", "明天黑周四需警惕"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "东山精密三季报显示龙哥逆势加仓166万股，质疑是否爆仓",
+    "sentiment": "mixed",
+    "key_opinions": ["逆势加仓不止损", "十月腰斩恐已爆仓", "致敬最后的多头"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论科技何时抄底，建议分批建底仓等企稳再加仓",
+    "sentiment": "mixed",
+    "key_opinions": ["低PB可建底仓", "C浪下跌反弹没必要", "等没人问再抄底"],
+    "mentioned_stocks": ["中际旭创", "立讯精密", "胜宏科技", "景旺电子", "工业富联"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论还需几次大涨才能回本，多数人还需3-7次类似行情",
+    "sentiment": "mixed",
+    "key_opinions": ["再来3天就回本", "还有人需20天才行", "今天仅微红0.8"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "睡醒发现市场暴涨如穿越，惊叹大奇迹日又来了",
+    "sentiment": "positive",
+    "key_opinions": ["大奇迹日又来了", "2万亿强反弹格局", "情绪反转太反人性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "讨论川普中期选举失利应已定价，纳指仍水下但A股暴涨异常",
+    "sentiment": "mixed",
+    "key_opinions": ["风险资产全在涨", "A股反弹力度最大", "民调不完全可信"],
+    "mentioned_stocks": []
+  }
+]
+```
