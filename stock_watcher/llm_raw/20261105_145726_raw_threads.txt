@@ -1,0 +1,319 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "定投纳指四个月持续亏损，发帖人怀疑自己定投决策",
+    "sentiment": "negative",
+    "key_opinions": ["需要长期持有甚至10年才有回报", "科技股处于调整期，亏损3-6%正常", "同时买多只场外纳指基金过于分散"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 2,
+    "summary": "大A在韩国日本股市暴跌中逆势表现，讨论久留美诅咒",
+    "sentiment": "mixed",
+    "key_opinions": ["韩日股市暴跌，大A逆势走强", "情绪好但需防范反转", "民主党控制两院引发市场反应"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 3,
+    "summary": "博主买入大业、海洋、江顺、建设等股票，跟帖者讨论",
+    "sentiment": "positive",
+    "key_opinions": ["跟随知名博主买入操作", "江顺接近涨停", "买入建设银行等标的"],
+    "mentioned_stocks": ["大业", "海洋", "江顺", "建设银行"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论全天成交额预测从3.2万亿回落至2.4万亿以下",
+    "sentiment": "mixed",
+    "key_opinions": ["早盘爆量5000亿导致上午预测偏高", "昨天下午放量今天上午放量，节奏不同", "下午缩量反而有利明天预期"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 5,
+    "summary": "某ETF出现4%溢价，讨论套利缺失和半导体放量原因",
+    "sentiment": "mixed",
+    "key_opinions": ["ETF溢价异常，疑因涨停板限制套利", "可能是国家队或筹码被套后追涨所致", "半导体设备放天量"],
+    "mentioned_stocks": ["半导体ETF"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论易中天、长鑫、东山等大票大跌，疑似逼机构爆仓",
+    "sentiment": "negative",
+    "key_opinions": ["大票被做空可能是逼迫机构爆仓", "资金被逼出流向其他板块"],
+    "mentioned_stocks": ["易中天", "长鑫", "东山"]
+  },
+  {
+    "index": 7,
+    "summary": "总结A股被套主因是贪念，错过买卖窗口被套牢",
+    "sentiment": "negative",
+    "key_opinions": ["贪念导致错过最佳买卖时机", "止损执行困难知行合一难", "市场收割速度快缺乏慢牛"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论瑞芯微适合做波段操作，波动规律稳定",
+    "sentiment": "positive",
+    "key_opinions": ["波动稳定适合波段交易"],
+    "mentioned_stocks": ["瑞芯微"]
+  },
+  {
+    "index": 9,
+    "summary": "创业板日内从-1.5到+3再到-0.4再到+0.9，极难操作",
+    "sentiment": "negative",
+    "key_opinions": ["创业板日内剧烈震荡难以把握"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论国家队控盘能力强，早盘放量尾盘被压制",
+    "sentiment": "mixed",
+    "key_opinions": ["早盘放量尾盘被精准控制", "获利盘需要出清", "没有增量资金难以持续上涨"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论中芯国际底部位置，预测420-450区间见底",
+    "sentiment": "mixed",
+    "key_opinions": ["PE估值对标海力士判断底部", "420-430对应5000亿市值约16倍PE", "各种利空未落地目前难言底"],
+    "mentioned_stocks": ["中芯国际", "海力士"]
+  },
+  {
+    "index": 12,
+    "summary": "感叹瑞芯微表现强势",
+    "sentiment": "positive",
+    "key_opinions": ["瑞芯微走势强劲"],
+    "mentioned_stocks": ["瑞芯微"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论大金重工炸板是洗盘还是出货，建议减仓防范风险",
+    "sentiment": "negative",
+    "key_opinions": ["反复炸板可能是出货信号，建议减仓", "下行空间大，有组织炒作嫌疑", "新能源利好政策持续性存疑"],
+    "mentioned_stocks": ["大金重工", "天顺风能", "内蒙一机"]
+  },
+  {
+    "index": 14,
+    "summary": "AI硬件不行后下一轮可能轮动到算力板块",
+    "sentiment": "mixed",
+    "key_opinions": ["AI硬件调整后资金可能转向算力"],
+    "mentioned_stocks": ["美利云"]
+  },
+  {
+    "index": 15,
+    "summary": "国家队轮动拉升板块缺乏持续性，AI硬件被跳过",
+    "sentiment": "negative",
+    "key_opinions": ["板块快速轮动无持续性，短线极难操作", "AI硬件需重新定价看美国政策", "民主党上台数据中心扩产预期减弱"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 16,
+    "summary": "银行ETF接近翻红，港股中资银行大涨",
+    "sentiment": "mixed",
+    "key_opinions": ["港股中资银行大涨A股被压制", "科技板块明天有风险", "指数没跌只是洗盘"],
+    "mentioned_stocks": ["银行ETF", "中资银行"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论银行拉升是控温还是跳水，散户情绪波动",
+    "sentiment": "mixed",
+    "key_opinions": ["银行拉升可能是控温信号", "部分人补仓银行卖出宽指", "一两个点波动不应大惊小怪"],
+    "mentioned_stocks": ["银行", "宽基ETF", "券商"]
+  },
+  {
+    "index": 18,
+    "summary": "科技股跳水提醒跑路，中际旭创长鑫被套严重",
+    "sentiment": "negative",
+    "key_opinions": ["光模块龙头拖累创业板跳水", "长鑫被挂在44元高位套牢", "科技龙头一日变电子厂，情绪不稳"],
+    "mentioned_stocks": ["创业板", "中际旭创", "长鑫", "银行"]
+  },
+  {
+    "index": 19,
+    "summary": "比喻A股日内反复拉扯如四渡赤水，散户被玩弄",
+    "sentiment": "negative",
+    "key_opinions": ["日内反复上下拉扯难以操作", "建议远离这种赌场", "大数据面前散户无优势"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 20,
+    "summary": "盘中砸盘引发讨论，有人视为抄底机会",
+    "sentiment": "mixed",
+    "key_opinions": ["砸盘是抄底/倒车接人机会", "有人满仓光伏设备", "日内反复震荡如超级回合制"],
+    "mentioned_stocks": ["光伏设备"]
+  },
+  {
+    "index": 21,
+    "summary": "韩国股市暴跌拖累大A，但大A独立走强",
+    "sentiment": "positive",
+    "key_opinions": ["韩股拖累导致涨幅收窄", "大A完爆美日韩表现", "港股先拉升带动大A"],
+    "mentioned_stocks": ["A股", "港股"]
+  },
+  {
+    "index": 22,
+    "summary": "推荐网易作为长持价投游戏股，涨抗跌分红好",
+    "sentiment": "positive",
+    "key_opinions": ["网易能涨抗跌分红大方", "美股账户可卖期权增收", "不如腾讯但稳定性强"],
+    "mentioned_stocks": ["网易", "腾讯"]
+  },
+  {
+    "index": 23,
+    "summary": "中际旭创成为新一代熊大，巨幅波动拖垮光模块板块",
+    "sentiment": "negative",
+    "key_opinions": ["中际旭创-12/+11/-10如同猴跳", "带崩整条海外链并拖累市场", "光迅同赛道也腰斩"],
+    "mentioned_stocks": ["中际旭创", "光迅", "新易盛"]
+  },
+  {
+    "index": 24,
+    "summary": "AI快速破解游戏模拟器引发讨论，颠覆游戏产业格局",
+    "sentiment": "mixed",
+    "key_opinions": ["AI写代码破解反编译游戏文件", "未来可能没有独占游戏都是全平台", "AI能力已达到顶级数学家水平"],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 25,
+    "summary": "男子408万买金条预测2000元/克，9个月亏114万割肉",
+    "sentiment": "negative",
+    "key_opinions": ["黄金短线用实体金条成本高风险大", "必须注意风控控制仓位", "少赚就是亏是最危险思想"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 26,
+    "summary": "行情尴尬买卖两难，建议网格交易或躺平观望",
+    "sentiment": "mixed",
+    "key_opinions": ["买点丑陋恰恰就是买点", "复杂行情可选择网格交易ETF", "拉高再跌才有人敢抄底方便出货"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 27,
+    "summary": "移远通信逆势强势拉升，大盘跳水都挡不住",
+    "sentiment": "positive",
+    "key_opinions": ["移远通信推土机式拉升非常强势", "大盘跳水都拉不动它"],
+    "mentioned_stocks": ["移远通信"]
+  },
+  {
+    "index": 28,
+    "summary": "寻找年收益4-5%且波动小的投资品种",
+    "sentiment": "mixed",
+    "key_opinions": ["股票需接受20%上下波动", "可通过配置不同行业和仓位控制风险", "一半红利一半债可降低波动"],
+    "mentioned_stocks": ["红利ETF", "高股息ETF", "逆回购"]
+  },
+  {
+    "index": 29,
+    "summary": "调侃昨天疯牛今天man牛，4000家涨但大盘绿",
+    "sentiment": "mixed",
+    "key_opinions": ["个股普涨但指数下跌称为绿牛", "市场行情难以定义"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 30,
+    "summary": "药明康德连续大涨接近涨停，有人认为是死猫跳",
+    "sentiment": "mixed",
+    "key_opinions": ["死猫跳反弹到两位数的说法", "民主党解除关税利好出海股", "有人快要回本紧张"],
+    "mentioned_stocks": ["药明康德", "阳光电源"]
+  },
+  {
+    "index": 31,
+    "summary": "托市资金也在做T赚钱，救市目的是骗场外接盘",
+    "sentiment": "negative",
+    "key_opinions": ["国家队通过做T收割散户", "救市是让场外接盘不是回本", "外盘差时拉高应果断跑"],
+    "mentioned_stocks": ["A股", "红利"]
+  },
+  {
+    "index": 32,
+    "summary": "建滔和港飞港股过山车式波动，老庄收割散户",
+    "sentiment": "negative",
+    "key_opinions": ["港股涨跌扩大化过山车行情", "老庄反复收割韭菜送人头", "股息率高但可能继续下跌"],
+    "mentioned_stocks": ["建滔集团", "港飞"]
+  },
+  {
+    "index": 33,
+    "summary": "国家队疑似做反T，日内砸盘再拉升反复操作",
+    "sentiment": "negative",
+    "key_opinions": ["砸盘融券结账再拉升卖出", "日内反复烧心难操作", "明天开盘准备跑路"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 34,
+    "summary": "但斌推演美算力审批趋紧利好云厂稀缺壁垒",
+    "sentiment": "mixed",
+    "key_opinions": ["但斌重仓谷歌所以看多算力", "只利好几个云厂商", "但斌基金战绩不佳"],
+    "mentioned_stocks": ["谷歌", "亚马逊", "微软", "润健"]
+  },
+  {
+    "index": 35,
+    "summary": "中际旭创跌到490忍不住建仓，被批接飞刀",
+    "sentiment": "negative",
+    "key_opinions": ["下跌通道接飞刀非常危险", "外围半导体破位不宜追科技", "可分批建仓但需设止损"],
+    "mentioned_stocks": ["中际旭创", "创业板ETF"]
+  },
+  {
+    "index": 36,
+    "summary": "对中际旭创说拜拜割肉离场，亏损严重",
+    "sentiment": "negative",
+    "key_opinions": ["中际旭创带来最大亏损，割肉离场", "个股不是指数跌了不一定回本", "下跌趋势做T也很勇"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 37,
+    "summary": "火电板块持续阴跌坐牢，煤降电涨逻辑未兑现",
+    "sentiment": "negative",
+    "key_opinions": ["火电持续阴跌被套坐牢", "大唐发电表现最差毫无反弹", "辽能蒙电每次反弹都比大唐强"],
+    "mentioned_stocks": ["大唐发电", "华电辽能", "国电电力", "蒙电"]
+  },
+  {
+    "index": 38,
+    "summary": "国家队救市后开始出货做T，回收子弹引发不满",
+    "sentiment": "negative",
+    "key_opinions": ["国家队救市后出货做T收割", "日内回踩是好事防止反弹过快结束", "指望国家队单向做多不现实"],
+    "mentioned_stocks": ["上证指数", "银行"]
+  },
+  {
+    "index": 39,
+    "summary": "期盼韩国纳指跟涨大A，调侃韭姐诅咒",
+    "sentiment": "mixed",
+    "key_opinions": ["韩股纳指拖累大A表现", "杂毛不弱龙头才能更强"],
+    "mentioned_stocks": ["纳斯达克", "A股"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论含光模块量最高的ETF，对标铁盒",
+    "sentiment": "mixed",
+    "key_opinions": ["通信ETF持仓易中天组合", "创业板ETF也是含光量高", "515880已调仓"],
+    "mentioned_stocks": ["通信ETF", "创业板ETF", "515880", "易中天"]
+  },
+  {
+    "index": 41,
+    "summary": "筑底期高抛低吸做蚂蝗吸盘，震荡中寻找机会",
+    "sentiment": "mixed",
+    "key_opinions": ["筑底期必然是反复震荡过程", "高抛低吸被动式买卖", "相信量能与振幅不追反弹"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 42,
+    "summary": "光模块板块价格吓人，疑似阶段顶部机构出货",
+    "sentiment": "negative",
+    "key_opinions": ["可能是阶段顶部机构借拉盘出货", "趁有人接盘割肉离场", "光模块龙头融资盘还没杀完"],
+    "mentioned_stocks": ["光模块", "中际旭创", "新易盛"]
+  },
+  {
+    "index": 43,
+    "summary": "久留美空头连续六周四大跌，无法战胜",
+    "sentiment": "negative",
+    "key_opinions": ["连跌6个周四如同中邪", "大A无法战胜大空头"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 44,
+    "summary": "短剧板块爆发但未跑出明显妖股，讨论相关标的",
+    "sentiment": "mixed",
+    "key_opinions": ["慈文是龙头，浙文4板接近妖股", "华是科技是真正大牛股", "红果芒果黄果华是各有炒作"],
+    "mentioned_stocks": ["慈文传媒", "芒果超媒", "果麦文化", "浙文互联", "华是科技"]
+  },
+  {
+    "index": 45,
+    "summary": "重温祖训买在无人问津卖在人声鼎沸，永不追高",
+    "sentiment": "mixed",
+    "key_opinions": ["大涨大跌才能赚钱做波段赚麻了", "量能持续强劲明天或有溢价", "抗不过人性拿不住收益"],
+    "mentioned_stocks": ["创业板"]
+  }
+]
+```
