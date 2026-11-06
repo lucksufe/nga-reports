@@ -1,0 +1,347 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "但斌称过去大跌均以报复性反弹新高结束，回复者认为说的是美股而非大A",
+    "sentiment": "mixed",
+    "key_opinions": ["大跌后有报复性反弹创新高的规律", "该观点只适用于纳斯达克", "大A未必跟随此规律"],
+    "mentioned_stocks": ["纳斯达克指数", "大A"]
+  },
+  {
+    "index": 2,
+    "summary": "担忧A股缩量、内生做多动力不足，本质是美股跟随者，美股继续跌则A股难独善其身",
+    "sentiment": "negative",
+    "key_opinions": ["A股无独立行情，靠纳指期货支撑", "美股若续跌A股恐踩踏", "红利低波相对安全，科技风险高"],
+    "mentioned_stocks": ["美股", "纳指期货", "红利低波"]
+  },
+  {
+    "index": 3,
+    "summary": "国机精工连续跌停逼近跌停，订单落地却遭爆杀，持仓者困惑不解",
+    "sentiment": "negative",
+    "key_opinions": ["利好落地反成出货信号", "高估值商业航天无下跌理由也会跌", "高位融资盘被杀是主因"],
+    "mentioned_stocks": ["国机精工"]
+  },
+  {
+    "index": 4,
+    "summary": "误将买1000股赛轮轮胎点成10000股，网友戏称买错概念要起飞",
+    "sentiment": "mixed",
+    "key_opinions": ["买错概念往往有好运气", "赛轮本身是不错买点", "拿到13~14分批卖出即可"],
+    "mentioned_stocks": ["赛轮轮胎"]
+  },
+  {
+    "index": 5,
+    "summary": "国家队喊话护盘引发讨论，被指做阶段性底部决心大但也可能没子弹了",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队护盘决心大", "国家队自己也被套住", "喊话效果存疑，只信小作文"],
+    "mentioned_stocks": ["科创半导体ETF"]
+  },
+  {
+    "index": 6,
+    "summary": "布油逼近100，提示高位科技风险，油价被视为通胀与地缘冲突受益者",
+    "sentiment": "mixed",
+    "key_opinions": ["油价上100，高位科技需小心", "油才是真正大牛市", "美股今晚或继续跌"],
+    "mentioned_stocks": ["布伦特原油", "中海油", "原油LOF", "煤炭股"]
+  },
+  {
+    "index": 7,
+    "summary": "比亚迪仰望U9X极速挑战，期待带动相关轮胎股行情",
+    "sentiment": "positive",
+    "key_opinions": ["仰望事件营销或带一波行情", "关注佳通轮胎受益"],
+    "mentioned_stocks": ["比亚迪", "佳通轮胎"]
+  },
+  {
+    "index": 8,
+    "summary": "调侃前几日割科技转红利或追高位股的投资者被双向打脸",
+    "sentiment": "mixed",
+    "key_opinions": ["追涨杀跌买什么都亏", "红利股也在补跌，如神华", "高位接盘者需等下一轮回"],
+    "mentioned_stocks": ["中国神华", "银行", "电力", "红利股"]
+  },
+  {
+    "index": 9,
+    "summary": "上证反复在3650震荡，外部市场熔断而A股被国家队稳住",
+    "sentiment": "negative",
+    "key_opinions": ["3650是屠宰场，套牢严重", "国家队护盘稳指数", "银伟达、茅指数贡献跌幅"],
+    "mentioned_stocks": ["上证指数", "银伟达", "茅指数", "中字头"]
+  },
+  {
+    "index": 10,
+    "summary": "中际旭创发公告称需求强劲订单覆盖2027年，但市场质疑同一招用两次效果递减",
+    "sentiment": "mixed",
+    "key_opinions": ["公告显示光模块需求依然强劲", "回购注销才是真利好", "重复喊话信用效果递减"],
+    "mentioned_stocks": ["中际旭创", "半导体"]
+  },
+  {
+    "index": 11,
+    "summary": "布油再度破100，讨论美国党争与伊朗局势对油价的推动",
+    "sentiment": "negative",
+    "key_opinions": ["地缘冲突推高油价", "川普政策受限影响油价走向", "油价高企短期难止"],
+    "mentioned_stocks": ["布伦特原油"]
+  },
+  {
+    "index": 12,
+    "summary": "搬运民主党议员主张全面禁止AI研发的言论，被群嘲荒谬",
+    "sentiment": "mixed",
+    "key_opinions": ["禁止AI研发主张脱离实际", "对中美AI竞赛认知傲慢", "政策若通过反而利好中国AI"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "评价国家队近期护盘表现尚可但手法粗糙，抄底资金多为博反弹就走",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队走钢丝，操作粗糙", "长期趋势已结束", "护盘只为避免系统性风险"],
+    "mentioned_stocks": ["大A", "科技股"]
+  },
+  {
+    "index": 14,
+    "summary": "观测到窗口指导，猜测是否复刻上周五爆拉行情",
+    "sentiment": "mixed",
+    "key_opinions": ["或有窗口指导护盘", "是否拉升取决于外部情绪"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "质疑大神喊话宣言是否会再次起效",
+    "sentiment": "mixed",
+    "key_opinions": ["喊话效果递减", "同一招式难用两次"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "东山精密被戏称锁妖塔，持仓者反复被套，公司公告注销回购股份",
+    "sentiment": "negative",
+    "key_opinions": ["买入即被套，反复亏损", "注销回购股份算小利好", "做T或抄底需谨慎"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论英伟达算力服务器倒卖暴利，成本400万卖2300万",
+    "sentiment": "mixed",
+    "key_opinions": ["算力服务器倒卖毛利惊人", "能拿到货就能暴富", "反映AI算力供不应求"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 18,
+    "summary": "场内纳指ETF溢价超21%，大跌也跌不动，避险资金涌入",
+    "sentiment": "mixed",
+    "key_opinions": ["溢价过高风险大，不杀溢价不买", "资金涌入纳指避险", "后期或有盘中暴跌杀溢价"],
+    "mentioned_stocks": ["纳指ETF"]
+  },
+  {
+    "index": 19,
+    "summary": "先导基电暴涨暴跌如庄股，被形容为修士斗法之地",
+    "sentiment": "mixed",
+    "key_opinions": ["典型庄股，无视基本面", "大开大合适合短线高手", "看好国产半导体长期前景"],
+    "mentioned_stocks": ["先导基电", "光智科技"]
+  },
+  {
+    "index": 20,
+    "summary": "调侃同花顺宣传'别人贪婪我更贪婪'，配合韭姐梗图",
+    "sentiment": "mixed",
+    "key_opinions": ["同花顺宣传与行情反差搞笑", "低估买入策略本身没问题", "韭姐遭遇黑天鹅运气差"],
+    "mentioned_stocks": ["同花顺"]
+  },
+  {
+    "index": 21,
+    "summary": "讽刺AI硬件多头寄托希望于FOMC和特朗普，结果双双落空",
+    "sentiment": "negative",
+    "key_opinions": ["AI硬件多头预期落空", "外部政策变数致命"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "早盘卖出后又追回被套，科创仍跟随纳指期货与韩国市场",
+    "sentiment": "negative",
+    "key_opinions": ["追涨杀跌两头挨打", "科创无独立行情", "周末风险大建议观望"],
+    "mentioned_stocks": ["科创板", "纳指期货"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论美国民主党拟提超级AI禁令，被视为利好国产替代但通过概率低",
+    "sentiment": "mixed",
+    "key_opinions": ["若通过利好国产半导体替代", "议案通过概率极低", "美国不会让出AI领先权"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 24,
+    "summary": "寻找网友'必阳的帕克'的寻人帖，无实质股市内容",
+    "sentiment": "mixed",
+    "key_opinions": ["纯寻人无分析价值"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "讨论药明康德走势反复，适合做T，大涨后宜减仓",
+    "sentiment": "mixed",
+    "key_opinions": ["阴跌后突然拉升需及时止盈", "有利润就跑总没错", "必须做T否则死拿痛苦"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 26,
+    "summary": "担忧外围暴跌是否引发千股跌停，韩国熔断引发恐慌",
+    "sentiment": "negative",
+    "key_opinions": ["外部输入风险巨大", "国家队或托底避免难看", "科技股将首当其冲"],
+    "mentioned_stocks": ["科技ETF", "银行", "石油"]
+  },
+  {
+    "index": 27,
+    "summary": "猜测下午是否拉升，多数人认为是给逃命机会而非真反转",
+    "sentiment": "negative",
+    "key_opinions": ["拉升或为掩护出货", "跟随韩国市场走势", "不跑下周恐被杀"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "A股与韩国股市同步反弹，关注美股夜盘变化",
+    "sentiment": "mixed",
+    "key_opinions": ["A韩联动反弹", "美股盘前或再杀一波"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "延续'给国家队磕一个'神贴梗，调侃国家队护盘",
+    "sentiment": "positive",
+    "key_opinions": ["国家队护盘值得肯定", "调侃市场独立行情", "梗文化延续成神贴"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "一键清仓保住十一月利润，等待后续机会",
+    "sentiment": "mixed",
+    "key_opinions": ["落袋为安保住利润", "走势未完全走坏", "过几天再找接回机会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "爱奇艺股价长期低于1美元面临面值退市警告",
+    "sentiment": "negative",
+    "key_opinions": ["面值退市风险迫近", "产品体验差难挽颓势", "可合股续命但治标不治本"],
+    "mentioned_stocks": ["爱奇艺"]
+  },
+  {
+    "index": 32,
+    "summary": "质疑创业板跌幅超过科创板，宁德时代拖累明显",
+    "sentiment": "negative",
+    "key_opinions": ["创业板含海外链受美股拖累", "科创板多为国产替代受外部影响小", "国家队持有科创50筹码护盘"],
+    "mentioned_stocks": ["创业板", "科创板", "宁德时代", "科创50"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论小作文要求险资回补是否兑现，低开或已有人买入",
+    "sentiment": "mixed",
+    "key_opinions": ["险资或已逢低买入", "美股底部结构需多日确认", "后市仍有机会低吸"],
+    "mentioned_stocks": ["半导体", "美股"]
+  },
+  {
+    "index": 34,
+    "summary": "韩国放宽借贷投资监管救市，被批加杠杆饮鸩止渴",
+    "sentiment": "negative",
+    "key_opinions": ["加杠杆是饮鸩止渴", "当前最大风险是美国党争", "韩国已无路可退只能梭哈"],
+    "mentioned_stocks": ["韩国股市", "科技股"]
+  },
+  {
+    "index": 35,
+    "summary": "吐槽紫金矿业涨时弱跌时猛，走势无逻辑不适合持有",
+    "sentiment": "negative",
+    "key_opinions": ["涨少跌多性价比差", "股东太多筹码分散", "不如买板块指数或其他金属股"],
+    "mentioned_stocks": ["紫金矿业", "西部矿业"]
+  },
+  {
+    "index": 36,
+    "summary": "药明康德跌幅超半导体，受公募调仓与BCC清单不确定性压制",
+    "sentiment": "negative",
+    "key_opinions": ["公募重仓股被抽血卖出", "12月BCC清单是大考", "近期涨幅已透支利好"],
+    "mentioned_stocks": ["药明康德", "半导体"]
+  },
+  {
+    "index": 37,
+    "summary": "看好中国电影走主升浪，因抗跌与新片储备；有人不看好行业前景",
+    "sentiment": "mixed",
+    "key_opinions": ["股灾期间抗跌资金流入", "复联5与春节档是催化剂", "也有人认为行业已衰落"],
+    "mentioned_stocks": ["中国电影"]
+  },
+  {
+    "index": 38,
+    "summary": "讨论美股空头大赚，费半暴跌12%，做空工具放大收益",
+    "sentiment": "negative",
+    "key_opinions": ["美股空头行情爽赚", "英伟达趋势已破位", "三倍做空暴涨印证趋势"],
+    "mentioned_stocks": ["美股", "英伟达", "费城半导体指数", "闪迪"]
+  },
+  {
+    "index": 39,
+    "summary": "高喊自主可控东升西落，但有人提醒警惕补跌",
+    "sentiment": "mixed",
+    "key_opinions": ["国产替代是主线", "警惕托举一天后补跌", "参考历史类似走势"],
+    "mentioned_stocks": ["自主可控概念股"]
+  },
+  {
+    "index": 40,
+    "summary": "今日居然无跌停板，恐慌缓解但缩量明显，后市存疑",
+    "sentiment": "mixed",
+    "key_opinions": ["恐慌情绪有所缓解", "缩量是隐忧，无人敢抄底", "A股延迟伤害或后补跌"],
+    "mentioned_stocks": ["高争民爆", "东山精密"]
+  },
+  {
+    "index": 41,
+    "summary": "疑似机构卖出键被限制，个股走横线限制跌幅",
+    "sentiment": "mixed",
+    "key_opinions": ["或有行政限制卖出", "情绪不释放不利多头进场", "缩量低开印证限制操作"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "国家队未拉银行也稳住大盘，被赞操盘水平提升",
+    "sentiment": "positive",
+    "key_opinions": ["不靠银行也稳住指数", "卖银行红利拉科技出货", "大盘比预想强硬"],
+    "mentioned_stocks": ["银行", "红利股", "科技股", "陕西能源"]
+  },
+  {
+    "index": 43,
+    "summary": "用修仙等级比喻A股：科技是金丹期斗法，散户多为炼气期",
+    "sentiment": "mixed",
+    "key_opinions": ["科技股风险如金丹期搏杀", "散户水平配不上所选品种", "红利才是稳妥修炼之路"],
+    "mentioned_stocks": ["科技股", "红利股"]
+  },
+  {
+    "index": 44,
+    "summary": "探讨AI泡沫破裂或反促AI发展，硬件厂高毛利难持续",
+    "sentiment": "mixed",
+    "key_opinions": ["硬件高毛利不可持续", "泡沫破裂诱因是政治因素", "英伟达压榨供应链或成拐点"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 45,
+    "summary": "逆风建仓中信证券，看好低估券商股，分批加仓策略",
+    "sentiment": "positive",
+    "key_opinions": ["中信证券估值处于低估区间", "分四份每跌5%加仓", "多元金融也可关注"],
+    "mentioned_stocks": ["中信证券", "多元金融"]
+  },
+  {
+    "index": 46,
+    "summary": "找不到好标的选择逆回购收工，市场进入垃圾时间",
+    "sentiment": "mixed",
+    "key_opinions": ["市场无明确机会", "多数标的走势难看", "观望为主等下午变盘"],
+    "mentioned_stocks": ["逆回购"]
+  },
+  {
+    "index": 47,
+    "summary": "高争民爆成两市唯一跌停，前期连板后获利盘出逃",
+    "sentiment": "negative",
+    "key_opinions": ["前期连板股补跌", "打板买入者吃大面", "好的买不进买进就A杀"],
+    "mentioned_stocks": ["高争民爆"]
+  },
+  {
+    "index": 48,
+    "summary": "东山精密跌停后有资金承接，抄底者期待下周企稳",
+    "sentiment": "mixed",
+    "key_opinions": ["跌停有承接不算太坏", "需放量才能确认止跌", "下周或不再跌停"],
+    "mentioned_stocks": ["东山精密", "沪电股份", "金安国纪", "东方日升"]
+  },
+  {
+    "index": 49,
+    "summary": "科技股暴跌致彭博富豪身家缩水1850亿美元，黄仁勋跌出前十",
+    "sentiment": "negative",
+    "key_opinions": ["科技股暴跌重创富豪身家", "此前看空英伟达者获利", "AI硬件泡沫风险显现"],
+    "mentioned_stocks": ["英伟达"]
+  }
+]
+```
