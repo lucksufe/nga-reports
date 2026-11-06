@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "美股下跌是否是抄底机会，多数人认为下跌未结束、放量普跌不宜抢反弹",
+    "sentiment": "negative",
+    "key_opinions": ["下跌还没杀完，抄底可能被继续套", "放量大普跌首根大阴线不宜抄底", "纳指年线跌破后还需继续杀跌"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 2,
+    "summary": "批评吹嘘纳指逢跌加仓的言论，警示高位接盘风险",
+    "sentiment": "negative",
+    "key_opinions": ["跌了加仓的迷之自信屡次出现在高位", "白酒黄金科技高点都曾有人这么说", "反向指标：众人喷纳指时可小买"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论今天是否继续抱团妖股羊羊和传媒板块",
+    "sentiment": "mixed",
+    "key_opinions": ["有人三层仓位持有新华传媒", "传媒受AI概念驱动炒作", "传媒本质炒AI软件方向"],
+    "mentioned_stocks": ["新华传媒"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论数据中心对居民的噪音、电价成本转嫁等负面影响",
+    "sentiment": "negative",
+    "key_opinions": ["数据中心噪音大且电价成本转嫁居民", "东数西算政策建在人烟稀少处正确", "美国强制本土投资导致布局不合理"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "担忧A股今日跟随外围千股跌停，讨论科技板块风险与托底",
+    "sentiment": "negative",
+    "key_opinions": ["韩国开盘-8熔断引发恐慌", "国产替代或缓冲跌幅", "科技ETF若无托底将大跌"],
+    "mentioned_stocks": ["科技ETF"]
+  },
+  {
+    "index": 6,
+    "summary": "探讨美股暴跌后科技行业是否停止发展，区分产业与股价",
+    "sentiment": "mixed",
+    "key_opinions": ["科技发展与股票表现无关", "参照2000年思科、纳指15年才收复", "AI会发展但AI股未必"],
+    "mentioned_stocks": ["纳斯达克指数", "思科"]
+  },
+  {
+    "index": 7,
+    "summary": "关注韩国股市暴跌熔断，调侃其空中飞人行情",
+    "sentiment": "negative",
+    "key_opinions": ["韩国暴跌8%引发爆仓担忧", "此前已从9000跌到5000", "韩国依赖AI硬件风险集中"],
+    "mentioned_stocks": ["韩国综合指数"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论美国选民为降电费而不顾养老金缩水的逻辑是否合理",
+    "sentiment": "mixed",
+    "key_opinions": ["低收入者更关心电价而非401k", "美股消费股近期大涨弥补科技跌", "数据中心限电是本地民生痛点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论创业板今日若下跌是否为入场机会，看好科创板",
+    "sentiment": "mixed",
+    "key_opinions": ["创业板已在底部，长线或可翻倍", "科创板比创业板更值得买", "易中天三股若砸盘拖累创业板"],
+    "mentioned_stocks": ["创业板指", "科创板", "东方财富"]
+  },
+  {
+    "index": 10,
+    "summary": "追问美股暴跌原因，归因于民主党监管AI与融资成本高企",
+    "sentiment": "negative",
+    "key_opinions": ["AI盈利模型存疑撑不起股价", "民主党加强审查增加AI成本", "多空双杀行情剧烈"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 11,
+    "summary": "对比年初至今各指数表现，A股与创业板大幅落后全球",
+    "sentiment": "negative",
+    "key_opinions": ["上证年K-8、创业板-20", "韩指+20%纳指+4%领先", "A股补跌特色蔓延全球"],
+    "mentioned_stocks": ["上证指数", "创业板指", "韩国综合指数", "纳斯达克指数"]
+  },
+  {
+    "index": 12,
+    "summary": "关注韩国股指开盘暴跌后大幅拉升是否为地天板式救市",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国指数走法类似妖股", "救市拉升或为出货", "多空双杀行情"],
+    "mentioned_stocks": ["韩国综合指数", "SK海力士"]
+  },
+  {
+    "index": 13,
+    "summary": "认为纳指暴跌彻底释放风险、利空出尽，但多被嘲讽",
+    "sentiment": "mixed",
+    "key_opinions": ["利空出尽说被称最缅幻想", "美股暴跌后才敢定投", "意在打压硬件而非终结AI"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论特朗普喊话救市无效，可能面临清算与政治危机",
+    "sentiment": "negative",
+    "key_opinions": ["川普喊话被认为是让自己先跑", "股市暴跌或成民主党罪名", "川普已失去两院掌控"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "调侃美股中概羊字辈妖股炒作，庄家控盘严重",
+    "sentiment": "mixed",
+    "key_opinions": ["小盘中概股庄股波动剧烈", "国人跑去美股炒小炒差", "合股防止退市拉高股价"],
+    "mentioned_stocks": ["羚锐制药", "林洋能源"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论特朗普若破罐破摔继续打伊朗的可行性与后果",
+    "sentiment": "negative",
+    "key_opinions": ["继续开战会遭党内弹劾", "特朗普已是光杆司令", "钱需经国会批准"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "认为美股高位回落为A股打开上涨空间，短期仍有跟跌风险",
+    "sentiment": "mixed",
+    "key_opinions": ["美股下跌或成A股黄金坑", "AI泡沫远未见底", "左侧抄底可能再亏50%"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论科技退潮后消费板块是否接力上涨",
+    "sentiment": "mixed",
+    "key_opinions": ["零售宠物饮料等消费回暖", "科技虽死也轮不到消费", "等科技涨停潮再抄底更优"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "调侃动漫角色久留美如同做空股市的因果律武器",
+    "sentiment": "mixed",
+    "key_opinions": ["戏称其做空纳指", "索罗斯式同时开多空单", "娱乐化调侃为主"],
+    "mentioned_stocks": ["纳斯达克指数", "港股"]
+  },
+  {
+    "index": 20,
+    "summary": "疑惑全球指数普遍大涨似呈牛市，WW涨40%多",
+    "sentiment": "positive",
+    "key_opinions": ["环球指数普遍上涨", "WW涨幅超40%令人意外"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "今日买入PCB概念股者担忧明日被套，普遍悲观",
+    "sentiment": "negative",
+    "key_opinions": ["买入生益、东山、建滔等恐亏损", "美股行情下或低开5个点", "PCB板块短期风险大"],
+    "mentioned_stocks": ["生益科技", "东山精密", "建滔集团", "亨通光电"]
+  },
+  {
+    "index": 22,
+    "summary": "预估今日A股计提亏损幅度，预期科技重挫",
+    "sentiment": "negative",
+    "key_opinions": ["科技个股恐跌停", "创业板或-5、科创或-10", "期待国家队拉升护盘"],
+    "mentioned_stocks": ["创业板指", "科创50"]
+  },
+  {
+    "index": 23,
+    "summary": "引用德州州长言论，认为数据中心可建但不能影响居民",
+    "sentiment": "positive",
+    "key_opinions": ["建数据中心须保障居民生活", "态度被认为较为理性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "关注韩日纳指期货反弹，预期A股或迎大奇迹日",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国从-9反弹至-5", "反弹或为空头回补", "呼吁暂停量化卖盘"],
+    "mentioned_stocks": ["韩国综合指数", "日经指数", "纳斯达克期货"]
+  },
+  {
+    "index": 25,
+    "summary": "韩国熔断后快速救市拉升，质疑反弹能否持续",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国救市拉升疑似诱多", "美硬科技盘后大涨或有转机", "反弹最终回落"],
+    "mentioned_stocks": ["韩国综合指数"]
+  },
+  {
+    "index": 26,
+    "summary": "全仓国产半导体者称不慌，通过做T应对波动",
+    "sentiment": "mixed",
+    "key_opinions": ["国产半导体ETF做T降成本", "国内半导体已跌40%以上", "创50跟跌概率更高"],
+    "mentioned_stocks": ["半导体ETF(588170)", "创业板50"]
+  },
+  {
+    "index": 27,
+    "summary": "询问今日跌停是否抄底并做T，认为不至于全部跌停",
+    "sentiment": "mixed",
+    "key_opinions": ["国内不至于全部跌停按死", "调侃东升西落"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "定投纳指四个月亏损产生自我怀疑，他人建议长期持有",
+    "sentiment": "negative",
+    "key_opinions": ["每日定投场外纳指仍亏损", "或需持有十年", "纳指长期在28000-30000震荡"],
+    "mentioned_stocks": ["纳斯达克指数基金"]
+  },
+  {
+    "index": 29,
+    "summary": "调侃大霄预警美股泡沫爆破终于应验，AI股普遍腰斩",
+    "sentiment": "mixed",
+    "key_opinions": ["大霄提前半年预警美股见顶", "AI股普遍腰斩", "唱空不做空是正确的废话"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 30,
+    "summary": "感叹美股半导体财报季暴跌恐怖，超过2022年行情",
+    "sentiment": "negative",
+    "key_opinions": ["半导体财报后即暴跌", "盘后涨开盘倒跌", "对标08年和2000年泡沫"],
+    "mentioned_stocks": ["SK海力士", "闪迪", "AMD", "Cohr"]
+  },
+  {
+    "index": 31,
+    "summary": "韩国股市熔断崩盘，主因美股AI硬件暴跌传导",
+    "sentiment": "negative",
+    "key_opinions": ["美股科技崩盘拖累韩国", "韩国开盘秒熔断", "韩国深度绑定AI硬件"],
+    "mentioned_stocks": ["韩国综合指数", "纳斯达克指数"]
+  },
+  {
+    "index": 32,
+    "summary": "认为无需大惊小怪，A股此前已提前大幅下跌释放风险",
+    "sentiment": "mixed",
+    "key_opinions": ["A股双创此前已腰斩", "韩国开盘熔断印证外部风险", "25年涨幅或需还回去"],
+    "mentioned_stocks": ["创业板指", "科创50", "韩国综合指数"]
+  },
+  {
+    "index": 33,
+    "summary": "警示科技板块筹码拥挤，融资盘爆仓或引发螺旋式下跌",
+    "sentiment": "negative",
+    "key_opinions": ["机构大户挤在科技板块", "大户融资盘爆仓风险显现", "机构连环平仓将无法卖出"],
+    "mentioned_stocks": ["东山精密", "源杰科技"]
+  },
+  {
+    "index": 34,
+    "summary": "重温买在无人问津卖在人声鼎沸的交易祖训",
+    "sentiment": "mixed",
+    "key_opinions": ["永不追高", "波段操作者今年获利丰厚", "量能强劲或有溢价"],
+    "mentioned_stocks": ["创业板指"]
+  },
+  {
+    "index": 35,
+    "summary": "提出美国限建数据中心则来中国买算力的思路",
+    "sentiment": "positive",
+    "key_opinions": ["利好算力租赁板块", "算力需求或转移中国"],
+    "mentioned_stocks": ["算力租赁概念股"]
+  },
+  {
+    "index": 36,
+    "summary": "纳指跌4%担忧熔断，费城半导体重挫引发恐慌",
+    "sentiment": "negative",
+    "key_opinions": ["费城半导体指数跌10%", "恐需挂隔夜单逃离", "盘中V型反弹再现"],
+    "mentioned_stocks": ["纳斯达克指数", "费城半导体指数", "Intel"]
+  },
+  {
+    "index": 37,
+    "summary": "认为国家队提前拉升是为护盘，今日应硬顶避免连环爆仓",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队预判外围大跌提前拉升", "今日应护盘至微绿", "逆风护盘需真金白银"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "讨论国家队提前离场时机精准，先跌透再回来更主动",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队提前撤出避免被套", "走法膈应但决策合理", "期待趁低吸老美筹码"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "实盘跟单买入多只个股，论坛回复显示异常引发担忧",
+    "sentiment": "mixed",
+    "key_opinions": ["买入大业海洋江顺建设等股", "回复显示异常局势不稳", "筹码转移中"],
+    "mentioned_stocks": ["大业股份", "海洋", "江顺", "建设银行"]
+  },
+  {
+    "index": 40,
+    "summary": "称纳指此前-5%后均创新高，此次或是深蹲洗盘",
+    "sentiment": "positive",
+    "key_opinions": ["历史数据支持暴跌后反弹", "25年4月熔断后暴力新高", "或借主升浪拉至4700点"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 41,
+    "summary": "警告不要自我欺骗不跑，AI链应果断离场",
+    "sentiment": "negative",
+    "key_opinions": ["AI链持仓应赶紧跑", "昨晚已挂跌停出逃", "熊市不要相信有底"],
+    "mentioned_stocks": ["AI产业链个股"]
+  },
+  {
+    "index": 42,
+    "summary": "抱怨国家队拉升诱多后纳指崩盘坑害散户",
+    "sentiment": "negative",
+    "key_opinions": ["阿姨放量拉升骗人进场", "死保3600愿望难实现", "拉高是给爆仓资金喘息"],
+    "mentioned_stocks": ["宽基ETF"]
+  },
+  {
+    "index": 43,
+    "summary": "在美中概股逆势走强，中国科技政策稳定预期成支撑",
+    "sentiment": "positive",
+    "key_opinions": ["中概股逆势上涨", "政策稳定预期支撑估值"],
+    "mentioned_stocks": ["纳斯达克中国金龙指数"]
+  },
+  {
+    "index": 44,
+    "summary": "预测创业板开盘跌幅区间，好情况-1差情况-6.5",
+    "sentiment": "negative",
+    "key_opinions": ["创业板或-4左右开盘", "宁德时代撑住则跌幅有限", "韩国开盘即熔断"],
+    "mentioned_stocks": ["创业板指", "宁德时代", "阳光电源"]
+  },
+  {
+    "index": 45,
+    "summary": "韩国开盘暴跌熔断，日经相对抗跌",
+    "sentiment": "negative",
+    "key_opinions": ["韩国开盘1分钟熔断", "日本跌3%相对坚挺", "期待A股表现"],
+    "mentioned_stocks": ["韩国综合指数", "日经指数"]
+  },
+  {
+    "index": 46,
+    "summary": "期盼今日恒生科技指数起飞",
+    "sentiment": "positive",
+    "key_opinions": ["希望先救香港市场"],
+    "mentioned_stocks": ["恒生科技指数"]
+  },
+  {
+    "index": 47,
+    "summary": "嘲讽美国中期选举后纳指必涨的规律本次失效",
+    "sentiment": "negative",
+    "key_opinions": ["历史规律第20次不再应验", "魔咒破灭引发调侃"],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 48,
+    "summary": "预测纳指将暴跌空中飞人，场内高溢价QDII恐杀跌",
+    "sentiment": "negative",
+    "key_opinions": ["纳指或现空中飞人", "QDII基金明天大逃杀", "场内40%溢价将杀跌停"],
+    "mentioned_stocks": ["纳斯达克指数", "QDII基金"]
+  },
+  {
+    "index": 49,
+    "summary": "关注久留美诅咒是否延续，韩国日本已崩待看A股",
+    "sentiment": "negative",
+    "key_opinions": ["韩国跳楼日本坠机", "盘中已跑路避险", "盼A股逆势拉红破除诅咒"],
+    "mentioned_stocks": ["韩国综合指数", "日经指数"]
+  },
+  {
+    "index": 50,
+    "summary": "困惑日经为何下跌3%，实为跟随纳指期货补跌",
+    "sentiment": "negative",
+    "key_opinions": ["日股补跌并带崩韩国", "纳指期货跌破年线拖累", "日韩为半导体设备材料ETF性质"],
+    "mentioned_stocks": ["日经指数", "纳斯达克期货", "QQQ"]
+  }
+]
+```
