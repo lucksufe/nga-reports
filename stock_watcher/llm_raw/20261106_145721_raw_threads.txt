@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "美国股市暴跌引发讨论，AI板块估值面临重新定价，嘲讽自身市场对美股评论。",
+    "sentiment": "negative",
+    "key_opinions": ["AI行业环境改变可能导致估值重定价", "对美国AI板块持悲观调整预期"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "东山精密跌停后有人抄底博弈，讨论是出货还是吸筹，情绪分化明显。",
+    "sentiment": "mixed",
+    "key_opinions": ["跌停失败反而可能上涨", "追高风险大，明天预期低开", "美股反弹后A股下周一或跟涨"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 3,
+    "summary": "亲戚长期拿银行股做波段吃分红年赚30万，引发散户对低收益策略的反思。",
+    "sentiment": "mixed",
+    "key_opinions": ["低收益稳定策略被多数人看不上但有效", "散户应控制贪欲追求年化5-10%", "小资金更应追求绝对收益而非比例"],
+    "mentioned_stocks": ["中国银行", "工商银行"]
+  },
+  {
+    "index": 4,
+    "summary": "美股AI链暴跌后讨论国产替代链是否迎来机会，观点分歧较大。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股AI降速或利好国产链", "AI硬件供大于求会卷成电子厂", "中美AI链其实利益绑定"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "疑似限制卖出导致成交量萎缩，讨论限制卖出对后续走势的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["限制卖出可骗人抄底再杀", "量化被关闭导致个股横盘", "下周放开卖出可能继续下跌"],
+    "mentioned_stocks": ["沪电股份"]
+  },
+  {
+    "index": 6,
+    "summary": "当前行情下只有空仓者能谈笑风生，满仓科技股者普遍深陷亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["空仓看乐子的人心态最好", "不碰科技股亏损能少很多", "利润已亏完白玩了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讨论国内数据中心大基建的投资机会，但核心问题是算力卡受制于人。",
+    "sentiment": "mixed",
+    "key_opinions": ["解决不了算力卡问题建机房没用", "中芯国际受益于国产替代", "买不到卡是根本瓶颈"],
+    "mentioned_stocks": ["中芯国际", "建设银行", "英伟达", "茅台"]
+  },
+  {
+    "index": 8,
+    "summary": "自嘲买在山顶也是技术，配图调侃高位买入的无奈。",
+    "sentiment": "negative",
+    "key_opinions": ["买在山顶被自嘲为高手", "对亏损无奈以幽默化解"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论ST人福基本面好但涨幅有限，看好长期老龄化逻辑和摘帽预期。",
+    "sentiment": "positive",
+    "key_opinions": ["基本面好有护城河适合长持", "短期弹性不足除非摘帽", "定增未完成压制股价"],
+    "mentioned_stocks": ["ST人福"]
+  },
+  {
+    "index": 10,
+    "summary": "论坛情绪理论显示乐观者多为空仓看戏者，重仓者已绝望，暗示后市仍可能下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["乐观的都是没买的看戏者", "重仓者早已绝望", "情绪理论暗示还有的跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "质疑主力资金不买反卖的异常行为，预测创业板下周面临更大压力。",
+    "sentiment": "negative",
+    "key_opinions": ["主力资金不买还卖行为异常", "创业板下周可能继续大跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "科技股看似坚挺实则已深跌多日，评论者讽刺所谓'硬'不过是尸僵。",
+    "sentiment": "negative",
+    "key_opinions": ["跌8个点不叫无事发生", "所谓硬挺只是被动挨打", "战狼链国产替代板块相对坚挺"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "宇通客车长期表现凶猛，高股息高出海利润，困境反转后持续上涨。",
+    "sentiment": "positive",
+    "key_opinions": ["出海高利润高市占率", "高股息能分出市值的钱", "刚经历主跌浪30个点后反弹"],
+    "mentioned_stocks": ["宇通客车"]
+  },
+  {
+    "index": 14,
+    "summary": "期待国家队下午出手护盘但未见买入，认为市场相对硬不触发买入条件。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队疑似资金不足未出手", "中午喊话暗示政策托底", "预计下周大跌再买入"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "一日亏损回吐11月全部涨幅，高位加仓低位未加导致损失惨重。",
+    "sentiment": "negative",
+    "key_opinions": ["高位加仓低位没加是主因", "近期普涨普跌波动大", "本金亏损几十万"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "对冲基金Samlyn出清金融股以外股票并裁员，引发对市场前景的讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["对冲基金全面清仓非金融股", "可能意味着策略失效", "钱不是这么好赚的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "解释大A反应慢的原因：开盘抄底散户多则一路向南，散户少则深水开做T。",
+    "sentiment": "negative",
+    "key_opinions": ["开盘散户抄底多反而加速下跌", "散户少时机构做T第二天继续跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "满仓者今日亏损惨重，从7月至今持续满仓的人普遍深亏，有人部分回撤可接受。",
+    "sentiment": "negative",
+    "key_opinions": ["7月至今天天满仓亏损严重", "收益被紫金拉爆左右挨打", "昨天减仓的人回撤可接受"],
+    "mentioned_stocks": ["紫金矿业", "东山精密"]
+  },
+  {
+    "index": 19,
+    "summary": "半导体设备今日仅跌不到1%相对坚挺，但多人警惕后续补跌风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["国产替代是半导体设备抗跌主因", "警惕A股最典型的补跌风险", "高PE坐等补跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "观测到窗口指导信号，讨论是否复刻上周五爆拉行情，取决于外围情绪。",
+    "sentiment": "mixed",
+    "key_opinions": ["出现窗口指导信号", "是否拉升取决于外围情绪回暖"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "东山精密跌停被套多人自嘲'锁妖塔'，公告注销回购股份158.88万股。",
+    "sentiment": "negative",
+    "key_opinions": ["跌停被套者叫苦连天", "回购注销股份属利好", "抄底风险大周一可能继续埋"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论AI软件板块是否被误杀，认为硬科技杀跌初期会带动软件，后续分化。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI软件可能是误杀后续会修复", "A股缺乏正经AI软件标的", "短剧出海概念逆势上涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "用'断头饭'比喻周三大阳线诱多，警示半导体高位风险，预计下周暴力补跌。",
+    "sentiment": "negative",
+    "key_opinions": ["周三大阳线是断头饭诱多", "半导体高位坚挺后必补跌", "要吸取教训不追高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "关于某博主疑似轻生的传言被证伪为玩梗，引发对股市参与者心态的讨论。",
+    "sentiment": "negative",
+    "key_opinions": ["疑似自杀消息实为玩梗", "股市参与者心态扭曲", "信息真假难辨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "中际旭创一根直线疑似被指导卖出，创业板多数个股今日横盘无波动。",
+    "sentiment": "negative",
+    "key_opinions": ["中际疑似限制卖出导致横盘", "融资盘爆仓还差最后一波", "创业板多票一根直线"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 26,
+    "summary": "感叹昔日股市勃勃生机的景象已不复存在，当前行情令人唏嘘。",
+    "sentiment": "negative",
+    "key_opinions": ["对昔日繁荣行情怀念", "当前市场萧条令人感慨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "九阳股份连续三天不回调，散户减仓后询问是否还有上车机会。",
+    "sentiment": "positive",
+    "key_opinions": ["连续三天强势不回调", "量化在主导短线行情", "主力可能等散户入场后派发"],
+    "mentioned_stocks": ["九阳股份"]
+  },
+  {
+    "index": 28,
+    "summary": "推荐拓日新能3.75元建仓等主升浪，但被评价为光伏板块垃圾股。",
+    "sentiment": "negative",
+    "key_opinions": ["3.75元建仓等主升浪", "光伏板块走势低迷", "量化拉升后爆头是常态"],
+    "mentioned_stocks": ["拓日新能"]
+  },
+  {
+    "index": 29,
+    "summary": "吐槽紫金矿业涨少跌多、走势无逻辑，股东被套者众多，建议慎入。",
+    "sentiment": "negative",
+    "key_opinions": ["涨一半跌两倍无逻辑", "股东众多易被套", "超低价买不如买板块指数"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 30,
+    "summary": "成交量缩回1.6-1.7万亿，疑似限制卖出和关闭量化导致市场横盘。",
+    "sentiment": "negative",
+    "key_opinions": ["量能大幅波动因限制卖出", "量化被关闭个股横盘", "外围不确定性下不敢入场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "前半年赚100%后7月至今仅亏15%，心态扭曲但仍庆幸相对少亏。",
+    "sentiment": "negative",
+    "key_opinions": ["赚翻后回吐仅亏15%已感幸运", "建议年前别入场等明年捡尸体", "大多数人已腰斩"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "金安国纪今日看似坚挺但追高被套，预计下周一超绝补跌。",
+    "sentiment": "negative",
+    "key_opinions": ["追高买入后立即跳水", "强势股也难逃补跌", "不能追高要么有先手要么开盘进"],
+    "mentioned_stocks": ["金安国纪"]
+  },
+  {
+    "index": 33,
+    "summary": "中午喊话护盘后下午有人加仓上当，对短期走势看法分歧。",
+    "sentiment": "negative",
+    "key_opinions": ["中午喊话是诱多陷阱", "外围大跌A股低开高走暂时问题不大", "下周一补跌风险大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "用歌词抒发对科技股从辉煌到腰斩的感慨，接受市场有涨有跌。",
+    "sentiment": "negative",
+    "key_opinions": ["科技股从美满跌到腰斩", "好景不常在要接受跌落", "A股如丧葬街"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "ST亚光迎来人生第一次20cm涨停，长期被套终于解套，蹭ST板块行情。",
+    "sentiment": "positive",
+    "key_opinions": ["ST亚光20cm涨停解套", "蹭ST板块上涨行情", "重组概念长期无进展"],
+    "mentioned_stocks": ["ST亚光"]
+  },
+  {
+    "index": 36,
+    "summary": "中际旭创反弹乏力比光模块还弱，筹码差机构套牢多，无人解套。",
+    "sentiment": "negative",
+    "key_opinions": ["中际跟随模组厂下跌无反弹", "机构持仓占比高但被套", "筹码结构糟糕难有行情"],
+    "mentioned_stocks": ["中际旭创", "东山精密", "兆易创新", "天赐材料"]
+  },
+  {
+    "index": 37,
+    "summary": "美股暴跌引发科技发展是否终结的讨论，以2000年互联网泡沫为鉴。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技会发展但股价未必回来", "2000年纳指跌80%后15年才回本", "AI会完善但AI股不一定"],
+    "mentioned_stocks": ["思科"]
+  },
+  {
+    "index": 38,
+    "summary": "误操作将买1000股点成10000股赛轮轮胎，评论区调侃'买错概念'可能起飞。",
+    "sentiment": "mixed",
+    "key_opinions": ["误操作多买9000股", "赛轮近期强势是好买点", "买错概念反而可能起飞"],
+    "mentioned_stocks": ["赛轮轮胎"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论美国因电费噪音等放弃AI数据中心建设的荒谬，对比国内基建优势。",
+    "sentiment": "mixed",
+    "key_opinions": ["美国因电费噪音限制AI数据中心", "民主党内部党争影响AI政策", "国内基建电力优势明显"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "润建股份作为算力出海龙头逆势上涨，市场传言其背景关系强大。",
+    "sentiment": "positive",
+    "key_opinions": ["算力出海龙头逆势强势", "美股限制利好其海外业务", "波动大适合做T"],
+    "mentioned_stocks": ["润建股份"]
+  },
+  {
+    "index": 41,
+    "summary": "创业板午后自发反弹，宁德时代护盘，疑似国家队拆单买入ETF。",
+    "sentiment": "mixed",
+    "key_opinions": ["创业板午后自发翘头反弹", "国家队可能拆单买ETF护盘", "宁德时代开始护盘"],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 42,
+    "summary": "不加杠杆的满仓者亏40%仍存希望，讨论个股与指数回本概率差异。",
+    "sentiment": "negative",
+    "key_opinions": ["不加杠杆指数大概率能回来", "个股不一定能回来", "加杠杆基本回不了本"],
+    "mentioned_stocks": ["大金重工"]
+  },
+  {
+    "index": 43,
+    "summary": "国家队自己买国产链却喊话海外链稳信心，被认为还是会赚钱。",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队自买国产链喊话海外链", "国家队自身也在获利"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "融捷股份在今日大跌中逆势拉升，被认为韧性较强不菜。",
+    "sentiment": "positive",
+    "key_opinions": ["融捷逆势拉升表现不俗", "大跌中仍能拉升不菜"],
+    "mentioned_stocks": ["融捷股份"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论千亿资金维持科创50不如全民发钱消费，对刺激经济效果存疑。",
+    "sentiment": "negative",
+    "key_opinions": ["科创50全靠投机无人长持", "强行拉指数只会造成更大下跌", "发钱也未必能刺激消费"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "国机精工连续跌停令持仓者困惑，高位PE下跌无需理由，利好出尽是利空。",
+    "sentiment": "negative",
+    "key_opinions": ["利好出尽后利空暴跌", "高PE杀跌不需要理由", "融资盘被清洗后可能重新涨"],
+    "mentioned_stocks": ["国机精工"]
+  },
+  {
+    "index": 47,
+    "summary": "反弹已结束，市场进入下一轮阴跌阶段。",
+    "sentiment": "negative",
+    "key_opinions": ["反弹结束进入阴跌", "对后市悲观"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "今日限卖但只有喊话无真金白银，国家队信心不足，外围影响决策。",
+    "sentiment": "negative",
+    "key_opinions": ["限卖但国家队不出钱", "外围不确定性导致观望", "量化关闭个股横盘一条线"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "今年炒股浮亏10万心态崩溃，建议用闲钱炒股不借钱，攒钱等下轮牛市。",
+    "sentiment": "negative",
+    "key_opinions": ["浮亏10万影响生活应清仓", "今年是熊市应攒钱等牛", "炒股必须用闲钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "吐槽国家队逆市操作扰乱市场节奏，技术分析和外围映射全部失效。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队逆周期操作打乱市场节奏", "外围映射和技术分析全部失效", "市场信心被人为破坏"],
+    "mentioned_stocks": []
+  }
+]
+```
