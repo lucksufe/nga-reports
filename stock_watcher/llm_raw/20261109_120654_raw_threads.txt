@@ -1,0 +1,319 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论黄仁勋事件对阿里的影响，是利好还是利空芯片获取",
+    "sentiment": "mixed",
+    "key_opinions": ["阿里通过擦边球拿卡，事件后可能拿不到是利空", "阿里有千问大模型肯定用了受限芯片", "民主党把走私芯片问题摆上台面"],
+    "mentioned_stocks": ["阿里巴巴"]
+  },
+  {
+    "index": 2,
+    "summary": "大盘缩量、盘感异常，讨论科技拉高是否为出逃机会",
+    "sentiment": "negative",
+    "key_opinions": ["缩量行情科技拉高可能是给散户跑的机会", "英伟达事件发酵可能引发进一步下跌", "AI硬科技有筑底迹象但市场靠业绩说话存疑"],
+    "mentioned_stocks": ["英伟达", "药明"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论黄仁勋出轨对象的外貌和背景",
+    "sentiment": "mixed",
+    "key_opinions": ["该对象懂AI和显卡，工作生活一体", "华裔身份被认为是加分项", "调侃黄仁勋的眼光品味"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "讨论英伟达暴力修复的可能性及陈涛支持",
+    "sentiment": "mixed",
+    "key_opinions": ["有人认为英伟达可以暴力修复", "参考胜宏出清后可能先拉后阴跌", "出轨概念成为市场调侃话题"],
+    "mentioned_stocks": ["英伟达", "胜宏"]
+  },
+  {
+    "index": 5,
+    "summary": "吐槽市场炒作无逻辑，质疑正规市场合理性",
+    "sentiment": "negative",
+    "key_opinions": ["有基本面的东西反而被埋伏，炒作无逻辑更疯狂", "东方财富拉涨停比题材炒作更有意义", "猴市比头铁也比跑得快，风险极大"],
+    "mentioned_stocks": ["东方财富"]
+  },
+  {
+    "index": 6,
+    "summary": "冰山冷热涨停炒作冰雪经济和氢能概念",
+    "sentiment": "mixed",
+    "key_opinions": ["冰雪经济是炒作核心逻辑", "妖股争霸赛行情，缩量难接力", "冰山、雪人、长白山同涨是冰雪概念"],
+    "mentioned_stocks": ["冰山冷热", "雪人", "长白山", "引力传媒"]
+  },
+  {
+    "index": 7,
+    "summary": "看多原油大牛市，列库存新低、中东战乱等六大理由",
+    "sentiment": "positive",
+    "key_opinions": ["国际库存新低+中东炼油厂被毁支撑原油长期看多", "利好不涨说明市场不认可，逢高应谨慎", "降息预期和AI资金流出利好原油"],
+    "mentioned_stocks": ["中国海油"]
+  },
+  {
+    "index": 8,
+    "summary": "科技吸干其他板块资金形成跷跷板效应",
+    "sentiment": "negative",
+    "key_opinions": ["科技拉升但其他个股普遍下跌，市场只有一条裤子", "也有人认为是银行在吸全场资金", "缩量1.5万亿成交不足以支撑全面行情"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "亏损10%后决定清仓退出股市，转投逆回购",
+    "sentiment": "negative",
+    "key_opinions": ["买什么跌什么，卖什么涨什么，决定离场", "亏的钱不如带家人消费，认为不适合炒股", "感谢社区，向被怼过的人道歉告别"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "预测跨年妖股，讨论各种生肖玄学和题材股",
+    "sentiment": "mixed",
+    "key_opinions": ["金螳螂、七匹狼等生肖概念股被看好", "大连圣亚兼具冰雪经济和大圣概念", "跨年妖启动时成交额一般较小，大市值难成妖"],
+    "mentioned_stocks": ["金螳螂", "七匹狼", "捉狼智能", "圣阳", "大连圣亚"]
+  },
+  {
+    "index": 11,
+    "summary": "分析黄仁勋事件深层原因：芯片走私和民主党清算",
+    "sentiment": "negative",
+    "key_opinions": ["出轨对象是芯片买家员工，背后是阿里，涉芯片走私", "民主党借出轨曝光敲打共和党钱袋子", "蓝党上台会卡得更严，利好国产芯片链"],
+    "mentioned_stocks": ["阿里巴巴", "英伟达"]
+  },
+  {
+    "index": 12,
+    "summary": "商业航天板块突然上涨引发关注和疑虑",
+    "sentiment": "mixed",
+    "key_opinions": ["反弹未到位但行情有延续迹象", "没有实质消息刺激只是短期炒作", "多次被骗不敢追高，观望为主"],
+    "mentioned_stocks": ["西部材料"]
+  },
+  {
+    "index": 13,
+    "summary": "拓日新能建仓推荐，讨论光伏板块前景",
+    "sentiment": "negative",
+    "key_opinions": ["3.75元建仓等主升浪，但被套牢", "光伏板块走势疲软，量化拉高爆头", "被批评为垃圾股，光伏不如消费"],
+    "mentioned_stocks": ["拓日新能"]
+  },
+  {
+    "index": 14,
+    "summary": "AI应用板块冲高回落，利好利好被反向收割",
+    "sentiment": "negative",
+    "key_opinions": ["AI短剧整改后继续冲但随后回落", "早盘+5%跌到-0.5%，主力反向操作", "发布者自己被奶死，走势向下"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论消费股能否崛起，涉及政策和AI对消费的影响",
+    "sentiment": "mixed",
+    "key_opinions": ["AI摧毁中产工作，消费难大幅增长，政策要等明年", "十五五规划科技是核心，消费非主要目标", "消费股已悄悄涨不少，伊利茅台有主升浪迹象"],
+    "mentioned_stocks": ["伊利", "茅台"]
+  },
+  {
+    "index": 16,
+    "summary": "直觉认为科技是兑现点，讨论负EV行为和止盈策略",
+    "sentiment": "mixed",
+    "key_opinions": ["凭感觉操作是负EV行为，应做量化监控", "题材已大幅兑现，科技一放量可能崩", "建议先卖一半控制风险，食品饮料银行值得关注"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "宇树科技大涨引发讨论，是资金驱动还是可做空",
+    "sentiment": "mixed",
+    "key_opinions": ["可能是套了二代资金在使劲拉升", "跟随大资金入场即可，不必讲逻辑", "纯情绪票，涨到高位可考虑做空"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论购买纳斯达克基金的各种途径和溢价问题",
+    "sentiment": "mixed",
+    "key_opinions": ["ETF溢价太高，建议通过直销app定投", "501312海外科技LOF是替代选择，溢价不高", "高溢价不是建仓点，别追高，可考虑港卡券商"],
+    "mentioned_stocks": ["纳斯达克ETF", "501312海外科技LOF"]
+  },
+  {
+    "index": 19,
+    "summary": "胜宏科技大涨，与英伟达出轨事件形成共振炒作",
+    "sentiment": "positive",
+    "key_opinions": ["出轨概念股概念，确认胜宏与英伟达强相关", "早盘没跟英伟达一起被砸，独立走势强", "但英伟达夜盘跌了，共振也是跌"],
+    "mentioned_stocks": ["胜宏科技", "英伟达"]
+  },
+  {
+    "index": 20,
+    "summary": "中国电影突然大跌，讨论建仓机会和行业前景",
+    "sentiment": "negative",
+    "key_opinions": ["AI短剧冲击电影院，大导演也说谁还去影院", "15元以下可慢慢建仓，等13元更佳", "流浪地球等好片仍有期待，行业并非全无希望"],
+    "mentioned_stocks": ["中国电影"]
+  },
+  {
+    "index": 21,
+    "summary": "先导基电高波动庄股，暴涨暴跌适合短线操作",
+    "sentiment": "mixed",
+    "key_opinions": ["纯庄股暴涨暴跌，与基本面无关", "二极管走势，暴跌后买吃板就跑策略", "国产半导体赛道看长远，市值有望千亿"],
+    "mentioned_stocks": ["先导基电", "光智科技"]
+  },
+  {
+    "index": 22,
+    "summary": "尾盘拉升引发下午走势猜测，结果下午跳水",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘拉升可能有大消息，期待下午起飞", "实际坠机了，尾盘涨一般没好事", "中午尾盘拉升不如下午一点偷袭可靠"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "生益科技跳水难绷，机构清仓导致暴跌",
+    "sentiment": "negative",
+    "key_opinions": ["机构止损清仓走了50亿，直接跳水", "其他PCB股尚可但生益东山双双走弱", "直接告诉你没戏了比骗炮活埋更好"],
+    "mentioned_stocks": ["生益科技", "东山精密"]
+  },
+  {
+    "index": 24,
+    "summary": "创业板缩量阴跌，外围红盘也没能带动",
+    "sentiment": "negative",
+    "key_opinions": ["没量只能阴跌，补跌是A股特色", "宁德时代下跌拖累创业板", "外围不确定资金观望，需继续盘整"],
+    "mentioned_stocks": ["宁德时代"]
+  },
+  {
+    "index": 25,
+    "summary": "胜宏科技大涨，出轨概念股+英伟达一供地位实锤",
+    "sentiment": "positive",
+    "key_opinions": ["出轨概念股加英伟达一供地位无可撼动", "PCB概念+PC技术谐音梗被调侃", "有人大涨卖飞后悔不已"],
+    "mentioned_stocks": ["胜宏科技", "方正科技", "英伟达"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论黄仁勋是否会像比尔盖茨一样被逐出管理层",
+    "sentiment": "mixed",
+    "key_opinions": ["业绩爆表大概率不会被开除，出轨不算大事", "涉间谍问题+党派之争风险不可小看", "华裔身份可能面临歧视，结果难料"],
+    "mentioned_stocks": ["英伟达", "微软"]
+  },
+  {
+    "index": 27,
+    "summary": "今日市场走势怪异，科技红盘却拉银行防守",
+    "sentiment": "negative",
+    "key_opinions": ["科技ETF还行却拉银行，不太正常", "银行跌一周反弹一个点不过分", "缩量没放量，银行有死亡冲锋感觉"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "经典诱多鱼钩行情再现，讨论是否还会有人上当",
+    "sentiment": "negative",
+    "key_opinions": ["高开诱多经典剧情重现", "质疑散户是否还会被套"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "独立行情和中小盘下跌，讨论今日风险",
+    "sentiment": "negative",
+    "key_opinions": ["又是独立行情，市场分化严重", "中小盘已经自杀了，风险很大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "外围反弹但A股缩量，讨论资金为何不愿入场",
+    "sentiment": "negative",
+    "key_opinions": ["外围并不真的好，满世界不确定性", "黄仁勋出轨风波影响信心", "等散户高开跑掉，美股今晚可能再跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "牢记祖训清仓离场，高开普涨但缩量不乐观",
+    "sentiment": "negative",
+    "key_opinions": ["高开缩量+煤炭全红，格局不了一点", "上涨家数从4000+缩水到3600家，普涨质量差", "卖飞沪电后悔，但清仓是正确选择"],
+    "mentioned_stocks": ["沪电"]
+  },
+  {
+    "index": 32,
+    "summary": "长鑫存储当前价位讨论，面临巨额解禁压力",
+    "sentiment": "negative",
+    "key_opinions": ["明年一万亿解禁如坐炸弹，风险极大", "想躺平买入需谨慎，4月前跑路为宜"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 33,
+    "summary": "光模块走势疲弱仍有人买入，讨论业绩与股价关系",
+    "sentiment": "negative",
+    "key_opinions": ["走势很差像路边垃圾，但仍有人赌反弹", "业绩最终回归基本面但A股先讲故事", "CPO进千亿资金自救，跌多了也要涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "全球AI大模型周调用量榜单，DeepSeek连续三周领跑",
+    "sentiment": "positive",
+    "key_opinions": ["中国产品拿下前五中四席，实力强劲", "OpenRouter上中国模型占据主导地位"],
+    "mentioned_stocks": ["DeepSeek"]
+  },
+  {
+    "index": 35,
+    "summary": "光刻机小作文引发讨论，对国产光刻机进展持怀疑态度",
+    "sentiment": "negative",
+    "key_opinions": ["小作文放出骗傻子，成熟制程不值得兴奋", "国产光刻机落后约30年", "这种新闻只在乐观社区获得欢呼"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "商业航天题材是否要起来，西部材料主升引发关注",
+    "sentiment": "mixed",
+    "key_opinions": ["6G吹风+星链卫星是炒作逻辑", "多次被骗断魂刀，不敢轻易追高", "要信早信，去年航天行情很吓人"],
+    "mentioned_stocks": ["西部材料", "顺灏", "均达", "航天电子"]
+  },
+  {
+    "index": 37,
+    "summary": "预告准备放量抬升，但被质疑为半场开香槟",
+    "sentiment": "mixed",
+    "key_opinions": ["高开缩量对比日台修复力度偏弱", "网友回应两极分化：有人满仓有人清仓", "最中幻想，半场开香槟被吐槽"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "调侃败绿（英伟达）卡脖子技术实为出轨丑闻",
+    "sentiment": "mixed",
+    "key_opinions": ["调侃出轨是卡裤裆技术", "下一步可能是股权分割", "利好快意电梯的谐音梗"],
+    "mentioned_stocks": ["快意电梯"]
+  },
+  {
+    "index": 39,
+    "summary": "黄仁勋出轨事件是否导致英伟达大跌，深度讨论",
+    "sentiment": "negative",
+    "key_opinions": ["出轨对象是亚洲大区高管，涉及芯片供应链定价", "重点是间谍和民主党清算而非出轨本身", "持有海外链的人觉得没事，空头认为会大跌"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 40,
+    "summary": "CNBC名嘴称美股反弹是死猫跳，被指为著名反指",
+    "sentiment": "negative",
+    "key_opinions": ["著名反指发言，可能反着看更靠谱", "调侃A股才是活猫躺，比美股更惨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "中际旭创硬拉科技大票反而拖崩市场",
+    "sentiment": "negative",
+    "key_opinions": ["缩量硬拉科技大票是无钱装逼", "宁德时代资金调仓只能拉科技", "中际旭创该反弹了但强拉适得其反"],
+    "mentioned_stocks": ["中际旭创", "宁德时代"]
+  },
+  {
+    "index": 42,
+    "summary": "高开后讨论是否组训（冲高跑路），行情不稳定",
+    "sentiment": "negative",
+    "key_opinions": ["无实质利好高开维持不了，最多微红波动", "高开必走等回调是祖训", "最怪异的是银行没被砸，市场不正常"],
+    "mentioned_stocks": ["大唐"]
+  },
+  {
+    "index": 43,
+    "summary": "对比美股和A股散户水平，认为市场环境才是关键",
+    "sentiment": "mixed",
+    "key_opinions": ["美股散户也没逃顶，只是环境好能硬抗", "巴菲特承认成功主要因为美国牛逼", "A股散户其实比美股更强但市场不给力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "东山精密被戏称锁妖塔，买入即被套的惨状",
+    "sentiment": "negative",
+    "key_opinions": ["买入就被锁住，多次被套非常痛苦", "拟注销回购股份158万股减少注册资本", "昨天进今天停、今天抄周一埋的恶性循环"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 45,
+    "summary": "海外链今日上涨是补涨还是超跌反弹，分歧明显",
+    "sentiment": "mixed",
+    "key_opinions": ["上周国产链修复，海外链创新低今日补涨", "没量能别跟，可能是诱多请君入瓮", "超跌反弹性质，周五捡地板今天吃肉"],
+    "mentioned_stocks": []
+  }
+]
+```
