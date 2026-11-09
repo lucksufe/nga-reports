@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论葛卫东百亿级回撤，质疑牛散能力，部分人认为不应以散户思维衡量大佬操作。",
+    "sentiment": "negative",
+    "key_opinions": ["牛散回撤证明运气成分大", "大佬消息面与散户不同层次", "葛卫东可能已提前套现"],
+    "mentioned_stocks": ["云南猪业"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论韩日股市开盘红盘但美股科技大跌，对A股开盘走势持观望态度。",
+    "sentiment": "mixed",
+    "key_opinions": ["红盘涨一个点弥补不了大跌", "纳指表现极差", "开盘前不好判断走势"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "朋友带炒股赚收益分10%是否合理，多数回复质疑亏损分担问题及朋友动机。",
+    "sentiment": "negative",
+    "key_opinions": ["只分收益不分亏损不合理", "疑似拉群收钱骗局", "10%分红偏高"],
+    "mentioned_stocks": ["牧原"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论黄仁勋离婚是否为套现离场复刻陈涛，短期利空长期影响有限。",
+    "sentiment": "negative",
+    "key_opinions": ["借离婚传闻出货接盘", "个人私德不影响基本面", "AI周期末端找人接盘"],
+    "mentioned_stocks": ["英伟达", "海力士"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论调查黄仁勋实为针对AI循环贷资金链，民主党政治博弈引发AI板块系统性风险。",
+    "sentiment": "negative",
+    "key_opinions": ["AI命门是资金，民主党打七寸", "政治目的是逼AI巨头纳贡", "不会主动引爆经济危机"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 6,
+    "summary": "调侃黄仁勋离婚如同二婚随礼，以戏谑方式讨论天价离婚对股市影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["全球随礼影响市值", "史上最贵情妇", "调侃式看待重大利空"],
+    "mentioned_stocks": ["我爱我家"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论白毛594%利润操盘能力，质疑是否吹票及有无杠杆风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["不浮盈加仓是其成功原因", "可能有吹票嫌疑", "曾推荐标的已大跌"],
+    "mentioned_stocks": ["天孚", "AAOI"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论民主党对黄仁勋出手的政治打法，认为是精准打击对手的策略。",
+    "sentiment": "negative",
+    "key_opinions": ["政治下三路打法太明显", "先拔爪牙再打核心", "打到了要害"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论黄仁勋私德问题在AI退潮时爆出的冲击，涉及间谍嫌疑加剧事态严重性。",
+    "sentiment": "negative",
+    "key_opinions": ["AI退潮时叠加暴击", "涉及间谍不止私德问题", "主动曝光可能有目的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论空仓等待的价值，反思今年科技操作教训，强调耐心和风险控制。",
+    "sentiment": "mixed",
+    "key_opinions": ["越想暴富越容易亏麻", "空仓是反人性的修炼", "当前风险大于机会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "深南电路提议分红不低于净利润35%，讨论高估值下分红是否足够吸引。",
+    "sentiment": "mixed",
+    "key_opinions": ["分红比不分好是积极信号", "深南市盈率约27不算太高", "高估值下利润全分也不够"],
+    "mentioned_stocks": ["深南电路"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论炒美股大幅亏损经历，反思杠杆追热门股风险，美股并非稳赚不赔。",
+    "sentiment": "negative",
+    "key_opinions": ["杠杆追热点是亏损主因", "美股个股风险比指数高", "纳指长期好但非无风险"],
+    "mentioned_stocks": ["AAOI", "纳斯达克100"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论新韭菜拿不住和浮亏即亏的认知误区，认为只有银行红利等少数可长期持有。",
+    "sentiment": "mixed",
+    "key_opinions": ["浮亏不认亏死扛更亏", "只有银行红利可长期持有", "好股票散户难以识别"],
+    "mentioned_stocks": ["红利低波"]
+  },
+  {
+    "index": 14,
+    "summary": "周末对下周行情忐忑不安，老黄事件成鬼故事，科技海外链短期难做。",
+    "sentiment": "negative",
+    "key_opinions": ["老黄事件是重大鬼故事", "科技海外链短期无法操作", "仓位太高需要减仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "调侃败绿掌握卡脖子技术，戏谑黄仁勋事件和股权分割前景。",
+    "sentiment": "mixed",
+    "key_opinions": ["调侃式看待卡脖子技术", "下一步可能股权分割", "戏谑黄仁勋套路"],
+    "mentioned_stocks": ["快意电梯"]
+  },
+  {
+    "index": 16,
+    "summary": "以乞丐比喻成熟股民心态，躺平等市场施舍而非追高讨饭，众人共鸣被割经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["成熟股民应学会躺平", "不追高不讨好市场", "越想发财越亏本"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "分析黄仁勋出轨对象为高知女性，认为非单纯欲望驱动，暗含政治因素。",
+    "sentiment": "mixed",
+    "key_opinions": ["出轨对象是高知高管", "可能因家庭关系冷淡", "离婚后财富仍充裕"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "华强北显卡降价且外国人涌入抢购，讨论台积电地缘风险和显卡供需。",
+    "sentiment": "mixed",
+    "key_opinions": ["台积电面临极端地缘风险", "显卡价格买卖都不合适", "可能是营销托儿"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "梦到东山精密30元，众人调侃梦是反的或少看了位数。",
+    "sentiment": "mixed",
+    "key_opinions": ["梦到股价是反向指标", "调侃应是3元或300元", "缺乏实质分析"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 20,
+    "summary": "周末地缘冲突不断，讨论周一开盘风险，A股强周期属性和防御板块配置。",
+    "sentiment": "negative",
+    "key_opinions": ["地缘冲突利空周一开盘", "A股上涨无视利空变盘前兆", "转防御板块煤炭猪肉"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "20x杠杆做多SOXL爆仓经历，讨论美股高倍杠杆风险和止损重要性。",
+    "sentiment": "negative",
+    "key_opinions": ["60倍杠杆做多必爆仓", "高杠杆不做止损等于赌博", "美股波动大但仍讲道理"],
+    "mentioned_stocks": ["SOXL"]
+  },
+  {
+    "index": 22,
+    "summary": "华尔街高呼抄底美股科技股，大摩称未来两三周是加仓时机，股民不信。",
+    "sentiment": "mixed",
+    "key_opinions": ["投行喊抄底反而更警惕", "等纳指跌20-30%再抄", "机构吹票不可信"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 23,
+    "summary": "讽刺各种投资建议都不靠谱，调侃当滑头应对市场，恒科上下空间皆有限。",
+    "sentiment": "negative",
+    "key_opinions": ["各种推荐都不靠谱", "恒科向下空间有限但承受不住", "推荐列表全是坑"],
+    "mentioned_stocks": ["601919", "恒科", "中概"]
+  },
+  {
+    "index": 24,
+    "summary": "将黄仁勋事件类比陈涛事件，调侃世界是一个巨大的陈涛，涉及间谍因素。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄仁勋事件类比陈涛", "涉及间谍更严重", "戏谑式对比"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "展望明天行情，中东地缘和政策消息影响，分歧较大从暴跌到大奇迹日皆有。",
+    "sentiment": "mixed",
+    "key_opinions": ["中东开炸利空开盘", "大奇迹日或阴跌皆有可能", "川子传消息缓和局势"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "英伟达7600万元AI芯片货物在美被盗，讨论芯片走私和高价值盗窃问题。",
+    "sentiment": "negative",
+    "key_opinions": ["高价值芯片被盗成常态", "芯片黑市利润极高", "运输缺定位跟踪"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 27,
+    "summary": "央行持续增持黄金但价格未涨，讨论加息周期金价压制和长线持有逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["加息周期黄金短期难涨", "央行买金以10年为单位", "大户卖金补美股保证金"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论闪迪做空机会、SpaceX算力转型及民主党政策对AI产业链的利空影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["民主党上台短期利空AI", "SpaceX算力中心是利好", "费半走势弱可继续空"],
+    "mentioned_stocks": ["闪迪", "SpaceX", "苹果", "英伟达", "特斯拉"]
+  },
+  {
+    "index": 29,
+    "summary": "分析澜起为何跟随存储板块波动，量化因子和ETF成分股被动交易是主因。",
+    "sentiment": "mixed",
+    "key_opinions": ["量化因子导致被动联动", "市盈率偏高已腰斩", "ETF成分股决定走势"],
+    "mentioned_stocks": ["澜起科技", "588170"]
+  },
+  {
+    "index": 30,
+    "summary": "讨论快递涨价背景下快递股是否有投资机会，顺丰圆通已有所反弹。",
+    "sentiment": "mixed",
+    "key_opinions": ["顺丰圆通超跌反弹", "谨慎将生活信号当投资信号", "快递涨价可能利好基础行业"],
+    "mentioned_stocks": ["顺丰", "圆通", "德邦"]
+  },
+  {
+    "index": 31,
+    "summary": "开盘前讨论明年操作计划，创业板分批建仓和定投为主流思路。",
+    "sentiment": "mixed",
+    "key_opinions": ["分批建仓创业板指数最稳", "年前资金需求需减仓", "下跌趋势中不要轻易抄底"],
+    "mentioned_stocks": ["创业板指"]
+  },
+  {
+    "index": 32,
+    "summary": "中信建投认为本周为超跌技术性反弹，趋势反转基础不牢，股民认同但仍观望。",
+    "sentiment": "negative",
+    "key_opinions": ["超跌反弹非趋势反转", "国家队还没买完", "中肯但缺乏止跌信号"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "华安证券喊反弹信心但遭股民强烈质疑，认为AI限制性提案影响深远。",
+    "sentiment": "negative",
+    "key_opinions": ["券商唱多不可信", "AI资金链是命门问题", "民主党手段多短期利空"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "探讨液冷是否迎来大行情，多数人认为联想过度，噪音问题被夸大。",
+    "sentiment": "negative",
+    "key_opinions": ["液冷噪音未必更小", "碎片消息不可作为交易依据", "AI硬件仍在泡沫中"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "Apollo拟750亿美元采购AI芯片，讨论是否为利好信号或资产美化操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["可能是捡廉价筹码", "类似光伏融资租赁美化报表", "利好台积电"],
+    "mentioned_stocks": ["台积电", "SpaceX"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论炒股成瘾性，红绿波动如同多巴胺刺激，建议用闲钱参与控制心态。",
+    "sentiment": "mixed",
+    "key_opinions": ["炒股成瘾性极大", "用闲钱玩控制风险", "长持忘掉才是盈利开始"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "美国豁免178类中国产品关税，讨论利好光伏但光模块未获豁免。",
+    "sentiment": "mixed",
+    "key_opinions": ["豁免延长基本没影响", "利好光伏和阳光电源", "光模块不在豁免范围"],
+    "mentioned_stocks": ["阳光电源"]
+  },
+  {
+    "index": 38,
+    "summary": "美股散户同样追涨杀跌不逃顶，不过是市场环境好掩盖了能力差距。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股散户同样不逃顶", "巴菲特也承认靠美国牛", "定投指数比个股稳"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "调侃成都球迷被自家球队反复欺骗比A股股民更惨，戏谑式讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["成都球迷比A股股民更惨", "大A连续抱摔更逆天", "大连圣亚或一字跌停"],
+    "mentioned_stocks": ["大连圣亚"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论融资仓是否该撤出，部分人满融抄底中际旭创，风险极高。",
+    "sentiment": "negative",
+    "key_opinions": ["满融抄底风险极大", "有人撤有人进赌到底", "没有卖出键就该爆"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 41,
+    "summary": "声称炒股需戒色以保精力判断力，被众人嘲讽为神棍和亏麻了。",
+    "sentiment": "negative",
+    "key_opinions": ["戒色影响精力判断力是歪理", "被嘲讽为神棍", "亏损后心理状态差"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "讨论下周游戏、创新药、科创板ETF选哪个，普遍认为科创仍有下跌空间。",
+    "sentiment": "negative",
+    "key_opinions": ["科创ETF或还有20%下跌空间", "AI硬心理压力太大", "有色短期看不到希望"],
+    "mentioned_stocks": ["科创板ETF", "药明康德", "创业板"]
+  },
+  {
+    "index": 43,
+    "summary": "东方钽业有东方系加商业航天双概念，计划小仓位摸奖尝试。",
+    "sentiment": "positive",
+    "key_opinions": ["东方+商业航天双概念", "商业航天右侧小反抽", "小仓位摸奖策略"],
+    "mentioned_stocks": ["东方钽业"]
+  },
+  {
+    "index": 44,
+    "summary": "分析微软甲骨文合同及AI自建数据中心对算力产业链和云厂商的影响。",
+    "sentiment": "negative",
+    "key_opinions": ["微软不续约计算卡贬值加剧", "小云厂商融资能力存疑", "自建数据中心成新趋势"],
+    "mentioned_stocks": ["微软", "甲骨文"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论东山精密被险资大量持仓的影响，部分机构已清仓，抱团风险存在。",
+    "sentiment": "negative",
+    "key_opinions": ["险资有无限子弹可等待解套", "部分机构已清仓", "抱团解散风险大"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 46,
+    "summary": "嘲讽AI手搓村务系统为大炼AI形式主义，质疑数据安全和合规问题。",
+    "sentiment": "negative",
+    "key_opinions": ["大炼AI形式主义", "未过等保安全存疑", "5000块成本被高估"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "询问农业板块能否作为防御板块配置，暂无实质讨论内容。",
+    "sentiment": "mixed",
+    "key_opinions": ["农业可作为防御板块", "需进一步观察"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "警告谨慎接盘九阳股份及羊字辈炒作，情绪博弈风险大易A杀兑现。",
+    "sentiment": "negative",
+    "key_opinions": ["羊字辈炒作无基本面支撑", "异动前后A杀风险大", "情绪博弈只有几天"],
+    "mentioned_stocks": ["九阳股份", "新华传媒"]
+  },
+  {
+    "index": 49,
+    "summary": "B站UP主疯狂唱衰美股和AI，论坛股民更冷静，认为流量驱动需独立判断。",
+    "sentiment": "mixed",
+    "key_opinions": ["UP主为流量夸大其词", "股价与产品价格无必然联系", "美股多空双杀未结束"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "国产新一代光刻机模型亮相引发热议，多数人对技术水平存疑并担心借机出货。",
+    "sentiment": "negative",
+    "key_opinions": ["国产光刻机或仅2000年水平", "可能借消息出货", "本季度光刻机小作文"],
+    "mentioned_stocks": []
+  }
+]
+```
