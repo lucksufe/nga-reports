@@ -1,0 +1,298 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "创业板僵持不下，资金在宁王和大光之间博弈，市场缺乏增量资金，整体偏弱",
+    "sentiment": "negative",
+    "key_opinions": ["市场资金池有限无法同时救多个票", "机构砸宁王救大光但两头落空", "创业板可能继续下跌至1字头"],
+    "mentioned_stocks": ["创业板", "宁德时代"]
+  },
+  {
+    "index": 2,
+    "summary": "商业航天板块被质疑是骗局，SpaceX盈利困难，国内卫星市场有限，但仍有故事可讲",
+    "sentiment": "mixed",
+    "key_opinions": ["商业航天靠故事支撑而非盈利逻辑", "星链不赚钱但股票看故事讲", "唱空者多反而可能是买点"],
+    "mentioned_stocks": ["西部材料"]
+  },
+  {
+    "index": 3,
+    "summary": "散户高位追涨被套后悔不已，讨论庄股识别和追高时机问题",
+    "sentiment": "negative",
+    "key_opinions": ["四板追入炸板被套严重", "标准庄股走势难判断", "希望时光倒流避开追高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "美股跳水但A股横盘不动，成交量萎缩，疑似政策干预市场",
+    "sentiment": "negative",
+    "key_opinions": ["A股不跟美股走势离谱", "量化交易疑似被限制", "政策窗口指导下市场被锁"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "科创板今日表现强势，讨论科技板块前景看好",
+    "sentiment": "positive",
+    "key_opinions": ["科技是未来发展方向", "科创板今日表现硬挺"],
+    "mentioned_stocks": ["科创板"]
+  },
+  {
+    "index": 6,
+    "summary": "莱美药业趋势操作讨论，沿5/10日线做T获利，有Modern映射概念",
+    "sentiment": "positive",
+    "key_opinions": ["10日线低吸20日线满仓策略", "沿5/10日线做T利润丰厚", "癌症研究有美股映射弹性大"],
+    "mentioned_stocks": ["莱美药业", "澳洋健康", "Moderna"]
+  },
+  {
+    "index": 7,
+    "summary": "大盘全天走平极度稳定，疑似会议期间政策托市维持指数",
+    "sentiment": "mixed",
+    "key_opinions": ["大盘全天一根直线过于稳定", "稳是政策要求任务完成", "稳定反而可能是下跌前兆"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 8,
+    "summary": "东山精密连续被套成锁妖塔，公司注销回购股份，散户绝望躺平",
+    "sentiment": "negative",
+    "key_opinions": ["连续多次被套俗称锁妖塔", "抄底可能继续被埋", "公司注销回购股份减少注册资本"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 9,
+    "summary": "被套牢折磨心态崩溃，卖了反弹不卖新低，陷入两难困境",
+    "sentiment": "negative",
+    "key_opinions": ["被套后卖与不卖都痛苦", "心态完全崩溃", "买银行躺平当安慰"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 10,
+    "summary": "市场缩量横盘疑似拔网线，成交跌破1.5万亿，指数完全走平",
+    "sentiment": "negative",
+    "key_opinions": ["成交量缩到1.5万亿以下指数走平", "疑似政策干预换操盘手", "跌成这样反弹是横盘很反常"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 11,
+    "summary": "CNBC名嘴称美股反弹是死猫跳，被网友视为反指信号",
+    "sentiment": "mixed",
+    "key_opinions": ["财经名嘴称美股反弹是死猫跳", "该分析师是著名反指", "A股比美股更弱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "原油、纳指、韩国市场同步下跌，地缘冲突下油反而下跌令人困惑",
+    "sentiment": "negative",
+    "key_opinions": ["油近期走势失真多头撤退", "全球市场同步下跌看不懂", "地缘冲突周末打来打去油未涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "华强北显卡降价外国人涌入抢购，讨论台积电被炸风险和地缘政治影响",
+    "sentiment": "mixed",
+    "key_opinions": ["显卡价格买卖都不合适", "台积电可能被毁不留大陆", "外国抢购说明需求仍在"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "追涨科技股被套浮亏扩大，每天期待开盘却迎来新绝望",
+    "sentiment": "negative",
+    "key_opinions": ["上周三追涨科技周五大跌吃满", "浮亏越来越多心态崩溃", "多数人盈利但追高者亏损"],
+    "mentioned_stocks": ["科创板"]
+  },
+  {
+    "index": 15,
+    "summary": "警告谨慎接盘九阳股份和羊字辈概念，讨论妖股抱团风险和博弈",
+    "sentiment": "negative",
+    "key_opinions": ["羊字辈抱团迟早解散谨慎接盘", "异动前后最危险有A杀风险", "情绪博弈持续时间有限"],
+    "mentioned_stocks": ["九阳股份", "新华传媒"]
+  },
+  {
+    "index": 16,
+    "summary": "商业航天冲高回落再次被回收，每次硬不过半天",
+    "sentiment": "negative",
+    "key_opinions": ["商业航天每次冲高后被回收", "没收绿还不算真正回收", "负反馈不算很大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "冰山冷热连续涨停炒作冰雪经济概念，妖股行情独立走强",
+    "sentiment": "mixed",
+    "key_opinions": ["冰雪经济概念驱动走妖股行情", "缩量上涨明天承接存疑", "妖股争霸赛争夺龙头"],
+    "mentioned_stocks": ["冰山冷热", "雪人股份", "长白山", "引力传媒"]
+  },
+  {
+    "index": 18,
+    "summary": "黄仁勋出轨事件在推特发酵，可能涉及政治博弈和间谍指控",
+    "sentiment": "negative",
+    "key_opinions": ["出轨只是明面抓手背后是政治博弈", "可能因亲华态度被敲打", "五万亿美元市值CEO出事非小事"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 19,
+    "summary": "讨论黄仁勋事件对阿里芯片获取的影响，有利空也有利好观点分歧",
+    "sentiment": "mixed",
+    "key_opinions": ["阿里芯片获取渠道可能被封堵", "此前靠擦边球拿卡现在被摆上台面", "阿里有千问没卡无法训练"],
+    "mentioned_stocks": ["阿里巴巴"]
+  },
+  {
+    "index": 20,
+    "summary": "个股全天装死波动极小，市场无量硬撑，疑似窗口指导关掉量化",
+    "sentiment": "negative",
+    "key_opinions": ["正负半个点波动毫无行情", "量化疑似被窗口指导关闭", "煤炭、零售、机器人有零星热点"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 21,
+    "summary": "基金亏损严重一年-60%，重仓科技的基金巨亏引发讨论",
+    "sentiment": "negative",
+    "key_opinions": ["买股票亏更多一年-60%", "重仓源杰的基金翻倍后暴亏", "部分基金上周五爆亏12个点"],
+    "mentioned_stocks": ["源杰科技", "财通基金", "华泰柏瑞"]
+  },
+  {
+    "index": 22,
+    "summary": "市场走的磨磨唧唧缩量横盘，疑似稳市场政策干预，银行护盘明显",
+    "sentiment": "negative",
+    "key_opinions": ["跌多了拉起来再跌反复折磨", "主力在维护市场稳定", "不准净卖出导致买银行卖科技"],
+    "mentioned_stocks": ["银行", "科创200"]
+  },
+  {
+    "index": 23,
+    "summary": "讨论购买纳斯达克ETF的各种渠道，场内溢价高场外限购",
+    "sentiment": "mixed",
+    "key_opinions": ["ETF溢价高场外限购10元", "可选海外科技LOF替代", "现在溢价高不是建仓点"],
+    "mentioned_stocks": ["纳斯达克ETF", "海外科技LOF(501312)", "SpaceX", "特斯拉"]
+  },
+  {
+    "index": 24,
+    "summary": "源杰科技逆势走强，不跟大盘和中际旭创跳水，超跌反弹",
+    "sentiment": "positive",
+    "key_opinions": ["独立于大盘走强", "跌太多是反弹主因"],
+    "mentioned_stocks": ["源杰科技", "中际旭创"]
+  },
+  {
+    "index": 25,
+    "summary": "建议大家撤退离场，轻松调侃态度",
+    "sentiment": "negative",
+    "key_opinions": ["建议撤退离场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "央行持续买入黄金但金价不涨，讨论黄金投资价值和持有逻辑",
+    "sentiment": "mixed",
+    "key_opinions": ["央行不计价格买入撑底部", "加息周期黄金难有行情", "大户卖黄金补美股保证金"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "英伟达7600万元AI芯片货物在运输途中失踪，疑似有组织盗窃",
+    "sentiment": "mixed",
+    "key_opinions": ["芯片黑市价值巨大值得铤而走险", "此事说明芯片供需极度紧张", "运输安全措施缺失"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论美国科技巨头华人高管增多现象，从基因、环境等角度分析",
+    "sentiment": "positive",
+    "key_opinions": ["华人聪明勤劳在海外成功", "美国宽松监管环境利于创新", "华人掌舵美国科技公司"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "美股股民同样不善择时靠硬抗，市场环境比A股好而已",
+    "sentiment": "mixed",
+    "key_opinions": ["美股散户基本没逃顶全靠硬抗", "巴菲特承认主要靠美国国运", "散户按天算成本越做越高"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "商业航天反弹引发讨论，踏空者后悔，有人被骗多次不敢买",
+    "sentiment": "mixed",
+    "key_opinions": ["反弹行情延续可格局但观望为主", "每次反弹都被骗多次不敢信", "网红提及后短期炒作"],
+    "mentioned_stocks": ["西部材料"]
+  },
+  {
+    "index": 31,
+    "summary": "扬子新材无逻辑纯赌一把摸奖式操作",
+    "sentiment": "mixed",
+    "key_opinions": ["毫无理由纯赌操作", "摸奖策略之前有成功案例"],
+    "mentioned_stocks": ["扬子新材", "青岛食品"]
+  },
+  {
+    "index": 32,
+    "summary": "清仓离场遵守祖训，缩量普涨格局不了一点",
+    "sentiment": "negative",
+    "key_opinions": ["今天量能不足格局不了", "煤炭全红是离场信号", "严肃买入银行清仓"],
+    "mentioned_stocks": ["银行", "沪电股份"]
+  },
+  {
+    "index": 33,
+    "summary": "市场无聊创业板波动大，期待暴涨暴跌行情",
+    "sentiment": "mixed",
+    "key_opinions": ["市场无聊期待行情方向选择", "鲁阳节能连续天地板极端"],
+    "mentioned_stocks": ["创业板", "鲁阳节能"]
+  },
+  {
+    "index": 34,
+    "summary": "根据李大霄直播建议清仓中际旭创转国产链硬件",
+    "sentiment": "mixed",
+    "key_opinions": ["国产链不受海外波动影响竞争关系", "国产链标的看芯片和设备股", "海外链不见底国产高度有限"],
+    "mentioned_stocks": ["中际旭创", "寒武纪", "海光信息", "摩尔线程", "中微公司", "北方华创"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论英伟达能否暴力修复，参考历史出清后可能先拉后跌",
+    "sentiment": "mixed",
+    "key_opinions": ["暴力修复后可能无尽阴跌", "有人鼎力支持但力度存疑", "现实供需与股价非线性"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论长鑫存储当前价格是否值得买入，面临巨额解禁压力",
+    "sentiment": "negative",
+    "key_opinions": ["明年一万亿解禁如坐在炸弹上", "考虑4月解禁前跑路"],
+    "mentioned_stocks": ["长鑫存储"]
+  },
+  {
+    "index": 37,
+    "summary": "盘点猴年概念股通过谐音联想炒作生肖概念，讨论选股条件",
+    "sentiment": "mixed",
+    "key_opinions": ["猴年概念股靠谐音和脑洞拼凑", "需要低市值+主板+业绩条件", "生肖炒作去年也没怎么炒"],
+    "mentioned_stocks": ["ST天圣", "大胜达", "金山办公", "天齐锂业", "大晟文化", "小米"]
+  },
+  {
+    "index": 38,
+    "summary": "抱怨A股市场垃圾，高开低走吃屎，炒作之风盛行缺乏做空机制",
+    "sentiment": "negative",
+    "key_opinions": ["高开低走典型吃屎行情", "没有做空炒作之风难遏制", "垃圾股消耗市场流动性"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论黄仁勋是否会被逐出英伟达管理层，对比比尔盖茨经历",
+    "sentiment": "mixed",
+    "key_opinions": ["业绩好大概率不会被开除", "可能是政治敲打而非公司层面", "华裔身份下场可能不如盖茨"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 40,
+    "summary": "银行板块强势拉升，科技被抽血，讨论资金切换逻辑",
+    "sentiment": "mixed",
+    "key_opinions": ["银行拉升分时线很美", "可能是境外势力拉银行打压科技", "国产链下午走势好值得关注"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 41,
+    "summary": "直觉科技是兑现点但无法克制持有冲动，讨论量化和板块强弱",
+    "sentiment": "mixed",
+    "key_opinions": ["凭感觉操作是负EV行为", "银行已经拉飞科技承压", "食品饮料传媒银行值得看"],
+    "mentioned_stocks": ["银行", "科创板"]
+  },
+  {
+    "index": 42,
+    "summary": "黄仁勋事件侧面反映AI芯片供需紧张，黑市价远超成本",
+    "sentiment": "positive",
+    "key_opinions": ["芯片黑市供不应求价值极高", "供需紧张利好AI硬件", "现实供需和股价非线性"],
+    "mentioned_stocks": ["英伟达", "东山精密"]
+  }
+]
+```
