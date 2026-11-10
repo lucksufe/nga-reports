@@ -1,0 +1,305 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "外围大涨A股缩量，讨论是否下跌中继、慢牛控盘与震荡换手逻辑",
+    "sentiment": "negative",
+    "key_opinions": ["利好出尽仍缩量，冲高回落疑似下跌中继", "慢牛政策防止大起大落，利好反人性", "震荡是换杠杆、为后续挖坑铺垫"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "发帖人反思亏钱是性格问题，推荐别人股票大赚自己却腰斩",
+    "sentiment": "negative",
+    "key_opinions": ["给他人推荐翻倍自己重仓腰斩，性格使然", "本金足够大后对追涨杀跌祛魅", "爱推荐股票说明自控力差"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "吐槽国家队坐庄不拉盘只等散户抬轿，缩量上涨虚假",
+    "sentiment": "negative",
+    "key_opinions": ["国家队高开砸盘吸筹，无限循环", "缩量上涨虚假，散户不救场", "庄家本质让别人抬轿收菜"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "高盛称AI调整类似1998流动性危机而非2000泡沫破裂，引发争论",
+    "sentiment": "mixed",
+    "key_opinions": ["高盛称是流动性危机，或为买入机会", "高盛被套百亿，唱多可信度存疑", "当前AI股PE约20倍，远低于2000年泡沫"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论APEC会议概念股炒作方向，深物业等标的被提及",
+    "sentiment": "mixed",
+    "key_opinions": ["深物业名字纯正适合炒作", "旅游、稀土、深字头股受关注", "题材或已过期炒作窗口已过"],
+    "mentioned_stocks": ["深物业", "青龙管业"]
+  },
+  {
+    "index": 6,
+    "summary": "抱怨大盘红几天但买入即被套，讨论底仓与做T策略",
+    "sentiment": "negative",
+    "key_opinions": ["红买绿买都要被套，地狱难度", "留底仓做T应对震荡行情", "右侧追高必被套，只能左侧抄底"],
+    "mentioned_stocks": ["中韩半导体ETF"]
+  },
+  {
+    "index": 7,
+    "summary": "莱美药业趋势票发车，讨论沿均线做T的操作手法",
+    "sentiment": "positive",
+    "key_opinions": ["沿5、10日线做T利润丰厚", "20日线反弹有力，趋势良好", "美股Moderna映射癌症研究题材"],
+    "mentioned_stocks": ["莱美药业", "澳洋健康", "Moderna"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论钨板块调整是否结束，涨价通知与被套成本",
+    "sentiment": "mixed",
+    "key_opinions": ["材料商集体发涨价通知，连涨半月", "多位持有者高位被套47至66成本", "钨股走势时跟科技时跟钨价难把握"],
+    "mentioned_stocks": ["中钨高新", "厦钨"]
+  },
+  {
+    "index": 9,
+    "summary": "ETF场内交易与申赎对个股影响的技术讨论",
+    "sentiment": "mixed",
+    "key_opinions": ["ETF场内交易不影响个股价格", "观察国家队动向应看份额变化而非成交量", "申赎经做市商买卖一揽子股票"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 10,
+    "summary": "预测英伟达市值两年内冲击6万亿美元",
+    "sentiment": "positive",
+    "key_opinions": ["英伟达市值或达6万亿至10万亿", "美股绿涨红跌颜色需留意", "多为调侃式乐观讨论"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 11,
+    "summary": "吐槽板块快速轮动如大风车，等待流动性枯竭见底",
+    "sentiment": "negative",
+    "key_opinions": ["一早上轮动四五个板块", "点位未到底，需等流动性吹干", "电风扇行情消耗散户"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "发现药明康德走势跟随大盘，利好不涨大盘涨才涨",
+    "sentiment": "mixed",
+    "key_opinions": ["业绩爆炸与解禁制裁均无反应，跟大盘走", "制裁宣布反而是上涨起点", "公司治理像美企，估值未被认可"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 13,
+    "summary": "大盘日内波动极小疑似被指导控盘，缩量与银行护盘",
+    "sentiment": "negative",
+    "key_opinions": ["银行精准控指数，个股风险被掩盖", "动荡期保金融稳定，资金敏感", "缩量冲高回落，科技一拉就被爆头"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "询问煤炭股降温利好能否追入，讨论轮动风险",
+    "sentiment": "mixed",
+    "key_opinions": ["降温利好已明牌，赚钱轮不到追高者", "长线持有问题不大", "担心科技抽走资金，或该买水利"],
+    "mentioned_stocks": ["青龙管业"]
+  },
+  {
+    "index": 15,
+    "summary": "怒斥国家队在沪深300ETF高位挂大卖单砸盘",
+    "sentiment": "negative",
+    "key_opinions": ["大盘一好转ETF即现大卖单连续两天", "国家队喊慢牛却卖最快", "缩量行情炒作垃圾股砸有业绩股"],
+    "mentioned_stocks": ["沪深300ETF华泰柏瑞"]
+  },
+  {
+    "index": 16,
+    "summary": "争论胜宏科技与东山精密哪个更值得买，游资氛围差",
+    "sentiment": "mixed",
+    "key_opinions": ["东山题材多受游资青睐", "游资都亏死散户更难活", "胜宏融资余额高不看好"],
+    "mentioned_stocks": ["胜宏科技", "东山精密", "剑桥科技", "兆易创新"]
+  },
+  {
+    "index": 17,
+    "summary": "央视报道物理AI数据需求暴增，被疑配合出货",
+    "sentiment": "negative",
+    "key_opinions": ["此位置放利好新闻疑似配合出货", "机构称2030年市场达4500亿美元", "追高买入机器人目前被套"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "讨论机构调研个股是利好还是出货清单",
+    "sentiment": "mixed",
+    "key_opinions": ["低位调研是利好，高位可能是出货", "机构调研只是工作未必买入", "调研多的股票也可能照跌不误"],
+    "mentioned_stocks": ["汉钟精机", "胜宏科技", "众生药业"]
+  },
+  {
+    "index": 19,
+    "summary": "惊叹影视院线板块强势，质疑持续性与炒作本质",
+    "sentiment": "mixed",
+    "key_opinions": ["涨两月无大回调，恐是最后一套", "本质炒小市值题材股", "春节档前拉高或为套人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "美股新手一年亏损求助，仓位集中AI股被套",
+    "sentiment": "negative",
+    "key_opinions": ["仓位过重且集中AI影响心态", "年线抄底策略失效快速满仓被套", "建议分散行业、sell put降成本"],
+    "mentioned_stocks": ["博通", "应用材料", "QQQM", "谷歌", "可口可乐", "高盛", "苹果", "美光"]
+  },
+  {
+    "index": 21,
+    "summary": "中钨高新反弹讨论，被套者期盼回本",
+    "sentiment": "mixed",
+    "key_opinions": ["守得云开见月明，涨停惊喜", "大量持有者60以上成本盼回本", "今早卖飞准备接回"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论东亚股市被美股夜盘走势控制的现象",
+    "sentiment": "negative",
+    "key_opinions": ["美股夜盘回调拖累东亚涨幅", "美股延长交易争夺全球定价权", "夜盘资金可能来自亚洲机构"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "亚钾国际两天跌近15%，讨论老挝钾矿风险与周期磨底",
+    "sentiment": "negative",
+    "key_opinions": ["老挝矿政局变动引发下跌传闻", "港口氯化钾库存新高周期磨底", "两年五倍后机构出货缺乏做多预期"],
+    "mentioned_stocks": ["亚钾国际"]
+  },
+  {
+    "index": 24,
+    "summary": "浙江荣泰反弹表现良好，老团建票重获关注",
+    "sentiment": "positive",
+    "key_opinions": ["近期难得的好股", "昔日狼楼团建票反弹强劲"],
+    "mentioned_stocks": ["浙江荣泰"]
+  },
+  {
+    "index": 25,
+    "summary": "询问江丰电子这一波能看到多少高度",
+    "sentiment": "mixed",
+    "key_opinions": ["好股但当前大A不看基本面", "目标看到半年线", "箱体上沿压制未突破"],
+    "mentioned_stocks": ["江丰电子"]
+  },
+  {
+    "index": 26,
+    "summary": "机器人板块暴涨验证此前判断，宇树等大涨",
+    "sentiment": "positive",
+    "key_opinions": ["机器人成下一阶段主线判断兑现", "宇树、同星科技等大涨", "年尾春晚题材炒作机器人"],
+    "mentioned_stocks": ["新易盛", "中际旭创", "上纬新材", "宇树科技", "同星科技", "五洲新春"]
+  },
+  {
+    "index": 27,
+    "summary": "大摩称AI股票抛售过度，数据中心推迟缓解供应限制",
+    "sentiment": "positive",
+    "key_opinions": ["AI抛售过度，数据支持定价稳定", "数据中心推迟或缓解供应限制"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "安彩高科完美图形却封不住板，跟单被套",
+    "sentiment": "negative",
+    "key_opinions": ["形态好但未能封板", "跟单后回落，近期操作不顺"],
+    "mentioned_stocks": ["安彩高科"]
+  },
+  {
+    "index": 29,
+    "summary": "本月仅红一天腰斩-50%，反思频繁换股追涨杀跌",
+    "sentiment": "negative",
+    "key_opinions": ["反复横跳导致亏损主因", "缩量电风扇行情追涨杀跌必亏", "应红卖绿买逆向操作"],
+    "mentioned_stocks": ["大唐发电"]
+  },
+  {
+    "index": 30,
+    "summary": "药明康德被美国防部移出军工企业名单，利好落地争议",
+    "sentiment": "mixed",
+    "key_opinions": ["顶着制裁新高，利好或已提前消化", "高位利好恐成出货机会", "8月已赢官司消息非新鲜"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 31,
+    "summary": "观测中钨高新站上20日线，看能否站稳开启行情",
+    "sentiment": "positive",
+    "key_opinions": ["看三天能否站稳20日线", "或补46.6缺口一波行情", "走势与PCB板块相关"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 32,
+    "summary": "中钨高新反弹强劲，从3%涨至9%引发关注",
+    "sentiment": "positive",
+    "key_opinions": ["反弹超预期冲向涨停", "预计反弹目标49附近", "有人3%卖飞后悔"],
+    "mentioned_stocks": ["中钨高新", "东山精密"]
+  },
+  {
+    "index": 33,
+    "summary": "黄仁勋婚外情丑闻前已聘危机公关，猜测政治博弈",
+    "sentiment": "mixed",
+    "key_opinions": ["提前聘公关或早知会被曝光", "涉政治因素主动引爆定性", "危机公关效果被质疑"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 34,
+    "summary": "油价下跌利好民航反弹，讨论进场与止盈策略",
+    "sentiment": "positive",
+    "key_opinions": ["油价跌民航反弹空间大目标50%", "爆量成交后开始止盈", "不破5日线继续持有"],
+    "mentioned_stocks": ["三大航"]
+  },
+  {
+    "index": 35,
+    "summary": "吐槽只会逆风高开低走、低开高走的怪异行情",
+    "sentiment": "negative",
+    "key_opinions": ["顺风高开低走逆风低开高走", "流动性不足缩量严重", "上午人气足下午危险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "先导基电暴涨暴跌如修仙场，庄股特征明显",
+    "sentiment": "mixed",
+    "key_opinions": ["暴涨暴跌二极管行情纯庄股", "暴跌后买入吃涨停就跑", "国产半导体赛道市值或达千亿"],
+    "mentioned_stocks": ["先导基电", "光智科技"]
+  },
+  {
+    "index": 37,
+    "summary": "天赐材料持有体验差，考虑是否撤离",
+    "sentiment": "negative",
+    "key_opinions": ["持有体验极差想趁利润撤离", "单票亏损最大，锂电难做利润"],
+    "mentioned_stocks": ["天赐材料"]
+  },
+  {
+    "index": 38,
+    "summary": "芯片股解禁日反而上涨，疑缩量诱多",
+    "sentiment": "mixed",
+    "key_opinions": ["解禁日红盘出乎意料", "缩量上涨疑凑接盘人头", "对比昨日继续缩量"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论宇树能狂拉而长鑫存储不能的原因",
+    "sentiment": "mixed",
+    "key_opinions": ["宇树流通盘200亿易操纵如庄股", "长鑫1800亿且国家队坐镇难拉", "科技套牢盘多，拉高被砸无共识"],
+    "mentioned_stocks": ["宇树科技", "长鑫存储", "海力士"]
+  },
+  {
+    "index": 40,
+    "summary": "2万亿以下成交不做大科技，资金转向其他板块",
+    "sentiment": "mixed",
+    "key_opinions": ["量能不足不宜做大科技", "机构开始推银行股", "钨率先反攻可惜没仓位"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "对比五粮液与宇树科技，感叹A股炒作逻辑",
+    "sentiment": "mixed",
+    "key_opinions": ["宇树流通盘小易被机构拉抬", "五粮液也跌了不少", "符合土壤底层逻辑的炒作"],
+    "mentioned_stocks": ["五粮液", "宇树科技"]
+  },
+  {
+    "index": 42,
+    "summary": "AI应用强度提升，反包上吊线或继续逼空",
+    "sentiment": "positive",
+    "key_opinions": ["无视整治利空反包昨日上吊线", "摘果子行情，明日或继续逼空"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "讨论当前是猴市震荡筑底，快速轮动散户难赚钱",
+    "sentiment": "mixed",
+    "key_opinions": ["上蹿下跳反人性，散户最易被套", "缩量轮动需2万亿量能才有行情", "全球皆猴市，筑底进行中"],
+    "mentioned_stocks": []
+  }
+]
+```
