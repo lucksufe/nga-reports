@@ -1,0 +1,312 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "药明康德持续下跌，利好不涨利空暴跌，持仓者痛苦，对比恒瑞更差",
+    "sentiment": "negative",
+    "key_opinions": ["利好高开低走利空直接暴跌", "药明比恒瑞还算好，起码涨过", "震荡行情扛不住可以冲高抛售"],
+    "mentioned_stocks": ["药明康德", "恒瑞医药"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论英伟达是否可能换帅，黄仁勋对公司技术核心地位不可替代",
+    "sentiment": "mixed",
+    "key_opinions": ["创始人被董事会踢走有苹果先例", "黄仁勋是英伟达技术产业链核心", "换帅涉及人事理清困难重重"],
+    "mentioned_stocks": ["英伟达", "苹果", "英特尔", "AMD"]
+  },
+  {
+    "index": 3,
+    "summary": "万华化学连续四天大跌，化工板块整体疲软，持股体验差",
+    "sentiment": "negative",
+    "key_opinions": ["化工已进红利股靠股息生存", "万华现在是蓄水池与基本面无关", "化工板块普跌，卫星化学同样弱势"],
+    "mentioned_stocks": ["万华化学", "紫金矿业", "卫星化学", "昊华科技"]
+  },
+  {
+    "index": 4,
+    "summary": "预测新华传媒为跨年龙头，引发关于重组股和短剧题材的争论",
+    "sentiment": "mixed",
+    "key_opinions": ["重组股预期差不大，仅开板首日有买点", "短剧传媒题材预期差大可能出妖股", "追涨停有跌停风险需谨慎"],
+    "mentioned_stocks": ["新华传媒", "上海电影", "克来机电", "九安医疗"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论机器人板块中军个股，建议买ETF规避妖股风险",
+    "sentiment": "positive",
+    "key_opinions": ["妖股不敢碰，ETF更稳妥", "有行情时ETF至少能吃30%", "炒题材资金平铺不分细分领域"],
+    "mentioned_stocks": ["三花智控", "卧龙电驱", "拓普集团", "宇树科技", "机器人ETF", "汽车零部件ETF"]
+  },
+  {
+    "index": 6,
+    "summary": "锋龙股份连续三个涨停，有人想打板追入",
+    "sentiment": "positive",
+    "key_opinions": ["53元已三连板，考虑打板买入"],
+    "mentioned_stocks": ["锋龙股份"]
+  },
+  {
+    "index": 7,
+    "summary": "光通信板块走势转强，放量上涨，疑似受微软游说及订单利好消息影响",
+    "sentiment": "positive",
+    "key_opinions": ["微软游说美国政府不禁止中国光通信", "疑似有百亿美元大订单", "无量追高小心被埋"],
+    "mentioned_stocks": ["光通信", "CPO"]
+  },
+  {
+    "index": 8,
+    "summary": "反复抄底中际旭创但持续被套，被认为方向错误应转向半导体",
+    "sentiment": "negative",
+    "key_opinions": ["超跌反弹难盼，天天破新低", "资金主攻半导体而非海外链", "反复抄底反复被套"],
+    "mentioned_stocks": ["中际旭创", "PCB", "半导体"]
+  },
+  {
+    "index": 9,
+    "summary": "游戏板块几只票大涨，但龙头股滞涨，板块分化严重",
+    "sentiment": "mixed",
+    "key_opinions": ["板块突破反转但涨的永远是那几只", "大市值游戏股游资拉不动机构不买", "巨人网络PE低仍涨不动"],
+    "mentioned_stocks": ["大晟文化", "凯撒文化", "文投控股", "中青宝", "巨人网络", "恺英网络", "三七互娱", "吉比特", "完美世界", "华通"]
+  },
+  {
+    "index": 10,
+    "summary": "宽基ETF再度资金流出，国家队短线操作备受质疑",
+    "sentiment": "negative",
+    "key_opinions": ["国家队持仓短只做低吸高卖", "口称耐心资本实际短线操作", "多个重仓股被砸"],
+    "mentioned_stocks": ["宽基ETF"]
+  },
+  {
+    "index": 11,
+    "summary": "光模块PCB板块超跌，部分人已抄底获利，多数人仍不敢追",
+    "sentiment": "mixed",
+    "key_opinions": ["量不足不敢买，越抄越低", "有人低点补仓已回本", "通信ETF未收复上月跌幅"],
+    "mentioned_stocks": ["光模块", "PCB", "通信ETF", "东山精密"]
+  },
+  {
+    "index": 12,
+    "summary": "软银AI投资亏损70亿美元，市场对AI投资过热产生担忧",
+    "sentiment": "negative",
+    "key_opinions": ["亏损可能已计价，股价已跌70%", "孙正义FOMO心理是赌徒行为", "除阿里外投资成功案例少"],
+    "mentioned_stocks": ["软银", "阿里巴巴", "英伟达", "ARM"]
+  },
+  {
+    "index": 13,
+    "summary": "看多光通信板块，唱多者信心满满但也有隐忧",
+    "sentiment": "positive",
+    "key_opinions": ["光通信逆风飞翔信心十足", "有人感觉下午可能跳水", "光需要时间证明自己"],
+    "mentioned_stocks": ["光通信"]
+  },
+  {
+    "index": 14,
+    "summary": "东山精密盘中冲高涨停但回落，卖飞和被套的都有",
+    "sentiment": "mixed",
+    "key_opinions": ["冲高回落下跌无抵抗，下午恐回到原点", "相比大光二光恢复慢", "有人卖飞后悔求上车"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 15,
+    "summary": "买什么跌什么，网友自嘲并被劝买银行股",
+    "sentiment": "negative",
+    "key_opinions": ["缩量追高被套是常态", "紫金矿业买入后一直挨打", "恒瑞医药一买就回调"],
+    "mentioned_stocks": ["紫金矿业", "恒瑞医药", "银行"]
+  },
+  {
+    "index": 16,
+    "summary": "东山精密盘中强势但争议大，比剑桥科技弹性不足，生益科技有利空",
+    "sentiment": "mixed",
+    "key_opinions": ["生益科技M8板材良率问题被抢订单", "东山体量大弹性不如剑桥", "短线博反弹选剑桥更优"],
+    "mentioned_stocks": ["东山精密", "剑桥科技", "生益科技", "中际旭创"]
+  },
+  {
+    "index": 17,
+    "summary": "市场缩量缺资金，国家队资金可能用完，市场缺水",
+    "sentiment": "negative",
+    "key_opinions": ["只有量化和游资在玩", "国家队本月额度疑似用完", "资金供给不足市场停水"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "A股跟跌不跟涨，外围涨不跟跌猛跟，有人认为已企稳",
+    "sentiment": "negative",
+    "key_opinions": ["国家队只低吸高卖稳赚不赔", "11月已连红有所稳住", "量能不足随时可能再跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "创新药板块持续下跌无底，减肥药失明风险利空扰动",
+    "sentiment": "negative",
+    "key_opinions": ["越抄越低频繁操作仍亏损", "减肥药失明风险利空龙头双头", "礼来没跌代工厂背锅不合理"],
+    "mentioned_stocks": ["创新药", "药明康德", "礼来"]
+  },
+  {
+    "index": 20,
+    "summary": "部分个股随指数企稳站上均线，市场出现转好迹象",
+    "sentiment": "positive",
+    "key_opinions": ["上穿长期均线回踩确认后大概率破前高", "站上20日线的票已经很多", "短线过气龙头能否走出第二春存疑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "炒股亏损被老婆要求转入余额宝，讨论如何应对",
+    "sentiment": "negative",
+    "key_opinions": ["建议听老婆的，亏损资金不适合放股市", "带压力操作很难回本", "应小仓位或设好止损线"],
+    "mentioned_stocks": ["余额宝"]
+  },
+  {
+    "index": 22,
+    "summary": "科技板块走势与外围背离，该强不强令人困惑",
+    "sentiment": "mixed",
+    "key_opinions": ["外围大涨高开低走是出货给散户", "昨天该反弹不拉今天缩量反抽是死猫跳", "费半三倍上60今日是修复预期"],
+    "mentioned_stocks": ["费半"]
+  },
+  {
+    "index": 23,
+    "summary": "短线买入多只股票均被套，追高被抓，操作频繁失败",
+    "sentiment": "negative",
+    "key_opinions": ["光伏买入亏损后割肉再被套", "航天动力圆弧底但还是跌", "植物人板块反而涨了14个点"],
+    "mentioned_stocks": ["阳光能源", "西部材料", "金刚光伏", "航天动力", "顺灏股份", "中国卫星", "信维通信"]
+  },
+  {
+    "index": 24,
+    "summary": "大盘拉高但不放量，怀疑大资金被限制卖出，诱导散户接盘",
+    "sentiment": "mixed",
+    "key_opinions": ["大资金卖出键被扣不给卖", "内资不卖外资猛卖", "量不足拉高诱多不买为妙"],
+    "mentioned_stocks": ["创业板", "光通信"]
+  },
+  {
+    "index": 25,
+    "summary": "东山精密反复买入被套，公司注销回购股份引发关注",
+    "sentiment": "negative",
+    "key_opinions": ["买入就亏被称为锁妖塔", "被反复套牢选择躺平", "公司注销158万股回购股份"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 26,
+    "summary": "A股不跟韩国股市，微软游说取消FCC限制利好光通信",
+    "sentiment": "mixed",
+    "key_opinions": ["微软游说取消FCC限制是利好解除", "中韩半导体ETF不跟随且狂杀溢价", "大光已起飞但大盘跟不上"],
+    "mentioned_stocks": ["中韩半导体ETF", "中际旭创"]
+  },
+  {
+    "index": 27,
+    "summary": "拉银行救指数但其他板块被抽血，资金不足市场缩量",
+    "sentiment": "negative",
+    "key_opinions": ["抽散户和小机构血救银行", "红利被抽干也没用", "今天缩量可能不到1.5万亿"],
+    "mentioned_stocks": ["银行", "红利"]
+  },
+  {
+    "index": 28,
+    "summary": "创业板疑似底部确立，但有人认为明天就变绿无持续性",
+    "sentiment": "mixed",
+    "key_opinions": ["买入就亏不敢再买", "明天就绿没有持续性"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 29,
+    "summary": "科技拉升时持仓小票跳水，科技回落小票反而直线拉升",
+    "sentiment": "mixed",
+    "key_opinions": ["科技与非科技跷跷板效应明显", "科技拉升小票跳水科技回落小票拉"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "同事2元买农业银行拿住不放，自己天天玩科技却没赚钱",
+    "sentiment": "negative",
+    "key_opinions": ["科技高抛低吸纸上富贵难兑现", "差距在于长期持有定力", "老登和小登玩法完全不同"],
+    "mentioned_stocks": ["农业银行", "科技"]
+  },
+  {
+    "index": 31,
+    "summary": "某股票三个月3倍大涨，疑似并购内幕加题材炒作",
+    "sentiment": "mixed",
+    "key_opinions": ["亏损股大牛市很适合这片土壤", "潜在并购内幕勾兑加题材催化", "看不懂的赚不了这个钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "清仓离场，市场缩量选择方向大概率向下，情绪绝望",
+    "sentiment": "negative",
+    "key_opinions": ["缩量选方向十次九次向下", "创业板成分股位置不高不必清仓", "清仓后好好生活陪家人"],
+    "mentioned_stocks": ["科创50", "创业板ETF", "证券", "医药"]
+  },
+  {
+    "index": 33,
+    "summary": "大摩调查IT预算回升，应用层将成AI下一阶段最大受益",
+    "sentiment": "positive",
+    "key_opinions": ["中国企业IT预算下半年回升", "应用层是AI下一阶段最大受益"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "科技早盘冲高是骗炮还是真涨，量能不足普遍怀疑持续性",
+    "sentiment": "mixed",
+    "key_opinions": ["缩量空涨追进就被套", "拉起来突然静止没后续像骗炮", "低开无脑进拉起就跑是策略"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 35,
+    "summary": "江淮汽车疑似与玛莎拉蒂合作消息，华为智驾加持催启动",
+    "sentiment": "mixed",
+    "key_opinions": ["玛莎拉蒂联动传闻传了两个月", "华为加持才是核心价值", "跌多了抢反弹别真信"],
+    "mentioned_stocks": ["江淮汽车", "华为", "金麒麟"]
+  },
+  {
+    "index": 36,
+    "summary": "大盘走势平稳但实际上是稳稳地沉，不跟外围涨只跟跌",
+    "sentiment": "negative",
+    "key_opinions": ["没有大起大落看似稳实则沉", "外网涨我们港湾不跟", "3650从屠宰场变成港湾"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "剑桥科技突然涨停，光通信板块逆市走强，小盘股领涨",
+    "sentiment": "positive",
+    "key_opinions": ["光通信逆市走强小盘先涨停", "跌出性价比后反弹", "破板又回封今日很硬"],
+    "mentioned_stocks": ["剑桥科技"]
+  },
+  {
+    "index": 38,
+    "summary": "莱美药业趋势向上发车，沿均线做T利润可观",
+    "sentiment": "positive",
+    "key_opinions": ["20日线反弹强沿5日10日线走", "美股Moderna映射研究癌症", "远离五日线卖靠近十日二十日买"],
+    "mentioned_stocks": ["莱美药业", "澳洋健康", "Moderna"]
+  },
+  {
+    "index": 39,
+    "summary": "大盘缩量跳水，拉银行和科技都拉不动，筹码结构恶化",
+    "sentiment": "negative",
+    "key_opinions": ["科技筹码结构烂完难复刻6月行情", "缩量硬拉大屁股拉不动", "拉证券还有的救"],
+    "mentioned_stocks": ["银行", "科技", "证券"]
+  },
+  {
+    "index": 40,
+    "summary": "机器人板块大涨进入牛市走势，主力以机器人为爆款带动情绪",
+    "sentiment": "positive",
+    "key_opinions": ["底部起来平均涨幅30%以上宇树翻倍", "炒题材别投入太多感情", "要信早信现在是阶段"],
+    "mentioned_stocks": ["宇树科技", "机器人"]
+  },
+  {
+    "index": 41,
+    "summary": "光通信连涨三天，抱团回暖但上方抛压仍重，踏空者无奈",
+    "sentiment": "mixed",
+    "key_opinions": ["微软发力利好光通信", "大票大单硬顶涨停难", "上周抄底被冷嘲现在证明抄对了"],
+    "mentioned_stocks": ["光通信", "东山精密"]
+  },
+  {
+    "index": 42,
+    "summary": "A股完全看外围脸色，跟跌不跟涨，独立行情只看跌",
+    "sentiment": "negative",
+    "key_opinions": ["外围爆拉我跳水跟跌不跟涨", "只看一半只跟跌", "辣鸡市场只看垃圾桶颜色"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "中钨高新涨停反弹，持仓者盼回本，有人卖飞后后悔",
+    "sentiment": "positive",
+    "key_opinions": ["守得云开见月明终于反弹", "63成本到60以上才算回本", "今天刚卖就涨停很郁闷"],
+    "mentioned_stocks": ["中钨高新"]
+  },
+  {
+    "index": 44,
+    "summary": "光通信吸血其他板块，实为银行拉爆全场，争议资金流向",
+    "sentiment": "negative",
+    "key_opinions": ["电池光伏猪肉传媒被光吸干", "银行成交量不大不算吸血", "机器人10点半后也在拉升"],
+    "mentioned_stocks": ["东山精密", "银行", "光伏", "机器人"]
+  }
+]
+```
