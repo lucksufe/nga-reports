@@ -1,0 +1,347 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "调侃李大霄暗示3700点该跑路，用图片和玩笑暗示大盘见顶",
+    "sentiment": "negative",
+    "key_opinions": ["大盘可能到3700附近见顶", "用荒诞图片暗示行情反转", "调侃性质居多无实质分析"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "满仓中金公司求证券板块走势分析，被回复证券难看懂",
+    "sentiment": "mixed",
+    "key_opinions": ["证券是工具人板块难以评估", "证券不如有色煤炭", "合并后需磨合一两个月"],
+    "mentioned_stocks": ["中金公司"]
+  },
+  {
+    "index": 3,
+    "summary": "阿里巴巴又暴跌，用图片展示下跌行情",
+    "sentiment": "negative",
+    "key_opinions": ["阿里持续暴跌", "港股科技股承压"],
+    "mentioned_stocks": ["阿里巴巴"]
+  },
+  {
+    "index": 4,
+    "summary": "悟道式总结：市场本质是割散户，散户出路是炒妖炒小",
+    "sentiment": "negative",
+    "key_opinions": ["市场本质是割韭菜", "散户应炒妖股小票吃一口就跑", "对A股规则失望透顶"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "亏损加剧，用户绝望，被质疑追高和没吃到反弹",
+    "sentiment": "negative",
+    "key_opinions": ["市场令人绝望", "追高被套", "反弹没把握住"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "上午涨下午跌的过山车行情，尾盘做T割韭菜套路",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘拉小钩子骗散户", "明天低开再杀一波", "做T资金成本已到3000点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "进二退一尚可接受，但被回复可能演变成进一退一万年3000",
+    "sentiment": "mixed",
+    "key_opinions": ["进二退一可以接受", "可能演变为万年3000", "明天可能进二退二"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "反弹已到尾声？分歧大：有人预测科创板跳水，有人继续加仓",
+    "sentiment": "mixed",
+    "key_opinions": ["反弹差不多结束科创板要跳水", "大家等跳水反而不跳", "有人反向加仓赌继续涨"],
+    "mentioned_stocks": ["科创板"]
+  },
+  {
+    "index": 9,
+    "summary": "建议买保险工具股躺平等国家队拉升，认为能跑赢散户",
+    "sentiment": "mixed",
+    "key_opinions": ["买保险工具股躺平", "等国家队拉升", "有望跑赢大部分散户"],
+    "mentioned_stocks": ["中国人寿"]
+  },
+  {
+    "index": 10,
+    "summary": "涨两天又回落，感慨A股就是A字走势不变",
+    "sentiment": "negative",
+    "key_opinions": ["A股就是A字回落", "涨了两天又跌回原形"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "讨论持有英伟达股份是否慌张，提及老黄去留风险",
+    "sentiment": "mixed",
+    "key_opinions": ["持有英伟达面临老黄去留不确定性", "建议买put对冲保护", "部分人看好当前价位"],
+    "mentioned_stocks": ["英伟达", "海力士"]
+  },
+  {
+    "index": 12,
+    "summary": "统计牛市亏损：有人亏15%，有人亏70%，可能全仓宇树",
+    "sentiment": "negative",
+    "key_opinions": ["牛市仍亏损本金15%", "有人亏70%惨烈", "全仓追高导致巨亏"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 13,
+    "summary": "紫金矿业跌回26元是否是买入机会，多人认为25-26可接",
+    "sentiment": "mixed",
+    "key_opinions": ["26以下可以接盘买入", "12月加息黄金还有下跌", "短线不如买小盘黄金股"],
+    "mentioned_stocks": ["紫金矿业", "山金国际"]
+  },
+  {
+    "index": 14,
+    "summary": "异动规则修改传闻引热议，认为只管涨不管跌限制短线",
+    "sentiment": "negative",
+    "key_opinions": ["修改异动规则打击短线炒作", "只管涨不管跌不公平", "监管随意性强无明确规则"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "光模块早盘冲高被套，旭创等被套百亿，利空小作文压制",
+    "sentiment": "negative",
+    "key_opinions": ["早盘追光模块被挂山顶", "美众议院限制光模块利空", "英伟达风险拖累光模块"],
+    "mentioned_stocks": ["中际旭创", "新易盛", "东山精密"]
+  },
+  {
+    "index": 16,
+    "summary": "调侃某人周四账户必绿的因果律，感叹知行合一难",
+    "sentiment": "negative",
+    "key_opinions": ["周四行情账户必绿", "上午该跑没跑", "知行合一太难做到"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "南方东西精选基金走势稳健，港股美股分散抗跌",
+    "sentiment": "positive",
+    "key_opinions": ["港股美股分散配置抗跌", "联想H高抛后腰斩验证眼光", "港股通优质标的"],
+    "mentioned_stocks": ["南方东西精选", "南方亚洲科技股息", "南方港日现金流", "联想H"]
+  },
+  {
+    "index": 18,
+    "summary": "尾盘想抄底但被劝阻，黄金坑说法被质疑",
+    "sentiment": "mixed",
+    "key_opinions": ["大跌想抄底被劝谨慎", "黄金坑说法被质疑", "抄底仍有被套风险"],
+    "mentioned_stocks": ["红利ETF"]
+  },
+  {
+    "index": 19,
+    "summary": "感慨必须每天看盘，重现A股起伏波动风采",
+    "sentiment": "mixed",
+    "key_opinions": ["A股波动太刺激不能不看", "重现大涨大跌风采"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "预计光模块还能弹20-30%，但不赌了怕出幺蛾子",
+    "sentiment": "mixed",
+    "key_opinions": ["光模块预计还能涨20-30%", "但外部风险太多不赌了", "踏空好过亏钱"],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 21,
+    "summary": "感谢国家队拉升，调侃连韩国股市都被带动",
+    "sentiment": "positive",
+    "key_opinions": ["国家队拉升值得感谢", "韩国股市也被带动上涨", "持有红利股受益"],
+    "mentioned_stocks": ["红利股"]
+  },
+  {
+    "index": 22,
+    "summary": "操盘手钓鱼式割韭菜：昨天诱多今天拉高出货",
+    "sentiment": "negative",
+    "key_opinions": ["主力钓鱼式拉高出货", "放量上涨仍被砸", "缩量涨放量涨都不行"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "郭明錤称英伟达需去黄仁勋化，被质疑分析师跟风炒作",
+    "sentiment": "mixed",
+    "key_opinions": ["英伟达离不开黄仁勋", "分析师跟风看涨看跌", "政治因素可能影响去留"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 24,
+    "summary": "本月游戏板块表现不错，小票赚钱大票不行",
+    "sentiment": "positive",
+    "key_opinions": ["游戏板块本月表现不错", "买小票赚麻了大票吃屎", "世纪华通在底部"],
+    "mentioned_stocks": ["世纪华通"]
+  },
+  {
+    "index": 25,
+    "summary": "调侃黄仁勋顶着中美压力卖显卡给中国，好老板",
+    "sentiment": "mixed",
+    "key_opinions": ["黄仁勋努力向中国卖卡", "中美双方都有阻力", "港有H200等待进入但海关不放"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论黄仁勋不可替代性，类比乔布斯对苹果的重要性",
+    "sentiment": "mixed",
+    "key_opinions": ["黄仁勋是超级复合型人才", "换人会让英伟达优势大减", "政治因素可能干预人事"],
+    "mentioned_stocks": ["英伟达", "苹果"]
+  },
+  {
+    "index": 27,
+    "summary": "CPO海外链出事则全市场死，是本轮结构牛主线",
+    "sentiment": "negative",
+    "key_opinions": ["CPO海外链是结构牛主线", "海外链出事所有板块全死", "没业绩的更该跌"],
+    "mentioned_stocks": ["CPO"]
+  },
+  {
+    "index": 28,
+    "summary": "求某短线高手出书，但被质疑开挂和后台数据作假",
+    "sentiment": "mixed",
+    "key_opinions": ["短线操作手法被膜拜", "可能是有权限画线操作", "开挂才能赢的言论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "昨天T出光模块以为会回撤，结果上午涨下午跌两头打脸",
+    "sentiment": "negative",
+    "key_opinions": ["T光模块失败两头挨打", "预判回撤方向出错", "行情难以把握"],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 30,
+    "summary": "上午10票全红转眼8票绿，一来一回亏3万",
+    "sentiment": "negative",
+    "key_opinions": ["高开全部翻绿亏损3万", "熊市高开就跑是组训", "涨亏交替令人崩溃"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "大霄喊话救港股后恒科又跌，阿里表现差",
+    "sentiment": "negative",
+    "key_opinions": ["恒生科技持续下跌", "阿里走势令人心寒", "港股受加息和IPO影响"],
+    "mentioned_stocks": ["阿里巴巴", "腾讯", "恒生科技指数"]
+  },
+  {
+    "index": 32,
+    "summary": "报喜鸟股票K线走成心电图式震荡",
+    "sentiment": "mixed",
+    "key_opinions": ["K线走势如心电图震荡", "盘面波动诡异"],
+    "mentioned_stocks": ["报喜鸟"]
+  },
+  {
+    "index": 33,
+    "summary": "中际旭创早盘拉升为出货套路，机构拉高出货",
+    "sentiment": "negative",
+    "key_opinions": ["早盘拉升专门套人出货", "英伟达不确定性引发避险", "机构拉高出货老套路"],
+    "mentioned_stocks": ["中际旭创", "英伟达"]
+  },
+  {
+    "index": 34,
+    "summary": "小作文影响行情混乱，上午拉科技下午拉军工福建",
+    "sentiment": "negative",
+    "key_opinions": ["小作文影响亚太股市波动", "拉高让散户FOMO再出货", "中际绑架市场情绪"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 35,
+    "summary": "熟悉的操盘手法再现：开盘拉升逼空再砸盘",
+    "sentiment": "negative",
+    "key_opinions": ["开盘拉升逼空再砸盘割韭菜", "尾盘拉回来骗散户不走", "科技短期跌不下去但风险大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "英伟达止跌但中际旭创反而大跌，追高被套",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达止跌中际却大跌", "追中际当天亏10%", "两者走势关联被质疑"],
+    "mentioned_stocks": ["中际旭创", "英伟达"]
+  },
+  {
+    "index": 37,
+    "summary": "腾讯否认裁员50%，但被调侃反而像证实了",
+    "sentiment": "mixed",
+    "key_opinions": ["腾讯否认大规模裁员", "否认反而像证实裁员", "实际可能裁更多或更少"],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 38,
+    "summary": "预计反弹结束回3500，可能明天大阳反转",
+    "sentiment": "negative",
+    "key_opinions": ["反弹结束回3500点", "再不跑又要被割", "明天可能大阳反转"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "上午红下午绿的反转行情，感慨A股一如既往",
+    "sentiment": "negative",
+    "key_opinions": ["上午红下午绿典型反转", "A股风格不变令人无奈", "持有股票过山车体验"],
+    "mentioned_stocks": ["九阳股份", "云南白药"]
+  },
+  {
+    "index": 40,
+    "summary": "九阳股份连续六阳控异动，可能起飞也可能A杀",
+    "sentiment": "mixed",
+    "key_opinions": ["连续六阳控异动等待突破", "控异动结束可能骗炮A杀", "涨太多资金不敢拉"],
+    "mentioned_stocks": ["九阳股份", "航天发展"]
+  },
+  {
+    "index": 41,
+    "summary": "扛三个月卖了又追回的痛苦操作，微死心态",
+    "sentiment": "negative",
+    "key_opinions": ["扛三个月卖了又追回", "追涨杀跌反复操作", "心态接近崩溃"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "两则小作文：监管核查海外链风险+改短线异动规则",
+    "sentiment": "negative",
+    "key_opinions": ["监管核查海外链AI风险敞口", "修改绕异动规则打击连板", "两条路全堵散户受苦"],
+    "mentioned_stocks": ["九阳股份", "光模块"]
+  },
+  {
+    "index": 43,
+    "summary": "电池板块震荡一周，下周固态会议可埋伏",
+    "sentiment": "positive",
+    "key_opinions": ["电池超跌震荡可埋伏", "下周固态会议是催化", "ETF分散风险"],
+    "mentioned_stocks": ["电池ETF"]
+  },
+  {
+    "index": 44,
+    "summary": "上午追高被骗，4000+只股票跳水套牢",
+    "sentiment": "negative",
+    "key_opinions": ["上午追高被套", "4700只股票下跌", "高开必然套人"],
+    "mentioned_stocks": ["科创50", "润和软件", "有研新材", "阿里巴巴"]
+  },
+  {
+    "index": 45,
+    "summary": "猜测下午会暴跌跳水，但多数人不信有反弹",
+    "sentiment": "negative",
+    "key_opinions": ["放量下跌后难以反弹", "下午可能继续跳水", "能横住就算胜利"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "下午砸盘原因：财务造假核查消息+中际强行出货",
+    "sentiment": "negative",
+    "key_opinions": ["财务造假核查引发恐慌砸盘", "中际资金强行出货带崩市场", "99%企业都不干净"],
+    "mentioned_stocks": ["五粮液", "中际旭创", "紫金矿业"]
+  },
+  {
+    "index": 47,
+    "summary": "突然跳水原因：日韩台湾全跳水，A股跟跌",
+    "sentiment": "negative",
+    "key_opinions": ["亚太股市集体跳水带动A股", "韩国跳水有韩国因子", "等晚上美股反应决定方向"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "主播喊倒车接人被吐槽，多为炒股民不炒股",
+    "sentiment": "negative",
+    "key_opinions": ["主播喊上车可能是被套了", "很多主播炒股民不炒股", "看主播评股当听相声"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "官方措辞全是空话：完善、增强、引导等词被逐字嘲讽",
+    "sentiment": "negative",
+    "key_opinions": ["官方政策措辞全是空话", "平稳下跌也算平稳运行", "满仓热泪盈眶支持被嘲"],
+    "mentioned_stocks": []
+  }
+]
+```
