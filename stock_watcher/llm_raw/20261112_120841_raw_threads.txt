@@ -1,0 +1,326 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "腾讯否认裁员50%传闻，网友反讽调侃，认为辟谣反而像证实了裁员消息",
+    "sentiment": "negative",
+    "key_opinions": ["辟谣反而让人觉得更真", "网友讽刺实际裁员比例更高", "信噪比低的传闻难辨真假"],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 2,
+    "summary": "英伟达因管理层动荡大幅下跌，讨论是否为黄金坑，PE估值低但核心人物黄仁勋可能离任带来风险",
+    "sentiment": "mixed",
+    "key_opinions": ["估值已到12-15倍PE极具吸引力", "若黄仁勋离任则基本面可能巨变", "部分人想抄底但认为风险很大"],
+    "mentioned_stocks": ["英伟达", "NVIDIA"]
+  },
+  {
+    "index": 3,
+    "summary": "投资者转投银行股避险，认为英伟达事件本质是美国政治博弈，A股受牵连需回避",
+    "sentiment": "mixed",
+    "key_opinions": ["英伟达事件是美国政治内斗", "银行股当前也没有好的买点", "选择避险回避风头"],
+    "mentioned_stocks": ["银行股", "英伟达"]
+  },
+  {
+    "index": 4,
+    "summary": "东山精密大涨后回落，有人卖飞有人想抄底，股价短期波动剧烈",
+    "sentiment": "mixed",
+    "key_opinions": ["短期涨幅过大需要回调", "有人卖飞后想再接回", "拉上去概率较大但不宜追高"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 5,
+    "summary": "国产半导体链领涨时力度不如海外链，通富微电涨停后炸板，板块分化明显",
+    "sentiment": "negative",
+    "key_opinions": ["国产链前期跌幅比海外链小反弹弱", "通富微电炸板说明主力在出货", "国产链还有进一步下跌空间"],
+    "mentioned_stocks": ["通富微电", "中际旭创"]
+  },
+  {
+    "index": 6,
+    "summary": "短线投机云南猪业，蹭热点摸一把就走，属于纯赌博行为",
+    "sentiment": "negative",
+    "key_opinions": ["短线摸一把就走的投机心态", "风险极高可能被套", "与光智科技关联炒作"],
+    "mentioned_stocks": ["云南猪业", "光智科技"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论下午大盘走势，空头认为放量下跌是出货，多头期待午后跳涨",
+    "sentiment": "negative",
+    "key_opinions": ["放量下跌更可能是出货而非蹲起", "下午横住就算胜利", "不少人心态悲观认为会跳水"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 8,
+    "summary": "调侃马斯克可能雇佣被英伟达赶下台的黄仁勋，炒SpaceX概念",
+    "sentiment": "mixed",
+    "key_opinions": ["黄仁勋若离任可能加入SpaceX", "也可能是纯炒作题材", "马斯克本身就是市值管理高手"],
+    "mentioned_stocks": ["SpaceX", "英伟达", "寒武纪"]
+  },
+  {
+    "index": 9,
+    "summary": "调侃A股每周四表现不如美股（久留美），讨论能否战胜美股走势",
+    "sentiment": "negative",
+    "key_opinions": ["A股周四经常出现跳水", "虽偶尔反弹但隔日补跌", "情绪化讨论为主无实质分析"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论A股周四表现，部分板块上涨但题材股走弱，科技与题材分化",
+    "sentiment": "mixed",
+    "key_opinions": ["科技和半导体今日表现尚可", "题材股如航天创新药走弱", "下午可能再度跳水"],
+    "mentioned_stocks": ["科创50", "创业板"]
+  },
+  {
+    "index": 11,
+    "summary": "黄仁勋被曝向被制裁学校售卖芯片，涉及政治博弈和贸易禁令问题",
+    "sentiment": "negative",
+    "key_opinions": ["违规向被制裁实体售芯片性质严重", "可能是民主党借机打压特朗普AI政绩", "灰色渠道走私芯片本就普遍"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 12,
+    "summary": "药明康德波段操作体验好，做T容易获利，业绩硬但需关注减持风险",
+    "sentiment": "positive",
+    "key_opinions": ["药明做T体验好高开走深水梭", "业绩硬适合波段操作", "最大风险是李革减持"],
+    "mentioned_stocks": ["药明康德"]
+  },
+  {
+    "index": 13,
+    "summary": "抄底成功后担忧跳水，市场对反弹持续性缺乏信心",
+    "sentiment": "negative",
+    "key_opinions": ["抄底后出现跳水被套", "整体市场信心不足", "讽刺感强回本无望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论算力板块前景，有人看好算力+电力设备布局，但多数认为算力今日表现极差",
+    "sentiment": "negative",
+    "key_opinions": ["算力板块今日被重挫", "纯算力不如算力+电力设备组合", "龙头利通协创拿卡渠道有风险"],
+    "mentioned_stocks": ["利通电子", "协创数据", "润建股份"]
+  },
+  {
+    "index": 15,
+    "summary": "但斌公开表达对黄仁勋的感激和对AI十年牛市的坚定信念",
+    "sentiment": "positive",
+    "key_opinions": ["不希望黄仁勋被罢免", "坚信AI是十年以上大牛市", "对英伟达核心人物高度认可"],
+    "mentioned_stocks": ["英伟达", "寒武纪"]
+  },
+  {
+    "index": 16,
+    "summary": "寒武纪因英伟达利空消息暴涨爆天量，炒作国产替代情绪",
+    "sentiment": "mixed",
+    "key_opinions": ["国产替代情绪炒作一波流", "寒武纪爆天量可能在出货", "英伟达若倒下替代品短期受益"],
+    "mentioned_stocks": ["寒武纪", "英伟达", "工商银行", "AMD"]
+  },
+  {
+    "index": 17,
+    "summary": "光模块板块高开低走被套，美众议院可能限制中国光模块，利空持续",
+    "sentiment": "negative",
+    "key_opinions": ["早上追高光模块被套牢", "美国可能对中国光模块设限", "英伟达风险未消不宜追高"],
+    "mentioned_stocks": ["中际旭创", "东山精密"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论下周APEC会议对A股的影响，预期窗口指导下不会大涨大跌",
+    "sentiment": "mixed",
+    "key_opinions": ["大会期间窗口指导控制波动", "历史上大会期间反而容易大跌", "深圳本地股已炒作过一波"],
+    "mentioned_stocks": ["深物业", "深中华", "深圳华强", "华阳集团"]
+  },
+  {
+    "index": 19,
+    "summary": "科技股和通信板块交替领涨，跌幅远超涨幅，投资者深套难解",
+    "sentiment": "negative",
+    "key_opinions": ["跌起来如瀑布涨起来如抽丝", "两天涨幅不如一天跌幅大", "板块轮动但整体偏弱"],
+    "mentioned_stocks": ["通信板块"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论控异动规则被游资利用，可借控异动名义出货，反而利好短线游资",
+    "sentiment": "mixed",
+    "key_opinions": ["控异动成了游资出货的借口", "短线情绪好时溢价明显", "分歧转一致是追板好时机"],
+    "mentioned_stocks": ["大业股份", "海洋王", "青岛食品", "东方海洋"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论市场下跌原因，认为是短线获利盘出逃而非国家队出货",
+    "sentiment": "negative",
+    "key_opinions": ["冲高回落是典型机构玩法", "ETF成交量显示国家队未动", "短线涨多回调属正常"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "通富微电被视为做多AMD做空英伟达的标的，涨停后炸板，风险巨大",
+    "sentiment": "mixed",
+    "key_opinions": ["通富等价于做多AMD做空英伟达", "涨停后炸板换手率高风险大", "结果取决于英伟达董事会决议"],
+    "mentioned_stocks": ["通富微电", "AMD", "英伟达"]
+  },
+  {
+    "index": 23,
+    "summary": "调侃某股票出现顺子顶和谐音数字，属于技术面趣味性讨论",
+    "sentiment": "mixed",
+    "key_opinions": ["顺子顶是短期见顶信号", "涨幅谐音数字引发调侃", "技术面娱乐性讨论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "半导体板块冲高回落，担忧下午翻绿，通富炸板预示不妙",
+    "sentiment": "negative",
+    "key_opinions": ["冲高回落骗人追高风险大", "通富炸板预示板块走弱", "先减仓规避风险"],
+    "mentioned_stocks": ["中际旭创", "通富微电", "江丰电子"]
+  },
+  {
+    "index": 25,
+    "summary": "调侃每周四（久留美）如同恐怖故事，A股周四表现持续低迷",
+    "sentiment": "negative",
+    "key_opinions": ["周四A股表现令人恐惧", "上周四惜败后隔日暴跌", "对周四周五缺乏信心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "紫金矿业跌至26元附近，讨论是否买入机会，12月加息或使黄金再跌",
+    "sentiment": "mixed",
+    "key_opinions": ["26以下可以考虑接盘", "12月加息黄金还有下跌空间", "短线不如买小盘黄金股"],
+    "mentioned_stocks": ["紫金矿业", "山金国际"]
+  },
+  {
+    "index": 27,
+    "summary": "有盈利应及时跑路，A股对格局者不友好，美股走弱需回避",
+    "sentiment": "negative",
+    "key_opinions": ["A股会暴打每个格局的人", "有盈利及时落袋为安", "美股走弱明天再观望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "大幅下跌后缓慢回本，涨幅远不及跌幅，只能逢低补仓慢慢回血",
+    "sentiment": "negative",
+    "key_opinions": ["跌50%需要涨100%才能回本", "不敢做T只能逢低补仓", "回本之路漫长艰难"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "九阳股份连续六阳控异动，走势类似此前算力股骗炮套路，风险积累",
+    "sentiment": "mixed",
+    "key_opinions": ["控异动结束后可能天地板", "已涨太多容易被资金抛弃", "类似航天发展走势套路"],
+    "mentioned_stocks": ["九阳股份", "航天发展"]
+  },
+  {
+    "index": 30,
+    "summary": "紫金矿业持续阴跌，投资者没减仓反而加仓被套，考虑做T降低成本",
+    "sentiment": "negative",
+    "key_opinions": ["紫金每天低走不适合加仓", "长拿底仓做T应对", "黄金股还有下跌空间"],
+    "mentioned_stocks": ["紫金矿业", "中信特钢", "赤峰黄金"]
+  },
+  {
+    "index": 31,
+    "summary": "科技拉高吸走全市场资金后出货，泥沙俱下，市场节奏被操控",
+    "sentiment": "negative",
+    "key_opinions": ["拉科技吸全场后跑路致全线下跌", "追科技的散户被连根拔起", "市场每天如此循环难有行情"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "讨论放量横盘是倒车接人还是诱多陷阱，核心取决于英伟达事件走向",
+    "sentiment": "mixed",
+    "key_opinions": ["收盘涨是接人跌是鱼钩", "关键看黄仁勋是否被罢免", "资金因英伟达不确定性避险"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 33,
+    "summary": "汇金持续卖出但创业板指数上涨，被认为是在甩卖不看好的持仓",
+    "sentiment": "mixed",
+    "key_opinions": ["汇金卖出但指数上涨是好事", "国家队卖出不等于不看好", "散户对国家队行为理解有误"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 34,
+    "summary": "求推荐年化2.5%以上的保本理财，现实是国债仅1.6-1.8%难达预期",
+    "sentiment": "negative",
+    "key_opinions": ["年化2.5%保本基本不可能", "存款和国债只有1.6-1.8%", "可考虑打新理财或券商集合计划"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "有人认为反弹已到位科创板将下跌，另一派认为行情刚开始值得加仓",
+    "sentiment": "mixed",
+    "key_opinions": ["反弹可能已到尾声需谨慎", "也有人认为刚开始该加仓", "市场分歧大各自表态"],
+    "mentioned_stocks": ["科创板"]
+  },
+  {
+    "index": 36,
+    "summary": "发图暗示英伟达可能重蹈历史覆辙难以复苏，引发争论",
+    "sentiment": "negative",
+    "key_opinions": ["历史图表暗示英伟达难复苏", "但也有人说这次真不一样", "图片未能显示引发调侃"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 37,
+    "summary": "中际旭创出现顺子顶形态，谐音梗调侃",
+    "sentiment": "mixed",
+    "key_opinions": ["顺子顶可能是短期见顶信号", "同花顺谐音梗引发调侃", "技术面趣味讨论"],
+    "mentioned_stocks": ["中际旭创", "同花顺"]
+  },
+  {
+    "index": 38,
+    "summary": "红利股集体下跌，科技股上涨形成跷跷板，讨论是否加仓红利",
+    "sentiment": "mixed",
+    "key_opinions": ["红利跌是加仓好机会", "科技风格切换红利需减仓", "红利拥挤度已高不宜追"],
+    "mentioned_stocks": ["红利基金"]
+  },
+  {
+    "index": 39,
+    "summary": "马斯克表示欢迎黄仁勋加入，网友认为英伟达管理层动荡大局已定",
+    "sentiment": "mixed",
+    "key_opinions": ["马斯克表态暗示黄仁勋将离任", "共和党势力抱团取暖", "调侃黄仁勋应投共或回大陆创业"],
+    "mentioned_stocks": ["英伟达", "SpaceX", "寒武纪"]
+  },
+  {
+    "index": 40,
+    "summary": "东山精密多次被套如锁妖塔，有人止损有人抄底，公司回购注销股份",
+    "sentiment": "negative",
+    "key_opinions": ["东山精密反复被套难脱身", "注销回购股份是中性利好", "短线进出节奏难把握"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 41,
+    "summary": "李大霄喊话先救港股后恒生科技再度下跌，港股持续低迷",
+    "sentiment": "negative",
+    "key_opinions": ["恒生科技持续走弱难救", "12月可能加息压制港股", "定投腾讯一年多仍亏损"],
+    "mentioned_stocks": ["恒生科技指数", "腾讯", "阿里巴巴"]
+  },
+  {
+    "index": 42,
+    "summary": "金安国纪被套牢，跳水时追入失败，东山精密卖飞后后悔",
+    "sentiment": "negative",
+    "key_opinions": ["跳水时追入被套是典型错误", "心态和技术都有问题需要调整", "东山精密卖飞后又涨"],
+    "mentioned_stocks": ["金安国纪", "东山精密"]
+  },
+  {
+    "index": 43,
+    "summary": "因AI帮学习而全力押注AI股票，被网友劝阻，另有人分享AI投资亏损经历",
+    "sentiment": "negative",
+    "key_opinions": ["AI好用不等于AI股票会涨", "买入AI概念股被套止损", "长期看好AI但短期波动大"],
+    "mentioned_stocks": ["人工智能ETF", "腾讯"]
+  },
+  {
+    "index": 44,
+    "summary": "中钨高新反弹表现不错，有资金开始关注，涨幅可观",
+    "sentiment": "positive",
+    "key_opinions": ["中钨高新反弹力度不错可能到49", "有人卖飞后后悔", "短线反弹值得关注"],
+    "mentioned_stocks": ["中钨高新", "东山精密"]
+  },
+  {
+    "index": 45,
+    "summary": "大盘放量滞涨，上证受阻3701点，科技股抛压增大，市场方向不明",
+    "sentiment": "negative",
+    "key_opinions": ["放量滞涨是不妙信号", "上证3701压力位难以突破", "增量资金不足需磨盘"],
+    "mentioned_stocks": ["上证指数", "科创50"]
+  },
+  {
+    "index": 46,
+    "summary": "短线频繁换股追热点被套，光伏航天等题材买入即跌，操作杂乱",
+    "sentiment": "negative",
+    "key_opinions": ["频繁换股追热点容易被套", "光伏航天买入后均亏损", "短线操作需要更好纪律"],
+    "mentioned_stocks": ["阳光能源", "中国卫星", "信维通信", "西部材料", "金刚光伏", "航天动力", "顺灏股份"]
+  }
+]
+```
