@@ -1,0 +1,547 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论黄仁勋出轨事件对东西方AI竞赛的影响，多数回复持怀疑态度",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "有人认为这是美国打压英伟达的转折点",
+      "多数人认为出轨事件与AI竞赛无关",
+      "股价下跌但生产线未停"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 2,
+    "summary": "抱怨买中际旭创受英伟达黄仁勋负面新闻影响，海外链今日承压",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中际旭创暗盘收回昨夜涨幅预计平开",
+      "市场担忧海外链今日崩溃",
+      "有人认为影响不大"
+    ],
+    "mentioned_stocks": ["中际旭创", "胜宏科技"]
+  },
+  {
+    "index": 3,
+    "summary": "美股盘前大涨引发对周四高开低走的担忧，讨论久留美魔咒",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "美股太好反而高开太多容易兑现",
+      "庄家可能借外围利好出货",
+      "高开必低走别追高"
+    ],
+    "mentioned_stocks": ["上交所", "同花顺"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论日本AV男优年龄偏大的原因，与股市关联较弱",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "男优收入低且工作环境不轻松",
+      "优秀男模价格更贵难招",
+      "利好老登消费和有色板块"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "担忧黄仁勋新闻影响机器人板块持仓，讨论买入时机",
+    "sentiment": "negative",
+    "key_opinions": [
+      "昨天刚买入今天看到新闻恐慌",
+      "机器人今日有分歧预期",
+      "追高买入风险大恐被埋"
+    ],
+    "mentioned_stocks": ["大业股份"]
+  },
+  {
+    "index": 6,
+    "summary": "推荐创新医疗股票，脑机接口概念标的，讨论买卖时机",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "创新医疗是主板脑机接口核心标的",
+      "下周脑机接口大会有催化",
+      "涨了4倍后风险较大，有人精准逃顶"
+    ],
+    "mentioned_stocks": ["创新医疗", "普利特"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论英伟达准备罢免黄仁勋的消息，多数人认为影响巨大",
+    "sentiment": "negative",
+    "key_opinions": [
+      "若罢免成功可清仓英伟达",
+      "认为是配合收割的政治操作",
+      "英伟达不行整个AI板块都需修复"
+    ],
+    "mentioned_stocks": ["英伟达", "AMD"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论黄仁勋向受制裁学校售芯片等丑闻，涉及中美博弈",
+    "sentiment": "negative",
+    "key_opinions": [
+      "向受制裁学校售芯片比出轨更严重",
+      "有观点认为这是民主党政治打压",
+      "灰色渠道走私芯片是公开秘密"
+    ],
+    "mentioned_stocks": ["英伟达", "华为"]
+  },
+  {
+    "index": 9,
+    "summary": "戏谑建议黄仁勋来中国建立东伟达，讨论英伟达股价暴跌",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "英伟达盘后创新低一个月跌33%",
+      "黄仁勋被政治牵扯成炮灰",
+      "认为杠杆已全部出清"
+    ],
+    "mentioned_stocks": ["英伟达", "胜宏科技", "5090"]
+  },
+  {
+    "index": 10,
+    "summary": "伯恩斯坦下调英伟达评级至与大盘持平，目标价200美元",
+    "sentiment": "negative",
+    "key_opinions": [
+      "伯恩斯坦下调英伟达评级",
+      "目标价设为200美元"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论英伟达换帅先例，类比乔布斯被苹果赶走的历史",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "乔布斯被苹果踢走过后又回归",
+      "英伟达技术迭代高度依赖黄仁勋",
+      "可能因国家安全原因被架空"
+    ],
+    "mentioned_stocks": ["英伟达", "苹果", "英特尔", "AMD"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论T+1制度是否保护散户，多数认为区别不大",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "黑天鹅与T+几关系不大，持仓过夜是关键",
+      "T+0也可能当天被套",
+      "大小资金差距不因交易制度改变"
+    ],
+    "mentioned_stocks": ["英伟达", "港股通"]
+  },
+  {
+    "index": 13,
+    "summary": "昨晚抄底英伟达今早遭罢免消息打击，感叹市场瞬间变天",
+    "sentiment": "negative",
+    "key_opinions": [
+      "罢免概率从16%飙到88%一天翻盘",
+      "不如买AMD规避政治风险",
+      "赌博性质投资愿赌服输"
+    ],
+    "mentioned_stocks": ["英伟达", "AMD"]
+  },
+  {
+    "index": 14,
+    "summary": "透露黄仁勋6月董事选举获99%赞成票，质疑罢免合理性",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "6月获99%赞成票说明股东支持",
+      "公司拗不过国家政治大手",
+      "两院易主后事态已变"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 15,
+    "summary": "纽约时报报道黄仁勋与女高管有染，英伟达准备罢免CEO",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黄仁勋与医疗保健副总裁有婚外情",
+      "英伟达盘后暴跌超4%甚至-9%",
+      "认为是民主党围剿AI产业链"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 16,
+    "summary": "抱怨药明系股票无论利好利空都下跌，恒瑞同样表现差",
+    "sentiment": "negative",
+    "key_opinions": [
+      "利好高开低走利空直接跌停",
+      "恒瑞比药明更惨",
+      "最近是震荡行情扛不住就跑"
+    ],
+    "mentioned_stocks": ["药明康德", "恒瑞医药"]
+  },
+  {
+    "index": 17,
+    "summary": "英伟达盘后跌8%，海外链受黄仁勋个人问题连累",
+    "sentiment": "negative",
+    "key_opinions": [
+      "私生活问题不至于罢免但被持续挖掘",
+      "只有英伟达大跌其他AI硬件跌不多",
+      "美国有人想夺取英伟达或压制股市"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论国家队是否又在做T操作，市场波动大",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国家队5500亿做T增加成交量",
+      "昨日已开始减持",
+      "市场太癫了"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "讨论美股呈猴市特征，暴涨暴跌波动剧烈",
+    "sentiment": "negative",
+    "key_opinions": [
+      "指数每天上下2-3个点像妖股",
+      "暴涨暴跌不算牛市",
+      "自由市场没有涨跌停板"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论先导基电作为半导体龙头的强势表现，单边涨跌明显",
+    "sentiment": "positive",
+    "key_opinions": [
+      "先导基电单边上涨下跌如捡钱",
+      "老庄长期驻守未撤离",
+      "7月后回高点甚至创新高"
+    ],
+    "mentioned_stocks": ["先导基电", "光智科技"]
+  },
+  {
+    "index": 21,
+    "summary": "伊朗宣布研发核潜艇，讨论对油价和地缘政治的影响",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "油价可能因伊朗消息再次拉升",
+      "多数人认为伊朗造核潜艇不现实",
+      "可能是放狠话嘴炮"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论韩国股市表现疲弱，美股存储大涨但韩股跟跌",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "韩股受英伟达盘后下跌拖累",
+      "亚太基本跟随美股盘后走势",
+      "存储板块没有把昨天涨幅跌完"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "纽约时报炒老黄恋情冷饭导致英伟达盘后大幅下跌",
+    "sentiment": "negative",
+    "key_opinions": [
+      "涨幅被完全回吐甚至倒贴",
+      "可能继续挖黄仁勋更多料",
+      "已考虑将黄仁勋踢出管理层"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 24,
+    "summary": "赌黄仁勋能否留任英伟达CEO，多数认为大概率下台",
+    "sentiment": "negative",
+    "key_opinions": [
+      "外网赔率显示11月13日辞职概率高",
+      "英伟达不能没有黄仁勋但政治大于经济",
+      "有人想抄底赌保下来再走"
+    ],
+    "mentioned_stocks": ["英伟达", "AMD"]
+  },
+  {
+    "index": 25,
+    "summary": "浙江宣传发文评论黄仁勋事件背后的美国AI焦虑",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "浙江宣传文章质量下降纯属喇叭",
+      "认为该话题与股市关联不大"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "早起看到美股大涨又见罢免新闻，心情过山车",
+    "sentiment": "negative",
+    "key_opinions": [
+      "董事会因政治因素而非经济利益决策",
+      "海外链担心低开",
+      "不罢免可能上听证被定性叛国"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论腰斩后回本困难的数学问题，跌50%需涨100%才能回本",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "腰斩需涨100%回本，亏损不对称",
+      "盲目出手不如踏空",
+      "大仓位配高股息小仓位打野"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "海外信托征税1200亿引发讨论，涉及富人资产转移问题",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "征税力度比IPO抽水还猛",
+      "相当于变相富人税和赎罪券",
+      "富人交税后海外资产合法化"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "讨论久留美周四更新能否打破魔咒对市场的影响",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "上周四已打破一次魔咒",
+      "本月魔咒砸的是美股",
+      "久留美关联黄仁勋事件"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "SpaceX尝试去英伟达化自行搭建计算集群，讨论可行性",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "SpaceX想直接买芯片自己干利好PCB",
+      "英伟达可能拒绝卖芯片给SpaceX",
+      "自研芯片进展不明朗"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 31,
+    "summary": "纳指跳空站稳200日均线，历史上多次触发新一轮上涨",
+    "sentiment": "positive",
+    "key_opinions": [
+      "纳指近两年跳空站稳200日线后均创新高",
+      "200日均线是美国市场共识",
+      "场内纳指溢价偏高"
+    ],
+    "mentioned_stocks": ["纳斯达克指数"]
+  },
+  {
+    "index": 32,
+    "summary": "英伟达盘后跌9%，讨论黄仁勋被罢免可能性及影响",
+    "sentiment": "negative",
+    "key_opinions": [
+      "资金已提前反应利空",
+      "不下台就继续挖料",
+      "若下台可能跌50%"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论每次反弹是否应该跑路，反思卖出科技股的决策",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "反弹跑路可能错过后续行情",
+      "短线操作吃一嘴就走保本金",
+      "进要早进跑要快跑"
+    ],
+    "mentioned_stocks": ["美光", "闪迪"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论限减持政策持续时间及对市场影响",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "11-12月限减持可落实",
+      "有大股东走4.99%合规减持漏洞",
+      "长期拖延积累解禁压力更大"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "美股尾盘跳水因黄仁勋新绯闻爆出，全市场震荡",
+    "sentiment": "negative",
+    "key_opinions": [
+      "黄仁勋与向他汇报的女高管有染",
+      "有人刻意组合拳搞黄仁勋",
+      "英伟达盘后跌2.6%进一步扩大"
+    ],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论AMD链和谷歌链在A股的投资机会",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "英伟达出事利好AMD和谷歌链",
+      "调侃黄仁勋出事苏妈受益"
+    ],
+    "mentioned_stocks": ["AMD"]
+  },
+  {
+    "index": 37,
+    "summary": "美股阳线反包前日阴线，AI硬件并未崩溃",
+    "sentiment": "positive",
+    "key_opinions": [
+      "利空已落地加上利好刺激",
+      "AI是美国唯一能创造价值的产业",
+      "后续波动剧烈多空双杀"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "周四到来的感慨，附图调侃市场",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "周四市场习惯性波动"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "踏空科技股反弹后焦虑失眠，讨论明天走势",
+    "sentiment": "negative",
+    "key_opinions": [
+      "做T没接回踏空美股暴涨",
+      "光模块明天有利空小作文可能低开",
+      "美股暴涨A股最多陪个高开"
+    ],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论光模块行情是反弹还是反转，多数认为仅是反弹",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "FCC限制未解除仅是缓和",
+      "反转需美国政策和capex明确利好",
+      "达子财报后走势决定反转与否"
+    ],
+    "mentioned_stocks": ["中际旭创", "新易盛"]
+  },
+  {
+    "index": 41,
+    "summary": "人民币升值压力大，港股汇率损失严重",
+    "sentiment": "negative",
+    "key_opinions": [
+      "港股汇率从高点损失约10%",
+      "贸易顺差大结汇压力推动升值",
+      "升值利空外贸企业"
+    ],
+    "mentioned_stocks": ["小米"]
+  },
+  {
+    "index": 42,
+    "summary": "美股账户套牢几天后快速回本，英伟达除外",
+    "sentiment": "positive",
+    "key_opinions": [
+      "美光海力士谷歌等已回本",
+      "英伟达例外仍未回本",
+      "此前下跌精准打到爆仓线后拉升"
+    ],
+    "mentioned_stocks": ["美光", "海力士", "谷歌", "英伟达", "中际旭创", "新易盛"]
+  },
+  {
+    "index": 43,
+    "summary": "基金涨幅150%后归零，批评频繁调仓和基金经理行为",
+    "sentiment": "negative",
+    "key_opinions": [
+      "基金换仓频繁导致收益归零",
+      "基金经理首先是销售员",
+      "部分基金只为挣管理费"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "纳指和油价同时上涨引发困惑，黄金成为唯一受损资产",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "市场各方各玩各的交易逻辑混乱",
+      "黄金被卖出补仓美股",
+      "黄金股ETF仍在腰斩区间"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "认为这波反弹是最后一波，之后将进入漫长下跌",
+    "sentiment": "negative",
+    "key_opinions": [
+      "反弹结束后漫长下跌",
+      "技术面看到27年大C浪",
+      "转型老登股避开科技"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "感谢微软带动市场反弹，但自身股价偏弱",
+    "sentiment": "positive",
+    "key_opinions": [
+      "微软带动全市场反弹",
+      "微软自身股价偏绿"
+    ],
+    "mentioned_stocks": ["微软"]
+  },
+  {
+    "index": 47,
+    "summary": "日内获利30个点，感慨扛过亏损才有盈利",
+    "sentiment": "positive",
+    "key_opinions": [
+      "抗过-30就有+30",
+      "短线交易波动巨大"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "纳指暴跌后快速修复，费半大涨利空落地利好大A",
+    "sentiment": "positive",
+    "key_opinions": [
+      "间谍门和加息利空已落地",
+      "费城半导体强势暴涨",
+      "恒科未跟涨引担忧"
+    ],
+    "mentioned_stocks": ["纳斯达克指数", "费城半导体"]
+  },
+  {
+    "index": 49,
+    "summary": "科技股讨论热度大降，持有者亏损严重不愿讨论",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技拿到现在不死也残",
+      "高开可能被机构凤队砸盘",
+      "科技只做反弹短线不做趋势"
+    ],
+    "mentioned_stocks": ["光模块"]
+  },
+  {
+    "index": 50,
+    "summary": "认为今天科技股右侧趋势确立，但多数人谨慎观望",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "科技筹码已出清可右侧买入",
+      "明天站稳5/10日线才是真右侧",
+      "高开低走风险大，两万亿才谈趋势"
+    ],
+    "mentioned_stocks": ["中际旭创", "光模块"]
+  }
+]
+```
