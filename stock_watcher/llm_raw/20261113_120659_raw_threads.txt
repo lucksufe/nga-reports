@@ -1,0 +1,338 @@
+[
+  {
+    "index": 1,
+    "summary": "并非所有科技都是假反弹，半导体趋势向上，CPO才是被套重灾区，不应以偏概全唱空科技",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体沿均线反弹趋势良好，不该和CPO混为一谈", "买CPO对手盘是机构而非国家队", "部分科技票已与易中天脱敏"],
+    "mentioned_stocks": ["CPO", "中际旭创", "新易盛", "天孚", "半导体", "588170"]
+  },
+  {
+    "index": 2,
+    "summary": "纳指与首尔指数跳水引发担忧，多数回帖持麻木或清仓态度",
+    "sentiment": "negative",
+    "key_opinions": ["外围跳水加剧悲观预期", "跌久已习惯，建议删软件或清仓", "外围不跳A股也照样跌"],
+    "mentioned_stocks": ["纳斯达克指数", "首尔指数"]
+  },
+  {
+    "index": 3,
+    "summary": "吐槽科技投资者爱幻想、自我催眠，将猜测固化为事实以扛住套牢",
+    "sentiment": "negative",
+    "key_opinions": ["科技持仓者靠幻想和心理暗示扛跌", "盈亏同源，不幻想也拿不住行情", "被套者都差不多，心态难扛"],
+    "mentioned_stocks": ["英伟达", "紫金矿业"]
+  },
+  {
+    "index": 4,
+    "summary": "短线复盘：九阳异动末日博弈关键节点，需关注伴生题材能否穿越",
+    "sentiment": "mixed",
+    "key_opinions": ["九阳异动最后一天是短线大节点", "最差情形高位股短线大退潮", "关注AI传媒、机器人、商业航天能否接班"],
+    "mentioned_stocks": ["九阳", "中际旭创", "航发"]
+  },
+  {
+    "index": 5,
+    "summary": "创业板再度大跌，科技普绿，讨论反弹是否结束及底部筑底时间",
+    "sentiment": "negative",
+    "key_opinions": ["除妖股外一片绿，科技难做", "参考2015年需横盘筑底才有反弹", "反弹也只是反弹，离反转很远"],
+    "mentioned_stocks": ["创业板", "妖股"]
+  },
+  {
+    "index": 6,
+    "summary": "国产战狼链也被砸下跌，缺乏业绩支撑，受海外链和获利盘拖累",
+    "sentiment": "negative",
+    "key_opinions": ["国家队赎回科创，战狼幻想破灭", "愿望美好但无业绩支撑", "获利盘多需要调整，是砸盘日"],
+    "mentioned_stocks": ["科创", "战狼链"]
+  },
+  {
+    "index": 7,
+    "summary": "黄仁勋离任后海外链前景存疑，讨论国产链能否接棒",
+    "sentiment": "mixed",
+    "key_opinions": ["新CEO可能对华强硬，海外链看不到未来", "国产链靠海外链辐射，难独善其身", "看好寒武纪、摩尔等国产芯片"],
+    "mentioned_stocks": ["中国长城", "寒武纪", "摩尔线程", "燧源科技"]
+  },
+  {
+    "index": 8,
+    "summary": "工商银行逼近前高，红利银行强势，科技资金回流银行避险",
+    "sentiment": "positive",
+    "key_opinions": ["红利银行根本跌不下来", "今年红利全靠银行支撑", "银行是科技的上游资金来源"],
+    "mentioned_stocks": ["工商银行", "招商银行"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论智选高股息指数编制质量，普遍认为不如红利低波等老牌指数",
+    "sentiment": "negative",
+    "key_opinions": ["该指数连六月跌幅都没修复，表现拉胯", "成分含地产链，分红可持续性存疑", "编制方法有问题，不如红利低波"],
+    "mentioned_stocks": ["智选高股息指数932305", "红利低波H30269", "中证红利000922", "好想你"]
+  },
+  {
+    "index": 10,
+    "summary": "大空头加仓京东称被低估，引发对海外投资者是否懂中国电商的质疑",
+    "sentiment": "mixed",
+    "key_opinions": ["质疑老外是否了解中国电商", "看好京东物流但不看好京东", "大空头做空英伟达获利颇丰"],
+    "mentioned_stocks": ["京东", "PayPal", "英伟达", "京东物流", "美光"]
+  },
+  {
+    "index": 11,
+    "summary": "韩国市场再度下跌拖累A股，预期下午继续下杀",
+    "sentiment": "negative",
+    "key_opinions": ["韩股下跌引发下午大逃杀担忧", "量化开机或致螺旋下杀", "建议关注纳指期货和油价"],
+    "mentioned_stocks": ["韩国股市", "纳斯达克指数"]
+  },
+  {
+    "index": 12,
+    "summary": "中信称英伟达高管变局中长期利好中国科技，被网友反讽质疑",
+    "sentiment": "negative",
+    "key_opinions": ["经典中长期向好话术被嘲讽", "中长期利好却万年三千点", "券商观点可信度受质疑"],
+    "mentioned_stocks": ["英伟达", "招商银行"]
+  },
+  {
+    "index": 13,
+    "summary": "恒科中概接近跌透进入价值区间，推荐定投中概互联，但需再震一年",
+    "sentiment": "mixed",
+    "key_opinions": ["恒科腰斩后进入价值吸筹区", "推荐中概互联定投，跌破历史低点止损", "跌透不等于要涨，还要震荡一年以上"],
+    "mentioned_stocks": ["恒生科技指数", "中概互联", "腾讯", "阿里巴巴", "美团", "快手", "小米"]
+  },
+  {
+    "index": 14,
+    "summary": "大盘上涨但个人持仓全绿，仅靠红利银行拉指数",
+    "sentiment": "negative",
+    "key_opinions": ["指数红但个股绿，赚钱效应差", "红利涨一个点上证才涨0.2", "银行单独拉指数托住大盘"],
+    "mentioned_stocks": ["红利", "银行", "上证指数"]
+  },
+  {
+    "index": 15,
+    "summary": "市场只能靠做T赚钱，不适合散户，楼主今年亏损30%空仓",
+    "sentiment": "negative",
+    "key_opinions": ["市场只适合做T不适合散户", "今年血亏30%", "已空仓离场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "国产战狼链随中芯跳水崩塌，与海外链同涨同跌难独善其身",
+    "sentiment": "negative",
+    "key_opinions": ["中芯翻绿，科创跳水，东升西落落空", "国产链与海外链是一棵树上的蚂蚱", "高开拉升是老套路出货"],
+    "mentioned_stocks": ["中芯国际", "科创50"]
+  },
+  {
+    "index": 17,
+    "summary": "CPO权重高开低走被骂，质疑高开出货的操盘手法",
+    "sentiment": "negative",
+    "key_opinions": ["高开集合竞价买入是送钱行为", "高开挖坑拉高出货套路明显", "公募被讽为公墓"],
+    "mentioned_stocks": ["中际旭创", "新易盛", "CPO"]
+  },
+  {
+    "index": 18,
+    "summary": "黄仁勋批评临时女CEO缺乏战略能力，引发对英伟达前景的担忧与性别偏见讨论",
+    "sentiment": "negative",
+    "key_opinions": ["科技公司失去前瞻性会走向衰落", "CFO出身掌舵科技公司前景堪忧", "临时CEO反对大额信贷担保计划"],
+    "mentioned_stocks": ["英伟达", "OpenAI"]
+  },
+  {
+    "index": 19,
+    "summary": "科技拉升被认为是出货手段，反弹屡被打断，散户套牢盘持续割肉",
+    "sentiment": "negative",
+    "key_opinions": ["科技每波反弹都被打断不超过三天", "拉升是给套牢盘止损跑路的机会", "做多者多为解套而非看多"],
+    "mentioned_stocks": ["科技板块", "中钨高新"]
+  },
+  {
+    "index": 20,
+    "summary": "预期易中天等公司发订单充足的澄清公告，但已不起作用",
+    "sentiment": "negative",
+    "key_opinions": ["公司例行发澄清公告稳信心", "公告已失效，市场不买账", "财报好也挡不住下跌"],
+    "mentioned_stocks": ["中际旭创", "新易盛", "天孚", "英业达"]
+  },
+  {
+    "index": 21,
+    "summary": "创业板指数被CPO等权重绑架，涨跌失真，建议换指数或空仓",
+    "sentiment": "negative",
+    "key_opinions": ["创业板被中际旭创等权重绑死", "科创50才是更好的选择", "宁德时代也在调整拖累指数"],
+    "mentioned_stocks": ["创业板", "中际旭创", "宁德时代", "科创50"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论国产芯片总龙头是中芯还是长鑫，多数看好中芯但受制于光刻机",
+    "sentiment": "mixed",
+    "key_opinions": ["中芯起来国产链才有希望", "寒武纪受限中芯产能，中芯受限光刻机", "长鑫存储周期性太强"],
+    "mentioned_stocks": ["中芯国际", "长鑫存储", "寒武纪", "张江高科"]
+  },
+  {
+    "index": 23,
+    "summary": "楼主小仓位买入利通电子记录，引发老粉情怀互动",
+    "sentiment": "mixed",
+    "key_opinions": ["疑似筑底迹象，小额买入记录", "12月8日有股份解禁需注意", "曾靠该股赚过钱，情怀买入"],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 24,
+    "summary": "吐槽国产链依附海外产业链缺乏核心，跟风吃屎受制于人",
+    "sentiment": "negative",
+    "key_opinions": ["没有核心竞争力永远受制于人", "海外链利润40%远高于国内代工", "出口依赖，脱离海外三驾马车崩塌"],
+    "mentioned_stocks": ["达链", "果链", "宁德时代"]
+  },
+  {
+    "index": 25,
+    "summary": "午盘拉高下午猛砸的套路再次上演，散户做T亏损心态崩溃",
+    "sentiment": "negative",
+    "key_opinions": ["午盘拉升下午猛砸是惯常套路", "做T反而亏钱心态崩溃", "缩量行情不要抱幻想"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "工业富联因英伟达风波大跌7%，讨论其英伟达供应链依赖风险",
+    "sentiment": "negative",
+    "key_opinions": ["30%营收来自英伟达，风险集中", "新CEO可能撇清对华关系", "A股草木皆兵，跑得快才是王道"],
+    "mentioned_stocks": ["工业富联", "英伟达", "富士康"]
+  },
+  {
+    "index": 27,
+    "summary": "英伟达不深跌反而不利，A股可能为黄仁勋辞职买单",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达不跌利空就得A股买单", "不管涨跌大A永远买单", "利空落地反而可能有人捡筹码"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 28,
+    "summary": "光通信剧烈震荡，是洗盘还是出货引发争论，量化在高波动中收割",
+    "sentiment": "mixed",
+    "key_opinions": ["高开狠砸再拉回，洗盘手法凶悍", "半小时十点振幅，量化舒适区", "早盘做T和抄底的都在后悔"],
+    "mentioned_stocks": ["光通信", "CPO", "PCB"]
+  },
+  {
+    "index": 29,
+    "summary": "宽基ETF连续三天流出，疑似国家队日内做T",
+    "sentiment": "negative",
+    "key_opinions": ["宽基连续三日流出资金", "国家队日内做T赚差价", "股价表现疲软"],
+    "mentioned_stocks": ["宽基ETF"]
+  },
+  {
+    "index": 30,
+    "summary": "拉科技反而引发混乱，转拉银行才稳，光模块是问题根源",
+    "sentiment": "negative",
+    "key_opinions": ["拉科技后转拉银行收拾残局", "问题出在光模块而非整个科技", "半导体反弹效果其实不错"],
+    "mentioned_stocks": ["光模块", "半导体", "银行"]
+  },
+  {
+    "index": 31,
+    "summary": "猜测下一轮牛市是否轮到光刻机，普遍认为短期无戏",
+    "sentiment": "mixed",
+    "key_opinions": ["光刻机炒作次次一日游", "无利好无突破难成主线", "牛市需要通俗大词，AI应用或成下轮主线"],
+    "mentioned_stocks": ["光刻机", "半导体设备", "中芯国际"]
+  },
+  {
+    "index": 32,
+    "summary": "天孚收盘对子数127.88跌8.88，被指刻意做对子恶心人",
+    "sentiment": "negative",
+    "key_opinions": ["收盘价做对子数显操纵痕迹", "天孚大跌8.88%", "庄家手法恶心"],
+    "mentioned_stocks": ["天孚通信"]
+  },
+  {
+    "index": 33,
+    "summary": "科技权重高开低走再拉升，震荡剧烈做T困难，市场恶心",
+    "sentiment": "negative",
+    "key_opinions": ["高开低走下杀再拉起，操作难度大", "半小时十点振幅比妖股还妖", "做T的爽死，不会做的亏钱"],
+    "mentioned_stocks": ["科技大盘股", "CPO"]
+  },
+  {
+    "index": 34,
+    "summary": "判断反弹结束将跌到3500，散户担忧继续下跌",
+    "sentiment": "negative",
+    "key_opinions": ["反弹结束看3500点", "怕继续被砸建议跑路", "等APEC会议结束再看"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "英伟达152或为短期底部，但黄仁勋离职使估值承压，看空至120",
+    "sentiment": "negative",
+    "key_opinions": ["基本面出问题谈技术无意义", "黄仁勋离职后目标价120", "业绩只是空头了结的借口"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 36,
+    "summary": "PCB回弹疑似国家队进场，随后再度下跌，资金转向银行",
+    "sentiment": "mixed",
+    "key_opinions": ["PCB集体回弹疑似国家队入场", "拉升后很快又跌回去", "国家队更倾向买银行"],
+    "mentioned_stocks": ["PCB", "银行"]
+  },
+  {
+    "index": 37,
+    "summary": "影视传媒持续上涨，逻辑是AI短剧替代预期和电影档期炒作",
+    "sentiment": "positive",
+    "key_opinions": ["影视传媒无视大盘独立走强", "中国电影受益复联5和流浪地球3", "AI短剧冲击反而成了炒作理由"],
+    "mentioned_stocks": ["中国电影", "快手", "影视传媒"]
+  },
+  {
+    "index": 38,
+    "summary": "大反弹被完全回吐，周三冲入资金被埋，市场逻辑已坏",
+    "sentiment": "negative",
+    "key_opinions": ["周三数百亿资金全部被埋", "国家队不接光模块ETF", "本质是逻辑坏了故事讲不下去"],
+    "mentioned_stocks": ["光模块", "ETF"]
+  },
+  {
+    "index": 39,
+    "summary": "科技龙头跳水带动市场，沪电从涨2%跌到5%，建议空仓",
+    "sentiment": "negative",
+    "key_opinions": ["科技权重跳水拖累全市场", "消息面前应先跑，不如炒妖股", "周五最好空仓观望"],
+    "mentioned_stocks": ["沪电股份", "中际旭创"]
+  },
+  {
+    "index": 40,
+    "summary": "推荐国产战狼链交换机板块标的，但也有人认为行情已陨落",
+    "sentiment": "mixed",
+    "key_opinions": ["首推交换机板块对标思科ANET", "盛科通信、锐捷网络、共进股份为标的", "闭眼买588170/588200更省事"],
+    "mentioned_stocks": ["盛科通信", "锐捷网络", "紫光股份", "中科曙光", "华勤技术", "共进股份", "星网锐捷", "588170", "588200", "贵州茅台", "思科"]
+  },
+  {
+    "index": 41,
+    "summary": "海狗股价17元附近获得支撑，科技反弹反而拖累其他板块买入机会",
+    "sentiment": "mixed",
+    "key_opinions": ["海狗17元支撑较硬", "科技拉升导致其他好价格标的被带起", "科技反弹妨碍其他板块布局"],
+    "mentioned_stocks": ["海狗"]
+  },
+  {
+    "index": 42,
+    "summary": "判断本轮反弹到顶，光模块机构出货，指数能撑但个股难",
+    "sentiment": "negative",
+    "key_opinions": ["反弹到顶信号出现（对子数）", "光模块机构咬死出货无法阻止", "指数能维持但板块个股很难"],
+    "mentioned_stocks": ["光模块", "红利", "达链", "国产链"]
+  },
+  {
+    "index": 43,
+    "summary": "战狼链不行，战猪更猛，建议远离科技",
+    "sentiment": "negative",
+    "key_opinions": ["战狼链表现不如预期", "珍惜生命远离科技", "资金转向其他题材"],
+    "mentioned_stocks": ["科技板块"]
+  },
+  {
+    "index": 44,
+    "summary": "超短打板实盘记录，行情差连板炸裂，监管传闻扰动短线情绪",
+    "sentiment": "negative",
+    "key_opinions": ["超短打板严格控制仓位和模式", "监管传闻导致连板全炸", "本月浮亏约3%"],
+    "mentioned_stocks": ["东方海洋", "日出东方", "日海", "青山纸业", "天安", "亚玛顿", "金辰"]
+  },
+  {
+    "index": 45,
+    "summary": "可转债T+0套利比正股好做，轮流套利体验爽",
+    "sentiment": "positive",
+    "key_opinions": ["可转债比正股好操作", "T+0轮流套利收益不错", "震荡市转债优势明显"],
+    "mentioned_stocks": ["可转债"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论国家队稳指数会买哪些宽基或银行，猜测资金注入方向",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队主要买上证50、沪深300等宽基", "银行是国家队偏爱方向", "券商是最后的大招"],
+    "mentioned_stocks": ["上证50", "科创50", "沪深300", "中证500", "中证1000", "工商银行", "招商银行", "农业银行"]
+  },
+  {
+    "index": 47,
+    "summary": "认为黄仁勋并非AI发展关键先生被反驳，英伟达离不开其战略魄力",
+    "sentiment": "mixed",
+    "key_opinions": ["AI发展是三重力量而非个人功劳", "反驳：CUDA押注全靠黄仁勋决策", "AI能离老黄转但英伟达未必"],
+    "mentioned_stocks": ["英伟达", "英特尔", "AMD"]
+  },
+  {
+    "index": 48,
+    "summary": "卖飞天邦食品后追入旋极信息未成交，短线操作心态崩溃",
+    "sentiment": "negative",
+    "key_opinions": ["卖飞后追高心态失衡", "挂单未成交错过机会", "预期周一低开心里苦"],
+    "mentioned_stocks": ["天邦食品", "东方新能", "旋极信息"]
+  }
+]
