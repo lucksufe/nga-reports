@@ -1,0 +1,331 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论是否追买已上涨的银行股，多数建议逢大跌买入或关注股份行，散户恐高情绪明显。",
+    "sentiment": "mixed",
+    "key_opinions": ["涨了不敢买是散户通病", "股息率已接近存款收益", "大跌时买入四大行长拿分红"],
+    "mentioned_stocks": ["工商银行", "农业银行", "招商银行", "银行股"]
+  },
+  {
+    "index": 2,
+    "summary": "吐槽A股遇利空总往最坏方向解读，流动性差+信心不足放大恐慌，大资金主导盘面。",
+    "sentiment": "negative",
+    "key_opinions": ["流动性差导致恐慌先行", "市场信心不足放大利空", "美股韩股同跌非A股独弱"],
+    "mentioned_stocks": ["中际旭创", "工商银行"]
+  },
+  {
+    "index": 3,
+    "summary": "短线复盘帖，讨论九阳异动最后一天节点，判断高位股退潮风险及伴生题材能否穿越。",
+    "sentiment": "mixed",
+    "key_opinions": ["九阳异动是短线大节点", "最坏情形是高位股大退潮", "关注AI传媒机器人能否接力"],
+    "mentioned_stocks": ["中际旭创", "九阳"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论某被戏称植物人的股票能否回本，观点是沾AI叙事的都危险，建议避险。",
+    "sentiment": "negative",
+    "key_opinions": ["沾AI叙事的都要跌", "不沾边的或持现金为宜", "只买银行避险"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 5,
+    "summary": "晒中际旭创从463跌到660？实为涨幅图，回复讽刺ID已说明意图。",
+    "sentiment": "mixed",
+    "key_opinions": ["晒中际旭创涨跌幅", "回复者调侃发帖者ID"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论卸载炒股软件缓解焦虑，普遍认同重仓影响心态和健康，建议低仓位或休息。",
+    "sentiment": "negative",
+    "key_opinions": ["仓位太重影响心态身体", "不杠杆长期持有等回本", "炒股致抑郁焦虑者不少"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "PCB板块集体大跌，生益沪电东山跌停，抱怨反弹少跌幅大，化工同样弱势。",
+    "sentiment": "negative",
+    "key_opinions": ["PCB三兄弟按跌停", "反弹少跌幅却一样大", "有人认为适合抄底"],
+    "mentioned_stocks": ["生益科技", "沪电股份", "东山精密", "金安国纪"]
+  },
+  {
+    "index": 8,
+    "summary": "分享量化策略年化18%回撤11%，众人质疑过拟合和未来函数，建议低仓位实盘验证。",
+    "sentiment": "mixed",
+    "key_opinions": ["回测极易过拟合", "警惕未来函数虚高收益", "建议低仓位实盘测试"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "大跌后清仓者可能离场不回，散户信心严重受损。",
+    "sentiment": "negative",
+    "key_opinions": ["大跌后清仓者增多", "估计以后不再回来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "分析央行降息锚定变化致无风险利率下行，劝配置红利股，但有人嫌涨后才荐买。",
+    "sentiment": "mixed",
+    "key_opinions": ["货币政策变相降息", "低利率利好红利股", "涨了才劝买不合适"],
+    "mentioned_stocks": ["工商银行", "红利股"]
+  },
+  {
+    "index": 11,
+    "summary": "质疑新易盛2600亿市值不及宇树2800亿，吐槽研发费低、机器人概念更受追捧。",
+    "sentiment": "negative",
+    "key_opinions": ["新易盛市值与研发不匹配", "机器人概念炒作更强", "电子厂不再受宠"],
+    "mentioned_stocks": ["新易盛", "宇树科技", "牧原股份"]
+  },
+  {
+    "index": 12,
+    "summary": "惊讶银行股持续上涨近20%，认为科技跌资金流向银行避险，价值投资逻辑存疑。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行涨了近20%没回调", "科技与银行是跷跷板", "价格已不符合价值投资"],
+    "mentioned_stocks": ["银行股", "创业板"]
+  },
+  {
+    "index": 13,
+    "summary": "聚焦九阳能否渡劫成功，全市场押注该股命运，也有人提日出东方地天行情。",
+    "sentiment": "mixed",
+    "key_opinions": ["全市场关注九阳渡劫", "失败则短线退潮", "日出东方地天更猛"],
+    "mentioned_stocks": ["九阳", "日出东方"]
+  },
+  {
+    "index": 14,
+    "summary": "吐槽中国基金报只报喜不报忧，近5000家下跌一字不提，无基本面分析。",
+    "sentiment": "negative",
+    "key_opinions": ["媒体只报红大涨", "5000家下跌不提", "无基本面和情绪分析"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 15,
+    "summary": "英伟达员工请愿黄仁勋复职获大量支持，网友戏谑大清洗，讨论人才流向国内可能。",
+    "sentiment": "mixed",
+    "key_opinions": ["员工支持老黄回归", "辞退老黄后果严重", "或有人才流向国内"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 16,
+    "summary": "有人宣告科技右侧确立可进场，但多数反驳需站稳均线、放量才行，分歧大。",
+    "sentiment": "mixed",
+    "key_opinions": ["科技筹码已出清可买", "需站稳5日10日线确认", "没有两万亿难说趋势"],
+    "mentioned_stocks": ["中际旭创", "光模块", "银行股"]
+  },
+  {
+    "index": 17,
+    "summary": "散户自嘲投降求把钱还我不玩了，用段子表达被砸盘的绝望。",
+    "sentiment": "negative",
+    "key_opinions": ["亏到想退出不玩了", "非科技股也被砸", "股市改变人心态"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "美的创新高受赞赏，回购分红对股东好，感慨拿不住白马去科技反亏30%。",
+    "sentiment": "positive",
+    "key_opinions": ["美的回购注销分红良心", "拿不住白马去科技亏损", "走势稳如长江电力"],
+    "mentioned_stocks": ["美的集团", "格力电器", "长江电力"]
+  },
+  {
+    "index": 19,
+    "summary": "担忧苏姿丰华裔身份成为下一个被针对对象，但指出她是职业经理人非创始人。",
+    "sentiment": "mixed",
+    "key_opinions": ["苏姿丰华裔身份有风险", "她是职业经理人非老板", "清算或波及更多CEO"],
+    "mentioned_stocks": ["AMD"]
+  },
+  {
+    "index": 20,
+    "summary": "戏称周末避险，反讽老黄遭遇离奇意外，担心美股被A股拖累。",
+    "sentiment": "negative",
+    "key_opinions": ["周末避险情绪浓", "反讽老黄遭遇", "担心纳指被带崩"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "研究代码1363股票，邀请人一起少量买入，讨论冷清。",
+    "sentiment": "mixed",
+    "key_opinions": ["研究1363标的", "少量买入试探"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "比惨帖，晒账户连续亏损，有人杠杆一天亏光，普遍亏损惨重心态崩。",
+    "sentiment": "negative",
+    "key_opinions": ["连亏六天仅算小亏", "杠杆一天就没了", "有连亏十个月的更惨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "段永平称不卖英伟达反而卖出看跌期权，表达长期看好态度。",
+    "sentiment": "positive",
+    "key_opinions": ["段永平不卖英伟达", "反而卖出看跌期权"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 24,
+    "summary": "抱怨银行被拉抬托指数，但指出创业板照样跌，避险资金流向银行非国家队独为。",
+    "sentiment": "negative",
+    "key_opinions": ["拉银行不救创业板", "机构资金去银行避险", "什么都不能拉那拉谁"],
+    "mentioned_stocks": ["银行股", "工商银行", "创业板"]
+  },
+  {
+    "index": 25,
+    "summary": "比亚迪热度消退讨论冷清，新能源内卷利润预期差，港股折价，看不到希望。",
+    "sentiment": "negative",
+    "key_opinions": ["新能源低价竞争无利润", "比亚迪港股折价", "指定抽血股没市场"],
+    "mentioned_stocks": ["比亚迪", "宁德时代"]
+  },
+  {
+    "index": 26,
+    "summary": "八卦老黄相关女子走私显卡传闻，戏称其推动国内AI发展，讨论其现状。",
+    "sentiment": "mixed",
+    "key_opinions": ["传闻倒卖显卡获利", "已撤离住北京别墅", "变相推动国内AI"],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 27,
+    "summary": "悲观看空中际旭创到250甚至更低，成长股故事破灭按周期股估值，利空不断。",
+    "sentiment": "negative",
+    "key_opinions": ["成长故事讲不下去", "按老登股估值看250", "最坏情况脱钩回原点"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 28,
+    "summary": "疑惑谁在买工行3.62%股息的银行，认为是存款搬家、险资抱团，估值逻辑变了。",
+    "sentiment": "mixed",
+    "key_opinions": ["存款搬家流入银行", "险资抱团推升股价", "银行股息逻辑在变"],
+    "mentioned_stocks": ["工商银行", "银行股"]
+  },
+  {
+    "index": 29,
+    "summary": "记录少量买入利通电子，看好筑底迹象但提醒解禁风险，有人分享盈利经历。",
+    "sentiment": "mixed",
+    "key_opinions": ["看好66.66筑底迹象", "12月8日有股份解禁", "有人靠它赚过钱"],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 30,
+    "summary": "发现13点整常准时砸盘，归因韩国市场跳水带动、量化联动及券商强平融资盘。",
+    "sentiment": "negative",
+    "key_opinions": ["下午开盘常瞬间砸盘", "韩国市场跳水传导", "券商强平融资爆仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "深圳华强突拉被调侃与老黄来华强北有关，纯属玄学炒作。",
+    "sentiment": "mixed",
+    "key_opinions": ["玄学炒作华强北概念", "炒作理由牵强"],
+    "mentioned_stocks": ["深圳华强"]
+  },
+  {
+    "index": 32,
+    "summary": "午睡醒来市场跳水，调侃为老黄悲鸣，散户无奈。",
+    "sentiment": "negative",
+    "key_opinions": ["午后跳水不装了", "戏称为老黄悲鸣"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "午睡醒来即遇股灾，感叹不敢午睡，心态难受。",
+    "sentiment": "negative",
+    "key_opinions": ["午睡醒来常遇暴跌", "心态难受"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "期待大盘V型反转，但多数认为没量救不起来，国家队越救越跌。",
+    "sentiment": "negative",
+    "key_opinions": ["没量V不起来", "越救越跌越慢", "跌停抄底也是套"],
+    "mentioned_stocks": ["沪深300"]
+  },
+  {
+    "index": 35,
+    "summary": "戏谑讨论救大A方法，调侃老黄游太平洋或搞定光刻机，实为绝望发泄。",
+    "sentiment": "negative",
+    "key_opinions": ["戏称老黄来救市", "搞定光刻机才有希望", "有人宁愿大A死透"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 36,
+    "summary": "超短打板实盘记录，分享打板模式与复盘，抱怨连板炸板行情难做。",
+    "sentiment": "mixed",
+    "key_opinions": ["首板三分之一仓接力", "满手前排板午睡全炸", "只买龙头不做随手单"],
+    "mentioned_stocks": ["青山纸业", "天安", "东方海洋", "日出东方", "亚玛顿", "金辰"]
+  },
+  {
+    "index": 37,
+    "summary": "分析黄仁勋被踢出董事会影响，认为无接班人、财务官CEO前景差，NV慢性死亡风险。",
+    "sentiment": "negative",
+    "key_opinions": ["老黄彻底出局无董事席", "财务官当CEO没好下场", "或参考英特尔衰落路径"],
+    "mentioned_stocks": ["英伟达", "AMD", "英特尔"]
+  },
+  {
+    "index": 38,
+    "summary": "下午开盘跳水，归因韩国市场大跌传导量化跟砸，散户习惯性跳楼式下跌。",
+    "sentiment": "negative",
+    "key_opinions": ["午后开盘直接跳楼", "韩国市场传导效应", "老黄走了预期崩塌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "询问国产GPU相关ETF能否介入，讨论极少。",
+    "sentiment": "mixed",
+    "key_opinions": ["关注国产GPU标的", "询问能否进场"],
+    "mentioned_stocks": ["588170"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论N卡进口收紧对恒生科技利弊，限制则利好国产芯片，但机构两头都说跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["腾讯扫货GB300炒高价", "限制利好国产GPU替代", "机构借口多头都说跌"],
+    "mentioned_stocks": ["阿里巴巴", "腾讯", "恒生科技"]
+  },
+  {
+    "index": 41,
+    "summary": "惊讶阿里巴巴再度暴跌，配图显示跌幅，讨论稀少。",
+    "sentiment": "negative",
+    "key_opinions": ["阿里巴巴再度暴跌"],
+    "mentioned_stocks": ["阿里巴巴"]
+  },
+  {
+    "index": 42,
+    "summary": "抄底英伟达产业链通信ETF，但有人劝勿立危墙之下，供应链重塑风险大。",
+    "sentiment": "mixed",
+    "key_opinions": ["抄底通信ETF赌反弹", "供应链将重塑风险大", "散户抄底别人贪婪"],
+    "mentioned_stocks": ["515880", "中际旭创", "新易盛", "天孚通信", "光迅科技"]
+  },
+  {
+    "index": 43,
+    "summary": "反复抄底中际旭创被调侃，天天破新低，抄底屡屡被套经验教训多。",
+    "sentiment": "negative",
+    "key_opinions": ["天天破新低难抄底", "反复抄底屡被套", "去赌大小都比这强"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 44,
+    "summary": "观察险资持仓非科技股近几天被无差别砸盘，游资偏爱拉亏损股。",
+    "sentiment": "negative",
+    "key_opinions": ["险资持仓非科技被砸", "游资偏好拉亏损股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "戏称中信拉三个涨停救市，被回怼别落井下石就不错。",
+    "sentiment": "negative",
+    "key_opinions": ["戏称中信涨停救市", "被调侃不落井下石就好"],
+    "mentioned_stocks": ["中信证券"]
+  },
+  {
+    "index": 46,
+    "summary": "大唐发电亏20%纠结死拿还是换科创ETF，讨论养猪板块或有起色。",
+    "sentiment": "negative",
+    "key_opinions": ["大唐发电亏20%难回本", "对比换科创ETF", "养猪板块似有好转"],
+    "mentioned_stocks": ["大唐发电", "科创ETF"]
+  },
+  {
+    "index": 47,
+    "summary": "讨论中国稀土重组复牌能否买入，成功可能一字板，考虑挂隔夜单。",
+    "sentiment": "positive",
+    "key_opinions": ["重组成功大概率一字板", "考虑挂隔夜单买入"],
+    "mentioned_stocks": ["中国稀土"]
+  }
+]
