@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "港股澜起科技持仓被套，讨论是否长持或切A股，担忧H股流动性差、AI泡沫风险。",
+    "sentiment": "negative",
+    "key_opinions": ["H股流动性差，比A股更惨", "不想割肉可切换A股澜起", "AI泡沫破灭风险大"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论今日资金是否会流向消费食品白酒板块避险，部分人刚清仓消费股。",
+    "sentiment": "mixed",
+    "key_opinions": ["昨日刚清仓消费板块", "日韩股市涨势好，避险方向不确定"],
+    "mentioned_stocks": ["消费食品白酒"]
+  },
+  {
+    "index": 3,
+    "summary": "深度政治分析黄仁勋被离职事件，认为是建制派对'黑暗启蒙'科技势力的反击，非单纯党派之争。",
+    "sentiment": "negative",
+    "key_opinions": ["建制派策划反击科技势力", "美股科技股未来将大幅下跌", "换消费股礼来、好市多、可口可乐避险"],
+    "mentioned_stocks": ["英伟达", "礼来", "好市多", "可口可乐", "阿里巴巴"]
+  },
+  {
+    "index": 4,
+    "summary": "批评共和党执政不力，认为天胡开局被打烂，讨论美国政治内斗前景。",
+    "sentiment": "negative",
+    "key_opinions": ["共和党天胡开局打烂了", "懂王可能卸任后进监狱", "美国党争激烈"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "讨论英伟达通过新加坡向中国走私芯片被调查，认为美方早就知情只是政治因素才查。",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达长期通过新加坡向中国转售芯片", "懂王时期不会查，中期选举后才爆", "类似稀土走私问题"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 6,
+    "summary": "统计本轮牛市亏损情况，有人亏15%本金，有人亏70%，反映市场情绪低迷。",
+    "sentiment": "negative",
+    "key_opinions": ["多数人牛市中亏损", "有人全仓宇树亏损70%", "亏损严重者有躯体化反应"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论通威股份跨界收购天邦股份养猪及多晶硅合作，感叹光伏企业转型困境。",
+    "sentiment": "mixed",
+    "key_opinions": ["通威饲料起家转光伏再养猪", "收购天邦价格极低0.98元/股", "光伏企业生存艰难跨界自救"],
+    "mentioned_stocks": ["通威股份", "天邦股份", "巨星农牧", "盛和资源", "正邦科技", "龙大美食"]
+  },
+  {
+    "index": 8,
+    "summary": "业内人警告别买英伟达，美政府将调查NV芯片走私，建议关注AMD和谷歌替代方案。",
+    "sentiment": "negative",
+    "key_opinions": ["美国将严查NV对华芯片出口", "AMD和谷歌是替代方案", "民主党追杀特朗普科技盟友"],
+    "mentioned_stocks": ["英伟达", "AMD", "谷歌", "华为"]
+  },
+  {
+    "index": 9,
+    "summary": "市场交易黄仁勋下台的'去中国风险'逻辑，讨论市场冷酷无情，对比马云命运。",
+    "sentiment": "negative",
+    "key_opinions": ["市场在交易去中国化风险", "中国资产被全面抛售", "黄仁勋结局比马云更惨"],
+    "mentioned_stocks": ["英伟达", "阿里巴巴"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论AMD苏姿丰华裔身份是否也会被针对，认为她是职业经理人风险较小。",
+    "sentiment": "mixed",
+    "key_opinions": ["AMD苏姿丰也是华裔但风险不同", "职业经理人vs创始人身份区别", "美国政治清算华人高管"],
+    "mentioned_stocks": ["AMD", "英特尔"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论利通科技涉嫌通过东南亚中转获取英伟达芯片，利空消息与股价反应的矛盾。",
+    "sentiment": "negative",
+    "key_opinions": ["利通特殊渠道可能是走私卡", "拿卡预期消失反而让现有算力稀缺", "利通股价未充分反映利空"],
+    "mentioned_stocks": ["利通科技"]
+  },
+  {
+    "index": 12,
+    "summary": "讨论黄仁勋被针对的种族因素，认为肤色原罪导致被当弃子，惨烈结局不可避免。",
+    "sentiment": "negative",
+    "key_opinions": ["种族歧视是根本原因", "黄仁勋结局堪比钱学森", "买命跑路可能性低"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论做空黄金的渠道和时机，多数人认为当前位置做空风险大，黄金仍在下跌趋势中。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金中期看空但当前位置做空风险高", "银行双向贵金属有强平线无杠杆", "金价油价联动影响"],
+    "mentioned_stocks": ["黄金ETF", "赤峰黄金"]
+  },
+  {
+    "index": 14,
+    "summary": "韩国股市大幅高开引发讨论，分析利空出尽、政府救市等因素，关注国产替代逻辑。",
+    "sentiment": "mixed",
+    "key_opinions": ["利空出尽导致反弹", "韩国政府召开救市会议", "打压黄仁勋利好国产替代"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "英伟达临时CEO科莱特·克雷斯曾管控公司最高风险业务，讨论接任后影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["临时CEO有风险管理经验", "CFO上台财务导向"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 16,
+    "summary": "推测黄仁勋与特朗普合作向中国走私芯片谋利，民主党掀桌引发政治风暴。",
+    "sentiment": "negative",
+    "key_opinions": ["黄仁勋借特朗普默许走私芯片牟利", "民主党发现后掀桌调查", "中国大模型与美国差距被低估"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 17,
+    "summary": "ETF两天赎回近400亿，投资者趁机做T，主要集中在科创板块，海外链预期变化大。",
+    "sentiment": "negative",
+    "key_opinions": ["ETF巨额赎回近400亿", "科创板块是赎回主力", "海外链预期全变"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论芯片公司CEO华裔身份与中美交易的关联，反映种族政治偏见和利益博弈。",
+    "sentiment": "negative",
+    "key_opinions": ["华裔高管被视为非自己人", "换成印度裔更受美国信任", "走私因中国需求巨大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "预测A股科技今日低开高走重回正轨，消化利空后跟随韩国拉升。",
+    "sentiment": "positive",
+    "key_opinions": ["低开消化昨日套牢盘和达子利空", "利空落地后跟随韩国拉升"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "超短打板实盘分享，描述打板策略和当日操作复盘，连板被炸的挫败体验。",
+    "sentiment": "negative",
+    "key_opinions": ["超短打板策略注重板块效应和龙头", "连板大面积炸板行情极差", "监管报团小作文影响市场"],
+    "mentioned_stocks": ["东方海洋", "日出东方", "日海通讯", "亚玛顿", "金辰股份", "天安新材", "青山纸业", "东山精密"]
+  },
+  {
+    "index": 21,
+    "summary": "调侃黄仁勋加入'饮料'模块，以幽默方式讨论其离职事件，无实质交易信息。",
+    "sentiment": "mixed",
+    "key_opinions": ["调侃黄仁勋离职为饮料模块", "纯娱乐讨论"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "调侃'久姐'搞倒黄仁勋，讨论久留美效应对市场的影响，关注达里奥公司上市。",
+    "sentiment": "negative",
+    "key_opinions": ["久留美效应对市场有影响", "达里奥公司即将上市"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "东山精密被套牢讨论，投资者多次抄底被埋，公司注销回购股份。",
+    "sentiment": "negative",
+    "key_opinions": ["东山精密多次抄底被套", "抄底节奏难以把握", "公司注销回购股份158.88万股"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 24,
+    "summary": "英伟达仅跌4%引发讨论，分析是否利空出尽，关注短期筹码博弈和海外链重估。",
+    "sentiment": "mixed",
+    "key_opinions": ["跌幅低于预期或因短期筹码博弈", "美方认为黄仁勋下台消除不确定性", "海外链需要重估"],
+    "mentioned_stocks": ["英伟达", "纳斯达克"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论英伟达芯片断供是否利好国产替代，认为短期利好情绪，长期看研发突破。",
+    "sentiment": "mixed",
+    "key_opinions": ["短期利好国产替代情绪", "长期取决于国产芯片研发突破", "DeepSeek能否在昇腾训练是关键"],
+    "mentioned_stocks": ["英伟达", "AMD", "中芯国际", "国产链ETF"]
+  },
+  {
+    "index": 26,
+    "summary": "调侃庄家提前预判黄仁勋下台事件，感叹市场操盘精准。",
+    "sentiment": "mixed",
+    "key_opinions": ["庄家提前预判黄仁勋下台", "跌这么久早已布局"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "中信证券分析科技龙头管理层变动加剧短期波动，但系统性抛售压力有限。",
+    "sentiment": "mixed",
+    "key_opinions": ["管理层变动加剧短期波动", "系统性抛售压力有限"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论黄仁勋被搞的真正原因到底是出轨还是走私芯片，认为两者叠加才致命。",
+    "sentiment": "negative",
+    "key_opinions": ["出轨只是幌子，真实原因是走私芯片", "出轨+走私组合才致命", "美国铁了心搞黄仁勋"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论特朗普钦点Tim Cook接任英伟达CEO的传闻，调侃其供应链管理能力。",
+    "sentiment": "mixed",
+    "key_opinions": ["库克或接任英伟达CEO", "库克是供应链管理大师", "库克免疫女间谍风险"],
+    "mentioned_stocks": ["英伟达", "苹果"]
+  },
+  {
+    "index": 30,
+    "summary": "吐槽民主党攻击黄仁勋出轨第二个对象，政治斗争手段令人反感。",
+    "sentiment": "negative",
+    "key_opinions": ["民主党持续爆料黄仁勋私生活", "政治斗争手段恶劣"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论英伟达利空是否利好国产替代概念，但多数人认为A股泥沙俱下概率更大。",
+    "sentiment": "negative",
+    "key_opinions": ["国产替代利好但龙头不上市", "A股泥沙俱下概率大", "利好日出东方等玄学股"],
+    "mentioned_stocks": ["日出东方", "英伟达"]
+  },
+  {
+    "index": 32,
+    "summary": "特朗普钦点Tim Cook接任英伟达CEO，评论者批评特朗普连自己人都保不住。",
+    "sentiment": "negative",
+    "key_opinions": ["特朗普推荐库克接任", "特朗普自身难保", "库克对供应链不友好"],
+    "mentioned_stocks": ["英伟达", "苹果"]
+  },
+  {
+    "index": 33,
+    "summary": "讨论黄仁勋是否后悔支持特朗普打伊朗，分析美国利益集团内斗背景。",
+    "sentiment": "negative",
+    "key_opinions": ["美国内部利益集团分赃不均", "军工复合体不可得罪", "民主党推台湾转向大陆"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 34,
+    "summary": "英伟达股价技术分析，预计11月17日业绩前难止跌，目标价120美元。",
+    "sentiment": "negative",
+    "key_opinions": ["业绩与技术指标都被基本面压制", "黄仁勋下台后目标价120美元", "腰斩起步"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 35,
+    "summary": "黄仁勋辞职后仍被追打，讨论真实原因是走私芯片，民主党政治清算不放过。",
+    "sentiment": "negative",
+    "key_opinions": ["出轨是幌子，核心是走私芯片", "民主党政治清算不依不饶", "懂王可签特赦令"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论英伟达可能变成'苹果'式管理公司的影响，关注海外链和国产替代机会。",
+    "sentiment": "mixed",
+    "key_opinions": ["英伟达可能走向苹果化管理", "海外链将受到冲击", "可能类似乔布斯离开后的苹果"],
+    "mentioned_stocks": ["英伟达", "苹果", "英特尔"]
+  },
+  {
+    "index": 37,
+    "summary": "散户半小时净买入1.11亿美元英伟达创纪录，但700亿成交量下散户影响力有限。",
+    "sentiment": "mixed",
+    "key_opinions": ["散户创纪录净买入英伟达", "700亿成交散户影响力有限", "费城半导体指数翻红"],
+    "mentioned_stocks": ["英伟达", "纳斯达克"]
+  },
+  {
+    "index": 38,
+    "summary": "分析CFO克雷斯接任CEO可能延长AI关联交易体系，但财务导向难引领技术方向。",
+    "sentiment": "mixed",
+    "key_opinions": ["CFO上台擅长财务运作续命", "缺少前瞻视野难引领方向", "海外链利润分享模式或改变"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 39,
+    "summary": "建议勿接英伟达飞刀，100美元以下分批建仓，部分人认为利空已出尽。",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达100美元以下可分批建仓", "类似1985年失去乔布斯的苹果", "部分人认为利空出尽"],
+    "mentioned_stocks": ["英伟达", "苹果"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论英伟达消费级游戏显卡未来是否继续生产，担忧CFO缩减开支砍掉该业务。",
+    "sentiment": "negative",
+    "key_opinions": ["消费显卡利润占比小可能被砍", "60系显卡或继续推进", "利好索尼和任天堂"],
+    "mentioned_stocks": ["英伟达", "索尼", "任天堂"]
+  },
+  {
+    "index": 41,
+    "summary": "英伟达成交量逼近历史天量1200亿美元，多空分歧巨大，互道SB时刻。",
+    "sentiment": "mixed",
+    "key_opinions": ["成交量逼近历史天量1200亿美元", "多头承接乏力", "多空互道SB"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 42,
+    "summary": "英伟达大跌但中概股更惨，阿里跌幅最大，讨论阿里切割平头哥及拿卡受限影响。",
+    "sentiment": "negative",
+    "key_opinions": ["阿里因切割平头哥和拿卡受限大跌", "中国资产遭抛售", "英伟达反而是便宜机会"],
+    "mentioned_stocks": ["英伟达", "阿里巴巴", "纳斯达克"]
+  },
+  {
+    "index": 43,
+    "summary": "请教推荐及时获取上市公司公告新闻的APP工具。",
+    "sentiment": "mixed",
+    "key_opinions": ["推荐使用财联社、金十数据等APP", "需要及时的上市公司公告推送"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "吐槽科技股被黄仁勋私事拖累，A股关注面太广从战争到出轨无所不看。",
+    "sentiment": "negative",
+    "key_opinions": ["最贵的一炮打掉英伟达4000亿市值", "政治迫害而非桃色事件", "A股关注面过宽"],
+    "mentioned_stocks": ["英伟达", "纳斯达克"]
+  },
+  {
+    "index": 45,
+    "summary": "通富微电被视为做多AMD/做空英伟达的标的，涨停后炸板，波动剧烈。",
+    "sentiment": "mixed",
+    "key_opinions": ["通富微电涨停后炸板", "英伟达股价看空但位置危险", "换手率高有换庄风险"],
+    "mentioned_stocks": ["通富微电", "AMD", "英伟达"]
+  },
+  {
+    "index": 46,
+    "summary": "纽约时报报道黄仁勋与公司高管婚外情，英伟达准备罢免CEO，英伟达暴跌。",
+    "sentiment": "negative",
+    "key_opinions": ["黄仁勋婚外情曝光遭罢免", "民主党围剿AI产业链", "英伟达暴跌超9%"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 47,
+    "summary": "以黄仁勋口吻写搞笑段子求助东山再起，引发网友戏谑和概念股讨论。",
+    "sentiment": "mixed",
+    "key_opinions": ["调侃黄仁勋求助建立中伟达", "东山精密被玩梗", "中际旭创被提及"],
+    "mentioned_stocks": ["东山精密", "中际旭创"]
+  },
+  {
+    "index": 48,
+    "summary": "黄仁勋同意向国会作证，被视为认罚认栽，讨论其能否平安脱身。",
+    "sentiment": "negative",
+    "key_opinions": ["黄仁勋认打认罚同意作证", "扣上国安帽子难以翻身", "可能被要求吐出股份"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 49,
+    "summary": "美股尾盘翻红，光导存板块拉升，利空出尽反弹，关注明日A股走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["美股尾盘翻红利空落地", "光导存板块集体拉升", "A股明日可能高开但需防踏空"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 50,
+    "summary": "紫金矿业预计跌至24元，讨论黄金铜矿股承接策略，建议直接买黄金ETF。",
+    "sentiment": "negative",
+    "key_opinions": ["紫金矿业跌至24元附近", "建议直接买黄金ETF替代", "金铜看不到止跌迹象"],
+    "mentioned_stocks": ["紫金矿业", "黄金ETF"]
+  }
+]
+```
