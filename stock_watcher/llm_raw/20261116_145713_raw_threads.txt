@@ -1,0 +1,347 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "嘲讽对方模仿"斩杀线"的股市言论，无具体投资内容",
+    "sentiment": "negative",
+    "key_opinions": ["东施效颦，模仿不当", "至少还能活着用智能手机发帖"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "AI行情结束感慨，持东芯股份一年半已大幅减仓，感谢A股补贴生活",
+    "sentiment": "mixed",
+    "key_opinions": ["AI炒作一年多，落袋为安但收益有限", "看好砺算GPU前景但信心不足", "A股炒股比不炒股生活好些"],
+    "mentioned_stocks": ["东芯股份"]
+  },
+  {
+    "index": 3,
+    "summary": "提醒亏损50%需翻倍才能回本，引发对加仓和抄底的争论",
+    "sentiment": "negative",
+    "key_opinions": ["-50%涨回需翻倍，回本难度极大", "别人恐惧我贪婪，但贪婪在多波恐惧上", "加仓容易越套越深"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "中际旭创持续暴跌引发讨论，与2015年股灾对比，创业板风险加剧",
+    "sentiment": "negative",
+    "key_opinions": ["中际旭创大幅下跌，希望停牌止跌", "比2015年股灾可能更狠", "不破不立，创业板应回到1700"],
+    "mentioned_stocks": ["中际旭创", "工商银行", "网宿科技"]
+  },
+  {
+    "index": 5,
+    "summary": "茅台悄无声息上涨20%，讨论简短",
+    "sentiment": "positive",
+    "key_opinions": ["茅台不声不响涨了20%"],
+    "mentioned_stocks": ["茅台"]
+  },
+  {
+    "index": 6,
+    "summary": "市场持续阴跌磨人，创业板快速下跌，消费冲高回落，只红利尚存",
+    "sentiment": "negative",
+    "key_opinions": ["每天磨磨磨，市场没有活人", "两三个月腰斩六七十，速度比当年快", "只有红利装死的还活着"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "上证勉强收在3600点上方，被嘲讽为国家队护盘面子工程",
+    "sentiment": "negative",
+    "key_opinions": ["硬收3600是面子工程，非常恶心", "国家队死保指数", "3600是大A的舒适区"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "发帖怒骂A股，散户亏损惨重有人亏近80万，情绪崩溃",
+    "sentiment": "negative",
+    "key_opinions": ["大A害人，有人亏近80万", "本金十几万也难逃亏损", "有人已换第四个号重新来过"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "讨论今日下跌原因，涉及老黄离职、会议避险、科技带崩非科技",
+    "sentiment": "negative",
+    "key_opinions": ["老黄走对AI产业链影响巨大", "开会前卖出避险，扣卖出键", "科技崩了把非科技也带崩"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "短线复盘讨论九阳异动监管节点，分析补跌、出货和伴生题材走势",
+    "sentiment": "mixed",
+    "key_opinions": ["九阳异动最后一天是短线大节点", "高位股面临监管退潮风险", "考虑AI传媒、机器人能否穿越"],
+    "mentioned_stocks": ["中际旭创", "九阳股份"]
+  },
+  {
+    "index": 11,
+    "summary": "质疑A股宽基指数十年年化收益仅与定期存款相当，价值投资存疑",
+    "sentiment": "negative",
+    "key_opinions": ["A股指数远不如标普500和纳斯达克", "除红利外宽基无长期投资价值", "融资市场靠零和博弈，性价比低"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "认为当前是黄金坑可博反弹，但达链利润高、老黄不回归预期更差",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金坑可以稍微建仓博反弹", "达链利润还是太高了", "老黄不回来预期只会更差"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "尾盘拉升后担忧明日继续下跌，一年白玩即将亏本金",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘拉升让人不安", "一年白玩，即将亏到本金"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "珠海华发外债危机讨论，担忧国有房企风险暴露影响整个债市定价",
+    "sentiment": "negative",
+    "key_opinions": ["华发外债违约暴露国企风险敞口", "逆周期三四线拿地加剧风险", "影响程度不低于海外链CPO"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "小作文讨论政策救市与市场矛盾，批评掏空市场资金的行为",
+    "sentiment": "negative",
+    "key_opinions": ["股市不救就死给上面看", "两万亿被掏走当血包只出不进", "小作文看不过来，市场混乱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "同花顺搜代码第一结果是广告，担心手快买错股票",
+    "sentiment": "negative",
+    "key_opinions": ["搜代码结果第一个是广告", "手快买错就烂了，体验极差"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "推断红利会被拉上天像6月科技，随后红利党被挂树上大瀑布向下",
+    "sentiment": "negative",
+    "key_opinions": ["红利这波会拉上天像6月科技", "然后把红利党挂树上大瀑布向下"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "非科技粉梭哈创业板科技股，认为当前低位有较机会，计划拿到明年一季度",
+    "sentiment": "mixed",
+    "key_opinions": ["科技更有机会，梭哈创业板科技", "现在位置不高，拿到明年一季度", "大光不止跌进创业板就是送菜"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "怒斥A股操盘异常，小作文反弹后横盘下跌，银行抱指数其余阴跌",
+    "sentiment": "negative",
+    "key_opinions": ["无道理暴力反弹后横盘再下跌", "死死拽着银行抱指数，其余任由缩量", "大光拉15个点像主力出货诱多"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 20,
+    "summary": "科技股腰斩后无人活跃，持股者已躺尸装死，抄底被埋",
+    "sentiment": "negative",
+    "key_opinions": ["科技股腰斩，持股者躺尸不动", "抄底即被埋，割肉已无意义", "100万亏80万，割肉意义在哪"],
+    "mentioned_stocks": ["科创50", "九阳股份"]
+  },
+  {
+    "index": 21,
+    "summary": "尾盘暴跌引发恐慌，分析是b浪结束还是单浪直泻，怀疑救市是出货掩护",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘暴跌是大鱼钩掩护资金撤退", "可能是b浪结束要向下过山车", "救市是狗队险资唱双簧出货"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "分析老黄被搞的政治背景，可能是清算特朗普的前奏，科技链风险加剧",
+    "sentiment": "negative",
+    "key_opinions": ["老黄被搞可能是清算特朗普一环", "美国政治斗争漩涡中心", "最坏结果老黄恢复CEO被无视"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "30年国债跌破位，股债金三杀引发流动性危机担忧，理财赎回潮",
+    "sentiment": "negative",
+    "key_opinions": ["30年国债跌破位，流动性危机", "股债金三杀在通缩低利率下更恐怖", "理财赎回转到R1产品避险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "不炒股日子也不好过，创业买房买理财皆难，经济下行压力大",
+    "sentiment": "negative",
+    "key_opinions": ["炒股买房创业碰一个基本血亏", "不炒股去创业也被快招割", "工资在减少，生活压力大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "挑衅式喊话跌回924前，北证50已跌回9.30冲击924水平",
+    "sentiment": "negative",
+    "key_opinions": ["北证50已跌回9.30冲击924", "大量老登股跌超924水平", "流动性危机北证比港股更可怕"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论市场底部在哪里，悲观预期3000甚至2600，银行护盘撑指数",
+    "sentiment": "negative",
+    "key_opinions": ["没有银行早就跌破3000", "22年问底跌到24年，何时是底", "回到熟悉3000区间"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "红利股连续上涨后获利了结，担心回落",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股涨了好几天怕了跑了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "讽刺A股跌幅与美股对比的赢学思维，对监管不关心股市下跌不满",
+    "sentiment": "negative",
+    "key_opinions": ["跌幅比美股小就吹东升西落很可笑", "监管只在意IPO不在乎涨跌", "A股根本不在会议话题里"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "兴森科技作为华为链为何随达链暴跌，科技股绑定同跌",
+    "sentiment": "negative",
+    "key_opinions": ["管什么链都得死，科技绑定同跌", "达链没钱华为也会压榨供应商", "国产链接盘海外链产能会更狠"],
+    "mentioned_stocks": ["兴森科技"]
+  },
+  {
+    "index": 30,
+    "summary": "超短打板实盘记录，模式纪律和复盘，行情差控制仓位",
+    "sentiment": "mixed",
+    "key_opinions": ["超短打板首板三分之一仓接力减仓", "注重板块效应只买龙头", "行情差严格控仓不勉强买"],
+    "mentioned_stocks": ["天安", "青山纸", "日出东方"]
+  },
+  {
+    "index": 31,
+    "summary": "三大指数午后持续走弱，创业板跌超4%，易中天光模块龙头领跌",
+    "sentiment": "negative",
+    "key_opinions": ["创业板跌超4%，4400只个股下跌", "中际旭创盘中创年内低点410元", "易中天光模块龙头领跌超10%"],
+    "mentioned_stocks": ["新易盛", "中际旭创", "天孚通信"]
+  },
+  {
+    "index": 32,
+    "summary": "抄底东山科技被套，地板两连板继续补仓，下跌趋势中反弹亏多赢少",
+    "sentiment": "negative",
+    "key_opinions": ["抄底东山被套地板两连板", "下跌趋势中反弹亏多赢少毫无买点", "玩完可能要退出股市"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 33,
+    "summary": "黄金直线急跌引发恐慌，股债金通杀，科技非科技全跌",
+    "sentiment": "negative",
+    "key_opinions": ["黄金往下拉直线，买啥都跌", "股债金通杀正在进行", "唯有红利还能抗一些"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "走势走坏，创业板连续三天大跌，担忧破3574向3400",
+    "sentiment": "negative",
+    "key_opinions": ["最差走势，创业板3天跌2-3-4", "大低开3574不是随便破", "外围共振影响说辞很讽刺"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讽刺A股投资者如封建余孽磕头，前人血汗换来后人跪拜",
+    "sentiment": "negative",
+    "key_opinions": ["投资者活成封建王朝余孽", "前人流血流泪后人只会磕头"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "认为割肉后该V型反转，但缩量未杀透，天天鬼故事难止跌",
+    "sentiment": "mixed",
+    "key_opinions": ["割肉后该开V，开会当天大跌是买点", "缩量还没杀透", "天天核弹级鬼故事止跌也不会反弹"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 37,
+    "summary": "AI分析中国独特通缩原因，引发对东方经济学和官方数据的调侃",
+    "sentiment": "mixed",
+    "key_opinions": ["AI分析通缩是西方经济学入脑", "国内统计称非通缩，CPI上涨0.7%", "世界工厂产能过剩致通缩正常"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "统计局称消费市场扩大引发讽刺，民众实际感受消费萎缩",
+    "sentiment": "negative",
+    "key_opinions": ["统计局说消费扩大，民众全在省钱", "双十一一分钱没花谁信", "利润只剩19年六分之一不敢花钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "兆易创新跌至195继续加仓，每跌15%加一笔赌到底",
+    "sentiment": "negative",
+    "key_opinions": ["跌到195加仓每跌15%再加", "倒要看看谁命长谁先退市", "为什么不买有分红的"],
+    "mentioned_stocks": ["兆易创新"]
+  },
+  {
+    "index": 40,
+    "summary": "减仓到三成仍亏损严重，反思是否只能清仓才安全",
+    "sentiment": "negative",
+    "key_opinions": ["减到三成也没顶住这么跌", "只有清仓才能安全吗"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "当前快速下跌对未进场者有利，利于出清开启新一轮，但悲观者认为还阴跌数年",
+    "sentiment": "mixed",
+    "key_opinions": ["快速跌好于阴跌利于出清", "可能还要阴跌几年才是底", "这种拧巴跌法根本出清不了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "全球市场加速下跌引发关注，猜测伊朗局势等外部风险",
+    "sentiment": "negative",
+    "key_opinions": ["全世界又开始加速下跌", "伊朗要动手了吗"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "表达对当前市场的极度恐惧，觉得根本不该有这种市场",
+    "sentiment": "negative",
+    "key_opinions": ["不管别人怕不怕我是怕了", "根本没有这种市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "询问大萧条和顺天时报概念股，关注必选消费抗跌能力",
+    "sentiment": "negative",
+    "key_opinions": ["找大萧条概念避险股", "必选消费相对能抗一点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "讨论今日是否为双冰买点，个股超卖但大盘未到恐慌级别",
+    "sentiment": "mixed",
+    "key_opinions": ["今日涨跌停数据提示超卖但无恐慌", "双冰核心是恐慌超卖还没到", "中际旭创三开头可博弈"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 46,
+    "summary": "主张放开做空和T+0完善价格发现机制，反对者认为散户死更快",
+    "sentiment": "mixed",
+    "key_opinions": ["放开做空有利于合理价格发现", "T+0让普通散户死得更快", "市场是融资不是让散户获利"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "反讽东升西落论，暗指东大是另一个国家而非中国",
+    "sentiment": "mixed",
+    "key_opinions": ["东升西落是反讽，指的另一个东大", "这个东大的股市有点东西"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "抄底有色被套，感叹抄底只能买对一次，加息周期不宜做有色",
+    "sentiment": "negative",
+    "key_opinions": ["抄底只能买对一次，其余全被套", "加息周期不要做有色", "科技票什么时候跑都是高点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "分析大光900左右筹码峰未消化，双头悖论难以出现，融资盘未爆",
+    "sentiment": "negative",
+    "key_opinions": ["900筹码峰是达摩克利斯之剑", "幻想双头所以死扛就不会有双头", "融资盘未爆无人抬轿解套"],
+    "mentioned_stocks": ["中际旭创"]
+  }
+]
+```
