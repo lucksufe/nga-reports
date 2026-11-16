@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "网友梭哈创业板科技股，从电力切换到科技，讨论创业板点位与持有策略",
+    "sentiment": "mixed",
+    "key_opinions": ["拿到明年一季度再看电力机会", "2000点才是好买点", "红利股不要清仓，是绿盘慰藉"],
+    "mentioned_stocks": ["创业板", "电力", "科创50"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论银行股涨幅巨大是否也有泡沫，对比科技股涨幅，分析银行盈利与风险",
+    "sentiment": "mixed",
+    "key_opinions": ["银行从底部已涨三到四倍，科技反而超跌", "银行息差危险坏账难压但能保指数", "银行盈利稳定是涨价主因"],
+    "mentioned_stocks": ["工商银行", "农业银行", "中际旭创", "长鑫"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论今日或明日是否为双冰买点，分析涨跌停数据与恐慌程度",
+    "sentiment": "mixed",
+    "key_opinions": ["双冰核心是恐慌超卖，目前恐慌不够", "今早开盘下杀可算双冰", "部分个股已超卖但大盘未到恐慌"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 4,
+    "summary": "科技板块复盘帖，分析九阳异动节点三种走势可能性及伴生题材",
+    "sentiment": "mixed",
+    "key_opinions": ["明天是九阳异动最后一天关键节点", "最差情况高位股短线大退潮", "伴生题材AI传媒机器人能否穿越待观察"],
+    "mentioned_stocks": ["九阳", "中际旭创"]
+  },
+  {
+    "index": 5,
+    "summary": "基于个人投资者数据推测还有最后一波牛市，讨论新增股民空间",
+    "sentiment": "mixed",
+    "key_opinions": ["8亿基民2亿股民，还有2亿空间", "需要还没入市的人来出钱", "2100点发动牛市到3300不现实"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "定投云铝补成重仓被套5个点，讨论铝的预期差和补仓策略",
+    "sentiment": "negative",
+    "key_opinions": ["补仓变重仓被套很蠢", "铝预期差大，利空已计价", "不是定投就别乱补仓，跌20%再加"],
+    "mentioned_stocks": ["云铝"]
+  },
+  {
+    "index": 7,
+    "summary": "摸了中芯国际被套，讨论中芯估值和买入时机",
+    "sentiment": "negative",
+    "key_opinions": ["100多追高中芯被套是手贱", "90多再买更合理", "中芯是国产科技核心不是电子厂"],
+    "mentioned_stocks": ["中芯国际"]
+  },
+  {
+    "index": 8,
+    "summary": "领了B站会员后冲进游戏ETF马上亏损，讨论游戏板块炒作逻辑",
+    "sentiment": "negative",
+    "key_opinions": ["利好落地就是大跌", "BLG人气不够，IG夺冠效果不同", "游戏ETF应买腾讯和B站才对"],
+    "mentioned_stocks": ["游戏ETF", "腾讯", "哔哩哔哩"]
+  },
+  {
+    "index": 9,
+    "summary": "感慨中际旭创从1500跌到400多，讨论科技股暴跌超预期",
+    "sentiment": "negative",
+    "key_opinions": ["半年1500跌到400跌幅太逆天", "双创腰斩超所有人预期", "越涨越便宜越跌越贵的悖论"],
+    "mentioned_stocks": ["中际旭创", "双创"]
+  },
+  {
+    "index": 10,
+    "summary": "AI分析中国通缩原因引发争论，讨论经济数据与通胀通缩",
+    "sentiment": "mixed",
+    "key_opinions": ["AI分析被指西化不符合国情", "统计局数据CPI正增长不是通缩", "世界工厂通缩是正常的"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "讨论黄仁勋女儿在英伟达内部崛起引发关注",
+    "sentiment": "mixed",
+    "key_opinions": ["疑似代理人战争", "靠的是父亲的影响力", "少主接班戏码"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 12,
+    "summary": "早上低点梭哈长鑫，面临被套风险",
+    "sentiment": "mixed",
+    "key_opinions": ["低点梭哈长鑫赌反弹", "长鑫有利空消息", "反正是赌场想玩就玩"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 13,
+    "summary": "看好下午大盘翻红叠加明天开会，但多数人认为开会必跌",
+    "sentiment": "negative",
+    "key_opinions": ["开会从来不是好事", "开会必跌已成共识", "高位补跌风险大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论黄金和创业板哪个套在顶点后能先回本",
+    "sentiment": "mixed",
+    "key_opinions": ["无意义猜测但引起讨论", "黄金和创业板都被套在顶点"],
+    "mentioned_stocks": ["黄金", "创业板"]
+  },
+  {
+    "index": 15,
+    "summary": "美的走势强劲被戏称银行股，讨论其红利属性",
+    "sentiment": "positive",
+    "key_opinions": ["美的走势太强像银行股", "属于经典红利老登", "都是红利股范畴"],
+    "mentioned_stocks": ["美的"]
+  },
+  {
+    "index": 16,
+    "summary": "总结只要在市场就会踩雷，只有红利避雷但红利也有雷",
+    "sentiment": "negative",
+    "key_opinions": ["科技光伏白酒都可能踩雷", "红利也会有二三十点回撤", "关键是分散投资"],
+    "mentioned_stocks": ["大唐发电", "中国移动", "长江电力"]
+  },
+  {
+    "index": 17,
+    "summary": "兆易创新再创新低，利润翻倍股价跌回去年引发困惑",
+    "sentiment": "negative",
+    "key_opinions": ["公司利润翻十倍股价跌回去年", "A股只有资金面和情绪面是真的", "跟随闪迪走势，独立行情不可能"],
+    "mentioned_stocks": ["兆易创新", "闪迪"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论港股走强是否在先救港股，分析港股与A股跷跷板",
+    "sentiment": "mixed",
+    "key_opinions": ["港股跌太久允许反弹一下", "恒科是科技的反向", "大摩将港股评价提到买入"],
+    "mentioned_stocks": ["港股", "恒生科技"]
+  },
+  {
+    "index": 19,
+    "summary": "吐槽十一月救市传闻落空，讨论救市实际效果",
+    "sentiment": "negative",
+    "key_opinions": ["救市只是给跑路机会不是给回本", "救市钱是有利息的只买指数", "救市等于温和下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "调侃韩国股票、世界杯、LOL全面崩盘的惨状",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股票世界杯LOL全崩", "现在是空头最好的时代", "韩国生育率反转也不好救"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论科技板块被批倒批臭后新股还能否有人买账",
+    "sentiment": "negative",
+    "key_opinions": ["科技新股承接恐怕成问题", "科技成为情绪表征拉升资金太大", "等3年又会重复暴涨暴跌"],
+    "mentioned_stocks": ["恒生科技"]
+  },
+  {
+    "index": 22,
+    "summary": "美的创新高说明红利不套人，5年最高点追高也能解套",
+    "sentiment": "positive",
+    "key_opinions": ["2021年最高点买美的5年解套还有股息", "小盘科技股被套就难了", "慢就是快很反人性"],
+    "mentioned_stocks": ["美的"]
+  },
+  {
+    "index": 23,
+    "summary": "红利涨得让人害怕，讨论红利持仓策略和抱团风险",
+    "sentiment": "mixed",
+    "key_opinions": ["红利涨太快让人害怕不知何时回调", "真主升还没开始有业绩支撑", "高位抱团拥挤度上升是危险信号"],
+    "mentioned_stocks": ["红利ETF"]
+  },
+  {
+    "index": 24,
+    "summary": "吐槽CPO板块暴跌，对科技股充满愤怒和无奈",
+    "sentiment": "negative",
+    "key_opinions": ["创业板跌2.5%气笑了", "中际旭创必刻进A股历史", "买了ETF玄学反买也没用"],
+    "mentioned_stocks": ["中际旭创", "创业板", "CPO"]
+  },
+  {
+    "index": 25,
+    "summary": "感叹AI硬件无人接盘持续下跌，讨论反弹都是逃命机会",
+    "sentiment": "negative",
+    "key_opinions": ["都想出去任何反弹被压下", "涨几倍十几倍的跌90%再看", "科技是水鬼每次上岸抓替死鬼"],
+    "mentioned_stocks": ["588170"]
+  },
+  {
+    "index": 26,
+    "summary": "赞叹大盘3600点被精准控盘",
+    "sentiment": "positive",
+    "key_opinions": ["3600点控得很精准"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "批评机构抱团乱拉科技股造成市场失衡，排名压力致恶性循环",
+    "sentiment": "negative",
+    "key_opinions": ["机构抱团拉大屁股科技害人害己", "排名算法导致越涨越疯", "深层KPI可能是让基民接盘科技"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "建议关注福建板块炒作机会，但多数人持谨慎态度",
+    "sentiment": "mixed",
+    "key_opinions": ["福建水泥一涨停两跌停太坑", "炒作已多次容易套人", "炒地图情绪为主基本面弱"],
+    "mentioned_stocks": ["福建水泥"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论经济差是否利好股市，涉及降息放水逻辑",
+    "sentiment": "mixed",
+    "key_opinions": ["经济差降息放水概率升高", "美股加息制约国内降息空间", "全球股债金油全绿只有恒生红"],
+    "mentioned_stocks": ["恒生"]
+  },
+  {
+    "index": 30,
+    "summary": "银行稳健理财连续下跌引发担忧，讨论债券市场风险",
+    "sentiment": "negative",
+    "key_opinions": ["稳健理财连跌四五天亏了", "高风险债暴雷外溢到低风险债", "所有债券都跌预计修复1-2个月"],
+    "mentioned_stocks": ["稳健理财", "中短债"]
+  },
+  {
+    "index": 31,
+    "summary": "3600点保卫战讨论，拉银行护盘被诟病",
+    "sentiment": "negative",
+    "key_opinions": ["3600铁裤裆剧情又要来", "拉银行反而导致观望者跑路", "创业重回1400已崩了"],
+    "mentioned_stocks": ["银行", "创业板"]
+  },
+  {
+    "index": 32,
+    "summary": "95后感慨房价股票商铺全亏，生活压力巨大心态崩溃",
+    "sentiment": "negative",
+    "key_opinions": ["600万房子跌到370万卖", "股票亏半年工资房价亏几百万", "95前后被时代收割很难受"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "吐槽尾盘拉升后再砸的套路，鱼钩都被砸死",
+    "sentiment": "negative",
+    "key_opinions": ["中午拉下午砸太恶心", "连钩子都能被砸死"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "预测3600能保住尾盘会V，但多数人不抱希望",
+    "sentiment": "mixed",
+    "key_opinions": ["熟悉套路尾盘V", "银行一直涨护指数", "创业板拉胯救不动"],
+    "mentioned_stocks": ["银行", "创业板"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论猪周期股票能否炒作，天邦等猪企走势分析",
+    "sentiment": "mixed",
+    "key_opinions": ["生猪价格5块不到还没到底", "降价反而是好事利去化", "猪价跌牧原反而能吃同行尸体"],
+    "mentioned_stocks": ["天邦", "牧原"]
+  },
+  {
+    "index": 36,
+    "summary": "询问美股券商相比国内有什么额外业务",
+    "sentiment": "mixed",
+    "key_opinions": ["美股券商长线震荡上行", "想了解国内没有的业务"],
+    "mentioned_stocks": ["券商"]
+  },
+  {
+    "index": 37,
+    "summary": "大盘快红了但股民的钱没回来，讨论化债背景下的分化",
+    "sentiment": "negative",
+    "key_opinions": ["大盘红了钱没回来", "钱都去银行里了", "没买对股票只能怪自己菜"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 38,
+    "summary": "统计局称消费市场扩大遭网友质疑和嘲讽",
+    "sentiment": "negative",
+    "key_opinions": ["统计局数据被网友嘲讽不靠谱", "个人消费降级明显不敢花钱", "投资端在缩说消费端在扩大矛盾"],
+    "mentioned_stocks": ["茅台"]
+  },
+  {
+    "index": 39,
+    "summary": "讨论是否出手抄底，建议谨慎为主",
+    "sentiment": "mixed",
+    "key_opinions": ["长电应该能喝汤", "没到前低不买", "昨天跌停抄今天又快跌停"],
+    "mentioned_stocks": ["长江电力"]
+  },
+  {
+    "index": 40,
+    "summary": "中午鱼钩拉升被砸下去的罕见现象引发讨论",
+    "sentiment": "negative",
+    "key_opinions": ["中午鱼钩被砸很罕见", "鱼都学聪明了吃了就跑", "已V起来很多但大家学聪明了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "10月经济数据发布，消费工业增加值低于预期引发悲观讨论",
+    "sentiment": "negative",
+    "key_opinions": ["社零同比0.4%远低于预期", "工业增加值4.8%也低于预期", "人口老龄化和下降是双重死亡螺旋"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "亚钾国际跌幅过大引发不满，分析基本面和大股东增持意图",
+    "sentiment": "mixed",
+    "key_opinions": ["亚钾国际基本面不错扩产在即", "大股东希望股价低方便增持", "印度大合同前景可期"],
+    "mentioned_stocks": ["亚钾国际"]
+  },
+  {
+    "index": 43,
+    "summary": "银行股拉升稳住指数但个股暴跌，指数与个股严重分化",
+    "sentiment": "negative",
+    "key_opinions": ["指数微跌散户鬼哭狼嚎", "拉银行保指数左手倒右手", "券商白酒保险也一起护盘"],
+    "mentioned_stocks": ["银行", "券商", "白酒", "保险"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论创业板本周能否到1900点，多数人看空",
+    "sentiment": "negative",
+    "key_opinions": ["一天跌100点很轻松", "今年震荡下行为主", "1900可以全仓抄"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论短债是否应该卖出转存银行定存",
+    "sentiment": "mixed",
+    "key_opinions": ["有人已全割了短债", "大额存单1.6%比定存划算", "短期调整而已不用割"],
+    "mentioned_stocks": ["短债"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论大盘是大V反转还是继续抱摔",
+    "sentiment": "negative",
+    "key_opinions": ["没有V的条件只能抱摔", "丝滑下跌说明明天还有大的", "没放量不支持V"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "超短打板实盘日记，展示打板策略和复盘分析",
+    "sentiment": "mixed",
+    "key_opinions": ["超短打板模式首板1/3仓", "早上前排板意气风发午觉醒全炸", "监管报团传闻导致连板全炸"],
+    "mentioned_stocks": ["青山", "天安", "东方海洋", "日出东方", "亚玛顿"]
+  },
+  {
+    "index": 48,
+    "summary": "股票基金理财全亏，感觉每天白打工般痛苦",
+    "sentiment": "negative",
+    "key_opinions": ["股票基金理财都是亏的", "之前一天亏2个月工资", "股债基全绿5天很难绷"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "大盘V型反弹但没人敢追，讨论是否诱多",
+    "sentiment": "negative",
+    "key_opinions": ["指数V起来钱没回来", "这轮下跌V了很多次没人信了", "疑是诱多下午可能砸回去"],
+    "mentioned_stocks": ["和元生物"]
+  },
+  {
+    "index": 50,
+    "summary": "九阳连续上涨引发讨论，龙头加速风险增大",
+    "sentiment": "mixed",
+    "key_opinions": ["龙头死于加速要结束了", "明天开始九阴真经", "涨到300+没问题的也有"],
+    "mentioned_stocks": ["九阳"]
+  }
+]
+```
