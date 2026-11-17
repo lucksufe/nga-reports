@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "上证指数3600点保卫战临近尾盘失守，网友调侃局势，预测将向3500甚至更低寻找支撑。",
+    "sentiment": "negative",
+    "key_opinions": ["3600阵地即将失守，向下寻找3555等支撑", "尾盘仍有人盼国家队拉回3600", "调侃跌势无止境，想到1000点保卫战"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "算电协同板块讨论九阳异动末日节点，高位股面临监管风险，短线博弈伴生题材穿越可能性。",
+    "sentiment": "mixed",
+    "key_opinions": ["九阳异动最后一天是短线大节点", "最差情况高位股短线大退潮，建议空仓", "关注AI传媒、机器人、商业航天能否接班"],
+    "mentioned_stocks": ["九阳股份", "中际旭创"]
+  },
+  {
+    "index": 3,
+    "summary": "网友质问股市下跌谁来负责，对监管层和救市政策极度失望，情绪悲观愤怒。",
+    "sentiment": "negative",
+    "key_opinions": ["监管只会喊话演戏，无人真正负责", "散户被收割，韭菜无力追责", "对市场心如死灰，敢怒不敢言"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "科技股跌幅收窄但中小盘非科技个股崩盘，市场风格分化令人困惑。",
+    "sentiment": "negative",
+    "key_opinions": ["科技没怎么跌，非科技个股却崩了", "中小盘股全面下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "围绕3574保卫战讨论，尾盘出现V型反弹迹象，情绪从绝望到短暂兴奋。",
+    "sentiment": "mixed",
+    "key_opinions": ["3574是当日关键保卫点位", "尾盘V型反弹让人看到希望", "有人认为这是弱者思维"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "金逸影视盘中大幅震荡，天地天地走势，疑似资金出货或多空激烈博弈。",
+    "sentiment": "negative",
+    "key_opinions": ["股价天地天地大幅震荡", "疑似主力疯狂出货", "换手率不算高但波动剧烈"],
+    "mentioned_stocks": ["金逸影视"]
+  },
+  {
+    "index": 7,
+    "summary": "讨论非科技股波段操作策略，超卖买入超买卖出，寻求底部放量缩量回踩个股互助回本。",
+    "sentiment": "mixed",
+    "key_opinions": ["超卖买入超买卖出做波段", "关注底部放巨量缩量回踩形态", "大家集思广益互助回本"],
+    "mentioned_stocks": ["安井食品", "海信"]
+  },
+  {
+    "index": 8,
+    "summary": "无奈之下转向白酒避险，茅台月线被看好，调侃茅台是真正硬科技。",
+    "sentiment": "mixed",
+    "key_opinions": ["茅台月线走势好看值得持有", "超过千元的只有茅台能稳住", "行情不好只能喝酒消愁"],
+    "mentioned_stocks": ["贵州茅台"]
+  },
+  {
+    "index": 9,
+    "summary": "假设被迫满仓买入的选股讨论，涵盖消费、妖股、茅台、短债ETF等多种选择。",
+    "sentiment": "mixed",
+    "key_opinions": ["不少散户已经满仓被套", "有推荐小熊电器、茅台等防御品种", "激进派选妖股，保守派选短债ETF"],
+    "mentioned_stocks": ["小熊电器", "九阳股份", "贵州茅台"]
+  },
+  {
+    "index": 10,
+    "summary": "东山精密自高点大幅下跌72%，网友以涨100%才异动来讽刺深套现状。",
+    "sentiment": "negative",
+    "key_opinions": ["东山精密高点回撤72%", "反讽涨100%才异动", "跌幅惨烈散户深套"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 11,
+    "summary": "中大科技持续暴跌见底讨论，网友计算跌速和估值，期待英伟达业绩落地反攻。",
+    "sentiment": "negative",
+    "key_opinions": ["每天跌5%还需28天才回100元", "PE会越跌越贵，个位数PE可能才止跌", "期待英伟达业绩落地开启反攻"],
+    "mentioned_stocks": ["中际旭创", "英伟达"]
+  },
+  {
+    "index": 12,
+    "summary": "市场连日冰点让人绝望，四连冰历史罕见，反弹屡次被摁回，量化主导走势。",
+    "sentiment": "negative",
+    "key_opinions": ["冰线以下四连冰历史罕见", "反弹又被摁回去让人气笑", "3574像量化自己在修复"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "分析国家队拉银行等大市值股护盘思路，用少资金减缓指数下跌速率等科技股跌到位再救。",
+    "sentiment": "mixed",
+    "key_opinions": ["拉银行等权重股降低指数下跌速率", "等科技股跌够便宜再尝试拉升", "CPO散户低估筹码游戏本质"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "网友再次抄底，尾盘300ETF放量，疑似国家队出手，抄底瘾上头。",
+    "sentiment": "mixed",
+    "key_opinions": ["抄底瘾上来了又出手", "尾盘300ETF放量疑似国家队", "逆势买入赌反弹"],
+    "mentioned_stocks": ["300ETF"]
+  },
+  {
+    "index": 15,
+    "summary": "澜起科技深度被套散户哀嚎，亏损25%-45%割不下手，后悔听信论坛推荐。",
+    "sentiment": "negative",
+    "key_opinions": ["澜起科技深套亏损严重割不下手", "后悔信论坛推荐炒股", "有人割在低位后继续暴跌"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 16,
+    "summary": "散户红盘补仓又亏3%，被市场反复收割心态崩溃，国家队砧板式割韭菜。",
+    "sentiment": "negative",
+    "key_opinions": ["红盘补仓又亏3%心态崩溃", "国家队铺砧板式割韭菜", "该操作时不操作账户从红到绿"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "北方稀土接近跌停，禁稀土出口反而利空引发讨论，流动性缩紧基本面分析失效。",
+    "sentiment": "negative",
+    "key_opinions": ["禁出口导致库存积压国内白菜价卖是利空", "中国稀土高开低走带崩北方稀土", "流动性极致缩紧分析没意义"],
+    "mentioned_stocks": ["北方稀土", "中国稀土"]
+  },
+  {
+    "index": 18,
+    "summary": "东山精密持续跌停被戏称为臭股，与沪电股份股价对比反差大。",
+    "sentiment": "negative",
+    "key_opinions": ["东山精密连跌被称为臭股", "股价被沪电股份反超", "持续跌停散户绝望"],
+    "mentioned_stocks": ["东山精密", "沪电股份"]
+  },
+  {
+    "index": 19,
+    "summary": "美的集团走势强劲因高分红长线资金支撑，股息率4.64%吸引分红复投。",
+    "sentiment": "positive",
+    "key_opinions": ["高分红+长线资金持有支撑股价", "股息率4.64%海外业务有增长", "长线资金分红复投不卖"],
+    "mentioned_stocks": ["美的集团", "云铝股份"]
+  },
+  {
+    "index": 20,
+    "summary": "传闻国家队以后不频繁救市只托不举，跌破前低无人管，市场对救市信心崩塌。",
+    "sentiment": "negative",
+    "key_opinions": ["小作文称以后不频繁救市只托不举", "跌破前低国家队无动于衷", "救市心电图式做T收割散户"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "探讨何时抄底，各指数点位预测分歧大，00后亏损严重幻想翻倍被劝醒。",
+    "sentiment": "negative",
+    "key_opinions": ["00后亏30万幻想东山精密翻倍被泼冷水", "给出各指数底部点位预测", "没人看得到底在哪，螺旋下跌中"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 22,
+    "summary": "当前行情类似贸易战初期，宏大叙事转弯导致资金出逃是下跌主因。",
+    "sentiment": "negative",
+    "key_opinions": ["宏大叙事转弯致软骨头资金跑路", "类似贸易战初期的恐慌", "无法用其他理由解释持续下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "有人全力做多期待最后一舞，但被调侃为下跌中继抄底者。",
+    "sentiment": "mixed",
+    "key_opinions": ["全力做多期待止跌", "被质疑是下跌中继", "大额资金入场仍被嘲讽"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "福建板块因地缘政治题材炒作，但个股暴涨暴跌难把握，炒作风险大。",
+    "sentiment": "mixed",
+    "key_opinions": ["对面大选+地缘政治催生福建概念", "福建水泥一涨停接两跌停难操作", "炒作可能又套一批人"],
+    "mentioned_stocks": ["福建水泥"]
+  },
+  {
+    "index": 25,
+    "summary": "市场尾盘再次爆仓，无差别下杀，量化按掉横盘股，科技股领跌全市场。",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘爆仓加速下跌无下影线", "量化套不了利直接砸盘", "科技股拖累全市场下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "中大科技自由落体式下跌无人接盘，换手率高散户轮流均摊亏损。",
+    "sentiment": "negative",
+    "key_opinions": ["自由落体下跌本周或见2字头", "换手率高散户轮流均摊亏损", "看似软着陆实则深不见底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "引用游戏台词感叹牛市灭亡之快，对市场从牛市到崩溃的转变感到讽刺。",
+    "sentiment": "negative",
+    "key_opinions": ["牛市灭亡之路超乎想象的短", "勃勃生机的牛市犹在眼前却已崩塌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "讨论上汽集团投资价值，图形不错但调整时间不足，H股溢价值得关注。",
+    "sentiment": "mixed",
+    "key_opinions": ["图形不错但调整时间还需2年", "汽车板块整体可关注", "A/H溢价快到50%值得关注H股"],
+    "mentioned_stocks": ["上汽集团", "特斯拉"]
+  },
+  {
+    "index": 29,
+    "summary": "碳酸锂9万附近横盘讨论是否见底，多空分歧大，供给过剩vs预期触底。",
+    "sentiment": "mixed",
+    "key_opinions": ["锂电全链条供过于求碳酸锂难说触底", "锂价跌至9万后交易预期会反转向上", "天齐赣锋跌不动是建仓信号"],
+    "mentioned_stocks": ["天齐锂业", "赣锋锂业"]
+  },
+  {
+    "index": 30,
+    "summary": "直接宣布熊市，4天跌回前期低点，大部分网友认为早已进入熊市。",
+    "sentiment": "negative",
+    "key_opinions": ["4天跌回前期低点熊市已确立", "技术性熊市早已到来", "被称为牛灾或慢牛的讽刺"],
+    "mentioned_stocks": ["小熊电器"]
+  },
+  {
+    "index": 31,
+    "summary": "超短打板实盘分享，首板1/3仓接力1/6仓，严格控仓稳定复利的交易模式。",
+    "sentiment": "mixed",
+    "key_opinions": ["超短打板严格仓位管理", "早上满仓前排板午盘全炸", "小作文监管抱团导致连板炸裂"],
+    "mentioned_stocks": ["青山纸业", "天安", "东方海洋", "日出东方", "金辰股份"]
+  },
+  {
+    "index": 32,
+    "summary": "讨论不买科技股的轻松感，美股科技K线争议，阿里三天跌10%。",
+    "sentiment": "negative",
+    "key_opinions": ["不持有科技股比较轻松", "加息利好科技的说法引发争论", "阿里三天跌10%科技股难做"],
+    "mentioned_stocks": ["阿里巴巴"]
+  },
+  {
+    "index": 33,
+    "summary": "有研新材逆势涨停硬于板块，量化凶猛，但硬的通常后面补跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["有研新材逆势涨停硬过板块", "量化凶猛缩量行情不敢追", "硬的通常后面会补跌"],
+    "mentioned_stocks": ["有研新材", "先导基电"]
+  },
+  {
+    "index": 34,
+    "summary": "假设英伟达临时CEO踩刹车对全球AI产业链影响，管理层换人风险引发担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达管理层换人或砍预算影响AI产业链", "中美达成共识全面限制中国算力", "英伟达毛利率超90%变革或利好产业"],
+    "mentioned_stocks": ["英伟达", "软银"]
+  },
+  {
+    "index": 35,
+    "summary": "无差别下杀市场惨烈，网友绝望喊2600点见，追问是否还有救。",
+    "sentiment": "negative",
+    "key_opinions": ["无差别下杀市场惨烈", "悲观喊出2600点目标", "对市场是否有救充满绝望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "3574点位跌破，网友讨论下一个支撑在3500甚至更低，尾盘砸恐慌盘。",
+    "sentiment": "negative",
+    "key_opinions": ["3574已破下一支撑看3500", "2点半砸证券制造恐慌盘", "更悲观者看到2600"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "劝管住手留好现金好好生活，速冻食品股逆势红盘成为避险亮点。",
+    "sentiment": "mixed",
+    "key_opinions": ["管住手留好现金活到下个纪元", "安井食品等速冻股逆势红盘", "别抄底，等一段时间不吃亏"],
+    "mentioned_stocks": ["安井食品"]
+  },
+  {
+    "index": 38,
+    "summary": "再次提醒别抄底留好现金好好活着，警告下跌才是开始。",
+    "sentiment": "negative",
+    "key_opinions": ["千万别抄底这可能只是开始", "留好现金好好生活为上"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "中大科技带崩科技板块，讨论跌到2字头甚至更低才能横盘企稳。",
+    "sentiment": "negative",
+    "key_opinions": ["中大科技带崩所有科技股", "跌到2字头或0字头才可能横住", "两位数价格更合理"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "当日最大亏损日，早盘还好下午急跌吃跌停，消费股杀跌惨烈。",
+    "sentiment": "negative",
+    "key_opinions": ["今日是本月最大亏损日", "早盘欣欣向荣下午急转直下", "消费股杀跌也很狠"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "讨论紫金矿业的买入时机，股息率3%被看多，等24元附近接盘。",
+    "sentiment": "mixed",
+    "key_opinions": ["紫金矿业股息率3%值得拥有", "等24元附近拿盆接", "被调侃为论坛几大魅魔之一"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 42,
+    "summary": "九阳股份疯狂地天板，极致抱团硬刚监管，阳字辈集体异动。",
+    "sentiment": "mixed",
+    "key_opinions": ["九阳股份极致抱团硬刚监管", "阳字辈个股集体地天板", "只有大A敢这么炒也敢这么放任"],
+    "mentioned_stocks": ["九阳股份", "阳光乳业", "阳光照明"]
+  },
+  {
+    "index": 43,
+    "summary": "创业板随意跌2%习以为常，日内振幅3个点，跌破1900后看更低。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板跌2%像玩一样轻松", "日内振幅3个点常态化", "本周或看1900甚至1700"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "市场已不仅是熊市而是流动性危机，修复预期落空，跌势或持续到更低点位。",
+    "sentiment": "negative",
+    "key_opinions": ["流动性危机已来临", "修复不出现只剩跑路机会", "明年去3000也不奇怪"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "反弹被骗进场又被套，创业板ETF四天亏13%，下跌趋势中教训惨痛。",
+    "sentiment": "negative",
+    "key_opinions": ["反弹骗进场又被套", "创业板ETF买入4天亏13%", "下跌趋势莫伸手伸手必被抓"],
+    "mentioned_stocks": ["创业板ETF"]
+  },
+  {
+    "index": 46,
+    "summary": "担忧生益科技和胜宏科技拖累英伟达出货进度，科技股死而不僵拖累市场。",
+    "sentiment": "negative",
+    "key_opinions": ["生益胜宏拖累英伟达Rubin出货进度", "科技股死而不僵拖累整体市场", "应该早死早解脱"],
+    "mentioned_stocks": ["生益科技", "胜宏科技", "英伟达"]
+  },
+  {
+    "index": 47,
+    "summary": "光模块资金鱼死网破砸盘带崩市场，量化主导直上直下无人性化交易。",
+    "sentiment": "negative",
+    "key_opinions": ["光模块资金砸盘带崩大盘", "量化直上直下没有活人在玩", "主升吸大盘主跌也吸大盘"],
+    "mentioned_stocks": ["华虹"]
+  },
+  {
+    "index": 48,
+    "summary": "对比韩国股市缺乏银保证护盘，A股靠银行保险证券拉指数的独特性。",
+    "sentiment": "mixed",
+    "key_opinions": ["全球只有A股有拉银保证保指数能力", "韩国指数三星海力士占一半权重", "证券股尿壶属性被展示"],
+    "mentioned_stocks": ["中信证券"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论3600点位没必要割肉的说法，但历史证明每次不割都继续跌。",
+    "sentiment": "negative",
+    "key_opinions": ["这个点位不必割肉的话骗了很多人", "腰斩后还可能脚踝斩", "后视镜看任何时候割肉都对"],
+    "mentioned_stocks": ["东山精密"]
+  },
+  {
+    "index": 50,
+    "summary": "国家队5万亿锁仓5年的小作文引发讨论，被嘲讽为做梦，利好银行红利股。",
+    "sentiment": "mixed",
+    "key_opinions": ["小作文称5万亿锁仓5年纯属做梦", "若真如此利好银行红利股", "锁仓5年贷款不用还的讽刺"],
+    "mentioned_stocks": ["工商银行"]
+  }
+]
+```
