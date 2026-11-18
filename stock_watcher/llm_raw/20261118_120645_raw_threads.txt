@@ -1,0 +1,347 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "海皇逆势4连阳，讨论是持有还是卖出，建议留底仓操作",
+    "sentiment": "mixed",
+    "key_opinions": ["等新高还是马上卖出存在分歧", "建议保留底仓不卖其余灵活操作", "前高18元是重要参考位"],
+    "mentioned_stocks": ["海皇"]
+  },
+  {
+    "index": 2,
+    "summary": "连续五天冰点下跌，市场情绪极度低迷，短线全在A杀",
+    "sentiment": "negative",
+    "key_opinions": ["涨得慢跌得快，市场令人失望", "短线情绪极差全在A杀", "国家队砸出黄金坑的说法存疑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "机器人板块连续下跌五天，宇树也跌，创新药同样低迷",
+    "sentiment": "negative",
+    "key_opinions": ["机器人板块连续五天下跌", "宇树科技表现也不行", "创新药同样天天绿"],
+    "mentioned_stocks": ["宇树科技"]
+  },
+  {
+    "index": 4,
+    "summary": "超短打板实盘记录，复盘连板炸板情况，讨论打板策略和仓位管理",
+    "sentiment": "mixed",
+    "key_opinions": ["严格控制仓位，不做强买不做随手单", "连板炸板严重行情极难操作", "监管传闻导致抱团瓦解"],
+    "mentioned_stocks": ["青山纸", "天安", "东方海洋", "日出东方", "日海", "金晨", "亚玛顿"]
+  },
+  {
+    "index": 5,
+    "summary": "华夏幸福跌停逼近面值退市，平安系受牵连，债基大幅亏损引担忧",
+    "sentiment": "negative",
+    "key_opinions": ["华夏幸福可能退市，平安系血本无归", "债基两周跌没大半年收益", "地产行业风险可能进一步扩散"],
+    "mentioned_stocks": ["华夏幸福", "万科", "华侨城", "平安"]
+  },
+  {
+    "index": 6,
+    "summary": "连续多天4000家下跌，市场极端低迷，讨论冰点何时结束",
+    "sentiment": "negative",
+    "key_opinions": ["连续4000家下跌创历史", "指数跌幅不大但个股惨烈", "冰点下面还有更深的冰点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "用医院比喻当前市场惨状，ICU满员市场极度悲观",
+    "sentiment": "negative",
+    "key_opinions": ["市场惨烈如ICU满员", "用黑色幽默表达绝望情绪", "暗示市场病入膏肓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "军工板块瀑布式下跌，没有逻辑支撑，市场流动性不足被抽血",
+    "sentiment": "negative",
+    "key_opinions": ["军工没有逻辑，大盘弱难独善其身", "市场流动性不足资金被抽去AI", "空军补跌之前抗跌板块"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "中国神华涨十倍引发讨论，实际含分红涨幅约3倍，分红高是核心逻辑",
+    "sentiment": "positive",
+    "key_opinions": ["前复权涨幅被夸大，实际约3倍含分红", "分红高是持续上涨核心逻辑", "防御性抱团标的体现A股特色"],
+    "mentioned_stocks": ["中国神华", "中际旭创"]
+  },
+  {
+    "index": 10,
+    "summary": "AI市场矛盾：算力紧缺订单充足但股价大跌，商业模式未闭环是关键",
+    "sentiment": "mixed",
+    "key_opinions": ["算力紧缺供不应求但股价持续下跌", "商业模式未闭环用户不愿付费", "股价曾透支过多套牢盘严重"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "沪电股份近期抗跌引发关注，但此前同样故事导致大跌，谨慎对待",
+    "sentiment": "mixed",
+    "key_opinions": ["前期反弹后现抗跌，但有补跌风险", "之前吹抗跌后从三位数跌到两位数", "台资企业有一定buff加持"],
+    "mentioned_stocks": ["沪电股份", "东山精密", "生益科技"]
+  },
+  {
+    "index": 12,
+    "summary": "沪电逆势拉升后又坠机，资金行为难以理解",
+    "sentiment": "negative",
+    "key_opinions": ["资金行为反复无常", "天天逆势拉升然后坠机", "担心补跌风险"],
+    "mentioned_stocks": ["沪电股份"]
+  },
+  {
+    "index": 13,
+    "summary": "江苏金租持续创新高，本质类似银行但ROE更好，小众宝藏股",
+    "sentiment": "positive",
+    "key_opinions": ["日线周线月线全是45度向上", "本质银行但ROE比银行好", "港股金租股也有不错机会"],
+    "mentioned_stocks": ["江苏金租", "中国船舶租赁", "中银飞机租赁", "海通恒信", "远东宏信"]
+  },
+  {
+    "index": 14,
+    "summary": "主动ETF持仓分析，多数与A50雷同，仅少数基金风格激进",
+    "sentiment": "mixed",
+    "key_opinions": ["除永赢和摩根外大多与A50雷同", "主动资金偏长期投资风格", "科技牛可能结束转向红利慢牛"],
+    "mentioned_stocks": ["永赢基金", "摩根基金", "南方基金", "A50"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论外循环受阻后如何盘活内循环，多数人认为内循环是伪命题",
+    "sentiment": "negative",
+    "key_opinions": ["内循环是假命题，改开核心是外循环", "需改善预期而非单纯补贴刺激", "内循环可能加剧财富分化"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "讨论股票除权复权概念，新股民不理解导致高分红股票涨幅误判",
+    "sentiment": "negative",
+    "key_opinions": ["红利股应后复权看涨幅", "前复权看高分红股涨幅失真", "新股民缺乏基础知识引争议"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论量化私募梁文锋是否会被查，多数认为不太可能",
+    "sentiment": "mixed",
+    "key_opinions": ["梁文锋上交成果算是投名状", "量化不止梁文锋一人在玩", "科技属性使其不太可能被查"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "利通电子昨天割肉今天涨停，懊恼不已犹豫是否追回",
+    "sentiment": "negative",
+    "key_opinions": ["割肉后涨停十分懊恼", "没有勇气再买回来", "犹豫明天是否追入"],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 19,
+    "summary": "缩量流动性枯竭，题材无热点，担忧千层套继续下行",
+    "sentiment": "negative",
+    "key_opinions": ["盘面缩量流动性完全消失", "接力资金进一个死一个", "创业板走势类似24年一路下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "国家队拉科创50抽干大盘流动性，救市效果被质疑",
+    "sentiment": "negative",
+    "key_opinions": ["拉科创50导致其他板块失血", "救市可能救出3000点股灾", "套牢盘过多拉不动需要天量成交"],
+    "mentioned_stocks": ["科创50"]
+  },
+  {
+    "index": 21,
+    "summary": "阿波罗CEO称保险资金支撑8万亿AI建设，被质疑是化债套路",
+    "sentiment": "negative",
+    "key_opinions": ["AI债务多为垃圾级险资不应购买", "类似08年化债老套路", "担忧形成新金融危机"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论仓位管理实际意义，多数认为是控制风险和心态的手段",
+    "sentiment": "mixed",
+    "key_opinions": ["仓位管理本质是胜率与仓位匹配", "能睡着觉就是合理仓位", "小资金不需要复杂仓位管理"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "九阳异动最后一天是短线大节点，讨论伴生题材能否穿越",
+    "sentiment": "mixed",
+    "key_opinions": ["九阳异动末期是短线关键节点", "最好情况二波形态，最差送进监管", "关注AI传媒和机器人能否穿越"],
+    "mentioned_stocks": ["九阳", "中际旭创", "航发"]
+  },
+  {
+    "index": 24,
+    "summary": "英伟达夜盘跳绿，老黄离开后市场信心不足",
+    "sentiment": "negative",
+    "key_opinions": ["老黄不可能回来前景不明", "财报超预期但功劳归老黄", "夜盘从5个点砸到绿"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 25,
+    "summary": "九阳神功破板，题材全线崩塌，天道狙杀抱团和短线",
+    "sentiment": "negative",
+    "key_opinions": ["黄线直插地心题材无活口", "监管狙杀抱团和短线行情", "连板票第三板是坎"],
+    "mentioned_stocks": ["九阳"]
+  },
+  {
+    "index": 26,
+    "summary": "银行板块持续强势，科技爱好者想换仓到银行",
+    "sentiment": "mixed",
+    "key_opinions": ["银行不托着大盘就要崩", "银行还缺一波主升", "科技玩家看不上银行收益"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 27,
+    "summary": "紫金矿业走势疲软如蛆，投资者被套讨论是否值得抄底",
+    "sentiment": "negative",
+    "key_opinions": ["股价从高位一路下跌", "高成本买入者严重套牢", "跌到20元是否值得接"],
+    "mentioned_stocks": ["紫金矿业", "赤峰黄金"]
+  },
+  {
+    "index": 28,
+    "summary": "羊字辈猴字辈炒完轮到熊字辈，纯玄学概念股投机",
+    "sentiment": "mixed",
+    "key_opinions": ["熊字辈概念接力炒作", "南京熊猫等被跟风买入", "提前埋伏已亏5个点"],
+    "mentioned_stocks": ["小熊电器", "南京熊猫", "大地熊", "九阳"]
+  },
+  {
+    "index": 29,
+    "summary": "缩量拉科技导致其他板块失血，科技跌4天仅微红还要背锅",
+    "sentiment": "negative",
+    "key_opinions": ["科技吸血导致4000家下跌", "家电被科技拉崩", "科技上涨下跌都从市场吸资金"],
+    "mentioned_stocks": ["九阳", "超威"]
+  },
+  {
+    "index": 30,
+    "summary": "算力租赁概念拉升，利通涨停但资金量不足，质疑持续性",
+    "sentiment": "mixed",
+    "key_opinions": ["利通涨停作为AI资金晴雨表", "缩量拉升持续性存疑", "板块小票为主可能是轮动"],
+    "mentioned_stocks": ["利通电子", "润建"]
+  },
+  {
+    "index": 31,
+    "summary": "调侃明天是更新日，预计继续下跌",
+    "sentiment": "negative",
+    "key_opinions": ["好的话跌一天，坏的话连跌两天", "明天可能继续下跌", "用娱乐化方式缓解压力"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "有人喊下午必涨抢筹码，被嘲讽每次新低都这样说然后抱摔",
+    "sentiment": "negative",
+    "key_opinions": ["每次新低都有人喊抄底然后抱摔", "需要抢筹的反弹最好别参与", "质疑喊单者动机"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "市场严重缩量不会有行情，套牢者不愿接盘",
+    "sentiment": "negative",
+    "key_opinions": ["没量不会有行情", "不会回来给套牢盘接盘", "行情极度低迷"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "海狗在17元有支撑，科技拉升影响其他股票买入时机",
+    "sentiment": "mixed",
+    "key_opinions": ["17元支撑较强", "科技拉升影响其他票好价", "等待买入机会被科技干扰"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "五连冰后有人喊抄底，但多数人认为风险太大需等底部确认",
+    "sentiment": "negative",
+    "key_opinions": ["五连冰血流成河应抄底（少数意见）", "板块全是抄底帖反而不敢抄", "最多反弹非反转不建议重仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "空仓观望中，局部有机会但总体难度太大",
+    "sentiment": "negative",
+    "key_opinions": ["空仓时选的票反而涨", "买入就被套", "操作难度太高选择观望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "利通电子筑底迹象，小额买入记录，长期粉丝表示忠诚",
+    "sentiment": "mixed",
+    "key_opinions": ["跌破位后观察有筑底迹象", "12月8日有股份解禁需注意", "有人带此票赚十几万"],
+    "mentioned_stocks": ["利通电子"]
+  },
+  {
+    "index": 38,
+    "summary": "多位大佬停更消失，行情差被喷走，社区环境恶化",
+    "sentiment": "negative",
+    "key_opinions": ["吹票大佬因亏损和被喷而消失", "社区环境只剩喷子互相攻击", "吹票者不关注宏观流动性"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 39,
+    "summary": "科技板块短暂拉升沪电接近涨停，但缩量拉升后大概率回落",
+    "sentiment": "mixed",
+    "key_opinions": ["缩量拉科技结果不用多说", "算租批量涨停但不敢碰", "沪电经常上午涨停下午暴跌"],
+    "mentioned_stocks": ["沪电股份", "利通电子"]
+  },
+  {
+    "index": 40,
+    "summary": "提醒明天是更新日，左侧操作风险大",
+    "sentiment": "negative",
+    "key_opinions": ["明天可能继续下跌", "做左侧按天算风险极高", "一周绿色后可能涨一天"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "有人喊今天或明天必涨拿住，但多数人质疑并指出多项历史记录被打破",
+    "sentiment": "negative",
+    "key_opinions": ["明天周四法定砸盘日", "很多指标已创历史新低", "今天拉明天继续冰"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "缩量行情上涨不跑下午必然暴跌，近期走势验证此规律",
+    "sentiment": "negative",
+    "key_opinions": ["缩量上涨不跑下午必爆摔", "缩量情况下午必砸已成规律", "向上不了就是向下"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "紫金矿业一买就被套，买点把握不住",
+    "sentiment": "negative",
+    "key_opinions": ["一买就被套", "买入即亏损", "操作体验极差"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论黄金是否会套人多年，对黄金反弹持怀疑态度",
+    "sentiment": "negative",
+    "key_opinions": ["黄金每次反弹都是为了更好下跌", "美国加息空间有限难以持续", "紫金拖着跌不到位很烦"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 45,
+    "summary": "暴跌中是否还有救市，官方沉默引发恐慌",
+    "sentiment": "negative",
+    "key_opinions": ["跌成这样连个喇叭都没有", "在救了但感觉不到", "抱有期望是无奈之举"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "流动性不足导致各板块互相吸血，题材类可能真要死",
+    "sentiment": "negative",
+    "key_opinions": ["红利妖股海外链半导体各开一桌", "互相比吸血流动性不够", "题材类可能真要死了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "市场量缩严重无行情，除银行科技外其他方向都低迷",
+    "sentiment": "negative",
+    "key_opinions": ["没量了行情玩不下去", "九阳小熊破板缩量800亿", "钱少场子热不起来"],
+    "mentioned_stocks": ["九阳", "小熊电器"]
+  },
+  {
+    "index": 48,
+    "summary": "银行科技之外其他方向是否值得埋伏，多数认为没好机会",
+    "sentiment": "negative",
+    "key_opinions": ["其他方向今天跌最惨", "需挑有人维护的方向埋伏", "建议加息落地前保持空仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "科技股普遍腰斩被称为双折叠，后悔没去炒小炒差",
+    "sentiment": "negative",
+    "key_opinions": ["多只科技票已腰斩", "东山基米等已丝滑双折叠", "最后悔没去炒小炒差"],
+    "mentioned_stocks": ["东山精密"]
+  }
+]
+```
