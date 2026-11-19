@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论下午是否变盘，看多科技V型反转与看空加速下杀分歧明显，有人质疑无依据预测。",
+    "sentiment": "mixed",
+    "key_opinions": ["看好V型反转，长鑫光刻胶封测未崩", "指数要拉红可挂单进科技", "无数据依据的预测太多，拉高砸盘是明牌"],
+    "mentioned_stocks": ["长鑫", "光刻胶", "封测", "300"]
+  },
+  {
+    "index": 2,
+    "summary": "A股收盘后韩国指数拉升，讨论是否带动中韩半导体，部分人FOMO想追入。",
+    "sentiment": "mixed",
+    "key_opinions": ["中韩半导体可能受益韩指拉升", "担心开盘A股又跌回去", "FOMO情绪蔓延想下午梭哈"],
+    "mentioned_stocks": ["中韩半导体", "日经225"]
+  },
+  {
+    "index": 3,
+    "summary": "科技算电协同楼讨论九阳异动最后一天，分析三种走势及伴生题材穿越可能。",
+    "sentiment": "mixed",
+    "key_opinions": ["九阳异动最后一天是短线大节点", "最差情况高位股短线大退潮", "关注AI传媒机器人或商业航天接班"],
+    "mentioned_stocks": ["九阳", "中际旭创", "商业航天"]
+  },
+  {
+    "index": 4,
+    "summary": "黄金浮亏25%是否割肉，多数人建议不急用钱就持有或定投，不追涨杀跌。",
+    "sentiment": "negative",
+    "key_opinions": ["3万闲钱不用割，可长期持有", "加息周期有色难做，可定投摊低成本", "配置比例不高，追涨杀跌反而更亏"],
+    "mentioned_stocks": ["黄金", "创业板"]
+  },
+  {
+    "index": 5,
+    "summary": "纳指韩指日经集体拉升而A股掉队，有人认为下午是买点，也有人指出科创已拉。",
+    "sentiment": "mixed",
+    "key_opinions": ["外围拉升A股不跟，剧情重复", "今天绝对是个买点", "科创尾盘已拉两个多点"],
+    "mentioned_stocks": ["纳指", "韩国指数", "日经", "科创"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论AI打乱半导体节奏，担忧算力被卡导致竞赛落后，也有质疑AI实际生产力提升。",
+    "sentiment": "negative",
+    "key_opinions": ["AI极大提升生产力但算力被卡很被动", "对AGI落地和实际收益存疑", "人力成本节省大于新业务创造"],
+    "mentioned_stocks": ["科创", "半导体"]
+  },
+  {
+    "index": 7,
+    "summary": "央行抄底黄金也被套，讨论其储备性质与长期持有逻辑，不适用散户操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["央行买黄金是储备不是赚差价", "考核增持吨数不会高抛低吸", "央行能拿几十年散户不能照搬"],
+    "mentioned_stocks": ["黄金", "美债"]
+  },
+  {
+    "index": 8,
+    "summary": "调侃今天或能暴打久留美，有人警告别提前开香槟庆祝。",
+    "sentiment": "positive",
+    "key_opinions": ["对今天行情较乐观想暴打对手", "别太早开香槟", "太多人等着看热闹"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "中韩刚说加深合作就传三星停代工小作文，讨论韩国政治与三星立场。",
+    "sentiment": "negative",
+    "key_opinions": ["中韩自贸区谈判与小作文矛盾", "三星实际受美国压力影响", "HBM走私渠道不断影响有限"],
+    "mentioned_stocks": ["韩指", "三星", "HBM"]
+  },
+  {
+    "index": 10,
+    "summary": "讨论美国制裁是釜底抽薪，触及出口依赖与内需不振的结构性问题，观点对立激烈。",
+    "sentiment": "negative",
+    "key_opinions": ["出口和AI产业双双受制于人", "内部分配问题才是根本", "房地产消费就业多线承压"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "市场重新定价AI竞赛失利，算力封锁致连续大跌，对国产替代前景悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["算力渠道被卡国产训练受限", "没有新国产大模型就继续跌", "乐观派认为算法优化可抵算力差"],
+    "mentioned_stocks": ["寒武纪", "英伟达"]
+  },
+  {
+    "index": 12,
+    "summary": "九阳成市场唯一抱团标的，散户无奈抱妖股，期待地天或跨年妖行情。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场无赚钱效应只能抱九阳", "大盘差适合抱团跨年妖", "龙头有前仆后继的炮灰"],
+    "mentioned_stocks": ["九阳"]
+  },
+  {
+    "index": 13,
+    "summary": "黄金光速暴跌破位，市场归因流动性与加息，多数人建议别抄底。",
+    "sentiment": "negative",
+    "key_opinions": ["补流动性加加息导致暴跌", "美元指数逼近104压制金价", "建议别抄底还会持续跌"],
+    "mentioned_stocks": ["黄金", "美元指数", "美债"]
+  },
+  {
+    "index": 14,
+    "summary": "超短打板实盘记录，分享首板接力仓位管理与复盘，抱怨行情炸板频繁。",
+    "sentiment": "mixed",
+    "key_opinions": ["严格仓位控制和只买龙头", "小作文监管导致连板全炸", "本月浮亏约3个点"],
+    "mentioned_stocks": ["青山纸", "天安", "东方海洋", "亚玛顿"]
+  },
+  {
+    "index": 15,
+    "summary": "买入巨人网络后连跌六天恐慌，网友安慰属正常补跌，勿轻易加仓。",
+    "sentiment": "negative",
+    "key_opinions": ["游戏板块补跌属正常回调", "别手贱加仓当日要T出", "恐慌没必要，市场大把六连跌"],
+    "mentioned_stocks": ["巨人网络", "东山", "恒科"]
+  },
+  {
+    "index": 16,
+    "summary": "科创被救而创业板低迷，讨论海外链与国产链的业绩兑现差异。",
+    "sentiment": "mixed",
+    "key_opinions": ["创业板多海外链，科创国产芯片占比高", "海外链有业绩但受制裁风险", "国产链是情绪投机需多年兑现"],
+    "mentioned_stocks": ["科创", "创业板", "芯片半导体"]
+  },
+  {
+    "index": 17,
+    "summary": "连续五天4000多家下跌，担忧再现爆仓潮和指数进一步下行。",
+    "sentiment": "negative",
+    "key_opinions": ["担心雪球式连环爆仓重演", "基金清盘压力加大", "若砸银行或见3000点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "韩股日股开启V型反转，期待下午A股出现大奇迹日。",
+    "sentiment": "positive",
+    "key_opinions": ["韩日走V型反转", "期待下午大奇迹日"],
+    "mentioned_stocks": ["韩国指数", "日经"]
+  },
+  {
+    "index": 19,
+    "summary": "国家队强行托盘，认为逆市场行为有代价，托住银行但市场扭曲。",
+    "sentiment": "negative",
+    "key_opinions": ["托底是逆市场行为必有代价", "天天救市说明市场扭曲", "只托银行个股照跌"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论英伟达董事会拒绝黄仁勋回归的动机，认为背后有政治因素。",
+    "sentiment": "mixed",
+    "key_opinions": ["董事会决策受政治力量影响", "或先配合做空再破前高", "股东可能发起换董事会"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 21,
+    "summary": "认为本次股灾未关门可自由离场，被套者多因贪婪，调侃慢牛价值投资。",
+    "sentiment": "negative",
+    "key_opinions": ["本次未千股跌停可随时走", "没止盈止损被套是自找", "慢牛口号成地狱笑话"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "珠海华发外债问题引发地产风险担忧，或波及绿城保利等国企信用。",
+    "sentiment": "negative",
+    "key_opinions": ["华发外债违约冲击国企信用", "绿城保利或跟进展期", "影响或不亚于CPO小作文"],
+    "mentioned_stocks": ["珠海华发", "绿城", "保利"]
+  },
+  {
+    "index": 23,
+    "summary": "预测下午科技有大阳线，网友调侃散户命运，更有人看空出货。",
+    "sentiment": "mixed",
+    "key_opinions": ["预感科技下午出大阳线", "看空者认为会大阴线出货"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 24,
+    "summary": "紫金矿业跌至23元讨论是否接盘，多数人建议等企稳或更低位置。",
+    "sentiment": "negative",
+    "key_opinions": ["下跌太快建议等不破新低再买", "22/20/18分批接", "加息周期有色承压"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 25,
+    "summary": "猜测资金抽离参与Anthropic打新导致各类资产齐跌，汇率稳定无外流。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金石油股票齐跌或因打新抽资", "内地资金不能参与但大户可出去", "人民币汇率稳定无外流"],
+    "mentioned_stocks": ["黄金", "石油"]
+  },
+  {
+    "index": 26,
+    "summary": "分析意华与航天电器同属昇腾链，前者弹性大后者近期表现更佳。",
+    "sentiment": "mixed",
+    "key_opinions": ["意华受光模块影响反弹弹性大", "航天电器军工属性近期更抗跌", "埋伏过早收益吐回"],
+    "mentioned_stocks": ["意华", "航天电器", "昇腾"]
+  },
+  {
+    "index": 27,
+    "summary": "分析黄金与美联储加息关系，建议止损等待降息周期，也有长线定投观点。",
+    "sentiment": "negative",
+    "key_opinions": ["加息不止黄金下行不止", "美债危机论是故事别轻信", "长线定投可博弈美债风险"],
+    "mentioned_stocks": ["黄金", "美债", "美联储"]
+  },
+  {
+    "index": 28,
+    "summary": "赞赏海运股持续回购分红，认为优质公司回馈股东才是长期牛市基础。",
+    "sentiment": "positive",
+    "key_opinions": ["持续回购分红是好公司标志", "美股长牛源于公司普遍如此", "港股回购对A股同股同权利好"],
+    "mentioned_stocks": ["海狗"]
+  },
+  {
+    "index": 29,
+    "summary": "宣布全仓中芯国际信仰国产替代，但被质疑股价翻倍与业绩增长不匹配。",
+    "sentiment": "mixed",
+    "key_opinions": ["相信国产光刻机突破卡脖子", "股价翻倍但净利不及四年前", "股价不只看利润还看预期"],
+    "mentioned_stocks": ["中芯国际", "华虹"]
+  },
+  {
+    "index": 30,
+    "summary": "抱怨市场天天拉高诱多钓鱼，拉红即被砸，尾盘象征性拉升制造假象。",
+    "sentiment": "negative",
+    "key_opinions": ["拉高诱多后立刻砸盘", "抢跑导致拉红即绿", "尾盘象征性拉升制造救市假象"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "调侃久留美暴跌战绩可查，之前炸美股后拖垮A股，讨论其杀伤力。",
+    "sentiment": "mixed",
+    "key_opinions": ["久留美战绩可查几乎全中", "上周炸美股后拖累A股", "未收盘结果难说"],
+    "mentioned_stocks": ["纳指"]
+  },
+  {
+    "index": 32,
+    "summary": "铜价暴跌引发紫金矿业明日走势担忧，金铜双杀或致股价腰斩。",
+    "sentiment": "negative",
+    "key_opinions": ["铜价暴跌拖累紫金", "周期反转有色或腰斩", "金铜双杀罕见"],
+    "mentioned_stocks": ["紫金矿业", "铜", "黄金"]
+  },
+  {
+    "index": 33,
+    "summary": "感觉近期被引导进半导体，如同圈羊效应，科创ETF持续放量。",
+    "sentiment": "mixed",
+    "key_opinions": ["有被诱导追涨半导体的圈羊感", "更像往银行方向引导", "科创ETF放量明显"],
+    "mentioned_stocks": ["科创ETF", "半导体", "银行"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论美的集团走势强原因，归因高分红、海外市场与长线资金复投。",
+    "sentiment": "positive",
+    "key_opinions": ["股息率4.64%加海外业务有起色", "长线资金分红复投不卖", "之前无利空暴跌是买入机会"],
+    "mentioned_stocks": ["美的", "云铝"]
+  },
+  {
+    "index": 35,
+    "summary": "对比美联储口头加息有效而国内喇叭政策失灵，归因公信力差距。",
+    "sentiment": "negative",
+    "key_opinions": ["核心是政策信用水平差距", "美联储言行一致国内常打脸", "喇叭无后续行动无人信"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "恒生科技指数再创新低，多重利空叠加致持续阴跌，投资者深度套牢。",
+    "sentiment": "negative",
+    "key_opinions": ["科技涨跌恒科都跌更惨", "消费算力芯片多重利空", "买指数成最大亏损来源"],
+    "mentioned_stocks": ["恒科", "阿里", "字节"]
+  },
+  {
+    "index": 37,
+    "summary": "回顾2015年来救市均以失败告终，认为下跌通道救市只会形成死亡螺旋。",
+    "sentiment": "negative",
+    "key_opinions": ["历次救市最终都失败", "下跌通道救市只会死亡螺旋", "信喇叭会吃亏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "抱怨每天只拉半导体维持指数，质疑半导体会否补跌，救市资金难撤。",
+    "sentiment": "negative",
+    "key_opinions": ["拉半导体掩盖个股普跌", "救市资金困在半导体会护盘", "补跌是传统迟早会来"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 39,
+    "summary": "三星小作文引发恐慌，市场在官方消息与小作文间信任倒置，先跑为敬。",
+    "sentiment": "negative",
+    "key_opinions": ["小作文可信度高于官方", "只能做多没有空方平衡", "黑暗森林效应先跑免套"],
+    "mentioned_stocks": ["三星"]
+  },
+  {
+    "index": 40,
+    "summary": "调侃股灾利好喝酒吃药，实际中药等防御板块同样下跌，幽默看待困境。",
+    "sentiment": "negative",
+    "key_opinions": ["股灾利好喝酒吃药是调侃", "中药四天跌12%", "防御板块同样没戏"],
+    "mentioned_stocks": ["中药"]
+  },
+  {
+    "index": 41,
+    "summary": "情绪化发帖求股票上涨，表达对连续下跌的极度失望。",
+    "sentiment": "negative",
+    "key_opinions": ["恳求涨一天", "对行情极度失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "讨论每逢开会必跌的规律，批评会议未解决实质问题导致市场信心缺失。",
+    "sentiment": "negative",
+    "key_opinions": ["大会大跌小会小跌", "会议未解决问题浪费机会", "散户对政策失去信心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "柏诚股份三天两板，洁净室概念属晶圆制造配套，炒作小盘妖股阶段。",
+    "sentiment": "mixed",
+    "key_opinions": ["三天两板属晶圆制造配套概念", "筹码结构差靠炒作小妖股", "第一个板质量不佳"],
+    "mentioned_stocks": ["柏诚股份"]
+  },
+  {
+    "index": 44,
+    "summary": "空仓一月求认同，多数人戏称近期大赚，实际多数散户亏损但有人靠空仓避险。",
+    "sentiment": "mixed",
+    "key_opinions": ["空仓避险已打败九成散户", "近期多数人亏损", "不亏就是赚"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "讨论全球加息而中国降息的逆行处境，质疑不降息致流动性紧缩。",
+    "sentiment": "negative",
+    "key_opinions": ["全球加息我们通缩该降息", "不降息流动性被收紧", "人民币无贬值压力可宽松"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "三星停国产卡代工，利好中芯华虹利空寒武纪海光，受美国施压影响。",
+    "sentiment": "negative",
+    "key_opinions": ["利好中芯华虹利空寒武纪海光", "三星受美国压力非自愿", "寒武纪已转中芯代工"],
+    "mentioned_stocks": ["三星", "中芯国际", "华虹", "寒武纪", "海光"]
+  },
+  {
+    "index": 47,
+    "summary": "连跌致补仓意愿全无，杠杆投资者仅剩两成仓位，心态麻木。",
+    "sentiment": "negative",
+    "key_opinions": ["跌到不想补仓搏反弹", "两倍杠杆仅剩20%", "心如止水麻木"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "科技拉升引发争议，多认为是主力抱摔出货手法，尾盘偷鸡难持续。",
+    "sentiment": "mixed",
+    "key_opinions": ["拉的是沪深300中证500", "边打边撤主力出货", "尾盘拉升下午或抱摔"],
+    "mentioned_stocks": ["沪深300", "中证500", "科技"]
+  },
+  {
+    "index": 49,
+    "summary": "批评国家队在3550托盘拖延下跌，认为温和阴跌反而延长痛苦。",
+    "sentiment": "negative",
+    "key_opinions": ["托盘拖延下跌更久更深", "高度控盘如庄股出货", "不如痛快杀跌到市场底"],
+    "mentioned_stocks": ["科创"]
+  },
+  {
+    "index": 50,
+    "summary": "认为救市力度不足不如不救，钝刀割肉拖延市场底到来。",
+    "sentiment": "negative",
+    "key_opinions": ["救市力度不足不如不救", "早点到底早点反弹", "钝刀割肉更痛苦"],
+    "mentioned_stocks": []
+  }
+]
+```
