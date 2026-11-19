@@ -1,0 +1,352 @@
+[
+  {
+    "index": 1,
+    "summary": "讨论九阳异动最后一天的关键节点，及伴生题材AI传媒、机器人能否接力",
+    "sentiment": "mixed",
+    "key_opinions": ["九阳异动最后一天是短线大节点", "最差情况送进监管致高位股退潮", "伴生题材穿越博弈风险较大"],
+    "mentioned_stocks": ["九阳", "中际旭创", "航发"]
+  },
+  {
+    "index": 2,
+    "summary": "吐槽尾盘拉升到3574点是拉银行护指数，收割散户",
+    "sentiment": "negative",
+    "key_opinions": ["指数上下横跳来回收割散户", "尾盘买筹码次日继续砸", "靠拉银行把指数拉起来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "抱怨经济数据严峻而股市天天4000+下跌，痛批管理层无能",
+    "sentiment": "negative",
+    "key_opinions": ["经济差股市更差", "天天开会无实际作用", "今天5000+下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "吐槽尾盘神秘资金天天猛买，行情重复拉尾盘套路",
+    "sentiment": "negative",
+    "key_opinions": ["每天都是尾盘买的老套路", "讽刺又赢了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "赌输认栽，挂好宽基条件单止损，今年不消费",
+    "sentiment": "negative",
+    "key_opinions": ["赌输了认栽止损", "不消费对抗", "挂条件单大不了一起死"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "散户亏钱不敢回家，帖子安慰并询问亏损金额",
+    "sentiment": "negative",
+    "key_opinions": ["亏了一万不敢进家门", "劝其认错努力工作", "留得青山在不怕没柴烧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "超短打板实盘帖，分享模式原则与当日炸板复盘经验",
+    "sentiment": "mixed",
+    "key_opinions": ["超短打板按仓位纪律执行", "只买龙头注重板块效应", "小作文监管传闻致连板炸板"],
+    "mentioned_stocks": ["青山纸", "天安", "东方海洋", "日出东方", "亚玛顿", "金辰", "大东方", "天洋"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论今天科技与板块分化，5000+下跌下是否算赢",
+    "sentiment": "negative",
+    "key_opinions": ["板块跌科技涨难判断强弱", "5000+下跌谈不上赢", "仅大市值权重超跌缓一缓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "探讨哪些不知名公司像当年英伟达CUDA般做超前布局",
+    "sentiment": "mixed",
+    "key_opinions": ["超前20年等于纯赌", "生物医药机会较大", "好机会轮不到散户"],
+    "mentioned_stocks": ["水晶光电", "Moderna", "宇树"]
+  },
+  {
+    "index": 10,
+    "summary": "分析伊利上涨，认为资金转向低位高股息避险",
+    "sentiment": "positive",
+    "key_opinions": ["伊利业绩预期证伪后估值修复", "资金转向低位高股息避险", "格力等低股息票也走强"],
+    "mentioned_stocks": ["伊利", "格力"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论主力操盘手边做T边筑底吃血筹的强迫症手法",
+    "sentiment": "negative",
+    "key_opinions": ["主力做T吃血筹", "边T边筑底", "操盘手法太狗"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "抱怨港股新股泛滥无成交，压制A股上市公司估值",
+    "sentiment": "negative",
+    "key_opinions": ["港股新股发行泛滥", "港股股价压制A股估值", "有人反驳是自身问题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "观察到今日异常爆拉科技和红利，讨论策略是否改变",
+    "sentiment": "mixed",
+    "key_opinions": ["首次见这种拉科技和红利方式", "疑似策略切换"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "水贴，求发派大星图片",
+    "sentiment": "mixed",
+    "key_opinions": ["纯粹求图水贴"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "讨论尾盘拉升护盘，ETF爆量国家队救市但散户不信",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘ETF爆量疑似国家队", "拉尾盘没人上当", "只敢尾盘动手防T+1"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "吐槽砸一天后尾盘强行拉上3574点收割筹码",
+    "sentiment": "negative",
+    "key_opinions": ["砸一天尾盘收割筹码", "遮羞裤式护盘", "每天尾盘买开盘砸"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "感叹今日行情夸张，大日子必跌已成习惯",
+    "sentiment": "negative",
+    "key_opinions": ["大日子必跌已习惯", "越开会越要跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "痛骂强行拉指数上3574，最后收场一地鸡毛",
+    "sentiment": "negative",
+    "key_opinions": ["强行上3574令人反胃", "做什么都一地鸡毛"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "半导体本月涨21%，被指是20cm后反复收割",
+    "sentiment": "mixed",
+    "key_opinions": ["半导体月内涨21%很强", "质疑是拉高后反复收割"],
+    "mentioned_stocks": ["半导体"]
+  },
+  {
+    "index": 20,
+    "summary": "盘中撑不住只能拼命拉尾盘，今日勉强翻红",
+    "sentiment": "negative",
+    "key_opinions": ["盘中撑不住靠尾盘救", "看在红了份上勉强接受"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "悲观调侃希望今年见3000点，明年跌到2600",
+    "sentiment": "negative",
+    "key_opinions": ["预期跌到3000点", "明年可能2600"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "惊讶今日国家队拉升动手时间提前",
+    "sentiment": "mixed",
+    "key_opinions": ["拉升时间比预期早", "原以为50分才动手"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "吐槽国家队又装模作样尾盘买入完成护盘任务",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘花小钱办大事", "拉回3574完成任务", "5000+下跌指数微红"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论孙哥观点：字节如大清入关，老势力将被颠覆",
+    "sentiment": "mixed",
+    "key_opinions": ["字节崛起颠覆老势力", "字节自己也缺AI算力投入", "港股上市估值会被压"],
+    "mentioned_stocks": ["字节", "PDD", "恒科"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论三巨头历史合照是否会引发玄学概念股联想",
+    "sentiment": "mixed",
+    "key_opinions": ["纯赌徒式的玄学炒作", "属相梗炒龙虎斗概念", "可能引发爱国资金砸盘"],
+    "mentioned_stocks": ["三只松鼠", "华软科技"]
+  },
+  {
+    "index": 26,
+    "summary": "盘点历次大奇迹日，指出追高者基本破产",
+    "sentiment": "negative",
+    "key_opinions": ["大奇迹日是反弹跑路信号", "追入者大多腰斩", "拉到0点就高潮"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "指出科技大票仅海光下跌，大票企稳是反弹前提",
+    "sentiment": "mixed",
+    "key_opinions": ["科技板块跌得差不多了", "大票企稳是反弹前提", "只拉大科技"],
+    "mentioned_stocks": ["海光", "华虹"]
+  },
+  {
+    "index": 28,
+    "summary": "讨论缩量上涨科技，放量走势难以想象",
+    "sentiment": "mixed",
+    "key_opinions": ["缩量上涨等放量大阳线", "放量或反而是大跌", "躺平等砸30个点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "分析算力板块跟随纳指期货失败，护盘计划搞砸",
+    "sentiment": "negative",
+    "key_opinions": ["各路资金跟着纳指期货炒股", "算力板块烂尾无人跟随", "外围走弱拖累A股"],
+    "mentioned_stocks": ["纳指", "算力", "先进封装", "机器人"]
+  },
+  {
+    "index": 30,
+    "summary": "尾盘银行发力护盘，预测明天跌破3500",
+    "sentiment": "negative",
+    "key_opinions": ["尾盘靠银行发力", "预测明天破3500"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 31,
+    "summary": "转发柚子大佬爆仓小作文，感叹大佬也艰难",
+    "sentiment": "negative",
+    "key_opinions": ["柚子大佬爆仓传闻", "大佬也这么难"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "半导体连红三天，国产替代逻辑受追捧",
+    "sentiment": "positive",
+    "key_opinions": ["半导体三连红", "利好自产自销纯国产链", "有人已清仓半导体设备"],
+    "mentioned_stocks": ["588170", "半导体设备材料"]
+  },
+  {
+    "index": 33,
+    "summary": "催促护盘资金动手，两点半拉红双创收盘",
+    "sentiment": "negative",
+    "key_opinions": ["砸个股拉权重收割", "尾盘装模作样买点", "拉太早容易被爆头"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "探讨行情反转条件：降息、英伟达业绩或国家队意愿",
+    "sentiment": "mixed",
+    "key_opinions": ["降息是反转关键", "英伟达业绩指引需超预期", "根本是国家队想不想涨"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 35,
+    "summary": "讨论被排除出国际产业链后的国内封装晶圆洗牌",
+    "sentiment": "negative",
+    "key_opinions": ["罕见链加大切割", "封装晶圆明年洗牌", "技术打不过罕见链"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "以历史年K推断创业板明年或再跌20%",
+    "sentiment": "negative",
+    "key_opinions": ["连续大涨后大跌年次年续跌", "预计创业板再跌20%-30%", "有人认为今年就跌完"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 37,
+    "summary": "吐槽中芯国际波动过大",
+    "sentiment": "negative",
+    "key_opinions": ["中芯波动大难以承受"],
+    "mentioned_stocks": ["中芯国际"]
+  },
+  {
+    "index": 38,
+    "summary": "指出今日成交量创年内最低",
+    "sentiment": "negative",
+    "key_opinions": ["成交创年内新低", "市场极度缩量"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "发泄情绪，等待全面下跌决战",
+    "sentiment": "negative",
+    "key_opinions": ["等着全面下跌一个不放过"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "担忧成交量跌破万亿，市场只剩量化交易",
+    "sentiment": "negative",
+    "key_opinions": ["成交恐不足万亿", "只剩量化做T", "散户离场不玩了"],
+    "mentioned_stocks": ["德国ETF", "印度ETF"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论美国对华GPU封锁升级及国产算力链替代前景",
+    "sentiment": "mixed",
+    "key_opinions": ["美国目标封锁全部先进GPU", "利好国产链和存储芯片", "算力差距靠数量弥补"],
+    "mentioned_stocks": ["华为", "英伟达", "存储芯片", "稀土"]
+  },
+  {
+    "index": 42,
+    "summary": "讨论冰雪概念股抱团炒作，长白山等高开低走",
+    "sentiment": "negative",
+    "key_opinions": ["冰雪板块抱团难做", "长白山每天高开低走", "板块没跌透需杀量"],
+    "mentioned_stocks": ["长白山", "冰山", "冰雪龙"]
+  },
+  {
+    "index": 43,
+    "summary": "讨论完美世界股价跌回个位数，问是否可接",
+    "sentiment": "negative",
+    "key_opinions": ["完美跌回个位数", "突破前低再看", "从高点已腰斩"],
+    "mentioned_stocks": ["完美世界"]
+  },
+  {
+    "index": 44,
+    "summary": "调侃明天APEC开幕或引发千股跌停",
+    "sentiment": "negative",
+    "key_opinions": ["担心大事件引发下跌", "不救市300+跌停", "低开俯冲全天走弱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "讨论标普消费ETF是否可参与，溢价率低可持有",
+    "sentiment": "mixed",
+    "key_opinions": ["微红怕明天补跌", "溢价率不高可玩到圣诞", "重仓亚马逊不含可乐"],
+    "mentioned_stocks": ["标普消费", "亚马逊", "可口可乐"]
+  },
+  {
+    "index": 46,
+    "summary": "询问明天是否反弹，众人多认为无望已入熊市",
+    "sentiment": "negative",
+    "key_opinions": ["轮动弹一天又轮跌", "已经是熊市", "等反弹本金已没了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "感叹救市公信力丧失，队伍已经没人信",
+    "sentiment": "negative",
+    "key_opinions": ["没人再信救市", "5日线下无人敢信", "信的人早已套死"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "质疑月初20cm大反弹用意，护一下就放弃",
+    "sentiment": "negative",
+    "key_opinions": ["月初反弹疑似骗炮", "护一下就等死", "额度用完就放弃"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "询问鸿博股份是否正宗国算，被指已成情绪股",
+    "sentiment": "negative",
+    "key_opinions": ["鸿博曾是正宗算力股", "现在纯情绪股股性差", "建议买昇腾链"],
+    "mentioned_stocks": ["鸿博股份", "英伟达", "昇腾"]
+  },
+  {
+    "index": 50,
+    "summary": "预计成交1.3万亿失守，大量散户离场市场成死局",
+    "sentiment": "negative",
+    "key_opinions": ["成交创年内新低成死局", "天天4000多家下跌", "做多者全被干掉"],
+    "mentioned_stocks": ["银行"]
+  }
+]
