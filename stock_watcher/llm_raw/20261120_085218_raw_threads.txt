@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "黄金价格持续下跌引发投资者哀叹，讨论实物黄金抄底与持仓困境，加息周期压制金价预期。",
+    "sentiment": "negative",
+    "key_opinions": ["加息周期黄金短期难有行情", "3500以下可考虑买实物金", "等降息周期再考虑出手"],
+    "mentioned_stocks": ["黄金", "实物金"]
+  },
+  {
+    "index": 2,
+    "summary": "开盘前股指暴跌，投资者预期惨烈行情，弥漫熊市恐慌氛围，准备承受跌停。",
+    "sentiment": "negative",
+    "key_opinions": ["已准备吃跌停", "熊市马上来临", "开盘前已预感惨烈下跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论今日行情是否关键，多数认为今天是重要转折点，期盼国家队出手救市，情绪极度悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["今天大跌就死透了，看gjd能否捞手", "需要放量下跌才能止跌", "很关键的一天决定方向"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "认为AI板块杀伤力太强，下轮牛市将刻意规避，AI缺乏实际利润支撑充满炒作泡沫。",
+    "sentiment": "negative",
+    "key_opinions": ["AI实际利润链未产生，充满杀伤力", "AI炒作只是涨价没有实质", "下轮牛市会规避AI板块"],
+    "mentioned_stocks": ["AI"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论政府债券利息征税传闻，专家称短期难落地，但已引发债市恐慌，被批变相赖账。",
+    "sentiment": "negative",
+    "key_opinions": ["央行只是吹风不是落地，短期无碍", "征税等于变相降低已发债券利率", "再征税不如存定期，打击债市信心"],
+    "mentioned_stocks": ["债基", "政府债券"]
+  },
+  {
+    "index": 6,
+    "summary": "科技含量高的板块风险加大，投资者希望周五少跌，关注战链能否顶住压力。",
+    "sentiment": "negative",
+    "key_opinions": ["含科量越高越危险", "希望周五少跌让股民安心", "战狼链面临考验"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "讽刺领导专家曾喊慢牛和耐心资本，三个月指数腰斩打脸，政策效果存疑。",
+    "sentiment": "negative",
+    "key_opinions": ["三个月指数腰斩哪来的慢牛", "慢牛口号已销声匿迹", "外围崩了想拉回托底但玩脱了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "A股即将七连冰，投资者见证历史，讽刺狗A持续让人失望，全球利空叠加加深悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["每天都有新的历史，连续七连冰", "外围涨不涨跟跌很齐", "AI泡沫等多重利空叠加"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "黄金浮亏25%的散户纠结是否割肉，多数建议持有定投，加息和流动性收紧是主因。",
+    "sentiment": "mixed",
+    "key_opinions": ["不用钱就拿着或定投加仓", "加息周期有色玩不了但可越跌越买", "割了变真亏不如等反弹"],
+    "mentioned_stocks": ["黄金", "纸黄金", "创业板"]
+  },
+  {
+    "index": 10,
+    "summary": "短线复盘讨论算电协同题材走势，九阳异动最后一天是大节点，警惕高位股退潮风险。",
+    "sentiment": "mixed",
+    "key_opinions": ["明天是短线大节点有三种可能", "被延长监管则高位股大退潮", "算电楼隔三差五炸一次"],
+    "mentioned_stocks": ["中际旭创", "AI传媒", "机器人"]
+  },
+  {
+    "index": 11,
+    "summary": "讽刺李彦宏'尽量少做'言论，批评百度管理混乱、产品体验差、缺乏AI盈利方向。",
+    "sentiment": "negative",
+    "key_opinions": ["少做少错是AI无作为的借口", "百度搜索体验纯垃圾", "AI现在找不到盈利点"],
+    "mentioned_stocks": ["百度", "豆包"]
+  },
+  {
+    "index": 12,
+    "summary": "抱怨牛市总是以暴跌收场，怀念熊市，认为A股在3000点震荡反而不易亏钱，批评收割散户。",
+    "sentiment": "negative",
+    "key_opinions": ["牛市都是坠机牛，散户被收割", "3000点震荡反而难亏钱", "牛市吹捧者利益相关"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "调侃股市连续下跌如同'久留美'逼问，戏称百战百胜战绩可查，幽默自嘲行情。",
+    "sentiment": "mixed",
+    "key_opinions": ["再次告竭", "百战百胜战绩可查", "希望一口气完结"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "连续多日大跌被称为'仙女坠入凡间'，调侃七龙珠凑齐后下周或有大反弹，关注美股调整。",
+    "sentiment": "mixed",
+    "key_opinions": ["连续六天下落仙女今天第七个", "凑齐七龙珠下周或有大阳棒", "等美股ETF溢价归零再进场"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 15,
+    "summary": "140万本金缩水至不足100万，投资者崩溃想割肉，面临巨大心理压力。",
+    "sentiment": "negative",
+    "key_opinions": ["140万亏到不足100万受不了", "继续下跌心理崩溃", "纠结要不要割肉"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "分析SK海力士低市盈率2.4倍是否值得投资，讨论周期股估值陷阱，警惕中国竞争与需求下滑。",
+    "sentiment": "mixed",
+    "key_opinions": ["周期股PE最低时往往是股价顶", "现金流强劲但可持续性存疑", "市场情绪悲观时应用低盈利年估值"],
+    "mentioned_stocks": ["海力士", "中远海控"]
+  },
+  {
+    "index": 17,
+    "summary": "满仓满融抄底创业板赌次日高开，有人认为白捡钱，有人质疑是请君入瓮的风险操作。",
+    "sentiment": "mixed",
+    "key_opinions": ["满仓满融赌高开风险极大", "可能是请君入瓮", "今晚看A股表现决定走势"],
+    "mentioned_stocks": ["创业板", "纳指"]
+  },
+  {
+    "index": 18,
+    "summary": "东山精密被套投资者期望补涨回血，讨论机构调仓减压、三连跌停爆仓融资盘等困境。",
+    "sentiment": "negative",
+    "key_opinions": ["机构抬轿力度小可能跑了不少", "三连跌停打爆融资盘", "买不了科创就买ETF代替"],
+    "mentioned_stocks": ["东山精密", "大光", "二光", "ETF", "隆基"]
+  },
+  {
+    "index": 19,
+    "summary": "股民亏损一年赚的钱如何向妻子交代，讨论家庭财务管理与诚信，建议实话实说。",
+    "sentiment": "negative",
+    "key_opinions": ["和亲人建议实话实说", "亏损一年收入但不是没翻身机会", "善意谎言不如坦诚相告"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论当前美股像哪一年的熊市，多数认为跌幅尚浅未入技术性熊市，但AI叙事破灭风险大。",
+    "sentiment": "mixed",
+    "key_opinions": ["纳指距高点仅回撤15%未入技术熊", "像2000和2008的结合体", "历史可参考但不能硬套"],
+    "mentioned_stocks": ["纳斯达克100", "纳指"]
+  },
+  {
+    "index": 21,
+    "summary": "创业板距高点已跌47.3%即将腰斩，对比2015年和2008年跌幅，科技信心崩塌加速。",
+    "sentiment": "negative",
+    "key_opinions": ["创业板指数即将腰斩，个股更惨", "科技信心崩塌极快", "现在像08年深指走势"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 22,
+    "summary": "人民币急涨引发降息猜测，讨论汇率异常波动与A股关联，若降息或利好大A。",
+    "sentiment": "mixed",
+    "key_opinions": ["人民币全线走弱后突然拐头", "真降息A股或有救但科技股受压", "A50期货跳涨暗示市场预期"],
+    "mentioned_stocks": ["A50", "USDCNH"]
+  },
+  {
+    "index": 23,
+    "summary": "抱怨正规市场机构互捅刀子，连续跌两个月无反攻，AI叙事破灭加加息压制，对美股和A股悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["AI叙事一破美股也得死", "加息和叙事双重利空", "连续跌两月多头毫无反攻"],
+    "mentioned_stocks": ["纳指", "标普"]
+  },
+  {
+    "index": 24,
+    "summary": "金价直线跳水引发恐慌，讨论多头爆仓止损，有人预测金价长期震荡或继续下跌至更低位置。",
+    "sentiment": "negative",
+    "key_opinions": ["金价跳水神仙来了都挨抽", "加息和流动性收紧是大山", "有分析称金价到3000后长期震荡"],
+    "mentioned_stocks": ["黄金", "黄金ETF", "紫金"]
+  },
+  {
+    "index": 25,
+    "summary": "纳斯达克天天高开低走，讨论小作文做空、23小时交易新规影响，对美股走势悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["天天高开低走极度失望", "本质是涨太多涨不动了", "23小时交易或为洗盘吸筹"],
+    "mentioned_stocks": ["纳斯达克", "英伟达"]
+  },
+  {
+    "index": 26,
+    "summary": "反思全球市场为何持续下跌，认为全球资金结账、金融危机临近，通缩环境下现金最保值。",
+    "sentiment": "negative",
+    "key_opinions": ["全球资金收米结账之年", "金融危机可能快来了", "通缩环境现金才是王道"],
+    "mentioned_stocks": ["红利低波"]
+  },
+  {
+    "index": 27,
+    "summary": "投资者希望不开盘，天天看盘扣钱心理崩溃，调侃九阴真经即将练成，极端悲观。",
+    "sentiment": "negative",
+    "key_opinions": ["看一眼就扣钱不如不开盘", "天天扣钱已卸载软件", "还有3个交易日九阴真经大成"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "警告黄金无论长中短线都别加仓做多，技术面基本面双空，加息流动性两座大山压顶。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金技术面基本面明显空头", "加息和流动性两座大山压制", "做多的别加仓别抄底"],
+    "mentioned_stocks": ["黄金", "伦敦金"]
+  },
+  {
+    "index": 29,
+    "summary": "AMD被做空机构指控与中国广泛联系，继英伟达和英特尔后第三家被针对，引发美股科技恐慌。",
+    "sentiment": "negative",
+    "key_opinions": ["AMD中国业务风险被做空机构揭露", "不是小作文而是系统性清算", "美帝科技企业都有中国业务"],
+    "mentioned_stocks": ["AMD", "英伟达", "通富微电"]
+  },
+  {
+    "index": 30,
+    "summary": "黄仁勋任职问题引发政治博弈，民主党不背锅，美股下跌压力下各方互相推诿甩锅。",
+    "sentiment": "negative",
+    "key_opinions": ["黄仁勋任职最终由董事会决定", "美股压力太大各方甩锅", "政治问题变成罚酒三杯"],
+    "mentioned_stocks": ["英伟达", "纳指"]
+  },
+  {
+    "index": 31,
+    "summary": "黄金暴跌多头爆仓，从3700直落35开头，流动性危机中黄金被抛售，投资者恐慌割肉。",
+    "sentiment": "negative",
+    "key_opinions": ["黄金暴跌疑似多头爆仓", "卖黄金补流动性是常规操作", "加息周期黄金可能到6字头"],
+    "mentioned_stocks": ["黄金", "紫金"]
+  },
+  {
+    "index": 32,
+    "summary": "认为不应过度押注AI硬件等特定领域，韩国海力士三星受关注度超过日本不合理，强调分散投资。",
+    "sentiment": "mixed",
+    "key_opinions": ["AI硬件不应过度押注", "盈亏同源要防止被困", "传统消费股不应被忽略"],
+    "mentioned_stocks": ["海力士", "英伟达", "可口可乐"]
+  },
+  {
+    "index": 33,
+    "summary": "预测今晚美股暴涨因认购A股资金解禁，有人期待FOMO行情，多数人对此表示怀疑和调侃。",
+    "sentiment": "mixed",
+    "key_opinions": ["4300亿资金解禁或推涨美股", "这段时间还没被骗够吗", "能判断的事很多人已判断"],
+    "mentioned_stocks": ["美股", "黄金"]
+  },
+  {
+    "index": 34,
+    "summary": "连续六天4000家下跌盼反弹，讨论明天能否翻红，有人认为高开没问题但持续性存疑。",
+    "sentiment": "negative",
+    "key_opinions": ["连续6天4000+下跌破纪录", "美元指数回调明天或有小阳", "高开能坚持3分钟就不错"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "预期大盘-2%双创-6%，讨论美股暴跌对A股影响，有人不敢抄底，期待国家队出手。",
+    "sentiment": "negative",
+    "key_opinions": ["极端下跌趋势每次抄底都套死", "相信汪汪队不会坐视不管", "大低开反而不怕已跌太多"],
+    "mentioned_stocks": ["创业板", "ETF"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论A股新上市标的吸走市场资金，开局目标2万亿最终仅1.2万亿，支撑位不明确。",
+    "sentiment": "negative",
+    "key_opinions": ["把其他股票资金都吸走了", "开局2万亿顶再1.2万亿", "没看到支撑位在哪里"],
+    "mentioned_stocks": ["A股"]
+  },
+  {
+    "index": 37,
+    "summary": "AMD被做空报告指控中国业务问题导致股价大跌，小作文做空机制被讨论，通富微电也受牵连。",
+    "sentiment": "negative",
+    "key_opinions": ["小作文就能干碎大票很荒谬", "AMD中国风险被做空报告揭露", "对面玩大清洗对付科技企业"],
+    "mentioned_stocks": ["AMD", "通富微电", "英伟达"]
+  },
+  {
+    "index": 38,
+    "summary": "纳斯达克走势明显下跌，三波浪一波比一波低，月线有加速下跌迹象，绿了50天。",
+    "sentiment": "negative",
+    "key_opinions": ["三波浪一波更比一波低", "月线最后2波有加速意思", "已经绿了50天了"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 39,
+    "summary": "调侃希望美股来一次熔断，怀念阿川时期的熔断经验，对美股持续下跌的戏谑心态。",
+    "sentiment": "negative",
+    "key_opinions": ["希望美股来次熔断", "阿川具有丰富熔断经验", "对美股走势极度失望"],
+    "mentioned_stocks": ["美股"]
+  },
+  {
+    "index": 40,
+    "summary": "讨论英伟达黄仁勋离职后AI芯片格局重塑，AMD谷歌博通受益，但多数认为英伟达根基难撼。",
+    "sentiment": "mixed",
+    "key_opinions": ["英伟达死了但市场更广阔", "AI仍基于英伟达设备，替代难", "做空英伟达是大资本共识"],
+    "mentioned_stocks": ["英伟达", "谷歌", "AMD", "博通"]
+  },
+  {
+    "index": 41,
+    "summary": "讨论小米下周财报预期，认为汽车和消费电子下行业绩差，但消费级存储降价可能利空出尽。",
+    "sentiment": "negative",
+    "key_opinions": ["小米业绩大概率很差", "消费级存储降价或利空出尽", "南向机构自身难保影响有限"],
+    "mentioned_stocks": ["小米", "阿里", "腾讯"]
+  },
+  {
+    "index": 42,
+    "summary": "美股崩盘多指数连续下跌，讨论全球市场联动低迷，AI泡沫破灭风险加剧，恐慌情绪蔓延。",
+    "sentiment": "negative",
+    "key_opinions": ["道指4根大阴棒全球一个样", "英伟达距高点跌37%接近泡沫破灭", "别人恐慌抄底又翻车了"],
+    "mentioned_stocks": ["道指", "纳斯达克", "标普500", "英伟达"]
+  },
+  {
+    "index": 43,
+    "summary": "调侃'久留美'股市表现超越达里奥，用幽默图片调侃市场荒诞走势。",
+    "sentiment": "mixed",
+    "key_opinions": ["太权威了", "调侃市场走势荒诞", "假的久留美"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "期盼国家队拉证券ETF涨停回本，但多数认为无政策催化不会拉，市场量能不足以支撑。",
+    "sentiment": "negative",
+    "key_opinions": ["证券ETF涨停大盘都是涨停", "1.3万亿量拉不动证券", "没有政策催化鬼去拉"],
+    "mentioned_stocks": ["证券ETF"]
+  },
+  {
+    "index": 45,
+    "summary": "跟风抄底上证指数ETF仍被套，讨论是否止损，多数建议持有等待，但外围暴跌加大压力。",
+    "sentiment": "negative",
+    "key_opinions": ["铁索连环互爆平台守不住", "指数顶天跌1-2个点不用慌", "美股炸了日韩可能-6开"],
+    "mentioned_stocks": ["上证指数ETF"]
+  },
+  {
+    "index": 46,
+    "summary": "A股新股吸干市场资金，美股上涨也未能带动，短线操作失败上当，对流动性困境失望。",
+    "sentiment": "negative",
+    "key_opinions": ["A股吸干所有流动性", "美股涨可能是机构出货", "短线又上当了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "证券公司参投DeepSeek融资，讨论能否成为证券板块拉升契机，但市场血被抽干难以乐观。",
+    "sentiment": "mixed",
+    "key_opinions": ["多家证券参投DeepSeek融资", "市场血被抽干天天融资", "证券ETF涨停需6万亿量"],
+    "mentioned_stocks": ["中信", "DeepSeek", "宁德时代", "腾讯"]
+  },
+  {
+    "index": 48,
+    "summary": "黄仁勋离职催化华为昇腾国产替代链，讨论昇腾训练能力突破和国产AI芯片发展路径。",
+    "sentiment": "positive",
+    "key_opinions": ["国产链回归是大趋势", "美团和DeepSeek已在昇腾跑通", "华子优先供应DS是利好"],
+    "mentioned_stocks": ["华为昇腾", "寒武纪", "华胜天成", "英伟达"]
+  },
+  {
+    "index": 49,
+    "summary": "批评小作文搞崩AMD股价，分析做空报告细节存疑，指出做空是大资金的合力工具。",
+    "sentiment": "negative",
+    "key_opinions": ["小作文是大资金的狗哨工具", "AMD之前涨幅因政治风险重计价", "能被小作文砸10%说明没信心"],
+    "mentioned_stocks": ["AMD", "通富微电", "浪潮", "海光"]
+  },
+  {
+    "index": 50,
+    "summary": "用AI工具估算紫金矿业内在价值，讨论铜金价假设对估值影响，预测悲观情景下的股价底。",
+    "sentiment": "mixed",
+    "key_opinions": ["悲观预期铜11000金3000对应股价9-12元", "高成本铜矿会减产不会满产", "金价777比较现实铜8000有色难做"],
+    "mentioned_stocks": ["紫金矿业"]
+  }
+]
+```
