@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "尾盘暴拉银行股引发散户不满，拉指数越拉账户越亏",
+    "sentiment": "negative",
+    "key_opinions": ["拉银行散户亏损反而扩大", "主力拉上证50沪深300阻力小", "科技板块抛压更重"],
+    "mentioned_stocks": ["工商银行", "上证50", "沪深300"]
+  },
+  {
+    "index": 2,
+    "summary": "贵金属大跌但紫金逆势走红，被形容为顶着包夹干拔",
+    "sentiment": "mixed",
+    "key_opinions": ["贵金属普跌紫金独立走强", "紫金表现离谱抗跌"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 3,
+    "summary": "尾盘狂拉红利权重股，海皇等老登票大涨引发追捧",
+    "sentiment": "positive",
+    "key_opinions": ["尾盘暴力拉红利权重保指数", "跟着主力买才是正道", "早盘清仓者懊悔错卖"],
+    "mentioned_stocks": ["工商银行", "上证50", "紫金矿业"]
+  },
+  {
+    "index": 4,
+    "summary": "尾盘杀科技拉老登保指数，科技板块持续被抛弃",
+    "sentiment": "negative",
+    "key_opinions": ["拉老登只为保指数意义不大", "科技抛压大拉不动", "科技股被当夜壶随时可弃"],
+    "mentioned_stocks": ["科创50", "工商银行", "上证50"]
+  },
+  {
+    "index": 5,
+    "summary": "沪深300被拉冒烟但创业板纹丝不动，个股普跌难救",
+    "sentiment": "negative",
+    "key_opinions": ["拉宽基指数救不了普跌", "五千多家下跌无法扭转", "保上证意义存疑"],
+    "mentioned_stocks": ["沪深300", "工商银行", "紫金矿业", "创业板"]
+  },
+  {
+    "index": 6,
+    "summary": "队长尾盘拉上证50护盘，银行权重逆市拉升",
+    "sentiment": "mixed",
+    "key_opinions": ["权重股是护盘主力", "只有这个方向容易拉动"],
+    "mentioned_stocks": ["上证50", "工商银行"]
+  },
+  {
+    "index": 7,
+    "summary": "指数被指天打地式操纵，操盘手法令人担忧",
+    "sentiment": "negative",
+    "key_opinions": ["操盘手法诡异令人不安"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "工商银行尾盘暴拉3%，被戏称工斯达克",
+    "sentiment": "mixed",
+    "key_opinions": ["工行尾盘直线暴拉", "银行股异常强势"],
+    "mentioned_stocks": ["工商银行"]
+  },
+  {
+    "index": 9,
+    "summary": "新小作文传闻引发热议，市场对政策救市信心不足",
+    "sentiment": "negative",
+    "key_opinions": ["小作文引发恐慌情绪", "股市被视作不值得救", "有人盼砸成废墟双输"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "银行股走出王朝行情，散户期待工行涨到10元",
+    "sentiment": "positive",
+    "key_opinions": ["银行股持续走牛成王朝", "看好工行到10元"],
+    "mentioned_stocks": ["工商银行"]
+  },
+  {
+    "index": 11,
+    "summary": "黄金大跌引发讨论，流动性抽血与周期见顶争议",
+    "sentiment": "negative",
+    "key_opinions": ["流动性危机资金抽走救股市", "黄金是货币超发的标尺", "美债高收益率压制金价"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "尾盘指数被暴力拉升但个股继续下杀，下周更惨",
+    "sentiment": "negative",
+    "key_opinions": ["一边拉银行一边杀个股", "下周可能更惨烈"],
+    "mentioned_stocks": ["工商银行"]
+  },
+  {
+    "index": 13,
+    "summary": "紫金回购力道强从水下拉起，长期仍看跌",
+    "sentiment": "mixed",
+    "key_opinions": ["紫金回购拉升股价", "长期看跌到20元左右", "金价前景不确定"],
+    "mentioned_stocks": ["紫金矿业", "赤峰黄金"]
+  },
+  {
+    "index": 14,
+    "summary": "长江电力大涨，防御类资产受青睐",
+    "sentiment": "positive",
+    "key_opinions": ["长江电力业绩确定性强", "机构买ETF对冲科技", "水电现金流稳定值得梭哈"],
+    "mentioned_stocks": ["长江电力", "工商银行"]
+  },
+  {
+    "index": 15,
+    "summary": "又拉银行石油稳指数，散户反感国家队操作",
+    "sentiment": "negative",
+    "key_opinions": ["拉银行石油稳指数反感", "指数仍难翻红"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "尾盘拉指数砸个股令人绝望，科技股普跌",
+    "sentiment": "negative",
+    "key_opinions": ["拉指数砸个股操作绝望", "机器人传媒半导体大跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "担忧周末只有政策喇叭没有真金白银，社会戾气加重",
+    "sentiment": "negative",
+    "key_opinions": ["政策空谈需真金白银救市", "股民无能为力只能抱怨", "社会戾气与恶性事件增多"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "东山精密连续跌停被吐槽，筹码结构恶化",
+    "sentiment": "negative",
+    "key_opinions": ["东山筹码结构完全烂掉", "连续跌停建议离场", "光模块信仰可转投剑桥科技"],
+    "mentioned_stocks": ["东山精密", "生益科技", "剑桥科技"]
+  },
+  {
+    "index": 19,
+    "summary": "对比中美消费与利率政策差异，感叹文化不同",
+    "sentiment": "mixed",
+    "key_opinions": ["美国发钱刺激消费中国难", "加息或为美债融资需要", "高血压对低血糖格局"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "指数3500全是银行撑起，个股已回到2800水平",
+    "sentiment": "negative",
+    "key_opinions": ["个股实际跌回2800位置", "指数靠银行虚假繁荣"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "官方光速辟谣清仓小作文，网友反认为是真的",
+    "sentiment": "negative",
+    "key_opinions": ["越辟谣越像真的", "辟谣用词引人怀疑", "小作文传言加剧恐慌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "网友晒924以来盈亏，多数人回吐利润或亏损",
+    "sentiment": "mixed",
+    "key_opinions": ["多数人盈利回吐或亏损", "有人924以来仍赚约50%", "赚钱说明还要跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "担忧AI泡沫破裂叠加经济下行，股市恐再大跌",
+    "sentiment": "negative",
+    "key_opinions": ["实体经济店铺倒闭成常态", "AI替代人工加剧失业", "或重演日本失去三十年"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "尾盘指数在3500上下震荡，靠最后十分钟拉抬",
+    "sentiment": "negative",
+    "key_opinions": ["每日靠尾盘十分钟拉指数", "只有沪深300票受益", "持仓股继续下杀"],
+    "mentioned_stocks": ["沪深300", "创业板"]
+  },
+  {
+    "index": 25,
+    "summary": "银行石油暴力拉升，散户直呼恶心",
+    "sentiment": "negative",
+    "key_opinions": ["银行光速起飞爆拉", "拉红利低波护盘", "散户对行情极度反感"],
+    "mentioned_stocks": ["中国石油", "工商银行"]
+  },
+  {
+    "index": 26,
+    "summary": "质疑科技股利好基本面，黄仁勋事件成黑天鹅",
+    "sentiment": "negative",
+    "key_opinions": ["科技股利好已失效", "大V早已获利离场", "黄仁勋被罢免成黑天鹅"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 27,
+    "summary": "3500点保卫战，指数3501附近被强行按回",
+    "sentiment": "mixed",
+    "key_opinions": ["3500上方被刻意压制", "小微盘被指认错", "下周或跌破3500"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 28,
+    "summary": "对3000点已麻木，视为常态舒适区",
+    "sentiment": "negative",
+    "key_opinions": ["3000点已是常态不惊", "3000以上皆是风险", "可能重回2800"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 29,
+    "summary": "自选股终于有红的，但只是尾盘拉的银行",
+    "sentiment": "negative",
+    "key_opinions": ["红盘全靠尾盘拉抬", "拉抬对象不可说"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "模拟盘科技股腰斩，实盘亏损更惨烈",
+    "sentiment": "negative",
+    "key_opinions": ["科技股模拟盘腰斩", "实盘越补越跌", "科技兴国成收割口号"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "大盘下跌无解，量化套利与外部环境双重压制",
+    "sentiment": "negative",
+    "key_opinions": ["大手托不住大盘只会被套利", "美股不稳A股难好", "只能等外盘企稳修复"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "期待尾盘发力冲上3550，调侃守指数如夺冠",
+    "sentiment": "positive",
+    "key_opinions": ["期待尾盘拉到3550", "调侃守护指数如冠军"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 33,
+    "summary": "提议散户抱团复制GameStop逼空头，可行性受质疑",
+    "sentiment": "negative",
+    "key_opinions": ["散户抱团难形成合力", "公开喊单或涉操纵市场", "建议买港股科技ETF救市"],
+    "mentioned_stocks": ["完美世界", "恒生科技ETF"]
+  },
+  {
+    "index": 34,
+    "summary": "半导体设备抗跌强势，国产替代逻辑受追捧",
+    "sentiment": "positive",
+    "key_opinions": ["半导体设备根本跌不动", "国产替代概念拉满", "小心补跌风险"],
+    "mentioned_stocks": ["中芯国际"]
+  },
+  {
+    "index": 35,
+    "summary": "冰雪概念股博弈，雷霆大冰块强势带动龙江",
+    "sentiment": "mixed",
+    "key_opinions": ["冰雪板块仍可短线玩", "龙江被抄底做套利", "高抛低吸做T为主"],
+    "mentioned_stocks": ["龙江", "雷霆大冰块", "长白山"]
+  },
+  {
+    "index": 36,
+    "summary": "3500点保卫战打响，担忧美股拖累周一破位",
+    "sentiment": "negative",
+    "key_opinions": ["3500或守不住", "美股今晚恐继续下跌", "下一步看3400"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 37,
+    "summary": "亏损惨重到翻通讯录找人借钱，段子自嘲",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重到要借钱", "自嘲翻通讯录求援", "悲观情绪蔓延"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "老股民晒股灾经历安抚，但现状同样惨烈",
+    "sentiment": "negative",
+    "key_opinions": ["比惨不能扭转亏损", "创业板跌幅超2015股灾", "行情惨烈无底线"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 39,
+    "summary": "吐槽3500点被过度维护，市场不正常",
+    "sentiment": "negative",
+    "key_opinions": ["3500被刻意维护", "市场操作令人无语"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 40,
+    "summary": "上证跌幅小但中证2000大跌，指数失真",
+    "sentiment": "negative",
+    "key_opinions": ["指数好看掩盖个股暴跌", "中证2000接近跌5%"],
+    "mentioned_stocks": ["上证指数", "中证2000"]
+  },
+  {
+    "index": 41,
+    "summary": "1700家跌超5%，中证2000濒临崩溃",
+    "sentiment": "negative",
+    "key_opinions": ["超两千家跌超5%", "中证2000或崩盘", "中小盘市盈率高达115"],
+    "mentioned_stocks": ["中证2000", "创业板", "科创50"]
+  },
+  {
+    "index": 42,
+    "summary": "银行白马上涨空间有限，仅拉银行守不住3500",
+    "sentiment": "negative",
+    "key_opinions": ["银行估值透支带动效应弱", "拉银行短视不救市场", "不拉创业板3500难守"],
+    "mentioned_stocks": ["工商银行", "美的集团", "中芯国际", "中际旭创"]
+  },
+  {
+    "index": 43,
+    "summary": "吹捧588170为科技多头最后防线，引发反向担忧",
+    "sentiment": "mixed",
+    "key_opinions": ["588170被称为最后防线", "吹得越多越怕补跌", "国产替代主线待企稳"],
+    "mentioned_stocks": ["588170", "510300"]
+  },
+  {
+    "index": 44,
+    "summary": "黄金期货日内交易入门指南，强调风控优先",
+    "sentiment": "positive",
+    "key_opinions": ["保护本金优先于收益", "黄金切忌追涨杀跌", "交易成本需提前谈好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "指数短期腰斩且无反弹，令人愤怒绝望",
+    "sentiment": "negative",
+    "key_opinions": ["两个月无反弹腰斩罕见", "稳固市场承诺成空话", "对比2015股灾或再跌"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 46,
+    "summary": "同花顺搜索满屏利空，会议无实质利好",
+    "sentiment": "negative",
+    "key_opinions": ["利空消息充斥页面", "会议缺乏实质利好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "分享判断见底方法：关注板块轮动与放量恐慌盘",
+    "sentiment": "mixed",
+    "key_opinions": ["昨涨今跌说明未见底", "主力仍在派发筹码", "放量恐慌后缩量才见底"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "吐槽国家队操作如小丑，护盘手法可笑",
+    "sentiment": "negative",
+    "key_opinions": ["国家队操作像小丑", "护盘手法被嘲笑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "恒生科技、上证、黄金罕见同步跌至历史低位",
+    "sentiment": "negative",
+    "key_opinions": ["恒科逼近十年历史底部", "三类资产同步大跌会师", "只能熬着等反转"],
+    "mentioned_stocks": ["恒生科技指数", "上证指数"]
+  },
+  {
+    "index": 50,
+    "summary": "冰雪概念抱团炒作，龙头分歧难操作",
+    "sentiment": "mixed",
+    "key_opinions": ["冰雪板块抱团难做", "长白山高开低走可做T", "板块需跌透洗盘再启动"],
+    "mentioned_stocks": ["长白山", "冰雪龙"]
+  }
+]
+```
