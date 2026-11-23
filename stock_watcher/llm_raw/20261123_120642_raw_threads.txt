@@ -1,0 +1,305 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论凡拓两天涨40%是否短期见底，回复表达连续下跌后的悲观情绪",
+    "sentiment": "mixed",
+    "key_opinions": ["凡拓短期涨幅过大可能见底", "连续下跌后期盼反弹", "对大盘走势仍存悲观"],
+    "mentioned_stocks": ["凡拓"]
+  },
+  {
+    "index": 2,
+    "summary": "一半买防御红利股一半买药明，两边对冲导致总资金无变化，考虑转向妖股",
+    "sentiment": "mixed",
+    "key_opinions": ["对冲操作导致总资金不变", "对冲需要有盈利卖出部分", "可少量配置偏进攻品种"],
+    "mentioned_stocks": ["药明", "红利股"]
+  },
+  {
+    "index": 3,
+    "summary": "周五抄底沪电、赤峰、西部矿业，讨论黄金股抗跌和银行追高风险",
+    "sentiment": "mixed",
+    "key_opinions": ["沪电特色是补跌风险大", "黄金股较硬或主力被套", "银行已有追高嫌疑"],
+    "mentioned_stocks": ["沪电", "赤峰", "西部矿业", "招商轮船", "华电"]
+  },
+  {
+    "index": 4,
+    "summary": "期盼韩国股市不跳水带动A股下午反弹",
+    "sentiment": "negative",
+    "key_opinions": ["跌得太厉害扛不住", "期望下午能反弹拉升", "受外围影响大"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "质疑A股提前调整的意义，批评政策调控导致涨跌皆亏",
+    "sentiment": "negative",
+    "key_opinions": ["提前调整反而两头亏", "政策调控手段被质疑无能", "散户应空仓等机会"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "大盘反复爆拉升后抱摔，散户被反复洗盘折磨",
+    "sentiment": "negative",
+    "key_opinions": ["盘面反复暴拉抱摔折磨散户", "做T机会与风险并存", "长线可无视短线波动"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "A股如绞肉机赚钱不易，盘面低开高走但多数个股下跌",
+    "sentiment": "negative",
+    "key_opinions": ["A股赚钱难如绞肉机", "指数表面好看实则个股普跌", "银行资金被吸走又回吐"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "被强平前差一点活下来，美股夜盘大涨英伟达涨7%令人惋惜",
+    "sentiment": "negative",
+    "key_opinions": ["被强平前差一点翻盘", "底部不能加太多杠杆", "美股夜盘大涨反衬亏损"],
+    "mentioned_stocks": ["英伟达", "QQQ"]
+  },
+  {
+    "index": 9,
+    "summary": "大盘每天中午和收盘前拉升后抱摔，走势反复收割散户",
+    "sentiment": "negative",
+    "key_opinions": ["每天固定时段拉后抱摔", "盘面无散户在交易", "反复收割洗盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "全仓被套10-11个点考虑充值救自己，讨论加仓和杠杆风险",
+    "sentiment": "negative",
+    "key_opinions": ["被套不应加仓抄底", "高杠杆套牢极其危险", "底抄不完会被套更深"],
+    "mentioned_stocks": ["华电辽能", "大唐发电", "指数ETF"]
+  },
+  {
+    "index": 11,
+    "summary": "交了20多万学费学会新交易模型，讨论短线模型的可行性",
+    "sentiment": "mixed",
+    "key_opinions": ["实盘亏损20万换来新模型", "微观K线模型稳定性差", "短线交易风险极大"],
+    "mentioned_stocks": ["光洋股份"]
+  },
+  {
+    "index": 12,
+    "summary": "上午下杀被洗出后悔，讨论下午是否爆拉和底部特征",
+    "sentiment": "mixed",
+    "key_opinions": ["上午洗盘下午可能反转", "底部是圆的不急于追", "反转条件尚不充分"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "讨论比亚迪走势，有人做T获利，有人加仓港股比亚迪",
+    "sentiment": "mixed",
+    "key_opinions": ["比亚迪近期相对抗跌", "长期看好但短期情绪不佳", "做T操作有一定获利空间"],
+    "mentioned_stocks": ["比亚迪", "零跑", "小鹏", "理想", "赛力斯", "江淮"]
+  },
+  {
+    "index": 14,
+    "summary": "追高买入大光后被暴跌套牢，讨论追涨风险",
+    "sentiment": "negative",
+    "key_opinions": ["追直线拉升容易被埋", "大光价位偏低或有博弈价值", "该行情只能左侧分时操作"],
+    "mentioned_stocks": ["大光"]
+  },
+  {
+    "index": 15,
+    "summary": "海外链涨中芯反跌，板块轮动如打地鼠难把握",
+    "sentiment": "negative",
+    "key_opinions": ["板块轮动如打地鼠难追", "中芯因涨多回调", "国产链今日整体下跌"],
+    "mentioned_stocks": ["中芯"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论当前走势是否类似2018年2月，散户分享选股经历",
+    "sentiment": "mixed",
+    "key_opinions": ["与2018年2月走势差异大", "史低股策略随机买入反而更好", "刻舟求剑不可取"],
+    "mentioned_stocks": ["东方海洋", "慈文传媒"]
+  },
+  {
+    "index": 17,
+    "summary": "清仓告别大A，用股市资金买了1000万的房子",
+    "sentiment": "mixed",
+    "key_opinions": ["小亏后清仓买房了结", "房价也存在风险需谨慎", "结束股市旅程转投房产"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "股市亏损严重想收手，呼吁留钱过年",
+    "sentiment": "negative",
+    "key_opinions": ["亏损严重想收手", "建议留钱过年别玩了", "对A股失去信心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "扛不住亏损割肉认输，割掉剑桥后不再看盘",
+    "sentiment": "negative",
+    "key_opinions": ["亏损太多认输割肉", "割掉剑桥不再看盘", "祝他人回本发财"],
+    "mentioned_stocks": ["剑桥"]
+  },
+  {
+    "index": 20,
+    "summary": "机器人题材拓普集团近期抗跌，但存在补跌风险",
+    "sentiment": "mixed",
+    "key_opinions": ["拓普集团抗跌但有补跌风险", "抗跌反而成为debuff", "跌少的反而容易被抽"],
+    "mentioned_stocks": ["拓普集团", "先导智能", "雷赛"]
+  },
+  {
+    "index": 21,
+    "summary": "讨论论坛用户收入水平和股市参与者画像",
+    "sentiment": "mixed",
+    "key_opinions": ["论坛用户多为高收入中年人", "股市参与者经济条件较好", "社会分化加剧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "预测明天最后一跌后开启大牛市，被网友群嘲",
+    "sentiment": "positive",
+    "key_opinions": ["预测最后一跌后大牛市开启", "连续下跌后期盼反弹", "多数人认为还会继续跌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "护盘资金再度出手拉升，讨论能否维持到收盘",
+    "sentiment": "mixed",
+    "key_opinions": ["护盘拉升可能只是捡筹码", "小票主动权重在补跌", "资金或在赌黄仁勋回归"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论物理AI、AI软件和3D打印题材哪个炒作胜率更大",
+    "sentiment": "mixed",
+    "key_opinions": ["物理AI是未来最有故事的题材", "凡拓涨幅大不敢追", "短线快进快出降低风险"],
+    "mentioned_stocks": ["凡拓", "瑞芯微", "恒玄科技", "海天瑞声", "安培龙", "芒果超媒", "掌阅科技", "金丹科技", "海正生材", "肇民"]
+  },
+  {
+    "index": 25,
+    "summary": "11点无量拉升疑似诱多，提醒注意下午融资盘爆破风险",
+    "sentiment": "negative",
+    "key_opinions": ["11点拉升疑似诱多", "无量拉升下午可能爆破", "每次拉升后下午抱摔"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "警示不要接盘银行股，银行高位存在补跌风险",
+    "sentiment": "negative",
+    "key_opinions": ["银行当前价位偏贵需谨慎", "养老金配置支撑但非万能", "极端抱团必然导致下跌"],
+    "mentioned_stocks": ["中石油", "长鑫", "工行", "长江电力", "神华"]
+  },
+  {
+    "index": 27,
+    "summary": "追高买入通信ETF，讨论追涨风险和下午爆扣规律",
+    "sentiment": "mixed",
+    "key_opinions": ["追涨通信ETF勇气可嘉", "下午一点常有爆扣行情", "之前抄底海外链常被闷杀"],
+    "mentioned_stocks": ["通信ETF"]
+  },
+  {
+    "index": 28,
+    "summary": "银行股强势抱团上涨，讨论银行是否会补跌及抱团风险",
+    "sentiment": "mixed",
+    "key_opinions": ["银行抱团必然导致极端下跌", "四大行后轮到地方银行", "抱团轮动现象普遍存在"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "大霄暗示洗盘或有短暂吃饭行情，网友半信半疑",
+    "sentiment": "mixed",
+    "key_opinions": ["年底机构或有做业绩行情", "买盘真空下洗盘做多风险大", "大霄观点仅供参考"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 30,
+    "summary": "引用官媒文章唱空中国经济者终会落空，引发反讽讨论",
+    "sentiment": "negative",
+    "key_opinions": ["唱空落空做空落袋", "经济与股市脱节", "对官方叙事持讽刺态度"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "美股夜盘大涨A股仍跌，受韩国熔断等外围影响",
+    "sentiment": "negative",
+    "key_opinions": ["美股夜盘利好A股不跟", "韩国熔断直接影响科创板", "A股跌不需要理由"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "权重股带创业板V红反弹，但网友警惕奶毒效应",
+    "sentiment": "mixed",
+    "key_opinions": ["权重带动创业板反弹", "开盘几分钟不宜乐观", "五日线未站稳需谨慎"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "预测反弹在12月但持续被推迟，年底前缺乏流动性",
+    "sentiment": "negative",
+    "key_opinions": ["反弹总是推迟到下个月", "年底银根紧套牢盘多", "跌够了自然会反弹"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "九阳尾盘跳水引发讨论，短线情绪退潮资金撤退",
+    "sentiment": "negative",
+    "key_opinions": ["短线明牌退潮不宜接力", "控异动因素影响尾盘", "高位股集体补跌确定退潮"],
+    "mentioned_stocks": ["九阳"]
+  },
+  {
+    "index": 35,
+    "summary": "主力利用人性反复抱摔收割散户",
+    "sentiment": "negative",
+    "key_opinions": ["人性被主力死死拿捏", "早盘抱摔下午可能再来", "散户被反复收割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "创业板海外链经历洗盘后走强，但部分人担心暴力回调",
+    "sentiment": "mixed",
+    "key_opinions": ["利空出尽资金连续建仓", "逆势走强反而不看好", "满仓创业板被套需谨慎"],
+    "mentioned_stocks": ["创业板ETF", "大唐发电"]
+  },
+  {
+    "index": 37,
+    "summary": "早盘给逃命机会但有人反冲进去，盘中结论常被打脸",
+    "sentiment": "mixed",
+    "key_opinions": ["早盘逃命机会有人错过", "盘中下结论常被打脸", "冲进去后反而浮盈"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "恒生科技持续下跌，讨论定投点位和未来走势",
+    "sentiment": "negative",
+    "key_opinions": ["恒科持续阴跌或到前低", "3300以下开始定投", "抖音蚕食传统科技公司"],
+    "mentioned_stocks": ["腾讯"]
+  },
+  {
+    "index": 39,
+    "summary": "论坛银行讨论热度爆量，可能暗示银行板块见底",
+    "sentiment": "mixed",
+    "key_opinions": ["银行热度爆量可能见底", "银行主升浪或刚开始", "高点买银行也有被套风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "创业板似乎企稳难以下跌，但反复抱摔风险犹存",
+    "sentiment": "mixed",
+    "key_opinions": ["创业板或已筑底", "拉高不跑下午可能抱摔", "反弹可能在下个月"],
+    "mentioned_stocks": ["宁德时代", "中际"]
+  },
+  {
+    "index": 41,
+    "summary": "盘面震荡恐怖，高低切换频繁，市场缺乏明确方向",
+    "sentiment": "negative",
+    "key_opinions": ["盘面反复抱摔吓人", "高低切换来回切无方向", "大盘被玩成超短线"],
+    "mentioned_stocks": ["工行"]
+  },
+  {
+    "index": 42,
+    "summary": "感谢大A在AI行情中获利，落袋为安后生活改善",
+    "sentiment": "positive",
+    "key_opinions": ["AI行情中落袋获利", "感谢股市改善生活", "东芯看好砺算未来发展"],
+    "mentioned_stocks": ["东芯股份"]
+  },
+  {
+    "index": 43,
+    "summary": "质疑A股是否真有技术可分析，技术分析反而亏损更少",
+    "sentiment": "negative",
+    "key_opinions": ["A股技术分析有效性存疑", "量化交易确实是技术", "信仰持股比止损亏更多"],
+    "mentioned_stocks": []
+  }
+]
+```
