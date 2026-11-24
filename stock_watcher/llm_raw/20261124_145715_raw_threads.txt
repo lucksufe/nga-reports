@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "黄仁勋复职引发A股利空讨论，认为英伟达独赢但国内拿不到芯片，板块分歧明显",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达独赢A股企业更难拿到芯片", "流动性有限撑不起全部科技股", "算力租赁或成缓和方向"],
+    "mentioned_stocks": ["英伟达/NVIDIA", "工商银行"]
+  },
+  {
+    "index": 2,
+    "summary": "调侃某大V连续做空战绩图表，嘲讽其在下跌趋势中反复操作亏损",
+    "sentiment": "negative",
+    "key_opinions": ["不要做下跌趋势的票", "亏损次数还在累加", "技术分析翻车令人感叹"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "讨论国家队为何不与外围共振托市，认为其只托不举、等待吸筹",
+    "sentiment": "negative",
+    "key_opinions": ["国家队只托不举等更低筹码", "把A股当庄股在收集筹码", "外围利好不跟随是独立态度"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "在英伟达大涨30%背景下A股高开回落至水下，感叹走势恶劣变态",
+    "sentiment": "negative",
+    "key_opinions": ["高开低走至水下过于变态", "高开又套一批人", "科技股全线走弱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "疑惑为何科技大跌时国家队仍拉银行保指数，情绪崩溃想销户",
+    "sentiment": "negative",
+    "key_opinions": ["拉银行只为指数好看并非诱因", "科技出货兑现盘导致下跌", "证券板块压制全天"],
+    "mentioned_stocks": ["银行板块", "证券板块"]
+  },
+  {
+    "index": 6,
+    "summary": "建议只买垄断行业股票，认为非垄断投资实为财富再分配",
+    "sentiment": "negative",
+    "key_opinions": ["非垄断投资是财富再分配", "应先了解市场本质", "光伏不是垄断行业"],
+    "mentioned_stocks": ["光伏板块"]
+  },
+  {
+    "index": 7,
+    "summary": "感叹银行强势抱团，讨论抱团终将瓦解、资金无处可去的现状",
+    "sentiment": "mixed",
+    "key_opinions": ["极端抱团终将导致深度调整", "四大行轮动到地方银行", "资金无处可去纯抱团"],
+    "mentioned_stocks": ["银行板块", "四大行"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论中际旭创等英伟达产业链股票，质疑散户追高、估值与业绩可持续性",
+    "sentiment": "negative",
+    "key_opinions": ["年底机构想出货而非加仓", "业绩能否持续存疑", "散户惯性追高易被套"],
+    "mentioned_stocks": ["中际旭创", "新易盛", "寒武纪", "英伟达"]
+  },
+  {
+    "index": 9,
+    "summary": "用影视梗讽刺行情：别人狂欢自己乱折腾，如同拉着人跳悬崖",
+    "sentiment": "negative",
+    "key_opinions": ["别人大涨自己乱跳", "操作如同跳悬崖", "讽刺行情与己无关"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "分析多杀多踩踏与量化做T吃掉价差，认为主动多头被埋",
+    "sentiment": "negative",
+    "key_opinions": ["量化吃干抹净价差埋掉多头", "国家队不作为即态度", "大跌后只能等3000捡垃圾"],
+    "mentioned_stocks": ["ETF"]
+  },
+  {
+    "index": 11,
+    "summary": "展示在中际旭创的亏损战绩图，自嘲追高被套",
+    "sentiment": "negative",
+    "key_opinions": ["追高必死低吸还有点说法", "反复被套但不长记性", "AI股真的不值"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 12,
+    "summary": "惊叹银行板块全天最强势，从跌1.5%拉回涨0.7%",
+    "sentiment": "positive",
+    "key_opinions": ["银行是当日最强板块", "银行逆势拉红", "无出其右"],
+    "mentioned_stocks": ["银行板块"]
+  },
+  {
+    "index": 13,
+    "summary": "吐槽剑桥科技从涨停翻绿，CPO板块集体冲高回落被套",
+    "sentiment": "negative",
+    "key_opinions": ["涨停到翻绿极其惨烈", "CPO全线跳水中际跌12点", "任一时间买入都被套"],
+    "mentioned_stocks": ["剑桥科技", "中际旭创"]
+  },
+  {
+    "index": 14,
+    "summary": "感叹走出最悲观走势，午后追入即被套",
+    "sentiment": "negative",
+    "key_opinions": ["走势最悲观", "午后买入一路不回头", "T+1判断错跑不掉"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 15,
+    "summary": "感叹市场只剩科技与红利两大属性，其余个股被边缘化凉透",
+    "sentiment": "negative",
+    "key_opinions": ["市场只剩科技和红利", "其他股在对轰余波中凉透", "两极分化严重"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "发毒誓永不再买A股科技股，情绪极度崩溃",
+    "sentiment": "negative",
+    "key_opinions": ["发誓不再碰A股科技", "利好再多也不信", "不要对板块抱偏见"],
+    "mentioned_stocks": ["A股科技板块"]
+  },
+  {
+    "index": 17,
+    "summary": "吐槽指数最终收绿，用中际旭创基本面逐时变脸讽刺市场叙事",
+    "sentiment": "negative",
+    "key_opinions": ["创业板跌4点没人顶得住", "叙事从王者秒变垃圾电子厂", "A股跟跌不跟涨"],
+    "mentioned_stocks": ["中际旭创", "创业板指"]
+  },
+  {
+    "index": 18,
+    "summary": "懊悔相信美股利好做T失败，感慨A股高开回落惩罚操作",
+    "sentiment": "negative",
+    "key_opinions": ["信美股做T反而被套", "生在诈骗市场身不由己", "真信老美该买纳指"],
+    "mentioned_stocks": ["纳指ETF", "中际旭创"]
+  },
+  {
+    "index": 19,
+    "summary": "英伟达大涨30%仍救不了海外链，高开跳水似曾相识",
+    "sentiment": "negative",
+    "key_opinions": ["英伟达大涨救不了海外链", "算力出口限制未缓解", "高开跳水反复上演"],
+    "mentioned_stocks": ["英伟达", "海外链"]
+  },
+  {
+    "index": 20,
+    "summary": "吐槽国产战狼链同样下跌，认清国产替代叙事失效认栽",
+    "sentiment": "negative",
+    "key_opinions": ["战狼链也全线杀跌", "国产链独善其身是谎言", "科技板块涨多杀跌多捞"],
+    "mentioned_stocks": ["华虹", "寒武纪", "中芯国际"]
+  },
+  {
+    "index": 21,
+    "summary": "怒斥国家队不懂维护信心，只盯散户口袋做T赚钱",
+    "sentiment": "negative",
+    "key_opinions": ["国家队放任多头信心丧失", "公募量化才是最大对手", "对手盘就是来赚散户钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "戏谑论坛网友抱团买下上市公司做多，吐槽集资控盘不现实",
+    "sentiment": "mixed",
+    "key_opinions": ["散户抱团买公司不现实", "买成大股东也难控制", "非法集资会被查"],
+    "mentioned_stocks": ["澜起科技"]
+  },
+  {
+    "index": 23,
+    "summary": "抱怨再次被套，感慨被毒打也不长记性",
+    "sentiment": "negative",
+    "key_opinions": ["又被套牢", "反复被毒打", "不长记性继续亏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "调侃龙软科技等谐音搞笑股票名，戏称可凑一桌炒作",
+    "sentiment": "mixed",
+    "key_opinions": ["搞笑股名引人发笑", "名字有趣引发投机", "一堆谐音梗股票"],
+    "mentioned_stocks": ["龙软科技", "华软科技", "华绿生物", "川大智胜", "日盈电子", "韩建河山"]
+  },
+  {
+    "index": 25,
+    "summary": "戏称中国地区交易所指数大涨8.99%，暗讽两岸行情对比",
+    "sentiment": "mixed",
+    "key_opinions": ["台湾股市大涨A股拖后腿", "两地行情对比讽刺", "开盘拉9点后画直线"],
+    "mentioned_stocks": ["恒生指数"]
+  },
+  {
+    "index": 26,
+    "summary": "哀叹高开回落翻绿，开盘追入亏损8000，市场无语",
+    "sentiment": "negative",
+    "key_opinions": ["高开冲入巨亏", "非科技股也一样杀跌", "T+1散户无主动权"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "百思不得其解：外围利好反被砸盘，国家队意图成谜",
+    "sentiment": "negative",
+    "key_opinions": ["外围利好反而砸盘看不懂", "融资盘减仓持续卖压", "国家队带任务做T赚钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "抱怨被深套只能死扛，称垃圾市场若非套牢绝不会碰",
+    "sentiment": "negative",
+    "key_opinions": ["深套动弹不得", "没有止损底气别赌", "垃圾市场不想碰"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "分析国家队如延迟刀反向收割散户，吃干抹净血筹码",
+    "sentiment": "negative",
+    "key_opinions": ["国家队反向操作割散户", "等散户割完才拉大阳", "互相掏兜的市场"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "解释行情玩崩原因：外围反弹不跟，拉银行出货砸盘",
+    "sentiment": "negative",
+    "key_opinions": ["外围反弹坚决不跟", "拉银行掩护出货", "银行才是核心资产"],
+    "mentioned_stocks": ["银行板块"]
+  },
+  {
+    "index": 31,
+    "summary": "反串嘲讽国家队护盘拉红，戏称过年行情来了",
+    "sentiment": "mixed",
+    "key_opinions": ["反串夸国家队拉红", "网友识破开串", "年底看4300点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "吐槽火电、有色钨等非科技板块同样冲高回落翻绿",
+    "sentiment": "negative",
+    "key_opinions": ["火电冲高回落翻绿", "钨从+6%到-3%", "泥沙俱下只有红利能活"],
+    "mentioned_stocks": ["火电板块", "钨", "红利板块"]
+  },
+  {
+    "index": 33,
+    "summary": "预测明日跟随外围低开下跌，十年3000点成享福",
+    "sentiment": "negative",
+    "key_opinions": ["明天必然跟跌", "低开跑不了", "十年3000点享福"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "惊叹操盘精准45度滑梯式下跌，散户从+7%到-0.2%",
+    "sentiment": "negative",
+    "key_opinions": ["45度滑梯跌法叹为观止", "精准拉回不让翻绿", "散户逃窜指望国家队接盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "吐槽A股毫无惊喜，高开低走早已司空见惯",
+    "sentiment": "negative",
+    "key_opinions": ["高开低走毫无悬念", "只有惊吓没有惊喜", "行情令人麻木"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "讨论女性抵制英伟达事件，网友调侃双喜临门",
+    "sentiment": "mixed",
+    "key_opinions": ["抵制事件手法下作", "老黄影响力无可替代", "舆论战干扰市场"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 37,
+    "summary": "黄仁重大利好仅撑半小时行情即萎，高开回落收效甚微",
+    "sentiment": "negative",
+    "key_opinions": ["利好只撑半小时", "开盘+8收尾只剩+4", "不如美韩大高开坚挺"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 38,
+    "summary": "认为A股提前预判民主党出牌，基本面不佳且年关将至",
+    "sentiment": "negative",
+    "key_opinions": ["A股提前反应政治风险", "三季报基本面不佳", "年关资金面偏紧"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "感叹高开后再度坠机，行情令人无语",
+    "sentiment": "negative",
+    "key_opinions": ["高开坠机反复上演", "走势令人心寒", "无话可说"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "戏称易中天停牌以免坑害其他股票，全市场回调怪谁",
+    "sentiment": "negative",
+    "key_opinions": ["易中天拖累全市场", "停牌也解决不了问题", "全市场回调不止科技"],
+    "mentioned_stocks": ["易中天(中际旭创/新易盛/天孚通信)", "阳光电源"]
+  },
+  {
+    "index": 41,
+    "summary": "惊叹盘面能跌到翻绿，早盘未卖懊悔，祖训含金量提升",
+    "sentiment": "negative",
+    "key_opinions": ["从+2.5%跌到-0.5%", "早盘该卖没卖", "祖训含金量还在提高"],
+    "mentioned_stocks": ["银行板块"]
+  },
+  {
+    "index": 42,
+    "summary": "晒出真实亏损截图，表示只有自己在真痛",
+    "sentiment": "negative",
+    "key_opinions": ["真实亏损只有自己疼", "还带点利润走人", "网友玩梗自己真亏"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "反讽收红就该磕头感谢没被砸绿",
+    "sentiment": "negative",
+    "key_opinions": ["收红已是恩赐", "没砸绿该感谢", "反讽国家队护盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "惊叹银行保险大涨，券商不涨被嘲为路边一条",
+    "sentiment": "mixed",
+    "key_opinions": ["银行保险大涨", "券商完全不跟涨", "早卖红利去科技反被套"],
+    "mentioned_stocks": ["银行板块", "保险板块", "中金公司", "中信证券", "中信建投"]
+  },
+  {
+    "index": 45,
+    "summary": "笑叹外围疯涨A股快绿，高开低走套牢追高者",
+    "sentiment": "negative",
+    "key_opinions": ["外围疯涨A股快绿", "高追者吃大面", "上证丝滑入水"],
+    "mentioned_stocks": ["上证指数", "上证50"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论科技资金兑现流入银行避险，雪球敲入风险临近",
+    "sentiment": "negative",
+    "key_opinions": ["科技兑现资金转向银行避险", "银行成交量承接有限", "离雪球敲入风险不远"],
+    "mentioned_stocks": ["银行板块", "科技板块"]
+  },
+  {
+    "index": 47,
+    "summary": "惊叹A股瞠目结舌走势，担忧明天继续吐回涨幅",
+    "sentiment": "negative",
+    "key_opinions": ["走势令人瞠目结舌", "担心明天补跌", "这才是真正的A股"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 48,
+    "summary": "反讽A股是正规市场不与外围同流合污",
+    "sentiment": "mixed",
+    "key_opinions": ["反讽不跟外围", "独树一帜的走法", "正规市场自嘲"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "询问紫金矿业跌至22元是否值得买，网友建议等更低",
+    "sentiment": "mixed",
+    "key_opinions": ["位置看似低但加息压制", "建议20-21再接", "被套者现身劝退"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 50,
+    "summary": "嘲讽券商中国文章称盘中拉升引爆，实则冲高回落拉爆",
+    "sentiment": "negative",
+    "key_opinions": ["媒体吹嘘与实盘背离", "盘中全被拉爆", "文章发了就算赢"],
+    "mentioned_stocks": ["券商板块"]
+  }
+]
+```
