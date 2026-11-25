@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论海外链(光、PCB)资金若不砸盘，国产票能否走独立行情，涉及险资卖出和私募买入时机。",
+    "sentiment": "mixed",
+    "key_opinions": ["大部分票已到底部，被海外链拖累", "无脑砸盘只会大家一起亏", "关键看险资何时卖完、私募何时买入"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 2,
+    "summary": "讨论某博主预测黄仁勋/英伟达结局，社区普遍对该博主可信度存疑，调侃其分析水平。",
+    "sentiment": "negative",
+    "key_opinions": ["所有结局都是退出NVIDIA", "信该博主分析不可靠", "拿故事会yy资本市场不可取"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 3,
+    "summary": "讨论上海股票今日是否承压，涉及张江高科、中远海控等沪票，海控母公司出事引发担忧。",
+    "sentiment": "negative",
+    "key_opinions": ["张江高科追高被套很慌", "海控母公司出事引发抛售", "海控可能跌出黄金坑"],
+    "mentioned_stocks": ["张江高科", "中远海控"]
+  },
+  {
+    "index": 4,
+    "summary": "浙江宣传反驳借房地产唱衰中国经济，网友调侃官方表态与现实反差大。",
+    "sentiment": "negative",
+    "key_opinions": ["官方称境外媒体抹黑中国", "万科股价低迷佐证问题", "皇帝的新衣，民众感受明显"],
+    "mentioned_stocks": ["万科"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论黄仁勋事件中最难受的当事人黄乐，网友认为其名声受损但经济补偿巨大无需同情。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄乐名声损失大", "几十亿赔偿足以阶级跨越", "名声不值钱无所谓"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论ETF资金流入流出疑似国家队做T，高抛低吸来回割，创业板流出最多。",
+    "sentiment": "negative",
+    "key_opinions": ["国家队资金无脑抄底涨了就卖", "创业板流出最多科创流入", "净流出量其实不大"],
+    "mentioned_stocks": ["中证500ETF"]
+  },
+  {
+    "index": 7,
+    "summary": "港股红利近一年亏10%，A/H溢价率持续新高40%+，港股受加息周期压制持续走弱。",
+    "sentiment": "negative",
+    "key_opinions": ["港股需降息才能救", "美元加息周期港股向下", "红利定投锁仓吃息等降息"],
+    "mentioned_stocks": ["港股红利ETF"]
+  },
+  {
+    "index": 8,
+    "summary": "感慨10万块本可吃大餐旅游，在A股却像打水漂，对市场亏损效应感到绝望和自嘲。",
+    "sentiment": "negative",
+    "key_opinions": ["A股钱像打水漂", "赌桌上玩不过庄家", "高管卖课老师替你享受"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 9,
+    "summary": "技术分析今日追高不用悲观，预测明天低开高走V回，讨论久留美更新对A股的影响。",
+    "sentiment": "mixed",
+    "key_opinions": ["明天大概率低开高走", "后天久留美更新可能击沉A股", "磨底充分换手是好事"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "讨论中韩股市是否会师，韩国频繁熔断，A股独立性较强跟跌不跟涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["韩国天天熔断像赌场", "A股还有3000多不会会师", "A股独立性跟跌不跟涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "质疑美股暴涨暴跌是否正规市场，有人认为工具完备才是正规，剧烈波动是市场特征。",
+    "sentiment": "mixed",
+    "key_opinions": ["能做空市场暴跌等于暴涨", "正规在于工具是否完备", "投资风险在各国增加"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "对美股暴涨暴跌已麻木，感慨A股内在弱势，跌多后只能做超跌反弹，亏损效应令人疲惫。",
+    "sentiment": "negative",
+    "key_opinions": ["A股内在核心是弱", "美国涨跌都让我们难受", "仓位重让人睡不好"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 13,
+    "summary": "美国又出反华关税消息引发恐慌，讨论是否为假消息，期货已反应下跌3%。",
+    "sentiment": "negative",
+    "key_opinions": ["美国反华加剧关税威胁", "可能是旧关税续期", "期货已跌3%消息为真"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "讨论快手800亿与抖音47000亿市值差距，港股估值杀严重，快手现金超市值但AI投入拖累业绩。",
+    "sentiment": "negative",
+    "key_opinions": ["港股估值压得离谱", "快手现金大于市值但AI投入拖累", "互联网赢家通吃快手护城河弱"],
+    "mentioned_stocks": ["快手", "腾讯", "百度", "京东"]
+  },
+  {
+    "index": 15,
+    "summary": "讨论AI龙头从英伟达转向OpenAI(A/)，认为A/护城河低、商业模式差，可能带崩AI硬件板块。",
+    "sentiment": "negative",
+    "key_opinions": ["A/护城河低易被替代", "大模型商业模式不佳", "A/下跌可能带崩AI硬件"],
+    "mentioned_stocks": ["英伟达", "AMD", "微软", "谷歌"]
+  },
+  {
+    "index": 16,
+    "summary": "调侃今天两类傻逼操作：开盘买达链和割肉红利，实为对追涨杀跌行为的自嘲。",
+    "sentiment": "negative",
+    "key_opinions": ["开盘追达链被套", "割红利追科技两头挨打", "港股红利天天被爆击"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "2026年创业板33次高开1%以上全部跌破开盘价，暗示高开即卖胜率极高。",
+    "sentiment": "negative",
+    "key_opinions": ["高开1%以上无脑卖胜率极高", "量化互卷卖慢就亏", "快收盘再买更安全"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "一位股友分享近期反思，因亏损被喷而冷静思考，引用庄子浑沌之死表达感悟。",
+    "sentiment": "mixed",
+    "key_opinions": ["亏钱又被喷很委屈", "引用浑沌之死谈反思", "社区支持鼓励盈亏自负"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "担心费城半导体指数抹除昨日涨幅，昨天+14%今天-10%波动剧烈，AMD闪迪创新低。",
+    "sentiment": "negative",
+    "key_opinions": ["费半暴涨暴跌太戏剧化", "AMD闪迪已创新低", "昨天涨今天全亏回去"],
+    "mentioned_stocks": ["AMD", "闪迪"]
+  },
+  {
+    "index": 20,
+    "summary": "李蓓爆料险资已卖空科技股，部分人认为利好底部确认，但质疑其可信度和险资影响力。",
+    "sentiment": "mixed",
+    "key_opinions": ["险资卖出科技股或是底部信号", "最大空头出清是好事", "险资科技份额不大影响有限"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 21,
+    "summary": "讨论追高是傻事尤其T+1下，有人反驳右侧交易也有道理，短线各有玩法盈亏自负。",
+    "sentiment": "mixed",
+    "key_opinions": ["看好就该提前买不该追高", "左侧右侧各有优劣", "愿赌服输是基本素养"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "讨论回到2700点是否卖房梭哈，多数人认为回不去了，房价下行卖房反而是稳健选择。",
+    "sentiment": "mixed",
+    "key_opinions": ["2700可能回不去了", "卖房可躲开房价下行", "可能跌到2400"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "认为AI泡沫很大类似次级贷，与房地产泡沫比较，有人认为AI投入远小于房地产规模无需过度担心。",
+    "sentiment": "negative",
+    "key_opinions": ["AI泡沫类似互联网泡沫", "应用端缺乏高价值", "AI投入远小于房地产规模"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "欧盟对可口可乐反垄断调查，网友调侃欧盟只会罚款敛财，可乐股价盘前不降反升。",
+    "sentiment": "mixed",
+    "key_opinions": ["欧盟反垄断是敛财手段", "可乐盘前+1%不理欧盟", "欧盟是罚款王"],
+    "mentioned_stocks": ["可口可乐"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论英伟达多空双杀行情，昨天拉爆空头今天拉爆多头，美股个股波动太大难做。",
+    "sentiment": "negative",
+    "key_opinions": ["多空双杀谁都赚不到", "有人在横盘出货", "美股个股太难建议买指数"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 26,
+    "summary": "预测明日又是大逃杀，但有人认为低开反而是加仓点，A股低开收红概率高于高开收红。",
+    "sentiment": "mixed",
+    "key_opinions": ["明天可能是加仓点", "低开收红概率比高开高", "正常回调不必恐慌"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "黄仁勋回归只支撑一天股价，认为回归只是稳定股价方便出货，下跌趋势未变。",
+    "sentiment": "negative",
+    "key_opinions": ["回归只稳一天股价", "可能方便有人跑路", "下跌趋势不变"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 28,
+    "summary": "港股九阳持有一年多仍亏损，子公司市值反超母公司，JS环球生活退通后走势低迷。",
+    "sentiment": "negative",
+    "key_opinions": ["港股九阳拿一年还亏钱", "子公司市值超母公司", "退通后错过暴拉机会"],
+    "mentioned_stocks": ["九阳股份", "JS环球生活"]
+  },
+  {
+    "index": 29,
+    "summary": "讨论当前是否快进到2006-2007牛市前夜，多数人认为位置不对月K拐头，仅有反弹无大涨。",
+    "sentiment": "mixed",
+    "key_opinions": ["位置不对月K60日线拐头", "会有反弹但难大涨", "历史不会简单重复"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "早盘割银行追科技亏一万，反思不该听网上言论操作，300万本金今年亏15万。",
+    "sentiment": "negative",
+    "key_opinions": ["不该听网上言论炒股", "追科技割银行两头挨打", "大资金应买红利收息"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 31,
+    "summary": "讨论科技底部买入赚了几十倍为何不跑，分析人性贪婪和盈亏同源，拿得住涨也拿得住跌。",
+    "sentiment": "mixed",
+    "key_opinions": ["贪念让目标越定越高", "盈亏同源能拿住涨也拿住跌", "温水煮青蛙慢慢被套"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "支付宝纳指定投65%的人在反弹前跑了，定投知易行难，很多人恐慌中断定投。",
+    "sentiment": "mixed",
+    "key_opinions": ["65%定投者反弹前跑了", "定投知易行难", "纳指一惊一乍不敢投"],
+    "mentioned_stocks": ["纳斯达克100ETF"]
+  },
+  {
+    "index": 33,
+    "summary": "探讨放开做空与T+0制度，有人支持提供更多工具，有人担心散户被收割、庄家成本翻倍。",
+    "sentiment": "mixed",
+    "key_opinions": ["放开做空提供选择并非强制", "放开会纵容投机", "做空是平衡力量的工具"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "未成年股民在光模块和宇树科技间选了宇树结果被套，调侃想退款，科技股今天普遍挂树。",
+    "sentiment": "negative",
+    "key_opinions": ["宇树买完就挂上", "光大哥也会挂", "机器人比光模块有希望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "强烈建议只买垄断行业股票，认为非垄断行业投资本质是再分配，市场规则需先了解。",
+    "sentiment": "negative",
+    "key_opinions": ["非垄断投资是钱被再分配", "研究K线不如了解市场本质", "光伏不算垄断行业"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "讨论是否都赖国家队，部分人认为该自我反思，去期货市场证明自己，散户情绪化严重。",
+    "sentiment": "mixed",
+    "key_opinions": ["别总赖国家队该自我反省", "去期货市场证明自己", "追高被套该怪自己"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "认为当前市场远离AI科技股才能生存，波动如俄罗斯轮盘赌，红利股才是安全选择。",
+    "sentiment": "negative",
+    "key_opinions": ["AI科技股波动如轮盘赌", "买红利才是对的", "追科技想给自己耳光"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "讨论民主党对AI/英伟达相关调查的政治意图，事件可能反复，短期最坏时间或已过去。",
+    "sentiment": "mixed",
+    "key_opinions": ["民主党借调查搞政治博弈", "事件还会有反复", "老黄回归有川普个人意志"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 39,
+    "summary": "今日放量1000亿全是散户高开买入，主力资金在流出，散户接盘被割。",
+    "sentiment": "negative",
+    "key_opinions": ["放量全是散户高开买", "主力资金在流出", "散户接主力的盘"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "分享退学炒股读书记录，讨论资金买卖手数、妖股新股与蓝筹股主力行为。",
+    "sentiment": "mixed",
+    "key_opinions": ["看懂资金买卖手数方式", "大盘不好干妖股新股", "关注蓝筹股主力行为"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "调侃美国国家队只拉可口可乐麦当劳等消费股，科技股被抛弃，消费vs科技的取舍。",
+    "sentiment": "negative",
+    "key_opinions": ["美国国家队抱团消费股", "科技人命不是命", "碳酸科技也是科技"],
+    "mentioned_stocks": ["可口可乐", "麦当劳", "苹果"]
+  },
+  {
+    "index": 42,
+    "summary": "比亚迪受欧盟限制汽车进口影响，混动配额35万辆/年，国内卖不动出口受阻压力大。",
+    "sentiment": "negative",
+    "key_opinions": ["欧盟限制混动汽车进口配额", "比亚迪从高点已腰斩", "利空落地可能反弹"],
+    "mentioned_stocks": ["比亚迪", "吉利汽车", "奇瑞"]
+  },
+  {
+    "index": 43,
+    "summary": "推荐汇丰控股为大A最适合逢低买入长持的股票，兼具基本面、股东回报和全球定价。",
+    "sentiment": "positive",
+    "key_opinions": ["汇丰基本面股东回报优异", "公司持续回购信心足", "港股工行7块也很有性价比"],
+    "mentioned_stocks": ["汇丰控股", "工商银行", "纳斯达克100ETF"]
+  },
+  {
+    "index": 44,
+    "summary": "恒生科技指数跌穿924低点比双创更惨，被外资做空无资金救助，做空比例历史极值。",
+    "sentiment": "negative",
+    "key_opinions": ["恒科跌穿924低点", "外资追着做空无人救", "做空比例历史极值或反转"],
+    "mentioned_stocks": ["恒生科技ETF"]
+  },
+  {
+    "index": 45,
+    "summary": "A/(OpenAI)破发破万亿市值，被视为本轮AI下跌元凶，管理层套现卖公司嫌疑。",
+    "sentiment": "negative",
+    "key_opinions": ["A/破发是下跌元凶", "管理层套现像卖公司", "几十亿托单被击破"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 46,
+    "summary": "高盛认为黄仁勋回归不足以扭转半导体颓势，网友认为高盛在找场子或带头唱空。",
+    "sentiment": "negative",
+    "key_opinions": ["高盛称回归不足以扭转颓势", "AGI利润前景不明朗", "高盛可能做空吃亏找场子"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 47,
+    "summary": "亨通光电PE跌至10倍接近银行股水平，讨论低PE科技股是否值得投资。",
+    "sentiment": "negative",
+    "key_opinions": ["10倍PE的科技股", "PE是后视镜不能只看", "分红不够PE低也无用"],
+    "mentioned_stocks": ["亨通光电", "海力士", "闪迪", "英伟达"]
+  },
+  {
+    "index": 48,
+    "summary": "美国消费者信心创两年新高，但网友质疑数据真实性，麦当劳同店销售下滑佐证消费疲软。",
+    "sentiment": "mixed",
+    "key_opinions": ["消费者信心指数103.3超预期", "数据可能被修正", "麦当劳同店销售下滑存疑"],
+    "mentioned_stocks": ["麦当劳"]
+  },
+  {
+    "index": 49,
+    "summary": "有人晒自己做多做空都赚的战绩，被网友质疑吹牛不晒交割单，调侃正规市场。",
+    "sentiment": "mixed",
+    "key_opinions": ["做多做空双赚疑似吹牛", "不晒交割单一律当吹牛", "正规市场波动大赚钱难"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "黄金石油股同步下跌，美元指数也跌，杀流动性环境下越努力越亏钱。",
+    "sentiment": "negative",
+    "key_opinions": ["金油股同步下跌", "等加息结束才能好转", "杀流动性越努力越亏"],
+    "mentioned_stocks": []
+  }
+]
+```
