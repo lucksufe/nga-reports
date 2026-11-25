@@ -1,0 +1,312 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "讨论A股在外围暴跌下低开高走拉红的表现，但回复中多为质疑和悲观情绪",
+    "sentiment": "mixed",
+    "key_opinions": ["外围暴跌下A股低开高走拉红值得肯定", "成交量跌破万亿显示市场疲弱", "反包止损只是短暂表现不宜乐观"],
+    "mentioned_stocks": ["天孚"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论NVIDIA相关预测和牢黄命运，回复多为嘲讽该预测者可信度",
+    "sentiment": "negative",
+    "key_opinions": ["NVIDIA结局必然是退出，差别在个人下场", "该预测者信誉极差不值得信", "拿故事会分析资本市场不靠谱"],
+    "mentioned_stocks": ["NVIDIA"]
+  },
+  {
+    "index": 3,
+    "summary": "外围暴跌叠加关税小作文，海外链集体拉升的预期讨论",
+    "sentiment": "mixed",
+    "key_opinions": ["小作文尚未发酵需注意风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "0元素面排队反映真实经济困境，消费降级严重，大量年轻人排队省钱",
+    "sentiment": "negative",
+    "key_opinions": ["0元素面排长队反映经济压力大", "排队浪费时间不值得", "旁证消费降级与经济困境"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "浙江宣传批驳借房地产唱衰中国经济，但回复多为反讽和悲观",
+    "sentiment": "negative",
+    "key_opinions": ["官媒批唱衰，网友讽刺如皇帝新衣", "万科股价低迷值得关注", "给人感觉真要出问题了"],
+    "mentioned_stocks": ["万科"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论A股年底机会和政策预期，缩量背景下做多窗口有限",
+    "sentiment": "negative",
+    "key_opinions": ["12月政策博弈或为最后做多窗口", "3500点缩量成交量危险", "年底LPR调整假设未必成立"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "缩量五千亿市场冷清，昨天高开低走套牢大量资金，市场信心崩溃",
+    "sentiment": "negative",
+    "key_opinions": ["缩量五千亿市场彻底凉了", "昨天高开低走套死大量做多资金", "机构大量出货打击市场信心"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "九阳连续涨停走妖，被视为大盘情绪反指和变相做空标的",
+    "sentiment": "mixed",
+    "key_opinions": ["九阳是大盘情绪反指，大盘越差越涨", "本质是变相做空标的", "总龙走法纯赌性质"],
+    "mentioned_stocks": ["九阳"]
+  },
+  {
+    "index": 9,
+    "summary": "宁德时代从400跌到220，业务逻辑崩塌，车企自造电池蚕食份额",
+    "sentiment": "negative",
+    "key_opinions": ["车企自造电池是最大利空逻辑", "出生率下降+市场萎缩影响需求", "技术路线选择错误导致议价权丧失"],
+    "mentioned_stocks": ["宁德时代", "比亚迪"]
+  },
+  {
+    "index": 10,
+    "summary": "亏钱效应下成交量持续萎缩，险资逐步撤出，今年或见万亿以下量能",
+    "sentiment": "negative",
+    "key_opinions": ["险资逐步降低权益仓位撤离A股", "亏钱效应推动成交量持续缩小", "今年或能见1万亿以下成交量"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 11,
+    "summary": "讨论砸银行释放资金的可行性，多数认为不可行，银行是指数遮羞布",
+    "sentiment": "mixed",
+    "key_opinions": ["砸银行指数会跌破3000不现实", "银行资金体量小拉不动其他板块", "银行是指数不好时的遮羞布"],
+    "mentioned_stocks": ["工商银行", "招商银行"]
+  },
+  {
+    "index": 12,
+    "summary": "天孚通信逆势强势横盘，海外链放量最多，但担心特色补跌",
+    "sentiment": "mixed",
+    "key_opinions": ["天孚逆势横盘显示强势", "海外链放量最多但担心补跌", "NPO小作文加强预期"],
+    "mentioned_stocks": ["天孚通信", "中际旭创", "生益科技", "生益电子"]
+  },
+  {
+    "index": 13,
+    "summary": "讨论国家队持续托588080科创ETF的原因，认为是托核心资产和指数",
+    "sentiment": "mixed",
+    "key_opinions": ["托核心指数ETF是维稳操作", "科创筹码不能烂在手里", "国家队不想科创板崩盘"],
+    "mentioned_stocks": ["588080"]
+  },
+  {
+    "index": 14,
+    "summary": "小作文引发半导体板块暴跌，市场缺乏盈利支撑易受谣言冲击",
+    "sentiment": "negative",
+    "key_opinions": ["小作文严重冲击芯片股股价", "市场根基不稳易被谣言左右", "先信先跑后信者坐牢"],
+    "mentioned_stocks": ["壁仞", "沐曦", "摩尔", "燕东微", "华虹"]
+  },
+  {
+    "index": 15,
+    "summary": "ETF资金流入流出显示主力做T操作频繁，高抛低吸割韭菜",
+    "sentiment": "negative",
+    "key_opinions": ["大资金无脑做T来回割散户", "创业板流出最多科创板反而流入", "ETF流出与国家队做T有关"],
+    "mentioned_stocks": ["创业板ETF", "科创ETF"]
+  },
+  {
+    "index": 16,
+    "summary": "技术分析预测明天低开高走反弹，但被久留美更新等玄学因素干扰",
+    "sentiment": "mixed",
+    "key_opinions": ["明天大概率低开高走V型反转", "久留美更新日几乎全胜压制A股", "磨底充分换手割肉是好事"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论韩国经济唱空及韩国救市效果，质疑韩国加息政策",
+    "sentiment": "negative",
+    "key_opinions": ["韩国唱空经济但救市效果存疑", "韩国加息或把自己玩死"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 18,
+    "summary": "基金配置讨论：创业板、恒科、中概互联哪个更值得买",
+    "sentiment": "mixed",
+    "key_opinions": ["推荐买中概互联而非创业板恒科", "恒科受美联储加息和流动性影响", "直接买腾讯阿里更稳妥"],
+    "mentioned_stocks": ["创业板ETF", "恒生科技指数", "中概互联", "沪深300", "中证500", "科创50", "腾讯", "阿里", "宁德时代"]
+  },
+  {
+    "index": 19,
+    "summary": "股市走势太差放弃炒股去钓鱼，反映散户心灰意冷",
+    "sentiment": "negative",
+    "key_opinions": ["走势太差散户放弃炒股", "被套后拉高自救缺乏信心", "市场比昨天更令人失望"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "宁德时代破前低跌破216，业务逻辑崩塌，车企自研电池冲击",
+    "sentiment": "negative",
+    "key_opinions": ["宁德破前低可能直奔180", "业务逻辑崩塌技术护城河不够", "宁德曾是创业板稳定器如今失守"],
+    "mentioned_stocks": ["宁德时代", "比亚迪"]
+  },
+  {
+    "index": 21,
+    "summary": "请教逐笔委托微观结构分析方法，技术学习型讨论",
+    "sentiment": "mixed",
+    "key_opinions": ["逐笔委托微观结构研究较难入门", "可借助AI学习相关知识"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "杨立昆批评Anthropic炒作AI危险论以掌握控制权，网友支持",
+    "sentiment": "mixed",
+    "key_opinions": ["杨立昆批评AI危险论炒作", "更信任马斯克而非Dario", "技术不如垄断和政治吃得开"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "宁德时代跌破万亿市值，价值投资者从赚200万到亏20万，价投困境",
+    "sentiment": "negative",
+    "key_opinions": ["宁德万亿市值恐难守住，看180", "价投在A股极难盈利", "宁德回购抠搜令人失望"],
+    "mentioned_stocks": ["宁德时代", "腾讯"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论银行下跌让指数快速到3000的利弊，多数认为不现实且有害",
+    "sentiment": "negative",
+    "key_opinions": ["银行跌下来指数会崩不符合预期", "四大行可能还没涨够", "银行跌了更多人去买银行"],
+    "mentioned_stocks": ["中国银行"]
+  },
+  {
+    "index": 25,
+    "summary": "壁仞等半导体股受小作文冲击暴跌，公司已报警但股价仍深跌",
+    "sentiment": "negative",
+    "key_opinions": ["假小作文严重影响股价，公司已报警", "小作文现在太权威了", "华虹反包昨日涨幅令人崩溃"],
+    "mentioned_stocks": ["壁仞", "华虹"]
+  },
+  {
+    "index": 26,
+    "summary": "李蓓爆料险资已清仓科技股，被视为底部信号，但可信度存疑",
+    "sentiment": "mixed",
+    "key_opinions": ["险资清空科技股或为底部信号", "最大空头出清是好事", "李蓓信用记录不佳难信"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "非科技板块已跌不动，讨论低估值标的推荐",
+    "sentiment": "negative",
+    "key_opinions": ["A股不存在跌不动的股票", "跌不动只是没有流动性", "量化拉平了股市均值"],
+    "mentioned_stocks": ["牧原", "顺丰", "宝钢", "南钢", "国航", "保利发展", "柳工", "天孚"]
+  },
+  {
+    "index": 28,
+    "summary": "分享全仓单挑共进股份的账户收益图",
+    "sentiment": "positive",
+    "key_opinions": ["全仓单只股票躺着不动也盈利"],
+    "mentioned_stocks": ["共进股份"]
+  },
+  {
+    "index": 29,
+    "summary": "发誓再高开低走就清仓销户，反映极度失望情绪",
+    "sentiment": "negative",
+    "key_opinions": ["再高开低走就清仓销户", "A股在失望方面从不失望", "高开低走套的就是追高的人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "北方华创补跌接近跌停，小作文影响扩散至设备股",
+    "sentiment": "negative",
+    "key_opinions": ["北方华创补跌接近跌停", "补跌找借口而已", "华虹被小作文误伤"],
+    "mentioned_stocks": ["北方华创", "华虹", "兆易创新", "亨通光电", "利通电子", "中钨"]
+  },
+  {
+    "index": 31,
+    "summary": "讨论成交量能否跌破1万亿，市场彻底冷清才有希望",
+    "sentiment": "negative",
+    "key_opinions": ["应是套牢的不会卖，别人也不会买", "场子彻底冷下去才有希望", "昨天套了一大波多头"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "认为海外链反弹机会来临，国产链避险资金转向海外链",
+    "sentiment": "mixed",
+    "key_opinions": ["海外链利空基本出尽反弹在即", "大盘差时反指操作胜率高", "科技只能左侧低吸不能追高"],
+    "mentioned_stocks": ["中际旭创", "阳光电源", "宁德时代"]
+  },
+  {
+    "index": 33,
+    "summary": "宁德时代再创股价新低，万亿市值岌岌可危",
+    "sentiment": "negative",
+    "key_opinions": ["宁德时代再次新低，还有下降空间", "万亿市值要守不住了", "下一个隆基"],
+    "mentioned_stocks": ["宁德时代", "中际旭创"]
+  },
+  {
+    "index": 34,
+    "summary": "分享红利股做T的稳赚方法，但被指出有严重时效性",
+    "sentiment": "mixed",
+    "key_opinions": ["红利股大跌后修复能力强可做T", "把现象当定律是错误的", "任何方法都有时效性不存在万能法"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论拉科技带动指数却反被砸的怪圈，量化策略影响大",
+    "sentiment": "negative",
+    "key_opinions": ["买入科技等于砸自己", "量化策略改变趋势难以持续", "银行成交量太小拉不动科技"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "观察好当家和易天股份作为情绪代表股",
+    "sentiment": "mixed",
+    "key_opinions": ["两只股可能成为情绪风向标"],
+    "mentioned_stocks": ["好当家", "易天股份"]
+  },
+  {
+    "index": 37,
+    "summary": "炒作名字谐音吉祥话概念，如人民同泰、合富中国等",
+    "sentiment": "mixed",
+    "key_opinions": ["今天是吉祥话概念炒作专场", "妖股都是小市值股", "有逻辑的题材反而萎靡"],
+    "mentioned_stocks": ["人民同泰", "合富中国", "华夏幸福", "美年健康", "华胜天成", "中国平安"]
+  },
+  {
+    "index": 38,
+    "summary": "银行板块日内反弹拉红，同时其他股票纷纷下跌",
+    "sentiment": "negative",
+    "key_opinions": ["银行反弹拉红其他票拐头向下", "拉银行又要砸个股", "银行行情开始意味着今天结束"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "上午11点成交量缩量3243亿，昨天套牢大量多头资金",
+    "sentiment": "negative",
+    "key_opinions": ["缩量31.8%幅度惊人", "昨天机构大量出货", "近千亿多头资金被套"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "讨论中国平安买入时机，55久攻不破等待方向",
+    "sentiment": "mixed",
+    "key_opinions": ["中国平安55久攻不破需等待", "跌到52就梭哈", "不想在科技里呆了"],
+    "mentioned_stocks": ["中国平安"]
+  },
+  {
+    "index": 41,
+    "summary": "银行板块拉红护盘，其他人没抓住机会",
+    "sentiment": "mixed",
+    "key_opinions": ["银行拉红护盘", "最后还得银行出马"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "反思近期亏损和被喷经历，分享庄子浑沌之死的故事",
+    "sentiment": "negative",
+    "key_opinions": ["亏损后冷静反思心态调整", "被喷后选择退隐享受生活", "庄子故事寓意深刻引人深思"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 43,
+    "summary": "昨天站上3600今天缩量回踩，下跌趋势难扭转，市场信心崩溃",
+    "sentiment": "negative",
+    "key_opinions": ["缩量回踩3500保卫战未必守住", "下跌趋势难靠一天扭转", "高开就跑拉银行就跑成常态"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "天孚通信无视日韩-6%跌幅表现强劲",
+    "sentiment": "positive",
+    "key_opinions": ["天孚无视外围暴跌非常神奇"],
+    "mentioned_stocks": ["天孚通信"]
+  }
+]
+```
