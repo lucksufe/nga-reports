@@ -1,0 +1,352 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "黄金、沪指、恒科指数竞相逼近3000关口，讨论谁先到达并随后逆转下跌",
+    "sentiment": "negative",
+    "key_opinions": ["恒科率先突破后回落，形势逆转", "黄金大A恒科会师3000概率高", "上证反而是最后一个摸3000的"],
+    "mentioned_stocks": ["黄金", "上证指数", "恒生科技指数"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论股市下跌中是否需要抓人（惩罚操纵者），调侃已抓了个大的",
+    "sentiment": "negative",
+    "key_opinions": ["昨天已抓了个大的", "抓人只会在熊市中后期", "上证赏了-2就是证据"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "开盘前默念竞价高开就清仓的纪律，讨论高开低走套路反复上演",
+    "sentiment": "negative",
+    "key_opinions": ["竞价高开就清仓，错了也认", "平开或小幅低开最适合大A", "次次都一样，又上当了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "询问黄金现货购买渠道，讨论银行金条、水贝、积存金等投资方式",
+    "sentiment": "mixed",
+    "key_opinions": ["建议买银行投资金条而非首饰金", "小额金条有手续费，1kg以上免工费", "银行积存金更方便"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 5,
+    "summary": "讨论牛市赚的钱流向何处，调侃化债和先信卖后信现象",
+    "sentiment": "negative",
+    "key_opinions": ["这轮牛市赚的钱都是先信卖后信", "公司增发减持收割散户", "跑掉的人钱丢银行就够富贵"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "讨论大A是简单还是地狱难度，普遍认为远比其他市场难做",
+    "sentiment": "negative",
+    "key_opinions": ["大A全世界最难没有之一", "涨少跌多万年三千点", "外盘单向交易反而简单"],
+    "mentioned_stocks": ["纳斯达克", "标普500"]
+  },
+  {
+    "index": 7,
+    "summary": "Claude订阅需要上传身份证引发讨论，调侃美国隐私保护和AI竞争格局",
+    "sentiment": "negative",
+    "key_opinions": ["KYC风控收紧导致验证证件", "GPT王朝了Claude掉队", "国内模型厂找印尼人代申请"],
+    "mentioned_stocks": ["Claude", "GPT"]
+  },
+  {
+    "index": 8,
+    "summary": "分析费半深V反弹原因，认为空间算力消息和节前空头平仓共同作用",
+    "sentiment": "mixed",
+    "key_opinions": ["太空算力2033年才能兑现", "节前避险空头平仓才是主因", "需持续给新饼才能稳住美股"],
+    "mentioned_stocks": ["费城半导体指数"]
+  },
+  {
+    "index": 9,
+    "summary": "调侃某博主会输A股，讨论市场死局和阴跌才可能见底",
+    "sentiment": "negative",
+    "key_opinions": ["敢拉就全卖，死局", "阴跌半年一年割肉后才有牛市", "纯纯的营销马"]
+  },
+  {
+    "index": 10,
+    "summary": "评分8-11月哪个月最难做，普遍认为10月最恶心，无反弹日",
+    "sentiment": "negative",
+    "key_opinions": ["10月最难没有正经反弹日", "11月黑天鹅老黄事件更恶心", "伸手两次就亏20%"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 11,
+    "summary": "调侃某资金预判美股下跌的穷举法，质疑其预测能力",
+    "sentiment": "mixed",
+    "key_opinions": ["预判是穷举法碰运气", "预判错了还按错的方向做", "预判准怎么不放开做空"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "高盛上调港股至超配预测沪深300明年涨10%，评论区普遍不信",
+    "sentiment": "negative",
+    "key_opinions": ["高位预测涨10%，跌成这样还10%", "高盛被套了才唱多", "外资国内部门做政府关系"],
+    "mentioned_stocks": ["沪深300", "港股"]
+  },
+  {
+    "index": 13,
+    "summary": "开盘前看好欧巴红开纳指稳住，但众人调侃高开必寄",
+    "sentiment": "mixed",
+    "key_opinions": ["高开那不就寄了", "一根阳线就以为牛回", "9:30开盘才算数"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 14,
+    "summary": "半导体ETF成本0.7已跌至0.4，讨论回本可能性和做T策略",
+    "sentiment": "negative",
+    "key_opinions": ["死拿一辈子回不来", "行业ETF不如指数ETF稳健", "放量破位技术面走坏"],
+    "mentioned_stocks": ["半导体ETF"]
+  },
+  {
+    "index": 15,
+    "summary": "纳斯达克100进入先卖再说模式，讨论空头回补和多空关系",
+    "sentiment": "negative",
+    "key_opinions": ["空头平仓是买入动作是潜在多头", "下跌主因是多头抛售", "快速接盘spacex要避"],
+    "mentioned_stocks": ["纳斯达克100", "标普500"]
+  },
+  {
+    "index": 16,
+    "summary": "讨论美联储加息预期对全球资产的影响，多头押注明年降息",
+    "sentiment": "negative",
+    "key_opinions": ["连续加息还有得跌", "多头赌明年转降息", "加息周期走久多头会死很惨"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 17,
+    "summary": "讨论算力供给政策调控，认为利好头部但市场不买账，AI周期可能结束",
+    "sentiment": "negative",
+    "key_opinions": ["政策利好头部芯片股但全跌", "AI周期可能要结束", "字节拿最多算力做短剧"],
+    "mentioned_stocks": ["寒武纪", "中芯国际", "北方华创", "中微公司"]
+  },
+  {
+    "index": 18,
+    "summary": "询问2021年创业板下跌经历的心路历程，2589点梭哈被套",
+    "sentiment": "negative",
+    "key_opinions": ["2589点梭哈不知道能跌这么多", "攒工资等磨底补仓降成本", "取决于对底部的判断"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 19,
+    "summary": "知乎大V预言AI泡沫必爆、看多机器人，现在扬眉吐气",
+    "sentiment": "positive",
+    "key_opinions": ["预言AI泡沫爆和黄金头肩顶成功", "机器人是产业终局AI是祭品", "有技术也有价投比较靠谱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "讨论睡觉的好处，美股睡醒翻红大A睡醒败绿的魔咒",
+    "sentiment": "mixed",
+    "key_opinions": ["晚上看纳指红白天看大A绿", "周五大跌周末休息是好事", "有个市场喜欢玩预判"]
+  },
+  {
+    "index": 21,
+    "summary": "特朗普对日韩加征关税，担忧低开但消息可能仅是提议未落地",
+    "sentiment": "negative",
+    "key_opinions": ["加关税只是提议没有落地", "明天低开概率极高", "虚空造牌给国内鹰派交代"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 22,
+    "summary": "黄金股赤峰黄金逆势拉升疑似出货，老庄翻车",
+    "sentiment": "negative",
+    "key_opinions": ["黄金跌股价横盘是庄在出力", "明显拉高出货", "贵金属股玩不过庄"],
+    "mentioned_stocks": ["赤峰黄金", "紫金矿业"]
+  },
+  {
+    "index": 23,
+    "summary": "期待某光概念股上涨，但底部远未到位",
+    "sentiment": "negative",
+    "key_opinions": ["底部50块远远还没到", "在底部磨了很长时间"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "讨论股票越跌越贵的可能性，恒科PE看似低但含亏损企业更贵",
+    "sentiment": "negative",
+    "key_opinions": ["企业盈利减少PE反而没跌", "去除亏损企业实际越跌越贵", "国内净利率高的行业会被卷"],
+    "mentioned_stocks": ["恒生科技指数"]
+  },
+  {
+    "index": 25,
+    "summary": "分析美股反弹原因为空头回补和FCC太空算力审批，A股能否跟进",
+    "sentiment": "mixed",
+    "key_opinions": ["空头回补和节前平仓是主因", "亚洲股市难连续上涨", "加息定死后利空落地"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 26,
+    "summary": "拍到红鸟预感今日红盘，玄学炒股现象",
+    "sentiment": "mixed",
+    "key_opinions": ["科学炒股不如玄学炒股", "股票把人都逼成什么样了", "万绿丛中一点红"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "外围稳住期待今天修复，但众人认为大A不会礼貌反弹",
+    "sentiment": "mixed",
+    "key_opinions": ["预期今天强修复否则减仓", "大A什么时候礼貌过", "美股暂停前是唯一天然上涨机会"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 28,
+    "summary": "美股深V反弹后讨论大A是否会温柔，担忧只会深V不会起来",
+    "sentiment": "mixed",
+    "key_opinions": ["高开平开大家跑不跑", "每次都是高开低走", "只会深不会V"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "调侃治FOMO症的方法是满仓满融",
+    "sentiment": "mixed",
+    "key_opinions": ["答案是满仓满融"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "讨论红利股是否要跑，建议分批减仓控制风险",
+    "sentiment": "negative",
+    "key_opinions": ["散户高潮法出现该害怕了", "加息涨太多经营不善三种情况跑", "大盘砸下来红利也扛不住"],
+    "mentioned_stocks": ["银行股", "牧原股份", "宝丰能源", "东鹏饮料", "中国海油", "招商银行", "紫金矿业"]
+  },
+  {
+    "index": 31,
+    "summary": "分析国家队被老黄黑天鹅埋住，额度用完只能拉权重遮羞",
+    "sentiment": "negative",
+    "key_opinions": ["老黄黑天鹅导致gjd被埋", "gjd额度用完只能拉上证50", "不尊重市场规律两边不讨好"],
+    "mentioned_stocks": ["上证50"]
+  },
+  {
+    "index": 32,
+    "summary": "新人配置九只均衡基金全亏，鸡蛋全碎的困境",
+    "sentiment": "negative",
+    "key_opinions": ["全天候配置全天候亏钱", "入场时机不好买的越多越亏", "分散了个寂寞宽基没区别"],
+    "mentioned_stocks": ["纳斯达克", "标普500", "沪深300", "中证500", "中证红利", "中证A500", "黄金ETF"]
+  },
+  {
+    "index": 33,
+    "summary": "胡锡进称散户值得好报，评论区嘲讽其也被套才说好话",
+    "sentiment": "negative",
+    "key_opinions": ["散户最好割的潜台词", "因他也被套才说好话", "做贡献还想要好报很搞笑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 34,
+    "summary": "万斯力挺黄仁勋称无需调查赦免，疑为留后手",
+    "sentiment": "negative",
+    "key_opinions": ["老黄危了丹书铁券不给", "真该说已准备特赦令"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 35,
+    "summary": "基本面堪忧是否还有下一轮牛市，认为AI故事破灭后结构牛仍可期",
+    "sentiment": "negative",
+    "key_opinions": ["牛市建立在薄冰之上", "AI证明盈利或暴雷后才有新结构牛", "人口和外部环境成灰犀牛群"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 36,
+    "summary": "预测美股反弹点在下周三，分析CTA抛压、PCE数据和养老金再平衡",
+    "sentiment": "mixed",
+    "key_opinions": ["下周三空头回补叠加轧空", "月底养老金再平衡几百亿买盘", "PCE数据和财报指引不好看"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 37,
+    "summary": "黄金大跌该骂谁，归因美联储加息和美伊冲突导致流动性抽走",
+    "sentiment": "negative",
+    "key_opinions": ["懂王打伊朗油价涨导致加息", "加息大宗全死黄金被抽流动性", "美伊是今年最大转折点"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 38,
+    "summary": "美股和黄金爆拉因GDP超预期，但担忧大A高开又砸",
+    "sentiment": "mixed",
+    "key_opinions": ["GDP超预期经济上行", "大利好大A能高开喘气", "像周二一样高开砸到绿"],
+    "mentioned_stocks": ["纳斯达克", "黄金"]
+  },
+  {
+    "index": 39,
+    "summary": "黄金急跌疑似要破700，讨论底部和买入时机",
+    "sentiment": "negative",
+    "key_opinions": ["黄金和大A是一对苦命鸳鸯", "斜率太快3500破后看3300", "不上杠杆实体金可以拿着"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 40,
+    "summary": "纳斯达克连收九阴深V反转，调侃大卫毛老师的法力",
+    "sentiment": "mixed",
+    "key_opinions": ["九阴真经大成后突然V起来", "大卫毛老师施法终于生效", "美股崩盘之路越走越远"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 41,
+    "summary": "预测本轮见底点位在3100-3200之间，多数人不认同点位测算",
+    "sentiment": "negative",
+    "key_opinions": ["不会跌破3000是政治问题", "3200有强支撑但不会止步", "反弹阳线是下跌中继形态"],
+    "mentioned_stocks": ["上证指数"]
+  },
+  {
+    "index": 42,
+    "summary": "美股红了好消息，但众人预测大A高开低走继续杀",
+    "sentiment": "mixed",
+    "key_opinions": ["正规市场有正规道理", "大A高开低走杀看美股的", "空仓fomo了想买入"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 43,
+    "summary": "中科飞测明场设备获头部客户订单，评论区反应冷淡",
+    "sentiment": "mixed",
+    "key_opinions": ["早都是明牌的事情了", "订单多但赚了钱分给股东多少", "说点大家不知道的"],
+    "mentioned_stocks": ["中科飞测"]
+  },
+  {
+    "index": 44,
+    "summary": "美股大跌科技股前途堪忧，但有人认为纳指强支撑会反弹",
+    "sentiment": "negative",
+    "key_opinions": ["明天科技至少-5%", "大A比美股先跌3个月", "纳指-20%位置支撑很强"],
+    "mentioned_stocks": ["纳斯达克"]
+  },
+  {
+    "index": 45,
+    "summary": "讨论存储缺货概念能否重演行情，认为故事已结束",
+    "sentiment": "negative",
+    "key_opinions": ["存储故事已经结束", "订单到28年利润已够回购", "死猫跳甚至不带存储"],
+    "mentioned_stocks": ["闪迪", "海力士"]
+  },
+  {
+    "index": 46,
+    "summary": "特朗普发言后市场是否要V型反转，认为影响有限",
+    "sentiment": "negative",
+    "key_opinions": ["川都没power了废话没用", "怎么卖的明天买回来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "萌新买黄金求教，担忧黄金根基不稳被炒作后干涸",
+    "sentiment": "negative",
+    "key_opinions": ["黄金永不贬值但根基不稳", "471到777间大部分人没听到", "无根之水会彻底干涸"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 48,
+    "summary": "科技股操作难度已接近超短线，波动剧烈难以持股",
+    "sentiment": "negative",
+    "key_opinions": ["科技比超短难玩多了", "日内波动超10个点", "格局就被埋拉起来就跑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "调侃九阳股份为全球豆浆算力龙头的搞笑研报",
+    "sentiment": "mixed",
+    "key_opinions": ["豆浆是AI基础设施配套", "对标中际旭创给200元目标价", "纳米级豆浆机"],
+    "mentioned_stocks": ["九阳股份", "中际旭创"]
+  },
+  {
+    "index": 50,
+    "summary": "希望趁AI调整杀国产链估值，认为国产芯片估值过高",
+    "sentiment": "negative",
+    "key_opinions": ["国产链估值一直在天上", "短期避险已清仓国产", "港股无人玩估值随意"],
+    "mentioned_stocks": ["华虹半导体", "中芯国际"]
+  }
+]
+```
