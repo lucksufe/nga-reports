@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "市场早盘拉银行维稳引发不满，资金从科技流向银行，参与者对高开兑现缺乏信心。",
+    "sentiment": "negative",
+    "key_opinions": ["拉银行是保指数的无奈之举", "高开兑现资金转向银行避险", "市场缺乏信心，有利就跑"],
+    "mentioned_stocks": ["银行", "科技"]
+  },
+  {
+    "index": 2,
+    "summary": "讨论普通人投资困境，强调要有交易逻辑和卖出条件，当前市场赚钱难，红利相对可靠。",
+    "sentiment": "negative",
+    "key_opinions": ["买前需明确卖出条件", "亏钱是常态，盈利靠红利", "不要拿特殊时期质疑自己"],
+    "mentioned_stocks": ["科技", "银行", "高息红利"]
+  },
+  {
+    "index": 3,
+    "summary": "帖子为辱骂言论，无实质股市讨论内容。",
+    "sentiment": "negative",
+    "key_opinions": ["帖子内容为辱骂，无投资观点"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 4,
+    "summary": "市场对第二天持续盈利缺乏信心，当天拉升引发兑现，量能不足制约反弹持续性。",
+    "sentiment": "negative",
+    "key_opinions": ["当天拉升必有兑现", "量能不足无法持续", "空仓等低开再买入"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "外围科技因驴象之争动荡，建议避开科技线，关注国产替代、消费新零售和红利方向。",
+    "sentiment": "negative",
+    "key_opinions": ["外围科技乱，不建议拿科技", "国产替代也有利空", "年底消费新零售或有行情"],
+    "mentioned_stocks": ["国产科技", "消费", "红利"]
+  },
+  {
+    "index": 6,
+    "summary": "美国新一轮关税出炉，中国叠加301关税实际税率达45%，越南被征35%，讨论中美博弈影响。",
+    "sentiment": "negative",
+    "key_opinions": ["中国关税叠加301达45%", "越南转口贸易会受影响", "见面只是释放信号非谈判"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 7,
+    "summary": "国产科技链看寒武纪和中芯国际，但量产不确定性大，海外链受制裁限制，陷入围城困境。",
+    "sentiment": "mixed",
+    "key_opinions": ["国产链是唯一反弹方向", "小作文真伪只有局中人知道", "发展国产算力不等于拉股价"],
+    "mentioned_stocks": ["寒武纪", "中芯国际", "光刻机"]
+  },
+  {
+    "index": 8,
+    "summary": "楼主亏20万后总结新交易模型，网友对短线悟道持怀疑态度，提醒微观模型不稳定。",
+    "sentiment": "mixed",
+    "key_opinions": ["亏20万总结出交易模型", "短线死路一条", "微观模型稳定性差"],
+    "mentioned_stocks": ["光洋股份"]
+  },
+  {
+    "index": 9,
+    "summary": "楼主决定下午不反弹就清仓，保住利润过年，多位网友也表示利润回吐严重考虑减仓。",
+    "sentiment": "negative",
+    "key_opinions": ["有利润先保命不追收益", "利润几乎被吃光", "科技收绿就清仓"],
+    "mentioned_stocks": ["科技"]
+  },
+  {
+    "index": 10,
+    "summary": "将雅戈尔比作中国伯克希尔，看好其稳健价值投资和高股息，但有人认为位置偏高。",
+    "sentiment": "positive",
+    "key_opinions": ["雅戈尔高股息4.8%以上", "投资收益远超主业", "当前位置可能偏高"],
+    "mentioned_stocks": ["雅戈尔", "宁波银行"]
+  },
+  {
+    "index": 11,
+    "summary": "PCB板块大票横盘一周，讨论是否跌到位，部分个股走出向上趋势，但整体仍在观望。",
+    "sentiment": "mixed",
+    "key_opinions": ["部分PCB走出向上趋势", "恒久必跌是熊市定律", "半导体估值逻辑可能改变"],
+    "mentioned_stocks": ["生益科技", "胜宏科技", "景旺电子", "生益电子"]
+  },
+  {
+    "index": 12,
+    "summary": "上海社零数据显示吃穿口红经济为主，家电受双11促销拉动，汽车销量腰斩，京沪社零偏弱。",
+    "sentiment": "mixed",
+    "key_opinions": ["食品衣着口红经济较强", "家电靠双11和补贴拉动", "汽车销量大幅下滑"],
+    "mentioned_stocks": ["家电", "汽车", "化妆品"]
+  },
+  {
+    "index": 13,
+    "summary": "戏称九阳股份疑似掌握机密或偷偷做庄，实际为调侃性质讨论，网友戏言转型光刻机。",
+    "sentiment": "mixed",
+    "key_opinions": ["九阳疑似有庄或秘闻", "调侃九阳转型光刻机", "不建议当真买入"],
+    "mentioned_stocks": ["九阳股份"]
+  },
+  {
+    "index": 14,
+    "summary": "达利欧建议配置10%-15%黄金，网友认为比例可调、说法老生常谈，黄金走势看美联储。",
+    "sentiment": "mixed",
+    "key_opinions": ["黄金配置7-15%为宜", "黄金走势看美联储脸色", "长线黄金逻辑没变"],
+    "mentioned_stocks": ["黄金"]
+  },
+  {
+    "index": 15,
+    "summary": "大空头看英伟达跌至200，讨论做空美股时机和风险，认可做空专家历史胜率极高。",
+    "sentiment": "negative",
+    "key_opinions": ["做空英伟达200目标价", "美股熊市二阶段宽幅震荡", "做空专家历史胜率极高"],
+    "mentioned_stocks": ["英伟达", "美光", "中际旭创"]
+  },
+  {
+    "index": 16,
+    "summary": "重温天哥股市吐槽视频，感慨A股多年不变的毛病，视频反复被下架引发共鸣。",
+    "sentiment": "negative",
+    "key_opinions": ["A股万年三千点有原因", "视频反复被下架", "什么时候看都不过时"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "楼主割掉科技满仓美的、神华、成都银行等红利股躺平，被网友调侃为老登，心气已失。",
+    "sentiment": "negative",
+    "key_opinions": ["科技割肉转红利躺平", "科技小登已没心气", "位置太高不如平安"],
+    "mentioned_stocks": ["美的", "中国神华", "成都银行", "中际旭创", "中国平安", "创业板"]
+  },
+  {
+    "index": 18,
+    "summary": "讨论为何没人追银行而一味追科技，银行虽有分红但弹性低，科技有想象空间但风险大。",
+    "sentiment": "mixed",
+    "key_opinions": ["银行弹性低不如空仓", "科技有想象空间但套人", "银行股息率已到高位"],
+    "mentioned_stocks": ["银行", "科技"]
+  },
+  {
+    "index": 19,
+    "summary": "高开做空操作讨论，中证涨2%后开空单，讨论做空机构化趋势和合规问题。",
+    "sentiment": "mixed",
+    "key_opinions": ["高开做空2%已可止盈", "做空多为机构操作", "做空本质是多空对赌"],
+    "mentioned_stocks": ["中证", "长鑫"]
+  },
+  {
+    "index": 20,
+    "summary": "经历七连冰后科技有止跌迹象，PCB连涨、国产替代逻辑强化，但中小盘流动性丧失仍严峻。",
+    "sentiment": "mixed",
+    "key_opinions": ["国产替代逻辑被强化", "PCB龙头出现企稳迹象", "中小盘流动性丧失严重"],
+    "mentioned_stocks": ["半导体", "PCB", "沪电", "深南电路", "鹏鼎控股", "中芯国际", "北方华创", "中微公司"]
+  },
+  {
+    "index": 21,
+    "summary": "预测下午大盘可能大幅下跌，网友调侃下跌惯性，预期创业板继续走弱。",
+    "sentiment": "negative",
+    "key_opinions": ["下午大概率继续下跌", "创业板可能再跌2-3%", "狗队不拉就任由下跌"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 22,
+    "summary": "讨论可转债反指标的三江和盛德，发帖抽肯德基活跃气氛，网友普遍亏损情绪低落。",
+    "sentiment": "negative",
+    "key_opinions": ["三江和盛德是反指", "可转债刀剑舔血风险大", "普遍亏损需要回血"],
+    "mentioned_stocks": ["三江", "盛德", "东方电气"]
+  },
+  {
+    "index": 23,
+    "summary": "科技股连续大跌后仍不修复反而诱多出货，市场情绪恶劣，认为只有割肉一条路。",
+    "sentiment": "negative",
+    "key_opinions": ["高开诱多出货无所不用其极", "科技被闷多回反弹无望", "这里不是底快跑"],
+    "mentioned_stocks": ["科技", "银行"]
+  },
+  {
+    "index": 24,
+    "summary": "大盘出现普涨行情，4000多家上涨，但量能不足引发质疑，情绪谨慎乐观。",
+    "sentiment": "mixed",
+    "key_opinions": ["4000+上涨算强修复", "量能不够难以持续", "跌四个点涨一个点不够"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "资金抱团银行引发不满，成交量低但持续上涨，科技被抽血，趋势与6月拉科技相似。",
+    "sentiment": "negative",
+    "key_opinions": ["银行抱团抽走科技流动性", "银行股息率无空间", "趋势跟6月拉科技一样"],
+    "mentioned_stocks": ["银行", "九阳", "工商银行"]
+  },
+  {
+    "index": 26,
+    "summary": "戏称久留美（市场下跌魔咒）再次应验，对A股上涨能力持悲观态度，午后可能走弱。",
+    "sentiment": "negative",
+    "key_opinions": ["久留美魔咒再度应验", "3400风险太高", "小作文都能影响股价"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "4000多家上涨仍遭喷，技术面钝化加9配合情绪冰点，但部分人认为可能很快翻绿。",
+    "sentiment": "mixed",
+    "key_opinions": ["技术日线钝化加9看反弹", "割肉的喷涨了有货的嫌少", "拉银行随时可能翻绿"],
+    "mentioned_stocks": ["银行"]
+  },
+  {
+    "index": 28,
+    "summary": "兆易创新反弹无力被调侃为软粪，死扛盘太重无人拉，对比其他跌多反弹的个股更弱。",
+    "sentiment": "negative",
+    "key_opinions": ["兆易创新反弹极其无力", "死扛盘太多没人拉", "还没跌够仍处高位"],
+    "mentioned_stocks": ["兆易创新", "德明利"]
+  },
+  {
+    "index": 29,
+    "summary": "新一轮关税无人在意，市场已麻木，认为正式发布前都是嘴炮，需做两套预案应对。",
+    "sentiment": "mixed",
+    "key_opinions": ["市场对关税已麻木", "正式发布前都是嘴炮", "做两套预案应对"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "银行ETF走势平稳被视为真正的慢牛，低波动是有效赚钱因子，但散户难以长期持有。",
+    "sentiment": "positive",
+    "key_opinions": ["低波动是有效赚钱因子", "减小回撤是复利核心", "散户拿不住慢牛"],
+    "mentioned_stocks": ["银行ETF", "通信ETF", "长江电力"]
+  },
+  {
+    "index": 31,
+    "summary": "回顾上次关税战后中国软件和中国长城强势，询问是否可以提前埋伏。",
+    "sentiment": "positive",
+    "key_opinions": ["关税发酵后国产软件强势", "可考虑提前埋伏"],
+    "mentioned_stocks": ["中国软件", "中国长城"]
+  },
+  {
+    "index": 32,
+    "summary": "量能不足1.3万亿无人信反弹，银行红利红着科技骗炮，市场流动性被抽走不愿回来。",
+    "sentiment": "negative",
+    "key_opinions": ["量能不够没人信反弹", "银行红着科技就是骗炮", "流动性不放回来无法信"],
+    "mentioned_stocks": ["银行", "美的", "科技"]
+  },
+  {
+    "index": 33,
+    "summary": "推荐人福医药垄断护城河深、摘帽确定，但有人指出确定事件不赚钱，当前可选标的多。",
+    "sentiment": "mixed",
+    "key_opinions": ["人福护城河深摘帽确定", "确定事件反而不赚钱", "好价格标的太多排不上号"],
+    "mentioned_stocks": ["人福医药", "中金公司"]
+  },
+  {
+    "index": 34,
+    "summary": "大盘上涨让网友庆祝战胜久留美魔咒，但调侃半场开香槟为时过早，乐观中带警惕。",
+    "sentiment": "positive",
+    "key_opinions": ["今天战胜了久留美魔咒", "半场开香槟不可取", "吹响反攻号角"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "担忧久留美魔咒下午反扑，提醒珍惜当前上涨时刻。",
+    "sentiment": "negative",
+    "key_opinions": ["下午可能再度下跌", "珍惜当前上涨时刻"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 36,
+    "summary": "看好冰模块个股稳步上涨，网友追涨体验分化，有人踏空有人做反T，外围环境不佳。",
+    "sentiment": "mixed",
+    "key_opinions": ["冰模块稳步前进看好", "做兄弟在心中要持有", "外围环境差出去就挨打"],
+    "mentioned_stocks": ["盛剑", "中京", "华胜"]
+  },
+  {
+    "index": 37,
+    "summary": "北方华创两天跌十几个点重仓受损，讨论是否放量出货需止损，半导体链普遍补跌。",
+    "sentiment": "negative",
+    "key_opinions": ["北方华创两天亏十几个点", "按纪律止损", "半导体链条普遍补跌"],
+    "mentioned_stocks": ["北方华创", "华虹", "中芯国际", "先导智能"]
+  },
+  {
+    "index": 38,
+    "summary": "认为玩大A不需要FOMO心态，高开出货低开高走都有机构做T，不必过度担心。",
+    "sentiment": "mixed",
+    "key_opinions": ["不需要FOMO心态", "高开出货低开高走反复", "汪汪队会做T接人"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "认为最好的拉升时机已过，外围企稳但情绪伤害大，日线钝化加9是技术面支撑。",
+    "sentiment": "negative",
+    "key_opinions": ["最好的拉升时机已错过", "情绪伤害短期难修复", "日线钝化加9可支撑"],
+    "mentioned_stocks": ["中信"]
+  },
+  {
+    "index": 40,
+    "summary": "上午11点半准时砸绿，市场提前崩盘，网友戏称空仓是正确选择，对大A无语。",
+    "sentiment": "negative",
+    "key_opinions": ["11点半准时砸绿", "空仓是正确的", "先崩为敬被下午崩怕了"],
+    "mentioned_stocks": ["创业板"]
+  },
+  {
+    "index": 41,
+    "summary": "调侃大A做掉毁灭博士的影视梗，嘲讽国家队高抛低吸不被举报，情绪戏谑。",
+    "sentiment": "negative",
+    "key_opinions": ["调侃大A做掉毁灭博士", "国家队高抛低吸无人管", "利好中国电影"],
+    "mentioned_stocks": ["中国电影"]
+  },
+  {
+    "index": 42,
+    "summary": "做空操作获利感到爽快，市场对空头无惩罚，讨论多空博弈的市场机制。",
+    "sentiment": "mixed",
+    "key_opinions": ["做空稳定盈利感觉爽", "市场对空头无惩罚", "多空买卖才是正规市场"],
+    "mentioned_stocks": ["长鑫"]
+  },
+  {
+    "index": 43,
+    "summary": "韩国财经女主持直播看走势图哽咽落泪，网友感慨全球股市惨淡，联想A股类似经历。",
+    "sentiment": "negative",
+    "key_opinions": ["韩国股市惨到主持落泪", "全球股市一地鸡毛", "08年A股类似惨状"],
+    "mentioned_stocks": ["海力士"]
+  },
+  {
+    "index": 44,
+    "summary": "讨论美联储加息预期对全球股市影响，连续加息将延续下跌趋势，多头押注明年转降息。",
+    "sentiment": "negative",
+    "key_opinions": ["加息预期下全球继续下跌", "多头押注明年转降息", "若连续加息多头死得很惨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "终于翻红但涨幅微弱，紫金矿业涨势不错但楼主成本偏高，整体仍处于亏损中。",
+    "sentiment": "mixed",
+    "key_opinions": ["终于翻红一个点", "紫金矿业涨了不少", "楼主成本偏高仍在亏"],
+    "mentioned_stocks": ["紫金矿业"]
+  },
+  {
+    "index": 46,
+    "summary": "大盘再度翻绿，意料之中，市场信心不足。",
+    "sentiment": "negative",
+    "key_opinions": ["大盘翻绿意料之中"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "中远海控大跌讨论是否倒车接人，AI泡沫破裂影响航运周期，短期可玩但风险大。",
+    "sentiment": "negative",
+    "key_opinions": ["海狗大跌不建议接盘", "AI泡沫破裂结束航运周期", "短期玩玩长期危险"],
+    "mentioned_stocks": ["中远海控"]
+  },
+  {
+    "index": 48,
+    "summary": "楼主误操作在高点全仓买入，瞬间亏损一万多，网友调侃买错概念可能反而赚钱。",
+    "sentiment": "negative",
+    "key_opinions": ["误操作高点全仓买入", "瞬间蒸发一万多", "买错概念可能反而赚钱"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "担忧久留美魔咒下午反扑，市场僵持观望，内外资金均在等待，随时可能翻绿。",
+    "sentiment": "negative",
+    "key_opinions": ["久留美可能再度获胜", "市场僵持观望随时翻绿", "这就是大A"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 50,
+    "summary": "银行板块接近创新高，大盘有变绿趋势，资金仅抱团银行红利和有色金属，券商压制行情。",
+    "sentiment": "negative",
+    "key_opinions": ["银行创新高但大盘变绿", "只有银行红利和有色可持续", "券商压制行情"],
+    "mentioned_stocks": ["银行", "有色金属", "中金公司"]
+  }
+]
+```
