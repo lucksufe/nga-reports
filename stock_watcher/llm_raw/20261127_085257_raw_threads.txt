@@ -1,0 +1,551 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "长鑫回购公告揭示多家QF外资七周减持2.3亿股，叠加12月巨额解禁，恐慌情绪蔓延。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "高盛等七家QF集体退出前十大流通股东",
+      "QF利用规则漏洞拿流通股拖累指数",
+      "1.27巨额解禁临近应自行判断去留"
+    ],
+    "mentioned_stocks": ["长鑫科技", "高盛", "摩根士丹利", "中际旭创"]
+  },
+  {
+    "index": 2,
+    "summary": "传华为造出HBM且荷兰拒收紧光刻机管制，但多认为仅实验室阶段，量产尚远。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "华为HBM仅论文阶段明年2月发表",
+      "低端HBM国内多家可做高端不行",
+      "0到1解决后商业化仍是天堑"
+    ],
+    "mentioned_stocks": ["盛合晶微", "长鑫科技", "ASML"]
+  },
+  {
+    "index": 3,
+    "summary": "用户开超市分散持仓短线碰运气，被调侃兆易夹在短线票中格格不入。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "分散试错蒙主线",
+      "短线妖股炒作盛行",
+      "持仓杂乱风险大"
+    ],
+    "mentioned_stocks": ["兆易创新", "九阳股份", "冰山冷热"]
+  },
+  {
+    "index": 4,
+    "summary": "贷款25万炒股月息5000元，无收入且生病，被指年化24%高利贷行为。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "年化24%高利贷炒股不可行",
+      "熊市贷款炒股风险极大",
+      "把股市当提款机心态错误"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "徐家汇商场的杜姆模型被拆走，但电影16号上映，非直接股市讨论。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "营销物料拆除",
+      "话题娱乐性质"
+    ],
+    "mentioned_stocks": ["徐家汇"]
+  },
+  {
+    "index": 6,
+    "summary": "讨论低吸时机，主张大跌大买、买宽基不看盘，但担忧被套。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大跌大买小跌小买",
+      "今天低位可能是明天高位",
+      "无脑定投宽基省心"
+    ],
+    "mentioned_stocks": ["宽基ETF"]
+  },
+  {
+    "index": 7,
+    "summary": "韩交所盘前跳水引发担忧，后发现仅小幅波动属正常。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "跌幅仅约1%属正常波动",
+      "亚太9:30前多为盘前交易",
+      "担心拖累A股"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "讨论地方债务与内需不振，认为等反弹者最乐观，情绪普遍悲观。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "地方债务不解决内循环难起",
+      "居民收入与内需是最弱一环",
+      "等反弹已腰斩仍不反弹"
+    ],
+    "mentioned_stocks": ["华发股份"]
+  },
+  {
+    "index": 9,
+    "summary": "马斯克给每个美国孩子送SpaceX股票，被指收买人心为从政铺路。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "疑似为从政积累人心",
+      "长远看可覆盖大学学费",
+      "SpaceX或与特斯拉合并"
+    ],
+    "mentioned_stocks": ["SpaceX", "特斯拉"]
+  },
+  {
+    "index": 10,
+    "summary": "认为熊市个股下跌无需找原因，卖压大于买盘即跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "熊市下跌稀松平常",
+      "熊市不看基本面乱杀",
+      "有人卖没人买就是跌"
+    ],
+    "mentioned_stocks": ["九阳股份"]
+  },
+  {
+    "index": 11,
+    "summary": "讨论A股难度，多数认为是全球最难市场，纪律决定难度。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "A股涨少跌多难度极高",
+      "无纪律交易即地狱难度",
+      "美股体验优于A股"
+    ],
+    "mentioned_stocks": ["纳斯达克ETF", "标普500ETF"]
+  },
+  {
+    "index": 12,
+    "summary": "以太监割早比喻止损，自嘲上周割可多5%，但也指出事后归因偏见。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "早割肉反而少亏",
+      "涨了又会后悔早割",
+      "应制定交易纪律而非情绪化"
+    ],
+    "mentioned_stocks": ["科创50ETF"]
+  },
+  {
+    "index": 13,
+    "summary": "四大行签超6000亿回购增持贷款，但多认为无实效、回购不注销没用。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "市场对贷款回购无反应",
+      "回购不注销等于没回购",
+      "贷款或被股东用于减持"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 14,
+    "summary": "晒知名灵车标的喊全仓梭哈，自嘲灵车亏得比科技股少。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "科技股亏损远超灵车标的",
+      "兆易创新高位跌去大半",
+      "反讽式看多"
+    ],
+    "mentioned_stocks": ["德明利", "中际旭创", "兆易创新"]
+  },
+  {
+    "index": 15,
+    "summary": "小红书女孩杠杆炒股6月盈利200万，7月净资产从155万亏至36万。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "杠杆放大回撤致命",
+      "只亏利润还算幸运",
+      "警示杠杆风险"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 16,
+    "summary": "认为即使见底也需长时间筑底洗盘，不应FOMO追高。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "底部需长时间吸筹筑底",
+      "不要着急抄底",
+      "个股会跌到不敢买"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "调侃九阳股价大涨是否带动小家电消费，多认为纯炒作与基本面无关。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "炒作与公司业绩无关",
+      "市值严重透支需快跑",
+      "赚钱者自知是击鼓传花"
+    ],
+    "mentioned_stocks": ["九阳股份", "泉阳泉", "中国东航"]
+  },
+  {
+    "index": 18,
+    "summary": "以商K类比房地产，感慨地产下行带走资金周转枢纽与消费链条。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "地产带动产业链过长",
+      "一鲸落万物死",
+      "资金周转枢纽消失"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 19,
+    "summary": "韩国股市下跌，讨论对A股影响，认为低开反而可能拉红。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "外围跌或反利好A股",
+      "韩国救市资金未到位",
+      "低开可能拉红"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 20,
+    "summary": "抄底比亚迪被质疑时机，出口承压叠加高投入折旧期长。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "明年出口承压内卷加剧",
+      "高投入折旧拖累利润到2028",
+      "比亚迪实为科技公司被低估"
+    ],
+    "mentioned_stocks": ["比亚迪", "理想汽车"]
+  },
+  {
+    "index": 21,
+    "summary": "9000元持仓两只票纠结是否割肉，被调侃资金小随便玩。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "仓位小风险有限",
+      "被套可当学费",
+      "纠结割肉时机"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "认为上证未杀到位不能反弹，3500或非底，宏观风险未落地。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "3500相对历史底部仍高",
+      "美国政策与AI泡沫风险未落地",
+      "顶底是走出来的不是猜的"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 23,
+    "summary": "担忧大盘奔向3400，个股普跌接近历史低位，情绪恐慌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "个股普遍跌3%接近历史低点",
+      "或跌破3400后再磨底",
+      "美国加息压制估值"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "长鑫持续阴跌无人关注，国产链海外链都不带它，存储行情结束。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "长鑫自由落体式阴跌",
+      "存储行情结束无资金关注",
+      "大股东等着减持"
+    ],
+    "mentioned_stocks": ["长鑫科技", "长江存储", "闪迪"]
+  },
+  {
+    "index": 25,
+    "summary": "科创50满仓被套9个点求助，被群嘲9个点不算套。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "9个点回撤不算套",
+      "指数等下轮牛市能解",
+      "扛不住就割肉删软件"
+    ],
+    "mentioned_stocks": ["科创50ETF", "588170"]
+  },
+  {
+    "index": 26,
+    "summary": "讨论趁债基下跌买入，但警惕华发债务黑洞与利率下行空间有限。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "债向上空间有限向下风险大",
+      "华发4000亿窟窿是巨雷",
+      "抱团30年国债避险"
+    ],
+    "mentioned_stocks": ["19华发债", "30年国债ETF", "银行股"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论国家队拉红指数动机，一方认为防爆仓，一方认为抽水做报告。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "国家队拉指数防系统性风险",
+      "也可能为对上报表",
+      "拉权重加剧个股失血"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 28,
+    "summary": "东山精密光芯片概念被热捧，散户晒套牢兆易、赵姨等惨状。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "东山精密图形见底待拉升",
+      "炒作概念接力九阳",
+      "存储股套牢需熬数年"
+    ],
+    "mentioned_stocks": ["东山精密", "九阳股份", "兆易创新"]
+  },
+  {
+    "index": 29,
+    "summary": "类比1999年519行情，讨论本轮牛市后是否重返长期熊市。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "类比519行情巡底未完",
+      "遇大危机不排除长期熊市",
+      "自媒体涨看涨跌看跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 30,
+    "summary": "牛市尾部被套者讨论解套时间，多数认为个股看情况指数需3-5年。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "指数解套需3-5年",
+      "套牢盘深重无人抬轿",
+      "个股分化看运气"
+    ],
+    "mentioned_stocks": ["兆易创新", "紫金矿业", "创业板ETF"]
+  },
+  {
+    "index": 31,
+    "summary": "日本东京CPI低于预期，判断日央行近期不会加息。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "CPI年率2.8%低于预期",
+      "日央行加息概率下降"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "峨眉山被视作玄学猴年概念股大涨，前期全仓者已获利。",
+    "sentiment": "positive",
+    "key_opinions": [
+      "玄学炒股全仓峨眉山已赚",
+      "猴年纯正概念是小米金山",
+      "警惕行情走完"
+    ],
+    "mentioned_stocks": ["峨眉山A", "小米集团", "金山办公"]
+  },
+  {
+    "index": 33,
+    "summary": "用AI大模型做超短竞价选股实盘试水，围观者期待成果但多观望。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "AI辅助选股小仓试水",
+      "更适合当信息收集工具",
+      "本质买热门股难下重注"
+    ],
+    "mentioned_stocks": ["杭州解百"]
+  },
+  {
+    "index": 34,
+    "summary": "讨论韩国年轻人高杠杆爆仓，认为大A跌得比韩国更惨。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "韩国人均杠杆拉满爆仓多",
+      "A股双创跌幅更甚",
+      "杠杆放大亏损"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论创业板若反弹买什么，推荐光模块、PCB等弹性票。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "光模块PCB弹性较好",
+      "科创解禁压力大不如创业板",
+      "反弹需消息与美股配合"
+    ],
+    "mentioned_stocks": ["中际旭创", "新易盛", "生益科技", "阳光电源", "宁德时代"]
+  },
+  {
+    "index": 36,
+    "summary": "质疑市场对AI信用风险要求过严，建筑、汽车负债链更危险却被忽视。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "AI应付账款处于正常水平",
+      "建筑业10万亿应付才是雷",
+      "市场对互联网泡沫PTSD"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 37,
+    "summary": "讨论国内市场过度内卷，认为供需、壁垒和税制才是利润率关键。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "内卷源于人多壁垒低",
+      "增值税致地方重生产轻需求",
+      "无做空机制加剧暴涨暴跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "华东医药下跌被套，被指出左侧买入无纪律、无止损。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "只买不卖缺乏纪律",
+      "三季报不佳短期难起",
+      "医药无风口一套多年"
+    ],
+    "mentioned_stocks": ["华东医药", "智飞生物", "万泰生物"]
+  },
+  {
+    "index": 39,
+    "summary": "预测次日开盘方向，参考纳指期货，普遍预期缩量弱势。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "纳指期货是主要参考",
+      "无美股参照难判断",
+      "预期缩量下跌"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "知名技术派博主集体看多满仓，被调侃为按摩安慰剂。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "技术派一致看多罕见",
+      "博主观点仅供参考",
+      "满仓信号给散户打气"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "等中海油跌到28元挂单半年未成交，讨论海油与中石油配置价值。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "海油受油价影响弹性大",
+      "中石油有国家队buff",
+      "分批买入等回调"
+    ],
+    "mentioned_stocks": ["中国海油", "中国石油", "紫金矿业", "招商银行", "伊利股份"]
+  },
+  {
+    "index": 42,
+    "summary": "AI统计4100只股票获利盘不足5%，认为跌透但未必跌完。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "获利盘低说明套牢盘重",
+      "指标参考价值有限",
+      "港股企稳A股才见底"
+    ],
+    "mentioned_stocks": ["银行股", "红利股", "火电股"]
+  },
+  {
+    "index": 43,
+    "summary": "美股延长至23小时交易，认为主要是吸走亚太资金。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "夜盘正规化对A股影响有限",
+      "量化或吸走亚盘资金",
+      "消息面影响更即时"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 44,
+    "summary": "分享炒股书籍阅读笔记，记录资金买卖与主力行为学习。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "大盘差时炒妖股新股",
+      "研究主力资金行为"
+    ],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "定投美股基金遇下跌心态纠结，认为越跌份额越多应坚持。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "下跌时定投成本更低",
+      "美股回调迟早发生",
+      "场外基金费率过高侵蚀收益"
+    ],
+    "mentioned_stocks": ["纳指ETF", "标普500ETF"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论太空算力概念炒作，认为题材轮动太快资金不足难以持续。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "太空光伏算力此前已炒过",
+      "题材多资金少难接力",
+      "警惕高位接盘"
+    ],
+    "mentioned_stocks": ["泰嘉股份", "顺灏股份", "胜宏科技", "西部材料"]
+  },
+  {
+    "index": 47,
+    "summary": "科创半导体设备连跌，归因小作文与资金撤离补跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "小作文只是借口",
+      "本质是流动性与补跌",
+      "资金转向华为链被抛弃"
+    ],
+    "mentioned_stocks": ["中芯国际", "华虹公司", "晶合集成", "江丰电子", "安集科技"]
+  },
+  {
+    "index": 48,
+    "summary": "总结见底三特征：加速下行、放量、期货贴水大增，认为条件渐近。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "期货年化贴水近30%接近历史大底",
+      "见底是否放量存争议",
+      "恐慌量能尚未杀出"
+    ],
+    "mentioned_stocks": ["IC期货", "IM期货", "创业板ETF", "恒生科技ETF"]
+  },
+  {
+    "index": 49,
+    "summary": "光模块龙头独立走强，创业板被宁德时代拖累继续下探。",
+    "sentiment": "mixed",
+    "key_opinions": [
+      "宁德权重拖垮创业板",
+      "宁德股息率已超银行仍被砸",
+      "光模块筑底或成功"
+    ],
+    "mentioned_stocks": ["中际旭创", "新易盛", "宁德时代", "创业板ETF"]
+  },
+  {
+    "index": 50,
+    "summary": "中微、华海清科连跌，被认为公司无问题只是抱团瓦解补跌。",
+    "sentiment": "negative",
+    "key_opinions": [
+      "中微具备真实技术非骗子公司",
+      "小作文只是借口本质流动性",
+      "科创与上证50结构需对齐补跌"
+    ],
+    "mentioned_stocks": ["中微公司", "华海清科", "科创50ETF", "上证50ETF"]
+  }
+]
+```
