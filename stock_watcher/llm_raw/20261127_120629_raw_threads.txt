@@ -1,0 +1,354 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "马斯克承诺每年向全美18岁以下儿童赠送SpaceX股票，引发网友讨论其长期承诺的意义",
+    "sentiment": "mixed",
+    "key_opinions": ["马斯克真有钱，可连续赠送100年", "实打实的东西，小孩长大后价值不同", "恶意收买人心，有取死之道"],
+    "mentioned_stocks": ["SpaceX"]
+  },
+  {
+    "index": 2,
+    "summary": "楼主做T误操作全仓买入高点亏损后今天清仓脱险，发红包感谢网友祝福",
+    "sentiment": "mixed",
+    "key_opinions": ["误操作亏损后清仓减少损失", "网友纷纷祝贺并索要红包", "买错概念反而可能赚钱"],
+    "mentioned_stocks": ["熊大哥(科技股)"]
+  },
+  {
+    "index": 3,
+    "summary": "今天A股反弹大涨，网友讨论是真牛回还是假摔，情绪分化明显",
+    "sentiment": "mixed",
+    "key_opinions": ["一根阳线改三观，不右侧追高", "机构预判散户，外围影响博弈", "横盘四五天后反弹在预期内"],
+    "mentioned_stocks": ["创业板", "新易盛"]
+  },
+  {
+    "index": 4,
+    "summary": "楼主分散投资多个市场和资产几乎全部亏损，感叹鬼故事没完没了",
+    "sentiment": "negative",
+    "key_opinions": ["分散多个篮子全部炸了，仅红利盈利", "加息周期流动性差，买什么都跌", "债券也爆了，鬼故事不断"],
+    "mentioned_stocks": ["A股", "港股", "韩股", "日股", "纳指", "美股科技", "大饼", "黄金"]
+  },
+  {
+    "index": 5,
+    "summary": "发帖询问这次反弹是否与众不同，还是每次行情都一样",
+    "sentiment": "mixed",
+    "key_opinions": ["疑问这次是否真的不一样"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "今日科技股大涨，讨论是DS链还是华为链领涨，国产替代情绪高涨",
+    "sentiment": "positive",
+    "key_opinions": ["华为链带头冲锋，东南亚禁令解除", "国链分化明显，核心标的浮现", "国产替代启动，老票发力"],
+    "mentioned_stocks": ["华虹", "常山北明", "润和软件", "拓维信息", "华胜天成"]
+  },
+  {
+    "index": 7,
+    "summary": "支付宝基金开始触发清算程序，科技基金跌幅惨烈，基民承担损失",
+    "sentiment": "negative",
+    "key_opinions": ["科技基金9个月跌56%很正常", "基金出清末尾科技可能反弹", "每次大轮动都被遇到，基民承担一切"],
+    "mentioned_stocks": ["中欧产业优选混合C(020475)"]
+  },
+  {
+    "index": 8,
+    "summary": "讨论海皇(中远海控)股价是否还能回到15元，运价下行但估值极低",
+    "sentiment": "mixed",
+    "key_opinions": ["股息率5个多点，极低估值可买", "周期股不好说，全球需求萎靡", "一成仓滚动T，大跌大买"],
+    "mentioned_stocks": ["海皇(中远海控)", "四大行"]
+  },
+  {
+    "index": 9,
+    "summary": "讨论银行红利板块是否成为新的抱团巨鲸，科技是否将接棒",
+    "sentiment": "mixed",
+    "key_opinions": ["银行红利跌后其他板块真涨了", "越跌越买价值投资", "红利有解套机会，科技可能是暴风"],
+    "mentioned_stocks": ["银行股", "红利", "神华"]
+  },
+  {
+    "index": 10,
+    "summary": "英伟达暂停对东南亚四国出货服务器芯片，讨论对销量和走私渠道的影响",
+    "sentiment": "mixed",
+    "key_opinions": ["这些地方都是给中国用的，少30%销量", "走私总有办法，利润太高了", "老消息反复播报耳朵生茧"],
+    "mentioned_stocks": ["英伟达"]
+  },
+  {
+    "index": 11,
+    "summary": "网友戏谑讨论今天是否需要磕头（求涨），市场波动人心惶惶",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队没动", "涨跌都是勾心斗角", "踏空了想哭"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "讨论胜宏科技第四季度业绩能否爆发，楼主满仓但今天涨幅不大感到FOMO",
+    "sentiment": "mixed",
+    "key_opinions": ["满仓胜宏科技今天没涨多少感到焦虑"],
+    "mentioned_stocks": ["胜宏科技"]
+  },
+  {
+    "index": 13,
+    "summary": "半导体设备ETF资金波动极端，涨跌停交替，场内溢价高，投机氛围浓厚",
+    "sentiment": "mixed",
+    "key_opinions": ["波动率大于科技股，涨跌停交替", "场内干出溢价，没有理想买点", "每一波拉升都是下跌中继"],
+    "mentioned_stocks": ["科创半导体ETF", "科创50"]
+  },
+  {
+    "index": 14,
+    "summary": "讨论兆易创新(赵姨)今日弱势，存储赛道失去特殊性，筹码结构不佳",
+    "sentiment": "negative",
+    "key_opinions": ["长鑫存储压着，兆易创新没有特殊性", "业绩可以但筹码结构人心不齐", "热度不够只能跟着指数喝汤"],
+    "mentioned_stocks": ["兆易创新(赵姨)", "长鑫存储"]
+  },
+  {
+    "index": 15,
+    "summary": "楼主用AI大模型辅助超短线交易决策，每日竞价出建议小仓位实盘测试",
+    "sentiment": "mixed",
+    "key_opinions": ["AI竞价数据帮助排除诱多", "本质是买热门股，不敢下重注会败", "AI当日报和信息收集工具更合适"],
+    "mentioned_stocks": ["解百"]
+  },
+  {
+    "index": 16,
+    "summary": "楼主贷款25万炒股月息5000元，无收入且连续数月勉强持平，处境艰难",
+    "sentiment": "negative",
+    "key_opinions": ["贷款炒股不可行", "年化24%高利贷炒股找死", "把股市当提款机不可取"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 17,
+    "summary": "讨论下午是否追涨，是B浪反弹还是继续横盘观望",
+    "sentiment": "mixed",
+    "key_opinions": ["真B反不会那么短", "华为算力已经爆了"],
+    "mentioned_stocks": ["华为算力"]
+  },
+  {
+    "index": 18,
+    "summary": "楼主误操作将卖出按成买入全仓高位买入，亏损严重求祝福求红包",
+    "sentiment": "negative",
+    "key_opinions": ["全卖按成全买，高点全仓买入", "买错概念反而可能赚钱", "网友调侃这是精准点火发车"],
+    "mentioned_stocks": ["熊大哥(科技股)"]
+  },
+  {
+    "index": 19,
+    "summary": "中证指数公司修订红利低波编制规则，12月14日生效，影响约800亿规模产品",
+    "sentiment": "mixed",
+    "key_opinions": ["改规则违背红利低波初衷，和银行ETF差不多", "红利低波100银行占比只有20%更分散", "加强红利低波属性但超额收益减少"],
+    "mentioned_stocks": ["红利低波ETF", "红利低波100", "红利50", "标普红利50"]
+  },
+  {
+    "index": 20,
+    "summary": "讨论当前行情是否与2018年2月5日相似，楼主用脚本筛选史低股随机买入",
+    "sentiment": "mixed",
+    "key_opinions": ["和18年2月差别很大，现在一直下跌", "刻舟求剑不可取", "垃圾股走势比好公司好"],
+    "mentioned_stocks": ["东方海洋", "慈文传媒", "银行股"]
+  },
+  {
+    "index": 21,
+    "summary": "债市持续下跌令人焦虑，流动性危机下甚至货基也可能亏损",
+    "sentiment": "negative",
+    "key_opinions": ["短期够呛，流动性危机", "极端情况货基也会亏"],
+    "mentioned_stocks": ["债市"]
+  },
+  {
+    "index": 22,
+    "summary": "手里的票涨停了是否应该格局持有，还没回本纠结是否卖出",
+    "sentiment": "mixed",
+    "key_opinions": ["不知道卖点就该马上卖掉", "今年涨停从来吃不到连板", "看原因走一半或三分之一"],
+    "mentioned_stocks": ["润和软件"]
+  },
+  {
+    "index": 23,
+    "summary": "发帖问今天要不要磕头，配图调侃，网友互动戏谑",
+    "sentiment": "mixed",
+    "key_opinions": ["往我这磕，乖"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 24,
+    "summary": "楼主别人恐惧我贪婪建仓比亚迪20手，网友讨论是否为好买点",
+    "sentiment": "mixed",
+    "key_opinions": ["明年出口承压内卷最高潮不是好节点", "摊子太大投入多拖累利润", "伪装成汽车厂的科技公司，2028释放利润"],
+    "mentioned_stocks": ["比亚迪"]
+  },
+  {
+    "index": 25,
+    "summary": "讨论娱乐圈人士因投资亏损破防发视频，幸灾乐祸氛围",
+    "sentiment": "positive",
+    "key_opinions": ["有钱人被割了哇哇叫很爽", "AI时代投资和现实都在割"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 26,
+    "summary": "讨论是否买入银行股压制科技跷跷板效应，关注韩股走势",
+    "sentiment": "mixed",
+    "key_opinions": ["一手不够要有allin才有用", "韩股不跳水今天可以放心"],
+    "mentioned_stocks": ["银行股"]
+  },
+  {
+    "index": 27,
+    "summary": "讨论中际旭创和东山精密等光模块龙头暴跌后蜕变，筹码交换完成有望反弹",
+    "sentiment": "positive",
+    "key_opinions": ["爆仓线下方血筹吃满开始拉升走趋势", "激烈筹码交换完成多头喘气", "就算美股炸了也能拉红逃生"],
+    "mentioned_stocks": ["中际旭创(熊大)", "东山精密(熊二)"]
+  },
+  {
+    "index": 28,
+    "summary": "银行放量大跌，认为科技要反攻加仓，国家队建仓科创创业板",
+    "sentiment": "positive",
+    "key_opinions": ["银行已死科技当立，底部了", "gjd买了科创创业板50%涨幅才出货", "银行技术派量化看拉升就卖出"],
+    "mentioned_stocks": ["银行股", "科创50", "创业板"]
+  },
+  {
+    "index": 29,
+    "summary": "楼主亏20多万摸索出新交易模型，打板光洋股份等，网友质疑短线悟道",
+    "sentiment": "mixed",
+    "key_opinions": ["短线死路一条，一年后自己检验", "微观模型稳定性差", "下跌趋势中照样大买"],
+    "mentioned_stocks": ["光洋股份"]
+  },
+  {
+    "index": 30,
+    "summary": "长鑫存储回购公告显示高盛等7家QF集体退出减持2.3亿股，面临巨额解禁",
+    "sentiment": "negative",
+    "key_opinions": ["外资利用规则漏洞获取大量流通股砸盘", "QF集体卖出拖累指数，长鑫是第一权重", "1.27面临巨额解禁，散户注意风险"],
+    "mentioned_stocks": ["长鑫存储", "中际旭创(中际H)"]
+  },
+  {
+    "index": 31,
+    "summary": "分享小红书女孩杠杆炒股从盈利200万到亏损的故事，警示杠杆风险",
+    "sentiment": "negative",
+    "key_opinions": ["没卸杠杆的下场", "本金都亏没了回本无望", "见证历史，工资当学费"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "感谢韩国股市和纳指带动A股上涨，调侃国家队抄底浮盈",
+    "sentiment": "positive",
+    "key_opinions": ["又让国家队抄底了，浮盈3个点", "受外围影响太大"],
+    "mentioned_stocks": ["纳指", "韩国股市"]
+  },
+  {
+    "index": 33,
+    "summary": "建议关注金融科技板块作为反攻信号，连续涨停妖股出现是参考指标",
+    "sentiment": "mixed",
+    "key_opinions": ["金融科技板块提前异动是反攻信号", "银之杰赢时胜指南针是三剑客"],
+    "mentioned_stocks": ["银之杰", "赢时胜", "指南针"]
+  },
+  {
+    "index": 34,
+    "summary": "对今天科技拉升的原因分析，可能是资金切换或华为消息刺激，建议不追高",
+    "sentiment": "mixed",
+    "key_opinions": ["稳点没先手小追还行，大追算了", "短期逃命阳反弹有可能", "可能是新的资金到位再拉卖"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "讨论今日大涨是否为真正的大奇迹日，被骗16次后谨慎看待",
+    "sentiment": "mixed",
+    "key_opinions": ["被骗16次了不能轻易信", "没怎么放量八成要砸", "把大家骗得不敢进了"],
+    "mentioned_stocks": ["创业板", "东山精密", "银行股"]
+  },
+  {
+    "index": 36,
+    "summary": "讨论今天是否温和放量，场内资金切换而非新增资金入场",
+    "sentiment": "mixed",
+    "key_opinions": ["场内互掏，红利被砸", "没有新增资金都是场内切换", "放量1200亿外围不暴跌后几天安全"],
+    "mentioned_stocks": ["银行股", "光模块"]
+  },
+  {
+    "index": 37,
+    "summary": "讨论红利板块是否该跑，涨幅已高但有解套机会",
+    "sentiment": "mixed",
+    "key_opinions": ["散户高潮要害怕，分批卖", "控制仓位筛选含银量低的", "红利三种情况要跑：加息、经营差、涨太多"],
+    "mentioned_stocks": ["红利", "四大行", "长电", "牧原", "宝丰", "东鹏", "海油", "招商", "紫金"]
+  },
+  {
+    "index": 38,
+    "summary": "11月27日黑色星期五反而大涨，是否暗示反攻开始",
+    "sentiment": "mixed",
+    "key_opinions": ["踏空感强烈，盼下周继续涨", "周一比获利盘谁跑得快"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 39,
+    "summary": "讨论徐小明预测低点是否蒙对了，网友对反弹持续性存疑",
+    "sentiment": "mixed",
+    "key_opinions": ["大涨接抱摔这几个月还少吗", "恐慌时见底情绪高涨时见顶", "逢高减仓"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 40,
+    "summary": "楼主自嘲韭菜特质反向操作，定投银行ETF等核心资产做空",
+    "sentiment": "mixed",
+    "key_opinions": ["买啥啥跌，定投银行ETF反向做空", "坚持定投十年大概率赚钱", "别人恐惧我贪婪"],
+    "mentioned_stocks": ["银行ETF", "中国移动", "中国平安", "中信", "工商银行"]
+  },
+  {
+    "index": 41,
+    "summary": "尽管七连跌，看到科技板块止跌企稳迹象，国产替代和PCB值得关注",
+    "sentiment": "mixed",
+    "key_opinions": ["国产替代逻辑强化，海外越打压越强", "熊大熊二低开高走强势", "科创板PE过高，创业板基本面不错"],
+    "mentioned_stocks": ["北方华创", "中微公司", "拓荆", "长川", "沪电", "深南", "鹏鼎", "中际旭创(熊大)", "东山精密(熊二)", "中芯国际", "科创50ETF"]
+  },
+  {
+    "index": 42,
+    "summary": "买认沽期权做对冲今日亏损，讨论期权买方劣势和对冲策略",
+    "sentiment": "negative",
+    "key_opinions": ["期权对买方天然劣势，波动率高位归零快", "对冲持仓亏损有限可接受", "看空不做空，做保护可以"],
+    "mentioned_stocks": ["认沽期权"]
+  },
+  {
+    "index": 43,
+    "summary": "北方华创半仓亏损13个点被洗出，短线操作龙头股受挫",
+    "sentiment": "negative",
+    "key_opinions": ["做短线买龙头是人才", "刚站上5日线急什么", "买科创50ETF不怕洗"],
+    "mentioned_stocks": ["北方华创", "科创50ETF"]
+  },
+  {
+    "index": 44,
+    "summary": "下午冲创业板四战全败仍不服输，市场反复打脸",
+    "sentiment": "negative",
+    "key_opinions": ["四战全败仍不信第五次输", "周一高开记得跑路", "第17次大奇迹日下周一会不同吗"],
+    "mentioned_stocks": ["创业板", "银行股"]
+  },
+  {
+    "index": 45,
+    "summary": "提醒关注海外链风险和反制链机会，美国限制中国商品进口",
+    "sentiment": "mixed",
+    "key_opinions": ["国产链碰到这种消息也去世", "没有海外链国产链PE谁买单", "禁吧啥都别买最好"],
+    "mentioned_stocks": ["海外链", "国产链"]
+  },
+  {
+    "index": 46,
+    "summary": "认为今日大涨是绝地大反击，年前行情开启，网友存疑",
+    "sentiment": "mixed",
+    "key_opinions": ["赶紧抄底年前行情开始", "忘了周一也是这言论后面走成鬼样", "去年年前跌惨了"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 47,
+    "summary": "讨论如果指数还要下跌，哪些板块可能带头下杀",
+    "sentiment": "negative",
+    "key_opinions": ["银行红利可能继续补跌", "四大行历史高位跌50%指数下3000", "半导体和小盘股可能带头跌"],
+    "mentioned_stocks": ["银行股", "四大行", "半导体", "证券", "机器人"]
+  },
+  {
+    "index": 48,
+    "summary": "讨论银行今日能否收中阴或大阴线，技术面关注顶部结构",
+    "sentiment": "negative",
+    "key_opinions": ["银行目前-2%", "工行突破后砸下顶部结构待确认", "大阴线更好"],
+    "mentioned_stocks": ["银行股", "工商银行"]
+  },
+  {
+    "index": 49,
+    "summary": "讨论创业板大反弹应该买什么标的，PCB和光模块企稳",
+    "sentiment": "mixed",
+    "key_opinions": ["PCB、生益科技弹性好", "科创有天量解禁不如创业板", "反弹看量，过年反转概率低"],
+    "mentioned_stocks": ["生益科技", "阳光电源", "创业板", "科创50", "宁德时代"]
+  },
+  {
+    "index": 50,
+    "summary": "大喊牛回速归梭哈，网友戏谑卖电动车满仓，谨慎者提示看量验证",
+    "sentiment": "mixed",
+    "key_opinions": ["牛回速归梭哈", "看看量也许又是骗", "科创ETF破24号高点才算反弹"],
+    "mentioned_stocks": ["科创ETF", "银行股", "通讯"]
+  }
+]
+```
