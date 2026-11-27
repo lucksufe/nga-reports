@@ -1,0 +1,347 @@
+```json
+[
+  {
+    "index": 1,
+    "summary": "周一高开是否会重演高开低走套人，分歧明显",
+    "sentiment": "mixed",
+    "key_opinions": ["高开竞价买入被套，周一不再上当", "周一大概率低开后强承接拉升", "强者更强，杂毛回吐涨幅"],
+    "mentioned_stocks": ["中际旭创"]
+  },
+  {
+    "index": 2,
+    "summary": "险资清仓后大涨，被调侃踏空的大资金",
+    "sentiment": "negative",
+    "key_opinions": ["险资清仓后市场大涨，疑似踏空", "险资持续砸盘是政策喊话主因", "险资在场则难有大涨"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 3,
+    "summary": "普涨行情下红利反绿，个股表现分化",
+    "sentiment": "mixed",
+    "key_opinions": ["普涨日还绿的票不是主线", "红利逆势走弱属正常调整", "有人落袋，有人仍亏损"],
+    "mentioned_stocks": ["红利ETF", "海皇", "牧原股份"]
+  },
+  {
+    "index": 4,
+    "summary": "讨论高开低走祖训，高开卖出后如何操作",
+    "sentiment": "mixed",
+    "key_opinions": ["高开低走是历史惯性", "高开卖了没时间接回是难题"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 5,
+    "summary": "大涨是国家队提流动性还是反转，多空激烈争论",
+    "sentiment": "mixed",
+    "key_opinions": ["国家队小成本拉升提高流动性，非反转", "踏空者出来唱空", "政策市下只当反弹做"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 6,
+    "summary": "账户涨停罕见，20cm行情买主板反而吃亏",
+    "sentiment": "positive",
+    "key_opinions": ["账户涨停非常罕见", "今日买10cm等于少赚", "北证没涨停拖后腿"],
+    "mentioned_stocks": ["北证50", "创业板ETF"]
+  },
+  {
+    "index": 7,
+    "summary": "下周一成多空关键日，量能决定行情走向",
+    "sentiment": "mixed",
+    "key_opinions": ["周一定方向：高开跑还是续攻", "周一不缩量则行情基本稳", "站稳3650冲击3700则牛来"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 8,
+    "summary": "大亏后一天回血大半，但加仓后仍感恐惧",
+    "sentiment": "mixed",
+    "key_opinions": ["单日大涨回本过半仍无兴奋", "靠昨日加仓才吃到收益", "风险大于机会的判断未变"],
+    "mentioned_stocks": ["宇树科技", "中芯国际"]
+  },
+  {
+    "index": 9,
+    "summary": "质疑老胡是官方放风的肉喇叭",
+    "sentiment": "negative",
+    "key_opinions": ["老胡多次提前煽动行情情绪", "疑似上层放风的肉喇叭"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 10,
+    "summary": "请教A股ETF溢价率形成机制与套利问题",
+    "sentiment": "mixed",
+    "key_opinions": ["科创50等ETF溢价成因不明", "与纳指ETF溢价机制是否相同"],
+    "mentioned_stocks": ["科创50ETF", "588170ETF", "纳指ETF"]
+  },
+  {
+    "index": 11,
+    "summary": "误操作全仓买高位后止损，发红包感谢网友",
+    "sentiment": "positive",
+    "key_opinions": ["误操作买在最高点亏损上万", "开盘清仓绝处逢生", "发红包感谢网友祝福"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 12,
+    "summary": "踏空与少买哪个更难受，众人吐槽操作失误",
+    "sentiment": "negative",
+    "key_opinions": ["买少比没买更难受", "昨日割肉今日大涨最崩溃", "有人追高有人被迫空仓"],
+    "mentioned_stocks": ["创业板ETF", "安井食品", "588170ETF"]
+  },
+  {
+    "index": 13,
+    "summary": "普涨日仍亏损，前强今弱的板块遭吐槽",
+    "sentiment": "negative",
+    "key_opinions": ["普涨日亏钱的多是前期强势股", "前期吃肉今日回吐正常", "猪肉股逆势下跌拖累账户"],
+    "mentioned_stocks": ["牧原股份"]
+  },
+  {
+    "index": 14,
+    "summary": "中概股涨幅落后引发持仓者不满",
+    "sentiment": "negative",
+    "key_opinions": ["中概涨幅仅3.6%不及预期", "港股便宜可作底仓", "中概落后像是留上车机会"],
+    "mentioned_stocks": ["中概互联", "恒生互联网ETF"]
+  },
+  {
+    "index": 15,
+    "summary": "反弹何时止盈，建议观察宇树科技风向",
+    "sentiment": "mixed",
+    "key_opinions": ["宇树科技是本轮聪明钱风向标", "弱票周一会被率先抛弃", "涨幅回补跌幅一半是参考"],
+    "mentioned_stocks": ["宇树科技", "赤峰黄金"]
+  },
+  {
+    "index": 16,
+    "summary": "国常会强调国家队稳市与中长期资金入市",
+    "sentiment": "mixed",
+    "key_opinions": ["政策加力国家队与平准基金功能", "推动分红回购与长期资金入市", "投资者对保护承诺持怀疑"],
+    "mentioned_stocks": ["中央汇金"]
+  },
+  {
+    "index": 17,
+    "summary": "多只ETF涨停，讨论落袋还是继续持有",
+    "sentiment": "mixed",
+    "key_opinions": ["ETF涨停后往往表现不佳", "国家队带头冲锋需警惕", "小盘ETF尾盘抢涨停"],
+    "mentioned_stocks": ["2000ETF"]
+  },
+  {
+    "index": 18,
+    "summary": "推演下周一走势，操作建议分歧大",
+    "sentiment": "mixed",
+    "key_opinions": ["周一接住抛压可加仓", "高开就卖尾盘接回", "踏空难受但好过亏钱"],
+    "mentioned_stocks": ["创业板ETF"]
+  },
+  {
+    "index": 19,
+    "summary": "亏20万总结交易模型，网友质疑短线无出路",
+    "sentiment": "mixed",
+    "key_opinions": ["实盘亏损20万换得新模型", "1分钟K线微观模型稳定性差", "短线交易被指死路一条"],
+    "mentioned_stocks": ["光洋股份"]
+  },
+  {
+    "index": 20,
+    "summary": "科技大涨而南方航空持续下跌，持仓者崩溃",
+    "sentiment": "negative",
+    "key_opinions": ["科技大涨航空股仍天天跌", "航空业低波动不宜追高", "巴菲特点名不值得投的行业"],
+    "mentioned_stocks": ["南方航空"]
+  },
+  {
+    "index": 21,
+    "summary": "大涨后调侃消费娱乐，多数人尚未回本",
+    "sentiment": "positive",
+    "key_opinions": ["大涨后调侃消费升级", "多数人仍只刚回本", "回本前不宜超前消费"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 22,
+    "summary": "大涨日集体感谢国家队出手救市",
+    "sentiment": "positive",
+    "key_opinions": ["大涨应感谢国家队出手", "被点名后才干事令人不满", "散户自救精神可嘉"],
+    "mentioned_stocks": ["中央汇金"]
+  },
+  {
+    "index": 23,
+    "summary": "全仓追入科创半导体，赌周一溢价",
+    "sentiment": "mixed",
+    "key_opinions": ["全仓追入赌周一溢价", "未封板下周走势存疑", "大涨日追高风险大"],
+    "mentioned_stocks": ["科创50ETF", "半导体ETF"]
+  },
+  {
+    "index": 24,
+    "summary": "讨论再来几次大涨才能回本，普遍需要多次",
+    "sentiment": "mixed",
+    "key_opinions": ["今日为924后最大单日涨幅", "多数人还需多次大涨回本", "深套者需十次以上"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 25,
+    "summary": "尾盘是否抢跑规避周末不确定性",
+    "sentiment": "mixed",
+    "key_opinions": ["担心周末发酵后周一砸盘", "周末发酵通常对应高开", "落袋下车也不算错"],
+    "mentioned_stocks": ["创业板ETF"]
+  },
+  {
+    "index": 26,
+    "summary": "大涨后询问能否宣告牛回速归",
+    "sentiment": "positive",
+    "key_opinions": ["大涨令人心态动摇", "牛回与否仍待确认"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 27,
+    "summary": "逆势抄底战狼链与恒科，被调侃捡尸",
+    "sentiment": "mixed",
+    "key_opinions": ["人弃我取抄底超跌板块", "长期投机易持续磨损", "抄底科技风险偏大"],
+    "mentioned_stocks": ["恒生科技ETF", "纳指ETF"]
+  },
+  {
+    "index": 28,
+    "summary": "探讨今日拉升主力是国家队还是机构",
+    "sentiment": "mixed",
+    "key_opinions": ["多方资金合力买入", "国家队此前已大量买入", "疑似机构情绪宣泄"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 29,
+    "summary": "预测易中天组合将按顺序涨停",
+    "sentiment": "positive",
+    "key_opinions": ["猜科技权重股依次涨停", "属于主观猜测"],
+    "mentioned_stocks": ["中际旭创", "天孚通信", "新易盛"]
+  },
+  {
+    "index": 30,
+    "summary": "普涨日仍有170家下跌，红利银行股走弱",
+    "sentiment": "mixed",
+    "key_opinions": ["逆势绿的票反而值得关注", "红利银行股集体走弱", "航空食品等弱势股求救"],
+    "mentioned_stocks": ["南方航空", "青岛食品", "工商银行", "农业银行", "中国移动"]
+  },
+  {
+    "index": 31,
+    "summary": "大涨让套牢者开始花钱消费",
+    "sentiment": "mixed",
+    "key_opinions": ["未回本者大涨后转而消费", "解套即消费现象有趣"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 32,
+    "summary": "赚钱效应带动消费意愿提升",
+    "sentiment": "positive",
+    "key_opinions": ["大涨后消费冲动明显增强", "历史上涨未改善消费数据", "股民数量仍偏少"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 33,
+    "summary": "送别老龙头九阳，赞扬其温和过渡",
+    "sentiment": "mixed",
+    "key_opinions": ["老龙平稳退位放人离场", "断板后追高者风险大", "新龙头接力值得期待"],
+    "mentioned_stocks": ["九阳股份"]
+  },
+  {
+    "index": 34,
+    "summary": "大涨后庆祝开香槟，气氛亢奋",
+    "sentiment": "positive",
+    "key_opinions": ["大涨引发集体庆祝情绪", "周末可庆但周一别急跑"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 35,
+    "summary": "感慨阳光电源应有20cm涨幅",
+    "sentiment": "mixed",
+    "key_opinions": ["期望个股补涨到20cm"],
+    "mentioned_stocks": ["阳光电源"]
+  },
+  {
+    "index": 36,
+    "summary": "三大指数20日线转涨，技术面转强",
+    "sentiment": "positive",
+    "key_opinions": ["上证创业科创20日线转涨", "创业板日线底部结构确认", "周一高开概率大"],
+    "mentioned_stocks": ["创业板ETF", "科创50ETF", "北证50"]
+  },
+  {
+    "index": 37,
+    "summary": "看好筑底的冷门股今日毫无表现",
+    "sentiment": "negative",
+    "key_opinions": ["冷门股大涨日没动静", "涨停多为热门股", "冷门票技术指标更准"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 38,
+    "summary": "用改稻为桑比喻科技与红利的筹码切换",
+    "sentiment": "mixed",
+    "key_opinions": ["科技筹码外流换红利抱团", "比喻逻辑引发争议", "本质是筹码交换"],
+    "mentioned_stocks": ["红利ETF"]
+  },
+  {
+    "index": 39,
+    "summary": "类比924前走势，认为只是反弹非反转",
+    "sentiment": "negative",
+    "key_opinions": ["月底大阳后或继续阴跌", "外围未稳难以反转", "仅一天上涨难信服"],
+    "mentioned_stocks": ["红利ETF", "美股"]
+  },
+  {
+    "index": 40,
+    "summary": "大涨日股票群反而死气沉沉，因多数人未回本",
+    "sentiment": "negative",
+    "key_opinions": ["大涨日群聊反而冷清", "多数人仅堪堪回本", "前期割肉者未归"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 41,
+    "summary": "清仓后担忧卖飞，消息面与加息风险并存",
+    "sentiment": "mixed",
+    "key_opinions": ["清仓后担心踏空卖飞", "消息驱动拉升先落袋没错", "12月美联储加息风险"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 42,
+    "summary": "做空股指期货者大涨日恐爆仓，警示期货风险",
+    "sentiment": "mixed",
+    "key_opinions": ["做空股指期货或已爆仓", "期货风险远大于期权", "散户不宜碰期货"],
+    "mentioned_stocks": ["股指期货"]
+  },
+  {
+    "index": 43,
+    "summary": "今日收益跑输全A，红利持仓者拖后腿",
+    "sentiment": "negative",
+    "key_opinions": ["多数人跑输全A指数", "红利持仓者收益垫底", "早盘清仓空仓者最懊悔"],
+    "mentioned_stocks": ["红利ETF"]
+  },
+  {
+    "index": 44,
+    "summary": "计划减仓15%防范周一下跌风险",
+    "sentiment": "mixed",
+    "key_opinions": ["打算部分止盈控制风险", "踏空认命优先保本"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 45,
+    "summary": "大涨日严重跑输指数，科创50几近涨停",
+    "sentiment": "negative",
+    "key_opinions": ["个人收益仅5个点跑输", "科创50接近涨停", "踏空焦虑明显"],
+    "mentioned_stocks": ["科创50ETF"]
+  },
+  {
+    "index": 46,
+    "summary": "讨论科技大涨能否带动红利补跌20-30%",
+    "sentiment": "mixed",
+    "key_opinions": ["希望红利大跌给出上车机会", "红利跌则科技将更强", "长期资金或转向科技"],
+    "mentioned_stocks": ["红利ETF", "中国神华"]
+  },
+  {
+    "index": 47,
+    "summary": "个人复盘操作得失，判断行情转向反弹",
+    "sentiment": "mixed",
+    "key_opinions": ["错过江丰致操作节奏全乱", "真金白银托底应有一段反弹", "行情在总有饭吃"],
+    "mentioned_stocks": ["兆易创新", "云南锗业", "江丰电子", "创业板ETF"]
+  },
+  {
+    "index": 48,
+    "summary": "希望今日收上影线为周一留空间",
+    "sentiment": "mixed",
+    "key_opinions": ["收上影线利于换手后继续涨", "放量普涨难有上影线", "大涨日砸盘等于打脸"],
+    "mentioned_stocks": []
+  },
+  {
+    "index": 49,
+    "summary": "乐观者视为牛市起点，多数人视为反弹",
+    "sentiment": "mixed",
+    "key_opinions": ["有人视作十年牛市起点", "多数人认为只是反弹", "大阳线改变市场情绪"],
+    "mentioned_stocks": []
+  }
+]
+```
